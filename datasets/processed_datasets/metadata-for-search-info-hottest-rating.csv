@@ -1,0 +1,691 @@
+query name,rating_hottest,path to metadata
+Top 1000 Movies Dataset,1,omkarborikar/top-10000-popular-movies
+Top 1000 Movies Dataset,2,ritiksharma07/imdb-top-1000-movies-dataset
+Top 1000 Movies Dataset,3,inductiveanks/top-1000-imdb-movies-dataset
+Top 1000 Movies Dataset,4,umangdobariya1436/top-rated-movies-dataset
+Top 1000 Movies Dataset,5,sanjeetsinghnaik/top-1000-highest-grossing-movies
+Top 1000 Movies Dataset,6,harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+Top 1000 Movies Dataset,7,arthurchongg/imdb-top-1000-movies
+Top 1000 Movies Dataset,8,preetviradiya/imdb-movies-ratings-details
+Top 1000 Movies Dataset,9,mayankray/imdb-top-1000-movies-dataset
+Top 1000 Movies Dataset,10,akashkotal/imbd-top-1000-with-description
+Top 1000 Movies Dataset,11,anujsingh098/top-1000-imdb-movies
+Top 1000 Movies Dataset,12,hrishabhtiwari/imdb-top-1000-movies-dataset
+Top 1000 Movies Dataset,13,kuchhbhi/tmdm-top-rated-movies
+Top 1000 Movies Dataset,14,moazeldsokyx/imdb-top-10000-movies-dataset
+Top 1000 Movies Dataset,15,milanvaddoriya/imdb-movie-rating
+Top 1000 Movies Dataset,16,asaniczka/movie-identification-dataset-800-movies
+Top 1000 Movies Dataset,17,omarhanyy/imdb-top-1000
+Top 1000 Movies Dataset,18,irayane/imdbv1
+Top 1000 Movies Dataset,19,adityaghuse/imdb-top-1000
+Top 1000 Movies Dataset,20,ssivasantosh/imdb-in-top-1000-movies-feb-2022
+clothing reviews,1,nicapotato/womens-ecommerce-clothing-reviews
+mental health,1,imtkaggleteam/mental-health
+mental health,2,shariful07/student-mental-health
+mental health,3,osmi/mental-health-in-tech-survey
+mental health,4,bhavikjikadara/mental-health-dataset
+mental health,5,programmerrdai/mental-health-dataset
+mental health,6,reihanenamdari/mental-health-corpus
+mental health,7,catherinerasgaitis/mxmh-survey-results
+mental health,8,twinkle0705/mental-health-and-suicide-rates
+mental health,9,elvis23/mental-health-conversational-data
+mental health,10,narendrageek/mental-health-faq-for-chatbot
+mental health,11,anth7310/mental-health-in-the-tech-industry
+mental health,12,thedevastator/medical-student-mental-health
+mental health,13,divaniazzahra/mental-health-dataset
+mental health,14,thedevastator/nlp-mental-health-conversations
+mental health,15,thedevastator/uncover-global-trends-in-mental-health-disorder
+mental health,16,amirhoseinmousavian/mental-health
+mental health,17,hamjashaikh/mental-health-detection-dataset
+mental health,18,osmi/mental-health-in-tech-2016
+mental health,19,jiscecseaiml/mental-health-dataset
+mental health,20,michellevp/predicting-anxiety-in-mental-health-data
+dataset related to mental health,1,narendrageek/mental-health-faq-for-chatbot
+dataset related to mental health,2,bhavikjikadara/mental-health-dataset
+dataset related to mental health,3,thedevastator/uncover-global-trends-in-mental-health-disorder
+dataset related to mental health,4,kreeshrajani/human-stress-prediction
+dataset related to mental health,5,thedevastator/nlp-mental-health-conversations
+dataset related to mental health,6,rifkaregmi/usa-mental-health-dataset
+dataset related to mental health,7,michellevp/predicting-anxiety-in-mental-health-data
+dataset related to mental health,8,thedevastator/medical-student-mental-health
+dataset related to mental health,9,cdc/national-health-and-nutrition-examination-survey
+dataset related to mental health,10,aunanya875/suicidal-tweet-detection-dataset
+dataset related to mental health,11,mirzahasnine/heart-disease-dataset
+dataset related to mental health,12,jiscecseaiml/mental-health-dataset
+dataset related to mental health,13,luckybro/mental-health-search-term
+dataset related to mental health,14,bhaveshmisra/heart-disease-indicators
+dataset related to mental health,15,mdismielhossenabir/psychosocial-dimensions-of-student-life
+dataset related to mental health,16,emirhanai/city-happiness-index-2024
+dataset related to mental health,17,michellevp/mental-health-dataset-bipolar
+dataset related to mental health,18,thedevastator/amod-mental-health-counseling-conversations-data
+dataset related to mental health,19,thedevastator/phq-9-depression-assessment
+dataset related to mental health,20,akashnath29/lung-cancer-dataset
+emotion detection and sentiment classification,1,pashupatigupta/emotion-detection-from-text
+emotion detection and sentiment classification,2,williamscott701/memotion-dataset-7k
+emotion detection and sentiment classification,3,arashnic/7-nlp-tasks-with-tweets
+emotion detection and sentiment classification,4,prajwalkanade/sentiment-analysis-word-lists-dataset
+emotion detection and sentiment classification,5,mostafanofal/two-million-rows-egyptian-datasets
+emotion detection and sentiment classification,6,subhajournal/tweet-sentiment-and-emotion-analysis
+emotion detection and sentiment classification,7,thedevastator/tweeteval-a-multi-task-classification-benchmark
+emotion detection and sentiment classification,8,anil1055/turkish-tweet-dataset
+emotion detection,1,ananthu017/emotion-detection-fer
+emotion detection,2,pashupatigupta/emotion-detection-from-text
+emotion detection,3,tapakah68/facial-emotion-recognition
+emotion detection,4,jayeshrohansingh/emotion-detection-dataset
+emotion detection,5,simaanjali/emotion-analysis-based-on-text
+emotion detection,6,mansourehk/shemo-persian-speech-emotion-detection-database
+emotion detection,7,abhisheksingh016/machine-model-for-emotion-detection
+emotion detection,8,jarvis11/text-dataset-for-text-emotion-detection
+emotion detection,9,ritika0111/emotion-detection-dataset
+emotion detection,10,maneesh99/emotionhappy-detection-image-dataset
+emotion detection,11,bravo03/facial-detection-keypoints
+emotion detection,12,suso172/arabic-natural-audio-dataset
+emotion detection,13,a13x10/basic-arabic-vocal-emotions-dataset
+emotion detection,14,anil1055/turkish-tweet-dataset
+emotion detection,15,amitpant7/nepali-celeb-localized-face-dataset
+emotion detection,16,rohitzaman/gender-age-and-emotion-detection-from-voice
+emotion detection,17,somnath796/detect-emotions-of-your-favorite-toons
+emotion detection,18,fardinrangrezz/emotion-detection
+emotion detection,19,tapakah68/emotions-on-audio-dataset
+emotion detection,20,praneshchowdhury/discussion-group-message-whats-app
+twitter sentiment classification,1,kazanova/sentiment140
+twitter sentiment classification,2,jp797498e/twitter-entity-sentiment-analysis
+twitter sentiment classification,3,nelgiriyewithana/emotions
+twitter sentiment classification,4,yasserh/twitter-tweets-sentiment-dataset
+twitter sentiment classification,5,infamouscoder/mental-health-social-media
+twitter sentiment classification,6,augustop/portuguese-tweets-for-sentiment-analysis
+twitter sentiment classification,7,paakhim10/tweets-and-engagement-metrics
+twitter sentiment classification,8,ashkhagan/smile-twitter-emotion-dataset
+twitter sentiment classification,9,arunavakrchakraborty/covid19-twitter-dataset
+twitter sentiment classification,10,thedevastator/hate-speech-and-offensive-language-detection
+twitter sentiment classification,11,saurabhshahane/twitter-sentiment-dataset
+twitter sentiment classification,12,williamscott701/memotion-dataset-7k
+twitter sentiment classification,13,raj713335/twittesentimentanalysis
+twitter sentiment classification,14,borhanitrash/twitter-financial-news-sentiment-dataset
+twitter sentiment classification,15,bhavikjikadara/emotions-dataset
+twitter sentiment classification,16,arashnic/7-nlp-tasks-with-tweets
+twitter sentiment classification,17,datatattle/covid-19-nlp-text-classification
+twitter sentiment classification,18,seriousran/appletwittersentimenttexts
+twitter sentiment classification,19,farisai/twitter-black-panther
+twitter sentiment classification,20,cosmos98/twitter-and-reddit-sentimental-analysis-dataset
+traffic congestion dataset,1,fedesoriano/traffic-prediction-dataset
+traffic congestion dataset,2,hasibullahaman/traffic-prediction-dataset
+traffic congestion dataset,3,yusufberksardoan/traffic-detection-project
+traffic congestion dataset,4,stoney71/new-york-city-transport-statistics
+traffic congestion dataset,5,hmavrodiev/london-bike-sharing-dataset
+traffic congestion dataset,6,sreekargv/bike-rentals
+traffic congestion dataset,7,sobhanmoosavi/us-traffic-congestions-2016-2022
+traffic congestion dataset,8,suraj520/citytrans
+traffic congestion dataset,9,sdevkota007/vehicles-nepal
+traffic signs,1,valentynsichkar/traffic-signs-preprocessed
+traffic signs,2,pkdarabi/cardetection
+traffic signs,3,dmitryyemelyanov/chinese-traffic-signs
+traffic signs,4,flo2607/traffic-signs-classification
+traffic signs,5,valentynsichkar/traffic-signs-dataset-in-yolo-format
+traffic signs,6,tuanai/traffic-signs-dataset
+traffic signs,7,raduoprea/traffic-signs
+traffic signs,8,daniildeltsov/traffic-signs-gtsrb-plus-162-custom-classes
+traffic signs,9,saadhaxxan/germantrafficsigns
+traffic signs,10,nomihsa965/traffic-signs-dataset-mapillary-and-dfg
+traffic signs,11,imadmoussa/traffic-signs
+traffic signs,12,ahemateja19bec1025/traffic-sign-dataset-classification
+traffic signs,13,maitam/vietnamese-traffic-signs
+traffic signs,14,nezahatkk/traffic-signs-in-turkiye
+traffic signs,15,yusufberksardoan/traffic-detection-project
+traffic signs,16,abdallahwagih/traffic-signs-dataset
+traffic signs,17,sarangdilipjodh/indian-traffic-signs-prediction85-classes
+traffic signs,18,valentynsichkar/traffic-signs-1-million-images-for-classification
+traffic signs,19,dataclusterlabs/indian-sign-board-image-dataset
+traffic signs,20,dasmehdixtr/deneme-trafik
+traffic signs detection,1,pkdarabi/cardetection
+traffic signs detection,2,raduoprea/traffic-signs
+traffic signs detection,3,valentynsichkar/traffic-signs-preprocessed
+traffic signs detection,4,valentynsichkar/traffic-signs-dataset-in-yolo-format
+traffic signs detection,5,yusufberksardoan/traffic-detection-project
+traffic signs detection,6,pkdarabi/road-mark-detection
+traffic signs detection,7,valentynsichkar/images-for-testing
+traffic signs detection,8,jaidalmotra/road-sign-detection
+traffic signs detection,9,tuanai/traffic-signs-dataset
+traffic signs detection,10,harbhajansingh21/german-traffic-sign-dataset
+traffic signs detection,11,mohamedgobara/26-class-object-detection-dataset
+traffic signs detection,12,banddaniel/traffic-signs-detection-coco-annotations
+traffic signs detection,13,fhabibimoghaddam/road-sign-recognition
+traffic signs detection,14,saraparsaseresht/persian-traffic-sign-dataset-ptsd
+traffic signs detection,15,dataclusterlabs/indian-sign-board-image-dataset
+traffic signs detection,16,dmitryyemelyanov/chinese-traffic-signs-in-the-natural-scenes
+traffic signs detection,17,kaustubhrastogi17/traffic-signs-dataset-indian-roads
+traffic signs detection,18,datacarelabs/indian-traffic-sign-dataset
+traffic signs detection,19,prakharsinghchouhan/dataset-english
+traffic signs detection,20,dataclusterlabs/indian-signboard-image-dataset
+animals detection,1,antoreepjana/animals-detection-images-dataset
+animals detection,2,trainingdatapro/farm-animals-pigs-detection-dataset
+animals detection,3,biancaferreira/african-wildlife
+animals detection,4,sharansmenon/aquarium-dataset
+animals detection,5,valentynsichkar/traffic-signs-dataset-in-yolo-format
+animals detection,6,imtkaggleteam/pathogen-detection-salmonella-enterica
+animals detection,7,debasisdotcom/racoon-detection
+animals detection,8,jirkadaberger/zoo-animals
+animals detection,9,aalborguniversity/brackish-dataset
+animals detection,10,shivamb/underwater-trash-detection
+animals detection,11,perke986/face-mask-segmentation-dataset
+animals detection,12,mrlaurent/big-four
+animals detection,13,abbymorgan/penguins-vs-turtles
+animals detection,14,bardiaardakanian/voc0712
+animals detection,15,jigrubhatt/selfieimagedetectiondataset
+animals detection,16,crawford/cat-dataset
+animals detection,17,mikoajfish99/marine-animal-images
+animals detection,18,nbroad/fluorescent-neuronal-cells
+animals detection,19,yusufsyam/blue-ringed-octopus-dataset
+animals detection,20,brsdincer/wildfire-detection-image-data
+dog cat classification,1,ashfakyeafi/cat-dog-images-for-classification
+dog cat classification,2,sunilthite/cat-or-dog-image-classification
+dog cat classification,3,samuelcortinhas/cats-and-dogs-image-classification
+dog cat classification,4,mmoreaux/audio-cats-and-dogs
+dog cat classification,5,marquis03/cats-and-dogs
+dog cat classification,6,anirudhg15/mammals-classification
+dog cat classification,7,muniryadi/cat-vs-rabbit
+dog cat classification,8,mattop/ai-cat-and-dog-images-dalle-mini
+dog cat classification,9,mahmudulhaqueshawon/catcat
+dog cat classification,10,gracehephzibahm/animal-disease
+dog cat classification,11,willianoliveiragibin/animal-condition
+dog cat classification,12,bhavikjikadara/dog-and-cat-classification-dataset
+dog cat classification,13,saadpd/menwomen-classification
+dog cat classification,14,olgabelitskaya/art-pictogram
+dog cat classification,15,fusicfenta/cat-and-dog
+dog cat classification,16,utkarshsaxenadn/animal-image-classification-dataset
+dog cat classification,17,shawngano/gano-cat-breed-image-collection
+dog cat classification,18,sadikaljarif/cat-and-dog-images
+dog cat classification,19,kdsharmaai/cat-and-dog-1k-images-dataset
+dog cat classification,20,googolples/cat-dog-images
+image classification,1,puneet6060/intel-image-classification
+image classification,2,gpiosenka/100-bird-species
+image classification,3,phucthaiv02/butterfly-image-classification
+image classification,4,gpiosenka/sports-classification
+image classification,5,mahmoudreda55/satellite-image-classification
+image classification,6,gpiosenka/cards-image-datasetclassification
+image classification,7,mdwaquarazam/agricultural-crops-image-classification
+image classification,8,balabaskar/tom-and-jerry-image-classification
+image classification,9,samuelcortinhas/cats-and-dogs-image-classification
+image classification,10,shrutisaxena/yoga-pose-image-classification-dataset
+image classification,11,gpiosenka/butterfly-images40-species
+image classification,12,andrewmvd/doom-crossing
+image classification,13,pkdarabi/bone-break-classification-image-dataset
+image classification,14,yaswanthgali/sport-celebrity-image-classification
+image classification,15,gpiosenka/time-image-datasetclassification
+image classification,16,sidharkal/sports-image-classification
+image classification,17,mdwaquarazam/microorganism-image-classification
+image classification,18,samuelcortinhas/apples-or-tomatoes-image-classification
+image classification,19,harishkumardatalab/food-image-classification-dataset
+image classification,20,ichhadhari/indian-birds
+vehicle accidents dataset,1,shivamb/vehicle-claim-fraud-detection
+vehicle accidents dataset,2,tsiaras/uk-road-safety-accidents-and-vehicles
+vehicle accidents dataset,3,daveianhickey/2000-16-traffic-flow-england-scotland-wales
+vehicle accidents dataset,4,taeefnajib/used-car-price-prediction-dataset
+vehicle accidents dataset,5,benoit72/uk-accidents-10-years-history-with-many-variables
+vehicle accidents dataset,6,juhibhojani/road-accidents-data-2022
+vehicle accidents dataset,7,infernape/fast-furious-and-insured
+vehicle accidents dataset,8,tanishqdublish/urban-traffic-density-in-cities
+vehicle accidents dataset,9,snehilsanyal/construction-site-safety-image-dataset-roboflow
+vehicle accidents dataset,10,abhinavshaw09/road-accidents-data
+vehicle accidents dataset,11,nextmillionaire/car-accident-dataset
+vehicle accidents dataset,12,rajdalsaniya/pothole-detection-dataset
+vehicle accidents dataset,13,shalukaimbs/road-accident-data-by-vehicle-type
+vehicle accidents dataset,14,thedevastator/tesla-accident-fatalities-analysis-and-statistic
+vehicle accidents dataset,15,pereprosov/road-accidents-in-the-czech-republic
+vehicle accidents dataset,16,thedevastator/fatal-traffic-accidents-in-arizona-2012-2016
+vehicle accidents dataset,17,rounak041993/traffic-violations-in-maryland-county
+vehicle accidents dataset,18,new-york-city/nypd-motor-vehicle-collisions
+vehicle accidents dataset,19,willianoliveiragibin/road-accident-casualties
+vehicle accidents dataset,20,ibriiee/tesla-autonomous-deaths-data-updated-2023
+A Comprehensive Collection of Anime Information,1,dbdmobile/myanimelist-dataset
+A Comprehensive Collection of Anime Information,2,nikhil1e9/myanimelist-anime-and-manga
+A Comprehensive Collection of Anime Information,3,lorentzyeung/all-japanese-anime-titles-in-imdb
+A Comprehensive Collection of Anime Information,4,unibahmad/anime-dataset
+A Comprehensive Collection of Anime Information,5,rishabhbarman/most-popular-anime-of-all-time
+A Comprehensive Collection of Anime Information,6,junaidk0012/anime-dataset-2024
+A Comprehensive Collection of Anime Information,7,gauriket/erenjeager
+A Comprehensive Collection of Anime Information,8,vaipant/anime-data-from-1970-to-2024
+A Comprehensive Collection of Anime Information,9,bhavyadhingra00020/complete-pokemon-dataset-9th-gen-img-tabular
+A Comprehensive Collection of Anime Information,10,ambaliyagati/spotify-dataset-for-playing-around-with-sql
+A Comprehensive Collection of Anime Information,11,thiagoamancio/full-pokemons-and-moves-datasets
+anime recommendation system,1,vishalmane109/anime-recommendations-database
+anime recommendation system,2,CooperUnion/anime-recommendations-database
+anime recommendation system,3,vishalmane10/anime-dataset-2022
+anime recommendation system,4,hernan4444/anime-recommendation-database-2020
+anime recommendation system,5,snehaanbhawal/anime-list-for-recommendation-system-june-2021
+anime recommendation system,6,azathoth42/myanimelist
+anime recommendation system,7,tarundalal/anime-dataset
+anime recommendation system,8,svanoo/myanimelist-dataset
+anime recommendation system,9,lorentzyeung/all-japanese-anime-titles-in-imdb
+anime recommendation system,10,hernan4444/animeplanet-recommendation-database-2020
+anime recommendation system,11,tarundalal/animated-movies-imdb
+anime recommendation system,12,stoicstatic/mal-top-10k-anime-details
+anime recommendation system,13,maulipatel18/anime-content-based-recommendation-system-datasets
+anime recommendation system,14,noiruuuu/anime-recommendations-database-vol2
+anime,1,CooperUnion/anime-recommendations-database
+anime,2,splcher/animefacedataset
+anime,3,hernan4444/anime-recommendation-database-2020
+anime,4,soumikrakshit/anime-faces
+anime,5,dbdmobile/myanimelist-dataset
+anime,6,vishalmane10/anime-dataset-2022
+anime,7,canggih/anime-data-score-staff-synopsis-and-genre
+anime,8,mylesoneill/tagged-anime-illustrations
+anime,9,prasoonkottarathil/gananime-lite
+anime,10,alamson/safebooru
+anime,11,tarundalal/anime-quotes
+anime,12,tarundalal/anime-dataset
+anime,13,omikumarmakadia2121/top-anime
+anime,14,marlesson/myanimelist-dataset-animes-profiles-reviews
+anime,15,jef1056/anime-subtitles
+anime,16,aliibrahim10/anime-ratings
+anime,17,arnavvvvv/anime-dataset
+anime,18,aditya2803/one-piece-anime
+anime,19,harits/anime-database-2022
+anime,20,bhavyadhingra00020/top-anime-dataset-2024
+stock market time series,1,rohanrao/nifty50-stock-market-data
+stock market time series,2,jainilcoder/netflix-stock-price-prediction
+stock market time series,3,andrewmvd/sp-500-stocks
+stock market time series,4,debashis74017/stock-market-data-nifty-100-stocks-5-min-data
+stock market time series,5,arashnic/time-series-forecasting-with-yahoo-stock-price
+stock market time series,6,omermetinn/tweets-about-the-top-companies-from-2015-to-2020
+stock market time series,7,jillanisofttech/tesla-stock-price
+loan risk assessment,1,rohit265/loan-approval-dataset
+loan risk assessment,2,venkatasubramanian/credit-eda-case-study
+loan risk assessment,3,nanditapore/credit-risk-analysis
+Hand Gesture Recognition,1,gti-upm/leapgestrecog
+Hand Gesture Recognition,2,datamunge/sign-language-mnist
+Hand Gesture Recognition,3,roobansappani/hand-gesture-recognition
+Hand Gesture Recognition,4,kapitanov/hagrid
+Hand Gesture Recognition,5,aryarishabh/hand-gesture-recognition-dataset
+Hand Gesture Recognition,6,ash2703/handsignimages
+Hand Gesture Recognition,7,muhammadkhalid/sign-language-for-numbers
+Hand Gesture Recognition,8,muhammadkhalid/sign-language-for-alphabets
+Hand Gesture Recognition,9,gti-upm/multimodhandgestrec
+Hand Gesture Recognition,10,anoshal/hand-gesture-recognition-dataset-one-hand
+Hand Gesture Recognition,11,pulavendranselvaraj/multiclass-hand-gesture-recognition
+Hand Gesture Recognition,12,shivamgoyal1899/hand-gesture-recognition-database
+Hand Gesture Recognition,13,mangipudiprashanth/hand-gesture-recognition
+Hand Gesture Recognition,14,tapakah68/hand-gesture-recognition-dataset
+Hand Gesture Recognition,15,kshitij192/action-recognition
+Hand Gesture Recognition,16,toxicmender/20bn-jester
+Hand Gesture Recognition,17,innominate817/hagrid-sample-30k-384p
+Hand Gesture Recognition,18,omertalhaturkmen/sample-outputs
+Hand Gesture Recognition,19,gti-upm/depthgestrecog
+Hand Gesture Recognition,20,ahtshamzafar/mmwave-radar-dataset-for-hand-gesture-recognition
+customer reviews,1,vigneshwarsofficial/reviews
+customer reviews,2,olistbr/brazilian-ecommerce
+customer reviews,3,cynthiarempel/amazon-us-customer-reviews-dataset
+customer reviews,4,nicapotato/womens-ecommerce-clothing-reviews
+customer reviews,5,nelgiriyewithana/mcdonalds-store-reviews
+customer reviews,6,anshtanwar/top-200-trending-books-with-reviews
+customer reviews,7,bhavikardeshna/amazon-customerreviews-polarity
+customer reviews,8,sid321axn/amazon-alexa-reviews
+customer reviews,9,eswarchandt/amazon-music-reviews
+customer reviews,10,niraliivaghani/flipkart-product-customer-reviews-dataset
+customer reviews,11,skillsmuggler/amazon-ratings
+customer reviews,12,harshalhonde/starbucks-reviews-dataset
+customer reviews,13,d4rklucif3r/restaurant-reviews
+time series analysis,1,vijayvvenkitesh/microsoft-stock-time-series-analysis
+time series analysis,2,kandij/electric-production
+time series analysis,3,ashfakyeafi/air-passenger-data-for-time-series-analysis
+time series analysis,4,uciml/electric-power-consumption-data-set
+time series analysis,5,prashant111/dataset
+time series analysis,6,arashnic/cinema-ticket
+time series analysis,7,fedesoriano/electric-power-consumption
+time series analysis,8,varsharam/walmart-sales-dataset-of-45stores
+time series analysis,9,mvsfnig/time-series-pam
+time series analysis,10,gauravsahani/timeseries-analysis-for-whether-dataset
+time series analysis,11,twinkle0705/state-wise-power-consumption-in-india
+time series analysis,12,prakharprasad/time-series-data-1
+time series analysis,13,rafsunahmad/apple-stock-price
+time series analysis,14,atulanandjha/national-stock-exchange-time-series
+time series analysis,15,surajjha101/analyzing-and-prediction-of-bitcoin-pricing
+time series analysis,16,rohitsahoo/sales-forecasting
+time series analysis,17,suyashlakhani/apple-stock-prices-20152020
+time series analysis,18,jasleensondhi/decomposition-in-time-series-analysis
+time series analysis,19,sujithmandala/rainfall-dataset-for-simple-time-series-analysis
+time series analysis,20,ddosad/dummy-truck-sales-for-time-series
+facial recognition,1,tapakah68/facial-emotion-recognition
+facial recognition,2,apollo2506/facial-recognition-dataset
+facial recognition,3,quadeer15sh/lfw-facial-recognition
+facial recognition,4,sujaykapadnis/emotion-recognition-dataset
+facial recognition,5,chiragsoni/ferdata
+facial recognition,6,juniorbueno/opencv-facial-recognition-lbph
+facial recognition,7,debanga/facial-expression-recognition-challenge
+facial recognition,8,hereisburak/pins-face-recognition
+facial recognition,9,ashishpatel26/facial-expression-recognitionferchallenge
+facial recognition,10,rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+facial recognition,11,shawon10/ckplus
+news,1,rmisra/news-category-dataset
+news,2,hacker-news/hacker-news
+news,3,gpreda/bbc-news
+news,4,therohk/million-headlines
+news,5,sunnysai12345/news-summary
+news,6,algord/fake-news
+news,7,hacker-news/hacker-news-posts
+news,8,saurabhshahane/fake-news-classification
+news,9,therohk/india-headlines-news-dataset
+news,10,rmisra/news-headlines-dataset-for-sarcasm-detection
+news,11,pariza/bbc-news-summary
+news,12,hassanamin/textdb3
+news,13,bhavikjikadara/fake-news-detection
+news,14,uciml/news-aggregator-dataset
+news,15,asad1m9a9h6mood/news-articles
+news,16,ankurzing/sentiment-analysis-for-financial-news
+news,17,mrisdal/fake-news
+news,18,shawkyelgendy/fake-news-football
+news,19,hgultekin/bbcnewsarchive
+news,20,aaron7sun/stocknews
+fake news detection,1,bhavikjikadara/fake-news-detection
+fake news detection,2,jruvika/fake-news-detection
+fake news detection,3,vishakhdapat/fake-news-detection
+fake news detection,4,rmisra/news-headlines-dataset-for-sarcasm-detection
+fake news detection,5,jainpooja/fake-news-detection
+fake news detection,6,clmentbisaillon/fake-and-real-news-dataset
+fake news detection,7,tasnimniger/fake-news-detection-data
+fake news detection,8,emineyetm/fake-news-detection-datasets
+sales dataset,1,karkavelrajaj/amazon-sales-dataset
+sales dataset,2,rohitsahoo/sales-forecasting
+sales dataset,3,thedevastator/unlock-profits-with-e-commerce-sales-data
+sales dataset,4,mohammadtalib786/retail-sales-dataset
+sales dataset,5,heemalichaudhari/adidas-sales-dataset
+sales dataset,6,sidtwr/videogames-sales-dataset
+sales dataset,7,lokeshparab/amazon-products-dataset
+sales dataset,8,yasserh/advertising-sales-dataset
+sales dataset,9,nextmillionaire/pizza-sales-dataset
+sales dataset,10,laibaanwer/superstore-sales-dataset
+sales dataset,11,akashdeepkuila/bakery
+sales dataset,12,yaminh/smartphone-sale-dataset
+sales dataset,13,redwankarimsony/shampoo-saled-dataset
+sales dataset,14,shreyanshverma27/online-sales-dataset-popular-marketplace-data
+sales dataset,15,mehmettahiraslan/customer-shopping-dataset
+sales dataset,16,mohdshahnawazaadil/sales-prediction-dataset
+sales dataset,17,mohamedharris/supermart-grocery-sales-retail-analytics-dataset
+sales dataset,18,tanayatipre/store-sales-forecasting-dataset
+sales dataset,19,saadharoon27/diwali-sales-dataset
+sales dataset,20,suraj520/dairy-goods-sales-dataset
+indonesian Spices Dataset,1,albertnathaniel12/indonesian-spices-dataset
+indonesian Spices Dataset,2,canggih/indonesian-food-recipes
+indonesian Spices Dataset,3,faldoae/padangfood
+Spices image Dataset,1,faldoae/padangfood
+Spices image Dataset,2,kritirathi/indian-food-dataset-with
+Spices image Dataset,3,albertnathaniel12/indonesian-spices-dataset
+Spices image Dataset,4,araraltawil/arabic-food-101
+Spices image Dataset,5,lazaro97/peruvian-food-reviews
+food classification,1,harishkumardatalab/food-image-classification-dataset
+food classification,2,l33tc0d3r/indian-food-classification
+food classification,3,utkarshsaxenadn/fast-food-classification-dataset
+food classification,4,bjoernjostein/food-classification
+food classification,5,imbikramsaha/food11
+food classification,6,karmukilan/foodclassification
+food classification,7,jvageesh11/foodies-ai-food-image-classification-challenge
+food classification,8,praveengovi/emotions-dataset-for-nlp
+food classification,9,sadikaljarif/food-vs-non-food-image-classification
+food classification,10,muratkokludataset/rice-image-dataset
+food classification,11,teejmahal20/airline-passenger-satisfaction
+food classification,12,muratkokludataset/pistachio-dataset
+food classification,13,peacehegemony/image-classification-people-and-food
+food classification,14,muratkokludataset/pistachio-image-dataset
+food classification,15,carlosrunner/pizza-not-pizza
+food classification,16,muratkokludataset/rice-msc-dataset
+food classification,17,muratkokludataset/rice-dataset-commeo-and-osmancik
+food classification,18,synysterjeet/food-classification
+food classification,19,gauravduttakiit/food-image-classification
+food classification,20,rahulbajaj046/food-classification
+question answering,1,stanfordu/stanford-question-answering-dataset
+question answering,2,ananthu017/squad-csv-format
+question answering,3,bhavikardeshna/visual-question-answering-computer-vision-nlp
+question answering,4,validmodel/the-natural-questions-dataset
+question answering,5,imoore/60k-stack-overflow-questions-with-quality-rate
+question answering,6,sauravmaheshkar/huggingface-question-answering-models
+Red Wine Quality,1,uciml/red-wine-quality-cortez-et-al-2009
+Red Wine Quality,2,lovishbansal123/red-wine-quality
+Red Wine Quality,3,ruthgn/wine-quality-data-set-red-white-wine
+Red Wine Quality,4,pritsheta/redwinequality
+Red Wine Quality,5,yasserh/wine-quality-dataset
+Red Wine Quality,6,piyushgoyal443/red-wine-dataset
+Red Wine Quality,7,brendan45774/wine-quality
+Red Wine Quality,8,fedesoriano/spanish-wine-quality-dataset
+Red Wine Quality,9,ghassenkhaled/wine-quality-data
+Red Wine Quality,10,joebeachcapital/wine-quality
+Red Wine Quality,11,rajyellow46/wine-quality
+Red Wine Quality,12,zhouyuanhang/red-wine-quality5-folds
+Red Wine Quality,13,piyushagni5/white-wine-quality
+Red Wine Quality,14,saigeethac/red-and-white-wine-quality-datasets
+Red Wine Quality,15,turhancankargin/wine-quality-red-and-white
+Red Wine Quality,16,danielpanizzo/wine-quality
+Red Wine Quality,17,deepikaarikesavan/red-wine-quality
+Red Wine Quality,18,xuzihe2010/wine-quality-red
+Red Wine Quality,19,arnavs19/wine-quality-uci-machine-learning-repository
+Red Wine Quality,20,gauravduttakiit/white-wine-quality
+house prices dataset,1,lespin/house-prices-dataset
+house prices dataset,2,howisusmanali/house-prices-2023-dataset
+house prices dataset,3,rangalamahesh/house-prices-dataset
+house prices dataset,4,harlfoxem/housesalesprediction
+house prices dataset,5,nelgiriyewithana/new-york-housing-market
+house prices dataset,6,anmolkumar/house-price-prediction-challenge
+house prices dataset,7,abdullahiyunus/nigeria-houses-and-prices-dataset
+house prices dataset,8,soylevbeytullah/house-prices-dataset
+house prices dataset,9,bryan2k19/dutch-house-prices-dataset
+house prices dataset,10,muhammadbinimran/housing-price-prediction-data
+house prices dataset,11,yasserh/housing-prices-dataset
+house prices dataset,12,tawfikelmetwally/chicago-house-price
+house prices dataset,13,ruchi798/housing-prices-in-metropolitan-areas-of-india
+house prices dataset,14,fedesoriano/the-boston-houseprice-data
+house prices dataset,15,juhibhojani/house-price
+house prices dataset,16,ahmedshahriarsakib/usa-real-estate-dataset
+house prices dataset,17,rsizem2/house-prices-ames-cleaned-dataset
+house prices dataset,18,camnugent/california-housing-prices
+house prices dataset,19,justinas/housing-in-london
+house prices dataset,20,swahajraza/karachi-house-prices-dataset-2023
+chest X-Ray images,1,paultimothymooney/chest-xray-pneumonia
+chest X-Ray images,2,tolgadincer/labeled-chest-xray-images
+chest X-Ray images,3,tawsifurrahman/covid19-radiography-database
+chest X-Ray images,4,nih-chest-xrays/data
+chest X-Ray images,5,andyczhao/covidx-cxr2
+chest X-Ray images,6,pcbreviglieri/pneumonia-xray-images
+chest X-Ray images,7,praveengovi/coronahack-chest-xraydataset
+chest X-Ray images,8,nih-chest-xrays/sample
+chest X-Ray images,9,sachinkumar413/covid-pneumonia-normal-chest-xray-images
+chest X-Ray images,10,vbookshelf/pneumothorax-chest-xray-images-and-masks
+chest X-Ray images,11,alifrahman/covid19-chest-xray-image-dataset
+chest X-Ray images,12,tawsifurrahman/tuberculosis-tb-chest-xray-dataset
+chest X-Ray images,13,preetviradiya/covid19-radiography-dataset
+chest X-Ray images,14,bachrr/covid-chest-xray
+chest X-Ray images,15,raddar/chest-xrays-indiana-university
+chest X-Ray images,16,hmchuong/xray-bone-shadow-supression
+chest X-Ray images,17,nikhilpandey360/chest-xray-masks-and-labels
+chest X-Ray images,18,prashant268/chest-xray-covid19-pneumonia
+chest X-Ray images,19,alifrahman/chestxraydataset
+chest X-Ray images,20,andrewmvd/pediatric-pneumonia-chest-xray
+books,1,jealousleopard/goodreadsbooks
+books,2,saurabhbagchi/books-dataset
+books,3,mohamedbakhet/amazon-books-reviews
+books,4,drahulsingh/best-selling-books
+books,5,dylanjcastillo/7k-books-with-metadata
+books,6,abdallahwagih/books-dataset
+books,7,sootersaalu/amazon-top-50-bestselling-books-2009-2019
+books,8,deepcontractor/marvel-comic-books
+books,9,elvinrustam/books-dataset
+books,10,khushikhushikhushi/amazon-bestselling-books
+books,11,dareenalharthi/jamalon-arabic-books-dataset
+books,12,chhavidhankhar11/amazon-books-dataset
+books,13,asaniczka/amazon-kindle-books-dataset-2023-130k-books
+books,14,die9origephit/amazon-data-science-books
+books,15,thedevastator/books-sales-and-ratings
+books,16,mdhamani/goodreads-books-100k
+books,17,thomaskonstantin/top-270-rated-computer-science-programing-books
+books,18,shilpikulshrestha/books-sold-dataset
+books,19,tanmay43sharma/goodreads-popular-books-dataset
+books,20,ishikajohari/best-books-10k-multi-genre-data
+sarcasm detection,1,rmisra/news-headlines-dataset-for-sarcasm-detection
+sarcasm detection,2,saurabhbagchi/sarcasm-detection-through-nlp
+sarcasm detection,3,mikahama/the-best-sarcasm-annotated-dataset-in-spanish
+sarcasm detection,4,prashantpathak244/mustard-multimodal-sarcasm-detection-dataset
+sarcasm detection,5,rmisra/news-category-dataset
+sarcasm detection,6,kashnitsky/mlcourse
+sarcasm detection,7,harrotuin/dutch-news-headlines
+sarcasm detection,8,rmisra/imdb-spoiler-dataset
+sarcasm detection,9,rmisra/clothing-fit-dataset-for-size-recommendation
+sarcasm detection,10,pragyakatyayan/hindi-tweets-dataset-for-sarcasm-detection
+sarcasm detection,11,rmisra/politifact-fact-check-dataset
+sarcasm detection,12,tanishas2024/sarcasm-detection
+sarcasm detection,13,farisalahmdi/arabic-youtube-comments-by-khalaya
+sarcasm detection,14,khotijahs1/data-train
+sarcasm detection,15,mathurinache/pretrained-models-emotion-recognition
+sarcasm detection,16,williamscott701/memotion-dataset-7k
+sarcasm detection,17,talalhassan141/sarcasm-detection
+sarcasm detection,18,adityaraghuvanshi999/semeval22-sarcasm-detection
+sarcasm detection,19,sakibapon/banglasarc
+sarcasm detection,20,anasqais/news-headlines-dataset-for-sarcasm-detection
+easy dataset,1,oddrationale/mnist-in-csv
+easy dataset,2,sujithmandala/credit-score-classification-dataset
+easy dataset,3,yichengs/captioned-moving-mnist-dataset-easy-version
+easy dataset,4,yusufemir/lemon-quality-dataset
+easy dataset,5,rohitsahoo/sales-forecasting
+easy dataset,6,mbkinaci/fruit-images-for-object-detection
+easy dataset,7,aungpyaeap/supermarket-sales
+easy dataset,8,silenttalk/bitcoin-prices-over-2-hours
+easy dataset,9,midhundasl/co2-emission-of-cars-dataset
+easy dataset,10,altavish/boston-housing-dataset
+easy dataset,11,mayurdalvi/simple-linear-regression-placement-data
+easy dataset,12,rubenssjr/brasilian-houses-to-rent
+easy dataset,13,surajjha101/cuisine-rating
+easy dataset,14,sovannt/world-bank-youth-unemployment
+easy dataset,15,rodolfofigueroa/spotify-12m-songs
+easy dataset,16,benedictwilkinsai/mnist-hd5f
+easy dataset,17,anshulmehtakaggl/chess-pieces-detection-images-dataset
+easy dataset,18,santoshd3/bank-customers
+easy dataset,19,shrutisaxena/yoga-pose-image-classification-dataset
+easy dataset,20,starbucks/starbucks-menu
+mask detection,1,andrewmvd/face-mask-detection
+mask detection,2,vijaykumar1799/face-mask-detection
+mask detection,3,ashishjangra27/face-mask-12k-images-dataset
+mask detection,4,omkargurav/face-mask-dataset
+mask detection,5,wobotintelligence/face-mask-detection-dataset
+mask detection,6,sshikamaru/face-mask-detection
+mask detection,7,prithwirajmitra/covid-face-mask-detection-dataset
+mask detection,8,niharika41298/withwithout-mask
+mask detection,9,moussaid/mask-detection
+mask detection,10,sumansid/facemask-dataset
+mask detection,11,mloey1/medical-face-mask-detection-dataset
+mask detection,12,tapakah68/medical-masks-part1
+mask detection,13,harry418/dataset-for-mask-detection
+mask detection,14,arunrk7/surface-crack-detection
+mask detection,15,humansintheloop/medical-mask-detection
+mask detection,16,amerii/spacenet-7-change-detection-chips-and-masks
+mask detection,17,aneerbanchakraborty/face-mask-detection-data
+mask detection,18,sanknn/facemask-detection
+mask detection,19,snehilsanyal/construction-site-safety-image-dataset-roboflow
+mask detection,20,jamesnogra/face-mask-usage
+medical mask detection,1,mloey1/medical-face-mask-detection-dataset
+medical mask detection,2,humansintheloop/medical-mask-detection
+medical mask detection,3,balraj98/cvcclinicdb
+medical mask detection,4,tawsifurrahman/covid19-radiography-database
+medical mask detection,5,abdallahwagih/retina-blood-vessel
+medical mask detection,6,anasmohammedtahir/covidqu
+medical mask detection,7,debeshjha1/kvasirseg
+medical mask detection,8,wobotintelligence/face-mask-detection-dataset
+medical mask detection,9,shrirajchauhan/face-mask-detection-medical-and-nonmedical-masks
+medical mask detection,10,trngvhong/mfvt-dataset
+medical mask detection,11,zeeshanahmed13/intraretinal-cystoid-fluid
+medical mask detection,12,ignaciorlando/ussimandsegm
+medical mask detection,13,trainingdatapro/portrait-and-30-photos-test
+medical mask detection,14,debeshjha1/kvasirinstrument
+medical mask detection,15,tapakah68/medical-masks-part1
+medical mask detection,16,debeshjha1/endotect-dataset
+medical mask detection,17,yoctoman/shcxr-lung-mask
+medical mask detection,18,gooogr/yolo-medical-mask-dataset
+medical mask detection,19,debeshjha1/medico-automatic-polyp-segmentation-challenge
+medical mask detection,20,yannicksteph/githut-rsna-miccai-brain-tumor-classification-ai
+car object detection,1,sshikamaru/car-object-detection
+car object detection,2,trainingdatapro/cars-video-object-tracking
+car object detection,3,owaiskhan9654/car-person-v2-roboflow
+car object detection,4,andy8744/playing-cards-object-detection-dataset
+car object detection,5,alincijov/self-driving-cars
+car object detection,6,programmerrdai/find-the-car-object-detection
+car object detection,7,aslanahmedov/number-plate-detection
+car object detection,8,boulahchichenadir/cars-object-detection
+car object detection,9,gunhcolab/object-detection-dataset-standard-52card-deck
+car object detection,10,andrewteplov/car-object-detection
+car object detection,11,ibrahimalobaid/object-detection-carla-self-driving-car
+car object detection,12,suraj520/carla-object-detection-dataset
+car object detection,13,trainingdatapro/roads-segmentation-dataset
+car object detection,14,mohamedgobara/26-class-object-detection-dataset
+car object detection,15,boukraailyesali/traffic-road-object-detection-dataset-using-yolo
+car object detection,16,trainingdatapro/license-plates-1-209-438-ocr-plates
+car object detection,17,abdallahwagih/cars-detection
+car object detection,18,andrewteplov/car-plate-object-detetcion
+car object detection,19,tapakah68/videos-around-cars
+car object detection,20,intelecai/car-segmentation
+real or fake image,1,ciplab/real-and-fake-face-detection
+real or fake image,2,birdy654/cifake-real-and-ai-generated-synthetic-images
+real or fake image,3,manjilkarki/deepfake-and-real-images
+real or fake image,4,jeffheaton/mcfakes
+real or fake image,5,uditsharma72/real-vs-fake-faces
+real or fake image,6,kidonpark1023/fake-or-real-dataset
+real or fake image,7,undersc0re/fake-vs-real-face-classification
+real or fake image,8,yewtsing/pretty-face
+real or fake image,9,mrisdal/fact-checking-facebook-politics-pages
+real or fake image,10,johnallen11/image-identification-fake-or-real
+real or fake image,11,guybarash/israeli-parliament-knesset-members
+real or fake image,12,krpurba/fakeauthentic-user-instagram
+real or fake image,13,datascientist97/banknote-authentication-dataset-2024
+real or fake image,14,phunghieu/deepfake-detection-faces-part-0-0
+real or fake image,15,tapakah68/generated-usa-passeports-dataset
+real or fake image,16,mssomanna/indian-coin-images-dataset-incl-fake-coins
+real or fake image,17,trainingdatapro/generated-vietnamese-passeports-dataset
+real or fake image,18,trainingdatapro/asian-people-liveness-detection-video-dataset
+real or fake image,19,phunghieu/deepfake-detection-faces-part-3-0
+real or fake image,20,phunghieu/deepfake-detection-faces-part-0-1
+football players dataset,1,balabaskar/golden-foot-football-players-image-dataset
+football players dataset,2,khanghunhnguyntrng/football-players-transfer-fee-prediction-dataset
+football players dataset,3,maso0dahmed/football-players-data
+football players dataset,4,borhanitrash/football-players-detection-dataset
+football players dataset,5,secareanualin/football-events
+football players dataset,6,hugomathien/soccer
+football players dataset,7,davidcariboo/player-scores
+football players dataset,8,oles04/bundesliga-soccer-player
+football match,1,omikumarmakadia2121/football-match-winners
+football match,2,ricardomoya/football-matches-of-spanish-league
+football match,3,martj42/international-football-results-from-1872-to-2017
+text classification,1,datatattle/covid-19-nlp-text-classification
+text classification,2,saurabhshahane/ecommerce-text-classification
+text classification,3,kashnitsky/hierarchical-text-classification
+text classification,4,team-ai/spam-text-message-classification
+text classification,5,tanishqdublish/text-classification-documentation
+text classification,6,shivamb/legal-citation-text-classification
+text classification,7,alfathterry/bbc-full-text-document-classification
+text classification,8,sunilthite/text-document-classification-dataset
+text classification,9,falgunipatel19/biomedical-text-publication-classification
+text classification,10,thedevastator/sms-spam-collection-a-more-diverse-dataset
+text classification,11,tapakah68/email-spam-classification
+text classification,12,jensenbaxter/10dataset-text-document-classification
+text classification,13,kaushiksuresh147/the-social-dilemma-tweets
+text classification,14,shivamkushwaha/bbc-full-text-document-classification
+text classification,15,dipankarsrirag/topic-modelling-on-emails
+text classification,16,datatattle/email-classification-nlp
+text classification,17,hijest/genre-classification-dataset-imdb
+text classification,18,mikhailma/russian-social-media-text-classification
+text classification,19,pkdarabi/yektanet
+text classification,20,owaiskhan9654/pubmed-multilabel-text-classification
+classification,1,uciml/mushroom-classification
+classification,2,prathamtripathi/drug-classification
+classification,3,asdasdasasdas/garbage-classification
+classification,4,andrewmvd/fetal-health-classification
+classification,5,andrewmvd/cyberbullying-classification
+classification,6,uciml/glass
+classification,7,iabhishekofficial/mobile-price-classification
+classification,8,andrewmvd/leukemia-classification
+classification,9,puneet6060/intel-image-classification
+classification,10,hb20007/gender-classification
+classification,11,sshikamaru/fruit-recognition
+classification,12,techsash/waste-classification-data
+classification,13,hetulmehta/website-classification
+classification,14,uciml/zoo-animal-classification
+classification,15,parisrohan/credit-score-classification
+classification,16,nitishabharathi/scene-classification
+classification,17,marquis03/plants-classification
+classification,18,marquis03/flower-classification
+classification,19,gpiosenka/100-bird-species
+classification,20,sartajbhuvaji/brain-tumor-classification-mri
