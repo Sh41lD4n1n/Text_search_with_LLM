@@ -1,0 +1,43 @@
+{
+  "id": "joyshil0599/a-comprehensive-dataset-of-100k-amazon-products",
+  "id_no": 3386783,
+  "datasetSlugNullable": "a-comprehensive-dataset-of-100k-amazon-products",
+  "ownerUserNullable": "joyshil0599",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Amazon Product Dataset(100K+)",
+  "subtitleNullable": "100K+ Amazon products with price, description, and reviews",
+  "descriptionNullable": "The dataset titled **A Comprehensive Dataset of 100K+ Amazon Products** is a collection of more than 100,000 Amazon products, consisting of various categories. The dataset provides valuable information such as price, description, and reviews for each product. The dataset is organized into multiple CSV files, each corresponding to a specific category of products. The included data files are:\n\n**1. amazon_audio_video:** Contains information about audio and video products available on Amazon.\n\n**2. amazon_camera:** Includes details about cameras and related accessories sold on Amazon.\n\n**3. amazon_car_accessories:** Provides information about car accessories available on Amazon.\n\n**4. amazon_laptop:** Contains data about laptops and related products listed on Amazon.\n\n**5. amazon_men:** Includes details about products for men available on Amazon, such as clothing, grooming items, and accessories.\n\n**6. amazon_men_shoe:** Contains information specifically about men's shoes sold on Amazon.\n\n**7. amazon_mobile:** Provides data about mobile devices and accessories available on Amazon.\n\n**8. amazon_movies:** Includes information about movies and DVDs listed on Amazon.\n\n**9. amazon_toys:** Contains details about toys and games available on Amazon.\n\nThis comprehensive dataset offers a wide range of product categories, making it a valuable resource for various research, analysis, and machine learning applications related to Amazon product data.",
+  "datasetId": 3386783,
+  "datasetSlug": "a-comprehensive-dataset-of-100k-amazon-products",
+  "hasDatasetSlug": true,
+  "ownerUser": "joyshil0599",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6903,
+  "totalVotes": 36,
+  "totalDownloads": 1346,
+  "title": "Amazon Product Dataset(100K+)",
+  "hasTitle": true,
+  "subtitle": "100K+ Amazon products with price, description, and reviews",
+  "hasSubtitle": true,
+  "description": "The dataset titled **A Comprehensive Dataset of 100K+ Amazon Products** is a collection of more than 100,000 Amazon products, consisting of various categories. The dataset provides valuable information such as price, description, and reviews for each product. The dataset is organized into multiple CSV files, each corresponding to a specific category of products. The included data files are:\n\n**1. amazon_audio_video:** Contains information about audio and video products available on Amazon.\n\n**2. amazon_camera:** Includes details about cameras and related accessories sold on Amazon.\n\n**3. amazon_car_accessories:** Provides information about car accessories available on Amazon.\n\n**4. amazon_laptop:** Contains data about laptops and related products listed on Amazon.\n\n**5. amazon_men:** Includes details about products for men available on Amazon, such as clothing, grooming items, and accessories.\n\n**6. amazon_men_shoe:** Contains information specifically about men's shoes sold on Amazon.\n\n**7. amazon_mobile:** Provides data about mobile devices and accessories available on Amazon.\n\n**8. amazon_movies:** Includes information about movies and DVDs listed on Amazon.\n\n**9. amazon_toys:** Contains details about toys and games available on Amazon.\n\nThis comprehensive dataset offers a wide range of product categories, making it a valuable resource for various research, analysis, and machine learning applications related to Amazon product data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "clothing and accessories",
+    "mobile and wireless",
+    "automobiles and vehicles",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

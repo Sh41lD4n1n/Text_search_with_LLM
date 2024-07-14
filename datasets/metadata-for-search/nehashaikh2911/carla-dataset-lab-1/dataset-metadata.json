@@ -1,0 +1,39 @@
+{
+  "id": "nehashaikh2911/carla-dataset-lab-1",
+  "id_no": 4551605,
+  "datasetSlugNullable": "carla-dataset-lab-1",
+  "ownerUserNullable": "nehashaikh2911",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Lab1_Part3_Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "#Carla Object Detection Dataset\n\n##Description:\n\nThe Carla Object Detection Dataset is a labeled dataset designed for object detection tasks within the Carla Simulator environment. The images were captured using the autopilot mode in Carla Simulator across various environments, including Town01, Town02, Town03, Town04, and Town05. Frames were saved at regular intervals during simulation, providing diverse scenes for training and evaluation.\n\n##Labels:\n\nEach image in the dataset is accompanied by annotation files in three different formats:\n\nPascal VOC Format: XML files containing labels are stored in the labels folder.\nYOLO Format: YOLO-formatted label files can be found in the labels_yolo_format folder.\nMS COCO Format: JSON files with annotations in MS COCO format are located in the annotations folder.\nAvailable Classes:\n\nThe dataset includes the following object classes:\n\nVehicle (Car, Truck)\nBike\nMotorbike\nTraffic Light\nTraffic Sign",
+  "datasetId": 4551605,
+  "datasetSlug": "carla-dataset-lab-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "nehashaikh2911",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 269,
+  "totalVotes": 1,
+  "totalDownloads": 99,
+  "title": "Lab1_Part3_Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "#Carla Object Detection Dataset\n\n##Description:\n\nThe Carla Object Detection Dataset is a labeled dataset designed for object detection tasks within the Carla Simulator environment. The images were captured using the autopilot mode in Carla Simulator across various environments, including Town01, Town02, Town03, Town04, and Town05. Frames were saved at regular intervals during simulation, providing diverse scenes for training and evaluation.\n\n##Labels:\n\nEach image in the dataset is accompanied by annotation files in three different formats:\n\nPascal VOC Format: XML files containing labels are stored in the labels folder.\nYOLO Format: YOLO-formatted label files can be found in the labels_yolo_format folder.\nMS COCO Format: JSON files with annotations in MS COCO format are located in the annotations folder.\nAvailable Classes:\n\nThe dataset includes the following object classes:\n\nVehicle (Car, Truck)\nBike\nMotorbike\nTraffic Light\nTraffic Sign",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

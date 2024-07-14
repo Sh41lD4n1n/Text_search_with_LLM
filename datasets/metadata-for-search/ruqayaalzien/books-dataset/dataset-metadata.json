@@ -1,0 +1,37 @@
+{
+  "id": "ruqayaalzien/books-dataset",
+  "id_no": 5279370,
+  "datasetSlugNullable": "books-dataset",
+  "ownerUserNullable": "ruqayaalzien",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Books Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5279370,
+  "datasetSlug": "books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruqayaalzien",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 3,
+  "totalDownloads": 0,
+  "title": "Books Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

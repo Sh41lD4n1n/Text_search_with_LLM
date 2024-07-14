@@ -1,0 +1,41 @@
+{
+  "id": "bardiaardakanian/voc0712",
+  "id_no": 3153841,
+  "datasetSlugNullable": "voc0712",
+  "ownerUserNullable": "bardiaardakanian",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Pascal VOC0712 (2007 + 2012)",
+  "subtitleNullable": "Combined dataset for object detection & segmentation with accurate annotations.",
+  "descriptionNullable": "Dataset DescriptionThe VOC0712 dataset is a combination of the PASCAL VOC datasets from 2007 and 2012, which are widely used in computer vision research for object detection and segmentation tasks. This dataset consists of images across 20 object classes, including people, animals, and vehicles.\n\nUsage:\nThe dataset can be used for object detection, object segmentation, and other related tasks in computer vision. The dataset is often used for benchmarking object detection and segmentation models, and several state-of-the-art models have been trained on it.\n\nData Collection:\nThe dataset has been collected from various sources, including web searches, Flickr, and other publicly available image repositories. The annotations for the dataset were created by experts in the field, and the dataset is constantly updated to ensure accuracy and completeness.\n\nCoverage:\nThe VOC0712 dataset includes a total of 16,551 images, consisting of 11,530 training images and 4,921 test images. The images cover 20 object classes, including aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, dining table, dog, horse, motorbike, person, potted plant, sheep, sofa, train, and TV/monitor.\n\nDirectory Tree:\nThe dataset is organized into several directories, including:\n\n    JPEGImages: contains the JPEG images\n    Annotations: contains the XML files with object annotations\n    ImageSets: contains the text files with train/test splits and segmentation masks\n    SegmentationClass: contains the segmentation masks for object classes\n    SegmentationObject: contains the segmentation masks for object instances\n\nAddictional Information:\nThe dataset also includes additional files, such as class names and colormap files, to aid in data processing and visualization. The dataset is available for download on the official PASCAL VOC website, and can also be accessed through platforms such as Kaggle.",
+  "datasetId": 3153841,
+  "datasetSlug": "voc0712",
+  "hasDatasetSlug": true,
+  "ownerUser": "bardiaardakanian",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1471,
+  "totalVotes": 11,
+  "totalDownloads": 197,
+  "title": "Pascal VOC0712 (2007 + 2012)",
+  "hasTitle": true,
+  "subtitle": "Combined dataset for object detection & segmentation with accurate annotations.",
+  "hasSubtitle": true,
+  "description": "Dataset DescriptionThe VOC0712 dataset is a combination of the PASCAL VOC datasets from 2007 and 2012, which are widely used in computer vision research for object detection and segmentation tasks. This dataset consists of images across 20 object classes, including people, animals, and vehicles.\n\nUsage:\nThe dataset can be used for object detection, object segmentation, and other related tasks in computer vision. The dataset is often used for benchmarking object detection and segmentation models, and several state-of-the-art models have been trained on it.\n\nData Collection:\nThe dataset has been collected from various sources, including web searches, Flickr, and other publicly available image repositories. The annotations for the dataset were created by experts in the field, and the dataset is constantly updated to ensure accuracy and completeness.\n\nCoverage:\nThe VOC0712 dataset includes a total of 16,551 images, consisting of 11,530 training images and 4,921 test images. The images cover 20 object classes, including aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, dining table, dog, horse, motorbike, person, potted plant, sheep, sofa, train, and TV/monitor.\n\nDirectory Tree:\nThe dataset is organized into several directories, including:\n\n    JPEGImages: contains the JPEG images\n    Annotations: contains the XML files with object annotations\n    ImageSets: contains the text files with train/test splits and segmentation masks\n    SegmentationClass: contains the segmentation masks for object classes\n    SegmentationObject: contains the segmentation masks for object instances\n\nAddictional Information:\nThe dataset also includes additional files, such as class names and colormap files, to aid in data processing and visualization. The dataset is available for download on the official PASCAL VOC website, and can also be accessed through platforms such as Kaggle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "image segmentation",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

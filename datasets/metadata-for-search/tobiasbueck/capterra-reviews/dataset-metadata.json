@@ -1,0 +1,39 @@
+{
+  "id": "tobiasbueck/capterra-reviews",
+  "id_no": 5234349,
+  "datasetSlugNullable": "capterra-reviews",
+  "ownerUserNullable": "tobiasbueck",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Capterra Ticketsystem - Jira, Zendesk - Reviews",
+  "subtitleNullable": "Cappterra Ticketsystem Reviews - Jira, Zoho, ServiceNow, Zendesk - Text, Ratings",
+  "descriptionNullable": "## Capterra Reviews for Ticket Systems\n\n### Dataset Description\n\nThis dataset contains reviews of various ticket systems from Capterra, providing insights into the features, pros, and cons as experienced by users. The dataset is designed to facilitate analysis and comparison of different ticket systems based on user feedback. Each review includes ratings for various aspects such as ease of use, customer service, features, and overall value for money, as well as the likelihood to recommend the system.\n\n### Content\n\nThe dataset consists of the following columns:\n\n- **ticket_system**: The name of the ticket system being reviewed.\n- **title**: The title of the review.\n- **overall_text**: The overall text of the review.\n- **pros_text**: The positive aspects of the ticket system as mentioned by the reviewer.\n- **cons_text**: The negative aspects of the ticket system as mentioned by the reviewer.\n- **overall_rating**: The overall rating given by the reviewer (out of 5).\n- **ease_of_use**: The rating for ease of use (out of 5).\n- **customer_service**: The rating for customer service (out of 5).\n- **features**: The rating for features (out of 5).\n- **value_for_money**: The rating for value for money (out of 5).\n- **likelihood_to_recommend**: The likelihood to recommend the system (out of 10).\n\nIn addition, the dataset includes columns for ten key features, indicating whether each feature was mentioned positively, negatively, or not at all in the review. The feature columns are:\n\n- **Ticket Creation and Assignment**\n- **Status Tracking and Updates**\n- **Priority and SLA Management**\n- **Reporting and Analytics**\n- **Automated Ticket Routing**\n- **Knowledge Base Integration**\n- **Customer and Agent Portals**\n- **Multi-Channel Support (Email, Chat, Phone)**\n- **Email Notifications and Alerts**\n- **Customizable Workflows**\n\nEach feature column contains:\n- `1` if the feature was mentioned positively,\n- `-1` if the feature was mentioned negatively,\n- `0` if the feature was not mentioned.\n\n### Usage\n\nThis dataset can be used for:\n- **Sentiment Analysis**: Analyzing user sentiments towards different features of ticket systems.\n- **Feature Importance**: Identifying which features are most positively or negatively received.\n- **Comparative Analysis**: Comparing different ticket systems based on user reviews and ratings.\n- **Market Research**: Understanding customer needs and preferences in the ticketing system market.\n\n### Acknowledgements\n\nThe reviews in this dataset are sourced from Capterra. The dataset is intended for educational and research purposes.\n\n### Keywords\n\nTicket systems, Capterra reviews, customer service, sentiment analysis, feature analysis, user feedback, software reviews, helpdesk solutions, comparative analysis, market research\n\n### License\n\nThe dataset is available for public use. If you use this dataset, please credit the original source and this dataset on Kaggle.\n\n### Contact\n\nFor any questions or contributions regarding this dataset, please reach out via Kaggle or through the provided contact information in the dataset repository.\ndata@softoft.de",
+  "datasetId": 5234349,
+  "datasetSlug": "capterra-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "tobiasbueck",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 40,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "Capterra Ticketsystem - Jira, Zendesk - Reviews",
+  "hasTitle": true,
+  "subtitle": "Cappterra Ticketsystem Reviews - Jira, Zoho, ServiceNow, Zendesk - Text, Ratings",
+  "hasSubtitle": true,
+  "description": "## Capterra Reviews for Ticket Systems\n\n### Dataset Description\n\nThis dataset contains reviews of various ticket systems from Capterra, providing insights into the features, pros, and cons as experienced by users. The dataset is designed to facilitate analysis and comparison of different ticket systems based on user feedback. Each review includes ratings for various aspects such as ease of use, customer service, features, and overall value for money, as well as the likelihood to recommend the system.\n\n### Content\n\nThe dataset consists of the following columns:\n\n- **ticket_system**: The name of the ticket system being reviewed.\n- **title**: The title of the review.\n- **overall_text**: The overall text of the review.\n- **pros_text**: The positive aspects of the ticket system as mentioned by the reviewer.\n- **cons_text**: The negative aspects of the ticket system as mentioned by the reviewer.\n- **overall_rating**: The overall rating given by the reviewer (out of 5).\n- **ease_of_use**: The rating for ease of use (out of 5).\n- **customer_service**: The rating for customer service (out of 5).\n- **features**: The rating for features (out of 5).\n- **value_for_money**: The rating for value for money (out of 5).\n- **likelihood_to_recommend**: The likelihood to recommend the system (out of 10).\n\nIn addition, the dataset includes columns for ten key features, indicating whether each feature was mentioned positively, negatively, or not at all in the review. The feature columns are:\n\n- **Ticket Creation and Assignment**\n- **Status Tracking and Updates**\n- **Priority and SLA Management**\n- **Reporting and Analytics**\n- **Automated Ticket Routing**\n- **Knowledge Base Integration**\n- **Customer and Agent Portals**\n- **Multi-Channel Support (Email, Chat, Phone)**\n- **Email Notifications and Alerts**\n- **Customizable Workflows**\n\nEach feature column contains:\n- `1` if the feature was mentioned positively,\n- `-1` if the feature was mentioned negatively,\n- `0` if the feature was not mentioned.\n\n### Usage\n\nThis dataset can be used for:\n- **Sentiment Analysis**: Analyzing user sentiments towards different features of ticket systems.\n- **Feature Importance**: Identifying which features are most positively or negatively received.\n- **Comparative Analysis**: Comparing different ticket systems based on user reviews and ratings.\n- **Market Research**: Understanding customer needs and preferences in the ticketing system market.\n\n### Acknowledgements\n\nThe reviews in this dataset are sourced from Capterra. The dataset is intended for educational and research purposes.\n\n### Keywords\n\nTicket systems, Capterra reviews, customer service, sentiment analysis, feature analysis, user feedback, software reviews, helpdesk solutions, comparative analysis, market research\n\n### License\n\nThe dataset is available for public use. If you use this dataset, please credit the original source and this dataset on Kaggle.\n\n### Contact\n\nFor any questions or contributions regarding this dataset, please reach out via Kaggle or through the provided contact information in the dataset repository.\ndata@softoft.de",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

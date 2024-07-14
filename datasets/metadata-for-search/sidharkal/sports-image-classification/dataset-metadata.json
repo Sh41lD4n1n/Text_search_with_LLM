@@ -1,0 +1,42 @@
+{
+  "id": "sidharkal/sports-image-classification",
+  "id_no": 1972590,
+  "datasetSlugNullable": "sports-image-classification",
+  "ownerUserNullable": "sidharkal",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Sports Image Classification",
+  "subtitleNullable": "Dataset contain the Sports Images ",
+  "descriptionNullable": "You are provided with a dataset containing images of different sports classes. The dataset is split into a training set and a test set. The training set consists of labeled images belonging to the following sports classes: cricket, wrestling, tennis, badminton, soccer, swimming, and karate. Each image is associated with a unique image ID and its corresponding class label. The test set contains unlabeled images for which you need to predict the class.\n\n**Files**\ntrain.csv - the training.csv file, which includes the image id and its class of columns\ntest.csv - the test.csv file contains only image id columns \n\n**Folders**\n\ntrain - folder contains the images of train.csv files \ntest - folder contains the images of test.csv files \n",
+  "datasetId": 1972590,
+  "datasetSlug": "sports-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sidharkal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 9043,
+  "totalVotes": 19,
+  "totalDownloads": 938,
+  "title": "Sports Image Classification",
+  "hasTitle": true,
+  "subtitle": "Dataset contain the Sports Images ",
+  "hasSubtitle": true,
+  "description": "You are provided with a dataset containing images of different sports classes. The dataset is split into a training set and a test set. The training set consists of labeled images belonging to the following sports classes: cricket, wrestling, tennis, badminton, soccer, swimming, and karate. Each image is associated with a unique image ID and its corresponding class label. The test set contains unlabeled images for which you need to predict the class.\n\n**Files**\ntrain.csv - the training.csv file, which includes the image id and its class of columns\ntest.csv - the test.csv file contains only image id columns \n\n**Folders**\n\ntrain - folder contains the images of train.csv files \ntest - folder contains the images of test.csv files \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "classification",
+    "image",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

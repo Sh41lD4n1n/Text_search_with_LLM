@@ -1,0 +1,44 @@
+{
+  "id": "iamsouravbanerjee/analytics-industry-salaries-2022-india",
+  "id_no": 1844140,
+  "datasetSlugNullable": "analytics-industry-salaries-2022-india",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Data Professionals Salary - 2022",
+  "subtitleNullable": "Salaries of Data Scientists, ML Engineers, Data Analysts, Data Engineers in 2022",
+  "descriptionNullable": "### Context\n\nAnalytics is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data. It also entails applying data patterns toward effective decision-making. It can be valuable in areas rich with recorded information; analytics relies on the simultaneous application of statistics, computer programming, and operations research to quantify performance.\n\nOrganizations may apply analytics to business data to describe, predict, and improve business performance. Specifically, areas within analytics include predictive analytics, prescriptive analytics, enterprise decision management, descriptive analytics, cognitive analytics, Big Data Analytics, retail analytics, supply chain analytics, store assortment and stock-keeping unit optimization, marketing optimization and marketing mix modeling, web analytics, call analytics, speech analytics, sales force sizing and optimization, price and promotion modeling, predictive science, graph analytics, credit risk analysis, and fraud analytics. Since analytics can require extensive computation (see big data), the algorithms and software used for analytics harness the most current methods in computer science, statistics, and mathematics.\n\n\n### Content\n\nThis Dataset consists of salaries for Data Scientists, Machine Learning Engineers, Data Analysts, and Data Engineers in various cities across India (2022).\n\n-Salary Dataset.csv\n-Partially Cleaned Salary Dataset.csv\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/G8GwKx5.png)\n\n### Acknowledgements\n\nThis Dataset is created from https://www.glassdoor.co.in/. If you want to learn more, you can visit the Website.\n\nCover Photo by <a href=\"https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\"><b>rupixen.com</b></a> on <a href=\"https://unsplash.com/s/photos/indian-currency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>",
+  "datasetId": 1844140,
+  "datasetSlug": "analytics-industry-salaries-2022-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 89123,
+  "totalVotes": 273,
+  "totalDownloads": 14026,
+  "title": "Data Professionals Salary - 2022",
+  "hasTitle": true,
+  "subtitle": "Salaries of Data Scientists, ML Engineers, Data Analysts, Data Engineers in 2022",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAnalytics is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data. It also entails applying data patterns toward effective decision-making. It can be valuable in areas rich with recorded information; analytics relies on the simultaneous application of statistics, computer programming, and operations research to quantify performance.\n\nOrganizations may apply analytics to business data to describe, predict, and improve business performance. Specifically, areas within analytics include predictive analytics, prescriptive analytics, enterprise decision management, descriptive analytics, cognitive analytics, Big Data Analytics, retail analytics, supply chain analytics, store assortment and stock-keeping unit optimization, marketing optimization and marketing mix modeling, web analytics, call analytics, speech analytics, sales force sizing and optimization, price and promotion modeling, predictive science, graph analytics, credit risk analysis, and fraud analytics. Since analytics can require extensive computation (see big data), the algorithms and software used for analytics harness the most current methods in computer science, statistics, and mathematics.\n\n\n### Content\n\nThis Dataset consists of salaries for Data Scientists, Machine Learning Engineers, Data Analysts, and Data Engineers in various cities across India (2022).\n\n-Salary Dataset.csv\n-Partially Cleaned Salary Dataset.csv\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/G8GwKx5.png)\n\n### Acknowledgements\n\nThis Dataset is created from https://www.glassdoor.co.in/. If you want to learn more, you can visit the Website.\n\nCover Photo by <a href=\"https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\"><b>rupixen.com</b></a> on <a href=\"https://unsplash.com/s/photos/indian-currency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "beginner",
+    "data analytics",
+    "tabular",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

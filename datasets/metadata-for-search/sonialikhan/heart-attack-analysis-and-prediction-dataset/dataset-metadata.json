@@ -1,0 +1,68 @@
+{
+  "id": "sonialikhan/heart-attack-analysis-and-prediction-dataset",
+  "id_no": 4741924,
+  "datasetSlugNullable": "heart-attack-analysis-and-prediction-dataset",
+  "ownerUserNullable": "sonialikhan",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Heart Attack Analysis & Prediction Dataset",
+  "subtitleNullable": "A dataset for heart attack classification",
+  "descriptionNullable": "The Heart Attack Analysis & Prediction Dataset is a dataset used for research and analysis in the field of cardiovascular health. It typically contains various attributes related to an individual's health and lifestyle, along with an indicator of whether the individual experienced a heart attack or not.\n\nHere are some common attributes found in such datasets:\n\n**Age:** The age of the individual.\n**Sex: **The gender of the individual.\n**Chest Pain Type:** The type of chest pain experienced by the individual.\n**Resting Blood Pressure:** The resting blood pressure of the individual (in mm Hg).\n**Cholesterol: **The cholesterol levels of the individual (in mg/dL).\n**Fasting Blood Sugar: **The fasting blood sugar level of the individual (&gt; 120 mg/dL is considered high).\n**Resting Electrocardiographic Results (ECG): **Results of the resting electrocardiogram.\n**Maximum Heart Rate Achieved:** The maximum heart rate achieved by the individual during exercise.\n**Exercise Induced Angina: **Whether the individual experienced angina during exercise.\n**ST Depression Induced by Exercise: **The ST depression induced by exercise relative to rest.\n**Slope of the Peak Exercise ST Segment: **The slope of the peak exercise ST segment.\n**Number of Major Vessels Colored by Fluoroscopy: **The number of major blood vessels colored by fluoroscopy.\n**Thalassemia: **A blood disorder; different types of thalassemia might be represented in the dataset.\n**Target: **Whether the individual had a heart attack or not (typically represented as binary: 0 for no heart attack, 1 for heart attack).\n\nThis dataset is often used for building machine learning models to predict the likelihood of a person having a heart attack based on their health attributes. Researchers and healthcare professionals use such models to better understand risk factors and develop preventive strategies for cardiovascular diseases.\n\n\nHone your analytical and ML skills by participating in tasks of my other dataset's. Given below.\nData Science Job Posting on Glassdoor\n\nGroceries dataset for Market Basket Analysis(MBA)\n\nDataset for Facial recognition using ML approach\n\nCovid_w/wo_Pneumonia Chest Xray\n\nDisney Movies 1937-2016 Gross Income\n\nBollywood Movie data from 2000 to 2019\n\n17.7K English song data from 2008-2017\n\nAbout this dataset\nAge : Age of the patient\n\nSex : Sex of the patient\n\nexang: exercise induced angina (1 = yes; 0 = no)\n\nca: number of major vessels (0-3)\n\ncp : Chest Pain type chest pain type\n\nValue 1: typical angina\nValue 2: atypical angina\nValue 3: non-anginal pain\nValue 4: asymptomatic\ntrtbps : resting blood pressure (in mm Hg)\n\nchol : cholestoral in mg/dl fetched via BMI sensor\n\nfbs : (fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false)\n\nrest_ecg : resting electrocardiographic results\n\nValue 0: normal\nValue 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of &gt; 0.05 mV)\nValue 2: showing probable or definite left ventricular hypertrophy by Estes' criteria\nthalach : maximum heart rate achieved\n\ntarget : 0= less chance of heart attack 1= more chance of heart attack\n\nn\n\n\n",
+  "datasetId": 4741924,
+  "datasetSlug": "heart-attack-analysis-and-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sonialikhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 506,
+  "totalVotes": 34,
+  "totalDownloads": 62,
+  "title": "Heart Attack Analysis & Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset for heart attack classification",
+  "hasSubtitle": true,
+  "description": "The Heart Attack Analysis & Prediction Dataset is a dataset used for research and analysis in the field of cardiovascular health. It typically contains various attributes related to an individual's health and lifestyle, along with an indicator of whether the individual experienced a heart attack or not.\n\nHere are some common attributes found in such datasets:\n\n**Age:** The age of the individual.\n**Sex: **The gender of the individual.\n**Chest Pain Type:** The type of chest pain experienced by the individual.\n**Resting Blood Pressure:** The resting blood pressure of the individual (in mm Hg).\n**Cholesterol: **The cholesterol levels of the individual (in mg/dL).\n**Fasting Blood Sugar: **The fasting blood sugar level of the individual (&gt; 120 mg/dL is considered high).\n**Resting Electrocardiographic Results (ECG): **Results of the resting electrocardiogram.\n**Maximum Heart Rate Achieved:** The maximum heart rate achieved by the individual during exercise.\n**Exercise Induced Angina: **Whether the individual experienced angina during exercise.\n**ST Depression Induced by Exercise: **The ST depression induced by exercise relative to rest.\n**Slope of the Peak Exercise ST Segment: **The slope of the peak exercise ST segment.\n**Number of Major Vessels Colored by Fluoroscopy: **The number of major blood vessels colored by fluoroscopy.\n**Thalassemia: **A blood disorder; different types of thalassemia might be represented in the dataset.\n**Target: **Whether the individual had a heart attack or not (typically represented as binary: 0 for no heart attack, 1 for heart attack).\n\nThis dataset is often used for building machine learning models to predict the likelihood of a person having a heart attack based on their health attributes. Researchers and healthcare professionals use such models to better understand risk factors and develop preventive strategies for cardiovascular diseases.\n\n\nHone your analytical and ML skills by participating in tasks of my other dataset's. Given below.\nData Science Job Posting on Glassdoor\n\nGroceries dataset for Market Basket Analysis(MBA)\n\nDataset for Facial recognition using ML approach\n\nCovid_w/wo_Pneumonia Chest Xray\n\nDisney Movies 1937-2016 Gross Income\n\nBollywood Movie data from 2000 to 2019\n\n17.7K English song data from 2008-2017\n\nAbout this dataset\nAge : Age of the patient\n\nSex : Sex of the patient\n\nexang: exercise induced angina (1 = yes; 0 = no)\n\nca: number of major vessels (0-3)\n\ncp : Chest Pain type chest pain type\n\nValue 1: typical angina\nValue 2: atypical angina\nValue 3: non-anginal pain\nValue 4: asymptomatic\ntrtbps : resting blood pressure (in mm Hg)\n\nchol : cholestoral in mg/dl fetched via BMI sensor\n\nfbs : (fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false)\n\nrest_ecg : resting electrocardiographic results\n\nValue 0: normal\nValue 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of &gt; 0.05 mV)\nValue 2: showing probable or definite left ventricular hypertrophy by Estes' criteria\nthalach : maximum heart rate achieved\n\ntarget : 0= less chance of heart attack 1= more chance of heart attack\n\nn\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "abdulwahabkabani",
+      "role": "writer"
+    },
+    {
+      "username": "saurabhshahane",
+      "role": "writer"
+    },
+    {
+      "username": "zohaib123",
+      "role": "writer"
+    },
+    {
+      "username": "fightforever1",
+      "role": "writer"
+    },
+    {
+      "username": "abdulrahmankhaled1",
+      "role": "writer"
+    },
+    {
+      "username": "qnqfbqfqo",
+      "role": "writer"
+    },
+    {
+      "username": "abdmental01",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

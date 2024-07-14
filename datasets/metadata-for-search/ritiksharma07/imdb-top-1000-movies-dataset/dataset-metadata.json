@@ -1,0 +1,39 @@
+{
+  "id": "ritiksharma07/imdb-top-1000-movies-dataset",
+  "id_no": 5231802,
+  "datasetSlugNullable": "imdb-top-1000-movies-dataset",
+  "ownerUserNullable": "ritiksharma07",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB Top 1000 Movies Dataset",
+  "subtitleNullable": "\"Release Year, Duration, Ratings, Metascores, Vote Counts, and Plot Summaries\"",
+  "descriptionNullable": "This dataset provides comprehensive information about top-rated movies from IMDB. It includes the title of each movie, the year it was released, and its duration in hours and minutes. The dataset also provides the IMDB rating and the number of votes the movie has received on the platform. Additionally, it features the Metascore from Metacritic, indicating the critical reception of each movie. The content rating, which indicates the appropriate audience for the movie, is also included. Finally, a brief plot summary is provided for each movie, offering an overview of the storyline. This dataset is ideal for movie enthusiasts, researchers, and data analysts interested in exploring and analyzing the characteristics of top-rated movies.\n\n\n\n\n\n\n",
+  "datasetId": 5231802,
+  "datasetSlug": "imdb-top-1000-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ritiksharma07",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1984,
+  "totalVotes": 25,
+  "totalDownloads": 589,
+  "title": "IMDB Top 1000 Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "\"Release Year, Duration, Ratings, Metascores, Vote Counts, and Plot Summaries\"",
+  "hasSubtitle": true,
+  "description": "This dataset provides comprehensive information about top-rated movies from IMDB. It includes the title of each movie, the year it was released, and its duration in hours and minutes. The dataset also provides the IMDB rating and the number of votes the movie has received on the platform. Additionally, it features the Metascore from Metacritic, indicating the critical reception of each movie. The content rating, which indicates the appropriate audience for the movie, is also included. Finally, a brief plot summary is provided for each movie, offering an overview of the storyline. This dataset is ideal for movie enthusiasts, researchers, and data analysts interested in exploring and analyzing the characteristics of top-rated movies.\n\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "jillanisofttech/tesla-stock-price",
+  "id_no": 2076127,
+  "datasetSlugNullable": "tesla-stock-price",
+  "ownerUserNullable": "jillanisofttech",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tesla Stock Price",
+  "subtitleNullable": "Tesla Updated Stock Price Dataset",
+  "descriptionNullable": "### Dataset Description\n\n**Title:** Monthly Tesla Stock Prices (01/01/2015 - 17/01/2024)\n\n**Uploaded by:** Jillani SoftTech\n\n**Context:**\nThis dataset provides a comprehensive view of Tesla's stock performance over a significant period, from January 1, 2015, to January 17, 2024. It serves as a valuable resource for data scientists, financial analysts, and enthusiasts interested in understanding market trends, performing time series analysis, and predicting future stock movements.\n\n**Content:**\nThe dataset contains monthly stock price data for Tesla, Inc. It is structured into seven columns, detailing the date of the record and six key stock indicators:\n1. `Date`: The date of the stock record.\n2. `Open`: The opening price of Tesla's stock for the month.\n3. `High`: The highest price reached by Tesla's stock in the month.\n4. `Low`: The lowest price of Tesla's stock in the month.\n5. `Close`: The closing price of Tesla's stock for the month.\n6. `Volume`: The total trading volume of Tesla's stock for the month.\n\nIn total, the dataset includes 2274 entries, offering a detailed and extensive view of Tesla's stock performance over nearly a decade.\n\n**Acknowledgments:**\nWe acknowledge and thank the sources from which this data was collected. This dataset is intended for educational and research purposes, helping to drive insights and foster innovation in the fields of finance and data science.\n\n**Usage Potential:**\n- **Financial Analysis:** Users can analyze trends in Tesla's stock prices, including seasonal fluctuations, year-over-year changes, and reactions to market events.\n- **Predictive Modeling:** Ideal for building and testing predictive models like ARIMA, LSTM, or Regression Analysis to forecast future stock prices.\n- **Educational Tool:** Can be used by educators and students for practical exercises in finance, economics, and data science courses.\n- **Research:** Researchers can utilize this dataset to study the impact of external factors on the stock market, specifically in the electric vehicle and technology sectors.",
+  "datasetId": 2076127,
+  "datasetSlug": "tesla-stock-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "jillanisofttech",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13672,
+  "totalVotes": 58,
+  "totalDownloads": 2836,
+  "title": "Tesla Stock Price",
+  "hasTitle": true,
+  "subtitle": "Tesla Updated Stock Price Dataset",
+  "hasSubtitle": true,
+  "description": "### Dataset Description\n\n**Title:** Monthly Tesla Stock Prices (01/01/2015 - 17/01/2024)\n\n**Uploaded by:** Jillani SoftTech\n\n**Context:**\nThis dataset provides a comprehensive view of Tesla's stock performance over a significant period, from January 1, 2015, to January 17, 2024. It serves as a valuable resource for data scientists, financial analysts, and enthusiasts interested in understanding market trends, performing time series analysis, and predicting future stock movements.\n\n**Content:**\nThe dataset contains monthly stock price data for Tesla, Inc. It is structured into seven columns, detailing the date of the record and six key stock indicators:\n1. `Date`: The date of the stock record.\n2. `Open`: The opening price of Tesla's stock for the month.\n3. `High`: The highest price reached by Tesla's stock in the month.\n4. `Low`: The lowest price of Tesla's stock in the month.\n5. `Close`: The closing price of Tesla's stock for the month.\n6. `Volume`: The total trading volume of Tesla's stock for the month.\n\nIn total, the dataset includes 2274 entries, offering a detailed and extensive view of Tesla's stock performance over nearly a decade.\n\n**Acknowledgments:**\nWe acknowledge and thank the sources from which this data was collected. This dataset is intended for educational and research purposes, helping to drive insights and foster innovation in the fields of finance and data science.\n\n**Usage Potential:**\n- **Financial Analysis:** Users can analyze trends in Tesla's stock prices, including seasonal fluctuations, year-over-year changes, and reactions to market events.\n- **Predictive Modeling:** Ideal for building and testing predictive models like ARIMA, LSTM, or Regression Analysis to forecast future stock prices.\n- **Educational Tool:** Can be used by educators and students for practical exercises in finance, economics, and data science courses.\n- **Research:** Researchers can utilize this dataset to study the impact of external factors on the stock market, specifically in the electric vehicle and technology sectors.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "intermediate",
+    "advanced",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

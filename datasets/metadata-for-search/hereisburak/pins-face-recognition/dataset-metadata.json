@@ -1,0 +1,42 @@
+{
+  "id": "hereisburak/pins-face-recognition",
+  "id_no": 543939,
+  "datasetSlugNullable": "pins-face-recognition",
+  "ownerUserNullable": "hereisburak",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pins Face Recognition",
+  "subtitleNullable": "Facial Recognition Dataset collected from Pinterest",
+  "descriptionNullable": "### Content\n\nThis images has been collected from Pinterest and cropped. There are 105 celebrities and 17534 faces.\n\n![sub](https://raw.githubusercontent.com/aangfanboy/celebrities_face_recognation_dataset/master/fig.png)\n\n### Usage\n\nIf you are looking for a face recognition project, i highly recommend [my project that i shared on GitHub](https://github.com/aangfanboy/liyana).",
+  "datasetId": 543939,
+  "datasetSlug": "pins-face-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "hereisburak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 62654,
+  "totalVotes": 106,
+  "totalDownloads": 9806,
+  "title": "Pins Face Recognition",
+  "hasTitle": true,
+  "subtitle": "Facial Recognition Dataset collected from Pinterest",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis images has been collected from Pinterest and cropped. There are 105 celebrities and 17534 faces.\n\n![sub](https://raw.githubusercontent.com/aangfanboy/celebrities_face_recognation_dataset/master/fig.png)\n\n### Usage\n\nIf you are looking for a face recognition project, i highly recommend [my project that i shared on GitHub](https://github.com/aangfanboy/liyana).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "deep learning",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

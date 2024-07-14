@@ -1,0 +1,43 @@
+{
+  "id": "iamsouravbanerjee/animal-image-dataset-90-different-animals",
+  "id_no": 1554380,
+  "datasetSlugNullable": "animal-image-dataset-90-different-animals",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Animal Image Dataset (90 Different Animals)",
+  "subtitleNullable": "Zooming in on Wildlife: 5400 Animal Images Across 90 Diverse Classes",
+  "descriptionNullable": "### Context\n\nAnimals (also called Metazoa) are multicellular, eukaryotic organisms in the biological kingdom Animalia. With few exceptions, animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, and go through an ontogenetic stage in which their body consists of a hollow sphere of cells, the blastula, during embryonic development. Over 1.5 million living animal species have been described\u2014of which around 1 million are insects\u2014but it has been estimated there are over 7 million animal species in total. Animals range in length from 8.5 micrometers (0.00033 in) to 33.6 meters (110 ft). They have complex interactions with each other and their environments, forming intricate food webs. The scientific study of animals is known as zoology.\n\nMost living animal species are in Bilateria, a clade whose members have a bilaterally symmetric body plan. The Bilateria include the protostomes\u2014in which many groups of invertebrates are found, such as nematodes, arthropods, and mollusks\u2014and the deuterostomes, containing both the echinoderms as well as the chordates, the latter containing the vertebrates. Life forms interpreted as early animals were present in the Ediacaran biota of the late Precambrian. Many modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 542 million years ago. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago.\n\nSource: Wikipedia\n\n### Content\n\nIn this Dataset, we have 5400 Animal Images in 90 different categories or classes.\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/Q9K6ixA.png)\n\n### Acknowledgment\n\nThis Dataset is created from Google Images: https://images.google.com/. If you want to learn more, you can visit the Website.\n\nCover Photo: <a href=\"https://www.freepik.com/vectors/animal-character\">Animal character vector created by pch.vector - www.freepik.com</a>",
+  "datasetId": 1554380,
+  "datasetSlug": "animal-image-dataset-90-different-animals",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 113660,
+  "totalVotes": 317,
+  "totalDownloads": 21426,
+  "title": "Animal Image Dataset (90 Different Animals)",
+  "hasTitle": true,
+  "subtitle": "Zooming in on Wildlife: 5400 Animal Images Across 90 Diverse Classes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAnimals (also called Metazoa) are multicellular, eukaryotic organisms in the biological kingdom Animalia. With few exceptions, animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, and go through an ontogenetic stage in which their body consists of a hollow sphere of cells, the blastula, during embryonic development. Over 1.5 million living animal species have been described\u2014of which around 1 million are insects\u2014but it has been estimated there are over 7 million animal species in total. Animals range in length from 8.5 micrometers (0.00033 in) to 33.6 meters (110 ft). They have complex interactions with each other and their environments, forming intricate food webs. The scientific study of animals is known as zoology.\n\nMost living animal species are in Bilateria, a clade whose members have a bilaterally symmetric body plan. The Bilateria include the protostomes\u2014in which many groups of invertebrates are found, such as nematodes, arthropods, and mollusks\u2014and the deuterostomes, containing both the echinoderms as well as the chordates, the latter containing the vertebrates. Life forms interpreted as early animals were present in the Ediacaran biota of the late Precambrian. Many modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 542 million years ago. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago.\n\nSource: Wikipedia\n\n### Content\n\nIn this Dataset, we have 5400 Animal Images in 90 different categories or classes.\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/Q9K6ixA.png)\n\n### Acknowledgment\n\nThis Dataset is created from Google Images: https://images.google.com/. If you want to learn more, you can visit the Website.\n\nCover Photo: <a href=\"https://www.freepik.com/vectors/animal-character\">Animal character vector created by pch.vector - www.freepik.com</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "carlosparadis/fires-from-space-australia-and-new-zeland",
+  "id_no": 473032,
+  "datasetSlugNullable": "fires-from-space-australia-and-new-zeland",
+  "ownerUserNullable": "carlosparadis",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fires from Space: Australia",
+  "subtitleNullable": "NASA Satellite Data MODISC6 and VIIRS 375m from 2019-08-01 to 2020-01-11",
+  "descriptionNullable": "### Context\n\nCurrent news about Australia bushfire has been spreading fast, however, the same can't be said about the datasets. This NASA FIRMS MODIS and VIIRS Fire/Hotspot provide an initial dataset for fires in Australia. My main motivation to provide this dataset was the following article:\n\n- [BBC News - Australia fires: Misleading maps and pictures go viral](https://www.bbc.com/news/blogs-trending-51020564) \n\nSee the Ideas Section at the bottom for more inspiration. \n\n\n### Content\n\nThe current dataset provides 4 tables from 2 NASA Satellite Instruments:\n\n- [MODIS C6](https://earthdata.nasa.gov/learn/articles/what-is-new-collection-6-modis-active-fire-data) Tables \n   - fire_archive_M6_96619.csv\n   - fire_nrt_M6_96619.csv\n\n- [VIIRS 375m](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/viirs-i-band-active-fire-data) Tables \n   - fire_archive_V1_96617.csv\n   - fire_nrt_V1_96617.csv\n\nThe provided URLs contain more details on the two instrument differences. Each instrument contains two types of tables: Near Real Time (`_nrt_`) and older standard/science quality data (`_archive`). According to the README provided with the dataset, NRT data are replaced with standard quality data when they are available (usually with a 2-3 month lag). This time-lag can be observed on the tables by verifying the `acq_date` column (See available Kaggle Notebook). For more details between NRT and Archive see [this link](https://earthdata.nasa.gov/faq/firms-faq#ed-nrt-standard).\n\nMore information on the instruments used for this dataset can be found [here](https://earthdata.nasa.gov/learn/articles/wildfires-cant-hide-from-earth-observing-satellites) and [here](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms). All columns have been annotated with the description following Kaggle format. For data provenance, see the Metadata section. \n\n### Acknowledgements\n\nWe acknowledge the use of data and imagery from LANCE FIRMS operated by NASA's Earth Science Data and Information System (ESDIS) with funding provided by NASA Headquarters. \n\nNRT VIIRS 375 m Active Fire product VNP14IMGT. Available on-line [https://earthdata.nasa.gov/firms]. doi: 10.5067/FIRMS/VIIRS/VNP14IMGT.NRT.001.\n\nMODIS Collection 6 NRT Hotspot / Active Fire Detections MCD14DL. Available on-line [https://earthdata.nasa.gov/firms]. doi: 10.5067/FIRMS/MODIS/MCD14DL.NRT.006\n\n\n### Inspiration\n\nCurrent news articles are a wonderful inspiration for ways to analyze this data and or combine to other datasets. Some ideas:\n\n- [Australia fires: A visual guide to the bushfire crisis](https://www.bbc.com/news/world-australia-50951043)\n- [Australia bushfires factcheck: are this year's fires unprecedented?](https://www.theguardian.com/australia-news/2019/nov/22/australia-bushfires-factcheck-are-this-years-fires-unprecedented) \n\nThere is also other information that can be combined with this dataset, such as local air quality, and local alerts to increase accuracy.\n\n### Found an error? Let me know! \n\nFeel free to post on Discussion anything strange you may find, and I will be happy to follow-up. ",
+  "datasetId": 473032,
+  "datasetSlug": "fires-from-space-australia-and-new-zeland",
+  "hasDatasetSlug": true,
+  "ownerUser": "carlosparadis",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 128221,
+  "totalVotes": 239,
+  "totalDownloads": 10353,
+  "title": "Fires from Space: Australia",
+  "hasTitle": true,
+  "subtitle": "NASA Satellite Data MODISC6 and VIIRS 375m from 2019-08-01 to 2020-01-11",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCurrent news about Australia bushfire has been spreading fast, however, the same can't be said about the datasets. This NASA FIRMS MODIS and VIIRS Fire/Hotspot provide an initial dataset for fires in Australia. My main motivation to provide this dataset was the following article:\n\n- [BBC News - Australia fires: Misleading maps and pictures go viral](https://www.bbc.com/news/blogs-trending-51020564) \n\nSee the Ideas Section at the bottom for more inspiration. \n\n\n### Content\n\nThe current dataset provides 4 tables from 2 NASA Satellite Instruments:\n\n- [MODIS C6](https://earthdata.nasa.gov/learn/articles/what-is-new-collection-6-modis-active-fire-data) Tables \n   - fire_archive_M6_96619.csv\n   - fire_nrt_M6_96619.csv\n\n- [VIIRS 375m](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/viirs-i-band-active-fire-data) Tables \n   - fire_archive_V1_96617.csv\n   - fire_nrt_V1_96617.csv\n\nThe provided URLs contain more details on the two instrument differences. Each instrument contains two types of tables: Near Real Time (`_nrt_`) and older standard/science quality data (`_archive`). According to the README provided with the dataset, NRT data are replaced with standard quality data when they are available (usually with a 2-3 month lag). This time-lag can be observed on the tables by verifying the `acq_date` column (See available Kaggle Notebook). For more details between NRT and Archive see [this link](https://earthdata.nasa.gov/faq/firms-faq#ed-nrt-standard).\n\nMore information on the instruments used for this dataset can be found [here](https://earthdata.nasa.gov/learn/articles/wildfires-cant-hide-from-earth-observing-satellites) and [here](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms). All columns have been annotated with the description following Kaggle format. For data provenance, see the Metadata section. \n\n### Acknowledgements\n\nWe acknowledge the use of data and imagery from LANCE FIRMS operated by NASA's Earth Science Data and Information System (ESDIS) with funding provided by NASA Headquarters. \n\nNRT VIIRS 375 m Active Fire product VNP14IMGT. Available on-line [https://earthdata.nasa.gov/firms]. doi: 10.5067/FIRMS/VIIRS/VNP14IMGT.NRT.001.\n\nMODIS Collection 6 NRT Hotspot / Active Fire Detections MCD14DL. Available on-line [https://earthdata.nasa.gov/firms]. doi: 10.5067/FIRMS/MODIS/MCD14DL.NRT.006\n\n\n### Inspiration\n\nCurrent news articles are a wonderful inspiration for ways to analyze this data and or combine to other datasets. Some ideas:\n\n- [Australia fires: A visual guide to the bushfire crisis](https://www.bbc.com/news/world-australia-50951043)\n- [Australia bushfires factcheck: are this year's fires unprecedented?](https://www.theguardian.com/australia-news/2019/nov/22/australia-bushfires-factcheck-are-this-years-fires-unprecedented) \n\nThere is also other information that can be combined with this dataset, such as local air quality, and local alerts to increase accuracy.\n\n### Found an error? Let me know! \n\nFeel free to post on Discussion anything strange you may find, and I will be happy to follow-up. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "australia",
+    "earth and nature",
+    "business",
+    "science and technology",
+    "geospatial analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "debashis74017/stock-market-index-data-india-1990-2022",
+  "id_no": 2406900,
+  "datasetSlugNullable": "stock-market-index-data-india-1990-2022",
+  "ownerUserNullable": "debashis74017",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Stock Market Index Data India (1990 - 2022)",
+  "subtitleNullable": "Historical daily prices of Indian stock indices and VIX data",
+  "descriptionNullable": "**Disclaimer!!!**\nData uploaded here are collected from the internet. The sole purposes of uploading these data are to provide this Kaggle community with a good source of data for analysis and research. I don't own these datasets and am also not responsible for them legally by any means. I am not charging anything (either monetary or any favor) for this dataset. \n\n## **Overview**\n\nThis dataset contains historical daily prices for indices currently trading on the Indian Stock Market. The historical data are retrieved from the NSE India website. Daily gold price from 1979 to 2022 in INR is uploaded here. \n\n- **Premier**\n    - PE, P/B, Div Yield Data. \n    - Gold price to INR Data. \n\n## **Content**\nThis data contains daily OHLC data for all indices in NSE from 1990 to 2022. Along with Indices OHLC data, there are PE(Price to Earning ratio), P/B (Price to book value), and Dividend Yield data also available for all indices. \nLastly, Volatility Index (VIX) data is also available from 1990 to 2022. \n\nFor Example - \n- \"Nifty 50 data\" contains the below columns: \n    1. Date - Date of observation\n    2. Open - Open price of the index on a particular day\n    3. High - High price of the index on a particular day\n    4. Low - Low price of the index on a particular day\n    5. Close - Close price of the index on a particular day\n- \"NIFTY 50 - HistoricalPE_PBDIV_Data\" contains the below columns: \n    1. Date - Date of observation\n    2. P/E - Price to Earnings Ratio\n    3. P/B - Price-to-book value\n    4. Div Yield % - Dividend Yield = Cash Dividend per share / Market Price per share * 100\n\n- \"Gold price INR.csv\" contains Date and Gold price (INR per troy ounce). \nWhere 1 Troy ounce = 31.1035 gram\n\nThe list of indices is: \n1.   NIFTY 50                               \n2.  NIFTY 100             \n3.  NIFTY BANK                         \n4.  NIFTY COMMODITIES \n5.  NIFTY ENERGY                      \n6.  NIFTY FMCG \n7.  NIFTY HOUSING                    \n8.  NIFTY INDIA MANUFACTURING \n9.  NIFTY INFRASTRUCTURE     \n10. NIFTY IT\n11.  NIFTY MEDIA                          \n12.  NIFTY METAL \n13.  NIFTY MIDCAP 100                \n14.  NIFTY NEXT 50\n15.  NIFTY OIL & GAS                    \n16.  NIFTY PHARMA \n17.  NIFTY PRIVATE BANK\n18.  NIFTY PSU BANK\n19. NIFTY AUTO\n20.  VIX History                               \n\n##**Inspiration**\n- Data is uploaded for Research and Educational purposes. \n- The data scientists and researchers can download any index OHLC data, along with P/B, PE, and Dividend Yield values and VIX data. \n- Even Gold prices can help researchers to get more insight into their investment decisions. \n- A time series forecasting for future index price, based on multiple features along with OHLC data and P/B, P/E, and Div Yield percentage, VIX. \n\n\n##**Data Source**\nFor the gold price - https://gold.org\nFor stock indices - https://www.niftyindices.com/reports/historical-data",
+  "datasetId": 2406900,
+  "datasetSlug": "stock-market-index-data-india-1990-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "debashis74017",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21024,
+  "totalVotes": 71,
+  "totalDownloads": 3221,
+  "title": "Stock Market Index Data India (1990 - 2022)",
+  "hasTitle": true,
+  "subtitle": "Historical daily prices of Indian stock indices and VIX data",
+  "hasSubtitle": true,
+  "description": "**Disclaimer!!!**\nData uploaded here are collected from the internet. The sole purposes of uploading these data are to provide this Kaggle community with a good source of data for analysis and research. I don't own these datasets and am also not responsible for them legally by any means. I am not charging anything (either monetary or any favor) for this dataset. \n\n## **Overview**\n\nThis dataset contains historical daily prices for indices currently trading on the Indian Stock Market. The historical data are retrieved from the NSE India website. Daily gold price from 1979 to 2022 in INR is uploaded here. \n\n- **Premier**\n    - PE, P/B, Div Yield Data. \n    - Gold price to INR Data. \n\n## **Content**\nThis data contains daily OHLC data for all indices in NSE from 1990 to 2022. Along with Indices OHLC data, there are PE(Price to Earning ratio), P/B (Price to book value), and Dividend Yield data also available for all indices. \nLastly, Volatility Index (VIX) data is also available from 1990 to 2022. \n\nFor Example - \n- \"Nifty 50 data\" contains the below columns: \n    1. Date - Date of observation\n    2. Open - Open price of the index on a particular day\n    3. High - High price of the index on a particular day\n    4. Low - Low price of the index on a particular day\n    5. Close - Close price of the index on a particular day\n- \"NIFTY 50 - HistoricalPE_PBDIV_Data\" contains the below columns: \n    1. Date - Date of observation\n    2. P/E - Price to Earnings Ratio\n    3. P/B - Price-to-book value\n    4. Div Yield % - Dividend Yield = Cash Dividend per share / Market Price per share * 100\n\n- \"Gold price INR.csv\" contains Date and Gold price (INR per troy ounce). \nWhere 1 Troy ounce = 31.1035 gram\n\nThe list of indices is: \n1.   NIFTY 50                               \n2.  NIFTY 100             \n3.  NIFTY BANK                         \n4.  NIFTY COMMODITIES \n5.  NIFTY ENERGY                      \n6.  NIFTY FMCG \n7.  NIFTY HOUSING                    \n8.  NIFTY INDIA MANUFACTURING \n9.  NIFTY INFRASTRUCTURE     \n10. NIFTY IT\n11.  NIFTY MEDIA                          \n12.  NIFTY METAL \n13.  NIFTY MIDCAP 100                \n14.  NIFTY NEXT 50\n15.  NIFTY OIL & GAS                    \n16.  NIFTY PHARMA \n17.  NIFTY PRIVATE BANK\n18.  NIFTY PSU BANK\n19. NIFTY AUTO\n20.  VIX History                               \n\n##**Inspiration**\n- Data is uploaded for Research and Educational purposes. \n- The data scientists and researchers can download any index OHLC data, along with P/B, PE, and Dividend Yield values and VIX data. \n- Even Gold prices can help researchers to get more insight into their investment decisions. \n- A time series forecasting for future index price, based on multiple features along with OHLC data and P/B, P/E, and Div Yield percentage, VIX. \n\n\n##**Data Source**\nFor the gold price - https://gold.org\nFor stock indices - https://www.niftyindices.com/reports/historical-data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

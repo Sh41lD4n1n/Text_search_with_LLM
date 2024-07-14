@@ -1,0 +1,42 @@
+{
+  "id": "trikialaaa/2k-clean-medical-articles-medicalnewstoday",
+  "id_no": 865547,
+  "datasetSlugNullable": "2k-clean-medical-articles-medicalnewstoday",
+  "ownerUserNullable": "trikialaaa",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "2k clean medical articles (MedicalNewsToday)",
+  "subtitleNullable": "2000 cleaned approved medical articles from MedicalNewsToday ",
+  "descriptionNullable": "This dataset contains 2000 clean approved medical articles scraped from @MedicalNewsToday. It can serve for multiple NLP-related tasks such as subject identification and question answering.\n\nAll credits go to @MedicalNewsToday and the original authors.",
+  "datasetId": 865547,
+  "datasetSlug": "2k-clean-medical-articles-medicalnewstoday",
+  "hasDatasetSlug": true,
+  "ownerUser": "trikialaaa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3795,
+  "totalVotes": 16,
+  "totalDownloads": 314,
+  "title": "2k clean medical articles (MedicalNewsToday)",
+  "hasTitle": true,
+  "subtitle": "2000 cleaned approved medical articles from MedicalNewsToday ",
+  "hasSubtitle": true,
+  "description": "This dataset contains 2000 clean approved medical articles scraped from @MedicalNewsToday. It can serve for multiple NLP-related tasks such as subject identification and question answering.\n\nAll credits go to @MedicalNewsToday and the original authors.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "nlp",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

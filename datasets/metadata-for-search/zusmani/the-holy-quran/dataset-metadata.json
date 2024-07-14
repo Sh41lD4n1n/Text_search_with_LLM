@@ -1,0 +1,41 @@
+{
+  "id": "zusmani/the-holy-quran",
+  "id_no": 4185,
+  "datasetSlugNullable": "the-holy-quran",
+  "ownerUserNullable": "zusmani",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "The Holy Quran",
+  "subtitleNullable": "Understanding God - Sacred Meanings",
+  "descriptionNullable": "### Context\n\nThe Holy Quran is the central text for 1.5 billion Muslims around the world. It literally means \"The Recitation.\"  It is undoubtedly the finest work in Arabic literature and revealed by Allah (God) to His Messenger Prophet Muhammed (Peace Be Upon Him) through angel Gabriel. It was revealed verbally from December 22, 609  (AD) to 632 AD (when Prophet Muhammed (Peace Be Upon Him) died)\n \nThe book is divided into 30 parts, 114 Chapters and 6,000+ verses.\n\nThere has been a lot of questions and comments on the text of this holy book given the contemporary Geo-political situation of the world, wars in the Middle East and Afghanistan and the ongoing terrorism.\n\nI have put this dataset together to call my fellow data scientists to run their NLP algorithms and Kernels to find and explore the sacred text by them selves.  \n \n\n### Content\n\nThe data contains complete Holy Quran in following 21 languages (so data scientists from different parts of the world can work with it). The original text was revealed in Arabic. Other 20 files are the translations of the original text.\n\n1. Arabic (Original Book by God)\n\n2. English (Transalation by Yusuf Ali)\n\n3. Persian (Makarim Sheerazi)\n\n4. Urdu (Jalandhari)\n\n5. Turkish (Y. N. Ozturk)\n\n6. Portuguese (El. Hayek)\n\n7. Dutch (Keyzer)\n\n8. Norwegian (Einar Berg)\n\n9. Italian (Piccardo)\n\n10. French (Hamidullah)\n\n11. German (Zaidan)\n\n12. Swedish (Rashad Kalifa)\n\n13. Indonesia (Bhasha Indoenisan)\n \n14. Bangla\n\n15. Chinese/Madarin\n\n16. Japanese\n\n17. Malay\n\n18. Malayalam\n\n19. Russian\n\n20. Tamil\n\n21. Uzbek\n\n## Inspiration\n\nHere are some ideas to explore:\n\n1. Can we make a word cloud for each chapter\n\n2. Can we make a word cloud of the whole book and find out the frequency of each word\n\n3.  Can we describe or annotate subjects in each chapter and verse\n\n4. Can we find how many times The Quran has mentioned Humans, Women, Humility, Heaven or Hell\n\n5. Can we compare the text with other famous books and see the correlation\n\n6. Can we compare the text with laws in multiple countries to see the resemblance\n\nAny other ideas you can think of\n\nI am looking forward to see your work and ideas and will keep adding more ideas to explore\n\nWelcome on board to learn the finest text on earth with Data Sciences and Machine Learning!\n\n## Updates\n\nComplete Verse-By-Verse Dataset has been shared. A good contribution by Zohaib Ali - https://www.kaggle.com/zohaib1111\n(Nov 20, 2017)",
+  "datasetId": 4185,
+  "datasetSlug": "the-holy-quran",
+  "hasDatasetSlug": true,
+  "ownerUser": "zusmani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 86259,
+  "totalVotes": 586,
+  "totalDownloads": 8566,
+  "title": "The Holy Quran",
+  "hasTitle": true,
+  "subtitle": "Understanding God - Sacred Meanings",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Holy Quran is the central text for 1.5 billion Muslims around the world. It literally means \"The Recitation.\"  It is undoubtedly the finest work in Arabic literature and revealed by Allah (God) to His Messenger Prophet Muhammed (Peace Be Upon Him) through angel Gabriel. It was revealed verbally from December 22, 609  (AD) to 632 AD (when Prophet Muhammed (Peace Be Upon Him) died)\n \nThe book is divided into 30 parts, 114 Chapters and 6,000+ verses.\n\nThere has been a lot of questions and comments on the text of this holy book given the contemporary Geo-political situation of the world, wars in the Middle East and Afghanistan and the ongoing terrorism.\n\nI have put this dataset together to call my fellow data scientists to run their NLP algorithms and Kernels to find and explore the sacred text by them selves.  \n \n\n### Content\n\nThe data contains complete Holy Quran in following 21 languages (so data scientists from different parts of the world can work with it). The original text was revealed in Arabic. Other 20 files are the translations of the original text.\n\n1. Arabic (Original Book by God)\n\n2. English (Transalation by Yusuf Ali)\n\n3. Persian (Makarim Sheerazi)\n\n4. Urdu (Jalandhari)\n\n5. Turkish (Y. N. Ozturk)\n\n6. Portuguese (El. Hayek)\n\n7. Dutch (Keyzer)\n\n8. Norwegian (Einar Berg)\n\n9. Italian (Piccardo)\n\n10. French (Hamidullah)\n\n11. German (Zaidan)\n\n12. Swedish (Rashad Kalifa)\n\n13. Indonesia (Bhasha Indoenisan)\n \n14. Bangla\n\n15. Chinese/Madarin\n\n16. Japanese\n\n17. Malay\n\n18. Malayalam\n\n19. Russian\n\n20. Tamil\n\n21. Uzbek\n\n## Inspiration\n\nHere are some ideas to explore:\n\n1. Can we make a word cloud for each chapter\n\n2. Can we make a word cloud of the whole book and find out the frequency of each word\n\n3.  Can we describe or annotate subjects in each chapter and verse\n\n4. Can we find how many times The Quran has mentioned Humans, Women, Humility, Heaven or Hell\n\n5. Can we compare the text with other famous books and see the correlation\n\n6. Can we compare the text with laws in multiple countries to see the resemblance\n\nAny other ideas you can think of\n\nI am looking forward to see your work and ideas and will keep adding more ideas to explore\n\nWelcome on board to learn the finest text on earth with Data Sciences and Machine Learning!\n\n## Updates\n\nComplete Verse-By-Verse Dataset has been shared. A good contribution by Zohaib Ali - https://www.kaggle.com/zohaib1111\n(Nov 20, 2017)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "religion and belief systems",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

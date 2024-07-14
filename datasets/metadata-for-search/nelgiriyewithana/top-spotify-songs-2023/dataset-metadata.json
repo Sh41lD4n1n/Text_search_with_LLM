@@ -1,0 +1,44 @@
+{
+  "id": "nelgiriyewithana/top-spotify-songs-2023",
+  "id_no": 3668746,
+  "datasetSlugNullable": "top-spotify-songs-2023",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Most Streamed Spotify Songs 2023 ",
+  "subtitleNullable": "Hottest Spotify Hits \ud83c\udfb5",
+  "descriptionNullable": "# Description :\n\n&gt; This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It provides insights into each song's attributes, popularity, and presence on various music platforms. The dataset includes information such as **track name, artist(s) name, release date, Spotify playlists and charts, streaming statistics, Apple Music presence, Deezer presence, Shazam charts, and various audio features**.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/6367938.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n**Here is the link for the 2024 data:** [Most Streamed Spotify Songs 2024\n](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024) \ud83d\udfe2\n\n# Key Features:\n\n\n&gt;- **track_name**: *Name of the song*\n- **artist(s)_name**: *Name of the artist(s) of the song*\n- **artist_count**: *Number of artists contributing to the song*\n- **released_year**: *Year when the song was released*\n- **released_month**: *Month when the song was released*\n- **released_day**: *Day of the month when the song was released*\n- **in_spotify_playlists**: *Number of Spotify playlists the song is included in*\n- **in_spotify_charts**: *Presence and rank of the song on Spotify charts*\n- **streams**: *Total number of streams on Spotify*\n- **in_apple_playlists**: *Number of Apple Music playlists the song is included in*\n- **in_apple_charts**: *Presence and rank of the song on Apple Music charts*\n- **in_deezer_playlists**: *Number of Deezer playlists the song is included in*\n- **in_deezer_charts**: *Presence and rank of the song on Deezer charts*\n- **in_shazam_charts**: *Presence and rank of the song on Shazam charts*\n- **bpm**: *Beats per minute, a measure of song tempo*\n- **key**: *Key of the song*\n- **mode**: *Mode of the song (major or minor)*\n- **danceability_%**: *Percentage indicating how suitable the song is for dancing*\n- **valence_%**: *Positivity of the song's musical content*\n- **energy_%**: *Perceived energy level of the song*\n- **acousticness_%**: *Amount of acoustic sound in the song*\n- **instrumentalness_%**: *Amount of instrumental content in the song*\n- **liveness_%**: *Presence of live performance elements*\n- **speechiness_%**: *Amount of spoken words in the song*\n\n# Potential Use Cases:\n\n&gt;- **Music analysis:** Explore patterns in audio features to understand trends and preferences in popular songs.\n- **Platform comparison:** Compare the song's popularity across different music platforms.\n- **Artist impact:** Analyze how artist involvement and attributes relate to a song's success.\n- **Temporal trends:** Identify any shifts in music attributes and preferences over time.\n- **Cross-platform presence:** Investigate how songs perform across different streaming services.\n\nIf you find this dataset useful, your support through an upvote would be greatly appreciated \u2764\ufe0f\ud83d\ude42 <br>\nThank you",
+  "datasetId": 3668746,
+  "datasetSlug": "top-spotify-songs-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 404869,
+  "totalVotes": 1667,
+  "totalDownloads": 86227,
+  "title": "Most Streamed Spotify Songs 2023 ",
+  "hasTitle": true,
+  "subtitle": "Hottest Spotify Hits \ud83c\udfb5",
+  "hasSubtitle": true,
+  "description": "# Description :\n\n&gt; This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It provides insights into each song's attributes, popularity, and presence on various music platforms. The dataset includes information such as **track name, artist(s) name, release date, Spotify playlists and charts, streaming statistics, Apple Music presence, Deezer presence, Shazam charts, and various audio features**.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/6367938.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n**Here is the link for the 2024 data:** [Most Streamed Spotify Songs 2024\n](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024) \ud83d\udfe2\n\n# Key Features:\n\n\n&gt;- **track_name**: *Name of the song*\n- **artist(s)_name**: *Name of the artist(s) of the song*\n- **artist_count**: *Number of artists contributing to the song*\n- **released_year**: *Year when the song was released*\n- **released_month**: *Month when the song was released*\n- **released_day**: *Day of the month when the song was released*\n- **in_spotify_playlists**: *Number of Spotify playlists the song is included in*\n- **in_spotify_charts**: *Presence and rank of the song on Spotify charts*\n- **streams**: *Total number of streams on Spotify*\n- **in_apple_playlists**: *Number of Apple Music playlists the song is included in*\n- **in_apple_charts**: *Presence and rank of the song on Apple Music charts*\n- **in_deezer_playlists**: *Number of Deezer playlists the song is included in*\n- **in_deezer_charts**: *Presence and rank of the song on Deezer charts*\n- **in_shazam_charts**: *Presence and rank of the song on Shazam charts*\n- **bpm**: *Beats per minute, a measure of song tempo*\n- **key**: *Key of the song*\n- **mode**: *Mode of the song (major or minor)*\n- **danceability_%**: *Percentage indicating how suitable the song is for dancing*\n- **valence_%**: *Positivity of the song's musical content*\n- **energy_%**: *Perceived energy level of the song*\n- **acousticness_%**: *Amount of acoustic sound in the song*\n- **instrumentalness_%**: *Amount of instrumental content in the song*\n- **liveness_%**: *Presence of live performance elements*\n- **speechiness_%**: *Amount of spoken words in the song*\n\n# Potential Use Cases:\n\n&gt;- **Music analysis:** Explore patterns in audio features to understand trends and preferences in popular songs.\n- **Platform comparison:** Compare the song's popularity across different music platforms.\n- **Artist impact:** Analyze how artist involvement and attributes relate to a song's success.\n- **Temporal trends:** Identify any shifts in music attributes and preferences over time.\n- **Cross-platform presence:** Investigate how songs perform across different streaming services.\n\nIf you find this dataset useful, your support through an upvote would be greatly appreciated \u2764\ufe0f\ud83d\ude42 <br>\nThank you",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "education",
+    "computer science",
+    "exploratory data analysis",
+    "data visualization",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

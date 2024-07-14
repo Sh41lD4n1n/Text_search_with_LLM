@@ -1,0 +1,49 @@
+{
+  "id": "sachinkumar413/covid-pneumonia-normal-chest-xray-images",
+  "id_no": 1105311,
+  "datasetSlugNullable": "covid-pneumonia-normal-chest-xray-images",
+  "ownerUserNullable": "sachinkumar413",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "COVID19+PNEUMONIA+NORMAL Chest X-Ray Image Dataset",
+  "subtitleNullable": "Chest X-Ray Images Database ",
+  "descriptionNullable": "**Content**\n- It is a medical images directory structure branched into 3 subfolders (COVID, NORMAL, PNEUMONIA) which contains the Chest X-ray (CXR) Images.\nCOVID: 1626 images\nNORMAL: 1802 images\nPNEUMONIA: 1800 images\n\n\n**Context**\n- All images are preprocessed and resized to 256x256 in PNG format.\n\n\n**Inspiration**\n- Help the researcher and medical community to detect and classify COVID19 and Pneumonia from Chest X-Ray Images using Deep Learning.\n\n\n**Acknowledgement & References:**\n1. https://www.eurorad.org/ [Eurorad].\n2. https://radiopaedia.org/ [Radiopaedia].\n3. https://coronacases.org/ [Coronacases].\n4. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia [P. Mooney. (2018). Chest X-Ray Images (Pneumonia), Kaggle].\n\n**If you are using this dataset for research purposes then cite the below articles:**\n1. Shastri, S., Kansal, I., Kumar, S. et al. CheXImageNet: a novel architecture for accurate classification of Covid-19 with chest x-ray digital images using deep convolutional neural networks. Health Technol. 12, 193\u2013204 (2022). https://doi.org/10.1007/s12553-021-00630-x\n\n\n2. Kumar S, Shastri S, Mahajan S, et al. LiteCovidNet: A lightweight deep neural network model for detection of COVID-19 using X-ray images. Int J Imaging Syst Technol. 2022;1\u201017. DOI: https://doi.org/10.1002/ima.22770\n",
+  "datasetId": 1105311,
+  "datasetSlug": "covid-pneumonia-normal-chest-xray-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "sachinkumar413",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 12024,
+  "totalVotes": 32,
+  "totalDownloads": 2317,
+  "title": "COVID19+PNEUMONIA+NORMAL Chest X-Ray Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Chest X-Ray Images Database ",
+  "hasSubtitle": true,
+  "description": "**Content**\n- It is a medical images directory structure branched into 3 subfolders (COVID, NORMAL, PNEUMONIA) which contains the Chest X-ray (CXR) Images.\nCOVID: 1626 images\nNORMAL: 1802 images\nPNEUMONIA: 1800 images\n\n\n**Context**\n- All images are preprocessed and resized to 256x256 in PNG format.\n\n\n**Inspiration**\n- Help the researcher and medical community to detect and classify COVID19 and Pneumonia from Chest X-Ray Images using Deep Learning.\n\n\n**Acknowledgement & References:**\n1. https://www.eurorad.org/ [Eurorad].\n2. https://radiopaedia.org/ [Radiopaedia].\n3. https://coronacases.org/ [Coronacases].\n4. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia [P. Mooney. (2018). Chest X-Ray Images (Pneumonia), Kaggle].\n\n**If you are using this dataset for research purposes then cite the below articles:**\n1. Shastri, S., Kansal, I., Kumar, S. et al. CheXImageNet: a novel architecture for accurate classification of Covid-19 with chest x-ray digital images using deep convolutional neural networks. Health Technol. 12, 193\u2013204 (2022). https://doi.org/10.1007/s12553-021-00630-x\n\n\n2. Kumar S, Shastri S, Mahajan S, et al. LiteCovidNet: A lightweight deep neural network model for detection of COVID-19 using X-ray images. Int J Imaging Syst Technol. 2022;1\u201017. DOI: https://doi.org/10.1002/ima.22770\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer science",
+    "classification",
+    "deep learning",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sourabhshastri",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

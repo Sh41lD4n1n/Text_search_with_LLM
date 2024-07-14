@@ -1,0 +1,41 @@
+{
+  "id": "austinreese/craigslist-carstrucks-data",
+  "id_no": 62920,
+  "datasetSlugNullable": "craigslist-carstrucks-data",
+  "ownerUserNullable": "austinreese",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Used Cars Dataset",
+  "subtitleNullable": "Vehicles listings from Craigslist.org",
+  "descriptionNullable": "### Context\n\nCraigslist is the world's largest collection of used vehicles for sale, yet it's very difficult to collect all of them in the same place. I built a scraper for a school project and expanded upon it later to create this dataset which includes every used vehicle entry within the United States on Craigslist.\n\n---\n### Content\n\nThis data is scraped every few months, it contains most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. For ML projects, consider feature engineering on location columns such as long/lat. For previous listings, check older versions of the dataset.\n\n---\nSee https://github.com/AustinReese/UsedVehicleSearch",
+  "datasetId": 62920,
+  "datasetSlug": "craigslist-carstrucks-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "austinreese",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 621062,
+  "totalVotes": 1386,
+  "totalDownloads": 82049,
+  "title": "Used Cars Dataset",
+  "hasTitle": true,
+  "subtitle": "Vehicles listings from Craigslist.org",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCraigslist is the world's largest collection of used vehicles for sale, yet it's very difficult to collect all of them in the same place. I built a scraper for a school project and expanded upon it later to create this dataset which includes every used vehicle entry within the United States on Craigslist.\n\n---\n### Content\n\nThis data is scraped every few months, it contains most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. For ML projects, consider feature engineering on location columns such as long/lat. For previous listings, check older versions of the dataset.\n\n---\nSee https://github.com/AustinReese/UsedVehicleSearch",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "economics",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

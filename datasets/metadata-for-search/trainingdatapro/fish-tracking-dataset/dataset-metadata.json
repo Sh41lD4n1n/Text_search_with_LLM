@@ -1,0 +1,43 @@
+{
+  "id": "trainingdatapro/fish-tracking-dataset",
+  "id_no": 3624985,
+  "datasetSlugNullable": "fish-tracking-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fish Video Object Tracking Dataset",
+  "subtitleNullable": "Video Frames with Fish Tracking - Object Detection dataset",
+  "descriptionNullable": "# Fish Tracking - Object Detection dataset\nThe collection of video frames, capturing various types of fish swimming in the water. The dataset includes fish of different colors, sizes and with different swimming speeds.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=fish-tracking-dataset)** to buy the dataset\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F05e0a6bd3bdaf28d534777ac1dee8b42%2Fout1.gif?generation=1692029879238359&alt=media)\n\n# Data Format \nEach video frame from `images` folder is paired with an `annotations.xml` file that meticulously defines the tracking of each fish using bouunding boxes. \n\nThe data labeling is visualized in the `boxes` folder.\n\n# Example of the XML-file \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F7fec3e9ada63950a15c2d0ef86b7138f%2Fcarbon.png?generation=1692029259930966&alt=media)\n\n# Object tracking might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=fish-tracking-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n# **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=fish-tracking-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: animal recognition, animal detection, farming, fish recognition, fish detection, image-based recognition, fish images dataset, object detection, object tracking, deep learning, computer vision, animal contacts, images dataset, agriculture, fish species annotations, fish pond, pond water, sea, fish farms, environment, aquaculture production, bounding boxes*\n",
+  "datasetId": 3624985,
+  "datasetSlug": "fish-tracking-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3936,
+  "totalVotes": 26,
+  "totalDownloads": 491,
+  "title": "Fish Video Object Tracking Dataset",
+  "hasTitle": true,
+  "subtitle": "Video Frames with Fish Tracking - Object Detection dataset",
+  "hasSubtitle": true,
+  "description": "# Fish Tracking - Object Detection dataset\nThe collection of video frames, capturing various types of fish swimming in the water. The dataset includes fish of different colors, sizes and with different swimming speeds.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=fish-tracking-dataset)** to buy the dataset\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F05e0a6bd3bdaf28d534777ac1dee8b42%2Fout1.gif?generation=1692029879238359&alt=media)\n\n# Data Format \nEach video frame from `images` folder is paired with an `annotations.xml` file that meticulously defines the tracking of each fish using bouunding boxes. \n\nThe data labeling is visualized in the `boxes` folder.\n\n# Example of the XML-file \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F7fec3e9ada63950a15c2d0ef86b7138f%2Fcarbon.png?generation=1692029259930966&alt=media)\n\n# Object tracking might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=fish-tracking-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n# **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=fish-tracking-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: animal recognition, animal detection, farming, fish recognition, fish detection, image-based recognition, fish images dataset, object detection, object tracking, deep learning, computer vision, animal contacts, images dataset, agriculture, fish species annotations, fish pond, pond water, sea, fish farms, environment, aquaculture production, bounding boxes*\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software",
+    "computer vision",
+    "image",
+    "fish and aquaria",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gentrexha/albanian-fake-news-corpus",
+  "id_no": 1758822,
+  "datasetSlugNullable": "albanian-fake-news-corpus",
+  "ownerUserNullable": "gentrexha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Albanian Fake News Corpus",
+  "subtitleNullable": "Albanian Fake News Corpus taken from the 'Albanian fake news detection' paper",
+  "descriptionNullable": "### Context\n\nThis dataset was derived from the publication 'Albanian fake news detection' by ERCAN CANHASI, REXHEP SHIJAKU, and ERBLIN BERISHA. Their GitHub Repository can be found at this [URL](https://github.com/rexshijaku/alb-fake-news-corpus).\n\n\n### Content\n\nThis dataset is made up of a small corpus of news that the authors of the study manually assessed as fake or not. Figure 1 depicts the entire corpus formation process:\n\n![Process of building the Alb-Fake-News-Corpus](https://i.imgur.com/8vD8DjM.png)\n\n\n### Inspiration\n\nI was delighted to discover the authors' work and wanted to publish it in a DataFrame-friendly style so that others may build on it.",
+  "datasetId": 1758822,
+  "datasetSlug": "albanian-fake-news-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "gentrexha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3287,
+  "totalVotes": 9,
+  "totalDownloads": 124,
+  "title": "Albanian Fake News Corpus",
+  "hasTitle": true,
+  "subtitle": "Albanian Fake News Corpus taken from the 'Albanian fake news detection' paper",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was derived from the publication 'Albanian fake news detection' by ERCAN CANHASI, REXHEP SHIJAKU, and ERBLIN BERISHA. Their GitHub Repository can be found at this [URL](https://github.com/rexshijaku/alb-fake-news-corpus).\n\n\n### Content\n\nThis dataset is made up of a small corpus of news that the authors of the study manually assessed as fake or not. Figure 1 depicts the entire corpus formation process:\n\n![Process of building the Alb-Fake-News-Corpus](https://i.imgur.com/8vD8DjM.png)\n\n\n### Inspiration\n\nI was delighted to discover the authors' work and wanted to publish it in a DataFrame-friendly style so that others may build on it.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "nlp",
+    "classification",
+    "news",
+    "albanian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

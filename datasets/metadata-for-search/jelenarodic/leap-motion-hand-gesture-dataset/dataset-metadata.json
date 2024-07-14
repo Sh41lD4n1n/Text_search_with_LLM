@@ -1,0 +1,39 @@
+{
+  "id": "jelenarodic/leap-motion-hand-gesture-dataset",
+  "id_no": 1962755,
+  "datasetSlugNullable": "leap-motion-hand-gesture-dataset",
+  "ownerUserNullable": "jelenarodic",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Leap Motion Hand Gesture Dataset",
+  "subtitleNullable": "This dataset is created for hand gesture recognition for classification tasks",
+  "descriptionNullable": "",
+  "datasetId": 1962755,
+  "datasetSlug": "leap-motion-hand-gesture-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jelenarodic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 276,
+  "totalVotes": 1,
+  "totalDownloads": 18,
+  "title": "Leap Motion Hand Gesture Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset is created for hand gesture recognition for classification tasks",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

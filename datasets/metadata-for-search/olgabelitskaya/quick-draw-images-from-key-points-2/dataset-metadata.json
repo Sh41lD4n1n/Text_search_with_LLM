@@ -1,0 +1,45 @@
+{
+  "id": "olgabelitskaya/quick-draw-images-from-key-points-2",
+  "id_no": 782374,
+  "datasetSlugNullable": "quick-draw-images-from-key-points-2",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Quick, Draw! Images from Key Points 2",
+  "subtitleNullable": "Classification of Sketch Images",
+  "descriptionNullable": "### Context\nKey points in sketches were connected with lines and convert to pixel images.\nThe original dataset is [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)\n\n### Content\n500,000 images (as numeric arrays) and targets (as numeric labels) are compressed in h5 files.\n\nQuickDrawImages6.h5 &lt;=\n'bush', 'butterfly', 'cactus', 'cake', 'calculator', 'calendar', 'camel', 'camera', 'camouflage', 'campfire'\n\nQuickDrawImages7.h5 &lt;=\n'candle', 'cannon', 'canoe', 'car', 'carrot', 'castle', 'cat', 'ceiling_fan', 'cell_phone', 'cello'\n\nQuickDrawImages8.h5 &lt;=\n'chair', 'chandelier', 'church', 'circle', 'clarinet', 'clock', 'cloud', 'coffee_cup', 'compass', 'computer'\n\nQuickDrawImages9.h5 &lt;=\n 'cookie', 'cooler', 'couch', 'cow', 'crab', 'crayon', 'crocodile', 'crown', 'cruise_ship', 'cup'\n\nQuickDrawImages10.h5 &lt;=\n'diamond', 'dishwasher', 'diving_board', 'dog', 'dolphin', 'donut', 'door', 'dragon', 'dresser', 'drill'\n\n### Acknowledgments\nAll the thanks should be ended to the creators of the original data.\n\n### Inspiration\nHow does the converting key points into pixel images influence on classification?",
+  "datasetId": 782374,
+  "datasetSlug": "quick-draw-images-from-key-points-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2455,
+  "totalVotes": 5,
+  "totalDownloads": 49,
+  "title": "Quick, Draw! Images from Key Points 2",
+  "hasTitle": true,
+  "subtitle": "Classification of Sketch Images",
+  "hasSubtitle": true,
+  "description": "### Context\nKey points in sketches were connected with lines and convert to pixel images.\nThe original dataset is [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)\n\n### Content\n500,000 images (as numeric arrays) and targets (as numeric labels) are compressed in h5 files.\n\nQuickDrawImages6.h5 &lt;=\n'bush', 'butterfly', 'cactus', 'cake', 'calculator', 'calendar', 'camel', 'camera', 'camouflage', 'campfire'\n\nQuickDrawImages7.h5 &lt;=\n'candle', 'cannon', 'canoe', 'car', 'carrot', 'castle', 'cat', 'ceiling_fan', 'cell_phone', 'cello'\n\nQuickDrawImages8.h5 &lt;=\n'chair', 'chandelier', 'church', 'circle', 'clarinet', 'clock', 'cloud', 'coffee_cup', 'compass', 'computer'\n\nQuickDrawImages9.h5 &lt;=\n 'cookie', 'cooler', 'couch', 'cow', 'crab', 'crayon', 'crocodile', 'crown', 'cruise_ship', 'cup'\n\nQuickDrawImages10.h5 &lt;=\n'diamond', 'dishwasher', 'diving_board', 'dog', 'dolphin', 'donut', 'door', 'dragon', 'dresser', 'drill'\n\n### Acknowledgments\nAll the thanks should be ended to the creators of the original data.\n\n### Inspiration\nHow does the converting key points into pixel images influence on classification?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "computer vision",
+    "data visualization",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

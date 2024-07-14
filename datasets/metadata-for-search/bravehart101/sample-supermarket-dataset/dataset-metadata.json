@@ -1,0 +1,39 @@
+{
+  "id": "bravehart101/sample-supermarket-dataset",
+  "id_no": 782034,
+  "datasetSlugNullable": "sample-supermarket-dataset",
+  "ownerUserNullable": "bravehart101",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Sample Superstore Dataset",
+  "subtitleNullable": "Practice Your Data Analysis Skills as a Superstore Data Analyst",
+  "descriptionNullable": "### Context\n\nThis is a sample superstore dataset, a kind of a simulation where you perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing the losses.\n\n",
+  "datasetId": 782034,
+  "datasetSlug": "sample-supermarket-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bravehart101",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 172868,
+  "totalVotes": 176,
+  "totalDownloads": 33452,
+  "title": "Sample Superstore Dataset",
+  "hasTitle": true,
+  "subtitle": "Practice Your Data Analysis Skills as a Superstore Data Analyst",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a sample superstore dataset, a kind of a simulation where you perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing the losses.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

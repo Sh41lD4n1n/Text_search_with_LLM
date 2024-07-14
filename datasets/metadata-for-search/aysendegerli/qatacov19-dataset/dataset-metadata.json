@@ -1,0 +1,73 @@
+{
+  "id": "aysendegerli/qatacov19-dataset",
+  "id_no": 1074772,
+  "datasetSlugNullable": "qatacov19-dataset",
+  "ownerUserNullable": "aysendegerli",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "QaTa-COV19 Dataset",
+  "subtitleNullable": "Qatar University & Tampere University & Hamad Medical Corporation",
+  "descriptionNullable": "- Project video: https://youtu.be/KRuv86R887c\n- Project demo: http://qatacov.live/\n\n# QaTa-COV19 Dataset (Extended)\ud83e\udda0\ud83c\udfe5\nThe researchers of Qatar University and Tampere University have compiled the QaTa-COV19 dataset that consists of 9258 COVID-19 chest X-ray images. For the first time, the dataset includes the ground-truth segmentation masks for the COVID-19 pneumonia segmentation task. For more details, please check the file -&gt; readme.txt\n\n# COVID-19 at Early Stages \ud83d\ude37\nEarly-QaTa-COV19 dataset is a subset of QaTa-COV19 dataset, which consists of 1065 chest X-rays including *no* or *limited sign* of COVID-19 pneumonia cases for early COVID-19 detection. This version of the dataset is compiled from cases of COVID-19, where doctors could not specify pneumonia traces of COVID-19 on the CXRs.\n\n## If you use the dataset, please consider citing:\n[P1] A. Degerli, S. Kiranyaz, M. E. H. Chowdhury and M. Gabbouj, \"Osegnet: Operational Segmentation Network for Covid-19 Detection Using Chest X-Ray Images,\" 2022 IEEE International Conference on Image Processing (ICIP), pp. 2306-2310, 2022, https://doi.org/10.1109/ICIP46576.2022.9897412. -&gt; presentation video available at https://www.youtube.com/watch?v=_SHHwXLz13s\n\n[P2] M. Ahishali, A. Degerli, M. Yamac, S. Kiranyaz, M. E. H. Chowdhury, K. Hameed, T. Hamid, R. Mazhar, and M. Gabbouj, \"Advance warning methodologies for covid-19 using chest x-ray images,\" IEEE Access, vol. 9, pp. 41052-41065, 2021, https://doi.org/10.1109/ACCESS.2021.3064927.\n\n[P3] A. Degerli, M. Ahishali, M. Yamac, S. Kiranyaz, M. E. H. Chowdhury, K. Hameed, T. Hamid, R. Mazhar, and M. Gabbouj, \"Covid-19 infection map generation and detection from chest X-ray images,\" Health Inf Sci Syst 9, 15 (2021). https://doi.org/10.1007/s13755-021-00146-8.\n\n[P4] A. Degerli, M. Ahishali, S. Kiranyaz, M. E. H. Chowdhury, and M. Gabbouj, \"Reliable Covid-19 detection using chest x-ray images,\" 2021 IEEE International Conference on Image Processing (ICIP), pp. 185-189, 2021, https://doi.org/10.1109/ICIP42928.2021.9506442. -&gt; presentation video available at https://www.youtube.com/watch?v=rUXo9rKwFQg\n\n[P5] M. Yamac, M. Ahishali, A. Degerli, S. Kiranyaz, M. E. H. Chowdhury, and M. Gabbouj, \"Convolutional sparse support estimator based covid-19 recognition from x-ray images,\" IEEE Transactions on Neural Networks and Learning Systems, vol. 32, no. 5, pp. 1810-1820, 2021, https://doi.org/10.1109/TNNLS.2021.3070467.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1604467%2Fa707348158124105dd32b110ee36e749%2Fqatacov.png?generation=1609961795085963&alt=media)",
+  "datasetId": 1074772,
+  "datasetSlug": "qatacov19-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aysendegerli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 19059,
+  "totalVotes": 39,
+  "totalDownloads": 1587,
+  "title": "QaTa-COV19 Dataset",
+  "hasTitle": true,
+  "subtitle": "Qatar University & Tampere University & Hamad Medical Corporation",
+  "hasSubtitle": true,
+  "description": "- Project video: https://youtu.be/KRuv86R887c\n- Project demo: http://qatacov.live/\n\n# QaTa-COV19 Dataset (Extended)\ud83e\udda0\ud83c\udfe5\nThe researchers of Qatar University and Tampere University have compiled the QaTa-COV19 dataset that consists of 9258 COVID-19 chest X-ray images. For the first time, the dataset includes the ground-truth segmentation masks for the COVID-19 pneumonia segmentation task. For more details, please check the file -&gt; readme.txt\n\n# COVID-19 at Early Stages \ud83d\ude37\nEarly-QaTa-COV19 dataset is a subset of QaTa-COV19 dataset, which consists of 1065 chest X-rays including *no* or *limited sign* of COVID-19 pneumonia cases for early COVID-19 detection. This version of the dataset is compiled from cases of COVID-19, where doctors could not specify pneumonia traces of COVID-19 on the CXRs.\n\n## If you use the dataset, please consider citing:\n[P1] A. Degerli, S. Kiranyaz, M. E. H. Chowdhury and M. Gabbouj, \"Osegnet: Operational Segmentation Network for Covid-19 Detection Using Chest X-Ray Images,\" 2022 IEEE International Conference on Image Processing (ICIP), pp. 2306-2310, 2022, https://doi.org/10.1109/ICIP46576.2022.9897412. -&gt; presentation video available at https://www.youtube.com/watch?v=_SHHwXLz13s\n\n[P2] M. Ahishali, A. Degerli, M. Yamac, S. Kiranyaz, M. E. H. Chowdhury, K. Hameed, T. Hamid, R. Mazhar, and M. Gabbouj, \"Advance warning methodologies for covid-19 using chest x-ray images,\" IEEE Access, vol. 9, pp. 41052-41065, 2021, https://doi.org/10.1109/ACCESS.2021.3064927.\n\n[P3] A. Degerli, M. Ahishali, M. Yamac, S. Kiranyaz, M. E. H. Chowdhury, K. Hameed, T. Hamid, R. Mazhar, and M. Gabbouj, \"Covid-19 infection map generation and detection from chest X-ray images,\" Health Inf Sci Syst 9, 15 (2021). https://doi.org/10.1007/s13755-021-00146-8.\n\n[P4] A. Degerli, M. Ahishali, S. Kiranyaz, M. E. H. Chowdhury, and M. Gabbouj, \"Reliable Covid-19 detection using chest x-ray images,\" 2021 IEEE International Conference on Image Processing (ICIP), pp. 185-189, 2021, https://doi.org/10.1109/ICIP42928.2021.9506442. -&gt; presentation video available at https://www.youtube.com/watch?v=rUXo9rKwFQg\n\n[P5] M. Yamac, M. Ahishali, A. Degerli, S. Kiranyaz, M. E. H. Chowdhury, and M. Gabbouj, \"Convolutional sparse support estimator based covid-19 recognition from x-ray images,\" IEEE Transactions on Neural Networks and Learning Systems, vol. 32, no. 5, pp. 1810-1820, 2021, https://doi.org/10.1109/TNNLS.2021.3070467.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1604467%2Fa707348158124105dd32b110ee36e749%2Fqatacov.png?generation=1609961795085963&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "data visualization",
+    "deep learning",
+    "image",
+    "transfer learning",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "name": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mc16262",
+      "role": "writer"
+    },
+    {
+      "username": "tawsifurrahman",
+      "role": "writer"
+    },
+    {
+      "username": "amithkhandakar",
+      "role": "writer"
+    },
+    {
+      "username": "yazanqiblawey",
+      "role": "writer"
+    },
+    {
+      "username": "meteahishali",
+      "role": "writer"
+    },
+    {
+      "username": "anasmtahir",
+      "role": "writer"
+    },
+    {
+      "username": "serkankiranyaz",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

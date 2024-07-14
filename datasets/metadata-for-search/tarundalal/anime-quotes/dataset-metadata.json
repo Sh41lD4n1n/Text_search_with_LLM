@@ -1,0 +1,43 @@
+{
+  "id": "tarundalal/anime-quotes",
+  "id_no": 2371385,
+  "datasetSlugNullable": "anime-quotes",
+  "ownerUserNullable": "tarundalal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Quotes",
+  "subtitleNullable": "Anime Vyuh: A Fusion Of Coding And Anime",
+  "descriptionNullable": "### Anime Quote: A Beginner dataset for NLP\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n\nThis dataset contains famous Anime Quotes. This dataset will help in Anime Quotes Sentiment Analysis. More data will be soon added. \n\nColumns:\n- Quotes: This contains the Famous Quotes of the character\n- Character: Quoted by\n- Anime: Title of the specific Anime\n\n",
+  "datasetId": 2371385,
+  "datasetSlug": "anime-quotes",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarundalal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8840,
+  "totalVotes": 42,
+  "totalDownloads": 2147,
+  "title": "Anime Quotes",
+  "hasTitle": true,
+  "subtitle": "Anime Vyuh: A Fusion Of Coding And Anime",
+  "hasSubtitle": true,
+  "description": "### Anime Quote: A Beginner dataset for NLP\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n\nThis dataset contains famous Anime Quotes. This dataset will help in Anime Quotes Sentiment Analysis. More data will be soon added. \n\nColumns:\n- Quotes: This contains the Famous Quotes of the character\n- Character: Quoted by\n- Anime: Title of the specific Anime\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "computer science",
+    "nlp",
+    "anime and manga",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

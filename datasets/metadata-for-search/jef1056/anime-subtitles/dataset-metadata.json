@@ -1,0 +1,43 @@
+{
+  "id": "jef1056/anime-subtitles",
+  "id_no": 218532,
+  "datasetSlugNullable": "anime-subtitles",
+  "ownerUserNullable": "jef1056",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Anime Subtitles",
+  "subtitleNullable": "Cleaned subtitle data from a variety of anime across multiple genres",
+  "descriptionNullable": "### Content\nThe original extracted versions (in .srt and .ass format) are also included in this release (which, idk why, but kaggle decompressed &gt;:U)\n\nThis dataset contains 1,497,770 messages across 3,836 episodes of anime. The raw dataset contains 1,563,442 messages, some of which were removed during cleaning.\n\nThis version (V4) adapts the original (frankly, terrible) format into the newer format I developed, which is used in https://github.com/JEF1056/clean-discord.\nThe Dataset folder contains compressed text files, which are compatable with tensorflow datasets. These can be streamed as a textlinedataset in the TSV format.\n\nV4 also fixes many (but not all) issues that the original cleaning script was too simple to realistically take care of. It also uses the clean-discord cleaner algorithms to make sentences more natural language than formatting. The script has also been optimized to run on multi-core systems, allowing it to complete cleaning this entire dataset in under 30 seconds on a 4-core machine. See the new and impoved script here: https://github.com/JEF1056/clean-discord/blob/v1.2/misc/anime.py (no longer bundled in the dataset files)\n\n##Format\nThe files are now all compressed to save space, and are compatable with tensorflow datasets. You can initialize a dataset function as such:\n```\ndef dataset_fn_local(split, shuffle_files=False):\n    global nq_tsv_path\n    del shuffle_files\n    # Load lines from the text file as examples.\n    files_to_read=[os.path.join(nq_tsv_path[split],filename) for filename in os.listdir(nq_tsv_path[split]) if filename.startswith(split)]\n    print(f\"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Split {split} contains {len(files_to_read)} files.\\nFirst 10: {files_to_read[0:10]}\")\n    ds = tf.data.TextLineDataset(files_to_read, compression_type=\"GZIP\").filter(lambda line:tf.not_equal(tf.strings.length(line),0))\n    ds = ds.shuffle(buffer_size=600000)\n    ds = ds.map(functools.partial(tf.io.decode_csv, record_defaults=[\"\",\"\"], field_delim=\"\\t\", use_quote_delim=False), num_parallel_calls=tf.data.experimental.AUTOTUNE)\n    ds = ds.map(lambda *ex: dict(zip([\"question\", \"answer\"], ex)))\n    return ds\n```\n\n### Acknowledgements\nA sincere thanks to all of my friends for helping me come up with anime titles, a shoutout to the talented and dedicated people translating Japanese anime, and an even bigger thanks to Leen Chan for compiling the actual subtitles.\n\nThis dataset is far from complete! I hope that people who are willing to find, add and clean the data are out there, and could do their best to try and help out in the effort to grow this data",
+  "datasetId": 218532,
+  "datasetSlug": "anime-subtitles",
+  "hasDatasetSlug": true,
+  "ownerUser": "jef1056",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 61190,
+  "totalVotes": 49,
+  "totalDownloads": 1491,
+  "title": "Anime Subtitles",
+  "hasTitle": true,
+  "subtitle": "Cleaned subtitle data from a variety of anime across multiple genres",
+  "hasSubtitle": true,
+  "description": "### Content\nThe original extracted versions (in .srt and .ass format) are also included in this release (which, idk why, but kaggle decompressed &gt;:U)\n\nThis dataset contains 1,497,770 messages across 3,836 episodes of anime. The raw dataset contains 1,563,442 messages, some of which were removed during cleaning.\n\nThis version (V4) adapts the original (frankly, terrible) format into the newer format I developed, which is used in https://github.com/JEF1056/clean-discord.\nThe Dataset folder contains compressed text files, which are compatable with tensorflow datasets. These can be streamed as a textlinedataset in the TSV format.\n\nV4 also fixes many (but not all) issues that the original cleaning script was too simple to realistically take care of. It also uses the clean-discord cleaner algorithms to make sentences more natural language than formatting. The script has also been optimized to run on multi-core systems, allowing it to complete cleaning this entire dataset in under 30 seconds on a 4-core machine. See the new and impoved script here: https://github.com/JEF1056/clean-discord/blob/v1.2/misc/anime.py (no longer bundled in the dataset files)\n\n##Format\nThe files are now all compressed to save space, and are compatable with tensorflow datasets. You can initialize a dataset function as such:\n```\ndef dataset_fn_local(split, shuffle_files=False):\n    global nq_tsv_path\n    del shuffle_files\n    # Load lines from the text file as examples.\n    files_to_read=[os.path.join(nq_tsv_path[split],filename) for filename in os.listdir(nq_tsv_path[split]) if filename.startswith(split)]\n    print(f\"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Split {split} contains {len(files_to_read)} files.\\nFirst 10: {files_to_read[0:10]}\")\n    ds = tf.data.TextLineDataset(files_to_read, compression_type=\"GZIP\").filter(lambda line:tf.not_equal(tf.strings.length(line),0))\n    ds = ds.shuffle(buffer_size=600000)\n    ds = ds.map(functools.partial(tf.io.decode_csv, record_defaults=[\"\",\"\"], field_delim=\"\\t\", use_quote_delim=False), num_parallel_calls=tf.data.experimental.AUTOTUNE)\n    ds = ds.map(lambda *ex: dict(zip([\"question\", \"answer\"], ex)))\n    return ds\n```\n\n### Acknowledgements\nA sincere thanks to all of my friends for helping me come up with anime titles, a shoutout to the talented and dedicated people translating Japanese anime, and an even bigger thanks to Leen Chan for compiling the actual subtitles.\n\nThis dataset is far from complete! I hope that people who are willing to find, add and clean the data are out there, and could do their best to try and help out in the effort to grow this data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "nlp",
+    "text mining",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

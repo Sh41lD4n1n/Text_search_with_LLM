@@ -1,0 +1,42 @@
+{
+  "id": "zakarii/lofi-hip-hop-midi",
+  "id_no": 1272672,
+  "datasetSlugNullable": "lofi-hip-hop-midi",
+  "ownerUserNullable": "zakarii",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Lo-Fi Hip Hop MIDIs",
+  "subtitleNullable": "MIDI files characterized by distinctive and mellow jazz-like beats.",
+  "descriptionNullable": "## Please see https://ai.plainenglish.io/building-a-lo-fi-hip-hop-generator-e24a005d0144 for how I was able to create a Lo-Fi Hip Hop Generator with this dataset!\n\n### Context\n\nLo-fi Hip Hop refers to a subliminal genre of music that fuses traditional hip-hop and jazz elements to create an atmospheric, soothing, instrumental soundscape. It is characterized by the high-utilization of elements such as introspection, mellow tunes, and Japanese anime.\nPioneers such as Nujabes and J Dilla have been referred to as the \u201cgodfathers of Lo-Fi Hip Hop\u201d. Now, the music is being produced and moved forward through a vast assortment of musical artists such as eevee, tomppabeats, jinsang, and many others.\n24/7 lo-fi hip-hop livestreams on YouTube have won the hearts and minds of millions of listeners, such as myself. If you search \u201clofi hip hop livestream\u201d on YouTube right now, you\u2019ll find lots of different live broadcasts. Popular channels such as ChilledCow attract as many as 50,000 concurrent viewers or more at any given time. It also has a significant presence on Spotify, with playlists like Lo-Fi Beats commanding millions of followers.\n\n\n### Content\n\nAs we have explained, Lo-Fi Hip Hop is characterized by distinctive and mellow jazz-like beats. For example, here is an mp3 file containing the loop to Nujabes \u2014 Feather:\n<div style=\"font-size: 10px; color: #cccccc; overflow: hidden; white-space: nowrap; font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif; font-weight: 100\"><a href=\"https://soundcloud.com/invisible_bridge\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none\">Ancient</a> \u00b7 <a href=\"https://soundcloud.com/invisible_bridge/nujabes-feather-feat-cise\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none\">Nujabes - Feather feat. Cise Starr & Akin</a></div>\n\n..and here is the corresponding MIDI file I then proceeded to loop myself:\n\nhttps://onlinesequencer.net/1705128\n\nA MIDI file is essentially a very compact way of representing a sequence of notes being used on different instruments. MIDI carries event messages that specify the instructions for music, i.e., \u201cnote on\u201d, \u201cnote off\u201d, octave, velocity, and pitch.\n\nUsing Music21 (a toolkit for extracting data from MIDI files), we then convert them into \u201cNoteSequences\u201d, a fast and efficient data format that\u2019s easier to work with for training. Once we have extracted all relevant information, we can then apply other audio processing techniques on it to produce music.\n\nThe main advantage of using MIDI files is that the computation needed is drastically less. For instance, raw audio has an average of 44100 time steps a second, nearly 10,000X more than a MIDI file. The trade-off is that we are unable to fully encapsulate the entirety of all the musical instruments and beat in the track (To see how we might solve this, check PART 2).\n\nWhen building your dataset, you have to be willing to scour the web for hours searching for pieces that truly encapsulate what your trying to model (or even creating them yourself). This is to ensure that the model has enough relevant information and variety to correctly predict the resulting notes. Thus, many of the MIDI files were sampled from recurring notes and chords found in slow jazz and hip-hop that are prevalent in lofi hip-hop tracks.\n\nNoteworthy mentions go to Cymatics for their free Lofi-Hip Hop MIDI files and samples that I used in the dataset. Other MIDI files were found through various reddit threads and google searches.",
+  "datasetId": 1272672,
+  "datasetSlug": "lofi-hip-hop-midi",
+  "hasDatasetSlug": true,
+  "ownerUser": "zakarii",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 24205,
+  "totalVotes": 80,
+  "totalDownloads": 3499,
+  "title": "Lo-Fi Hip Hop MIDIs",
+  "hasTitle": true,
+  "subtitle": "MIDI files characterized by distinctive and mellow jazz-like beats.",
+  "hasSubtitle": true,
+  "description": "## Please see https://ai.plainenglish.io/building-a-lo-fi-hip-hop-generator-e24a005d0144 for how I was able to create a Lo-Fi Hip Hop Generator with this dataset!\n\n### Context\n\nLo-fi Hip Hop refers to a subliminal genre of music that fuses traditional hip-hop and jazz elements to create an atmospheric, soothing, instrumental soundscape. It is characterized by the high-utilization of elements such as introspection, mellow tunes, and Japanese anime.\nPioneers such as Nujabes and J Dilla have been referred to as the \u201cgodfathers of Lo-Fi Hip Hop\u201d. Now, the music is being produced and moved forward through a vast assortment of musical artists such as eevee, tomppabeats, jinsang, and many others.\n24/7 lo-fi hip-hop livestreams on YouTube have won the hearts and minds of millions of listeners, such as myself. If you search \u201clofi hip hop livestream\u201d on YouTube right now, you\u2019ll find lots of different live broadcasts. Popular channels such as ChilledCow attract as many as 50,000 concurrent viewers or more at any given time. It also has a significant presence on Spotify, with playlists like Lo-Fi Beats commanding millions of followers.\n\n\n### Content\n\nAs we have explained, Lo-Fi Hip Hop is characterized by distinctive and mellow jazz-like beats. For example, here is an mp3 file containing the loop to Nujabes \u2014 Feather:\n<div style=\"font-size: 10px; color: #cccccc; overflow: hidden; white-space: nowrap; font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif; font-weight: 100\"><a href=\"https://soundcloud.com/invisible_bridge\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none\">Ancient</a> \u00b7 <a href=\"https://soundcloud.com/invisible_bridge/nujabes-feather-feat-cise\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none\">Nujabes - Feather feat. Cise Starr & Akin</a></div>\n\n..and here is the corresponding MIDI file I then proceeded to loop myself:\n\nhttps://onlinesequencer.net/1705128\n\nA MIDI file is essentially a very compact way of representing a sequence of notes being used on different instruments. MIDI carries event messages that specify the instructions for music, i.e., \u201cnote on\u201d, \u201cnote off\u201d, octave, velocity, and pitch.\n\nUsing Music21 (a toolkit for extracting data from MIDI files), we then convert them into \u201cNoteSequences\u201d, a fast and efficient data format that\u2019s easier to work with for training. Once we have extracted all relevant information, we can then apply other audio processing techniques on it to produce music.\n\nThe main advantage of using MIDI files is that the computation needed is drastically less. For instance, raw audio has an average of 44100 time steps a second, nearly 10,000X more than a MIDI file. The trade-off is that we are unable to fully encapsulate the entirety of all the musical instruments and beat in the track (To see how we might solve this, check PART 2).\n\nWhen building your dataset, you have to be willing to scour the web for hours searching for pieces that truly encapsulate what your trying to model (or even creating them yourself). This is to ensure that the model has enough relevant information and variety to correctly predict the resulting notes. Thus, many of the MIDI files were sampled from recurring notes and chords found in slow jazz and hip-hop that are prevalent in lofi hip-hop tracks.\n\nNoteworthy mentions go to Cymatics for their free Lofi-Hip Hop MIDI files and samples that I used in the dataset. Other MIDI files were found through various reddit threads and google searches.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "music",
+    "audio",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

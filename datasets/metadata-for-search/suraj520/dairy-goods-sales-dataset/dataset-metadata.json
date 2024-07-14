@@ -1,0 +1,39 @@
+{
+  "id": "suraj520/dairy-goods-sales-dataset",
+  "id_no": 3369689,
+  "datasetSlugNullable": "dairy-goods-sales-dataset",
+  "ownerUserNullable": "suraj520",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dairy Goods Sales Dataset",
+  "subtitleNullable": "A comprehensive dataset on dairy farms, products, sales, and inventory tracking",
+  "descriptionNullable": "The Dairy Goods Sales Dataset provides a detailed and comprehensive collection of data related to dairy farms, dairy products, sales, and inventory management. This dataset encompasses a wide range of information, including farm location, land area, cow population, farm size, production dates, product details, brand information, quantities, pricing, shelf life, storage conditions, expiration dates, sales information, customer locations, sales channels, stock quantities, stock thresholds, and reorder quantities.\n\n#### Features:\n\n1. Location: The geographical location of the dairy farm.\n2. Total Land Area (acres): The total land area occupied by the dairy farm.\n3. Number of Cows: The number of cows present in the dairy farm.\n4. Farm Size: The size of the dairy farm(in sq.km).\n5. Date: The date of data recording.\n6. Product ID: The unique identifier for each dairy product.\n7. Product Name: The name of the dairy product.\n8. Brand: The brand associated with the dairy product.\n9. Quantity (liters/kg): The quantity of the dairy product available.\n10. Price per Unit: The price per unit of the dairy product.\n11. Total Value: The total value of the available quantity of the dairy product.\n12. Shelf Life (days): The shelf life of the dairy product in days.\n13. Storage Condition: The recommended storage condition for the dairy product.\n14. Production Date: The date of production for the dairy product.\n15. Expiration Date: The date of expiration for the dairy product.\n16. Quantity Sold (liters/kg): The quantity of the dairy product sold.\n17. Price per Unit (sold): The price per unit at which the dairy product was sold.\n18. Approx. Total Revenue (INR): The approximate total revenue generated from the sale of the dairy product.\n19. Customer Location: The location of the customer who purchased the dairy product.\n20. Sales Channel: The channel through which the dairy product was sold (Retail, Wholesale, Online).\n21. Quantity in Stock (liters/kg): The quantity of the dairy product remaining in stock.\n22. Minimum Stock Threshold (liters/kg): The minimum stock threshold for the dairy product.\n23. Reorder Quantity (liters/kg): The recommended quantity to reorder for the dairy product.\n\n#### Potential Use-Case:\nThis dataset can be used by researchers, analysts, and businesses in the dairy industry for various purposes, such as:\n\n1. Analyzing the performance of dairy farms based on location, land area, and cow population.\n2. Understanding the sales and distribution patterns of different dairy products across various brands and regions.\n3. Studying the impact of storage conditions and shelf life on the quality and availability of dairy products.\n4. Analyzing customer preferences and buying behavior based on location and sales channels.\n5. Optimizing inventory management by tracking stock quantities, minimum thresholds, and reorder quantities.\n6. Conducting market research and trend analysis in the dairy industry.\n7. Developing predictive models for demand forecasting and pricing strategies.\n\nNote: This dataset includes data from the period between 2019 and 2022, and it specifically focuses on selected dairy brands operating in specific states and union territories of India. There is an intentional drift highlighted in the dataset's figures due to its opensource and creative license, currently !",
+  "datasetId": 3369689,
+  "datasetSlug": "dairy-goods-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "suraj520",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24884,
+  "totalVotes": 53,
+  "totalDownloads": 5327,
+  "title": "Dairy Goods Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "A comprehensive dataset on dairy farms, products, sales, and inventory tracking",
+  "hasSubtitle": true,
+  "description": "The Dairy Goods Sales Dataset provides a detailed and comprehensive collection of data related to dairy farms, dairy products, sales, and inventory management. This dataset encompasses a wide range of information, including farm location, land area, cow population, farm size, production dates, product details, brand information, quantities, pricing, shelf life, storage conditions, expiration dates, sales information, customer locations, sales channels, stock quantities, stock thresholds, and reorder quantities.\n\n#### Features:\n\n1. Location: The geographical location of the dairy farm.\n2. Total Land Area (acres): The total land area occupied by the dairy farm.\n3. Number of Cows: The number of cows present in the dairy farm.\n4. Farm Size: The size of the dairy farm(in sq.km).\n5. Date: The date of data recording.\n6. Product ID: The unique identifier for each dairy product.\n7. Product Name: The name of the dairy product.\n8. Brand: The brand associated with the dairy product.\n9. Quantity (liters/kg): The quantity of the dairy product available.\n10. Price per Unit: The price per unit of the dairy product.\n11. Total Value: The total value of the available quantity of the dairy product.\n12. Shelf Life (days): The shelf life of the dairy product in days.\n13. Storage Condition: The recommended storage condition for the dairy product.\n14. Production Date: The date of production for the dairy product.\n15. Expiration Date: The date of expiration for the dairy product.\n16. Quantity Sold (liters/kg): The quantity of the dairy product sold.\n17. Price per Unit (sold): The price per unit at which the dairy product was sold.\n18. Approx. Total Revenue (INR): The approximate total revenue generated from the sale of the dairy product.\n19. Customer Location: The location of the customer who purchased the dairy product.\n20. Sales Channel: The channel through which the dairy product was sold (Retail, Wholesale, Online).\n21. Quantity in Stock (liters/kg): The quantity of the dairy product remaining in stock.\n22. Minimum Stock Threshold (liters/kg): The minimum stock threshold for the dairy product.\n23. Reorder Quantity (liters/kg): The recommended quantity to reorder for the dairy product.\n\n#### Potential Use-Case:\nThis dataset can be used by researchers, analysts, and businesses in the dairy industry for various purposes, such as:\n\n1. Analyzing the performance of dairy farms based on location, land area, and cow population.\n2. Understanding the sales and distribution patterns of different dairy products across various brands and regions.\n3. Studying the impact of storage conditions and shelf life on the quality and availability of dairy products.\n4. Analyzing customer preferences and buying behavior based on location and sales channels.\n5. Optimizing inventory management by tracking stock quantities, minimum thresholds, and reorder quantities.\n6. Conducting market research and trend analysis in the dairy industry.\n7. Developing predictive models for demand forecasting and pricing strategies.\n\nNote: This dataset includes data from the period between 2019 and 2022, and it specifically focuses on selected dairy brands operating in specific states and union territories of India. There is an intentional drift highlighted in the dataset's figures due to its opensource and creative license, currently !",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

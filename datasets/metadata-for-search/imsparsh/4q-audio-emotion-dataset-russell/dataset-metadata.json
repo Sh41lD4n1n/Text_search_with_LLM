@@ -1,0 +1,43 @@
+{
+  "id": "imsparsh/4q-audio-emotion-dataset-russell",
+  "id_no": 1427393,
+  "datasetSlugNullable": "4q-audio-emotion-dataset-russell",
+  "ownerUserNullable": "imsparsh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "4Q Audio Emotion Dataset (Russell)",
+  "subtitleNullable": "A new 4-quadrant audio emotion dataset for Emotion/Mood Detection tasks.",
+  "descriptionNullable": "### Context\n\nA new 4-quadrant audio emotion dataset. It contains 900 audio clips, annotated into 4 quadrants, according to Russell's model.\n\nThe dataset consists of:\n- 900 ~30 second clips gathered from AllMusic API\n- The files are organized in 4 folders (Q1 to Q4)\n- Two metadata csv files with annotations and extra metadata\n\n*You can refer README file inside Audio and Features folder for more information.*\n\n### Acknowledgements\n\nSource: http://mir.dei.uc.pt/downloads.html\n\nIf you use it, please&nbsp;**cite the following article(s)**:&nbsp;\n\n[PDF](http://mir.dei.uc.pt/pdf/Journals/MOODetector/TAFFC_2018_Panda.pdf)&nbsp;Panda R., Malheiro R. & Paiva R. P. (2018). \"*Novel audio features for music emotion recognition*\". IEEE Transactions on Affective Computing (IEEE early access). DOI: 10.1109/TAFFC.2018.2820691.\n\n[PDF](http://mir.dei.uc.pt/pdf/Conferences/MOODetector/ISMIR_2018_Panda.pdf)Panda R., Malheiro R., Paiva R. P. (2018). \"*Musical Texture and Expressivity Features for Music Emotion Recognition*\". 19th International Society for Music Information Retrieval Conference -- ISMIR 2018, Paris, France.",
+  "datasetId": 1427393,
+  "datasetSlug": "4q-audio-emotion-dataset-russell",
+  "hasDatasetSlug": true,
+  "ownerUser": "imsparsh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4970,
+  "totalVotes": 2,
+  "totalDownloads": 160,
+  "title": "4Q Audio Emotion Dataset (Russell)",
+  "hasTitle": true,
+  "subtitle": "A new 4-quadrant audio emotion dataset for Emotion/Mood Detection tasks.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA new 4-quadrant audio emotion dataset. It contains 900 audio clips, annotated into 4 quadrants, according to Russell's model.\n\nThe dataset consists of:\n- 900 ~30 second clips gathered from AllMusic API\n- The files are organized in 4 folders (Q1 to Q4)\n- Two metadata csv files with annotations and extra metadata\n\n*You can refer README file inside Audio and Features folder for more information.*\n\n### Acknowledgements\n\nSource: http://mir.dei.uc.pt/downloads.html\n\nIf you use it, please&nbsp;**cite the following article(s)**:&nbsp;\n\n[PDF](http://mir.dei.uc.pt/pdf/Journals/MOODetector/TAFFC_2018_Panda.pdf)&nbsp;Panda R., Malheiro R. & Paiva R. P. (2018). \"*Novel audio features for music emotion recognition*\". IEEE Transactions on Affective Computing (IEEE early access). DOI: 10.1109/TAFFC.2018.2820691.\n\n[PDF](http://mir.dei.uc.pt/pdf/Conferences/MOODetector/ISMIR_2018_Panda.pdf)Panda R., Malheiro R., Paiva R. P. (2018). \"*Musical Texture and Expressivity Features for Music Emotion Recognition*\". 19th International Society for Music Information Retrieval Conference -- ISMIR 2018, Paris, France.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software",
+    "intermediate",
+    "advanced",
+    "multiclass classification",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

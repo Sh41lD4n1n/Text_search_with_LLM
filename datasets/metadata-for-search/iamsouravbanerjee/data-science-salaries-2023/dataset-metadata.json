@@ -1,0 +1,43 @@
+{
+  "id": "iamsouravbanerjee/data-science-salaries-2023",
+  "id_no": 3490861,
+  "datasetSlugNullable": "data-science-salaries-2023",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Latest Data Science Salaries",
+  "subtitleNullable": "Charting Data Science's Wage Journey: Salaries 2020-2024",
+  "descriptionNullable": "### Context\n\nThe \"<b>Latest Data Science Salaries</b>\" dataset provides valuable insights into the compensation trends and variations in the field of data science from 2020 to 2024. This dataset encompasses a comprehensive collection of salary information from various industries, organizations, and geographic regions, enabling data professionals, researchers, and organizations to analyze and understand the prevailing salary landscape in the data science domain during this four-year period. By examining this dataset, one can gain a deeper understanding of the factors influencing data science salaries, such as job roles, experience levels, educational backgrounds, and geographical locations. The dataset serves as a valuable resource for individuals seeking career guidance, companies aiming to benchmark their compensation strategies, and researchers investigating the evolving dynamics of the data science job market.\n\n### Content\n\nThe dataset includes information about Job Title, Employment Type, Experience Level, Expertise Level, Salary, Salary Currency, Company Location, Salary in USD, Employee Residence, Company Size, and Year. This information provides a comprehensive view of job-related details, compensation levels, company characteristics, and temporal aspects, offering valuable insights for analyzing and understanding the dataset.\n\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/k9MN9B0.png)\n\n\n### Acknowledgement\n\nThis Dataset is created from <b>[ai-jobs.net](https://ai-jobs.net/)</b>. If you want to learn more, you can visit the above-mentioned Website.\n\n\nCover Photo by: <b><a href=\"https://www.freepik.com/free-photo/business-financial-concept-stack-money-background-flat-lay_8859422.htm#query=currency&position=4&from_view=search&track=sph\">Image by 8photo</a></b> on <b>Freepik</b>",
+  "datasetId": 3490861,
+  "datasetSlug": "data-science-salaries-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 33286,
+  "totalVotes": 143,
+  "totalDownloads": 5715,
+  "title": "Latest Data Science Salaries",
+  "hasTitle": true,
+  "subtitle": "Charting Data Science's Wage Journey: Salaries 2020-2024",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe \"<b>Latest Data Science Salaries</b>\" dataset provides valuable insights into the compensation trends and variations in the field of data science from 2020 to 2024. This dataset encompasses a comprehensive collection of salary information from various industries, organizations, and geographic regions, enabling data professionals, researchers, and organizations to analyze and understand the prevailing salary landscape in the data science domain during this four-year period. By examining this dataset, one can gain a deeper understanding of the factors influencing data science salaries, such as job roles, experience levels, educational backgrounds, and geographical locations. The dataset serves as a valuable resource for individuals seeking career guidance, companies aiming to benchmark their compensation strategies, and researchers investigating the evolving dynamics of the data science job market.\n\n### Content\n\nThe dataset includes information about Job Title, Employment Type, Experience Level, Expertise Level, Salary, Salary Currency, Company Location, Salary in USD, Employee Residence, Company Size, and Year. This information provides a comprehensive view of job-related details, compensation levels, company characteristics, and temporal aspects, offering valuable insights for analyzing and understanding the dataset.\n\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/k9MN9B0.png)\n\n\n### Acknowledgement\n\nThis Dataset is created from <b>[ai-jobs.net](https://ai-jobs.net/)</b>. If you want to learn more, you can visit the above-mentioned Website.\n\n\nCover Photo by: <b><a href=\"https://www.freepik.com/free-photo/business-financial-concept-stack-money-background-flat-lay_8859422.htm#query=currency&position=4&from_view=search&track=sph\">Image by 8photo</a></b> on <b>Freepik</b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "exploratory data analysis",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

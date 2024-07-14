@@ -1,0 +1,44 @@
+{
+  "id": "eneskosar19/happy-or-sad-binary-image-classification",
+  "id_no": 4939439,
+  "datasetSlugNullable": "happy-or-sad-binary-image-classification",
+  "ownerUserNullable": "eneskosar19",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "happy_or_sad_Binary_Image_Classification",
+  "subtitleNullable": "Happy and Sad People's Faces collected from google",
+  "descriptionNullable": "\ud83d\udcda Binary Image Classification Dataset: Sad vs. Happy Faces\n\n\u2139\ufe0f Overview:\n\nThis dataset is dedicated to binary image classification, focusing on distinguishing between images of sad and happy people's faces. It presents a valuable resource for training and testing machine learning models in emotion recognition tasks.\n\n\ud83d\uddbc\ufe0f Dataset Details:\n\nNumber of Classes: 2 (Sad Faces, Happy Faces)\nTotal Images: 165\nClass Distribution:\nSad Faces: 73\nHappy Faces: 92\nImage Formats: Standard formats like JPEG, PNG, etc.\nTask Focus: Emotion recognition through facial expressions, specifically detecting sadness and happiness.\n\ud83d\udd0d Task and Approach:\nThe dataset lends itself well to exploring Convolutional Neural Network (CNN) architectures tailored for emotion recognition. By utilizing CNNs, one can delve into feature extraction from facial features and nuances that differentiate sad and happy expressions.\n\n\ud83d\udcc8 Potential Applications:\n\nMental health assessment tools\nEmotion-aware applications (e.g., virtual assistants, educational platforms)\nSocial robotics for empathetic interactions\n\ud83d\udcdd Note to Researchers:\nResearchers and practitioners can leverage this dataset to develop and benchmark emotion recognition algorithms, contributing to advancements in understanding human emotions from visual cues.\n\n\ud83d\udd17 Dataset Access:\nAccess to the dataset is available here, on Kaggle\n\n\ud83c\udf1f Acknowledgments:\nWe express gratitude to all contributors and to the individuals whose faces are represented in the dataset, enabling advancements in emotion recognition technology.\n\n\ud83d\udc69\u200d\ud83d\udcbb Usage and Citation:\nIf you use this dataset in your research or projects, kindly cite it appropriately and consider sharing your insights and findings with the community to foster collaborative learning and innovation.\n\n",
+  "datasetId": 4939439,
+  "datasetSlug": "happy-or-sad-binary-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "eneskosar19",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1508,
+  "totalVotes": 25,
+  "totalDownloads": 254,
+  "title": "happy_or_sad_Binary_Image_Classification",
+  "hasTitle": true,
+  "subtitle": "Happy and Sad People's Faces collected from google",
+  "hasSubtitle": true,
+  "description": "\ud83d\udcda Binary Image Classification Dataset: Sad vs. Happy Faces\n\n\u2139\ufe0f Overview:\n\nThis dataset is dedicated to binary image classification, focusing on distinguishing between images of sad and happy people's faces. It presents a valuable resource for training and testing machine learning models in emotion recognition tasks.\n\n\ud83d\uddbc\ufe0f Dataset Details:\n\nNumber of Classes: 2 (Sad Faces, Happy Faces)\nTotal Images: 165\nClass Distribution:\nSad Faces: 73\nHappy Faces: 92\nImage Formats: Standard formats like JPEG, PNG, etc.\nTask Focus: Emotion recognition through facial expressions, specifically detecting sadness and happiness.\n\ud83d\udd0d Task and Approach:\nThe dataset lends itself well to exploring Convolutional Neural Network (CNN) architectures tailored for emotion recognition. By utilizing CNNs, one can delve into feature extraction from facial features and nuances that differentiate sad and happy expressions.\n\n\ud83d\udcc8 Potential Applications:\n\nMental health assessment tools\nEmotion-aware applications (e.g., virtual assistants, educational platforms)\nSocial robotics for empathetic interactions\n\ud83d\udcdd Note to Researchers:\nResearchers and practitioners can leverage this dataset to develop and benchmark emotion recognition algorithms, contributing to advancements in understanding human emotions from visual cues.\n\n\ud83d\udd17 Dataset Access:\nAccess to the dataset is available here, on Kaggle\n\n\ud83c\udf1f Acknowledgments:\nWe express gratitude to all contributors and to the individuals whose faces are represented in the dataset, enabling advancements in emotion recognition technology.\n\n\ud83d\udc69\u200d\ud83d\udcbb Usage and Citation:\nIf you use this dataset in your research or projects, kindly cite it appropriately and consider sharing your insights and findings with the community to foster collaborative learning and innovation.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "deep learning",
+    "image",
+    "pandas",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

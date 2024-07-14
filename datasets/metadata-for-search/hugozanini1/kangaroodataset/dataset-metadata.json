@@ -1,0 +1,44 @@
+{
+  "id": "hugozanini1/kangaroodataset",
+  "id_no": 1046698,
+  "datasetSlugNullable": "kangaroodataset",
+  "ownerUserNullable": "hugozanini1",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "kangaroo-dataset",
+  "subtitleNullable": "A Kangaroo dataset based on images from the web",
+  "descriptionNullable": "\n\n\n\n### Kangaroo Dataset\n\nThis is a dataset with 520 annotations of kangaroos in different contexts. The repository contains the annotations in the XML format, the images, and 2 *CSVs* containing the data already split in train and test (80%-20%).\n\nThe CSVs have 9 columns:\n\n\n- **Filename**: image name\n- **width**: image width\n- **height**: image height\n- **class**: image class (kangaroo)\n- **xmin**: Minimum bounding box x coordinate value\n- **ymin**: Minimum bounding box y coordinate value\n- **xmax**: Maximum value of the x coordinate of the bounding box\n- **ymax**: Maximum value of the y coordinate of the bounding box\n- **source**: Image source\n\n\n### Converting images to tf record\nTo convert the images to TF  record to train a model using the TensorFlow API, use the script  `generate_tf_records.py`. It's necessary to install the requirements and the TensorFlow object detection API first\n\n### License\nThe images used in this dataset are publicly available on the web and may have different licenses. To verify the license for a particular image, please refer to  the *source*  column in the `test_labels.csv` and `train_labels.csv`.",
+  "datasetId": 1046698,
+  "datasetSlug": "kangaroodataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hugozanini1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 23913,
+  "totalVotes": 46,
+  "totalDownloads": 5872,
+  "title": "kangaroo-dataset",
+  "hasTitle": true,
+  "subtitle": "A Kangaroo dataset based on images from the web",
+  "hasSubtitle": true,
+  "description": "\n\n\n\n### Kangaroo Dataset\n\nThis is a dataset with 520 annotations of kangaroos in different contexts. The repository contains the annotations in the XML format, the images, and 2 *CSVs* containing the data already split in train and test (80%-20%).\n\nThe CSVs have 9 columns:\n\n\n- **Filename**: image name\n- **width**: image width\n- **height**: image height\n- **class**: image class (kangaroo)\n- **xmin**: Minimum bounding box x coordinate value\n- **ymin**: Minimum bounding box y coordinate value\n- **xmax**: Maximum value of the x coordinate of the bounding box\n- **ymax**: Maximum value of the y coordinate of the bounding box\n- **source**: Image source\n\n\n### Converting images to tf record\nTo convert the images to TF  record to train a model using the TensorFlow API, use the script  `generate_tf_records.py`. It's necessary to install the requirements and the TensorFlow object detection API first\n\n### License\nThe images used in this dataset are publicly available on the web and may have different licenses. To verify the license for a particular image, please refer to  the *source*  column in the `test_labels.csv` and `train_labels.csv`.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "artificial intelligence",
+    "computer vision",
+    "tensorflow",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "zeyad1mashhour/driver-inattention-detection-dataset",
+  "id_no": 4926097,
+  "datasetSlugNullable": "driver-inattention-detection-dataset",
+  "ownerUserNullable": "zeyad1mashhour",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Driver Inattention Detection Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Description:\n\nThis comprehensive gray-scale dataset is a valuable resource for researchers and developers in the field of computer vision, machine learning and deep learning, particularly those focused on driver behavior analysis and driver assistance systems. Comprising over 14,000 labeled images across six distinct classes, it provides a diverse and extensive collection for training, validation, and testing purposes, specifically tailored for gray-scale image processing.\n\n**The dataset is organized into three main directories:**\n\n**Training Set (train):**This directory contains 11,942 gray-scale images, carefully curated and labeled across the six classes.\n\n**Validation Set (validation):** With 1,922 gray-scale images, this subset provides a means for fine-tuning models and evaluating their performance during development.\n\n**Test Set (test):** Comprising 985 gray-scale images, this directory is reserved for final model evaluation and benchmarking.\n\n**The dataset encompasses six classes of driving behaviors:**\n\n**1- Dangerous Driving:** Gray-scale images capturing instances of reckless or hazardous driving behavior, such as speeding or erratic lane changes.\n**2- Distracted Driving:** Instances where the driver's attention is diverted away from the road, possibly due to smartphone usage, eating, or interacting with passengers.\n**3- Drinking:** Gray-scale images depicting drivers consuming alcoholic beverages while behind the wheel, highlighting the dangers of driving under the influence.\n**4- Safe Driving:** Examples of responsible and cautious driving behavior captured in gray-scale, including obeying traffic laws, maintaining safe distances, and using turn signals.\n**5- Sleepy Driving:** Instances where drivers exhibit signs of drowsiness or fatigue, posing a significant risk of accidents due to reduced alertness, depicted in gray-scale.\n**6- Yawn:** Gray-scale images capturing drivers in the act of yawning, often indicative of fatigue or tiredness, which can impair driving performance.\n",
+  "datasetId": 4926097,
+  "datasetSlug": "driver-inattention-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "zeyad1mashhour",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1203,
+  "totalVotes": 5,
+  "totalDownloads": 161,
+  "title": "Driver Inattention Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Description:\n\nThis comprehensive gray-scale dataset is a valuable resource for researchers and developers in the field of computer vision, machine learning and deep learning, particularly those focused on driver behavior analysis and driver assistance systems. Comprising over 14,000 labeled images across six distinct classes, it provides a diverse and extensive collection for training, validation, and testing purposes, specifically tailored for gray-scale image processing.\n\n**The dataset is organized into three main directories:**\n\n**Training Set (train):**This directory contains 11,942 gray-scale images, carefully curated and labeled across the six classes.\n\n**Validation Set (validation):** With 1,922 gray-scale images, this subset provides a means for fine-tuning models and evaluating their performance during development.\n\n**Test Set (test):** Comprising 985 gray-scale images, this directory is reserved for final model evaluation and benchmarking.\n\n**The dataset encompasses six classes of driving behaviors:**\n\n**1- Dangerous Driving:** Gray-scale images capturing instances of reckless or hazardous driving behavior, such as speeding or erratic lane changes.\n**2- Distracted Driving:** Instances where the driver's attention is diverted away from the road, possibly due to smartphone usage, eating, or interacting with passengers.\n**3- Drinking:** Gray-scale images depicting drivers consuming alcoholic beverages while behind the wheel, highlighting the dangers of driving under the influence.\n**4- Safe Driving:** Examples of responsible and cautious driving behavior captured in gray-scale, including obeying traffic laws, maintaining safe distances, and using turn signals.\n**5- Sleepy Driving:** Instances where drivers exhibit signs of drowsiness or fatigue, posing a significant risk of accidents due to reduced alertness, depicted in gray-scale.\n**6- Yawn:** Gray-scale images capturing drivers in the act of yawning, often indicative of fatigue or tiredness, which can impair driving performance.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

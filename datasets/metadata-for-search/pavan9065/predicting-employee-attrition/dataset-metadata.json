@@ -1,0 +1,42 @@
+{
+  "id": "pavan9065/predicting-employee-attrition",
+  "id_no": 1736414,
+  "datasetSlugNullable": "predicting-employee-attrition",
+  "ownerUserNullable": "pavan9065",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Predicting Employee Attrition ",
+  "subtitleNullable": "To Predict Whether the employees Leave the Company or Not",
+  "descriptionNullable": "# Problem Statement:\nIn recent years, attention has increasingly been paid to human resources (HR), since worker quality and skills represent a growth factor and a real competitive advantage for companies. After proving its mettle in sales and marketing, artificial intelligence is also becoming central to employee-related decisions within HR management. Organizational growth largely depends on staff retention. Losing employees frequently impacts the morale of the organization and hiring new employees is more expensive than retaining existing ones.\n\nYou are working as a data scientist with HR Department of a large insurance company focused on sales team attrition. Insurance sales teams help insurance companies generate new business by contacting potential customers and selling one or more types of insurance. The department generally sees high attrition and thus staffing becomes a crucial aspect.\n\nTo aid staffing, you are provided with the monthly information for a segment of employees for 2016 and 2017 and tasked to predict whether a current employee will be leaving the organization in the upcoming two quarters (01 Jan 2018 - 01 July 2018) or not, given:\n\nDemographics of the employee (city, age, gender etc.)\nTenure information (joining date, Last Date)\nHistorical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)\n\n### Context\n\nUncover the factors that lead to employee attrition and explore important questions such as \u2018show me a breakdown of distance from home by job role and attrition\u2019 or \u2018compare average monthly income by education and attrition\u2019.\n\n### Content\n\nThis dataset is about employee attrition prediction.\n\nThe data contains 19,104 instances (employees) with other features such as Age, gender, city, Date of joining, Last working date, Designation etc\n\n\n\n### Inspiration\n\nThis prediction would be useful for Hr analytics and to decrease employee attrition.",
+  "datasetId": 1736414,
+  "datasetSlug": "predicting-employee-attrition",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavan9065",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 25571,
+  "totalVotes": 38,
+  "totalDownloads": 2976,
+  "title": "Predicting Employee Attrition ",
+  "hasTitle": true,
+  "subtitle": "To Predict Whether the employees Leave the Company or Not",
+  "hasSubtitle": true,
+  "description": "# Problem Statement:\nIn recent years, attention has increasingly been paid to human resources (HR), since worker quality and skills represent a growth factor and a real competitive advantage for companies. After proving its mettle in sales and marketing, artificial intelligence is also becoming central to employee-related decisions within HR management. Organizational growth largely depends on staff retention. Losing employees frequently impacts the morale of the organization and hiring new employees is more expensive than retaining existing ones.\n\nYou are working as a data scientist with HR Department of a large insurance company focused on sales team attrition. Insurance sales teams help insurance companies generate new business by contacting potential customers and selling one or more types of insurance. The department generally sees high attrition and thus staffing becomes a crucial aspect.\n\nTo aid staffing, you are provided with the monthly information for a segment of employees for 2016 and 2017 and tasked to predict whether a current employee will be leaving the organization in the upcoming two quarters (01 Jan 2018 - 01 July 2018) or not, given:\n\nDemographics of the employee (city, age, gender etc.)\nTenure information (joining date, Last Date)\nHistorical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)\n\n### Context\n\nUncover the factors that lead to employee attrition and explore important questions such as \u2018show me a breakdown of distance from home by job role and attrition\u2019 or \u2018compare average monthly income by education and attrition\u2019.\n\n### Content\n\nThis dataset is about employee attrition prediction.\n\nThe data contains 19,104 instances (employees) with other features such as Age, gender, city, Date of joining, Last working date, Designation etc\n\n\n\n### Inspiration\n\nThis prediction would be useful for Hr analytics and to decrease employee attrition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "business",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

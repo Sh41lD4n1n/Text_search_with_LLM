@@ -1,0 +1,37 @@
+{
+  "id": "patrickmurphy/nfl-arrests",
+  "id_no": 1024,
+  "datasetSlugNullable": "nfl-arrests",
+  "ownerUserNullable": "patrickmurphy",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "NFL Arrests 2000-2017",
+  "subtitleNullable": "A record of reported NFL Arrests with details about Crime, Team and Player",
+  "descriptionNullable": "# Context \n\n\"These are arrests, charges and citations of NFL players for crimes more serious than common traffic violations. Almost all of the players belonged to an NFL roster at the time of the incident. In rare cases, a free agent is included only if that player later signs with an NFL team. The data comes from media reports and public records. It cannot be considered fully complete because records of some player arrests might not have been found for various reasons, including lack of media coverage or accessible public records. Many resolutions to these cases also are pending or could not be immediately found.\" [(Source)][1]\n\n# Content\n\nThis data covers January 2000 to March 2017.  Like mentioned above, it is not fully complete.\nIn the future I hope to add files to add dimensions like USA crime rates, team info, player info, team season records\n\n* **Column Name** | **Description** | **Example data**\n* DATE | Date of the Incident | 3/7/2017\n* TEAM | Team Identifier at time of incident | SEA (35 total) \n* NAME | Player Name | Aldon Smith (627 total)\n* POSITION | Player's Position at time of incident | TE (18 total)\n* CASE | Incident Type | Cited (10 total)\n* CATEGORY | Incident Crime Categories, a comma separated list of crime types | DUI (103 unique sets)\n* DESCRIPTION | A short text description of the incident | Suspected of stealing golf cart, driving drunk, resisting arrest in Scottsdale, Ariz.\n* OUTCOME | Incident outcome description | Resolution undetermined.\n\n# Acknowledgements\n The original database was conceived and created by sports writer Brent Schrotenboer of USA Today.\n[http://www.usatoday.com/sports/nfl/arrests/][2]\n\n# Past Research:\n\n[The Rate of Domestic Violence Arrests Among NFL Players - Benjamin Morris (FiveThirtyEight)][3]\n\nI found this data set August of 2015 and created [http://nflarrest.com/][4] that attempts to provide a visual tool to explore the data set and a [RESTful API][5].\n \n# Inspiration\n* Can the next arrest team or crime or date be predicted?\n* Does the number of arrests in the previous season, pre-season, in season effect overall Team season record(Wins,losses,playoff progression).\n* How does the NFL arrest rate compare to the nation on average?\n* How does the NFL arrest rate compare to populations with similar affluency?\n* How do crime rates (e.g DUI rates) compare to the geographic area the team represents?\n\n\n  [1]: http://www.usatoday.com/sports/nfl/arrests/\n  [2]: http://www.usatoday.com/sports/nfl/arrests/\n  [3]: https://fivethirtyeight.com/datalab/the-rate-of-domestic-violence-arrests-among-nfl-players/\n  [4]: http://nflarrest.com/\n  [5]: http://nflarrest.com/api/",
+  "datasetId": 1024,
+  "datasetSlug": "nfl-arrests",
+  "hasDatasetSlug": true,
+  "ownerUser": "patrickmurphy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 22393,
+  "totalVotes": 24,
+  "totalDownloads": 1333,
+  "title": "NFL Arrests 2000-2017",
+  "hasTitle": true,
+  "subtitle": "A record of reported NFL Arrests with details about Crime, Team and Player",
+  "hasSubtitle": true,
+  "description": "# Context \n\n\"These are arrests, charges and citations of NFL players for crimes more serious than common traffic violations. Almost all of the players belonged to an NFL roster at the time of the incident. In rare cases, a free agent is included only if that player later signs with an NFL team. The data comes from media reports and public records. It cannot be considered fully complete because records of some player arrests might not have been found for various reasons, including lack of media coverage or accessible public records. Many resolutions to these cases also are pending or could not be immediately found.\" [(Source)][1]\n\n# Content\n\nThis data covers January 2000 to March 2017.  Like mentioned above, it is not fully complete.\nIn the future I hope to add files to add dimensions like USA crime rates, team info, player info, team season records\n\n* **Column Name** | **Description** | **Example data**\n* DATE | Date of the Incident | 3/7/2017\n* TEAM | Team Identifier at time of incident | SEA (35 total) \n* NAME | Player Name | Aldon Smith (627 total)\n* POSITION | Player's Position at time of incident | TE (18 total)\n* CASE | Incident Type | Cited (10 total)\n* CATEGORY | Incident Crime Categories, a comma separated list of crime types | DUI (103 unique sets)\n* DESCRIPTION | A short text description of the incident | Suspected of stealing golf cart, driving drunk, resisting arrest in Scottsdale, Ariz.\n* OUTCOME | Incident outcome description | Resolution undetermined.\n\n# Acknowledgements\n The original database was conceived and created by sports writer Brent Schrotenboer of USA Today.\n[http://www.usatoday.com/sports/nfl/arrests/][2]\n\n# Past Research:\n\n[The Rate of Domestic Violence Arrests Among NFL Players - Benjamin Morris (FiveThirtyEight)][3]\n\nI found this data set August of 2015 and created [http://nflarrest.com/][4] that attempts to provide a visual tool to explore the data set and a [RESTful API][5].\n \n# Inspiration\n* Can the next arrest team or crime or date be predicted?\n* Does the number of arrests in the previous season, pre-season, in season effect overall Team season record(Wins,losses,playoff progression).\n* How does the NFL arrest rate compare to the nation on average?\n* How does the NFL arrest rate compare to populations with similar affluency?\n* How do crime rates (e.g DUI rates) compare to the geographic area the team represents?\n\n\n  [1]: http://www.usatoday.com/sports/nfl/arrests/\n  [2]: http://www.usatoday.com/sports/nfl/arrests/\n  [3]: https://fivethirtyeight.com/datalab/the-rate-of-domestic-violence-arrests-among-nfl-players/\n  [4]: http://nflarrest.com/\n  [5]: http://nflarrest.com/api/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

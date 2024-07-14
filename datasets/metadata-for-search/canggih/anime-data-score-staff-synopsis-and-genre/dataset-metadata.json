@@ -1,0 +1,41 @@
+{
+  "id": "canggih/anime-data-score-staff-synopsis-and-genre",
+  "id_no": 9882,
+  "datasetSlugNullable": "anime-data-score-staff-synopsis-and-genre",
+  "ownerUserNullable": "canggih",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Data",
+  "subtitleNullable": "Consisting 1563 anime data",
+  "descriptionNullable": "### Context\nJapanese animation, which is known as anime, has become internationally widespread nowadays. This dataset provides data on anime taken from MyAnimeList. \n\n\n### Content\nThis dataset consists of 1563 anime data, with the following columns:\n- Title\n- Type\n- number of episodes\netc\n\n### Acknowledgements\nThe dataset was collected from http://www.myanimelist.net\n\n\n### Inspiration\nThis dataset can be used to build recommendation systems, predict a score, visualize anime similarity, etc.\n",
+  "datasetId": 9882,
+  "datasetSlug": "anime-data-score-staff-synopsis-and-genre",
+  "hasDatasetSlug": true,
+  "ownerUser": "canggih",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 40065,
+  "totalVotes": 58,
+  "totalDownloads": 3372,
+  "title": "Anime Data",
+  "hasTitle": true,
+  "subtitle": "Consisting 1563 anime data",
+  "hasSubtitle": true,
+  "description": "### Context\nJapanese animation, which is known as anime, has become internationally widespread nowadays. This dataset provides data on anime taken from MyAnimeList. \n\n\n### Content\nThis dataset consists of 1563 anime data, with the following columns:\n- Title\n- Type\n- number of episodes\netc\n\n### Acknowledgements\nThe dataset was collected from http://www.myanimelist.net\n\n\n### Inspiration\nThis dataset can be used to build recommendation systems, predict a score, visualize anime similarity, etc.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "movies and tv shows",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

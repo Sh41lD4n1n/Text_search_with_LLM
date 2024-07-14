@@ -1,0 +1,42 @@
+{
+  "id": "trainingdatapro/cars-video-object-tracking",
+  "id_no": 3432484,
+  "datasetSlugNullable": "cars-video-object-tracking",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Car Tracking & Object Detection Dataset",
+  "subtitleNullable": "Overhead Video Frames with Polygonal Vehicle Tracking, Object Detection dataset",
+  "descriptionNullable": "# Cars Tracking & Object Detection dataset\nThe collection of overhead video frames, capturing various types of vehicles traversing a roadway. The dataset inculdes light vehicles (cars) and heavy vehicles (minivan).\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=cars-video-object-tracking)** to buy the dataset\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fc50e63ecc2a097fa0b10b3e2667e2014%2Fgif_2_mb.gif?generation=1690705431907738&alt=media)\n\n# Data Format \nEach video frame from `images` folder is paired with an `annotations.xml` file that meticulously defines the tracking of each vehicle using polygons. \nThese annotations not only specify the location and path of each vehicle but also differentiate between the vehicle classes: \n- cars,\n- minivans.\n\nThe data labeling is visualized in the `boxes` folder.\n\n# Example of the XML-file \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F459d6e7b97447fc34be0536edd200a7e%2Fcode.png?generation=1687370800622505&alt=media)\n\n# Object tracking is made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=cars-video-object-tracking)** to discuss your requirements, learn about the price and buy the dataset\n\n# **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=cars-video-object-tracking)** provides high-quality data annotation tailored to your needs\n\n*keywords: vehicle tracking algorithm, vehicle tracking dataset, object detection for self driving cars, object detection for autonomous vehicles, multiple-object vehicle tracking, car object detection dataset, vehicle image dataset, car object tracking dataset, multi-object tracking dataset, labeled web tracking dataset, large-scale object tracking dataset*",
+  "datasetId": 3432484,
+  "datasetSlug": "cars-video-object-tracking",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10473,
+  "totalVotes": 42,
+  "totalDownloads": 1303,
+  "title": "Car Tracking & Object Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Overhead Video Frames with Polygonal Vehicle Tracking, Object Detection dataset",
+  "hasSubtitle": true,
+  "description": "# Cars Tracking & Object Detection dataset\nThe collection of overhead video frames, capturing various types of vehicles traversing a roadway. The dataset inculdes light vehicles (cars) and heavy vehicles (minivan).\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=cars-video-object-tracking)** to buy the dataset\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fc50e63ecc2a097fa0b10b3e2667e2014%2Fgif_2_mb.gif?generation=1690705431907738&alt=media)\n\n# Data Format \nEach video frame from `images` folder is paired with an `annotations.xml` file that meticulously defines the tracking of each vehicle using polygons. \nThese annotations not only specify the location and path of each vehicle but also differentiate between the vehicle classes: \n- cars,\n- minivans.\n\nThe data labeling is visualized in the `boxes` folder.\n\n# Example of the XML-file \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F459d6e7b97447fc34be0536edd200a7e%2Fcode.png?generation=1687370800622505&alt=media)\n\n# Object tracking is made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=cars-video-object-tracking)** to discuss your requirements, learn about the price and buy the dataset\n\n# **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=cars-video-object-tracking)** provides high-quality data annotation tailored to your needs\n\n*keywords: vehicle tracking algorithm, vehicle tracking dataset, object detection for self driving cars, object detection for autonomous vehicles, multiple-object vehicle tracking, car object detection dataset, vehicle image dataset, car object tracking dataset, multi-object tracking dataset, labeled web tracking dataset, large-scale object tracking dataset*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

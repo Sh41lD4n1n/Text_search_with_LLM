@@ -1,0 +1,39 @@
+{
+  "id": "kasia12345/polish-traffic-signs-dataset",
+  "id_no": 864251,
+  "datasetSlugNullable": "polish-traffic-signs-dataset",
+  "ownerUserNullable": "kasia12345",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "polish traffic signs dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 864251,
+  "datasetSlug": "polish-traffic-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kasia12345",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 5794,
+  "totalVotes": 11,
+  "totalDownloads": 374,
+  "title": "polish traffic signs dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "prasunroy/natural-images",
+  "id_no": 42780,
+  "datasetSlugNullable": "natural-images",
+  "ownerUserNullable": "prasunroy",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Natural Images",
+  "subtitleNullable": "A compiled dataset of 6899 images from 8 distinct classes.",
+  "descriptionNullable": "### Natural Images\nThis dataset is created as a benchmark dataset for the work on [***Effects of Degradations on Deep Neural Network Architectures***][1]. <br>\nThe source code is publicly available on [***GitHub***][2].\n\n----------\n\n### Description\nThis dataset contains 6,899 images from 8 distinct classes compiled from various sources (see Acknowledgements). The classes include airplane, car, cat, dog, flower, fruit, motorbike and person.\n\n----------\n\n### Acknowledgements\n* **Airplane** images obtained from http://host.robots.ox.ac.uk/pascal/VOC\n* **Car** images obtained from https://ai.stanford.edu/~jkrause/cars/car_dataset.html\n* **Cat** images obtained from https://www.kaggle.com/c/dogs-vs-cats\n* **Dog** images obtained from https://www.kaggle.com/c/dogs-vs-cats\n* **Flower** images obtained from http://www.image-net.org\n* **Fruit** images obtained from https://www.kaggle.com/moltean/fruits\n* **Motorbike** images obtained from http://host.robots.ox.ac.uk/pascal/VOC\n* **Person** images obtained from http://www.briancbecker.com/blog/research/pubfig83-lfw-dataset\n\n----------\n\n### Citation\n@article{roy2018effects, <br>\ntitle={Effects of Degradations on Deep Neural Network Architectures}, <br>\nauthor={Roy, Prasun and Ghosh, Subhankar and Bhattacharya, Saumik and Pal, Umapada}, <br>\njournal={arXiv preprint arXiv:1807.10108}, <br>\nyear={2018} <br>\n}\n\n\n[1]: https://arxiv.org/abs/1807.10108\n[2]: https://github.com/prasunroy/cnn-on-degraded-images\n",
+  "datasetId": 42780,
+  "datasetSlug": "natural-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "prasunroy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 175170,
+  "totalVotes": 445,
+  "totalDownloads": 30391,
+  "title": "Natural Images",
+  "hasTitle": true,
+  "subtitle": "A compiled dataset of 6899 images from 8 distinct classes.",
+  "hasSubtitle": true,
+  "description": "### Natural Images\nThis dataset is created as a benchmark dataset for the work on [***Effects of Degradations on Deep Neural Network Architectures***][1]. <br>\nThe source code is publicly available on [***GitHub***][2].\n\n----------\n\n### Description\nThis dataset contains 6,899 images from 8 distinct classes compiled from various sources (see Acknowledgements). The classes include airplane, car, cat, dog, flower, fruit, motorbike and person.\n\n----------\n\n### Acknowledgements\n* **Airplane** images obtained from http://host.robots.ox.ac.uk/pascal/VOC\n* **Car** images obtained from https://ai.stanford.edu/~jkrause/cars/car_dataset.html\n* **Cat** images obtained from https://www.kaggle.com/c/dogs-vs-cats\n* **Dog** images obtained from https://www.kaggle.com/c/dogs-vs-cats\n* **Flower** images obtained from http://www.image-net.org\n* **Fruit** images obtained from https://www.kaggle.com/moltean/fruits\n* **Motorbike** images obtained from http://host.robots.ox.ac.uk/pascal/VOC\n* **Person** images obtained from http://www.briancbecker.com/blog/research/pubfig83-lfw-dataset\n\n----------\n\n### Citation\n@article{roy2018effects, <br>\ntitle={Effects of Degradations on Deep Neural Network Architectures}, <br>\nauthor={Roy, Prasun and Ghosh, Subhankar and Bhattacharya, Saumik and Pal, Umapada}, <br>\njournal={arXiv preprint arXiv:1807.10108}, <br>\nyear={2018} <br>\n}\n\n\n[1]: https://arxiv.org/abs/1807.10108\n[2]: https://github.com/prasunroy/cnn-on-degraded-images\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "classification",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "saumik",
+      "role": "writer"
+    },
+    {
+      "username": "sgcs2005",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

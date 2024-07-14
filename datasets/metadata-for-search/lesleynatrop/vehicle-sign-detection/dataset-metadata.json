@@ -1,0 +1,41 @@
+{
+  "id": "lesleynatrop/vehicle-sign-detection",
+  "id_no": 2778235,
+  "datasetSlugNullable": "vehicle-sign-detection",
+  "ownerUserNullable": "lesleynatrop",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Vehicle + Sign detection",
+  "subtitleNullable": "This dataset contains images taken by my dashcam to detect vehicles and signs!",
+  "descriptionNullable": "## Context\nThis dataset was collected by myself using the dashcam I installed in my car. The dataset contains images gathered from hours of footage, and will be updated as frequently as possible.\n\n## Content\nThe dataset mostly contains labeled cars, bikes and pedestrians, but also the following:\n- Traffic lights (red, green, yellow);\n- Trucks\n- A lot of different signs (yield, speed limits, roundabouts, etc)\nFor now, there are too many under-represented classes. This will improve with the updates that are coming. I'm gathering a lot of footage by driving every day. The footage used is from the daytime, nighttime, overcast and rainy days. ",
+  "datasetId": 2778235,
+  "datasetSlug": "vehicle-sign-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "lesleynatrop",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1533,
+  "totalVotes": 4,
+  "totalDownloads": 122,
+  "title": "Vehicle + Sign detection",
+  "hasTitle": true,
+  "subtitle": "This dataset contains images taken by my dashcam to detect vehicles and signs!",
+  "hasSubtitle": true,
+  "description": "## Context\nThis dataset was collected by myself using the dashcam I installed in my car. The dataset contains images gathered from hours of footage, and will be updated as frequently as possible.\n\n## Content\nThe dataset mostly contains labeled cars, bikes and pedestrians, but also the following:\n- Traffic lights (red, green, yellow);\n- Trucks\n- A lot of different signs (yield, speed limits, roundabouts, etc)\nFor now, there are too many under-represented classes. This will improve with the updates that are coming. I'm gathering a lot of footage by driving every day. The footage used is from the daytime, nighttime, overcast and rainy days. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "automobiles and vehicles",
+    "computer vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

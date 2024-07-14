@@ -1,0 +1,46 @@
+{
+  "id": "tarunbisht11/yolo-animal-detection-small",
+  "id_no": 844247,
+  "datasetSlugNullable": "yolo-animal-detection-small",
+  "ownerUserNullable": "tarunbisht11",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Monkey, Cat and Dog detection",
+  "subtitleNullable": "The dataset consists hand-annotated images of cats, dogs and monkey",
+  "descriptionNullable": "### Monkey, Cat and Dog Detection \n\nDataset of hand-annotated images of dogs, cats and monkeys. The dataset also contains tfrecords file for training in TensorFlow.                             Dataset is divided into train and test with train consists of 469 images and test consists of 51 images. This can be used to train a pre-trained object detection model. Using this we can also train an object detector using Tensorflow Object Detection API.\n\n\n### Content\n\nThe Dataset consists of hand-annotated images of dogs, cats and monkeys with their annotations in XML and  CSV format. Each image is linked with its XML annotations. Also, these annotations are parsed into a CSV file too. \nImages were downloaded by using a web scraper written in selenium from [DuckDuckGo](http://duckduckgo.com/) image search and were annotated by free opensource software [LabelImg](https://github.com/tzutalin/labelImg)\n\n\n\n\n### Acknowledgements\n\n[DuckDuckGo](http://duckduckgo.com/) - For images\n[LabelImg](https://github.com/tzutalin/labelImg) - For annotating images\n\n\n\n### Inspiration\n\nThe dataset can be used as a starting point for learning about training object detection using transfer learning. It can also be used for creating a Monkey surveillance system as they can steal items from the kitchen. This can also be used for the ### Monkey, Cat and Dog Detection \n\nDataset of hand-annotated images of dogs, cats and monkeys. The dataset also contains tfrecords file for training in TensorFlow.                             Dataset is  Dataset is divided into train and test with train consists of 469 images and test consists of 51 images. This can be used to train a pre-trained object detection model. Using this we can also train an object detector using Tensorflow Object Detection API.\n\n\n### Content\n\nThe Dataset consists of hand-annotated images of dogs, cats and monkeys with their annotations in XML and  CSV format. Each image is linked with its XML annotations. Also, these annotations are parsed into a CSV file too. \nImages were downloaded by using a web scraper written in selenium from [DuckDuckGo](http://duckduckgo.com/) image search and were annotated by free opensource software [LabelImg](https://github.com/tzutalin/labelImg)\n\n\n\n\n### Acknowledgements\n\n[DuckDuckGo](http://duckduckgo.com/) - For images\n[LabelImg](https://github.com/tzutalin/labelImg) - For annotating images\n\n\n\n### Inspiration\n\nThe dataset can be used as a starting point for learning about training object detection using transfer learning. It can also be used for creating a Monkey surveillance system as they can steal items from the kitchen. This can also be used for pet surveillance system.",
+  "datasetId": 844247,
+  "datasetSlug": "yolo-animal-detection-small",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarunbisht11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 22856,
+  "totalVotes": 37,
+  "totalDownloads": 2799,
+  "title": "Monkey, Cat and Dog detection",
+  "hasTitle": true,
+  "subtitle": "The dataset consists hand-annotated images of cats, dogs and monkey",
+  "hasSubtitle": true,
+  "description": "### Monkey, Cat and Dog Detection \n\nDataset of hand-annotated images of dogs, cats and monkeys. The dataset also contains tfrecords file for training in TensorFlow.                             Dataset is divided into train and test with train consists of 469 images and test consists of 51 images. This can be used to train a pre-trained object detection model. Using this we can also train an object detector using Tensorflow Object Detection API.\n\n\n### Content\n\nThe Dataset consists of hand-annotated images of dogs, cats and monkeys with their annotations in XML and  CSV format. Each image is linked with its XML annotations. Also, these annotations are parsed into a CSV file too. \nImages were downloaded by using a web scraper written in selenium from [DuckDuckGo](http://duckduckgo.com/) image search and were annotated by free opensource software [LabelImg](https://github.com/tzutalin/labelImg)\n\n\n\n\n### Acknowledgements\n\n[DuckDuckGo](http://duckduckgo.com/) - For images\n[LabelImg](https://github.com/tzutalin/labelImg) - For annotating images\n\n\n\n### Inspiration\n\nThe dataset can be used as a starting point for learning about training object detection using transfer learning. It can also be used for creating a Monkey surveillance system as they can steal items from the kitchen. This can also be used for the ### Monkey, Cat and Dog Detection \n\nDataset of hand-annotated images of dogs, cats and monkeys. The dataset also contains tfrecords file for training in TensorFlow.                             Dataset is  Dataset is divided into train and test with train consists of 469 images and test consists of 51 images. This can be used to train a pre-trained object detection model. Using this we can also train an object detector using Tensorflow Object Detection API.\n\n\n### Content\n\nThe Dataset consists of hand-annotated images of dogs, cats and monkeys with their annotations in XML and  CSV format. Each image is linked with its XML annotations. Also, these annotations are parsed into a CSV file too. \nImages were downloaded by using a web scraper written in selenium from [DuckDuckGo](http://duckduckgo.com/) image search and were annotated by free opensource software [LabelImg](https://github.com/tzutalin/labelImg)\n\n\n\n\n### Acknowledgements\n\n[DuckDuckGo](http://duckduckgo.com/) - For images\n[LabelImg](https://github.com/tzutalin/labelImg) - For annotating images\n\n\n\n### Inspiration\n\nThe dataset can be used as a starting point for learning about training object detection using transfer learning. It can also be used for creating a Monkey surveillance system as they can steal items from the kitchen. This can also be used for pet surveillance system.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "animals",
+    "education",
+    "computer science",
+    "software",
+    "deep learning",
+    "tpu",
+    "gpu"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

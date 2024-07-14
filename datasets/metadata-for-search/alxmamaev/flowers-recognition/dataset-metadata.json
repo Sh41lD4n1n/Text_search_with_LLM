@@ -1,0 +1,41 @@
+{
+  "id": "alxmamaev/flowers-recognition",
+  "id_no": 8782,
+  "datasetSlugNullable": "flowers-recognition",
+  "ownerUserNullable": "alxmamaev",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Flowers Recognition",
+  "subtitleNullable": "This dataset contains labeled 4242 images of flowers. ",
+  "descriptionNullable": "### Context\nThis dataset contains 4242 images of flowers. \nThe data collection is based on the data flicr, google images, yandex images.\nYou can use this datastet to recognize plants from the photo.\n\n\n### Content\nThe pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion. \nFor each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!\n\n#Acknowledgements\nThe data collection is based on scraped data from flickr, google images, and yandex images.\n\n#Inspiration\nWhat kind of flower is that?",
+  "datasetId": 8782,
+  "datasetSlug": "flowers-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "alxmamaev",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 590338,
+  "totalVotes": 1884,
+  "totalDownloads": 108157,
+  "title": "Flowers Recognition",
+  "hasTitle": true,
+  "subtitle": "This dataset contains labeled 4242 images of flowers. ",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset contains 4242 images of flowers. \nThe data collection is based on the data flicr, google images, yandex images.\nYou can use this datastet to recognize plants from the photo.\n\n\n### Content\nThe pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion. \nFor each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!\n\n#Acknowledgements\nThe data collection is based on scraped data from flickr, google images, and yandex images.\n\n#Inspiration\nWhat kind of flower is that?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "plants",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

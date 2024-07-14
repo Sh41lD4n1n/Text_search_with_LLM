@@ -1,0 +1,37 @@
+{
+  "id": "arunagirirajan/gesture-recognition-casestudy",
+  "id_no": 1492620,
+  "datasetSlugNullable": "gesture-recognition-casestudy",
+  "ownerUserNullable": "arunagirirajan",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "gesture_recognition_casestudy",
+  "subtitleNullable": "Five various types of Hand Gestures",
+  "descriptionNullable": "",
+  "datasetId": 1492620,
+  "datasetSlug": "gesture-recognition-casestudy",
+  "hasDatasetSlug": true,
+  "ownerUser": "arunagirirajan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1288,
+  "totalVotes": 2,
+  "totalDownloads": 10,
+  "title": "gesture_recognition_casestudy",
+  "hasTitle": true,
+  "subtitle": "Five various types of Hand Gestures",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

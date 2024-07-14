@@ -1,0 +1,43 @@
+{
+  "id": "sukhmandeepsinghbrar/house-prices-india",
+  "id_no": 5236529,
+  "datasetSlugNullable": "house-prices-india",
+  "ownerUserNullable": "sukhmandeepsinghbrar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "House Prices India",
+  "subtitleNullable": "Detailed Analysis of House Prices in Urban India: Trends and Insights.",
+  "descriptionNullable": "This dataset contains detailed information on residential property prices in India. It includes features such as the number of bedrooms and bathrooms, living and lot area, number of floors, waterfront presence, house condition and grade, construction and renovation years, and geographic coordinates. Additional features include the number of nearby schools, distance from the airport, and property price. This dataset is ideal for real estate market analysis and predictive modeling, providing insights into factors influencing property prices across different regions in India.",
+  "datasetId": 5236529,
+  "datasetSlug": "house-prices-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "sukhmandeepsinghbrar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 199,
+  "totalVotes": 2,
+  "totalDownloads": 56,
+  "title": "House Prices India",
+  "hasTitle": true,
+  "subtitle": "Detailed Analysis of House Prices in Urban India: Trends and Insights.",
+  "hasSubtitle": true,
+  "description": "This dataset contains detailed information on residential property prices in India. It includes features such as the number of bedrooms and bathrooms, living and lot area, number of floors, waterfront presence, house condition and grade, construction and renovation years, and geographic coordinates. Additional features include the number of nearby schools, distance from the airport, and property price. This dataset is ideal for real estate market analysis and predictive modeling, providing insights into factors influencing property prices across different regions in India.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "housing",
+    "intermediate",
+    "data visualization",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

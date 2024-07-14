@@ -1,0 +1,42 @@
+{
+  "id": "farisalahmdi/arabic-youtube-comments-by-khalaya",
+  "id_no": 4605500,
+  "datasetSlugNullable": "arabic-youtube-comments-by-khalaya",
+  "ownerUserNullable": "farisalahmdi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Arabic YouTube Comments by Khalaya",
+  "subtitleNullable": "Arabic YouTube Comments: A Multi-tagged Dataset by Khalaya",
+  "descriptionNullable": "# YouTube Comments Sentiment Analysis Dataset\n\n###Description\nThis dataset comprises a collection of YouTube comments extracted from videos of a specific channels, \"BidonWaraq\", \"mmr_sa1\", \"POWR-Esports\" and \"thmanyahPodcasts\". It provides a rich source of data for text analysis, sentiment analysis, sarcasm detection, and speech act recognition tasks. Each comment is annotated with several features, making it suitable for a variety of natural language processing (NLP) applications.\n\n### Dataset Content\n1. **title:** The title of the YouTube video.\n2. **comment:** The text of the comment posted on the YouTube video.\n3. **video_id:** The unique identifier for the YouTube video.\n4. **channel_id:** The unique identifier for the YouTube channel.\n5. **sentiment:** The sentiment of the comment (e.g., Positive, Neutral, Negative).\n6. **sarcasm:** A boolean indicating whether the comment is sarcastic.\n7. **speech_act:** The type of speech act (e.g., Assertion, Expression).\n8. **dangerous:** A boolean indicating whether the comment contains dangerous content.\n9. **sentiment_reasoning:** Explanation for the sentiment annotation.\n10. **sarcasm_reasoning:** Explanation for the sarcasm annotation.\n11. **speech_act_reasoning:** Explanation for the speech act annotation.\n12. **channel_name:** The name of the YouTube channel.\n\n### Potential Uses\nThis dataset can be used for:\n\nSentiment analysis to understand the general sentiment of comments towards the video content.\nSarcasm detection to identify sarcastic remarks within the comments.\nSpeech act recognition to categorize comments according to their communicative intent.\nDangerous content detection to filter out or study comments that may contain harmful content.\n\n### Challenges\nThe dataset poses several challenges including but not limited to:\n\nDealing with multilingual text, as comments might be in different languages.\nUnderstanding context for accurate sentiment and sarcasm detection.\nManaging imbalanced classes, especially for less common annotations like sarcasm or dangerous content.\n\n### Acknowledgments\nThis dataset has been collected and annotated by **Khalaya**, aiming to facilitate research and development in natural language processing and machine learning fields.",
+  "datasetId": 4605500,
+  "datasetSlug": "arabic-youtube-comments-by-khalaya",
+  "hasDatasetSlug": true,
+  "ownerUser": "farisalahmdi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 379,
+  "totalVotes": 6,
+  "totalDownloads": 51,
+  "title": "Arabic YouTube Comments by Khalaya",
+  "hasTitle": true,
+  "subtitle": "Arabic YouTube Comments: A Multi-tagged Dataset by Khalaya",
+  "hasSubtitle": true,
+  "description": "# YouTube Comments Sentiment Analysis Dataset\n\n###Description\nThis dataset comprises a collection of YouTube comments extracted from videos of a specific channels, \"BidonWaraq\", \"mmr_sa1\", \"POWR-Esports\" and \"thmanyahPodcasts\". It provides a rich source of data for text analysis, sentiment analysis, sarcasm detection, and speech act recognition tasks. Each comment is annotated with several features, making it suitable for a variety of natural language processing (NLP) applications.\n\n### Dataset Content\n1. **title:** The title of the YouTube video.\n2. **comment:** The text of the comment posted on the YouTube video.\n3. **video_id:** The unique identifier for the YouTube video.\n4. **channel_id:** The unique identifier for the YouTube channel.\n5. **sentiment:** The sentiment of the comment (e.g., Positive, Neutral, Negative).\n6. **sarcasm:** A boolean indicating whether the comment is sarcastic.\n7. **speech_act:** The type of speech act (e.g., Assertion, Expression).\n8. **dangerous:** A boolean indicating whether the comment contains dangerous content.\n9. **sentiment_reasoning:** Explanation for the sentiment annotation.\n10. **sarcasm_reasoning:** Explanation for the sarcasm annotation.\n11. **speech_act_reasoning:** Explanation for the speech act annotation.\n12. **channel_name:** The name of the YouTube channel.\n\n### Potential Uses\nThis dataset can be used for:\n\nSentiment analysis to understand the general sentiment of comments towards the video content.\nSarcasm detection to identify sarcastic remarks within the comments.\nSpeech act recognition to categorize comments according to their communicative intent.\nDangerous content detection to filter out or study comments that may contain harmful content.\n\n### Challenges\nThe dataset poses several challenges including but not limited to:\n\nDealing with multilingual text, as comments might be in different languages.\nUnderstanding context for accurate sentiment and sarcasm detection.\nManaging imbalanced classes, especially for less common annotations like sarcasm or dangerous content.\n\n### Acknowledgments\nThis dataset has been collected and annotated by **Khalaya**, aiming to facilitate research and development in natural language processing and machine learning fields.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "multitask classification",
+    "arabic"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

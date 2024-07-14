@@ -1,0 +1,45 @@
+{
+  "id": "adnanzaidi/urdu-news-headlines",
+  "id_no": 290982,
+  "datasetSlugNullable": "urdu-news-headlines",
+  "ownerUserNullable": "adnanzaidi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Urdu / Hindi News Headlines",
+  "subtitleNullable": "For Natural Language Processing/Machine Learning/Deeplearning",
+  "descriptionNullable": "***Urdu / Hindi News Headline, Text Classification by Using \nDifferent Machine Learning Algorithms***\n\nClassifying text in Urdu is very challenging task, especially when we have multiple classes to implement in multiple machine learning algorithm. In this paper, we are actively scraping Urdu news heading from news agencies including BBC Urdu and Urdu-point. Our corpus contains 141289 new words of eight categories with (Armed forces, International, Entertainment, Education, Accident, Local, Sports, and Weather). The machine learning algorithms were not able to work directly on the data, so we applied the pre-processing techniques like stop words removal and a feature vector. Our model classify text into multiple category and after comparing different machine learning algorithms, Ridge Classifier is best predictor and we achieve up to 87% accuracy. ",
+  "datasetId": 290982,
+  "datasetSlug": "urdu-news-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "adnanzaidi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9684,
+  "totalVotes": 146,
+  "totalDownloads": 776,
+  "title": "Urdu / Hindi News Headlines",
+  "hasTitle": true,
+  "subtitle": "For Natural Language Processing/Machine Learning/Deeplearning",
+  "hasSubtitle": true,
+  "description": "***Urdu / Hindi News Headline, Text Classification by Using \nDifferent Machine Learning Algorithms***\n\nClassifying text in Urdu is very challenging task, especially when we have multiple classes to implement in multiple machine learning algorithm. In this paper, we are actively scraping Urdu news heading from news agencies including BBC Urdu and Urdu-point. Our corpus contains 141289 new words of eight categories with (Armed forces, International, Entertainment, Education, Accident, Local, Sports, and Weather). The machine learning algorithms were not able to work directly on the data, so we applied the pre-processing techniques like stop words removal and a feature vector. Our model classify text into multiple category and after comparing different machine learning algorithms, Ridge Classifier is best predictor and we achieve up to 87% accuracy. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "nlp",
+    "classification",
+    "feature engineering",
+    "linear regression",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sadikaljarif/food-vs-non-food-image-classification",
+  "id_no": 2471487,
+  "datasetSlugNullable": "food-vs-non-food-image-classification",
+  "ownerUserNullable": "sadikaljarif",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Food and Non-Food Image Classification",
+  "subtitleNullable": "Identifying Culinary and Non-Culinary Content for Enhanced Image Recognition",
+  "descriptionNullable": "# Abstract:\n```\nThis dataset comprises a curated collection of food and non-food images, meticulously organized into three distinct sets: train, validation, and evaluation. Each set contains 500 images, evenly distributed across the two categories: food and non-food. The primary objective of this dataset division is to streamline the process of training, validating, and evaluating machine learning models for image classification tasks.\n```\n# Introduction:\n```\nThe dataset offers researchers, developers, and data scientists a comprehensive resource for training and testing machine learning models tailored for food and non-food image classification. Sourced from an official repository, the images maintain authenticity and relevance to their respective categories.\n```\n\n# Dataset Composition:\n\n* Train Set: Consists of 500 images, evenly split between food and non-food categories, serving as the primary dataset for model training.\n* Validation Set: Comprises 500 images, equally distributed across food and non-food categories, utilized for fine-tuning model parameters and assessing performance during training.\n* Evaluation Set: Contains 500 images, again evenly distributed between food and non-food categories, reserved exclusively for evaluating model performance after training.\n\n# Dataset Preparation:\n```\nThe original dataset underwent categorization into the train, validation, and evaluation sets, with no alterations to the images themselves. Each image is meticulously labeled to denote its category (food or non-food), ensuring clarity and consistency across the dataset.\n```\n# Significance:\n\n* Facilitates Model Development: The dataset's structured organization streamlines the development of machine learning models for food and non-food image classification tasks.\n* Ensures Model Accuracy: By providing a diverse collection of images across multiple sets, the dataset enables robust model training and evaluation, leading to accurate classification results.\n* Enables Research and Innovation: Researchers and developers can leverage this dataset to explore novel approaches in image classification and contribute to advancements in the field of computer vision\n\n# Conclusion:\n```\nIn summary, the dataset represents a valuable asset for the machine learning community, offering a meticulously curated collection of food and non-food images for classification tasks. Its division into distinct sets enhances the efficiency and effectiveness of model development, ensuring reliable performance in real-world applications.\n```",
+  "datasetId": 2471487,
+  "datasetSlug": "food-vs-non-food-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadikaljarif",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 705,
+  "totalVotes": 28,
+  "totalDownloads": 118,
+  "title": "Food and Non-Food Image Classification",
+  "hasTitle": true,
+  "subtitle": "Identifying Culinary and Non-Culinary Content for Enhanced Image Recognition",
+  "hasSubtitle": true,
+  "description": "# Abstract:\n```\nThis dataset comprises a curated collection of food and non-food images, meticulously organized into three distinct sets: train, validation, and evaluation. Each set contains 500 images, evenly distributed across the two categories: food and non-food. The primary objective of this dataset division is to streamline the process of training, validating, and evaluating machine learning models for image classification tasks.\n```\n# Introduction:\n```\nThe dataset offers researchers, developers, and data scientists a comprehensive resource for training and testing machine learning models tailored for food and non-food image classification. Sourced from an official repository, the images maintain authenticity and relevance to their respective categories.\n```\n\n# Dataset Composition:\n\n* Train Set: Consists of 500 images, evenly split between food and non-food categories, serving as the primary dataset for model training.\n* Validation Set: Comprises 500 images, equally distributed across food and non-food categories, utilized for fine-tuning model parameters and assessing performance during training.\n* Evaluation Set: Contains 500 images, again evenly distributed between food and non-food categories, reserved exclusively for evaluating model performance after training.\n\n# Dataset Preparation:\n```\nThe original dataset underwent categorization into the train, validation, and evaluation sets, with no alterations to the images themselves. Each image is meticulously labeled to denote its category (food or non-food), ensuring clarity and consistency across the dataset.\n```\n# Significance:\n\n* Facilitates Model Development: The dataset's structured organization streamlines the development of machine learning models for food and non-food image classification tasks.\n* Ensures Model Accuracy: By providing a diverse collection of images across multiple sets, the dataset enables robust model training and evaluation, leading to accurate classification results.\n* Enables Research and Innovation: Researchers and developers can leverage this dataset to explore novel approaches in image classification and contribute to advancements in the field of computer vision\n\n# Conclusion:\n```\nIn summary, the dataset represents a valuable asset for the machine learning community, offering a meticulously curated collection of food and non-food images for classification tasks. Its division into distinct sets enhances the efficiency and effectiveness of model development, ensuring reliable performance in real-world applications.\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning",
+    "cooking and recipes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

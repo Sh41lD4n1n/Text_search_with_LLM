@@ -1,0 +1,45 @@
+{
+  "id": "andrewmvd/leukemia-classification",
+  "id_no": 849724,
+  "datasetSlugNullable": "leukemia-classification",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Leukemia Classification",
+  "subtitleNullable": "Identify cancer cells in the most prevalent childhood cancer type.",
+  "descriptionNullable": "# Abstract\n&gt; Tackle one of the major childhood cancer types by creating a model to classify normal from abnormal cell images.\n\n# About this dataset\n&gt; **[Acute lymphoblastic leukemia](https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia) (ALL) is the most common type of childhood cancer and accounts for approximately 25% of the pediatric cancers**. \n\n&gt; These cells have been segmented from microscopic images and are representative of images in the real-world because they contain some staining noise and illumination errors, although these errors have largely been fixed in the course of acquisition.\n\n&gt; The task of identifying immature leukemic blasts from normal cells under the microscope is challenging due to morphological similarity and thus the ground truth labels were annotated by an expert oncologist.\n\n&gt; In total there are **15,135 images** from **118 patients** with two labelled classes:\n- **Normal cell**;\n- **Leukemia blast**.\n\n\n# How to use\n&gt; Create a image classification model to distinguish between normal and cancer cells.\n\n# Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors.\n\n&gt; ### Data Citation\n- Gupta, A., & Gupta, R. (2019). ALL Challenge dataset of ISBI 2019 [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/tcia.2019.dc64i46r\n\n&gt; ### Publication Citation\n- Anubha Gupta, Rahul Duggal, Ritu Gupta, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, \u201cGCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images,\u201d, under review.\nRitu Gupta, Pramit Mallick, Rahul Duggal, Anubha Gupta, and Ojaswa Sharma, \"Stain Color Normalization and Segmentation of Plasma Cells in Microscopic Images as a Prelude to Development of Computer Assisted Automated Disease Diagnostic Tool in Multiple Myeloma,\" 16th International Myeloma Workshop (IMW), India, March 2017.\n- Rahul Duggal, Anubha Gupta, Ritu Gupta, Manya Wadhwa, and Chirag Ahuja, \u201cOverlapping Cell Nuclei Segmentation in Microscopic Images UsingDeep Belief Networks,\u201d Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), India, December 2016.\nRahul Duggal, Anubha Gupta, and Ritu Gupta, \u201cSegmentation of overlapping/touching white blood cell nuclei using artificial neural networks,\u201d CME Series on Hemato-Oncopathology, All India Institute of Medical Sciences (AIIMS), New Delhi, India, July 2016.\n- Rahul Duggal, Anubha Gupta, Ritu Gupta, and Pramit Mallick, \"SD-Layer: Stain Deconvolutional Layer for CNNs in Medical Microscopic Imaging,\" In: Descoteaux M., Maier-Hein L., Franz A., Jannin P., Collins D., Duchesne S. (eds) Medical Image Computing and Computer-Assisted Intervention \u2212 MICCAI 2017, MICCAI 2017. Lecture Notes in Computer Science, Part III, LNCS 10435, pp. 435\u2013443. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-66179-7_50 .\n\n&gt; ### License\nLicense was not specified at source, access is free and public and a citation upon usage was requested.\n\n&gt; ### Splash banner\nPhoto by [National Cancer Institute](https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/yg1Zayn0Few).\n\n&gt; ### Splash icon\nIcons by [Eucalyp](https://www.flaticon.com/authors/eucalyp) and [Freepik](https://www.flaticon.com/authors/freepik) available on Flaticon [here](https://www.flaticon.com/free-icon/blood_883986?term=blood&page=1&position=7) and [here](https://www.flaticon.com/free-icon/ribbon_1080240?term=cancer&page=1&position=57).\n\n&gt; ### [More Datasets](https://www.kaggle.com/andrewmvd/datasets)",
+  "datasetId": 849724,
+  "datasetSlug": "leukemia-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 140465,
+  "totalVotes": 229,
+  "totalDownloads": 12307,
+  "title": "Leukemia Classification",
+  "hasTitle": true,
+  "subtitle": "Identify cancer cells in the most prevalent childhood cancer type.",
+  "hasSubtitle": true,
+  "description": "# Abstract\n&gt; Tackle one of the major childhood cancer types by creating a model to classify normal from abnormal cell images.\n\n# About this dataset\n&gt; **[Acute lymphoblastic leukemia](https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia) (ALL) is the most common type of childhood cancer and accounts for approximately 25% of the pediatric cancers**. \n\n&gt; These cells have been segmented from microscopic images and are representative of images in the real-world because they contain some staining noise and illumination errors, although these errors have largely been fixed in the course of acquisition.\n\n&gt; The task of identifying immature leukemic blasts from normal cells under the microscope is challenging due to morphological similarity and thus the ground truth labels were annotated by an expert oncologist.\n\n&gt; In total there are **15,135 images** from **118 patients** with two labelled classes:\n- **Normal cell**;\n- **Leukemia blast**.\n\n\n# How to use\n&gt; Create a image classification model to distinguish between normal and cancer cells.\n\n# Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors.\n\n&gt; ### Data Citation\n- Gupta, A., & Gupta, R. (2019). ALL Challenge dataset of ISBI 2019 [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/tcia.2019.dc64i46r\n\n&gt; ### Publication Citation\n- Anubha Gupta, Rahul Duggal, Ritu Gupta, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, \u201cGCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images,\u201d, under review.\nRitu Gupta, Pramit Mallick, Rahul Duggal, Anubha Gupta, and Ojaswa Sharma, \"Stain Color Normalization and Segmentation of Plasma Cells in Microscopic Images as a Prelude to Development of Computer Assisted Automated Disease Diagnostic Tool in Multiple Myeloma,\" 16th International Myeloma Workshop (IMW), India, March 2017.\n- Rahul Duggal, Anubha Gupta, Ritu Gupta, Manya Wadhwa, and Chirag Ahuja, \u201cOverlapping Cell Nuclei Segmentation in Microscopic Images UsingDeep Belief Networks,\u201d Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), India, December 2016.\nRahul Duggal, Anubha Gupta, and Ritu Gupta, \u201cSegmentation of overlapping/touching white blood cell nuclei using artificial neural networks,\u201d CME Series on Hemato-Oncopathology, All India Institute of Medical Sciences (AIIMS), New Delhi, India, July 2016.\n- Rahul Duggal, Anubha Gupta, Ritu Gupta, and Pramit Mallick, \"SD-Layer: Stain Deconvolutional Layer for CNNs in Medical Microscopic Imaging,\" In: Descoteaux M., Maier-Hein L., Franz A., Jannin P., Collins D., Duchesne S. (eds) Medical Image Computing and Computer-Assisted Intervention \u2212 MICCAI 2017, MICCAI 2017. Lecture Notes in Computer Science, Part III, LNCS 10435, pp. 435\u2013443. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-66179-7_50 .\n\n&gt; ### License\nLicense was not specified at source, access is free and public and a citation upon usage was requested.\n\n&gt; ### Splash banner\nPhoto by [National Cancer Institute](https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/yg1Zayn0Few).\n\n&gt; ### Splash icon\nIcons by [Eucalyp](https://www.flaticon.com/authors/eucalyp) and [Freepik](https://www.flaticon.com/authors/freepik) available on Flaticon [here](https://www.flaticon.com/free-icon/blood_883986?term=blood&page=1&position=7) and [here](https://www.flaticon.com/free-icon/ribbon_1080240?term=cancer&page=1&position=57).\n\n&gt; ### [More Datasets](https://www.kaggle.com/andrewmvd/datasets)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "biology",
+    "health",
+    "medicine",
+    "image",
+    "health conditions",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

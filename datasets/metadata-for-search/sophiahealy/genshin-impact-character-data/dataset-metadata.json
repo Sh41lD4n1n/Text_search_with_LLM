@@ -1,0 +1,43 @@
+{
+  "id": "sophiahealy/genshin-impact-character-data",
+  "id_no": 2166577,
+  "datasetSlugNullable": "genshin-impact-character-data",
+  "ownerUserNullable": "sophiahealy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Genshin Impact Character Data",
+  "subtitleNullable": "Detailed data on all current playable characters in Genshin Impact",
+  "descriptionNullable": "This dataset contains descriptive information on all current Genshin Impact characters. I thought this would be a fun little dataset to create and experiment with as I study data mining and analytics, and I hope you enjoy it, too!\n\n### Disclaimer\nAll characters belong to Hoyoverse and are not mine. Data is sourced from the Genshin Impact Wiki and is subject to human error. Special characters may be replaced with \"?\" due to data loss when converting to .csv file.\n\n### Update Notes\nVersion 11: Added data on Charlotte and Furina.   \nVersion 10: Lots of changes.\n1. Added column \"limited\" with Boolean values TRUE and FALSE to indicate whether or not a character can be summoned on the standard banner.\n2. Added the \u201calignment\u201d column to indicate the character\u2019s Arkhe alignment.\n3. Changed Tighnari\u2019s English voice actor to reflect changes made by Hoyoverse.\n4. Changed column \"talent_book\" to \"talent_book_2\" and added columns for talent books needed for leveling to 3, 4, 5, 6, 7, 8, 9, and 10, mainly due to the Traveler using all three of a region\u2019s talent books for various levels.\n5. Fixed an error in which the values for Traveler (Aether) and Traveler (Lumine) for \"model\" and voice actors were swapped.\n6. Changed Traveler (Aether) to Traveler (Aether, Anemo) and Traveler (Lumine) to Traveler (Lumine, Anemo), and added rows for both Aether and Lumine for Geo, Electro, Dendro, and Hydro.\n7. Added data on Neuvillette and Wriothesley.   \n\nVersion 9: Added data on Lyney, Lynette, and Freminet.  \nVersion 8: Removed the Dainsleif row and the Playable column \u2013 only playable characters will be recorded to prevent incomplete/blank data. Added data on Alhaitham, Baizhu, Dehya, Faruzan, Kaveh, Kirara, Layla, Mika, Nahida, Wanderer, and Yaoyao.  \nVersion 7: Added data on Nilou, Cyno, and Candace.  \nVersion 6: Added data on Kuki Shinobu, Tighnari, Collei, and Dori.  \nVersion 5: Added data on Shikanoin Heizou.  \nVersion 4: Added data on Kuki Shinobu. Added known data for upcoming Sumeru characters. Added \"affiliation\" column.  \nVersion 3: Added data on Yelan. Added columns for base HP, ATK, and DEF at all major milestones.  \nVersion 2: Error fixes.  ",
+  "datasetId": 2166577,
+  "datasetSlug": "genshin-impact-character-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sophiahealy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23095,
+  "totalVotes": 128,
+  "totalDownloads": 3073,
+  "title": "Genshin Impact Character Data",
+  "hasTitle": true,
+  "subtitle": "Detailed data on all current playable characters in Genshin Impact",
+  "hasSubtitle": true,
+  "description": "This dataset contains descriptive information on all current Genshin Impact characters. I thought this would be a fun little dataset to create and experiment with as I study data mining and analytics, and I hope you enjoy it, too!\n\n### Disclaimer\nAll characters belong to Hoyoverse and are not mine. Data is sourced from the Genshin Impact Wiki and is subject to human error. Special characters may be replaced with \"?\" due to data loss when converting to .csv file.\n\n### Update Notes\nVersion 11: Added data on Charlotte and Furina.   \nVersion 10: Lots of changes.\n1. Added column \"limited\" with Boolean values TRUE and FALSE to indicate whether or not a character can be summoned on the standard banner.\n2. Added the \u201calignment\u201d column to indicate the character\u2019s Arkhe alignment.\n3. Changed Tighnari\u2019s English voice actor to reflect changes made by Hoyoverse.\n4. Changed column \"talent_book\" to \"talent_book_2\" and added columns for talent books needed for leveling to 3, 4, 5, 6, 7, 8, 9, and 10, mainly due to the Traveler using all three of a region\u2019s talent books for various levels.\n5. Fixed an error in which the values for Traveler (Aether) and Traveler (Lumine) for \"model\" and voice actors were swapped.\n6. Changed Traveler (Aether) to Traveler (Aether, Anemo) and Traveler (Lumine) to Traveler (Lumine, Anemo), and added rows for both Aether and Lumine for Geo, Electro, Dendro, and Hydro.\n7. Added data on Neuvillette and Wriothesley.   \n\nVersion 9: Added data on Lyney, Lynette, and Freminet.  \nVersion 8: Removed the Dainsleif row and the Playable column \u2013 only playable characters will be recorded to prevent incomplete/blank data. Added data on Alhaitham, Baizhu, Dehya, Faruzan, Kaveh, Kirara, Layla, Mika, Nahida, Wanderer, and Yaoyao.  \nVersion 7: Added data on Nilou, Cyno, and Candace.  \nVersion 6: Added data on Kuki Shinobu, Tighnari, Collei, and Dori.  \nVersion 5: Added data on Shikanoin Heizou.  \nVersion 4: Added data on Kuki Shinobu. Added known data for upcoming Sumeru characters. Added \"affiliation\" column.  \nVersion 3: Added data on Yelan. Added columns for base HP, ATK, and DEF at all major milestones.  \nVersion 2: Error fixes.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

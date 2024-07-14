@@ -1,0 +1,81 @@
+{
+  "id": "anasmohammedtahir/covidqu",
+  "id_no": 1210221,
+  "datasetSlugNullable": "covidqu",
+  "ownerUserNullable": "anasmohammedtahir",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "COVID-QU-Ex Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### COVID-QU-Ex Dataset\nThe researchers of Qatar University have compiled the COVID-QU-Ex dataset, which consists of 33,920 chest X-ray (CXR) images including:\n-\t11,956 COVID-19\n-\t11,263 Non-COVID infections (Viral or Bacterial Pneumonia)\n-\t10,701 Normal\nGround-truth lung segmentation masks are provided for the entire dataset. This is the largest ever created lung mask dataset. \n\n**If you use  COVID-QU-Ex Dataset in your research, please consider to cite the publications/dataset below:**\n[1] A. M. Tahir, M. E. H. Chowdhury, A. Khandakar, Y. Qiblawey, U. Khurshid, S. Kiranyaz, N. Ibtehaz, M. S. Rahman, S. Al-Madeed, S. Mahmud, M. Ezeddin, K. Hameed, and T. Hamid, \u201cCOVID-19 Infection Localization and Severity Grading from Chest X-ray Images\u201d, Computers in Biology and Medicine, vol. 139, p. 105002, 2021, https://doi.org/10.1016/j.compbiomed.2021.105002.\n[2] Anas M. Tahir, Muhammad E. H. Chowdhury, Yazan Qiblawey, Amith Khandakar, Tawsifur Rahman, Serkan Kiranyaz, Uzair Khurshid, Nabil Ibtehaz, Sakib Mahmud, and Maymouna Ezeddin, \u201cCOVID-QU-Ex .\u201d Kaggle, 2021, https://doi.org/10.34740/kaggle/dsv/3122958.\n[3] T. Rahman, A. Khandakar, Y. Qiblawey A. Tahir S. Kiranyaz, S. Abul Kashem, M. Islam, S. Al Maadeed, S. Zughaier, M. Khan, M. Chowdhury, \"Exploring the Effect of Image Enhancement Techniques on COVID-19 Detection using Chest X-rays Images,\" Computers in Biology and Medicine, p. 104319, 2021, https://doi.org/10.1016/j.compbiomed.2021.104319.\n[4] A. Degerli, M. Ahishali, M. Yamac, S. Kiranyaz, M. E. H. Chowdhury, K. Hameed, T. Hamid, R. Mazhar, and M. Gabbouj, \"Covid-19 infection map generation and detection from chest X-ray images,\" Health Inf Sci Syst 9, 15 (2021), https://doi.org/10.1007/s13755-021-00146-8.\n[5] M. E. H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M. A. Kadir, Z. B. Mahbub, K. R. Islam, M. S. Khan, A. Iqbal, N. A. Emadi, M. B. I. Reaz, M. T. Islam, \"Can AI Help in Screening Viral and COVID-19 Pneumonia?,\" IEEE Access, vol. 8, pp. 132665-132676, 2020, https://doi.org/10.1109/ACCESS.2020.3010287.\n\nTo the best of our knowledge, this is the first study that utilizes both lung and infection segmentation to detect, localize and quantify COVID-19 infection from X-ray images. Therefore, it can assist the medical doctors to better diagnose the severity of COVID-19 pneumonia and follow up the progression of the disease easily.\n\nThe experiments were conducted on two CXR sets, where each set is divided into train, validation and test sets: \n1)\tLung Segmentation Data\n        Entire COVID-QU-Ex dataset (33,920 CXR images with corresponding ground-truth lung masks)\n2)\tCOVID-19 Infection Segmentation Data\n         A subset of COVID-QU-Ex dataset (1,456 Normal and 1,457 Non-COVID-19 CXRs with corresponding lung mask, plus 2,913 COVID-19 CXRs with \n         corresponding lung mask from COVID-QU-Ex dataset and corresponding infections masks from QaTaCov19 dataset).\n### References\nIn COVID-QU-Ex, the X-ray images are collected from the following repositories and studies:\n\u2022\tCOVID-19 Samples: [1- 7].\n\u2022\tNon-COVID Samples: [8- 10].\n\u2022\tNormal Samples: [8- 10].\n\n[1] QaTa-COV19 Database. https://www.kaggle.com/aysendegerli/qatacov19-dataset. Accessed 14 March 2021.\n[2] Covid-19-image-repository. Available: https://github.com/ml-workgroup/covid-19-image-repository/tree/master/png. Accessed 14 March 2021.\n[3] Eurorad. Available: https://www.eurorad.org/. Accessed 14 March 2021.\n[4] Covid-chestxray-dataset. Available: https://github.com/ieee8023/covid-chestxray-dataset. Accessed 14 March 2021.\n[5] COVID-19 DATABASE. Available: https://www.sirm.org/category/senza-categoria/covid-19/. Accessed 14 March 2021.\n[6] Kaggle. (2020). COVID-19 Radiography Database. Available: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database. Accessed 14 March 2021.\n[7] GitHub. (2020). COVID-CXNet. Available: https://github.com/armiro/COVID-CXNet. Accessed 14 March 2021.\n[8] RSNA Pneumonia Detection Challenge. Available: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data. Accessed 14 March 2021.\n[9] Chest X-Ray Images (Pneumonia). Available: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. Accessed 14 March 2021.\n[10] Medical Imaging Databank of the Valencia Region. PadChest: A large chest x-ray image dataset with multi-label annotated reports. Available: https://bimcv.cipf.es/bimcv-projects/padchest/. Accessed 14 March 2021.",
+  "datasetId": 1210221,
+  "datasetSlug": "covidqu",
+  "hasDatasetSlug": true,
+  "ownerUser": "anasmohammedtahir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 34775,
+  "totalVotes": 78,
+  "totalDownloads": 6513,
+  "title": "COVID-QU-Ex Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### COVID-QU-Ex Dataset\nThe researchers of Qatar University have compiled the COVID-QU-Ex dataset, which consists of 33,920 chest X-ray (CXR) images including:\n-\t11,956 COVID-19\n-\t11,263 Non-COVID infections (Viral or Bacterial Pneumonia)\n-\t10,701 Normal\nGround-truth lung segmentation masks are provided for the entire dataset. This is the largest ever created lung mask dataset. \n\n**If you use  COVID-QU-Ex Dataset in your research, please consider to cite the publications/dataset below:**\n[1] A. M. Tahir, M. E. H. Chowdhury, A. Khandakar, Y. Qiblawey, U. Khurshid, S. Kiranyaz, N. Ibtehaz, M. S. Rahman, S. Al-Madeed, S. Mahmud, M. Ezeddin, K. Hameed, and T. Hamid, \u201cCOVID-19 Infection Localization and Severity Grading from Chest X-ray Images\u201d, Computers in Biology and Medicine, vol. 139, p. 105002, 2021, https://doi.org/10.1016/j.compbiomed.2021.105002.\n[2] Anas M. Tahir, Muhammad E. H. Chowdhury, Yazan Qiblawey, Amith Khandakar, Tawsifur Rahman, Serkan Kiranyaz, Uzair Khurshid, Nabil Ibtehaz, Sakib Mahmud, and Maymouna Ezeddin, \u201cCOVID-QU-Ex .\u201d Kaggle, 2021, https://doi.org/10.34740/kaggle/dsv/3122958.\n[3] T. Rahman, A. Khandakar, Y. Qiblawey A. Tahir S. Kiranyaz, S. Abul Kashem, M. Islam, S. Al Maadeed, S. Zughaier, M. Khan, M. Chowdhury, \"Exploring the Effect of Image Enhancement Techniques on COVID-19 Detection using Chest X-rays Images,\" Computers in Biology and Medicine, p. 104319, 2021, https://doi.org/10.1016/j.compbiomed.2021.104319.\n[4] A. Degerli, M. Ahishali, M. Yamac, S. Kiranyaz, M. E. H. Chowdhury, K. Hameed, T. Hamid, R. Mazhar, and M. Gabbouj, \"Covid-19 infection map generation and detection from chest X-ray images,\" Health Inf Sci Syst 9, 15 (2021), https://doi.org/10.1007/s13755-021-00146-8.\n[5] M. E. H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M. A. Kadir, Z. B. Mahbub, K. R. Islam, M. S. Khan, A. Iqbal, N. A. Emadi, M. B. I. Reaz, M. T. Islam, \"Can AI Help in Screening Viral and COVID-19 Pneumonia?,\" IEEE Access, vol. 8, pp. 132665-132676, 2020, https://doi.org/10.1109/ACCESS.2020.3010287.\n\nTo the best of our knowledge, this is the first study that utilizes both lung and infection segmentation to detect, localize and quantify COVID-19 infection from X-ray images. Therefore, it can assist the medical doctors to better diagnose the severity of COVID-19 pneumonia and follow up the progression of the disease easily.\n\nThe experiments were conducted on two CXR sets, where each set is divided into train, validation and test sets: \n1)\tLung Segmentation Data\n        Entire COVID-QU-Ex dataset (33,920 CXR images with corresponding ground-truth lung masks)\n2)\tCOVID-19 Infection Segmentation Data\n         A subset of COVID-QU-Ex dataset (1,456 Normal and 1,457 Non-COVID-19 CXRs with corresponding lung mask, plus 2,913 COVID-19 CXRs with \n         corresponding lung mask from COVID-QU-Ex dataset and corresponding infections masks from QaTaCov19 dataset).\n### References\nIn COVID-QU-Ex, the X-ray images are collected from the following repositories and studies:\n\u2022\tCOVID-19 Samples: [1- 7].\n\u2022\tNon-COVID Samples: [8- 10].\n\u2022\tNormal Samples: [8- 10].\n\n[1] QaTa-COV19 Database. https://www.kaggle.com/aysendegerli/qatacov19-dataset. Accessed 14 March 2021.\n[2] Covid-19-image-repository. Available: https://github.com/ml-workgroup/covid-19-image-repository/tree/master/png. Accessed 14 March 2021.\n[3] Eurorad. Available: https://www.eurorad.org/. Accessed 14 March 2021.\n[4] Covid-chestxray-dataset. Available: https://github.com/ieee8023/covid-chestxray-dataset. Accessed 14 March 2021.\n[5] COVID-19 DATABASE. Available: https://www.sirm.org/category/senza-categoria/covid-19/. Accessed 14 March 2021.\n[6] Kaggle. (2020). COVID-19 Radiography Database. Available: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database. Accessed 14 March 2021.\n[7] GitHub. (2020). COVID-CXNet. Available: https://github.com/armiro/COVID-CXNet. Accessed 14 March 2021.\n[8] RSNA Pneumonia Detection Challenge. Available: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data. Accessed 14 March 2021.\n[9] Chest X-Ray Images (Pneumonia). Available: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. Accessed 14 March 2021.\n[10] Medical Imaging Databank of the Valencia Region. PadChest: A large chest x-ray image dataset with multi-label annotated reports. Available: https://bimcv.cipf.es/bimcv-projects/padchest/. Accessed 14 March 2021.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "healthcare",
+    "data visualization",
+    "deep learning",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "robin0",
+      "role": "reader"
+    },
+    {
+      "username": "tawsifurrahman",
+      "role": "reader"
+    },
+    {
+      "username": "amithkhandakar",
+      "role": "reader"
+    },
+    {
+      "username": "sakib1263",
+      "role": "reader"
+    },
+    {
+      "username": "uzairk7",
+      "role": "reader"
+    },
+    {
+      "username": "serkankiranyaz",
+      "role": "reader"
+    },
+    {
+      "username": "maymounaezeddin",
+      "role": "reader"
+    },
+    {
+      "username": "mc16262",
+      "role": "writer"
+    },
+    {
+      "username": "yazanqiblawey",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

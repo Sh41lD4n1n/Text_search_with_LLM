@@ -1,0 +1,37 @@
+{
+  "id": "mohamedmohsen3330/song-popularity-classification",
+  "id_no": 5288451,
+  "datasetSlugNullable": "song-popularity-classification",
+  "ownerUserNullable": "mohamedmohsen3330",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Song Popularity Classification",
+  "subtitleNullable": "ML Classification  Models",
+  "descriptionNullable": "Classification:\n\u25aa Split your dataset into 80% training and 20% testing. \n\u25aa Train at least 3 different models to classify each sample into distinct \nclasses.\n\u25aa Choose at least two hyperparameters to vary. Study at least three \ndifferent choices for each hyperparameter. When varying one \nhyperparameter, all the other hyperparameters should be fixed\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6407243%2F0e9835ec9319dc098fafd88676ca7ae3%2FScreenshot%20(25).png?generation=1719419036630363&alt=media)",
+  "datasetId": 5288451,
+  "datasetSlug": "song-popularity-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedmohsen3330",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Song Popularity Classification",
+  "hasTitle": true,
+  "subtitle": "ML Classification  Models",
+  "hasSubtitle": true,
+  "description": "Classification:\n\u25aa Split your dataset into 80% training and 20% testing. \n\u25aa Train at least 3 different models to classify each sample into distinct \nclasses.\n\u25aa Choose at least two hyperparameters to vary. Study at least three \ndifferent choices for each hyperparameter. When varying one \nhyperparameter, all the other hyperparameters should be fixed\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6407243%2F0e9835ec9319dc098fafd88676ca7ae3%2FScreenshot%20(25).png?generation=1719419036630363&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "ODC Public Domain Dedication and Licence (PDDL)",
+      "name": "ODC Public Domain Dedication and Licence (PDDL)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

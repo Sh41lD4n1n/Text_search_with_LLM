@@ -1,0 +1,45 @@
+{
+  "id": "mansibmursalin/chest-xrays",
+  "id_no": 2248819,
+  "datasetSlugNullable": "chest-xrays",
+  "ownerUserNullable": "mansibmursalin",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Chest X-Rays",
+  "subtitleNullable": "Normal, Bacterial, and Viral Chest X-Rays",
+  "descriptionNullable": "Normal, Bacteria infected, and Virus infected chest X-Ray images for classification tasks. \nThere are a total of 6 files - training and testing sets for each of the 3 classes. Each of these files is a 4-D Numpy array and images are 128x128 in size within these NumPy arrays.\nNormal Training - 1341 files\nVirus Training - 1345 files\nBacteria Training - 2530 files\nNormal Test - 234\nVirus Test - 148\nBacteria - 242\nData provided by Professor Monjur Morshed (monjurm@aust.edu)",
+  "datasetId": 2248819,
+  "datasetSlug": "chest-xrays",
+  "hasDatasetSlug": true,
+  "ownerUser": "mansibmursalin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2313,
+  "totalVotes": 38,
+  "totalDownloads": 659,
+  "title": "Chest X-Rays",
+  "hasTitle": true,
+  "subtitle": "Normal, Bacterial, and Viral Chest X-Rays",
+  "hasSubtitle": true,
+  "description": "Normal, Bacteria infected, and Virus infected chest X-Ray images for classification tasks. \nThere are a total of 6 files - training and testing sets for each of the 3 classes. Each of these files is a 4-D Numpy array and images are 128x128 in size within these NumPy arrays.\nNormal Training - 1341 files\nVirus Training - 1345 files\nBacteria Training - 2530 files\nNormal Test - 234\nVirus Test - 148\nBacteria - 242\nData provided by Professor Monjur Morshed (monjurm@aust.edu)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "health",
+    "biotechnology",
+    "deep learning",
+    "cnn",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

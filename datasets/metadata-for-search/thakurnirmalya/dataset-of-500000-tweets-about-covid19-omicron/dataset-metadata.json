@@ -1,0 +1,44 @@
+{
+  "id": "thakurnirmalya/dataset-of-500000-tweets-about-covid19-omicron",
+  "id_no": 2327860,
+  "datasetSlugNullable": "dataset-of-500000-tweets-about-covid19-omicron",
+  "ownerUserNullable": "thakurnirmalya",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Dataset of 500000 Tweets about COVID-19 Omicron",
+  "subtitleNullable": "A Large Scale Dataset of more than 500000 Tweets about the Omicron Variant",
+  "descriptionNullable": "**Please cite the following paper when using this dataset:**\n\nN. Thakur and C.Y. Han, \u201cAn Exploratory Study of Tweets about the SARS-CoV-2 Omicron Variant: Insights from Sentiment Analysis, Language Interpretation, Source Tracking, Type Classification, and Embedded URL Detection,\u201d Journal of COVID, 2022, Volume 5, Issue 3, pp. 1026-1049\n\n**Abstract**\n\nThis dataset is one of the salient contributions of the above-mentioned paper. It presents a total of 522,886 Tweet IDs of the same number of Tweets about the SARS-CoV-2 Omicron Variant posted on Twitter since the first detected case of this variant on November 24, 2021. The dataset is compliant with the privacy policy, developer agreement, and guidelines for content redistribution of Twitter, as well as with the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) principles for scientific data management.\n\n**Data Description**\n\nThe Tweet IDs are presented in 7 different .txt files based on the timelines of the associated tweets. The following provides the details of these dataset files. The data collection followed a keyword-based approach and tweets comprising the \"omicron\" keyword were filtered, collected, and added to this dataset. \n\n- Filename: TweetIDs_November.txt (No. of Tweet IDs: 16471, Date Range of the Tweet IDs: November 24, 2021 to November 30, 2021)\n- Filename: TweetIDs_December.txt (No. of Tweet IDs: 99288, Date Range of the Tweet IDs: December 1, 2021 to December 31, 2021)\n- Filename: TweetIDs_January.txt (No. of Tweet IDs: 92860, Date Range of the Tweet IDs: January 1, 2022 to January 31, 2022)\n- Filename: TweetIDs_February.txt (No. of Tweet IDs: 89080, Date Range of the Tweet IDs: February 1, 2022 to February 28, 2022)\n- Filename: TweetIDs_March.txt (No. of Tweet IDs: 97844, Date Range of the Tweet IDs: March 1, 2022 to March 31, 2022)\n- Filename: TweetIDs_April.txt (No. of Tweet IDs: 91587, Date Range of the Tweet IDs: April 1, 2022 to April 20, 2022)\n- Filename: TweetIDs_May.txt (No. of Tweet IDs: 35756, Date Range of the Tweet IDs: May 1, 2022 to May 12, 2022)\n\nHere, the last date for May is May 12 as it was the most recent date at the time of data collection. The dataset would be updated soon to incorporate more recent tweets.\n\nThe dataset contains only Tweet IDs in compliance with the terms and conditions mentioned in the privacy policy, developer agreement, and guidelines for content redistribution of Twitter. The Tweet IDs need to be hydrated to be used. For hydrating this dataset the Hydrator application ([link to download](https://github.com/DocNow/hydrator/releases) and a [step-by-step tutorial](https://towardsdatascience.com/learn-how-to-easily-hydrate-tweets-a0f393ed340e#:~:text=Hydrating%20Tweets) on how to use Hydrator) may be used.",
+  "datasetId": 2327860,
+  "datasetSlug": "dataset-of-500000-tweets-about-covid19-omicron",
+  "hasDatasetSlug": true,
+  "ownerUser": "thakurnirmalya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1291,
+  "totalVotes": 9,
+  "totalDownloads": 131,
+  "title": "Dataset of 500000 Tweets about COVID-19 Omicron",
+  "hasTitle": true,
+  "subtitle": "A Large Scale Dataset of more than 500000 Tweets about the Omicron Variant",
+  "hasSubtitle": true,
+  "description": "**Please cite the following paper when using this dataset:**\n\nN. Thakur and C.Y. Han, \u201cAn Exploratory Study of Tweets about the SARS-CoV-2 Omicron Variant: Insights from Sentiment Analysis, Language Interpretation, Source Tracking, Type Classification, and Embedded URL Detection,\u201d Journal of COVID, 2022, Volume 5, Issue 3, pp. 1026-1049\n\n**Abstract**\n\nThis dataset is one of the salient contributions of the above-mentioned paper. It presents a total of 522,886 Tweet IDs of the same number of Tweets about the SARS-CoV-2 Omicron Variant posted on Twitter since the first detected case of this variant on November 24, 2021. The dataset is compliant with the privacy policy, developer agreement, and guidelines for content redistribution of Twitter, as well as with the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) principles for scientific data management.\n\n**Data Description**\n\nThe Tweet IDs are presented in 7 different .txt files based on the timelines of the associated tweets. The following provides the details of these dataset files. The data collection followed a keyword-based approach and tweets comprising the \"omicron\" keyword were filtered, collected, and added to this dataset. \n\n- Filename: TweetIDs_November.txt (No. of Tweet IDs: 16471, Date Range of the Tweet IDs: November 24, 2021 to November 30, 2021)\n- Filename: TweetIDs_December.txt (No. of Tweet IDs: 99288, Date Range of the Tweet IDs: December 1, 2021 to December 31, 2021)\n- Filename: TweetIDs_January.txt (No. of Tweet IDs: 92860, Date Range of the Tweet IDs: January 1, 2022 to January 31, 2022)\n- Filename: TweetIDs_February.txt (No. of Tweet IDs: 89080, Date Range of the Tweet IDs: February 1, 2022 to February 28, 2022)\n- Filename: TweetIDs_March.txt (No. of Tweet IDs: 97844, Date Range of the Tweet IDs: March 1, 2022 to March 31, 2022)\n- Filename: TweetIDs_April.txt (No. of Tweet IDs: 91587, Date Range of the Tweet IDs: April 1, 2022 to April 20, 2022)\n- Filename: TweetIDs_May.txt (No. of Tweet IDs: 35756, Date Range of the Tweet IDs: May 1, 2022 to May 12, 2022)\n\nHere, the last date for May is May 12 as it was the most recent date at the time of data collection. The dataset would be updated soon to incorporate more recent tweets.\n\nThe dataset contains only Tweet IDs in compliance with the terms and conditions mentioned in the privacy policy, developer agreement, and guidelines for content redistribution of Twitter. The Tweet IDs need to be hydrated to be used. For hydrating this dataset the Hydrator application ([link to download](https://github.com/DocNow/hydrator/releases) and a [step-by-step tutorial](https://towardsdatascience.com/learn-how-to-easily-hydrate-tweets-a0f393ed340e#:~:text=Hydrating%20Tweets) on how to use Hydrator) may be used.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "earth and nature",
+    "computer science",
+    "internet",
+    "social networks",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

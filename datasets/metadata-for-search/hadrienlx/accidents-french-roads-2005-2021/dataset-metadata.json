@@ -1,0 +1,43 @@
+{
+  "id": "hadrienlx/accidents-french-roads-2005-2021",
+  "id_no": 3728617,
+  "datasetSlugNullable": "accidents-french-roads-2005-2021",
+  "ownerUserNullable": "hadrienlx",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Accidents on French roads from 2005 to 2021",
+  "subtitleNullable": "Passenger, vehicle, location and accident characteristics data",
+  "descriptionNullable": "## Introduction\nThis dataset is a complete records of road accidents on French roads from 2005 to 2021. It contains informations about the passengers, the vehicles, and the accidents location and characteristics. The data was scraped, cleaned and joined from the [official data provided by the French government](https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2021/).\n\nThe data has been preprocessed for modeling, and should be exploitable without having to go through many additional cleaning steps. Non-categorical data (e.g. the `age` and `nbv` columns) are already normalized, and the sine and cosine of the month, time of week and time of day has been extracted from the original data to allow for cyclical analysis and detection of cyclical patterns (i.e. evening, week-end, etc.).",
+  "datasetId": 3728617,
+  "datasetSlug": "accidents-french-roads-2005-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "hadrienlx",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 709,
+  "totalVotes": 2,
+  "totalDownloads": 93,
+  "title": "Accidents on French roads from 2005 to 2021",
+  "hasTitle": true,
+  "subtitle": "Passenger, vehicle, location and accident characteristics data",
+  "hasSubtitle": true,
+  "description": "## Introduction\nThis dataset is a complete records of road accidents on French roads from 2005 to 2021. It contains informations about the passengers, the vehicles, and the accidents location and characteristics. The data was scraped, cleaned and joined from the [official data provided by the French government](https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2021/).\n\nThe data has been preprocessed for modeling, and should be exploitable without having to go through many additional cleaning steps. Non-categorical data (e.g. the `age` and `nbv` columns) are already normalized, and the sine and cosine of the month, time of week and time of day has been extracted from the original data to allow for cyclical analysis and detection of cyclical patterns (i.e. evening, week-end, etc.).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "mortality",
+    "automobiles and vehicles",
+    "classification",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

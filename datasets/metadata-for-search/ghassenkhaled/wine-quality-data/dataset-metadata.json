@@ -1,0 +1,44 @@
+{
+  "id": "ghassenkhaled/wine-quality-data",
+  "id_no": 2914576,
+  "datasetSlugNullable": "wine-quality-data",
+  "ownerUserNullable": "ghassenkhaled",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Wine_Quality_Data",
+  "subtitleNullable": "This data set contains various chemical properties of wine",
+  "descriptionNullable": "We will be using the wine quality data set . This data set contains various chemical properties of wine, such as acidity, sugar, pH, and alcohol. It also contains a quality metric (3-9, with highest being better) and a color (red or white). The name of the file is Wine_Quality_Data.csv",
+  "datasetId": 2914576,
+  "datasetSlug": "wine-quality-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ghassenkhaled",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 14825,
+  "totalVotes": 38,
+  "totalDownloads": 2191,
+  "title": "Wine_Quality_Data",
+  "hasTitle": true,
+  "subtitle": "This data set contains various chemical properties of wine",
+  "hasSubtitle": true,
+  "description": "We will be using the wine quality data set . This data set contains various chemical properties of wine, such as acidity, sugar, pH, and alcohol. It also contains a quality metric (3-9, with highest being better) and a color (red or white). The name of the file is Wine_Quality_Data.csv",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "data analytics",
+    "classification",
+    "clustering",
+    "logistic regression",
+    "decision tree"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

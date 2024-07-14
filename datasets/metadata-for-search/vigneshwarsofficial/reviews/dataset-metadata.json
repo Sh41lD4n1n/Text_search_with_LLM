@@ -1,0 +1,42 @@
+{
+  "id": "vigneshwarsofficial/reviews",
+  "id_no": 277570,
+  "datasetSlugNullable": "reviews",
+  "ownerUserNullable": "vigneshwarsofficial",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Restaurant Customer Reviews",
+  "subtitleNullable": "Reviews of a Restaurant given by 1000 customers",
+  "descriptionNullable": "### Context\n\nMost of the Restaurants ask reviews to the customers and based on the reviews the restaurant can improve the customer satisfaction. So Reviews plays a vital role for the successful growth of the restaurant.\n\n\n### Content\n\nThe dataset consists of 1000 rows and 2 columns. Review Column consist of customer reviews and like column consist of 0 and 1. If the review is positive, 1 and if negative, 0.\n\n",
+  "datasetId": 277570,
+  "datasetSlug": "reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "vigneshwarsofficial",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 59762,
+  "totalVotes": 53,
+  "totalDownloads": 8002,
+  "title": "Restaurant Customer Reviews",
+  "hasTitle": true,
+  "subtitle": "Reviews of a Restaurant given by 1000 customers",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMost of the Restaurants ask reviews to the customers and based on the reviews the restaurant can improve the customer satisfaction. So Reviews plays a vital role for the successful growth of the restaurant.\n\n\n### Content\n\nThe dataset consists of 1000 rows and 2 columns. Review Column consist of customer reviews and like column consist of 0 and 1. If the review is positive, 1 and if negative, 0.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "nlp",
+    "text",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

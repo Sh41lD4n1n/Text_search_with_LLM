@@ -1,0 +1,37 @@
+{
+  "id": "arunhirmukhe/face-mask",
+  "id_no": 4300657,
+  "datasetSlugNullable": "face-mask",
+  "ownerUserNullable": "arunhirmukhe",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Face Mask",
+  "subtitleNullable": "",
+  "descriptionNullable": "This is a collection of 1698 images featuring medical face masks. The images in this dataset could depict a variety of scenarios, such as individuals wearing masks, masks on different surfaces, or masks in various environments. This dataset could be useful for projects related to public health, medical studies, or machine learning models aimed at mask detection. Please note that the actual content of the images may vary, and a thorough review of the dataset is recommended to understand its specifics and potential applications.",
+  "datasetId": 4300657,
+  "datasetSlug": "face-mask",
+  "hasDatasetSlug": true,
+  "ownerUser": "arunhirmukhe",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 25,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Face Mask",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This is a collection of 1698 images featuring medical face masks. The images in this dataset could depict a variety of scenarios, such as individuals wearing masks, masks on different surfaces, or masks in various environments. This dataset could be useful for projects related to public health, medical studies, or machine learning models aimed at mask detection. Please note that the actual content of the images may vary, and a thorough review of the dataset is recommended to understand its specifics and potential applications.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

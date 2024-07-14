@@ -1,0 +1,41 @@
+{
+  "id": "jr2ngb/cataractdataset",
+  "id_no": 314116,
+  "datasetSlugNullable": "cataractdataset",
+  "ownerUserNullable": "jr2ngb",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "cataract dataset",
+  "subtitleNullable": "cataract image dataset",
+  "descriptionNullable": "### Context\n\nCataract and normal eye image dataset for cataract detection.\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 314116,
+  "datasetSlug": "cataractdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jr2ngb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 68603,
+  "totalVotes": 136,
+  "totalDownloads": 9345,
+  "title": "cataract dataset",
+  "hasTitle": true,
+  "subtitle": "cataract image dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCataract and normal eye image dataset for cataract detection.\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "health conditions",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

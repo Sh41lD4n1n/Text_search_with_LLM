@@ -1,0 +1,39 @@
+{
+  "id": "alincijov/self-driving-cars",
+  "id_no": 786319,
+  "datasetSlugNullable": "self-driving-cars",
+  "ownerUserNullable": "alincijov",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Self-Driving Cars",
+  "subtitleNullable": "R-CNN, SSD, Yolo - Object Detection Dataset",
+  "descriptionNullable": "# Self-Driving Cars\nFull Credits go to Udacity for creating the pictures and the dataset labeling<br>\nclassic_id labels: 'car', 'truck', 'pedestrian', 'bicyclist', 'light'\n<br>\nTo learn more about self-driving cars : [Udacity Serving-Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)\n<br>\nThe intent of this dataset is purely educational ",
+  "datasetId": 786319,
+  "datasetSlug": "self-driving-cars",
+  "hasDatasetSlug": true,
+  "ownerUser": "alincijov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 40164,
+  "totalVotes": 69,
+  "totalDownloads": 5558,
+  "title": "Self-Driving Cars",
+  "hasTitle": true,
+  "subtitle": "R-CNN, SSD, Yolo - Object Detection Dataset",
+  "hasSubtitle": true,
+  "description": "# Self-Driving Cars\nFull Credits go to Udacity for creating the pictures and the dataset labeling<br>\nclassic_id labels: 'car', 'truck', 'pedestrian', 'bicyclist', 'light'\n<br>\nTo learn more about self-driving cars : [Udacity Serving-Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)\n<br>\nThe intent of this dataset is purely educational ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

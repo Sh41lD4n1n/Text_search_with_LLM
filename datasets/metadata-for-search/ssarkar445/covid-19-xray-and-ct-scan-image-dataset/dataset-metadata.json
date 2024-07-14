@@ -1,0 +1,41 @@
+{
+  "id": "ssarkar445/covid-19-xray-and-ct-scan-image-dataset",
+  "id_no": 1074124,
+  "datasetSlugNullable": "covid-19-xray-and-ct-scan-image-dataset",
+  "ownerUserNullable": "ssarkar445",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "COVID 19 XRay and CT Scan Image",
+  "subtitleNullable": "Extensive COVID-19 X-Ray and CT Chest Images Dataset",
+  "descriptionNullable": "***This COVID-19 dataset consists of Non-COVID and COVID cases of both X-ray and CT images. The associated dataset is augmented with different augmentation techniques to generate about 17099 X-ray and CT images. The dataset contains two main folders, one for the X-ray images, which includes two separate sub-folders of 5500 Non-COVID images and 4044 COVID images. The other folder contains the CT images. It includes two separate sub-folders of 2628 Non-COVID images and 5427 COVID images.\n\nRelated Links\nDataset\nhttps://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets\nis related to this dataset\nDataset\nhttps://github.com/ieee8023/covid-chestxray-dataset\nis related to this dataset\nDataset\nhttp://dx.doi.org/10.17632/2fxz4px6d8.4\nis related to this dataset\nDataset\nhttps://github.com/UCSD-AI4H/COVID-CT\nis related to this dataset\n\n***",
+  "datasetId": 1074124,
+  "datasetSlug": "covid-19-xray-and-ct-scan-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ssarkar445",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 7768,
+  "totalVotes": 22,
+  "totalDownloads": 797,
+  "title": "COVID 19 XRay and CT Scan Image",
+  "hasTitle": true,
+  "subtitle": "Extensive COVID-19 X-Ray and CT Chest Images Dataset",
+  "hasSubtitle": true,
+  "description": "***This COVID-19 dataset consists of Non-COVID and COVID cases of both X-ray and CT images. The associated dataset is augmented with different augmentation techniques to generate about 17099 X-ray and CT images. The dataset contains two main folders, one for the X-ray images, which includes two separate sub-folders of 5500 Non-COVID images and 4044 COVID images. The other folder contains the CT images. It includes two separate sub-folders of 2628 Non-COVID images and 5427 COVID images.\n\nRelated Links\nDataset\nhttps://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets\nis related to this dataset\nDataset\nhttps://github.com/ieee8023/covid-chestxray-dataset\nis related to this dataset\nDataset\nhttp://dx.doi.org/10.17632/2fxz4px6d8.4\nis related to this dataset\nDataset\nhttps://github.com/UCSD-AI4H/COVID-CT\nis related to this dataset\n\n***",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "education",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

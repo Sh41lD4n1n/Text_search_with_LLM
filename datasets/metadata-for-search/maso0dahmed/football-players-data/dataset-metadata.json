@@ -1,0 +1,45 @@
+{
+  "id": "maso0dahmed/football-players-data",
+  "id_no": 3998410,
+  "datasetSlugNullable": "football-players-data",
+  "ownerUserNullable": "maso0dahmed",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football Players Data",
+  "subtitleNullable": "FIFA Football Players Dataset of 17000 Players From sofifa.com",
+  "descriptionNullable": "##**Description**:\n\nThis comprehensive dataset offers detailed information on approximately **17,000 FIFA football players**, meticulously scraped from **SoFIFA.com**. \n\nIt encompasses a wide array of player-specific data points, including but not limited to player names, nationalities, clubs, player ratings, potential, positions, ages, and various skill attributes. This dataset is ideal for football enthusiasts, data analysts, and researchers seeking to conduct in-depth analysis, statistical studies, or machine learning projects related to football players' performance, characteristics, and career progressions.\n\n\n##**Features**:\n\n- **name**: Name of the player.\n- **full_name**: Full name of the player.\n- **birth_date**: Date of birth of the player.\n- **age**: Age of the player.\n- **height_cm**: Player's height in centimeters.\n- **weight_kgs**: Player's weight in kilograms.\n- **positions**: Positions the player can play.\n- **nationality**: Player's nationality.\n- **overall_rating**: Overall rating of the player in FIFA.\n- **potential**: Potential rating of the player in FIFA.\n- **value_euro**: Market value of the player in euros.\n- **wage_euro**: Weekly wage of the player in euros.\n- **preferred_foot**: Player's preferred foot.\n- **international_reputation(1-5)**: International reputation rating from 1 to 5.\n- **weak_foot(1-5)**: Rating of the player's weaker foot from 1 to 5.\n- **skill_moves(1-5)**: Skill moves rating from 1 to 5.\n- **body_type**: Player's body type.\n- **release_clause_euro**: Release clause of the player in euros.\n- **national_team**: National team of the player.\n- **national_rating**: Rating in the national team.\n- **national_team_position**: Position in the national team.\n- **national_jersey_number**: Jersey number in the national team.\n- **crossing**: Rating for crossing ability.\n- **finishing**: Rating for finishing ability.\n- **heading_accuracy**: Rating for heading accuracy.\n- **short_passing**: Rating for short passing ability.\n- **volleys**: Rating for volleys.\n- **dribbling**: Rating for dribbling.\n- **curve**: Rating for curve shots.\n- **freekick_accuracy**: Rating for free kick accuracy.\n- **long_passing**: Rating for long passing.\n- **ball_control**: Rating for ball control.\n- **acceleration**: Rating for acceleration.\n- **sprint_speed**: Rating for sprint speed.\n- **agility**: Rating for agility.\n- **reactions**: Rating for reactions.\n- **balance**: Rating for balance.\n- **shot_power**: Rating for shot power.\n- **jumping**: Rating for jumping.\n- **stamina**: Rating for stamina.\n- **strength**: Rating for strength.\n- **long_shots**: Rating for long shots.\n- **aggression**: Rating for aggression.\n- **interceptions**: Rating for interceptions.\n- **positioning**: Rating for positioning.\n- **vision**: Rating for vision.\n- **penalties**: Rating for penalties.\n- **composure**: Rating for composure.\n- **marking**: Rating for marking.\n- **standing_tackle**: Rating for standing tackle.\n- **sliding_tackle**: Rating for sliding tackle.\n\n##**Use Case**:\nThis dataset is ideal for data analysis, predictive modeling, and machine learning projects. It can be used for:\n\n- Player performance analysis and comparison.\n- Market value assessment and wage prediction.\n- Team composition and strategy planning.\n- Machine learning models to predict future player potential and career trajectories.\n\n##**Note**:\nPlease ensure to adhere to the terms of service of SoFIFA.com and relevant data protection laws when using this dataset. The dataset is intended for educational and research purposes only and should not be used for commercial gains without proper authorization.\n",
+  "datasetId": 3998410,
+  "datasetSlug": "football-players-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "maso0dahmed",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17488,
+  "totalVotes": 62,
+  "totalDownloads": 3944,
+  "title": "Football Players Data",
+  "hasTitle": true,
+  "subtitle": "FIFA Football Players Dataset of 17000 Players From sofifa.com",
+  "hasSubtitle": true,
+  "description": "##**Description**:\n\nThis comprehensive dataset offers detailed information on approximately **17,000 FIFA football players**, meticulously scraped from **SoFIFA.com**. \n\nIt encompasses a wide array of player-specific data points, including but not limited to player names, nationalities, clubs, player ratings, potential, positions, ages, and various skill attributes. This dataset is ideal for football enthusiasts, data analysts, and researchers seeking to conduct in-depth analysis, statistical studies, or machine learning projects related to football players' performance, characteristics, and career progressions.\n\n\n##**Features**:\n\n- **name**: Name of the player.\n- **full_name**: Full name of the player.\n- **birth_date**: Date of birth of the player.\n- **age**: Age of the player.\n- **height_cm**: Player's height in centimeters.\n- **weight_kgs**: Player's weight in kilograms.\n- **positions**: Positions the player can play.\n- **nationality**: Player's nationality.\n- **overall_rating**: Overall rating of the player in FIFA.\n- **potential**: Potential rating of the player in FIFA.\n- **value_euro**: Market value of the player in euros.\n- **wage_euro**: Weekly wage of the player in euros.\n- **preferred_foot**: Player's preferred foot.\n- **international_reputation(1-5)**: International reputation rating from 1 to 5.\n- **weak_foot(1-5)**: Rating of the player's weaker foot from 1 to 5.\n- **skill_moves(1-5)**: Skill moves rating from 1 to 5.\n- **body_type**: Player's body type.\n- **release_clause_euro**: Release clause of the player in euros.\n- **national_team**: National team of the player.\n- **national_rating**: Rating in the national team.\n- **national_team_position**: Position in the national team.\n- **national_jersey_number**: Jersey number in the national team.\n- **crossing**: Rating for crossing ability.\n- **finishing**: Rating for finishing ability.\n- **heading_accuracy**: Rating for heading accuracy.\n- **short_passing**: Rating for short passing ability.\n- **volleys**: Rating for volleys.\n- **dribbling**: Rating for dribbling.\n- **curve**: Rating for curve shots.\n- **freekick_accuracy**: Rating for free kick accuracy.\n- **long_passing**: Rating for long passing.\n- **ball_control**: Rating for ball control.\n- **acceleration**: Rating for acceleration.\n- **sprint_speed**: Rating for sprint speed.\n- **agility**: Rating for agility.\n- **reactions**: Rating for reactions.\n- **balance**: Rating for balance.\n- **shot_power**: Rating for shot power.\n- **jumping**: Rating for jumping.\n- **stamina**: Rating for stamina.\n- **strength**: Rating for strength.\n- **long_shots**: Rating for long shots.\n- **aggression**: Rating for aggression.\n- **interceptions**: Rating for interceptions.\n- **positioning**: Rating for positioning.\n- **vision**: Rating for vision.\n- **penalties**: Rating for penalties.\n- **composure**: Rating for composure.\n- **marking**: Rating for marking.\n- **standing_tackle**: Rating for standing tackle.\n- **sliding_tackle**: Rating for sliding tackle.\n\n##**Use Case**:\nThis dataset is ideal for data analysis, predictive modeling, and machine learning projects. It can be used for:\n\n- Player performance analysis and comparison.\n- Market value assessment and wage prediction.\n- Team composition and strategy planning.\n- Machine learning models to predict future player potential and career trajectories.\n\n##**Note**:\nPlease ensure to adhere to the terms of service of SoFIFA.com and relevant data protection laws when using this dataset. The dataset is intended for educational and research purposes only and should not be used for commercial gains without proper authorization.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "talhaturab",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

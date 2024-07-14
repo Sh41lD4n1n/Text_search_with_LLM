@@ -1,0 +1,42 @@
+{
+  "id": "hasankilincce/super-lig-2023-2024-player-informations",
+  "id_no": 5244402,
+  "datasetSlugNullable": "super-lig-2023-2024-player-informations",
+  "ownerUserNullable": "hasankilincce",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Super Lig Player Informations",
+  "subtitleNullable": "Turkiye Super Lig 2023-2024 Player Informations (Number, Team, Skills, Value...)",
+  "descriptionNullable": "#**Description**\nThis dataset contains detailed information on players participating in the Super Lig for the 2023-2024 season. It includes players' numbers, teams, positions, preferred foot, attacking (ATT), technique (TEC), tactical (TAC), defense (DEF), creativity (CRE) skill ratings, market values, and nationalities. With a total of 630 rows, this dataset is a valuable resource for analysis and research purposes.\n\n#**Subtitles**\n**Number:**Player's jersey number\n**Team:** The team the player is playing for\n**Position:** The position the player is playing (e.g., forward, midfielder, defender)\n**Preferred Foot:** The player's dominant foot (right, left)\n**ATT:** Attacking skill rating\n**TEC:** Technique skill rating\n**TAC:** Tactical skill rating\n**DEF:** Defense skill rating\n**CRE:** Creativity skill rating\n**Market Value:**The market value of the player (in million \u20ac)\n**Nationality:** The player's nationality\n\n#**File Information**\n**File Name:** Super Lig 2023-2024.csv\n**File Size:** 39.68KB\n**Format:** CSV (Comma-Separated Values)\n\n#**Author**\nThis dataset has been compiled to provide detailed information on players in the Super Lig for the 2023-2024 season for analysis and research purposes.",
+  "datasetId": 5244402,
+  "datasetSlug": "super-lig-2023-2024-player-informations",
+  "hasDatasetSlug": true,
+  "ownerUser": "hasankilincce",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 24,
+  "totalVotes": 1,
+  "totalDownloads": 1,
+  "title": "Super Lig Player Informations",
+  "hasTitle": true,
+  "subtitle": "Turkiye Super Lig 2023-2024 Player Informations (Number, Team, Skills, Value...)",
+  "hasSubtitle": true,
+  "description": "#**Description**\nThis dataset contains detailed information on players participating in the Super Lig for the 2023-2024 season. It includes players' numbers, teams, positions, preferred foot, attacking (ATT), technique (TEC), tactical (TAC), defense (DEF), creativity (CRE) skill ratings, market values, and nationalities. With a total of 630 rows, this dataset is a valuable resource for analysis and research purposes.\n\n#**Subtitles**\n**Number:**Player's jersey number\n**Team:** The team the player is playing for\n**Position:** The position the player is playing (e.g., forward, midfielder, defender)\n**Preferred Foot:** The player's dominant foot (right, left)\n**ATT:** Attacking skill rating\n**TEC:** Technique skill rating\n**TAC:** Tactical skill rating\n**DEF:** Defense skill rating\n**CRE:** Creativity skill rating\n**Market Value:**The market value of the player (in million \u20ac)\n**Nationality:** The player's nationality\n\n#**File Information**\n**File Name:** Super Lig 2023-2024.csv\n**File Size:** 39.68KB\n**Format:** CSV (Comma-Separated Values)\n\n#**Author**\nThis dataset has been compiled to provide detailed information on players in the Super Lig for the 2023-2024 season for analysis and research purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "europe",
+    "categorical",
+    "middle east"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

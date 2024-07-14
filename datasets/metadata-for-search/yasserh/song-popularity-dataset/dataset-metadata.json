@@ -1,0 +1,44 @@
+{
+  "id": "yasserh/song-popularity-dataset",
+  "id_no": 1847235,
+  "datasetSlugNullable": "song-popularity-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Song Popularity Dataset",
+  "subtitleNullable": "Song Popularity Prediction - Regression Problem",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Song_Popularity_Prediction_/main/songs.jpg)\n\n### Description:\n\nHumans have greatly associated themselves with Songs & Music. It can improve mood, decrease pain and anxiety, and facilitate opportunities for emotional expression. Research suggests that music can benefit our physical and mental health in numerous ways. \n\nLately, multiple studies have been carried out to understand songs & it's popularity based on certain factors. Such song samples are broken down & their parameters are recorded to tabulate. Predicting the Song Popularity is the main aim.\n\nThe project is simple yet challenging, to predict the song popularity based on energy, acoustics, instumentalness, liveness, dancibility, etc. The dataset is large & it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build a decent predictive model?\n\n### Acknowledgement: \nThe dataset is referred from Kaggle.\n\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build Regression models to predict the song popularity.\n- Also evaluate the models & compare their respective scores like R2, RMSE, etc.",
+  "datasetId": 1847235,
+  "datasetSlug": "song-popularity-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 76379,
+  "totalVotes": 102,
+  "totalDownloads": 10783,
+  "title": "Song Popularity Dataset",
+  "hasTitle": true,
+  "subtitle": "Song Popularity Prediction - Regression Problem",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Song_Popularity_Prediction_/main/songs.jpg)\n\n### Description:\n\nHumans have greatly associated themselves with Songs & Music. It can improve mood, decrease pain and anxiety, and facilitate opportunities for emotional expression. Research suggests that music can benefit our physical and mental health in numerous ways. \n\nLately, multiple studies have been carried out to understand songs & it's popularity based on certain factors. Such song samples are broken down & their parameters are recorded to tabulate. Predicting the Song Popularity is the main aim.\n\nThe project is simple yet challenging, to predict the song popularity based on energy, acoustics, instumentalness, liveness, dancibility, etc. The dataset is large & it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build a decent predictive model?\n\n### Acknowledgement: \nThe dataset is referred from Kaggle.\n\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build Regression models to predict the song popularity.\n- Also evaluate the models & compare their respective scores like R2, RMSE, etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "beginner",
+    "linear regression",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

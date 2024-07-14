@@ -1,0 +1,44 @@
+{
+  "id": "nlztrk/eduqg-dataset-llm-science-exam-format-34k",
+  "id_no": 3615797,
+  "datasetSlugNullable": "eduqg-dataset-llm-science-exam-format-34k",
+  "ownerUserNullable": "nlztrk",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "EduQG Dataset - LLM Science Exam Format (~3.4K)",
+  "subtitleNullable": "An external training data for 'Kaggle - LLM Science Exam' competition",
+  "descriptionNullable": "The competition-formatted version of the dataset of [EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://arxiv.org/abs/2210.06104) paper. The data includes wide range of questions from educational domain.\n\nOriginal Data: [https://github.com/hadifar/question-generation/tree/main/raw_data](url)\n\nThis dataset includes both original and formatted versions of the data. The original dataset includes 5-choice and 4-choice questions. 4-choice questions are imputed with duplicate of a random wrong choice of each question.\n\nThe formatting is executed with the following snippet I wrote:\n\n```\nimport pandas as pd\nimport numpy as np\nimport json\nfrom tqdm.auto import tqdm\n\neduqg_json = json.load(open(\"eduqg_train.json\",))\neduqg2_json = json.load(open(\"eduqg_val.json\",))\n\nquestions = []\n\nfor json_corpus in [eduqg_json, eduqg2_json]:\n    for chapter in tqdm(json_corpus):\n        for question in chapter[\"questions\"]:\n\n            question_text = question[\"question\"][\"normal_format\"]\n            question_choices = question[\"question\"][\"question_choices\"]\n            question_answer_id = question[\"answer\"][\"ans_choice\"]\n\n            if len(question_choices) == 4:\n                false_answer_ids = np.delete(np.arange(4), question_answer_id)\n                duplicate_false_id = np.random.choice(false_answer_ids)\n\n                question_row = {\"prompt\": question_text,\n                 \"A\": question_choices[0],\n                 \"B\": question_choices[1],\n                 \"C\": question_choices[2],\n                 \"D\": question_choices[3],\n                 \"E\": question_choices[duplicate_false_id],\n                 \"answer\": [\"A\",\"B\",\"C\",\"D\",\"E\"][question_answer_id]\n                }\n            elif len(question_choices) == 5:\n                question_row = {\"prompt\": question_text,\n                 \"A\": question_choices[0],\n                 \"B\": question_choices[1],\n                 \"C\": question_choices[2],\n                 \"D\": question_choices[3],\n                 \"E\": question_choices[4],\n                 \"answer\": [\"A\",\"B\",\"C\",\"D\",\"E\"][question_answer_id]\n                }        \n            else:\n                continue\n            questions.append(question_row)\n\nout_df = pd.DataFrame(questions).reset_index().rename(columns={\"index\":\"id\"})\nout_df.to_csv(\"eduqg_llm_formatted.csv\", index=False)\n```",
+  "datasetId": 3615797,
+  "datasetSlug": "eduqg-dataset-llm-science-exam-format-34k",
+  "hasDatasetSlug": true,
+  "ownerUser": "nlztrk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1724,
+  "totalVotes": 34,
+  "totalDownloads": 221,
+  "title": "EduQG Dataset - LLM Science Exam Format (~3.4K)",
+  "hasTitle": true,
+  "subtitle": "An external training data for 'Kaggle - LLM Science Exam' competition",
+  "hasSubtitle": true,
+  "description": "The competition-formatted version of the dataset of [EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://arxiv.org/abs/2210.06104) paper. The data includes wide range of questions from educational domain.\n\nOriginal Data: [https://github.com/hadifar/question-generation/tree/main/raw_data](url)\n\nThis dataset includes both original and formatted versions of the data. The original dataset includes 5-choice and 4-choice questions. 4-choice questions are imputed with duplicate of a random wrong choice of each question.\n\nThe formatting is executed with the following snippet I wrote:\n\n```\nimport pandas as pd\nimport numpy as np\nimport json\nfrom tqdm.auto import tqdm\n\neduqg_json = json.load(open(\"eduqg_train.json\",))\neduqg2_json = json.load(open(\"eduqg_val.json\",))\n\nquestions = []\n\nfor json_corpus in [eduqg_json, eduqg2_json]:\n    for chapter in tqdm(json_corpus):\n        for question in chapter[\"questions\"]:\n\n            question_text = question[\"question\"][\"normal_format\"]\n            question_choices = question[\"question\"][\"question_choices\"]\n            question_answer_id = question[\"answer\"][\"ans_choice\"]\n\n            if len(question_choices) == 4:\n                false_answer_ids = np.delete(np.arange(4), question_answer_id)\n                duplicate_false_id = np.random.choice(false_answer_ids)\n\n                question_row = {\"prompt\": question_text,\n                 \"A\": question_choices[0],\n                 \"B\": question_choices[1],\n                 \"C\": question_choices[2],\n                 \"D\": question_choices[3],\n                 \"E\": question_choices[duplicate_false_id],\n                 \"answer\": [\"A\",\"B\",\"C\",\"D\",\"E\"][question_answer_id]\n                }\n            elif len(question_choices) == 5:\n                question_row = {\"prompt\": question_text,\n                 \"A\": question_choices[0],\n                 \"B\": question_choices[1],\n                 \"C\": question_choices[2],\n                 \"D\": question_choices[3],\n                 \"E\": question_choices[4],\n                 \"answer\": [\"A\",\"B\",\"C\",\"D\",\"E\"][question_answer_id]\n                }        \n            else:\n                continue\n            questions.append(question_row)\n\nout_df = pd.DataFrame(questions).reset_index().rename(columns={\"index\":\"id\"})\nout_df.to_csv(\"eduqg_llm_formatted.csv\", index=False)\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "education",
+    "computer science",
+    "tabular",
+    "question answering",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

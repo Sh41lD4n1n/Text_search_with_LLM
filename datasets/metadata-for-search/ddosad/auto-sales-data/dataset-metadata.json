@@ -1,0 +1,43 @@
+{
+  "id": "ddosad/auto-sales-data",
+  "id_no": 4021193,
+  "datasetSlugNullable": "auto-sales-data",
+  "ownerUserNullable": "ddosad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Automobile Sales data",
+  "subtitleNullable": "Auto Sales data for EDA & RFM Analysis",
+  "descriptionNullable": "The dataset contains Sales data of an Automobile company. \n \n\n&gt;**Do explore pinned \ud83d\udccc notebook under code section for quick EDA\ud83d\udcca reference**\n\n&gt;_Consider an upvote ^ if you find the dataset useful_\n\n\n**Data Description**\n\n| Column Name             | Description                                                                                                      |\n|-------------------------|------------------------------------------------------------------------------------------------------------------|\n| ORDERNUMBER             | This column represents the unique identification number assigned to each order.                                 |\n| QUANTITYORDERED         | It indicates the number of items ordered in each order.                                                            |\n| PRICEEACH               | This column specifies the price of each item in the order.                                                         |\n| ORDERLINENUMBER         | It represents the line number of each item within an order.                                                         |\n| SALES                   | This column denotes the total sales amount for each order, which is calculated by multiplying the quantity ordered by the price of each item. |\n| ORDERDATE               | It denotes the date on which the order was placed.                                                                 |\n| DAYS_SINCE_LASTORDER    | This column represents the number of days that have passed since the last order for each customer. It can be used to analyze customer purchasing patterns. |\n| STATUS                  | It indicates the status of the order, such as \"Shipped,\" \"In Process,\"  \"Cancelled,\" \"Disputed,\" \"On Hold,\" or \"Resolved.\" |\n| PRODUCTLINE             | This column specifies the product line categories to which each item belongs.                                    |\n| MSRP                    | It stands for Manufacturer's Suggested Retail Price and represents the suggested selling price for each item.      |\n| PRODUCTCODE             | This column represents the unique code assigned to each product.                                                   |\n| CUSTOMERNAME            | It denotes the name of the customer who placed the order.                                                           |\n| PHONE                   | This column contains the contact phone number for the customer.                                                    |\n| ADDRESSLINE1            | It represents the first line of the customer's address.                                                            |\n| CITY                    | This column specifies the city where the customer is located.                                                      |\n| POSTALCODE              | It denotes the postal code or ZIP code associated with the customer's address.                                     |\n| COUNTRY                 | This column indicates the country where the customer is located.                                                    |\n| CONTACTLASTNAME         | It represents the last name of the contact person associated with the customer.                                    |\n| CONTACTFIRSTNAME        | This column denotes the first name of the contact person associated with the customer.                               |\n| DEALSIZE                | It indicates the size of the deal or order, which are the categories \"Small,\" \"Medium,\" or \"Large.\"                  |\n\n\n",
+  "datasetId": 4021193,
+  "datasetSlug": "auto-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ddosad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 50461,
+  "totalVotes": 176,
+  "totalDownloads": 12655,
+  "title": "Automobile Sales data",
+  "hasTitle": true,
+  "subtitle": "Auto Sales data for EDA & RFM Analysis",
+  "hasSubtitle": true,
+  "description": "The dataset contains Sales data of an Automobile company. \n \n\n&gt;**Do explore pinned \ud83d\udccc notebook under code section for quick EDA\ud83d\udcca reference**\n\n&gt;_Consider an upvote ^ if you find the dataset useful_\n\n\n**Data Description**\n\n| Column Name             | Description                                                                                                      |\n|-------------------------|------------------------------------------------------------------------------------------------------------------|\n| ORDERNUMBER             | This column represents the unique identification number assigned to each order.                                 |\n| QUANTITYORDERED         | It indicates the number of items ordered in each order.                                                            |\n| PRICEEACH               | This column specifies the price of each item in the order.                                                         |\n| ORDERLINENUMBER         | It represents the line number of each item within an order.                                                         |\n| SALES                   | This column denotes the total sales amount for each order, which is calculated by multiplying the quantity ordered by the price of each item. |\n| ORDERDATE               | It denotes the date on which the order was placed.                                                                 |\n| DAYS_SINCE_LASTORDER    | This column represents the number of days that have passed since the last order for each customer. It can be used to analyze customer purchasing patterns. |\n| STATUS                  | It indicates the status of the order, such as \"Shipped,\" \"In Process,\"  \"Cancelled,\" \"Disputed,\" \"On Hold,\" or \"Resolved.\" |\n| PRODUCTLINE             | This column specifies the product line categories to which each item belongs.                                    |\n| MSRP                    | It stands for Manufacturer's Suggested Retail Price and represents the suggested selling price for each item.      |\n| PRODUCTCODE             | This column represents the unique code assigned to each product.                                                   |\n| CUSTOMERNAME            | It denotes the name of the customer who placed the order.                                                           |\n| PHONE                   | This column contains the contact phone number for the customer.                                                    |\n| ADDRESSLINE1            | It represents the first line of the customer's address.                                                            |\n| CITY                    | This column specifies the city where the customer is located.                                                      |\n| POSTALCODE              | It denotes the postal code or ZIP code associated with the customer's address.                                     |\n| COUNTRY                 | This column indicates the country where the customer is located.                                                    |\n| CONTACTLASTNAME         | It represents the last name of the contact person associated with the customer.                                    |\n| CONTACTFIRSTNAME        | This column denotes the first name of the contact person associated with the customer.                               |\n| DEALSIZE                | It indicates the size of the deal or order, which are the categories \"Small,\" \"Medium,\" or \"Large.\"                  |\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

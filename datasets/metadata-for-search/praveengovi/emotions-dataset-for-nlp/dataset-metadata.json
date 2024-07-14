@@ -1,0 +1,41 @@
+{
+  "id": "praveengovi/emotions-dataset-for-nlp",
+  "id_no": 605165,
+  "datasetSlugNullable": "emotions-dataset-for-nlp",
+  "ownerUserNullable": "praveengovi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Emotions dataset for NLP",
+  "subtitleNullable": "Emotions dataset for NLP classification tasks ",
+  "descriptionNullable": "### Context\n\nCollection of documents and its emotions, It helps greatly in NLP Classification tasks \n\n\n### Content\n\nList of documents with emotion flag, Dataset is split into train, test & validation for building the machine learning model\n\n**Example :-** \n      i feel like I am still looking at a blank canvas blank pieces of paper;sadness\n\n\n### Acknowledgements\n\nThanks to Elvis - https://lnkd.in/eXJ8QVB & Hugging face team\nThe technique to prepare the dataset -  https://www.aclweb.org/anthology/D18-1404/\n\n### Inspiration\n\nDataset helps the community to develop emotion classification models with NLP based approach.\n\nFew questions your emotion classification model can answer based on your customer review \n\n What is the sentiment of your customer comment? \n What is the mood of today's special food ? ",
+  "datasetId": 605165,
+  "datasetSlug": "emotions-dataset-for-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "praveengovi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 194149,
+  "totalVotes": 297,
+  "totalDownloads": 37991,
+  "title": "Emotions dataset for NLP",
+  "hasTitle": true,
+  "subtitle": "Emotions dataset for NLP classification tasks ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCollection of documents and its emotions, It helps greatly in NLP Classification tasks \n\n\n### Content\n\nList of documents with emotion flag, Dataset is split into train, test & validation for building the machine learning model\n\n**Example :-** \n      i feel like I am still looking at a blank canvas blank pieces of paper;sadness\n\n\n### Acknowledgements\n\nThanks to Elvis - https://lnkd.in/eXJ8QVB & Hugging face team\nThe technique to prepare the dataset -  https://www.aclweb.org/anthology/D18-1404/\n\n### Inspiration\n\nDataset helps the community to develop emotion classification models with NLP based approach.\n\nFew questions your emotion classification model can answer based on your customer review \n\n What is the sentiment of your customer comment? \n What is the mood of today's special food ? ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

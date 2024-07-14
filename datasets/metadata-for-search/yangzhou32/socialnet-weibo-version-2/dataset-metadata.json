@@ -1,0 +1,39 @@
+{
+  "id": "yangzhou32/socialnet-weibo-version-2",
+  "id_no": 4947871,
+  "datasetSlugNullable": "socialnet-weibo-version-2",
+  "ownerUserNullable": "yangzhou32",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "SocialNet-Weibo-Version-2",
+  "subtitleNullable": "A publicly available dataset based on the microblogging (Weibo)  social platform",
+  "descriptionNullable": "# Description\n\n**Weibo V2**: Includes **11,329** number of news from the Chinese microblogging social media platform. There are **5,661 fake news** items and **5,668 real news** items. Comparable to version 1 (V1), version 2 (V2) expands the data magnitude on the basis of V1. Meanwhile, V2 provides news **multi-modal data**, including **news posts**, **comment collections**, **images**, **videos** and **voice information**. As a result, V2 provides a better simulation of the real environment of social networks, thus supporting downstream tasks. \n\n**Future work**: for the next version of the dataset check out https://github.com/yzhouli/SocialNet.\n\n# Please Cite \n\n**Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.\n\n```\n@article{yang2024model,\n  title={A model for early rumor detection base on topic-derived domain compensation and multi-user association},\n  author={Yang, Zhou and Pang, Yucai and Li, Qian and Wei, Shihong and Wang, Rong and Xiao, Yunpeng},\n  journal={Expert Systems with Applications},\n  pages={123951},\n  year={2024},\n  publisher={Elsevier}\n}\n```",
+  "datasetId": 4947871,
+  "datasetSlug": "socialnet-weibo-version-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "yangzhou32",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 157,
+  "totalVotes": 2,
+  "totalDownloads": 11,
+  "title": "SocialNet-Weibo-Version-2",
+  "hasTitle": true,
+  "subtitle": "A publicly available dataset based on the microblogging (Weibo)  social platform",
+  "hasSubtitle": true,
+  "description": "# Description\n\n**Weibo V2**: Includes **11,329** number of news from the Chinese microblogging social media platform. There are **5,661 fake news** items and **5,668 real news** items. Comparable to version 1 (V1), version 2 (V2) expands the data magnitude on the basis of V1. Meanwhile, V2 provides news **multi-modal data**, including **news posts**, **comment collections**, **images**, **videos** and **voice information**. As a result, V2 provides a better simulation of the real environment of social networks, thus supporting downstream tasks. \n\n**Future work**: for the next version of the dataset check out https://github.com/yzhouli/SocialNet.\n\n# Please Cite \n\n**Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.\n\n```\n@article{yang2024model,\n  title={A model for early rumor detection base on topic-derived domain compensation and multi-user association},\n  author={Yang, Zhou and Pang, Yucai and Li, Qian and Wei, Shihong and Wang, Rong and Xiao, Yunpeng},\n  journal={Expert Systems with Applications},\n  pages={123951},\n  year={2024},\n  publisher={Elsevier}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

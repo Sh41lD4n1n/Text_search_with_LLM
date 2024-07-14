@@ -1,0 +1,37 @@
+{
+  "id": "ajithdevadiga/retail-stores-sales-dataset",
+  "id_no": 5298306,
+  "datasetSlugNullable": "retail-stores-sales-dataset",
+  "ownerUserNullable": "ajithdevadiga",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Retail_Stores_Sales_Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5298306,
+  "datasetSlug": "retail-stores-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ajithdevadiga",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Retail_Stores_Sales_Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "roobansappani/hand-gesture-recognition",
+  "id_no": 1153694,
+  "datasetSlugNullable": "hand-gesture-recognition",
+  "ownerUserNullable": "roobansappani",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Hand Gesture Recognition",
+  "subtitleNullable": "Hand gesture classification",
+  "descriptionNullable": "The hand gesture recognition dataset was created by subtracting the background from the hand images using OpenCV. \nThe dataset contains of 10 classes: [call_me, rock_on, fingers_crossed, okay, paper, peace, rock, scissor, thumbs, up]\nEach class consists of around 500 images. ",
+  "datasetId": 1153694,
+  "datasetSlug": "hand-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "roobansappani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 9876,
+  "totalVotes": 18,
+  "totalDownloads": 1235,
+  "title": "Hand Gesture Recognition",
+  "hasTitle": true,
+  "subtitle": "Hand gesture classification",
+  "hasSubtitle": true,
+  "description": "The hand gesture recognition dataset was created by subtracting the background from the hand images using OpenCV. \nThe dataset contains of 10 classes: [call_me, rock_on, fingers_crossed, okay, paper, peace, rock, scissor, thumbs, up]\nEach class consists of around 500 images. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "cnn",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

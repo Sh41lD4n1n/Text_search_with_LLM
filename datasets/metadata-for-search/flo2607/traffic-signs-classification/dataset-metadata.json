@@ -1,0 +1,42 @@
+{
+  "id": "flo2607/traffic-signs-classification",
+  "id_no": 545505,
+  "datasetSlugNullable": "traffic-signs-classification",
+  "ownerUserNullable": "flo2607",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Traffic Signs Classification",
+  "subtitleNullable": "big database of traffic sign croppped(+70%)",
+  "descriptionNullable": "",
+  "datasetId": 545505,
+  "datasetSlug": "traffic-signs-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "flo2607",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 43587,
+  "totalVotes": 54,
+  "totalDownloads": 4564,
+  "title": "Traffic Signs Classification",
+  "hasTitle": true,
+  "subtitle": "big database of traffic sign croppped(+70%)",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "law",
+    "transportation",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

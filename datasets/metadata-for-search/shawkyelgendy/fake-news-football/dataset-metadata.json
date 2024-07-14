@@ -1,0 +1,44 @@
+{
+  "id": "shawkyelgendy/fake-news-football",
+  "id_no": 3076587,
+  "datasetSlugNullable": "fake-news-football",
+  "ownerUserNullable": "shawkyelgendy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fake News football",
+  "subtitleNullable": "classification of football data (fake,real)",
+  "descriptionNullable": "## Abstract\ud83d\udca1\n* A king of yellow journalism, fake news is false information and hoaxes spread through social media and other online media to achieve a political agenda\n\n\n## About this dataset \ud83d\udced\n* The dataset contains 20,000 real news and 20,000 fake news\n* The dataset is collected from Twitter and Youm7\n\n\n## Goal of creating this Dataset\ud83c\udfaf\n\n* Building a classification model that can accurately detect whether the news is real or fake.\n\n\n\n\n### Hint\n- Most data about an Egyptian league\n\n\n",
+  "datasetId": 3076587,
+  "datasetSlug": "fake-news-football",
+  "hasDatasetSlug": true,
+  "ownerUser": "shawkyelgendy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10250,
+  "totalVotes": 49,
+  "totalDownloads": 1174,
+  "title": "Fake News football",
+  "hasTitle": true,
+  "subtitle": "classification of football data (fake,real)",
+  "hasSubtitle": true,
+  "description": "## Abstract\ud83d\udca1\n* A king of yellow journalism, fake news is false information and hoaxes spread through social media and other online media to achieve a political agenda\n\n\n## About this dataset \ud83d\udced\n* The dataset contains 20,000 real news and 20,000 fake news\n* The dataset is collected from Twitter and Youm7\n\n\n## Goal of creating this Dataset\ud83c\udfaf\n\n* Building a classification model that can accurately detect whether the news is real or fake.\n\n\n\n\n### Hint\n- Most data about an Egyptian league\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "nlp",
+    "classification",
+    "deep learning",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

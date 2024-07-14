@@ -1,0 +1,42 @@
+{
+  "id": "harisudhan411/hand-navigation-landmarks",
+  "id_no": 4950574,
+  "datasetSlugNullable": "hand-navigation-landmarks",
+  "ownerUserNullable": "harisudhan411",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Hand Navigation Landmarks",
+  "subtitleNullable": "Deciphering Hand Gestures: A Comprehensive Image Dataset for Gesture Recognition",
+  "descriptionNullable": "\nThe \"Hand Gesture Landmark\" dataset is an image dataset designed for hand gesture recognition tasks. It encompasses a variety of hand navigation movements, each categorized into one of nine distinct classes: \n\n anticlockwise,\n clockwise,\n up,\n down,\n left,\n right,\n forward,\n backward. \n\nThe dataset is generated utilizing the capabilities of both Mediapipe and OpenCV technologies.\n\nStructured into separate directories for training, evaluation, and testing, the dataset ensures effective model training and evaluation processes. Within the training directory, there are 2000 images for each class, providing ample data for robust model learning. The test directory contains 300 images for each class, enabling comprehensive model testing across various scenarios. Lastly, the evaluation directory includes 900 images, likely intended for further validation or fine-tuning of trained models. With its comprehensive coverage of hand gestures and sufficient data distribution, the \"Hand Gesture Landmark\" dataset serves as a valuable resource for researchers and developers working on gesture recognition applications.",
+  "datasetId": 4950574,
+  "datasetSlug": "hand-navigation-landmarks",
+  "hasDatasetSlug": true,
+  "ownerUser": "harisudhan411",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 64,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "Hand Navigation Landmarks",
+  "hasTitle": true,
+  "subtitle": "Deciphering Hand Gestures: A Comprehensive Image Dataset for Gesture Recognition",
+  "hasSubtitle": true,
+  "description": "\nThe \"Hand Gesture Landmark\" dataset is an image dataset designed for hand gesture recognition tasks. It encompasses a variety of hand navigation movements, each categorized into one of nine distinct classes: \n\n anticlockwise,\n clockwise,\n up,\n down,\n left,\n right,\n forward,\n backward. \n\nThe dataset is generated utilizing the capabilities of both Mediapipe and OpenCV technologies.\n\nStructured into separate directories for training, evaluation, and testing, the dataset ensures effective model training and evaluation processes. Within the training directory, there are 2000 images for each class, providing ample data for robust model learning. The test directory contains 300 images for each class, enabling comprehensive model testing across various scenarios. Lastly, the evaluation directory includes 900 images, likely intended for further validation or fine-tuning of trained models. With its comprehensive coverage of hand gestures and sufficient data distribution, the \"Hand Gesture Landmark\" dataset serves as a valuable resource for researchers and developers working on gesture recognition applications.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "feature engineering",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arnavkulkarni/housing-prices-in-london",
+  "id_no": 854968,
+  "datasetSlugNullable": "housing-prices-in-london",
+  "ownerUserNullable": "arnavkulkarni",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Housing Prices in London",
+  "subtitleNullable": "House prices in London and adjoining areas along with other parameters",
+  "descriptionNullable": "### Content\n\nThis dataset comprises of various house listings in London and neighbouring region. It also encompasses the parameters listed below, the definitions of which are quite self-explanatory.\n\u2022\tProperty Name\n\u2022\tPrice\n\u2022\tHouse Type - Contains one of the following types of houses (House, Flat/Apartment, New Development, Duplex, Penthouse, Studio, Bungalow, Mews)\n\u2022\tArea in sq ft\n\u2022\tNo. of Bedrooms\n\u2022\tNo. of Bathrooms\n\u2022\tNo. of Receptions\n\u2022\tLocation\n\u2022\tCity/County - Includes London, Essex, Middlesex, Hertfordshire, Kent, and Surrey.\n\u2022\tPostal Code \n\n\n### Inspiration\n\nThis dataset has various parameters for each house listing which can be used to conduct Exploratory Data Analysis. It can also be used to predict the house prices in various regions of London by means of Regression Analysis or other learning methods. ",
+  "datasetId": 854968,
+  "datasetSlug": "housing-prices-in-london",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnavkulkarni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 16675,
+  "totalVotes": 39,
+  "totalDownloads": 2592,
+  "title": "Housing Prices in London",
+  "hasTitle": true,
+  "subtitle": "House prices in London and adjoining areas along with other parameters",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset comprises of various house listings in London and neighbouring region. It also encompasses the parameters listed below, the definitions of which are quite self-explanatory.\n\u2022\tProperty Name\n\u2022\tPrice\n\u2022\tHouse Type - Contains one of the following types of houses (House, Flat/Apartment, New Development, Duplex, Penthouse, Studio, Bungalow, Mews)\n\u2022\tArea in sq ft\n\u2022\tNo. of Bedrooms\n\u2022\tNo. of Bathrooms\n\u2022\tNo. of Receptions\n\u2022\tLocation\n\u2022\tCity/County - Includes London, Essex, Middlesex, Hertfordshire, Kent, and Surrey.\n\u2022\tPostal Code \n\n\n### Inspiration\n\nThis dataset has various parameters for each house listing which can be used to conduct Exploratory Data Analysis. It can also be used to predict the house prices in various regions of London by means of Regression Analysis or other learning methods. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "housing",
+    "real estate",
+    "social issues and advocacy",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "muhammadmuzamil5500/gemstones",
+  "id_no": 2580773,
+  "datasetSlugNullable": "gemstones",
+  "ownerUserNullable": "muhammadmuzamil5500",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Gemstones",
+  "subtitleNullable": "",
+  "descriptionNullable": "Dataset is consist of 3 different kinds of gemstones\n1. Ruby\n2. Turquoise\n3. Emerald\n\nThe purpose to collect the dataset was to make a model with Convolutional Neural Network Algorithm to identify real or fake gemstones.\nThe Dataset is split into three folders\n1. Train for training the model \n2. Test for Testing the model\n3. Validation for Validating the model\nEach Folders have six subfolders:\n1. Emerald ~ 507 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n2. Fake Emerald ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n3. Ruby ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n4. Fake Ruby ~ 536 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n5. Turquoise ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n6. Fake Turquoise ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n\nTotal of 6043 Images are in this dataset. It can be used for Classification Problem (Binary and Multiple). I didn't used any prebuild model I suggest you to use pre-trained model with it to increase the accuracy. The highest Accuracy I achieved is 95% and Best of luck for you...",
+  "datasetId": 2580773,
+  "datasetSlug": "gemstones",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadmuzamil5500",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1241,
+  "totalVotes": 4,
+  "totalDownloads": 203,
+  "title": "Gemstones",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Dataset is consist of 3 different kinds of gemstones\n1. Ruby\n2. Turquoise\n3. Emerald\n\nThe purpose to collect the dataset was to make a model with Convolutional Neural Network Algorithm to identify real or fake gemstones.\nThe Dataset is split into three folders\n1. Train for training the model \n2. Test for Testing the model\n3. Validation for Validating the model\nEach Folders have six subfolders:\n1. Emerald ~ 507 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n2. Fake Emerald ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n3. Ruby ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n4. Fake Ruby ~ 536 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n5. Turquoise ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n6. Fake Turquoise ~ 500 Images in Train ~ 250 Images in Test ~ 250 Images in Validation\n\nTotal of 6043 Images are in this dataset. It can be used for Classification Problem (Binary and Multiple). I didn't used any prebuild model I suggest you to use pre-trained model with it to increase the accuracy. The highest Accuracy I achieved is 95% and Best of luck for you...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "advanced",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

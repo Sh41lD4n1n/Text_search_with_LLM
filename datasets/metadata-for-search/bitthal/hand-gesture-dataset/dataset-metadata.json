@@ -1,0 +1,40 @@
+{
+  "id": "bitthal/hand-gesture-dataset",
+  "id_no": 458815,
+  "datasetSlugNullable": "hand-gesture-dataset",
+  "ownerUserNullable": "bitthal",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Hand Gesture Dataset",
+  "subtitleNullable": "1699 Processed 50*50 Images of 10 different Gestures",
+  "descriptionNullable": "### Context\n\nI tried to build my own version of Sixth Sense Technology and take it to another level. Doing so I integrated hand gestures and IoT with it. The dataset was created to train an CNN for gesture recognition. If you are interested what I had done, go watch this small clip.\nhttps://www.youtube.com/watch?v=rvWwWsPa_xI&t=72s\n\n### Content\n\nThe dataset contain 1699 binary 50*50 images, for 10 different hand gestures.\n\n\n### Acknowledgements\n\nI would mainly thanks my two team mates Aditi and Prachie, who were part of this whole project.\n\n",
+  "datasetId": 458815,
+  "datasetSlug": "hand-gesture-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bitthal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9752,
+  "totalVotes": 7,
+  "totalDownloads": 278,
+  "title": "Hand Gesture Dataset",
+  "hasTitle": true,
+  "subtitle": "1699 Processed 50*50 Images of 10 different Gestures",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI tried to build my own version of Sixth Sense Technology and take it to another level. Doing so I integrated hand gestures and IoT with it. The dataset was created to train an CNN for gesture recognition. If you are interested what I had done, go watch this small clip.\nhttps://www.youtube.com/watch?v=rvWwWsPa_xI&t=72s\n\n### Content\n\nThe dataset contain 1699 binary 50*50 images, for 10 different hand gestures.\n\n\n### Acknowledgements\n\nI would mainly thanks my two team mates Aditi and Prachie, who were part of this whole project.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

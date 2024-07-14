@@ -1,0 +1,44 @@
+{
+  "id": "kitonbass/vgg-sound-only-cat-and-dog-sounds",
+  "id_no": 4832861,
+  "datasetSlugNullable": "vgg-sound-only-cat-and-dog-sounds",
+  "ownerUserNullable": "kitonbass",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "VGG-Sound: only cat and dog sounds",
+  "subtitleNullable": "Only meows and barks (and hiss, and purr...)",
+  "descriptionNullable": "This is part of [VGGSound dataset](https://huggingface.co/datasets/Loie/VGGSound) with everything related to cats and dogs converted to 10 seconds 16kHz mono wav. \nI made it for my University research, because original dataset is kind of huge :)\n\nThere are also two csv files with train/test split collected from VGG Sound splits. All data numbered according to indexes of original csv tables.\n\n&gt;Each line in the csv file has columns defined by here: \nIndex in original VGGSound (my addition), YouTube ID, start seconds, label, train/test split.\n\nAlso, some of the video links (~800 of them) in tables lead to unavailable videos (age restricted/deleted/etc.), which was not downloaded and therefore is not here \u2013 so there would be no audio for some indexes.\n\nThe example of real practice use of the dataset can be found in my [VQ-VAE 2 notebook \ud83d\udc68\u200d\ud83d\udcbb](https://www.kaggle.com/code/kitonbass/vq-vae-2-for-sound-reconstruction-cats-and-dogs).\nI've also got this [helper notebook \ud83d\udc31\ud83d\udc36](https://www.kaggle.com/code/kitonbass/working-with-sound-data) which shows some simple actions you can do with audio dat. In particular:\n- Some of the audio files are 9 seconds long \u2013 how to pad it\n- How to prepare spectrograms to use them as regular pictures\n\nAnd umm I could not figure out how to do a proper citation, but here it is from original VGGSound\n\n```python\n@InProceedings{Chen20,\n  author       = \"Honglie Chen and Weidi Xie and Andrea Vedaldi and Andrew Zisserman\",\n  title        = \"VGGSound: A Large-scale Audio-Visual Dataset\",\n  booktitle    = \"International Conference on Acoustics, Speech, and Signal Processing (ICASSP)\",\n  year         = \"2020\",\n}\n```",
+  "datasetId": 4832861,
+  "datasetSlug": "vgg-sound-only-cat-and-dog-sounds",
+  "hasDatasetSlug": true,
+  "ownerUser": "kitonbass",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 498,
+  "totalVotes": 5,
+  "totalDownloads": 47,
+  "title": "VGG-Sound: only cat and dog sounds",
+  "hasTitle": true,
+  "subtitle": "Only meows and barks (and hiss, and purr...)",
+  "hasSubtitle": true,
+  "description": "This is part of [VGGSound dataset](https://huggingface.co/datasets/Loie/VGGSound) with everything related to cats and dogs converted to 10 seconds 16kHz mono wav. \nI made it for my University research, because original dataset is kind of huge :)\n\nThere are also two csv files with train/test split collected from VGG Sound splits. All data numbered according to indexes of original csv tables.\n\n&gt;Each line in the csv file has columns defined by here: \nIndex in original VGGSound (my addition), YouTube ID, start seconds, label, train/test split.\n\nAlso, some of the video links (~800 of them) in tables lead to unavailable videos (age restricted/deleted/etc.), which was not downloaded and therefore is not here \u2013 so there would be no audio for some indexes.\n\nThe example of real practice use of the dataset can be found in my [VQ-VAE 2 notebook \ud83d\udc68\u200d\ud83d\udcbb](https://www.kaggle.com/code/kitonbass/vq-vae-2-for-sound-reconstruction-cats-and-dogs).\nI've also got this [helper notebook \ud83d\udc31\ud83d\udc36](https://www.kaggle.com/code/kitonbass/working-with-sound-data) which shows some simple actions you can do with audio dat. In particular:\n- Some of the audio files are 9 seconds long \u2013 how to pad it\n- How to prepare spectrograms to use them as regular pictures\n\nAnd umm I could not figure out how to do a proper citation, but here it is from original VGGSound\n\n```python\n@InProceedings{Chen20,\n  author       = \"Honglie Chen and Weidi Xie and Andrea Vedaldi and Andrew Zisserman\",\n  title        = \"VGGSound: A Large-scale Audio-Visual Dataset\",\n  booktitle    = \"International Conference on Acoustics, Speech, and Signal Processing (ICASSP)\",\n  year         = \"2020\",\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer science",
+    "data analytics",
+    "cnn",
+    "audio",
+    "audio classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

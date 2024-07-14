@@ -1,0 +1,40 @@
+{
+  "id": "paakhim10/tweets-and-engagement-metrics",
+  "id_no": 4214497,
+  "datasetSlugNullable": "tweets-and-engagement-metrics",
+  "ownerUserNullable": "paakhim10",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tweets and Engagement Metrics",
+  "subtitleNullable": "Twitter Data containing temporal, geographical, and general tweet metrics.",
+  "descriptionNullable": "### This is the data wrangled and cleaned from an existing dataset, and it is the output of my notebook: [https://www.kaggle.com/code/paakhim10/analyzing-and-classifying-twitter-sentiments](url)\n\n####You can use this dataset for:\n\n&gt;\u2022 Machine Learning\n1. Sentiment analysis\n2. Spam detection\n3. Text classification\n4. Trend identification (temporal and geographical)\n5. Building recommendation systems\n\n&gt;\u2022 Exploratory Data Analysis\n1. Geospatial or temporal mapping\n2. Hashtags Trend Detection\n3. User Engagement Metrics\n\n##### Credits:\nIf you use this dataset in your research, please credit the original authors.\nIf you use this dataset in your research, please credit [https://data.world/kjensen18](url)",
+  "datasetId": 4214497,
+  "datasetSlug": "tweets-and-engagement-metrics",
+  "hasDatasetSlug": true,
+  "ownerUser": "paakhim10",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5716,
+  "totalVotes": 33,
+  "totalDownloads": 826,
+  "title": "Tweets and Engagement Metrics",
+  "hasTitle": true,
+  "subtitle": "Twitter Data containing temporal, geographical, and general tweet metrics.",
+  "hasSubtitle": true,
+  "description": "### This is the data wrangled and cleaned from an existing dataset, and it is the output of my notebook: [https://www.kaggle.com/code/paakhim10/analyzing-and-classifying-twitter-sentiments](url)\n\n####You can use this dataset for:\n\n&gt;\u2022 Machine Learning\n1. Sentiment analysis\n2. Spam detection\n3. Text classification\n4. Trend identification (temporal and geographical)\n5. Building recommendation systems\n\n&gt;\u2022 Exploratory Data Analysis\n1. Geospatial or temporal mapping\n2. Hashtags Trend Detection\n3. User Engagement Metrics\n\n##### Credits:\nIf you use this dataset in your research, please credit the original authors.\nIf you use this dataset in your research, please credit [https://data.world/kjensen18](url)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

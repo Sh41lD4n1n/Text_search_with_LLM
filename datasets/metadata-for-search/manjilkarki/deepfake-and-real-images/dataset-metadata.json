@@ -1,0 +1,43 @@
+{
+  "id": "manjilkarki/deepfake-and-real-images",
+  "id_no": 1909705,
+  "datasetSlugNullable": "deepfake-and-real-images",
+  "ownerUserNullable": "manjilkarki",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "deepfake and real images",
+  "subtitleNullable": "Detect if any images is real image of deepfake image",
+  "descriptionNullable": "This dataset contains manipulated images and real images. The manipulated images are the faces which are created by various means. The source for this dataset was [https://zenodo.org/record/5528418#.YpdlS2hBzDd](https://zenodo.org/record/5528418#.YpdlS2hBzDd)\nthis dataset was processed as our will to get maximum outcome out of these images. Each image is a 256 X 256 jpg image of human face either real or fake",
+  "datasetId": 1909705,
+  "datasetSlug": "deepfake-and-real-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "manjilkarki",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 32185,
+  "totalVotes": 46,
+  "totalDownloads": 6695,
+  "title": "deepfake and real images",
+  "hasTitle": true,
+  "subtitle": "Detect if any images is real image of deepfake image",
+  "hasSubtitle": true,
+  "description": "This dataset contains manipulated images and real images. The manipulated images are the faces which are created by various means. The source for this dataset was [https://zenodo.org/record/5528418#.YpdlS2hBzDd](https://zenodo.org/record/5528418#.YpdlS2hBzDd)\nthis dataset was processed as our will to get maximum outcome out of these images. Each image is a 256 X 256 jpg image of human face either real or fake",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "people and society",
+    "image",
+    "social networks",
+    "ml ethics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

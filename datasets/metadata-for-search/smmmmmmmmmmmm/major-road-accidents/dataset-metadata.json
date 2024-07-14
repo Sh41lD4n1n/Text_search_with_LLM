@@ -1,0 +1,37 @@
+{
+  "id": "smmmmmmmmmmmm/major-road-accidents",
+  "id_no": 4191954,
+  "datasetSlugNullable": "major-road-accidents",
+  "ownerUserNullable": "smmmmmmmmmmmm",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Major Road Accidents",
+  "subtitleNullable": "",
+  "descriptionNullable": " Road Accident Details:\nThis dataset comprises 5000 entries detailing road accidents. Each entry contains 15 columns covering crucial accident-related information. It includes unique accident IDs, accident locations, dates, severity levels, weather conditions during the accidents, types of vehicles involved, injury counts, fatalities, causes (such as human error or weather conditions), road types (like highways or city streets), vehicle speeds, alcohol involvement, road conditions, and time of the accidents. The dataset is diverse, offering insights into the circumstances, factors, and outcomes of these accidents, crucial for analysis and pattern recognition in road safety.\n\nAccident Investigation and Reporting:\nComplementing the first dataset, this collection of 5000 entries provides detailed information regarding accident investigations and subsequent reporting. It contains 15 columns, including accident IDs linking it to the first dataset, accident descriptions, police station details involved in the investigation, investigation statuses (such as pending or completed), reporters (like witnesses or involved parties), insurance claim information, fault attributions, injured persons' names and contact information, details about vehicle damages, repair costs, and legal proceedings. This dataset offers a comprehensive view of the post-accident processes, legal aspects, and financial implications, aiding in understanding the aftermath and resolution of road accidents.",
+  "datasetId": 4191954,
+  "datasetSlug": "major-road-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "smmmmmmmmmmmm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 207,
+  "totalVotes": 0,
+  "totalDownloads": 42,
+  "title": "Major Road Accidents",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": " Road Accident Details:\nThis dataset comprises 5000 entries detailing road accidents. Each entry contains 15 columns covering crucial accident-related information. It includes unique accident IDs, accident locations, dates, severity levels, weather conditions during the accidents, types of vehicles involved, injury counts, fatalities, causes (such as human error or weather conditions), road types (like highways or city streets), vehicle speeds, alcohol involvement, road conditions, and time of the accidents. The dataset is diverse, offering insights into the circumstances, factors, and outcomes of these accidents, crucial for analysis and pattern recognition in road safety.\n\nAccident Investigation and Reporting:\nComplementing the first dataset, this collection of 5000 entries provides detailed information regarding accident investigations and subsequent reporting. It contains 15 columns, including accident IDs linking it to the first dataset, accident descriptions, police station details involved in the investigation, investigation statuses (such as pending or completed), reporters (like witnesses or involved parties), insurance claim information, fault attributions, injured persons' names and contact information, details about vehicle damages, repair costs, and legal proceedings. This dataset offers a comprehensive view of the post-accident processes, legal aspects, and financial implications, aiding in understanding the aftermath and resolution of road accidents.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

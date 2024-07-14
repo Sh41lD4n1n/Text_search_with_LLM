@@ -1,0 +1,37 @@
+{
+  "id": "rachanakoudigayala/classification",
+  "id_no": 5299067,
+  "datasetSlugNullable": "classification",
+  "ownerUserNullable": "rachanakoudigayala",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "Classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5299067,
+  "datasetSlug": "classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "rachanakoudigayala",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 0,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "varsharam/walmart-sales-dataset-of-45stores",
+  "id_no": 2485412,
+  "datasetSlugNullable": "walmart-sales-dataset-of-45stores",
+  "ownerUserNullable": "varsharam",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Walmart Sales Dataset of 45stores",
+  "subtitleNullable": "EDA and Time Series Analysis",
+  "descriptionNullable": "***Walmart Inc.*** is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in nearby Rogers, Arkansas in 1962 and incorporated under Delaware General Corporation Law on October 31, 1969. It also owns and operates Sam's Club retail warehouses. In India, Walmart operates under the name of ***Flipkart Wholesale***. \n\nAs of *July 31, 2022*, Walmart has *10,585 stores* and clubs in *24 countries*, operating under 46 different names. Out of which we have chosen ***45 stores*** for basic analysis. \n\nWalmart is the world's largest company by revenue, with about *US$570 billion in annual revenue*, according to the Fortune Global 500 list in May 2022.\n\n# How Walmart uses Big Data?\n- **Improving Store Checkout:** By using Predictive Analysis, the stores can anticipate demand at a certain week and determine how many Sales Representatives / Employees are needed.  \n- **Managing the Steps of Supply Chain:** The company optimizes the routes to the shipping dock and tracks the number of times the product is accessed before it reaches the Customer's destination. Also, it uses the data to analyze transportation lanes and routes for the company's trucks. These data help Walmart keep transportation costs down and schedule an appropriate time for drivers.\n- **Optimizing Product Assortment:** By analyzing customer preferences and shopping patterns, Walmart accelerates the decision-making on how to maintain stocks. Big Data provides insights on new items and discontinued products.\n- **Personalizing Shopping Experience:** With Big Data, Walmart analyzes the shopping preferences of the customers to develop a consistent and delightful shopping experience.\nand much more...",
+  "datasetId": 2485412,
+  "datasetSlug": "walmart-sales-dataset-of-45stores",
+  "hasDatasetSlug": true,
+  "ownerUser": "varsharam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 58427,
+  "totalVotes": 93,
+  "totalDownloads": 11568,
+  "title": "Walmart Sales Dataset of 45stores",
+  "hasTitle": true,
+  "subtitle": "EDA and Time Series Analysis",
+  "hasSubtitle": true,
+  "description": "***Walmart Inc.*** is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in nearby Rogers, Arkansas in 1962 and incorporated under Delaware General Corporation Law on October 31, 1969. It also owns and operates Sam's Club retail warehouses. In India, Walmart operates under the name of ***Flipkart Wholesale***. \n\nAs of *July 31, 2022*, Walmart has *10,585 stores* and clubs in *24 countries*, operating under 46 different names. Out of which we have chosen ***45 stores*** for basic analysis. \n\nWalmart is the world's largest company by revenue, with about *US$570 billion in annual revenue*, according to the Fortune Global 500 list in May 2022.\n\n# How Walmart uses Big Data?\n- **Improving Store Checkout:** By using Predictive Analysis, the stores can anticipate demand at a certain week and determine how many Sales Representatives / Employees are needed.  \n- **Managing the Steps of Supply Chain:** The company optimizes the routes to the shipping dock and tracks the number of times the product is accessed before it reaches the Customer's destination. Also, it uses the data to analyze transportation lanes and routes for the company's trucks. These data help Walmart keep transportation costs down and schedule an appropriate time for drivers.\n- **Optimizing Product Assortment:** By analyzing customer preferences and shopping patterns, Walmart accelerates the decision-making on how to maintain stocks. Big Data provides insights on new items and discontinued products.\n- **Personalizing Shopping Experience:** With Big Data, Walmart analyzes the shopping preferences of the customers to develop a consistent and delightful shopping experience.\nand much more...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "time series analysis",
+    "statistical analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

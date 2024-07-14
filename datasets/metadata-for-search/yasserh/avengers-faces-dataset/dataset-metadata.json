@@ -1,0 +1,43 @@
+{
+  "id": "yasserh/avengers-faces-dataset",
+  "id_no": 2063711,
+  "datasetSlugNullable": "avengers-faces-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Avengers Faces Dataset",
+  "subtitleNullable": "Here are the cropped images of Avengers Characters used for ML Face Recognition.",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Face_Recognition/main/download.png)\n\n### Description:\n\nA facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.\n\nThe dataset contains three sub-directories for training, testing & validation. These directories 250, 60 & 60 samples each.\n\n### Acknowledgement: \nThe dataset is referred from Kaggle:\nhttps://www.kaggle.com/datasets/yasserh/avengers-faces-dataset\nThe supporting resource file is provided in the OpenCV Repository:\nhttps://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml\n\n### Objective:\n- To accurately perform face recognition using claissical Computer Vision + Deep Learning technique.",
+  "datasetId": 2063711,
+  "datasetSlug": "avengers-faces-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9465,
+  "totalVotes": 30,
+  "totalDownloads": 1085,
+  "title": "Avengers Faces Dataset",
+  "hasTitle": true,
+  "subtitle": "Here are the cropped images of Avengers Characters used for ML Face Recognition.",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Face_Recognition/main/download.png)\n\n### Description:\n\nA facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.\n\nThe dataset contains three sub-directories for training, testing & validation. These directories 250, 60 & 60 samples each.\n\n### Acknowledgement: \nThe dataset is referred from Kaggle:\nhttps://www.kaggle.com/datasets/yasserh/avengers-faces-dataset\nThe supporting resource file is provided in the OpenCV Repository:\nhttps://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml\n\n### Objective:\n- To accurately perform face recognition using claissical Computer Vision + Deep Learning technique.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fedesoriano/cifar10-python-in-csv",
+  "id_no": 1424838,
+  "datasetSlugNullable": "cifar10-python-in-csv",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CIFAR-10 Python in CSV",
+  "subtitleNullable": "A collection of images commonly used to train computer vision algorithms",
+  "descriptionNullable": "### Context\n\nThe CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. The classes are completely mutually exclusive. There are 50000 training images and 10000 test images.\n\nThe batches.meta file contains the label names of each class.\n\nThe dataset was originally divided in 5 training batches with 10000 images per batch. The original dataset can be found here: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html). This dataset contains all the training data and test data in the same CSV file so it is easier to load.\n\n### Content\n\nHere is the list of the 10 classes in the CIFAR-10:\n\nClasses:\n1) 0: airplane\n2) 1: automobile\n3) 2: bird\n4) 3: cat\n5) 4: deer\n6) 5: dog\n7) 6: frog\n8) 7: horse\n9) 8: ship\n10) 9: truck\n\n\n### Acknowledgements\n\n- Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009. [Link](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)\n\n\n### How to load the batches.meta file (Python)\n\nThe function used to open the file:\n```\ndef unpickle(file):\n    import pickle\n    with open(file, 'rb') as fo:\n        dict = pickle.load(fo, encoding='bytes')\n    return dict\n```\n\nExample of how to read the file:\n```\nmetadata_path = './cifar-10-python/batches.meta' # change this path\nmetadata = unpickle(metadata_path)\n```",
+  "datasetId": 1424838,
+  "datasetSlug": "cifar10-python-in-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 28676,
+  "totalVotes": 37,
+  "totalDownloads": 4286,
+  "title": "CIFAR-10 Python in CSV",
+  "hasTitle": true,
+  "subtitle": "A collection of images commonly used to train computer vision algorithms",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. The classes are completely mutually exclusive. There are 50000 training images and 10000 test images.\n\nThe batches.meta file contains the label names of each class.\n\nThe dataset was originally divided in 5 training batches with 10000 images per batch. The original dataset can be found here: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html). This dataset contains all the training data and test data in the same CSV file so it is easier to load.\n\n### Content\n\nHere is the list of the 10 classes in the CIFAR-10:\n\nClasses:\n1) 0: airplane\n2) 1: automobile\n3) 2: bird\n4) 3: cat\n5) 4: deer\n6) 5: dog\n7) 6: frog\n8) 7: horse\n9) 8: ship\n10) 9: truck\n\n\n### Acknowledgements\n\n- Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009. [Link](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)\n\n\n### How to load the batches.meta file (Python)\n\nThe function used to open the file:\n```\ndef unpickle(file):\n    import pickle\n    with open(file, 'rb') as fo:\n        dict = pickle.load(fo, encoding='bytes')\n    return dict\n```\n\nExample of how to read the file:\n```\nmetadata_path = './cifar-10-python/batches.meta' # change this path\nmetadata = unpickle(metadata_path)\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

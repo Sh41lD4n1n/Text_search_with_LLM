@@ -1,0 +1,39 @@
+{
+  "id": "irtiqaamin/prodcut-review",
+  "id_no": 1126449,
+  "datasetSlugNullable": "prodcut-review",
+  "ownerUserNullable": "irtiqaamin",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Product review",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1126449,
+  "datasetSlug": "prodcut-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "irtiqaamin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 815,
+  "totalVotes": 4,
+  "totalDownloads": 56,
+  "title": "Product review",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

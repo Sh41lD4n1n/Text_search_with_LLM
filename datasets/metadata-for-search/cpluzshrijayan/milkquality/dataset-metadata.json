@@ -1,0 +1,44 @@
+{
+  "id": "cpluzshrijayan/milkquality",
+  "id_no": 2380569,
+  "datasetSlugNullable": "milkquality",
+  "ownerUserNullable": "cpluzshrijayan",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Milk Quality Prediction",
+  "subtitleNullable": "Milk Quality Prediction by Classification",
+  "descriptionNullable": "**Milk Quality Prediction** (Classification)\n\n**About dataset**\nThis dataset is manually collected from observations. It helps us to build machine learning models to predict the quality of milk.\nThis dataset consists of 7 independent variables ie pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.\nGenerally, the Grade or Quality of the milk depends on these parameters. These parameters play a vital role in the predictive analysis of the milk.\n\n**Usage**\nThe target variable is nothing but the Grade of the milk. It can be\n\n**Target**\n\n*Low (Bad)*\n\n*Medium (Moderate)*\n\n*High (Good)*\n\nIf Taste, Odor, Fat, and Turbidity are satisfied with optimal conditions then they will assign 1 otherwise 0.\nTemperature and ph are given their actual values in the dataset.\n\nWe have to perform data preprocessing, and data augmentation techniques to build statistical and predictive models to predict the quality of the milk.\n\n**Inspiration**\nTo leverage the benefits of machine learning in the dairy industry.",
+  "datasetId": 2380569,
+  "datasetSlug": "milkquality",
+  "hasDatasetSlug": true,
+  "ownerUser": "cpluzshrijayan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 71573,
+  "totalVotes": 119,
+  "totalDownloads": 11949,
+  "title": "Milk Quality Prediction",
+  "hasTitle": true,
+  "subtitle": "Milk Quality Prediction by Classification",
+  "hasSubtitle": true,
+  "description": "**Milk Quality Prediction** (Classification)\n\n**About dataset**\nThis dataset is manually collected from observations. It helps us to build machine learning models to predict the quality of milk.\nThis dataset consists of 7 independent variables ie pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.\nGenerally, the Grade or Quality of the milk depends on these parameters. These parameters play a vital role in the predictive analysis of the milk.\n\n**Usage**\nThe target variable is nothing but the Grade of the milk. It can be\n\n**Target**\n\n*Low (Bad)*\n\n*Medium (Moderate)*\n\n*High (Good)*\n\nIf Taste, Odor, Fat, and Turbidity are satisfied with optimal conditions then they will assign 1 otherwise 0.\nTemperature and ph are given their actual values in the dataset.\n\nWe have to perform data preprocessing, and data augmentation techniques to build statistical and predictive models to predict the quality of the milk.\n\n**Inspiration**\nTo leverage the benefits of machine learning in the dairy industry.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "categorical",
+    "business",
+    "beginner",
+    "classification",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

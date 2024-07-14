@@ -1,0 +1,43 @@
+{
+  "id": "therohk/million-headlines",
+  "id_no": 1692,
+  "datasetSlugNullable": "million-headlines",
+  "ownerUserNullable": "therohk",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "A Million News Headlines",
+  "subtitleNullable": "News headlines published over a period of 19 Years",
+  "descriptionNullable": "### Context\n\nThis contains data of news headlines published over a period of nineteen years.\n\nSourced from the reputable Australian news source ABC (Australian Broadcasting Corporation)\n\nAgency Site: (http://www.abc.net.au)\n\n### Content\n\nFormat: CSV ; Single File\n\n 1. **publish_date**: Date of publishing for the article in yyyyMMdd format\n 2. **headline_text**: Text of the headline in Ascii , English , lowercase\n\nStart Date: **2003-02-19** ; End Date: **2021-12-31**\n\n### Inspiration\n\nI look at this news dataset as a summarised historical record of noteworthy events in the globe from early-2003 to end-2021 with a more granular focus on Australia.\n\nThis includes the entire corpus of articles published by the abcnews website in the given date range. \nWith a volume of two hundred articles per day and a good focus on international news, we can be fairly certain that every event of significance has been captured here.\n\nDigging into the keywords, one can see all the important episodes shaping the last decade and how they evolved over time.\nEx: afghanistan war, financial crisis, multiple elections, ecological disasters, terrorism, famous people, criminal activity et cetera.\n\n### Similar Work\n\nSimilar news datasets exploring other attributes, countries and topics can be seen on my [profile](/therohk). \n\nMost kernals can be reused with minimal changes across these news datasets.\n\nPrepared by **Rohit Kulkarni**\n",
+  "datasetId": 1692,
+  "datasetSlug": "million-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "therohk",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 268919,
+  "totalVotes": 644,
+  "totalDownloads": 41737,
+  "title": "A Million News Headlines",
+  "hasTitle": true,
+  "subtitle": "News headlines published over a period of 19 Years",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis contains data of news headlines published over a period of nineteen years.\n\nSourced from the reputable Australian news source ABC (Australian Broadcasting Corporation)\n\nAgency Site: (http://www.abc.net.au)\n\n### Content\n\nFormat: CSV ; Single File\n\n 1. **publish_date**: Date of publishing for the article in yyyyMMdd format\n 2. **headline_text**: Text of the headline in Ascii , English , lowercase\n\nStart Date: **2003-02-19** ; End Date: **2021-12-31**\n\n### Inspiration\n\nI look at this news dataset as a summarised historical record of noteworthy events in the globe from early-2003 to end-2021 with a more granular focus on Australia.\n\nThis includes the entire corpus of articles published by the abcnews website in the given date range. \nWith a volume of two hundred articles per day and a good focus on international news, we can be fairly certain that every event of significance has been captured here.\n\nDigging into the keywords, one can see all the important episodes shaping the last decade and how they evolved over time.\nEx: afghanistan war, financial crisis, multiple elections, ecological disasters, terrorism, famous people, criminal activity et cetera.\n\n### Similar Work\n\nSimilar news datasets exploring other attributes, countries and topics can be seen on my [profile](/therohk). \n\nMost kernals can be reused with minimal changes across these news datasets.\n\nPrepared by **Rohit Kulkarni**\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "australia",
+    "linguistics",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

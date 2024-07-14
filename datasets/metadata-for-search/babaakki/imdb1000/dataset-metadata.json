@@ -1,0 +1,39 @@
+{
+  "id": "babaakki/imdb1000",
+  "id_no": 567180,
+  "datasetSlugNullable": "imdb1000",
+  "ownerUserNullable": "babaakki",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "IMDB1000",
+  "subtitleNullable": "IMDB reviews and rating for top 1000 movies",
+  "descriptionNullable": "### Context\n\nThis dataset was created while i was trying Web Scraping using Beautifulsoup. Check the code [here](https://github.com/akshayparakh25/imdb_1000_scraper)\n\n\n### Content\n\nThis dataset contains top 1000 highest rated movies of all time.  Every row contains details like Title of the movie, list of Directors, Actors, Runtime in minutes, Year of Release, Genre, IMDB Rating, Number of User Votes, and Gross Earning in Million Dollars.\n",
+  "datasetId": 567180,
+  "datasetSlug": "imdb1000",
+  "hasDatasetSlug": true,
+  "ownerUser": "babaakki",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 2134,
+  "totalVotes": 1,
+  "totalDownloads": 82,
+  "title": "IMDB1000",
+  "hasTitle": true,
+  "subtitle": "IMDB reviews and rating for top 1000 movies",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created while i was trying Web Scraping using Beautifulsoup. Check the code [here](https://github.com/akshayparakh25/imdb_1000_scraper)\n\n\n### Content\n\nThis dataset contains top 1000 highest rated movies of all time.  Every row contains details like Title of the movie, list of Directors, Actors, Runtime in minutes, Year of Release, Genre, IMDB Rating, Number of User Votes, and Gross Earning in Million Dollars.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

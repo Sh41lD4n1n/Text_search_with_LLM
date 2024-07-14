@@ -1,0 +1,43 @@
+{
+  "id": "suyashlakhani/apple-stock-prices-20152020",
+  "id_no": 1455874,
+  "datasetSlugNullable": "apple-stock-prices-20152020",
+  "ownerUserNullable": "suyashlakhani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Apple Stock Prices (2015-2020)",
+  "subtitleNullable": "Apple Stock Prices for Time series forecasting and Analysis",
+  "descriptionNullable": "**Dataset of stock prices at different time intervals of Apple USA.**\n\n\nsymbol - Apple Stock \nclose - Closing price \nhigh  - Highest price of the day\nlow - Lowest Price of the day \nopen - Opening price of the day \nvolume  - Volume of stock traded \nadjClose - Closing stock price in relation to other stock attributes/actions\nadjHigh - Highest stock price in relation to other stock attributes/actions\nadjOpen - Opening Stock price in relation to other stock attributes/actions\nadjVolume - Trading volume in relation to other stock attributes/actions\ndivCash - Cash dividend\nsplitFactor - Stock split\n\n\n",
+  "datasetId": 1455874,
+  "datasetSlug": "apple-stock-prices-20152020",
+  "hasDatasetSlug": true,
+  "ownerUser": "suyashlakhani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14347,
+  "totalVotes": 25,
+  "totalDownloads": 2373,
+  "title": "Apple Stock Prices (2015-2020)",
+  "hasTitle": true,
+  "subtitle": "Apple Stock Prices for Time series forecasting and Analysis",
+  "hasSubtitle": true,
+  "description": "**Dataset of stock prices at different time intervals of Apple USA.**\n\n\nsymbol - Apple Stock \nclose - Closing price \nhigh  - Highest price of the day\nlow - Lowest Price of the day \nopen - Opening price of the day \nvolume  - Volume of stock traded \nadjClose - Closing stock price in relation to other stock attributes/actions\nadjHigh - Highest stock price in relation to other stock attributes/actions\nadjOpen - Opening Stock price in relation to other stock attributes/actions\nadjVolume - Trading volume in relation to other stock attributes/actions\ndivCash - Cash dividend\nsplitFactor - Stock split\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "tabular",
+    "pandas",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

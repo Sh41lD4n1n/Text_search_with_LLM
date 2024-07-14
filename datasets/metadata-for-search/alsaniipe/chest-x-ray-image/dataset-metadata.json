@@ -1,0 +1,43 @@
+{
+  "id": "alsaniipe/chest-x-ray-image",
+  "id_no": 4077867,
+  "datasetSlugNullable": "chest-x-ray-image",
+  "ownerUserNullable": "alsaniipe",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Chest X-ray Image(COVID19, PNEUMONIA, and NORMAL)",
+  "subtitleNullable": " A Comprehensive Dataset for AI-driven Analysis of Chest X-ray Images",
+  "descriptionNullable": "**In order to compile a publicly accessible dataset comprising chest X-ray and CT images of patients who have tested positive for COVID-19 or are suspected of having other viral and bacterial pneumonias (MERS, SARS, and ARDS). In addition to gathering information from public sources, data will be gathered indirectly from physicians and institutions.**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15584165%2F42f3185248f0372d72a92987baae29c1%2F__results___28_1.png?generation=1701248612960017&alt=media)\n\n#Content:\n**Train and test are the two folders containing the Content Dataset, while each contains three subfolders: COVID19, PNEUMONIA, and NORMAL. The dataset comprises a total of 6432 x-ray images, of which 20% are designated as test data.**\n\n\n# Credits and acknowledgments\nImages are gathered from a variety of publicly accessible sources. When utilising the data for research purposes, kindly attribute the authors:\n\n# Sources: \n- https://github.com/ieee8023/covid-chestxray-dataset\n- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia\n- https://github.com/agchung",
+  "datasetId": 4077867,
+  "datasetSlug": "chest-x-ray-image",
+  "hasDatasetSlug": true,
+  "ownerUser": "alsaniipe",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1880,
+  "totalVotes": 51,
+  "totalDownloads": 229,
+  "title": "Chest X-ray Image(COVID19, PNEUMONIA, and NORMAL)",
+  "hasTitle": true,
+  "subtitle": " A Comprehensive Dataset for AI-driven Analysis of Chest X-ray Images",
+  "hasSubtitle": true,
+  "description": "**In order to compile a publicly accessible dataset comprising chest X-ray and CT images of patients who have tested positive for COVID-19 or are suspected of having other viral and bacterial pneumonias (MERS, SARS, and ARDS). In addition to gathering information from public sources, data will be gathered indirectly from physicians and institutions.**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15584165%2F42f3185248f0372d72a92987baae29c1%2F__results___28_1.png?generation=1701248612960017&alt=media)\n\n#Content:\n**Train and test are the two folders containing the Content Dataset, while each contains three subfolders: COVID19, PNEUMONIA, and NORMAL. The dataset comprises a total of 6432 x-ray images, of which 20% are designated as test data.**\n\n\n# Credits and acknowledgments\nImages are gathered from a variety of publicly accessible sources. When utilising the data for research purposes, kindly attribute the authors:\n\n# Sources: \n- https://github.com/ieee8023/covid-chestxray-dataset\n- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia\n- https://github.com/agchung",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "usama4/tmdb-top-rated-10000-movies-dataset",
+  "id_no": 2886267,
+  "datasetSlugNullable": "tmdb-top-rated-10000-movies-dataset",
+  "ownerUserNullable": "usama4",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TMDB Top Rated 10000 Movies Dataset",
+  "subtitleNullable": "Dataset of top rated movies perfect for building recommender systems",
+  "descriptionNullable": "**Context**\nThis data was created to build a model for recommending movies.\n\n**Source**\nThe csv data was scraped from https://www.themoviedb.org/ and converted into\ndataset using python libraries requests and pandas.\n\n**Inspiration**\nYou can build a recommender system based on different attributes using the csv data.",
+  "datasetId": 2886267,
+  "datasetSlug": "tmdb-top-rated-10000-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "usama4",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 272,
+  "totalVotes": 0,
+  "totalDownloads": 37,
+  "title": "TMDB Top Rated 10000 Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of top rated movies perfect for building recommender systems",
+  "hasSubtitle": true,
+  "description": "**Context**\nThis data was created to build a model for recommending movies.\n\n**Source**\nThe csv data was scraped from https://www.themoviedb.org/ and converted into\ndataset using python libraries requests and pandas.\n\n**Inspiration**\nYou can build a recommender system based on different attributes using the csv data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "earth and nature",
+    "computer science",
+    "intermediate",
+    "recommender systems",
+    "text",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

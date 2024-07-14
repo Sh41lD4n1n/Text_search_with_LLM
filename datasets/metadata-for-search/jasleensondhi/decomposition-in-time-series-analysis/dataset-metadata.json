@@ -1,0 +1,42 @@
+{
+  "id": "jasleensondhi/decomposition-in-time-series-analysis",
+  "id_no": 2411778,
+  "datasetSlugNullable": "decomposition-in-time-series-analysis",
+  "ownerUserNullable": "jasleensondhi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Decomposition in Time Series Analysis",
+  "subtitleNullable": "Studying Additive and Multiplicative Decomposition Models in Python!",
+  "descriptionNullable": "The dataset consists of 2 NumPy files. These help us to see how to use Decomposition Models for Time Series Analysis in Python. These datasets are then plotted and the Time Series plot is broken into the following components\n- Seasonal\n- Trend\n- Residuals",
+  "datasetId": 2411778,
+  "datasetSlug": "decomposition-in-time-series-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "jasleensondhi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2016,
+  "totalVotes": 12,
+  "totalDownloads": 1290,
+  "title": "Decomposition in Time Series Analysis",
+  "hasTitle": true,
+  "subtitle": "Studying Additive and Multiplicative Decomposition Models in Python!",
+  "hasSubtitle": true,
+  "description": "The dataset consists of 2 NumPy files. These help us to see how to use Decomposition Models for Time Series Analysis in Python. These datasets are then plotted and the Time Series plot is broken into the following components\n- Seasonal\n- Trend\n- Residuals",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "time series analysis",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

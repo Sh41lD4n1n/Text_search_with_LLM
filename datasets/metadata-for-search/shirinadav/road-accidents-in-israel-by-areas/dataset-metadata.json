@@ -1,0 +1,37 @@
+{
+  "id": "shirinadav/road-accidents-in-israel-by-areas",
+  "id_no": 2464524,
+  "datasetSlugNullable": "road-accidents-in-israel-by-areas",
+  "ownerUserNullable": "shirinadav",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Road accidents in Israel by areas",
+  "subtitleNullable": "",
+  "descriptionNullable": "About Dataset: \nThis data has been taken from an Israeli government website and contains data on road accidents by region in Israel in the last five years (2017-\n2021).\nLink for the website: https://data.gov.il/dataset/accid_taz/resource/57c5aef9-70f9-4b71-82fa-52304cfbd031\nit contains:\n\u2022 how many dead and injured?\n\u2022 Which vehicle is most involved in traffic accidents?\n\u2022 In which city do the most accidents happen?\n\u2022 In which traffic areas do the most accidents happen?\n Some of the data is in Hebrew, and part of the columns are written with code names.\nI am attaching a link with the explanation of the column names:\nhttps://data.gov.il/dataset/accid_taz/resource/b25db13f-07e6-4ec6-be71-a95bb1b15816",
+  "datasetId": 2464524,
+  "datasetSlug": "road-accidents-in-israel-by-areas",
+  "hasDatasetSlug": true,
+  "ownerUser": "shirinadav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 567,
+  "totalVotes": 0,
+  "totalDownloads": 58,
+  "title": "Road accidents in Israel by areas",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "About Dataset: \nThis data has been taken from an Israeli government website and contains data on road accidents by region in Israel in the last five years (2017-\n2021).\nLink for the website: https://data.gov.il/dataset/accid_taz/resource/57c5aef9-70f9-4b71-82fa-52304cfbd031\nit contains:\n\u2022 how many dead and injured?\n\u2022 Which vehicle is most involved in traffic accidents?\n\u2022 In which city do the most accidents happen?\n\u2022 In which traffic areas do the most accidents happen?\n Some of the data is in Hebrew, and part of the columns are written with code names.\nI am attaching a link with the explanation of the column names:\nhttps://data.gov.il/dataset/accid_taz/resource/b25db13f-07e6-4ec6-be71-a95bb1b15816",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

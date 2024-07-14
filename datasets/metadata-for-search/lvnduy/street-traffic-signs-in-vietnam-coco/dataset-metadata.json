@@ -1,0 +1,40 @@
+{
+  "id": "lvnduy/street-traffic-signs-in-vietnam-coco",
+  "id_no": 3478846,
+  "datasetSlugNullable": "street-traffic-signs-in-vietnam-coco",
+  "ownerUserNullable": "lvnduy",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Street Traffic Signs in Vietnam-Coco",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3478846,
+  "datasetSlug": "street-traffic-signs-in-vietnam-coco",
+  "hasDatasetSlug": true,
+  "ownerUser": "lvnduy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 468,
+  "totalVotes": 5,
+  "totalDownloads": 56,
+  "title": "Street Traffic Signs in Vietnam-Coco",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

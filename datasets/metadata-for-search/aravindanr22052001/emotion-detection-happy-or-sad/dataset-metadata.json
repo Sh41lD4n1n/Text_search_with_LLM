@@ -1,0 +1,37 @@
+{
+  "id": "aravindanr22052001/emotion-detection-happy-or-sad",
+  "id_no": 2124821,
+  "datasetSlugNullable": "emotion-detection-happy-or-sad",
+  "ownerUserNullable": "aravindanr22052001",
+  "usabilityRatingNullable": 0.1875,
+  "titleNullable": "emotion_detection_happy_or_sad",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2124821,
+  "datasetSlug": "emotion-detection-happy-or-sad",
+  "hasDatasetSlug": true,
+  "ownerUser": "aravindanr22052001",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.1875,
+  "hasUsabilityRating": true,
+  "totalViews": 364,
+  "totalVotes": 6,
+  "totalDownloads": 53,
+  "title": "emotion_detection_happy_or_sad",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

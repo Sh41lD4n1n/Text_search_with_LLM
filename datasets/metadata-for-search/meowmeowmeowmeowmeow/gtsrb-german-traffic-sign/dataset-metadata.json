@@ -1,0 +1,41 @@
+{
+  "id": "meowmeowmeowmeowmeow/gtsrb-german-traffic-sign",
+  "id_no": 82373,
+  "datasetSlugNullable": "gtsrb-german-traffic-sign",
+  "ownerUserNullable": "meowmeowmeowmeowmeow",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "GTSRB - German Traffic Sign Recognition Benchmark",
+  "subtitleNullable": "Multi-class, single-image classification challenge",
+  "descriptionNullable": "### Context\n\nThe German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011. We cordially invite researchers from relevant fields to participate: The competition is designed to allow for participation without special domain knowledge. Our benchmark has the following properties:\n\n - Single-image, multi-class classification problem \n - More than 40 classes\n - More than 50,000 images in total \n - Large, lifelike database\n\n### Acknowledgements\n\n\n[INI Benchmark Website][1]\n\n\n\n  [1]: http://benchmark.ini.rub.de/",
+  "datasetId": 82373,
+  "datasetSlug": "gtsrb-german-traffic-sign",
+  "hasDatasetSlug": true,
+  "ownerUser": "meowmeowmeowmeowmeow",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 536501,
+  "totalVotes": 1109,
+  "totalDownloads": 110620,
+  "title": "GTSRB - German Traffic Sign Recognition Benchmark",
+  "hasTitle": true,
+  "subtitle": "Multi-class, single-image classification challenge",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011. We cordially invite researchers from relevant fields to participate: The competition is designed to allow for participation without special domain knowledge. Our benchmark has the following properties:\n\n - Single-image, multi-class classification problem \n - More than 40 classes\n - More than 50,000 images in total \n - Large, lifelike database\n\n### Acknowledgements\n\n\n[INI Benchmark Website][1]\n\n\n\n  [1]: http://benchmark.ini.rub.de/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

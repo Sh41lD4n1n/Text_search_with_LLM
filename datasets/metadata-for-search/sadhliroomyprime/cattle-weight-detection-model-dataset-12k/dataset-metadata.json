@@ -1,0 +1,61 @@
+{
+  "id": "sadhliroomyprime/cattle-weight-detection-model-dataset-12k",
+  "id_no": 2857519,
+  "datasetSlugNullable": "cattle-weight-detection-model-dataset-12k",
+  "ownerUserNullable": "sadhliroomyprime",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cattle Weight Detection Model + Dataset (12k~)",
+  "subtitleNullable": "Made for detecting cattle weight from low-cost smartphones in Bangladesh",
+  "descriptionNullable": "### Acme AI, bhalo Social Enterprises and mPower Social Enterprises developed a livestock weight detection system using computer vision which works through low-cost smartphones to aid accurate service delivery in regards to livestock inputs. This was done as part of the Smart Farming Innovations for Small-Scale Producers Global Grand Challenge by the Bill & Melinda Gates Foundation.\n\n**The Challenge**\nFarmers in rural Bangladesh are highly dependent on livestock farming \u2013 particularly cattle. Livestock intermediary groups support livestock farmers by providing inputs and management services \u2013 enabling livestock to improve productivity and/or fetch a good price. However, there are limitations in these services as calculating the \u2018right\u2019 amount of input is dependent on the accurate calculation of weight. There are globally standardized methods to extract volumetric weight based on hearth/girth measurements \u2013 something that is also practiced in Bangladesh. But the physical toil required for such a measurement often leads to service providers skipping this step and provide inputs based on estimations \u2013 leading to mismanagements.\n\n**The Solution**\nWe developed a machine learning model that works through a smartphone to detect weight from images \u2013essentially automating the standardized hearth/girth measurement volumetric weighing process and making weight measurement \u2018easier\u2019. The baseline weight then speaks to other platforms to provide accurate input recommendations.\n\n**Results**\nThe model achieved a 92%~ accuracy in detecting volumetric weight in controlled trials with over 16,000 weighing sessions conducted in a span of 2 months.\n\n**Constraints**\nThe model is constrained by some limitations in regards to dataset and dependencies.\n\n1. The beef cattle included in the dataset weigh from a range of 60 kilograms to 450 kilograms. The model could detect cattle accurately slightly above this range but if a said cattle is over 600 kilograms, the model gives out inaccurate results. This bias is present because of the reality of grassroot Bangladesh and cattle sizes of smallholder farmers.\n2. The dataset does not account for deeper considerations such as breeds, age, number of teeth, etc. This affect weight in the sense that bone density can differ.\n3. Volumetric weight and live weight aren't the same thing.\n\nFor more detail please reach out to **info@acmeai.tech**.",
+  "datasetId": 2857519,
+  "datasetSlug": "cattle-weight-detection-model-dataset-12k",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadhliroomyprime",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13963,
+  "totalVotes": 111,
+  "totalDownloads": 949,
+  "title": "Cattle Weight Detection Model + Dataset (12k~)",
+  "hasTitle": true,
+  "subtitle": "Made for detecting cattle weight from low-cost smartphones in Bangladesh",
+  "hasSubtitle": true,
+  "description": "### Acme AI, bhalo Social Enterprises and mPower Social Enterprises developed a livestock weight detection system using computer vision which works through low-cost smartphones to aid accurate service delivery in regards to livestock inputs. This was done as part of the Smart Farming Innovations for Small-Scale Producers Global Grand Challenge by the Bill & Melinda Gates Foundation.\n\n**The Challenge**\nFarmers in rural Bangladesh are highly dependent on livestock farming \u2013 particularly cattle. Livestock intermediary groups support livestock farmers by providing inputs and management services \u2013 enabling livestock to improve productivity and/or fetch a good price. However, there are limitations in these services as calculating the \u2018right\u2019 amount of input is dependent on the accurate calculation of weight. There are globally standardized methods to extract volumetric weight based on hearth/girth measurements \u2013 something that is also practiced in Bangladesh. But the physical toil required for such a measurement often leads to service providers skipping this step and provide inputs based on estimations \u2013 leading to mismanagements.\n\n**The Solution**\nWe developed a machine learning model that works through a smartphone to detect weight from images \u2013essentially automating the standardized hearth/girth measurement volumetric weighing process and making weight measurement \u2018easier\u2019. The baseline weight then speaks to other platforms to provide accurate input recommendations.\n\n**Results**\nThe model achieved a 92%~ accuracy in detecting volumetric weight in controlled trials with over 16,000 weighing sessions conducted in a span of 2 months.\n\n**Constraints**\nThe model is constrained by some limitations in regards to dataset and dependencies.\n\n1. The beef cattle included in the dataset weigh from a range of 60 kilograms to 450 kilograms. The model could detect cattle accurately slightly above this range but if a said cattle is over 600 kilograms, the model gives out inaccurate results. This bias is present because of the reality of grassroot Bangladesh and cattle sizes of smallholder farmers.\n2. The dataset does not account for deeper considerations such as breeds, age, number of teeth, etc. This affect weight in the sense that bone density can differ.\n3. Volumetric weight and live weight aren't the same thing.\n\nFor more detail please reach out to **info@acmeai.tech**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "business",
+    "agriculture",
+    "artificial intelligence",
+    "computer vision",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nayemabs",
+      "role": "writer"
+    },
+    {
+      "username": "ashikmostofatonmoy",
+      "role": "writer"
+    },
+    {
+      "username": "sikdermdsaiful",
+      "role": "writer"
+    },
+    {
+      "username": "mominul0007",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

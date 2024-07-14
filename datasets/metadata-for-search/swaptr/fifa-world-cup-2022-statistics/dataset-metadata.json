@@ -1,0 +1,41 @@
+{
+  "id": "swaptr/fifa-world-cup-2022-statistics",
+  "id_no": 2703330,
+  "datasetSlugNullable": "fifa-world-cup-2022-statistics",
+  "ownerUserNullable": "swaptr",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "FIFA World Cup 2022 Team Data",
+  "subtitleNullable": "Comprehensive team data from the FIFA World Cup 2022",
+  "descriptionNullable": "## Other datasets in this series\n&gt; [![fifa_world_cup_2022_dataset](https://storage.googleapis.com/kaggle-datasets-images/2703330/4664049/97d5a8826405b1d2869fccfc567d80df/dataset-cover.jpg =145x145)](\"\") [![fifa_world_cup_2022_match_data](https://storage.googleapis.com/kaggle-datasets-images/2720841/4702678/7a2324c30e2383b7b716d12c177ea7f3/dataset-cover.jpg =125x125)](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-match-data) [![fifa_world_cup_2022_dataset](https://storage.googleapis.com/kaggle-datasets-images/2721236/4703390/5ca8a94b095e161499fe77f5732503ce/dataset-cover.jpg =125x125)](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data)\n\n&gt; - [**FIFA World Cup 2022 Team Data**](\"\")\n- [FIFA World Cup 2022 Match Data](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-match-data)\n- [FIFA World Cup 2022 Player Data](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data)\n\n## Context\n\nThe FIFA World Cup 2022 is here and it's bigger and better than ever! With 32 teams from around the world competing for the coveted trophy, the excitement and energy of this global event is palpable. This series of dataset captures all the action, from player statistics and team standings, to game scores and match performances.\n\nFeaturing some of the greatest players in the world, including Cristiano Ronaldo, Lionel Messi, and Neymar Jr., this series of datasets is a must-have for any die-hard soccer fan or aspiring data scientist. Use it to analyze game patterns, predict outcomes, and uncover insights into the strategies and performances of your favorite teams and players.\n\nWith this FIFA World Cup 2022 dataset, the possibilities are endless. Don't miss out on the opportunity to be a part of the action and join the ranks of the world's top data analysts. Grab your dataset today and let the games begin!\n\n### Acknowledgements\nAll data is downloaded from [FBref](https://fbref.com) and all credits for data collection and organization go to them.",
+  "datasetId": 2703330,
+  "datasetSlug": "fifa-world-cup-2022-statistics",
+  "hasDatasetSlug": true,
+  "ownerUser": "swaptr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 31826,
+  "totalVotes": 86,
+  "totalDownloads": 5122,
+  "title": "FIFA World Cup 2022 Team Data",
+  "hasTitle": true,
+  "subtitle": "Comprehensive team data from the FIFA World Cup 2022",
+  "hasSubtitle": true,
+  "description": "## Other datasets in this series\n&gt; [![fifa_world_cup_2022_dataset](https://storage.googleapis.com/kaggle-datasets-images/2703330/4664049/97d5a8826405b1d2869fccfc567d80df/dataset-cover.jpg =145x145)](\"\") [![fifa_world_cup_2022_match_data](https://storage.googleapis.com/kaggle-datasets-images/2720841/4702678/7a2324c30e2383b7b716d12c177ea7f3/dataset-cover.jpg =125x125)](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-match-data) [![fifa_world_cup_2022_dataset](https://storage.googleapis.com/kaggle-datasets-images/2721236/4703390/5ca8a94b095e161499fe77f5732503ce/dataset-cover.jpg =125x125)](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data)\n\n&gt; - [**FIFA World Cup 2022 Team Data**](\"\")\n- [FIFA World Cup 2022 Match Data](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-match-data)\n- [FIFA World Cup 2022 Player Data](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data)\n\n## Context\n\nThe FIFA World Cup 2022 is here and it's bigger and better than ever! With 32 teams from around the world competing for the coveted trophy, the excitement and energy of this global event is palpable. This series of dataset captures all the action, from player statistics and team standings, to game scores and match performances.\n\nFeaturing some of the greatest players in the world, including Cristiano Ronaldo, Lionel Messi, and Neymar Jr., this series of datasets is a must-have for any die-hard soccer fan or aspiring data scientist. Use it to analyze game patterns, predict outcomes, and uncover insights into the strategies and performances of your favorite teams and players.\n\nWith this FIFA World Cup 2022 dataset, the possibilities are endless. Don't miss out on the opportunity to be a part of the action and join the ranks of the world's top data analysts. Grab your dataset today and let the games begin!\n\n### Acknowledgements\nAll data is downloaded from [FBref](https://fbref.com) and all credits for data collection and organization go to them.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

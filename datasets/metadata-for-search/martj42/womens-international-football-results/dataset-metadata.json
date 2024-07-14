@@ -1,0 +1,42 @@
+{
+  "id": "martj42/womens-international-football-results",
+  "id_no": 830631,
+  "datasetSlugNullable": "womens-international-football-results",
+  "ownerUserNullable": "martj42",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Women's International Football Results",
+  "subtitleNullable": "An up-to-date dataset of over 7,000 international football results",
+  "descriptionNullable": "### Context\n\nThis is a work-in-progress sister data set to the [men's international football results dataset](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017). If you're interested in helping out, submit a pull request [here](https://github.com/martj42/womens-international-results).\n\n### Content\n\nCurrently, the dataset includes **9,148** women's international football results. All major tournament results should be complete. Some international friendlies, particularly tournaments, are included. A LOT of results are not yet in the dataset.\n\n`results.csv` includes the following columns:\n\n* `date` - date of the match\n* `home_team` - the name of the home team\n* `away_team` - the name of the away team\n* `home_score` - full-time home team score including extra time, not including penalty-shootouts\n* `away_score` - full-time away team score including extra time, not including penalty-shootouts\n* `tournament` - the name of the tournament\n* `city` - the name of the city/town/administrative unit where the match was played\n* `country` - the name of the country where the match was played\n* `neutral` - TRUE/FALSE column indicating whether the match was played at a neutral venue\n\n### Acknowledgements\n\nThe data is gathered from several sources including but not limited to Wikipedia, fifa.com, rsssf.com and individual football associations' websites.\n\n### Inspiration\n\nSome directions to take when exploring the data:\n\n - Who is the best team of all time\n - Which teams dominated different eras of football\n - What trends have there been in international football throughout the ages - home advantage, total goals scored, distribution of teams' strength etc\n - Can we say anything about geopolitics from football fixtures - how has the number of countries changed, which teams like to play each other\n - Which countries host the most matches where they themselves are not participating in\n - How much, if at all, does hosting a major tournament help a country's chances in the tournament\n - Which teams are the most active in playing friendlies and friendly tournaments - does it help or hurt them\n\nThe world's your oyster, my friend.\n\n### Contribute\n\nIf you notice a mistake or the results are being updated fast enough for your liking, you can fix that by submitting a pull request on github.\n\n\u270c\ud83c\udffc\u270c\ud83c\udffc\u270c\ud83c\udffc",
+  "datasetId": 830631,
+  "datasetSlug": "womens-international-football-results",
+  "hasDatasetSlug": true,
+  "ownerUser": "martj42",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23348,
+  "totalVotes": 74,
+  "totalDownloads": 3362,
+  "title": "Women's International Football Results",
+  "hasTitle": true,
+  "subtitle": "An up-to-date dataset of over 7,000 international football results",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a work-in-progress sister data set to the [men's international football results dataset](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017). If you're interested in helping out, submit a pull request [here](https://github.com/martj42/womens-international-results).\n\n### Content\n\nCurrently, the dataset includes **9,148** women's international football results. All major tournament results should be complete. Some international friendlies, particularly tournaments, are included. A LOT of results are not yet in the dataset.\n\n`results.csv` includes the following columns:\n\n* `date` - date of the match\n* `home_team` - the name of the home team\n* `away_team` - the name of the away team\n* `home_score` - full-time home team score including extra time, not including penalty-shootouts\n* `away_score` - full-time away team score including extra time, not including penalty-shootouts\n* `tournament` - the name of the tournament\n* `city` - the name of the city/town/administrative unit where the match was played\n* `country` - the name of the country where the match was played\n* `neutral` - TRUE/FALSE column indicating whether the match was played at a neutral venue\n\n### Acknowledgements\n\nThe data is gathered from several sources including but not limited to Wikipedia, fifa.com, rsssf.com and individual football associations' websites.\n\n### Inspiration\n\nSome directions to take when exploring the data:\n\n - Who is the best team of all time\n - Which teams dominated different eras of football\n - What trends have there been in international football throughout the ages - home advantage, total goals scored, distribution of teams' strength etc\n - Can we say anything about geopolitics from football fixtures - how has the number of countries changed, which teams like to play each other\n - Which countries host the most matches where they themselves are not participating in\n - How much, if at all, does hosting a major tournament help a country's chances in the tournament\n - Which teams are the most active in playing friendlies and friendly tournaments - does it help or hurt them\n\nThe world's your oyster, my friend.\n\n### Contribute\n\nIf you notice a mistake or the results are being updated fast enough for your liking, you can fix that by submitting a pull request on github.\n\n\u270c\ud83c\udffc\u270c\ud83c\udffc\u270c\ud83c\udffc",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "history",
+    "international relations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

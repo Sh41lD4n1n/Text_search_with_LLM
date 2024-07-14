@@ -1,0 +1,40 @@
+{
+  "id": "timoboz/data-science-cheat-sheets",
+  "id_no": 501056,
+  "datasetSlugNullable": "data-science-cheat-sheets",
+  "ownerUserNullable": "timoboz",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Data Science Cheat Sheets",
+  "subtitleNullable": "Quick help to make a data scientist's life easier",
+  "descriptionNullable": "A collection of cheat sheets for various data-science related languages and topics.\n\nTaken from https://github.com/abhat222/Data-Science--Cheat-Sheet\n",
+  "datasetId": 501056,
+  "datasetSlug": "data-science-cheat-sheets",
+  "hasDatasetSlug": true,
+  "ownerUser": "timoboz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 416230,
+  "totalVotes": 5134,
+  "totalDownloads": 64969,
+  "title": "Data Science Cheat Sheets",
+  "hasTitle": true,
+  "subtitle": "Quick help to make a data scientist's life easier",
+  "hasSubtitle": true,
+  "description": "A collection of cheat sheets for various data-science related languages and topics.\n\nTaken from https://github.com/abhat222/Data-Science--Cheat-Sheet\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

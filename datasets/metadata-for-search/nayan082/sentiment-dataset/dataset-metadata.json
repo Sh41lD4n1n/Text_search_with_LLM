@@ -1,0 +1,53 @@
+{
+  "id": "nayan082/sentiment-dataset",
+  "id_no": 1117971,
+  "datasetSlugNullable": "sentiment-dataset",
+  "ownerUserNullable": "nayan082",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Sentiment Dataset",
+  "subtitleNullable": "Twitter dataset (text with emoticon tweets)",
+  "descriptionNullable": "The dataset used in this study is a collection of English tweets downloaded by querying Twitter API. \n\nPrimarily, we used tweepy which is a very useful library to use for collecting data from Twitter using Twitter API. As Twitter API supports language filtering and allows to specify the language of the retrieved posts, we set the optional language parameter in the Twitter Search URL to \u2018en\u2019 to extract English Tweets. \n\nTotal 3085 tweets are collected and labeled into four emotion classes: 1 for sad, 2 for happy, 3 for angry, and 4 for love. ",
+  "datasetId": 1117971,
+  "datasetSlug": "sentiment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nayan082",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2575,
+  "totalVotes": 7,
+  "totalDownloads": 180,
+  "title": "Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "Twitter dataset (text with emoticon tweets)",
+  "hasSubtitle": true,
+  "description": "The dataset used in this study is a collection of English tweets downloaded by querying Twitter API. \n\nPrimarily, we used tweepy which is a very useful library to use for collecting data from Twitter using Twitter API. As Twitter API supports language filtering and allows to specify the language of the retrieved posts, we set the optional language parameter in the Twitter Search URL to \u2018en\u2019 to extract English Tweets. \n\nTotal 3085 tweets are collected and labeled into four emotion classes: 1 for sad, 2 for happy, 3 for angry, and 4 for love. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "neural networks",
+    "lstm",
+    "rnn",
+    "text",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sadmanahmed",
+      "role": "writer"
+    },
+    {
+      "username": "juyana054",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nicholasjhana/energy-consumption-generation-prices-and-weather",
+  "id_no": 376847,
+  "datasetSlugNullable": "energy-consumption-generation-prices-and-weather",
+  "ownerUserNullable": "nicholasjhana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hourly energy demand generation and weather",
+  "subtitleNullable": "Electrical demand, generation by type, prices and weather in Spain",
+  "descriptionNullable": "### Context\nIn a [paper released early 2019](https://arxiv.org/abs/1906.05433), forecasting in energy markets is identified as one of the highest leverage contribution areas of Machine/Deep Learning toward transitioning to a renewable based electrical infrastructure. \n\n### Content\nThis dataset contains 4 years of electrical consumption, generation, pricing, and weather data for Spain. Consumption and generation data was retrieved from [ENTSOE a public portal](https://transparency.entsoe.eu/dashboard/show) for Transmission Service Operator (TSO) data.  Settlement prices were obtained from the Spanish TSO [Red Electric Espa\u00f1a](https://www.esios.ree.es/en/market-and-prices). Weather data was purchased as part of a personal project from the [Open Weather API](https://openweathermap.org/api) for the 5 largest cities in Spain and made public here.\n\n### Acknowledgements\nThis data is publicly available via ENTSOE and REE and may be found in the links above.\n\n### Inspiration\nThe dataset is unique because it contains hourly data for electrical consumption and the respective forecasts by the TSO for consumption and pricing. This allows prospective forecasts to be benchmarked against the current state of the art forecasts being used in industry.\n\n- Visualize the load and marginal supply curves.\n- What weather measurements, and cities influence most the electrical demand, prices, generation capacity?\n- Can we forecast 24 hours in advance better than the TSO?\n- Can we predict electrical price by time of day better than TSO?\n- Forecast intraday price or electrical demand hour-by-hour.\n- What is the next generation source to be activated on the load curve?\n",
+  "datasetId": 376847,
+  "datasetSlug": "energy-consumption-generation-prices-and-weather",
+  "hasDatasetSlug": true,
+  "ownerUser": "nicholasjhana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 177794,
+  "totalVotes": 371,
+  "totalDownloads": 25687,
+  "title": "Hourly energy demand generation and weather",
+  "hasTitle": true,
+  "subtitle": "Electrical demand, generation by type, prices and weather in Spain",
+  "hasSubtitle": true,
+  "description": "### Context\nIn a [paper released early 2019](https://arxiv.org/abs/1906.05433), forecasting in energy markets is identified as one of the highest leverage contribution areas of Machine/Deep Learning toward transitioning to a renewable based electrical infrastructure. \n\n### Content\nThis dataset contains 4 years of electrical consumption, generation, pricing, and weather data for Spain. Consumption and generation data was retrieved from [ENTSOE a public portal](https://transparency.entsoe.eu/dashboard/show) for Transmission Service Operator (TSO) data.  Settlement prices were obtained from the Spanish TSO [Red Electric Espa\u00f1a](https://www.esios.ree.es/en/market-and-prices). Weather data was purchased as part of a personal project from the [Open Weather API](https://openweathermap.org/api) for the 5 largest cities in Spain and made public here.\n\n### Acknowledgements\nThis data is publicly available via ENTSOE and REE and may be found in the links above.\n\n### Inspiration\nThe dataset is unique because it contains hourly data for electrical consumption and the respective forecasts by the TSO for consumption and pricing. This allows prospective forecasts to be benchmarked against the current state of the art forecasts being used in industry.\n\n- Visualize the load and marginal supply curves.\n- What weather measurements, and cities influence most the electrical demand, prices, generation capacity?\n- Can we forecast 24 hours in advance better than the TSO?\n- Can we predict electrical price by time of day better than TSO?\n- Forecast intraday price or electrical demand hour-by-hour.\n- What is the next generation source to be activated on the load curve?\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "business",
+    "energy",
+    "renewable energy",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

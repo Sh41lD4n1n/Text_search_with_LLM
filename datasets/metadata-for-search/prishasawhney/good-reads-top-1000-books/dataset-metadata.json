@@ -1,0 +1,40 @@
+{
+  "id": "prishasawhney/good-reads-top-1000-books",
+  "id_no": 4819741,
+  "datasetSlugNullable": "good-reads-top-1000-books",
+  "ownerUserNullable": "prishasawhney",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Good Reads Dataset (Top 1000 Books)",
+  "subtitleNullable": "Dataset for regression, recommendation systems for beginner level data scientist",
+  "descriptionNullable": "This dataset is scraped from [Good Reads' official website](https://www.goodreads.com/list/show/6675.The_Guardian_s_1000_Novels_Everyone_Must_Read_). It may be used for regression, classification, clustering, designing recommendation systems, etc. It has 5 columns:\n\n1. Book Name - This column holds the name of the book\n2. Author - This column contains the Author of the book\n3. Average Rating - This column specifies the average rating received by the book\n4. Number of Ratings - This column provides the total number of ratings it has received\n5. Score on Goodreads - This column specifies the score of the book on Goodreads\n\nThis dataset may be used for many techniques such as regression (for the target column of Goodreads score), Clustering of different Types of books based on their author, or designing a book recommendation model.\n\nIt is specifically created for beginners to hone their skills as a data scientist.\n\nHappy Kaggling!",
+  "datasetId": 4819741,
+  "datasetSlug": "good-reads-top-1000-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "prishasawhney",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5300,
+  "totalVotes": 88,
+  "totalDownloads": 1106,
+  "title": "Good Reads Dataset (Top 1000 Books)",
+  "hasTitle": true,
+  "subtitle": "Dataset for regression, recommendation systems for beginner level data scientist",
+  "hasSubtitle": true,
+  "description": "This dataset is scraped from [Good Reads' official website](https://www.goodreads.com/list/show/6675.The_Guardian_s_1000_Novels_Everyone_Must_Read_). It may be used for regression, classification, clustering, designing recommendation systems, etc. It has 5 columns:\n\n1. Book Name - This column holds the name of the book\n2. Author - This column contains the Author of the book\n3. Average Rating - This column specifies the average rating received by the book\n4. Number of Ratings - This column provides the total number of ratings it has received\n5. Score on Goodreads - This column specifies the score of the book on Goodreads\n\nThis dataset may be used for many techniques such as regression (for the target column of Goodreads score), Clustering of different Types of books based on their author, or designing a book recommendation model.\n\nIt is specifically created for beginners to hone their skills as a data scientist.\n\nHappy Kaggling!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

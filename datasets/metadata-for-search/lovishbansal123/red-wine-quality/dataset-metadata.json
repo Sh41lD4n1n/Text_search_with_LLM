@@ -1,0 +1,41 @@
+{
+  "id": "lovishbansal123/red-wine-quality",
+  "id_no": 4672475,
+  "datasetSlugNullable": "red-wine-quality",
+  "ownerUserNullable": "lovishbansal123",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Red Wine Quality",
+  "subtitleNullable": "Simple and clean data on Red Wine Quality.",
+  "descriptionNullable": "Input variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\nTips\nWhat might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.\nThis allows you to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.\nWithout doing any kind of feature engineering or overfitting you should be able to get an AUC of .88 (without even using random forest algorithm)\n\nKNIME is a great tool (GUI) that can be used for this.\n1 - File Reader (for csv) to linear correlation node and to interactive histogram for basic EDA.\n2- File Reader to 'Rule Engine Node' to turn the 10 point scale to dichtome variable (good wine and rest), the code to put in the rule engine is something like this:\n\n$quality$ &gt; 6.5 =&gt; \"good\"\nTRUE =&gt; \"bad\"\n\n3- Rule Engine Node output to input of Column Filter node to filter out your original 10point feature (this prevent leaking)\n\n4- Column Filter Node output to input of Partitioning Node (your standard train/tes split, e.g. 75%/25%, choose 'random' or 'stratified')\n\n5- Partitioning Node train data split output to input of Train data split to input Decision Tree Learner node and\n\n6- Partitioning Node test data split output to input Decision Tree predictor Node\n\n7- Decision Tree learner Node output to input Decision Tree Node input\n\n8- Decision Tree output to input ROC Node.. (here you can evaluate your model base on AUC value)\nInspiration\nUse machine learning to determine which physiochemical properties make a wine 'good'!",
+  "datasetId": 4672475,
+  "datasetSlug": "red-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "lovishbansal123",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4804,
+  "totalVotes": 43,
+  "totalDownloads": 926,
+  "title": "Red Wine Quality",
+  "hasTitle": true,
+  "subtitle": "Simple and clean data on Red Wine Quality.",
+  "hasSubtitle": true,
+  "description": "Input variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\nTips\nWhat might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.\nThis allows you to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.\nWithout doing any kind of feature engineering or overfitting you should be able to get an AUC of .88 (without even using random forest algorithm)\n\nKNIME is a great tool (GUI) that can be used for this.\n1 - File Reader (for csv) to linear correlation node and to interactive histogram for basic EDA.\n2- File Reader to 'Rule Engine Node' to turn the 10 point scale to dichtome variable (good wine and rest), the code to put in the rule engine is something like this:\n\n$quality$ &gt; 6.5 =&gt; \"good\"\nTRUE =&gt; \"bad\"\n\n3- Rule Engine Node output to input of Column Filter node to filter out your original 10point feature (this prevent leaking)\n\n4- Column Filter Node output to input of Partitioning Node (your standard train/tes split, e.g. 75%/25%, choose 'random' or 'stratified')\n\n5- Partitioning Node train data split output to input of Train data split to input Decision Tree Learner node and\n\n6- Partitioning Node test data split output to input Decision Tree predictor Node\n\n7- Decision Tree learner Node output to input Decision Tree Node input\n\n8- Decision Tree output to input ROC Node.. (here you can evaluate your model base on AUC value)\nInspiration\nUse machine learning to determine which physiochemical properties make a wine 'good'!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "earth and nature",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

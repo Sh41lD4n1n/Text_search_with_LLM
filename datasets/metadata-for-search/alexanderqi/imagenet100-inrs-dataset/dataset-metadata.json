@@ -1,0 +1,39 @@
+{
+  "id": "alexanderqi/imagenet100-inrs-dataset",
+  "id_no": 5290026,
+  "datasetSlugNullable": "imagenet100-inrs-dataset",
+  "ownerUserNullable": "alexanderqi",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "ImageNet100-INRs-Dataset",
+  "subtitleNullable": "Implicit neural representation of ImageNet100 as part of work Implicit Zoo",
+  "descriptionNullable": "This data is release as part of work of ***[Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes.](https://github.com/qimaqi/Implicit-Zoo)***\nFollowing the standard procedure for ImageNet-1K classification, we resize images to 256x256 and then center crop them to 224x224 for further processing. To better fit the high-res images, we employ a 4-layer 256 width SIREN. The normalization parameters are consistent with those used for CIFAR-10. We increase the training iterations to 3000, each taking 50.24 secs for each image.\n",
+  "datasetId": 5290026,
+  "datasetSlug": "imagenet100-inrs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alexanderqi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "ImageNet100-INRs-Dataset",
+  "hasTitle": true,
+  "subtitle": "Implicit neural representation of ImageNet100 as part of work Implicit Zoo",
+  "hasSubtitle": true,
+  "description": "This data is release as part of work of ***[Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes.](https://github.com/qimaqi/Implicit-Zoo)***\nFollowing the standard procedure for ImageNet-1K classification, we resize images to 256x256 and then center crop them to 224x224 for further processing. To better fit the high-res images, we employ a 4-layer 256 width SIREN. The normalization parameters are consistent with those used for CIFAR-10. We increase the training iterations to 3000, each taking 50.24 secs for each image.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

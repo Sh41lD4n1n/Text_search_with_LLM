@@ -1,0 +1,39 @@
+{
+  "id": "atulkishore/imdb-top-1000-movies",
+  "id_no": 3635739,
+  "datasetSlugNullable": "imdb-top-1000-movies",
+  "ownerUserNullable": "atulkishore",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "IMDB top 1000 movies",
+  "subtitleNullable": "This dataset contains all the IMDb top 1000 movies ",
+  "descriptionNullable": "The IMDb Top 1000 Movies dataset is a treasure trove of information about the most esteemed films in cinematic history. It includes a comprehensive collection of attributes that can fuel numerous insightful analyses and visualizations.\n\nTitle: The title of the movie.\nYear: The year the movie was released.\nRating: The IMDb rating of the movie, reflecting its overall popularity and reception.\nDuration: The runtime of the movie in minutes.\nGenre: The genre(s) to which the movie belongs (e.g., Drama, Action, Adventure).\nIMDb Rank: The rank of the movie within the IMDb Top 1000 list.\nMetascore: The Metascore assigned to the movie, offering a critical review of its quality.\nDirector: The director(s) responsible for bringing the movie to life.\nStars: The lead actors and actresses who play pivotal roles in the movie.\nVotes: The number of user votes the movie has received on IMDb, reflecting its popularity.\nGross: The gross earnings of the movie at the box office or through various distribution channels.\nDescription: A brief synopsis or overview of the movie's plot, theme, or significance.",
+  "datasetId": 3635739,
+  "datasetSlug": "imdb-top-1000-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "atulkishore",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 189,
+  "totalVotes": 2,
+  "totalDownloads": 36,
+  "title": "IMDB top 1000 movies",
+  "hasTitle": true,
+  "subtitle": "This dataset contains all the IMDb top 1000 movies ",
+  "hasSubtitle": true,
+  "description": "The IMDb Top 1000 Movies dataset is a treasure trove of information about the most esteemed films in cinematic history. It includes a comprehensive collection of attributes that can fuel numerous insightful analyses and visualizations.\n\nTitle: The title of the movie.\nYear: The year the movie was released.\nRating: The IMDb rating of the movie, reflecting its overall popularity and reception.\nDuration: The runtime of the movie in minutes.\nGenre: The genre(s) to which the movie belongs (e.g., Drama, Action, Adventure).\nIMDb Rank: The rank of the movie within the IMDb Top 1000 list.\nMetascore: The Metascore assigned to the movie, offering a critical review of its quality.\nDirector: The director(s) responsible for bringing the movie to life.\nStars: The lead actors and actresses who play pivotal roles in the movie.\nVotes: The number of user votes the movie has received on IMDb, reflecting its popularity.\nGross: The gross earnings of the movie at the box office or through various distribution channels.\nDescription: A brief synopsis or overview of the movie's plot, theme, or significance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

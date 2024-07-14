@@ -1,0 +1,42 @@
+{
+  "id": "shelvigarg/wine-quality-dataset",
+  "id_no": 1590501,
+  "datasetSlugNullable": "wine-quality-dataset",
+  "ownerUserNullable": "shelvigarg",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Wine Quality Dataset",
+  "subtitleNullable": "Model the quality of Wine based on physicochemical tests !",
+  "descriptionNullable": "Abstract: Datasets included, related to red and white Vinho Verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], [Web Link: http://www3.dsi.uminho.pt/pcortez/wine/]).\n\n\n- Data Set Characteristics:  Multivariate\n- Number of Instances:4898\n- Area:Business\n- Attribute Characteristics:Real\n- Number of Attributes: 12\n- Date Donated: 2009-10-07\n- Associated Tasks: Classification, Regression\n- Missing Values: N/A\n- Number of Web Hits: 1638261\n\n\nSource:\nPaulo Cortez, University of Minho, Guimar\u00e3es, Portugal, http://www3.dsi.uminho.pt/pcortez\nA. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal\n@2009\n\n\nData Set Information:\nDataset is related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult: [Web Link] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\n\n\nAttribute Information:\n\nFor more information, read [Cortez et al., 2009].\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulfates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\n\nRelevant Papers:\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.\nIn Decision Support Systems, Elsevier, 47(4):547-553, 2009.\n\nAvailable at: http://dx.doi.org/10.1016/j.dss.2009.05.016\n\nCitation Request:\nPlease include this citation if you plan to use this database:\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.\nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.",
+  "datasetId": 1590501,
+  "datasetSlug": "wine-quality-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shelvigarg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 27020,
+  "totalVotes": 28,
+  "totalDownloads": 3709,
+  "title": "Wine Quality Dataset",
+  "hasTitle": true,
+  "subtitle": "Model the quality of Wine based on physicochemical tests !",
+  "hasSubtitle": true,
+  "description": "Abstract: Datasets included, related to red and white Vinho Verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], [Web Link: http://www3.dsi.uminho.pt/pcortez/wine/]).\n\n\n- Data Set Characteristics:  Multivariate\n- Number of Instances:4898\n- Area:Business\n- Attribute Characteristics:Real\n- Number of Attributes: 12\n- Date Donated: 2009-10-07\n- Associated Tasks: Classification, Regression\n- Missing Values: N/A\n- Number of Web Hits: 1638261\n\n\nSource:\nPaulo Cortez, University of Minho, Guimar\u00e3es, Portugal, http://www3.dsi.uminho.pt/pcortez\nA. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal\n@2009\n\n\nData Set Information:\nDataset is related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult: [Web Link] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\n\n\nAttribute Information:\n\nFor more information, read [Cortez et al., 2009].\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulfates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\n\nRelevant Papers:\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.\nIn Decision Support Systems, Elsevier, 47(4):547-553, 2009.\n\nAvailable at: http://dx.doi.org/10.1016/j.dss.2009.05.016\n\nCitation Request:\nPlease include this citation if you plan to use this database:\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.\nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "beginner",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

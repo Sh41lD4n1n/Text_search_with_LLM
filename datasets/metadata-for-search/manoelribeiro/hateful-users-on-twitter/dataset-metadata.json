@@ -1,0 +1,40 @@
+{
+  "id": "manoelribeiro/hateful-users-on-twitter",
+  "id_no": 11835,
+  "datasetSlugNullable": "hateful-users-on-twitter",
+  "ownerUserNullable": "manoelribeiro",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Hateful Users on Twitter",
+  "subtitleNullable": "Detecting hate speech with context",
+  "descriptionNullable": "# Context\n\nThis dataset contains a network of 100k users, out of which ~5k were annotated as hateful or not. \nFor each user, several content-related, network-related and activity related features were provided. \nCheck [this repo](https://github.com/manoelhortaribeiro/HatefulUsersTwitter) for analysis and a straightforward classification approach and [this repo](https://github.com/manoelhortaribeiro/graphsage_hateful_users) where we employed GraphSage, a network embedding method;\n\n*Hint*: Try to use not only the content associated with each user but also Twitter's network structure.\n\n# Content\n\n- `users_anon_neighborhood.csv`  file with several features for each user as well as the avg for some features for their 1-neighborhood (ppl they tweeted). Notice that `c_` are attributes calculated for the 1-neighborhood of a user in the retweet network (averaged out).\n\n- `users_clean.graphml` networkx compatible file with retweet network. User id's correspond to those in  `users_anon_neighborhood.csv`!\n\n\n## For reproducibility purposes\n\nThis are the files used by GraphSage [here](https://github.com/manoelhortaribeiro/graphsage_hateful_users). They come in a special format :); I've added \"_\"\n\n- `_users_(hate|suspended)_(glove|all).content` files with the feature vector for each user and their classes, the ones with `hate` label users as either `hateful`, `normal` or `other`, whereas the ones with `suspended` label users as either `suspended` or active. The ones with `glove` have only the glove vectors as features, the ones with `all` have other attributes related to users activity and network centrality. This is only for the GraphSage algorithm.\n\n- `_user.edges` file with all the (directed) edges in the retweet graph.\n\n# Attributes description\n\n      hate :(\"hateful\"|\"normal\"|\"other\")\n      if user was annotated as hateful, normal, or not annotated.\n      \n      (is_50|is_50_2) :bool\n      whether user was deleted up to 12/12/17 or 14/01/18. \n      \n      (is_63|is_63_2) :bool\n      whether user was suspended up to 12/12/17 or 14/01/18. \n            \n      (hate|normal)_neigh :bool\n      is the user on the neighborhood of a (hateful|normal) user? \n      \n      [c_] (statuses|follower|followees|favorites)_count :int\n      number of (tweets|follower|followees|favorites) a user has.\n      \n      [c_] listed_count:int\n      number of lists a user is in.\n        \n      [c_] (betweenness|eigenvector|in_degree|outdegree) :float\n      centrality measurements for each user in the retweet graph.\n      \n      [c_] *_empath :float\n      occurrences of empath categories in the users latest 200 tweets.\n      \n      [c_] *_glove :float          \n      glove vector calculated for users latest 200 tweets.\n      \n      [c_] (sentiment|subjectivity) :float\n      average sentiment and subjectivity of users tweets.\n      \n      [c_] (time_diff|time_diff_median) :float\n      average and median time difference between tweets.\n      \n      [c_] (tweet|retweet|quote) number :float\n      percentage of direct tweets, retweets and quotes of an user.\n      \n      [c_] (number urls|number hashtags|baddies|mentions) :float\n      number of bad words|mentions|urls|hashtags per tweet in average.\n      \n      [c_] status length :float\n      average status length.\n      \n      hashtags :string\n      all hashtags employed by the user separated by spaces.\n\n",
+  "datasetId": 11835,
+  "datasetSlug": "hateful-users-on-twitter",
+  "hasDatasetSlug": true,
+  "ownerUser": "manoelribeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 38756,
+  "totalVotes": 88,
+  "totalDownloads": 2738,
+  "title": "Hateful Users on Twitter",
+  "hasTitle": true,
+  "subtitle": "Detecting hate speech with context",
+  "hasSubtitle": true,
+  "description": "# Context\n\nThis dataset contains a network of 100k users, out of which ~5k were annotated as hateful or not. \nFor each user, several content-related, network-related and activity related features were provided. \nCheck [this repo](https://github.com/manoelhortaribeiro/HatefulUsersTwitter) for analysis and a straightforward classification approach and [this repo](https://github.com/manoelhortaribeiro/graphsage_hateful_users) where we employed GraphSage, a network embedding method;\n\n*Hint*: Try to use not only the content associated with each user but also Twitter's network structure.\n\n# Content\n\n- `users_anon_neighborhood.csv`  file with several features for each user as well as the avg for some features for their 1-neighborhood (ppl they tweeted). Notice that `c_` are attributes calculated for the 1-neighborhood of a user in the retweet network (averaged out).\n\n- `users_clean.graphml` networkx compatible file with retweet network. User id's correspond to those in  `users_anon_neighborhood.csv`!\n\n\n## For reproducibility purposes\n\nThis are the files used by GraphSage [here](https://github.com/manoelhortaribeiro/graphsage_hateful_users). They come in a special format :); I've added \"_\"\n\n- `_users_(hate|suspended)_(glove|all).content` files with the feature vector for each user and their classes, the ones with `hate` label users as either `hateful`, `normal` or `other`, whereas the ones with `suspended` label users as either `suspended` or active. The ones with `glove` have only the glove vectors as features, the ones with `all` have other attributes related to users activity and network centrality. This is only for the GraphSage algorithm.\n\n- `_user.edges` file with all the (directed) edges in the retweet graph.\n\n# Attributes description\n\n      hate :(\"hateful\"|\"normal\"|\"other\")\n      if user was annotated as hateful, normal, or not annotated.\n      \n      (is_50|is_50_2) :bool\n      whether user was deleted up to 12/12/17 or 14/01/18. \n      \n      (is_63|is_63_2) :bool\n      whether user was suspended up to 12/12/17 or 14/01/18. \n            \n      (hate|normal)_neigh :bool\n      is the user on the neighborhood of a (hateful|normal) user? \n      \n      [c_] (statuses|follower|followees|favorites)_count :int\n      number of (tweets|follower|followees|favorites) a user has.\n      \n      [c_] listed_count:int\n      number of lists a user is in.\n        \n      [c_] (betweenness|eigenvector|in_degree|outdegree) :float\n      centrality measurements for each user in the retweet graph.\n      \n      [c_] *_empath :float\n      occurrences of empath categories in the users latest 200 tweets.\n      \n      [c_] *_glove :float          \n      glove vector calculated for users latest 200 tweets.\n      \n      [c_] (sentiment|subjectivity) :float\n      average sentiment and subjectivity of users tweets.\n      \n      [c_] (time_diff|time_diff_median) :float\n      average and median time difference between tweets.\n      \n      [c_] (tweet|retweet|quote) number :float\n      percentage of direct tweets, retweets and quotes of an user.\n      \n      [c_] (number urls|number hashtags|baddies|mentions) :float\n      number of bad words|mentions|urls|hashtags per tweet in average.\n      \n      [c_] status length :float\n      average status length.\n      \n      hashtags :string\n      all hashtags employed by the user separated by spaces.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

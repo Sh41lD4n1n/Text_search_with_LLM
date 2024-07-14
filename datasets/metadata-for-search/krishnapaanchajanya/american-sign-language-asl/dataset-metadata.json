@@ -1,0 +1,60 @@
+{
+  "id": "krishnapaanchajanya/american-sign-language-asl",
+  "id_no": 2761071,
+  "datasetSlugNullable": "american-sign-language-asl",
+  "ownerUserNullable": "krishnapaanchajanya",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "American Sign Language (ASL)",
+  "subtitleNullable": "ASL Recognition Dataset available in Crude, Adaptive Threshold & Canny Edge form",
+  "descriptionNullable": "Various sign-language datasets are available open-source for hand-gesture recognition researchers. These databases differ in size, format, and illumination conditions. Our team has contributed to preparing an American sign language dataset available in \nthree forms i.e., the non-preprocessed form, with adaptive threshold application, and with canny edge detection application. We have prepared an extensive dataset of American sign language hand gestures with respect to illumination conditions, angles, \nand distance from the camera in order to obtain more accuracy.\n\n**ASL Dataset in the Non-Preprocessed form**\n\nThis dataset has been prepared by 5 members of our team. We have captured 60 photographs of each gesture (26 alphabets and blank) made by each individual thereby preparing a dataset consisting of 60 x 5 x (26+1) = 8100 images. We have allocated 6480 of the gestures to the training set and 1620 to the validation set. The dataset includes pictures of hand gestures at different distances from the camera and in different illumination conditions.\n\n**ASL Dataset after applying Adaptive Threshold**\n\nThis dataset has been prepared by 5 members of our team. We have captured 60 photographs of each gesture (26 alphabets and blank) made by each individual thereby preparing a dataset consisting of 60 x 5 x (26+1) = 8100 images. We then applied the adaptive threshold preprocessing technique on each of the images in addition to a Gaussian Blur to highlight the edges in every gesture. We have allocated 6480 of the preprocessed gestures to the training set and 1620 to the validation set. The dataset includes pictures of hand gestures at different distances from the camera.\n\n**ASL Dataset after applying Canny Edge Detection**\n\nThis dataset has been prepared by 5 members of our team. We have captured 60 photographs of each gesture (26 alphabets and blank) made by each individual thereby preparing a dataset consisting of 60 x 5 x (26+1) = 8100 images. We then applied the Canny Edge Detection preprocessing technique on each of the images. We have allocated 6480 of the preprocessed gestures to the training set and 1620 to the validation set. The dataset includes pictures of hand gestures at different distances from the camera.",
+  "datasetId": 2761071,
+  "datasetSlug": "american-sign-language-asl",
+  "hasDatasetSlug": true,
+  "ownerUser": "krishnapaanchajanya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2171,
+  "totalVotes": 3,
+  "totalDownloads": 275,
+  "title": "American Sign Language (ASL)",
+  "hasTitle": true,
+  "subtitle": "ASL Recognition Dataset available in Crude, Adaptive Threshold & Canny Edge form",
+  "hasSubtitle": true,
+  "description": "Various sign-language datasets are available open-source for hand-gesture recognition researchers. These databases differ in size, format, and illumination conditions. Our team has contributed to preparing an American sign language dataset available in \nthree forms i.e., the non-preprocessed form, with adaptive threshold application, and with canny edge detection application. We have prepared an extensive dataset of American sign language hand gestures with respect to illumination conditions, angles, \nand distance from the camera in order to obtain more accuracy.\n\n**ASL Dataset in the Non-Preprocessed form**\n\nThis dataset has been prepared by 5 members of our team. We have captured 60 photographs of each gesture (26 alphabets and blank) made by each individual thereby preparing a dataset consisting of 60 x 5 x (26+1) = 8100 images. We have allocated 6480 of the gestures to the training set and 1620 to the validation set. The dataset includes pictures of hand gestures at different distances from the camera and in different illumination conditions.\n\n**ASL Dataset after applying Adaptive Threshold**\n\nThis dataset has been prepared by 5 members of our team. We have captured 60 photographs of each gesture (26 alphabets and blank) made by each individual thereby preparing a dataset consisting of 60 x 5 x (26+1) = 8100 images. We then applied the adaptive threshold preprocessing technique on each of the images in addition to a Gaussian Blur to highlight the edges in every gesture. We have allocated 6480 of the preprocessed gestures to the training set and 1620 to the validation set. The dataset includes pictures of hand gestures at different distances from the camera.\n\n**ASL Dataset after applying Canny Edge Detection**\n\nThis dataset has been prepared by 5 members of our team. We have captured 60 photographs of each gesture (26 alphabets and blank) made by each individual thereby preparing a dataset consisting of 60 x 5 x (26+1) = 8100 images. We then applied the Canny Edge Detection preprocessing technique on each of the images. We have allocated 6480 of the preprocessed gestures to the training set and 1620 to the validation set. The dataset includes pictures of hand gestures at different distances from the camera.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "multiclass classification",
+    "health conditions",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "manojsahith",
+      "role": "writer"
+    },
+    {
+      "username": "santeswarkilladi",
+      "role": "writer"
+    },
+    {
+      "username": "karthiksajjan",
+      "role": "writer"
+    },
+    {
+      "username": "karusaladeepak",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

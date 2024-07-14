@@ -1,0 +1,43 @@
+{
+  "id": "bhavikjikadara/fake-news-detection",
+  "id_no": 4180521,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "bhavikjikadara",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fake News Detection",
+  "subtitleNullable": "Fake news detection is a process that involves analyzing news.",
+  "descriptionNullable": "**Fake news detection** is a process that involves analyzing news content to determine its truthfulness. It is a subtask of text classification, and is defined as the task of classifying news as **real or fake**.\n\nGitHub Link : https://github.com/Bhavik-Jikadara/Fake-News-Detection",
+  "datasetId": 4180521,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavikjikadara",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24597,
+  "totalVotes": 64,
+  "totalDownloads": 4041,
+  "title": "Fake News Detection",
+  "hasTitle": true,
+  "subtitle": "Fake news detection is a process that involves analyzing news.",
+  "hasSubtitle": true,
+  "description": "**Fake news detection** is a process that involves analyzing news content to determine its truthfulness. It is a subtask of text classification, and is defined as the task of classifying news as **real or fake**.\n\nGitHub Link : https://github.com/Bhavik-Jikadara/Fake-News-Detection",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "tabular",
+    "binary classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "kalilurrahman/netflix-stock-data-live-and-latest",
+  "id_no": 1612616,
+  "datasetSlugNullable": "netflix-stock-data-live-and-latest",
+  "ownerUserNullable": "kalilurrahman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Netflix Stock Data - Live and Latest",
+  "subtitleNullable": "Regular Updates from Yahoo! Finance Downloaded data",
+  "descriptionNullable": "![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/340px-Netflix_2015_logo.svg.png)\n\n###### Source: Wikipedia\nNetflix, Inc. is an American over-the-top media service and original programming production company. It offers subscription-based video on demand from a library of films and television series, 40% of which is Netflix original programming produced in-house. Netflix has also played a prominent role in independent film distribution. As of July 2021, Netflix had 209 million subscribers, including 72 million in the United States and Canada. \n\nNetflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. Netflix's initial business model included DVD sales and rental by mail.\n\nThe company is ranked 164th on the Fortune 500[11] and 284th on the Forbes Global 2000. It is the largest entertainment/media company by market capitalization. In 2021, Netflix was ranked as the 8th most trusted brand globally by Morning Consult. During the 2010s decade, Netflix was the top-performing stock in the S&P 500 stock market index, with a total return of 3,693%.\n\n### Context\n\nNetflix is a booming stock.  Netflix stock Analysis will be a great eye-treat.\n\n### Content\n\nDownloaded using a python script, the source is gathered through Yahoo! Finance API\n",
+  "datasetId": 1612616,
+  "datasetSlug": "netflix-stock-data-live-and-latest",
+  "hasDatasetSlug": true,
+  "ownerUser": "kalilurrahman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 28736,
+  "totalVotes": 80,
+  "totalDownloads": 2933,
+  "title": "Netflix Stock Data - Live and Latest",
+  "hasTitle": true,
+  "subtitle": "Regular Updates from Yahoo! Finance Downloaded data",
+  "hasSubtitle": true,
+  "description": "![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/340px-Netflix_2015_logo.svg.png)\n\n###### Source: Wikipedia\nNetflix, Inc. is an American over-the-top media service and original programming production company. It offers subscription-based video on demand from a library of films and television series, 40% of which is Netflix original programming produced in-house. Netflix has also played a prominent role in independent film distribution. As of July 2021, Netflix had 209 million subscribers, including 72 million in the United States and Canada. \n\nNetflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. Netflix's initial business model included DVD sales and rental by mail.\n\nThe company is ranked 164th on the Fortune 500[11] and 284th on the Forbes Global 2000. It is the largest entertainment/media company by market capitalization. In 2021, Netflix was ranked as the 8th most trusted brand globally by Morning Consult. During the 2010s decade, Netflix was the top-performing stock in the S&P 500 stock market index, with a total return of 3,693%.\n\n### Context\n\nNetflix is a booming stock.  Netflix stock Analysis will be a great eye-treat.\n\n### Content\n\nDownloaded using a python script, the source is gathered through Yahoo! Finance API\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "computer science",
+    "programming",
+    "data visualization",
+    "time series analysis",
+    "linear regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

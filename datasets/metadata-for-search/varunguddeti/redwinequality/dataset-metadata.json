@@ -1,0 +1,39 @@
+{
+  "id": "varunguddeti/redwinequality",
+  "id_no": 1382229,
+  "datasetSlugNullable": "redwinequality",
+  "ownerUserNullable": "varunguddeti",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Red-Wine-Quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1382229,
+  "datasetSlug": "redwinequality",
+  "hasDatasetSlug": true,
+  "ownerUser": "varunguddeti",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 1278,
+  "totalVotes": 1,
+  "totalDownloads": 14,
+  "title": "Red-Wine-Quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

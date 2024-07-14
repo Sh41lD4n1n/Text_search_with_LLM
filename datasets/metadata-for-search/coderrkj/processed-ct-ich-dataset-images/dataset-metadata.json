@@ -1,0 +1,43 @@
+{
+  "id": "coderrkj/processed-ct-ich-dataset-images",
+  "id_no": 3230688,
+  "datasetSlugNullable": "processed-ct-ich-dataset-images",
+  "ownerUserNullable": "coderrkj",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Processed CT ICH Dataset Images",
+  "subtitleNullable": "The final images and masks obtained after processing Physionet Dataset",
+  "descriptionNullable": "This dataset is the processed version of the original dataset available at [Computed Tomography Images for Intracranial Hemorrhage Detection and Segmentation](https://physionet.org/content/ct-ich/1.3.1/). The `split_raw_data.py` provided by the original dataset author has been modified for updated libraries and Python 3.11. `ct_ich.yml` is also updated to reflect the same to get the environment where the data was processed.\n\nThe data present in `image` and `label` folders are in 512 x 512 grayscale PNG files. There are 2814 pairs of image and segmentation mask respectively.\n\nOriginal DOI for this data: https://doi.org/10.13026/4nae-zg36\n\nLicense: The PhysioNet Restricted Health Data License\nVersion 1.5.0\nMake sure to sign in to your Physionet account and agree to the the terms and conditions of the [original dataset](https://physionet.org/content/ct-ich/1.3.1/) to use this medical dataset.",
+  "datasetId": 3230688,
+  "datasetSlug": "processed-ct-ich-dataset-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "coderrkj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 712,
+  "totalVotes": 0,
+  "totalDownloads": 62,
+  "title": "Processed CT ICH Dataset Images",
+  "hasTitle": true,
+  "subtitle": "The final images and masks obtained after processing Physionet Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset is the processed version of the original dataset available at [Computed Tomography Images for Intracranial Hemorrhage Detection and Segmentation](https://physionet.org/content/ct-ich/1.3.1/). The `split_raw_data.py` provided by the original dataset author has been modified for updated libraries and Python 3.11. `ct_ich.yml` is also updated to reflect the same to get the environment where the data was processed.\n\nThe data present in `image` and `label` folders are in 512 x 512 grayscale PNG files. There are 2814 pairs of image and segmentation mask respectively.\n\nOriginal DOI for this data: https://doi.org/10.13026/4nae-zg36\n\nLicense: The PhysioNet Restricted Health Data License\nVersion 1.5.0\nMake sure to sign in to your Physionet account and agree to the the terms and conditions of the [original dataset](https://physionet.org/content/ct-ich/1.3.1/) to use this medical dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "computer science",
+    "programming",
+    "health conditions",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

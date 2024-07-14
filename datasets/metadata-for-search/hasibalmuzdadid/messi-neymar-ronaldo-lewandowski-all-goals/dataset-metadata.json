@@ -1,0 +1,43 @@
+{
+  "id": "hasibalmuzdadid/messi-neymar-ronaldo-lewandowski-all-goals",
+  "id_no": 2506082,
+  "datasetSlugNullable": "messi-neymar-ronaldo-lewandowski-all-goals",
+  "ownerUserNullable": "hasibalmuzdadid",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Messi, Neymar, Ronaldo, Lewandowski All Goals ",
+  "subtitleNullable": "Contains all club goals stats of Messi, Neymar, Ronaldo and Lewandowski ",
+  "descriptionNullable": "## Context\nThis dataset contains all the club goals records of Messi, Neymar, Ronaldo and Lewndowski from the beginning to date. It can be used for exploratory data analysis, data visualization etc. \n\n**This dataset will be updated weekly\u23f0**\n\n## Content\nThere are four datafiles here.\n\n### lewandowski.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n### messi.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n### neymar.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n### ronaldo.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n## Acknowledgement\nAll the stats are collected from [transfermarkt](https://www.transfermarkt.com/) using web scraping. They were slightly preprocessed before publishing. ",
+  "datasetId": 2506082,
+  "datasetSlug": "messi-neymar-ronaldo-lewandowski-all-goals",
+  "hasDatasetSlug": true,
+  "ownerUser": "hasibalmuzdadid",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7617,
+  "totalVotes": 101,
+  "totalDownloads": 1547,
+  "title": "Messi, Neymar, Ronaldo, Lewandowski All Goals ",
+  "hasTitle": true,
+  "subtitle": "Contains all club goals stats of Messi, Neymar, Ronaldo and Lewandowski ",
+  "hasSubtitle": true,
+  "description": "## Context\nThis dataset contains all the club goals records of Messi, Neymar, Ronaldo and Lewndowski from the beginning to date. It can be used for exploratory data analysis, data visualization etc. \n\n**This dataset will be updated weekly\u23f0**\n\n## Content\nThere are four datafiles here.\n\n### lewandowski.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n### messi.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n### neymar.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n### ronaldo.csv\n- **Tournament :** Name of the tournament\n- **Matchday :** Day number of the tournament or knockout stage\n- **Date :** Date of the match\n- **Venue :** Home venue / Away venue\n- **Club :** Played for the club\n- **Opponent :** Opponent club\n- **Result :** Final scorecard of the game. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Position :** Playing position\n- **Minute :** Match time when the goal was scored\n- **When Scored :** Scorecard when the goal was scored. If home match scorecard is in **Playing club : Opponent club** format, If away match scorecard is in **Opponent club : Playing club** format\n- **Goal Type :** Type of the goal\n- **Assist :** Who assisted the goal\n\n## Acknowledgement\nAll the stats are collected from [transfermarkt](https://www.transfermarkt.com/) using web scraping. They were slightly preprocessed before publishing. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "exploratory data analysis",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

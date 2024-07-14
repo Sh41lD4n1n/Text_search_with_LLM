@@ -1,0 +1,40 @@
+{
+  "id": "/happydb",
+  "id_no": 9532,
+  "datasetSlugNullable": "happydb",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "HappyDB",
+  "subtitleNullable": "A Corpus of 100,000 Crowdsourced Happy Moments",
+  "descriptionNullable": "## Description:\nHappyDB is a corpus of more than 100,000 happy moments crowd-sourced via Amazon\u2019s Mechanical Turk.\n\n> Each worker is given the following task:\nWhat made you happy today? Reflect on the past 24 hours, and recall three actual events that happened to you that made you happy. Write down your happy moment in a complete sentence.\n(Write three such moments.)\n\nThe goal of the corpus is to advance the understanding of the causes of happiness through text-based reflection.\n\nMore information is available on the HappyDB website (https://rit-public.github.io/HappyDB/).\n\n## Content:\n\n- *cleaned\\_hm.csv:* the cleaned-up corpus of 100,000 crowd-sourced happy moments.\nFor cleaning up, we have done spell checking over the whole corpus, and remove empty or one-word statements.\nThe raw happy moments are retained for reference, and the author of each happy\nmoment is represented by the his/her worker ID.\n\n- *demographic.csv:* the demographic information of the worker who provided the\nmoment. \nThe information includes worker id, age, country, gender, marital status, and\nstatus of parenthood.\n\nHave fun with the data!\nFeel free to contact us with any questions.\n\n## Sample questions:\nTo provide some inspiration, here are a few sample interesting exploration questions.\n\n- What are the popular sports/movies/books/purchased products/tourist destinations/... that make people happy?\n- Can we predict gender/marriage status/parenthood/age groups based on happy moment texts?\n- How many indoor and outdoor activities are in the corpus respectively?\n- Can we find interesting ways of clustering happy moments?\n\n## Citation:\nPlease cite the following publication if you are using the dataset for your work: \n\n*HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments, LREC 2018 (to appear)* \n\nAkari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei\nLopatenko, Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan and Yinzhan Xu",
+  "datasetId": 9532,
+  "datasetSlug": "happydb",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 55136,
+  "totalVotes": 85,
+  "totalDownloads": 5678,
+  "title": "HappyDB",
+  "hasTitle": true,
+  "subtitle": "A Corpus of 100,000 Crowdsourced Happy Moments",
+  "hasSubtitle": true,
+  "description": "## Description:\nHappyDB is a corpus of more than 100,000 happy moments crowd-sourced via Amazon\u2019s Mechanical Turk.\n\n> Each worker is given the following task:\nWhat made you happy today? Reflect on the past 24 hours, and recall three actual events that happened to you that made you happy. Write down your happy moment in a complete sentence.\n(Write three such moments.)\n\nThe goal of the corpus is to advance the understanding of the causes of happiness through text-based reflection.\n\nMore information is available on the HappyDB website (https://rit-public.github.io/HappyDB/).\n\n## Content:\n\n- *cleaned\\_hm.csv:* the cleaned-up corpus of 100,000 crowd-sourced happy moments.\nFor cleaning up, we have done spell checking over the whole corpus, and remove empty or one-word statements.\nThe raw happy moments are retained for reference, and the author of each happy\nmoment is represented by the his/her worker ID.\n\n- *demographic.csv:* the demographic information of the worker who provided the\nmoment. \nThe information includes worker id, age, country, gender, marital status, and\nstatus of parenthood.\n\nHave fun with the data!\nFeel free to contact us with any questions.\n\n## Sample questions:\nTo provide some inspiration, here are a few sample interesting exploration questions.\n\n- What are the popular sports/movies/books/purchased products/tourist destinations/... that make people happy?\n- Can we predict gender/marriage status/parenthood/age groups based on happy moment texts?\n- How many indoor and outdoor activities are in the corpus respectively?\n- Can we find interesting ways of clustering happy moments?\n\n## Citation:\nPlease cite the following publication if you are using the dataset for your work: \n\n*HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments, LREC 2018 (to appear)* \n\nAkari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei\nLopatenko, Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan and Yinzhan Xu",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "linguistics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

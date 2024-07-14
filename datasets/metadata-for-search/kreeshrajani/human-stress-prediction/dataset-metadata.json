@@ -1,0 +1,43 @@
+{
+  "id": "kreeshrajani/human-stress-prediction",
+  "id_no": 2961947,
+  "datasetSlugNullable": "human-stress-prediction",
+  "ownerUserNullable": "kreeshrajani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Human Stress Prediction",
+  "subtitleNullable": "Insights from Speech-based Human Stress Dataset",
+  "descriptionNullable": "\u201csubreddit \u2013 post_id \u2013 sentence_range \u2013 text-label-confidence-social_timestamp\u201d represents the titles for Stress.csv file.\n\nStress detection is a challenging task, as there are so many words that can be used by people on their posts that can show whether a person is having psychological stress or not. look for datasets that you can use to train a machine learning model for stress detection.\n\nThe dataset contains data posted on subreddits related to mental health. This dataset contains various mental health problems shared by people about their life. Fortunately, this dataset is labelled as 0 and 1, where 0 indicates no stress and 1 indicates stress. ",
+  "datasetId": 2961947,
+  "datasetSlug": "human-stress-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "kreeshrajani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 46506,
+  "totalVotes": 58,
+  "totalDownloads": 6255,
+  "title": "Human Stress Prediction",
+  "hasTitle": true,
+  "subtitle": "Insights from Speech-based Human Stress Dataset",
+  "hasSubtitle": true,
+  "description": "\u201csubreddit \u2013 post_id \u2013 sentence_range \u2013 text-label-confidence-social_timestamp\u201d represents the titles for Stress.csv file.\n\nStress detection is a challenging task, as there are so many words that can be used by people on their posts that can show whether a person is having psychological stress or not. look for datasets that you can use to train a machine learning model for stress detection.\n\nThe dataset contains data posted on subreddits related to mental health. This dataset contains various mental health problems shared by people about their life. Fortunately, this dataset is labelled as 0 and 1, where 0 indicates no stress and 1 indicates stress. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "nlp",
+    "data analytics",
+    "naive bayes",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

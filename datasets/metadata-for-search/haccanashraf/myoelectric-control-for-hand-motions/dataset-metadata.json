@@ -1,0 +1,40 @@
+{
+  "id": "haccanashraf/myoelectric-control-for-hand-motions",
+  "id_no": 3935643,
+  "datasetSlugNullable": "myoelectric-control-for-hand-motions",
+  "ownerUserNullable": "haccanashraf",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Myoelectric Control for Hand Motions",
+  "subtitleNullable": "Myoelectric Control for Hand Motions with Myo Armband",
+  "descriptionNullable": "This dataset comprises surface electromyography (sEMG) recordings acquired for myoelectric control applications. Collected using the Myo Armband device, the dataset encompasses ten distinct hand motion classes. These recordings serve as a valuable resource for researchers and practitioners in the fields of biomedical signal processing, machine learning, and human-computer interaction. The dataset's accessibility and diversity make it suitable for training, testing, and optimizing sEMG-based hand gesture recognition algorithms. By sharing this dataset, we aim to foster advancements in myoelectric control technologies and contribute to the development of more intuitive and efficient human-machine interfaces.",
+  "datasetId": 3935643,
+  "datasetSlug": "myoelectric-control-for-hand-motions",
+  "hasDatasetSlug": true,
+  "ownerUser": "haccanashraf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 237,
+  "totalVotes": 1,
+  "totalDownloads": 30,
+  "title": "Myoelectric Control for Hand Motions",
+  "hasTitle": true,
+  "subtitle": "Myoelectric Control for Hand Motions with Myo Armband",
+  "hasSubtitle": true,
+  "description": "This dataset comprises surface electromyography (sEMG) recordings acquired for myoelectric control applications. Collected using the Myo Armband device, the dataset encompasses ten distinct hand motion classes. These recordings serve as a valuable resource for researchers and practitioners in the fields of biomedical signal processing, machine learning, and human-computer interaction. The dataset's accessibility and diversity make it suitable for training, testing, and optimizing sEMG-based hand gesture recognition algorithms. By sharing this dataset, we aim to foster advancements in myoelectric control technologies and contribute to the development of more intuitive and efficient human-machine interfaces.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

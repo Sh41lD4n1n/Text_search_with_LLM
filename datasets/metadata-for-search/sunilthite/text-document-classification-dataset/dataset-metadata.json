@@ -1,0 +1,43 @@
+{
+  "id": "sunilthite/text-document-classification-dataset",
+  "id_no": 4107678,
+  "datasetSlugNullable": "text-document-classification-dataset",
+  "ownerUserNullable": "sunilthite",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Text Document Classification Dataset",
+  "subtitleNullable": "Text Document Classification Dataset for Classification and Clustering ",
+  "descriptionNullable": "This is text document classification dataset which contains 2225 text data and five categories of documents. Five categories are  politics, sport, tech, entertainment and  business. We can use this dataset for documents classification and document clustering.\n\n**About Dataset**\n- Dataset contains two features text and label.\n- No. of Rows : 2225\n- No. of Columns : 2\n\n**Text:** It contains different categories of text data\n**Label:** It contains labels for five different categories : 0,1,2,3,4\n\n1.  Politics = 0\n2. Sport  =  1\n3. Technology  = 2 \n4. Entertainment  =3\n5. Business = 4\n ",
+  "datasetId": 4107678,
+  "datasetSlug": "text-document-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sunilthite",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 10452,
+  "totalVotes": 32,
+  "totalDownloads": 1934,
+  "title": "Text Document Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Text Document Classification Dataset for Classification and Clustering ",
+  "hasSubtitle": true,
+  "description": "This is text document classification dataset which contains 2225 text data and five categories of documents. Five categories are  politics, sport, tech, entertainment and  business. We can use this dataset for documents classification and document clustering.\n\n**About Dataset**\n- Dataset contains two features text and label.\n- No. of Rows : 2225\n- No. of Columns : 2\n\n**Text:** It contains different categories of text data\n**Label:** It contains labels for five different categories : 0,1,2,3,4\n\n1.  Politics = 0\n2. Sport  =  1\n3. Technology  = 2 \n4. Entertainment  =3\n5. Business = 4\n ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "software",
+    "text",
+    "news",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

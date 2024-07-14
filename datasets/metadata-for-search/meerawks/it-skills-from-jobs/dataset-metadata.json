@@ -1,0 +1,44 @@
+{
+  "id": "meerawks/it-skills-from-jobs",
+  "id_no": 5292096,
+  "datasetSlugNullable": "it-skills-from-jobs",
+  "ownerUserNullable": "meerawks",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "IT Skills from Jobs",
+  "subtitleNullable": "Extract IT skills from Job Descriptions",
+  "descriptionNullable": "Dataset of Job descriptions and relevant IT skills, soft skills, education and experience required for the job. \nHard skills include IT keywords from job descriptions. It can be used to train LLM models to extract skills from various IT specific job descriptions",
+  "datasetId": 5292096,
+  "datasetSlug": "it-skills-from-jobs",
+  "hasDatasetSlug": true,
+  "ownerUser": "meerawks",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "IT Skills from Jobs",
+  "hasTitle": true,
+  "subtitle": "Extract IT skills from Job Descriptions",
+  "hasSubtitle": true,
+  "description": "Dataset of Job descriptions and relevant IT skills, soft skills, education and experience required for the job. \nHard skills include IT keywords from job descriptions. It can be used to train LLM models to extract skills from various IT specific job descriptions",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "nlp",
+    "text",
+    "text classification",
+    "bert"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

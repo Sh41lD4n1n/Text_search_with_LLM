@@ -1,0 +1,43 @@
+{
+  "id": "jorgeborja/open-library-books-api-12k",
+  "id_no": 5231080,
+  "datasetSlugNullable": "open-library-books-api-12k",
+  "ownerUserNullable": "jorgeborja",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Open Library Books API - 12k",
+  "subtitleNullable": "Open Library Books API with more than 12k book registers!",
+  "descriptionNullable": "This is a database taken from the open library api. It can be used to perform different types of analysis such as: visual analysis; recommendation analysis; machine learning; among others. \n\nThe initial objective of taking this data is to use it in the application I am developing called LitRecs (literature recommendations). Now that I have obtained this data, and given that it is something initial, I have decided to share because it is very difficult to find databases related to books that are complete in information.",
+  "datasetId": 5231080,
+  "datasetSlug": "open-library-books-api-12k",
+  "hasDatasetSlug": true,
+  "ownerUser": "jorgeborja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 25,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Open Library Books API - 12k",
+  "hasTitle": true,
+  "subtitle": "Open Library Books API with more than 12k book registers!",
+  "hasSubtitle": true,
+  "description": "This is a database taken from the open library api. It can be used to perform different types of analysis such as: visual analysis; recommendation analysis; machine learning; among others. \n\nThe initial objective of taking this data is to use it in the application I am developing called LitRecs (literature recommendations). Now that I have obtained this data, and given that it is something initial, I have decided to share because it is very difficult to find databases related to books that are complete in information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "data visualization",
+    "deep learning",
+    "recommender systems",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

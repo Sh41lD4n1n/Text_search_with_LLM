@@ -1,0 +1,43 @@
+{
+  "id": "stevenpeutz/misinformation-fake-news-text-dataset-79k",
+  "id_no": 2156456,
+  "datasetSlugNullable": "misinformation-fake-news-text-dataset-79k",
+  "ownerUserNullable": "stevenpeutz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Misinformation & Fake News text dataset 79k",
+  "subtitleNullable": "A 79000 article set ready for a misinformation classification!",
+  "descriptionNullable": "# Misinformation, fake news & propaganda data set\n\nA dataset containing 79k articles of misinformation, fake news and propaganda.\n- 34975 'true' articles. --&gt; MisinfoSuperset_TRUE.csv\n- 43642 articles of misinfo, fake news or propaganda --&gt; MisinfoSuperset_FAKE.csv\n\nThe 'true' articles comes from a variety of sources, such as *Reuters*, *the New York TImes*, *the Washington Post* and more.\n\nThe 'fake' articles are sourced from:\n1. American right wing extremist websites (such as *Redflag Newsdesk, Beitbart, Truth Broadcast Network*)\n2. A previously made public dataset described in the following article:\nAhmed H, Traore I, Saad S. (2017) \u201cDetection of Online Fake News Using N-Gram Analysis and Machine Learning Techniques. In: Traore I., Woungang I., Awad A. (eds) Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments. ISDDC 2017. Lecture Notes in Computer Science, vol 10618. Springer, Cham (pp. 127-138).\n3. Disinformation and propaganda cases collected by the EUvsDisinfo project. A project started in 2015 that identifies and fact checks disinformation cases originating from pro-Kremlin media that are spread across the EU.\n\nThe articles have all information except the actual text removed and are split up into a set with all the fake news / misinformation, and one with al the true articles.\n\n// For those only interested in Russian propaganda (and not so much misinformation in general), I have added the Russian propaganda in a separate csv called 'EXTRA_RussianPropagandaSubset.csv..'\n\n--\n\n**Note.**\n*While this might immediately seem like a great classification task, I would suggest also considering clustering / topic modelling.\nWhy clustering?\nBecause by clustering we make a model that can match a newly written article to a previously debunked lie / misinformation narrative, thereby we can immediately debunk a new article (or at least link it to a actual fact-checked statement) without either using an algorithm as argument , or encountering a time delay with regards to waiting for confirmation of a fact checking organisation.*\n\nAn example disinformation project using this dataset can be found on https://stevenpeutz.com/disinformation/\n\n### Enjoy! You have chosen an incredibly important topic for your project!\n",
+  "datasetId": 2156456,
+  "datasetSlug": "misinformation-fake-news-text-dataset-79k",
+  "hasDatasetSlug": true,
+  "ownerUser": "stevenpeutz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13631,
+  "totalVotes": 43,
+  "totalDownloads": 1977,
+  "title": "Misinformation & Fake News text dataset 79k",
+  "hasTitle": true,
+  "subtitle": "A 79000 article set ready for a misinformation classification!",
+  "hasSubtitle": true,
+  "description": "# Misinformation, fake news & propaganda data set\n\nA dataset containing 79k articles of misinformation, fake news and propaganda.\n- 34975 'true' articles. --&gt; MisinfoSuperset_TRUE.csv\n- 43642 articles of misinfo, fake news or propaganda --&gt; MisinfoSuperset_FAKE.csv\n\nThe 'true' articles comes from a variety of sources, such as *Reuters*, *the New York TImes*, *the Washington Post* and more.\n\nThe 'fake' articles are sourced from:\n1. American right wing extremist websites (such as *Redflag Newsdesk, Beitbart, Truth Broadcast Network*)\n2. A previously made public dataset described in the following article:\nAhmed H, Traore I, Saad S. (2017) \u201cDetection of Online Fake News Using N-Gram Analysis and Machine Learning Techniques. In: Traore I., Woungang I., Awad A. (eds) Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments. ISDDC 2017. Lecture Notes in Computer Science, vol 10618. Springer, Cham (pp. 127-138).\n3. Disinformation and propaganda cases collected by the EUvsDisinfo project. A project started in 2015 that identifies and fact checks disinformation cases originating from pro-Kremlin media that are spread across the EU.\n\nThe articles have all information except the actual text removed and are split up into a set with all the fake news / misinformation, and one with al the true articles.\n\n// For those only interested in Russian propaganda (and not so much misinformation in general), I have added the Russian propaganda in a separate csv called 'EXTRA_RussianPropagandaSubset.csv..'\n\n--\n\n**Note.**\n*While this might immediately seem like a great classification task, I would suggest also considering clustering / topic modelling.\nWhy clustering?\nBecause by clustering we make a model that can match a newly written article to a previously debunked lie / misinformation narrative, thereby we can immediately debunk a new article (or at least link it to a actual fact-checked statement) without either using an algorithm as argument , or encountering a time delay with regards to waiting for confirmation of a fact checking organisation.*\n\nAn example disinformation project using this dataset can be found on https://stevenpeutz.com/disinformation/\n\n### Enjoy! You have chosen an incredibly important topic for your project!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "classification",
+    "text",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

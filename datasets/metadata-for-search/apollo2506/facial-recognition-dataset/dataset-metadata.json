@@ -1,0 +1,39 @@
+{
+  "id": "apollo2506/facial-recognition-dataset",
+  "id_no": 685985,
+  "datasetSlugNullable": "facial-recognition-dataset",
+  "ownerUserNullable": "apollo2506",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Facial Recognition Dataset",
+  "subtitleNullable": "Facial Recognition Dataset",
+  "descriptionNullable": "\n### Content\n\nThis dataset contains  folders pertaining to different expressions of the human face, namely , Surprise, Anger, Happiness, Sad, Neutral, Disgust, Fear. \n\nThe folders are split into two super-folders, Training and Testing, so that it can become easier for the end user to configure any model using this data. \n\nThe training set consists of 28,079 samples in total with the testing set consisting of 7,178 samples in total. The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image.\n\n### Acknowledgements\n\nThis dataset was obtained from the competition \"Challenges in Representation Learning: Facial Expression Recognition Challenge\"\n\nThis dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. They have graciously provided the workshop organizers with a preliminary version of their dataset to use for this contest.\n\nThe code for splitting the data into different directories was provided by Jainam Mehta. Here is the link to the code:\n [Create Training and Testing](https://storage.googleapis.com/kaggle-forum-message-attachments/709960/14732/Creating_Training_Testing.py)",
+  "datasetId": 685985,
+  "datasetSlug": "facial-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "apollo2506",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 46417,
+  "totalVotes": 55,
+  "totalDownloads": 5621,
+  "title": "Facial Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "Facial Recognition Dataset",
+  "hasSubtitle": true,
+  "description": "\n### Content\n\nThis dataset contains  folders pertaining to different expressions of the human face, namely , Surprise, Anger, Happiness, Sad, Neutral, Disgust, Fear. \n\nThe folders are split into two super-folders, Training and Testing, so that it can become easier for the end user to configure any model using this data. \n\nThe training set consists of 28,079 samples in total with the testing set consisting of 7,178 samples in total. The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image.\n\n### Acknowledgements\n\nThis dataset was obtained from the competition \"Challenges in Representation Learning: Facial Expression Recognition Challenge\"\n\nThis dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. They have graciously provided the workshop organizers with a preliminary version of their dataset to use for this contest.\n\nThe code for splitting the data into different directories was provided by Jainam Mehta. Here is the link to the code:\n [Create Training and Testing](https://storage.googleapis.com/kaggle-forum-message-attachments/709960/14732/Creating_Training_Testing.py)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nicolejyt/facialexpressionrecognition",
+  "id_no": 155246,
+  "datasetSlugNullable": "facialexpressionrecognition",
+  "ownerUserNullable": "nicolejyt",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "FER2013",
+  "subtitleNullable": "Facial Expression Recognition Challenge data",
+  "descriptionNullable": "",
+  "datasetId": 155246,
+  "datasetSlug": "facialexpressionrecognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "nicolejyt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 26856,
+  "totalVotes": 47,
+  "totalDownloads": 5928,
+  "title": "FER2013",
+  "hasTitle": true,
+  "subtitle": "Facial Expression Recognition Challenge data",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

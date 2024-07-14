@@ -1,0 +1,42 @@
+{
+  "id": "daniilkrasnoproshin/california-depressive-disorder-statistics-brfss",
+  "id_no": 5113421,
+  "datasetSlugNullable": "california-depressive-disorder-statistics-brfss",
+  "ownerUserNullable": "daniilkrasnoproshin",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "California Depressive Disorder Statistics (BRFSS)",
+  "subtitleNullable": "California Depressive Disorder Statistics (BRFSS)",
+  "descriptionNullable": "This dataset presents the proportion of adults in California who were ever told they had a depressive disorder. The data are derived from the California Behavioral Risk Factor Surveillance Survey (BRFSS), an annual health-related telephone survey conducted by the Public Health Survey Research Program at California State University, Sacramento, under contract from the California Department of Public Health (CDPH). \n\n\n### This table includes the following columns:\n- **Year**: The year the survey was conducted.\n- **Strata**: A categorical variable indicating the stratification used in the survey.\n- **Strata Name**: The name corresponding to the Strata category.\n- **Frequency**: The number of survey respondents in the given strata who reported being told they had a depressive disorder.\n- **Weighted Frequency**: The weighted number of respondents, adjusted based on the survey design to better represent the California population.\n- **Percent**: The percentage of respondents within the strata who reported being told they had a depressive disorder.\n- **Lower 95% CL**: The lower bound of the 95% confidence interval for the percentage.\n- **Upper 95% CL**: The upper bound of the 95% confidence interval for the percentage.\n\n### Key Points:\n- **Health Indicator**: This dataset focuses on the indicator of depressive disorder diagnosis among adults in California.\n- **Survey Methodology**: The BRFSS is a cross-sectional survey collecting data on health-related risk behaviors, chronic health conditions, and preventive service usage among California residents.\n- **Weighting Method**: Weighting for this survey uses denominator data from the California Department of Finance, which may result in differences from national BRFSS data published by the CDC or other federal agencies.\n- **Question**: The indicator is based on responses to the question: \u201cHas a doctor, nurse, or other health professional EVER told you that you have a depressive disorder (including depression, major depression, dysthymia, or minor depression)?\u201d\n\n### Usage:\nResearchers, public health officials, and policymakers can use this dataset to understand the prevalence of depressive disorders in California, track trends over time, and inform public health strategies. It can also serve as a resource for mental health advocacy and educational purposes.\n\n### Acknowledgements:\nThe dataset is a product of the collaborative efforts of the Public Health Survey Research Program at California State University, Sacramento, and the California Department of Public Health.\n\n### Licensing:\nPlease refer to the original source for licensing information and any use restrictions.",
+  "datasetId": 5113421,
+  "datasetSlug": "california-depressive-disorder-statistics-brfss",
+  "hasDatasetSlug": true,
+  "ownerUser": "daniilkrasnoproshin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1308,
+  "totalVotes": 41,
+  "totalDownloads": 151,
+  "title": "California Depressive Disorder Statistics (BRFSS)",
+  "hasTitle": true,
+  "subtitle": "California Depressive Disorder Statistics (BRFSS)",
+  "hasSubtitle": true,
+  "description": "This dataset presents the proportion of adults in California who were ever told they had a depressive disorder. The data are derived from the California Behavioral Risk Factor Surveillance Survey (BRFSS), an annual health-related telephone survey conducted by the Public Health Survey Research Program at California State University, Sacramento, under contract from the California Department of Public Health (CDPH). \n\n\n### This table includes the following columns:\n- **Year**: The year the survey was conducted.\n- **Strata**: A categorical variable indicating the stratification used in the survey.\n- **Strata Name**: The name corresponding to the Strata category.\n- **Frequency**: The number of survey respondents in the given strata who reported being told they had a depressive disorder.\n- **Weighted Frequency**: The weighted number of respondents, adjusted based on the survey design to better represent the California population.\n- **Percent**: The percentage of respondents within the strata who reported being told they had a depressive disorder.\n- **Lower 95% CL**: The lower bound of the 95% confidence interval for the percentage.\n- **Upper 95% CL**: The upper bound of the 95% confidence interval for the percentage.\n\n### Key Points:\n- **Health Indicator**: This dataset focuses on the indicator of depressive disorder diagnosis among adults in California.\n- **Survey Methodology**: The BRFSS is a cross-sectional survey collecting data on health-related risk behaviors, chronic health conditions, and preventive service usage among California residents.\n- **Weighting Method**: Weighting for this survey uses denominator data from the California Department of Finance, which may result in differences from national BRFSS data published by the CDC or other federal agencies.\n- **Question**: The indicator is based on responses to the question: \u201cHas a doctor, nurse, or other health professional EVER told you that you have a depressive disorder (including depression, major depression, dysthymia, or minor depression)?\u201d\n\n### Usage:\nResearchers, public health officials, and policymakers can use this dataset to understand the prevalence of depressive disorders in California, track trends over time, and inform public health strategies. It can also serve as a resource for mental health advocacy and educational purposes.\n\n### Acknowledgements:\nThe dataset is a product of the collaborative efforts of the Public Health Survey Research Program at California State University, Sacramento, and the California Department of Public Health.\n\n### Licensing:\nPlease refer to the original source for licensing information and any use restrictions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "public health",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

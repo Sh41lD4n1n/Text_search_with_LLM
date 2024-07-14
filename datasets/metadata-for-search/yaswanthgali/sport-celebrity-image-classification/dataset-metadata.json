@@ -1,0 +1,43 @@
+{
+  "id": "yaswanthgali/sport-celebrity-image-classification",
+  "id_no": 1748001,
+  "datasetSlugNullable": "sport-celebrity-image-classification",
+  "ownerUserNullable": "yaswanthgali",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Sport Celebrity Image Classification",
+  "subtitleNullable": "classify your favorite sports persons images",
+  "descriptionNullable": "If you are working with this dataset then don't forget to upvote\n\n### Context\n\nI am an  ardent lover of sports and this dataset shows my favorite sports person in Basketball, Football, Tennis, and Cricket\n\n\n### Content\n\nSo the data contain around 100 images of each celebrity namely Kobe, Kane, Maria, and Ronaldo.\n\n\n### Source\n\nThese images are scraped from Getty images website.\n\n\n",
+  "datasetId": 1748001,
+  "datasetSlug": "sport-celebrity-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "yaswanthgali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14567,
+  "totalVotes": 39,
+  "totalDownloads": 1243,
+  "title": "Sport Celebrity Image Classification",
+  "hasTitle": true,
+  "subtitle": "classify your favorite sports persons images",
+  "hasSubtitle": true,
+  "description": "If you are working with this dataset then don't forget to upvote\n\n### Context\n\nI am an  ardent lover of sports and this dataset shows my favorite sports person in Basketball, Football, Tennis, and Cricket\n\n\n### Content\n\nSo the data contain around 100 images of each celebrity namely Kobe, Kane, Maria, and Ronaldo.\n\n\n### Source\n\nThese images are scraped from Getty images website.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "celebrities",
+    "computer vision",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "faryarmemon/usa-housing-market-factors",
+  "id_no": 2380972,
+  "datasetSlugNullable": "usa-housing-market-factors",
+  "ownerUserNullable": "faryarmemon",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "U.S. Housing Market Factors",
+  "subtitleNullable": "Macroeconomics & Microeconomic (soon) Factors ",
+  "descriptionNullable": "The data in this dataset is collected from [FRED](https://fred.stlouisfed.org/).\n\nI decided to create this dataset while reading the research paper [`Factors Affecting House Prices in Cyprus: 1988-2008`](https://www.researchgate.net/publication/228632026_Factors_Affecting_House_Prices_in_Cyprus_1988-2008) by Panos Pashardes & Christos S. Savva. This research paper is extremely informative and covers a lot of details regarding the macroeconomics involved in real estate market. So I would recommend you all to go through it once. \n\n#### NOTE:\nThis dataset will be updated over a period of time and include the following:\n- **Macroeconomic factors** with quarterly, monthly frequencies.\n- **Microeconomic factors** such as house type, age, location, size (BR, BA, carpet area/built-up area), facilities, view, disability functions, region, house prices, etc.\n\n#### NOTE 2:\nI recommend you all to check the file in this dataset with the title `Housing_Macroeconomic_Factors_US (2).csv`, it includes both the supply and demand factors associated with the housing market.\n\n### General Defintions:\n##### 1. Macroeconomic Factors\n- `House_Price_Index`: House price change according to the index base period set (you can check the date at which this value is 100).\n- `Stock_Price_Index`: Stock price change according to the index base period set (you can check the date at which this value is 100).\n- `Consumer_Price_Index`: The Consumer Price Index measures the overall change in consumer prices based on a representative basket of goods and services over time.\n- `Population`: Population of USA (unit: thousands).\n- `Unemployment_Rate`: Unemployment rate of USA (unit: percentage).\n- `Real_GDP`: GDP with adjusted inflation (Annual version unit: billions of chain 2012 dollars in, Monthly version unit: Annualised change). \n- `Mortgage_Rate`: Interest charged on mortgages (unit: percentage).\n- `Real_Disposable_Income` (Real Disposable Personal Income): Money left from salary after all the taxes are paid (unit: billions of chain 2012 dollars).\n- `Inflation`: Decline in purchasing power over time (unit: percentage). [Forgot to remove this column in Annual version since CPI is one of the measures used to determine inflation].\n\n--------\n\n### What can you do with this dataset?\n- Perform statistical analysis, find significant features & find the value by which these features affect the house price index (recommend to use a percentage change instead of index).\n- Perform multivariate regression and predict the price of houses using microeconomic features (soon).\n\nThanks!\nIf you like this dataset, I'll appreciate it if you give this dataset a vote! Discussions, suggestions & doubts are always welcome.\nHappy Learning!!\n",
+  "datasetId": 2380972,
+  "datasetSlug": "usa-housing-market-factors",
+  "hasDatasetSlug": true,
+  "ownerUser": "faryarmemon",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20191,
+  "totalVotes": 65,
+  "totalDownloads": 3656,
+  "title": "U.S. Housing Market Factors",
+  "hasTitle": true,
+  "subtitle": "Macroeconomics & Microeconomic (soon) Factors ",
+  "hasSubtitle": true,
+  "description": "The data in this dataset is collected from [FRED](https://fred.stlouisfed.org/).\n\nI decided to create this dataset while reading the research paper [`Factors Affecting House Prices in Cyprus: 1988-2008`](https://www.researchgate.net/publication/228632026_Factors_Affecting_House_Prices_in_Cyprus_1988-2008) by Panos Pashardes & Christos S. Savva. This research paper is extremely informative and covers a lot of details regarding the macroeconomics involved in real estate market. So I would recommend you all to go through it once. \n\n#### NOTE:\nThis dataset will be updated over a period of time and include the following:\n- **Macroeconomic factors** with quarterly, monthly frequencies.\n- **Microeconomic factors** such as house type, age, location, size (BR, BA, carpet area/built-up area), facilities, view, disability functions, region, house prices, etc.\n\n#### NOTE 2:\nI recommend you all to check the file in this dataset with the title `Housing_Macroeconomic_Factors_US (2).csv`, it includes both the supply and demand factors associated with the housing market.\n\n### General Defintions:\n##### 1. Macroeconomic Factors\n- `House_Price_Index`: House price change according to the index base period set (you can check the date at which this value is 100).\n- `Stock_Price_Index`: Stock price change according to the index base period set (you can check the date at which this value is 100).\n- `Consumer_Price_Index`: The Consumer Price Index measures the overall change in consumer prices based on a representative basket of goods and services over time.\n- `Population`: Population of USA (unit: thousands).\n- `Unemployment_Rate`: Unemployment rate of USA (unit: percentage).\n- `Real_GDP`: GDP with adjusted inflation (Annual version unit: billions of chain 2012 dollars in, Monthly version unit: Annualised change). \n- `Mortgage_Rate`: Interest charged on mortgages (unit: percentage).\n- `Real_Disposable_Income` (Real Disposable Personal Income): Money left from salary after all the taxes are paid (unit: billions of chain 2012 dollars).\n- `Inflation`: Decline in purchasing power over time (unit: percentage). [Forgot to remove this column in Annual version since CPI is one of the measures used to determine inflation].\n\n--------\n\n### What can you do with this dataset?\n- Perform statistical analysis, find significant features & find the value by which these features affect the house price index (recommend to use a percentage change instead of index).\n- Perform multivariate regression and predict the price of houses using microeconomic features (soon).\n\nThanks!\nIf you like this dataset, I'll appreciate it if you give this dataset a vote! Discussions, suggestions & doubts are always welcome.\nHappy Learning!!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "housing",
+    "real estate",
+    "economics",
+    "beginner"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "caitrionaleuenberger/booksales",
+  "id_no": 5286401,
+  "datasetSlugNullable": "booksales",
+  "ownerUserNullable": "caitrionaleuenberger",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "BookSales",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5286401,
+  "datasetSlug": "booksales",
+  "hasDatasetSlug": true,
+  "ownerUser": "caitrionaleuenberger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 12,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "BookSales",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

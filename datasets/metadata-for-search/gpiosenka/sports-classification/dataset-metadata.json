@@ -1,0 +1,43 @@
+{
+  "id": "gpiosenka/sports-classification",
+  "id_no": 1209061,
+  "datasetSlugNullable": "sports-classification",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "100 Sports Image Classification ",
+  "subtitleNullable": "  13493 train, 500 test, 500 validate images 224,224,3 jpg format ",
+  "descriptionNullable": "### Context\nPlease upvote if you find this dataset of use. - Thank you\nThis version is an update of the earlier version. I ran a data set quality evaluation program on the previous version which found a considerable number of duplicate and near duplicate images. Duplicate images can lead to falsely higher values of validation and test set accuracy and I have eliminated these images in this version of the dataset.\nImages were gathered from internet searches. The images were scanned with  a duplicate image detector program I wrote. Any duplicate images were removed to prevent bleed through of images between the train, test and valid data sets. All images were then resized to 224 X224 X 3 and converted to jpg format.  A csv file is included that for each image file contains the relative path to the image file, the image file class label and the dataset (train, test or valid) that the image file resides in. This is a clean dataset. If you build a good model you should achieve at least 95% accuracy on the test set. If you build a very good model for example using transfer learning you should be able to achieve 98%+ on test set accuracy. If you find this data set useful please upvote. Thanks\n\n\n### Content\n\nCollection of sports images covering 100 different sports.. Images are 224,224,3 jpg format. Data is separated into train, test and valid directories.  Additionallly a csv file is included for those that wish to use it to create there own train, test and validation datasets.\n.\n\n\n### Inspiration\n\nWanted to build a high quality clean data set that was easy to use and had no bad images or duplication between the train, test and validation data sets. Provides a good data set to test your models on. Design for  straight forward application of keras preprocessing functions like ImageDataenerator.flow_from_directory or if you use the csv file ImageDataGenerator.flow_from_dataframe. This dataset was carefully created so that the region of interest (ROI) in this case the sport occupies approximately 50% of the pixels in the image. As a consequence even models of moderate complexity should achieve training and validation accuracies in the high 90's.",
+  "datasetId": 1209061,
+  "datasetSlug": "sports-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 91635,
+  "totalVotes": 258,
+  "totalDownloads": 14332,
+  "title": "100 Sports Image Classification ",
+  "hasTitle": true,
+  "subtitle": "  13493 train, 500 test, 500 validate images 224,224,3 jpg format ",
+  "hasSubtitle": true,
+  "description": "### Context\nPlease upvote if you find this dataset of use. - Thank you\nThis version is an update of the earlier version. I ran a data set quality evaluation program on the previous version which found a considerable number of duplicate and near duplicate images. Duplicate images can lead to falsely higher values of validation and test set accuracy and I have eliminated these images in this version of the dataset.\nImages were gathered from internet searches. The images were scanned with  a duplicate image detector program I wrote. Any duplicate images were removed to prevent bleed through of images between the train, test and valid data sets. All images were then resized to 224 X224 X 3 and converted to jpg format.  A csv file is included that for each image file contains the relative path to the image file, the image file class label and the dataset (train, test or valid) that the image file resides in. This is a clean dataset. If you build a good model you should achieve at least 95% accuracy on the test set. If you build a very good model for example using transfer learning you should be able to achieve 98%+ on test set accuracy. If you find this data set useful please upvote. Thanks\n\n\n### Content\n\nCollection of sports images covering 100 different sports.. Images are 224,224,3 jpg format. Data is separated into train, test and valid directories.  Additionallly a csv file is included for those that wish to use it to create there own train, test and validation datasets.\n.\n\n\n### Inspiration\n\nWanted to build a high quality clean data set that was easy to use and had no bad images or duplication between the train, test and validation data sets. Provides a good data set to test your models on. Design for  straight forward application of keras preprocessing functions like ImageDataenerator.flow_from_directory or if you use the csv file ImageDataGenerator.flow_from_dataframe. This dataset was carefully created so that the region of interest (ROI) in this case the sport occupies approximately 50% of the pixels in the image. As a consequence even models of moderate complexity should achieve training and validation accuracies in the high 90's.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "computer vision",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "benhamner/sf-bay-area-bike-share",
+  "id_no": 57,
+  "datasetSlugNullable": "sf-bay-area-bike-share",
+  "ownerUserNullable": "benhamner",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "SF Bay Area Bike Share",
+  "subtitleNullable": "Anonymized bike trip data from August 2013 to August 2015",
+  "descriptionNullable": "## Context\n\nThe [Bay Area Bike Share](http://www.bayareabikeshare.com/) enables quick, easy, and affordable bike trips around the San Francisco Bay Area. They make [regular open data releases](http://www.bayareabikeshare.com/open-data) (this dataset is a [transformed version](https://github.com/benhamner/bay-area-bike-share) of the data from this link), plus maintain a real-time API.\n\n[![sf-trips](https://www.kaggle.io/svf/266282/f38a21e1d561640de079ba6a8e0935ea/sf_trips.png)](https://www.kaggle.com/benhamner/d/benhamner/sf-bay-area-bike-share/san-francisco-trip-map/)\n\n\n## Content\n\n**station.csv** - Contains data that represents a station where users can pickup or return bikes.\n\n**status.csv** - data about the number of bikes and docks available for given station and minute.\n\n**trips.csv** - Data about individual bike trips\n\n**weather.csv** - Data about the weather on a specific day for certain zip codes\n\n\n## Acknowledgements\n\nThis dataset is a transformed version of the Bay area bike share data.\n\n## Inspiration\n\n - How does weather impact bike trips?\n - How do bike trip patterns vary by time of day and the day of the week?\n",
+  "datasetId": 57,
+  "datasetSlug": "sf-bay-area-bike-share",
+  "hasDatasetSlug": true,
+  "ownerUser": "benhamner",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 137326,
+  "totalVotes": 262,
+  "totalDownloads": 20534,
+  "title": "SF Bay Area Bike Share",
+  "hasTitle": true,
+  "subtitle": "Anonymized bike trip data from August 2013 to August 2015",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThe [Bay Area Bike Share](http://www.bayareabikeshare.com/) enables quick, easy, and affordable bike trips around the San Francisco Bay Area. They make [regular open data releases](http://www.bayareabikeshare.com/open-data) (this dataset is a [transformed version](https://github.com/benhamner/bay-area-bike-share) of the data from this link), plus maintain a real-time API.\n\n[![sf-trips](https://www.kaggle.io/svf/266282/f38a21e1d561640de079ba6a8e0935ea/sf_trips.png)](https://www.kaggle.com/benhamner/d/benhamner/sf-bay-area-bike-share/san-francisco-trip-map/)\n\n\n## Content\n\n**station.csv** - Contains data that represents a station where users can pickup or return bikes.\n\n**status.csv** - data about the number of bikes and docks available for given station and minute.\n\n**trips.csv** - Data about individual bike trips\n\n**weather.csv** - Data about the weather on a specific day for certain zip codes\n\n\n## Acknowledgements\n\nThis dataset is a transformed version of the Bay area bike share data.\n\n## Inspiration\n\n - How does weather impact bike trips?\n - How do bike trip patterns vary by time of day and the day of the week?\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cycling",
+    "retail and shopping",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

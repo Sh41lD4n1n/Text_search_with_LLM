@@ -1,0 +1,43 @@
+{
+  "id": "gauriket/erenjeager",
+  "id_no": 3535713,
+  "datasetSlugNullable": "erenjeager",
+  "ownerUserNullable": "gauriket",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "ErenJeager",
+  "subtitleNullable": "Unraveling the Epic: A Comprehensive Transcript Dataset for 'Attack on Titan'",
+  "descriptionNullable": "The \"Attack on Titan Dialogue Dataset\" is an extensive collection of character dialogues extracted from all seasons of the gripping anime series \"Attack on Titan.\" This dataset has been meticulously curated to provide researchers, data enthusiasts, and fans with a valuable resource for various natural language processing (NLP) tasks and sentiment analysis.\n\nDataset Highlights:\n\nWide Coverage: The dataset spans all episodes and seasons of \"Attack on Titan,\" encompassing a diverse range of characters and scenarios. From intense battles to emotional confrontations, our dataset captures the essence of the series' dialogues in their original Japanese context.\n\nStructured Data: Each dialogue entry is meticulously organized, including speaker names, episode/season information, and timestamp data. This structured format allows for easy data manipulation and analysis.\n\nSentiment Annotations: The dataset also includes sentiment annotations for select dialogues, enabling researchers to explore the emotional dynamics between characters throughout the series. This feature unlocks potential research opportunities in sentiment analysis and emotion detection.\n\nMulti-Language Support: While the original dataset comprises Japanese dialogues, we provide translations into several popular languages, allowing researchers from diverse linguistic backgrounds to engage with the data effectively.\n\nPotential Use Cases:\n\nNatural Language Processing (NLP): Researchers can utilize this dataset to train and evaluate various NLP models, including language generation, dialogue generation, sentiment analysis, and character-based language modeling.\n\nSentiment Analysis: The sentiment annotations provided can be leveraged to delve into character emotions, analyzing shifts in attitudes during critical moments of the anime.\n\nConversational AI: Developers can use this dataset to build interactive chatbots or conversational agents based on \"Attack on Titan\" characters, offering fans a unique and engaging experience.\n\nLanguage Learning: Language learners can benefit from the dataset's multi-language support to practice translation and understanding conversational nuances in different languages.\n\nNote to Users:\n\nThis dataset is intended for non-commercial research and educational purposes only. All rights to the \"Attack on Titan\" anime belong to their respective creators and distributors. When using this dataset, please acknowledge the original source to respect the intellectual property rights.\n\nJoin us on this exhilarating journey through the world of \"Attack on Titan\" with our meticulously curated dialogue dataset. Explore the emotions, unravel the mysteries, and relive the captivating moments that have captured the hearts of millions worldwide. Happy researching!",
+  "datasetId": 3535713,
+  "datasetSlug": "erenjeager",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauriket",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 454,
+  "totalVotes": 7,
+  "totalDownloads": 55,
+  "title": "ErenJeager",
+  "hasTitle": true,
+  "subtitle": "Unraveling the Epic: A Comprehensive Transcript Dataset for 'Attack on Titan'",
+  "hasSubtitle": true,
+  "description": "The \"Attack on Titan Dialogue Dataset\" is an extensive collection of character dialogues extracted from all seasons of the gripping anime series \"Attack on Titan.\" This dataset has been meticulously curated to provide researchers, data enthusiasts, and fans with a valuable resource for various natural language processing (NLP) tasks and sentiment analysis.\n\nDataset Highlights:\n\nWide Coverage: The dataset spans all episodes and seasons of \"Attack on Titan,\" encompassing a diverse range of characters and scenarios. From intense battles to emotional confrontations, our dataset captures the essence of the series' dialogues in their original Japanese context.\n\nStructured Data: Each dialogue entry is meticulously organized, including speaker names, episode/season information, and timestamp data. This structured format allows for easy data manipulation and analysis.\n\nSentiment Annotations: The dataset also includes sentiment annotations for select dialogues, enabling researchers to explore the emotional dynamics between characters throughout the series. This feature unlocks potential research opportunities in sentiment analysis and emotion detection.\n\nMulti-Language Support: While the original dataset comprises Japanese dialogues, we provide translations into several popular languages, allowing researchers from diverse linguistic backgrounds to engage with the data effectively.\n\nPotential Use Cases:\n\nNatural Language Processing (NLP): Researchers can utilize this dataset to train and evaluate various NLP models, including language generation, dialogue generation, sentiment analysis, and character-based language modeling.\n\nSentiment Analysis: The sentiment annotations provided can be leveraged to delve into character emotions, analyzing shifts in attitudes during critical moments of the anime.\n\nConversational AI: Developers can use this dataset to build interactive chatbots or conversational agents based on \"Attack on Titan\" characters, offering fans a unique and engaging experience.\n\nLanguage Learning: Language learners can benefit from the dataset's multi-language support to practice translation and understanding conversational nuances in different languages.\n\nNote to Users:\n\nThis dataset is intended for non-commercial research and educational purposes only. All rights to the \"Attack on Titan\" anime belong to their respective creators and distributors. When using this dataset, please acknowledge the original source to respect the intellectual property rights.\n\nJoin us on this exhilarating journey through the world of \"Attack on Titan\" with our meticulously curated dialogue dataset. Explore the emotions, unravel the mysteries, and relive the captivating moments that have captured the hearts of millions worldwide. Happy researching!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "anime and manga",
+    "text classification",
+    "text generation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

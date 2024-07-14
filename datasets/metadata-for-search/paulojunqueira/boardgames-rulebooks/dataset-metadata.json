@@ -1,0 +1,43 @@
+{
+  "id": "paulojunqueira/boardgames-rulebooks",
+  "id_no": 4958401,
+  "datasetSlugNullable": "boardgames-rulebooks",
+  "ownerUserNullable": "paulojunqueira",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Boardgames_Rulebooks",
+  "subtitleNullable": "Pdfs for different rulebooks of boardgames",
+  "descriptionNullable": "PDFs of different boardgames rulebooks\n- Root\n- Lords of Waterdeep\n- Troyes",
+  "datasetId": 4958401,
+  "datasetSlug": "boardgames-rulebooks",
+  "hasDatasetSlug": true,
+  "ownerUser": "paulojunqueira",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 28,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Boardgames_Rulebooks",
+  "hasTitle": true,
+  "subtitle": "Pdfs for different rulebooks of boardgames",
+  "hasSubtitle": true,
+  "description": "PDFs of different boardgames rulebooks\n- Root\n- Lords of Waterdeep\n- Troyes",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "board games",
+    "image",
+    "text",
+    "retrieval question answering",
+    "retrieval/ranking"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

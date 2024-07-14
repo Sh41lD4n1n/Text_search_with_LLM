@@ -1,0 +1,40 @@
+{
+  "id": "phunghieu/deepfake-detection-faces-part-0-1",
+  "id_no": 500163,
+  "datasetSlugNullable": "deepfake-detection-faces-part-0-1",
+  "ownerUserNullable": "phunghieu",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Deepfake Detection - Faces - Part 0_1",
+  "subtitleNullable": "REAL or FAKE, LET'S GUESS",
+  "descriptionNullable": "### Context\n\nThis dataset includes all detectable faces of the corresponding part of the full dataset. Kaggle and the host expected and encouraged us to train our models outside of Kaggle\u2019s notebooks environment; however, for someone who prefers to stick to Kaggle's kernels, this dataset would help a lot \ud83d\ude04.\n\n### Usage\n\nCan be used for a variety purpose, e.g. classification, etc.\n\nWant something to start? Let check this [*demo*](https://www.kaggle.com/phunghieu/loading-merging-multiple-kaggle-datasets-demo) \ud83d\ude09.",
+  "datasetId": 500163,
+  "datasetSlug": "deepfake-detection-faces-part-0-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "phunghieu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3497,
+  "totalVotes": 17,
+  "totalDownloads": 176,
+  "title": "Deepfake Detection - Faces - Part 0_1",
+  "hasTitle": true,
+  "subtitle": "REAL or FAKE, LET'S GUESS",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset includes all detectable faces of the corresponding part of the full dataset. Kaggle and the host expected and encouraged us to train our models outside of Kaggle\u2019s notebooks environment; however, for someone who prefers to stick to Kaggle's kernels, this dataset would help a lot \ud83d\ude04.\n\n### Usage\n\nCan be used for a variety purpose, e.g. classification, etc.\n\nWant something to start? Let check this [*demo*](https://www.kaggle.com/phunghieu/loading-merging-multiple-kaggle-datasets-demo) \ud83d\ude09.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

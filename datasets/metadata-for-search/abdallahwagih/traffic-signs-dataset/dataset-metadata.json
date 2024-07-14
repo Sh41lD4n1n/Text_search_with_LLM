@@ -1,0 +1,39 @@
+{
+  "id": "abdallahwagih/traffic-signs-dataset",
+  "id_no": 3700476,
+  "datasetSlugNullable": "traffic-signs-dataset",
+  "ownerUserNullable": "abdallahwagih",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Traffic Signs dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3700476,
+  "datasetSlug": "traffic-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdallahwagih",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 297,
+  "totalVotes": 41,
+  "totalDownloads": 30,
+  "title": "Traffic Signs dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

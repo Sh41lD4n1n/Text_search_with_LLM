@@ -1,0 +1,39 @@
+{
+  "id": "arnavsmayan/urban-mobility-dataset",
+  "id_no": 5278707,
+  "datasetSlugNullable": "urban-mobility-dataset",
+  "ownerUserNullable": "arnavsmayan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Urban Mobility Dataset",
+  "subtitleNullable": "Synthetic data on urban mobility for enhancing urban planning",
+  "descriptionNullable": "This dataset contains synthetic data generated to model urban mobility patterns. It includes detailed information on public transportation usage, traffic flow, bike-sharing programs, and pedestrian movement, enriched with additional contextual factors like weather conditions, holidays, and events. The dataset is designed to support urban planners and transportation authorities in making data-driven decisions to improve urban mobility and reduce traffic congestion.\n\nColumns:\n1. timestamp: Date and time of the record.\n2. public_transport_usage: Number of public transport users per hour.\n3. traffic_flow: Number of vehicles passing a specific point per hour.\n4. bike_sharing_usage: Number of users utilizing bike-sharing services per hour.\n5. pedestrian_count: Number of pedestrians recorded per hour.\n6. weather_conditions: Weather conditions at the time of the record (e.g., Clear, Rain, Snow, Fog).\n7. day_of_week: Day of the week (e.g., Monday, Tuesday).\n8. holiday: Indicator of whether the day is a holiday (1 if holiday, 0 otherwise).\n9. event: Type of event occurring (e.g., None, Concert, Sports, Festival).\n10. temperature: Temperature in degrees Celsius.\n11. humidity: Humidity percentage.\n12. road_incidents: Number of road incidents reported per hour.\n13. public_transport_delay: Average delay in public transport in minutes.\n14. bike_availability: Number of available bikes at bike-sharing stations per hour.\n15. pedestrian_incidents: Number of incidents involving pedestrians per hour.\n\nThis comprehensive dataset can be utilized for various analyses and modeling efforts, such as predicting traffic patterns, optimizing public transportation schedules, and enhancing the efficiency of bike-sharing programs.",
+  "datasetId": 5278707,
+  "datasetSlug": "urban-mobility-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnavsmayan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 149,
+  "totalVotes": 24,
+  "totalDownloads": 11,
+  "title": "Urban Mobility Dataset",
+  "hasTitle": true,
+  "subtitle": "Synthetic data on urban mobility for enhancing urban planning",
+  "hasSubtitle": true,
+  "description": "This dataset contains synthetic data generated to model urban mobility patterns. It includes detailed information on public transportation usage, traffic flow, bike-sharing programs, and pedestrian movement, enriched with additional contextual factors like weather conditions, holidays, and events. The dataset is designed to support urban planners and transportation authorities in making data-driven decisions to improve urban mobility and reduce traffic congestion.\n\nColumns:\n1. timestamp: Date and time of the record.\n2. public_transport_usage: Number of public transport users per hour.\n3. traffic_flow: Number of vehicles passing a specific point per hour.\n4. bike_sharing_usage: Number of users utilizing bike-sharing services per hour.\n5. pedestrian_count: Number of pedestrians recorded per hour.\n6. weather_conditions: Weather conditions at the time of the record (e.g., Clear, Rain, Snow, Fog).\n7. day_of_week: Day of the week (e.g., Monday, Tuesday).\n8. holiday: Indicator of whether the day is a holiday (1 if holiday, 0 otherwise).\n9. event: Type of event occurring (e.g., None, Concert, Sports, Festival).\n10. temperature: Temperature in degrees Celsius.\n11. humidity: Humidity percentage.\n12. road_incidents: Number of road incidents reported per hour.\n13. public_transport_delay: Average delay in public transport in minutes.\n14. bike_availability: Number of available bikes at bike-sharing stations per hour.\n15. pedestrian_incidents: Number of incidents involving pedestrians per hour.\n\nThis comprehensive dataset can be utilized for various analyses and modeling efforts, such as predicting traffic patterns, optimizing public transportation schedules, and enhancing the efficiency of bike-sharing programs.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

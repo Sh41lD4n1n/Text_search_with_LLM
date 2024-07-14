@@ -1,0 +1,40 @@
+{
+  "id": "silenttalk/bitcoin-prices-over-2-hours",
+  "id_no": 429286,
+  "datasetSlugNullable": "bitcoin-prices-over-2-hours",
+  "ownerUserNullable": "silenttalk",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bitcoin Prices Over 2 Hours",
+  "subtitleNullable": "Easy To Use Btc Price Dataset",
+  "descriptionNullable": "This Is A Dataset Of Bitcoin Prices over a time period of about 2 hours From https://cryptowat.ch/assets/btc Its Format is\n\n(Day)/(Month)/(Year)|(hour):(Minute):(Second)|(Current Value in USD)$\n\nLength : 2644",
+  "datasetId": 429286,
+  "datasetSlug": "bitcoin-prices-over-2-hours",
+  "hasDatasetSlug": true,
+  "ownerUser": "silenttalk",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2864,
+  "totalVotes": 8,
+  "totalDownloads": 211,
+  "title": "Bitcoin Prices Over 2 Hours",
+  "hasTitle": true,
+  "subtitle": "Easy To Use Btc Price Dataset",
+  "hasSubtitle": true,
+  "description": "This Is A Dataset Of Bitcoin Prices over a time period of about 2 hours From https://cryptowat.ch/assets/btc Its Format is\n\n(Day)/(Month)/(Year)|(hour):(Minute):(Second)|(Current Value in USD)$\n\nLength : 2644",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

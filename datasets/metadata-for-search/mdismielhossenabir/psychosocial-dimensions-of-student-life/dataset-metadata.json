@@ -1,0 +1,41 @@
+{
+  "id": "mdismielhossenabir/psychosocial-dimensions-of-student-life",
+  "id_no": 4292144,
+  "datasetSlugNullable": "psychosocial-dimensions-of-student-life",
+  "ownerUserNullable": "mdismielhossenabir",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Psychosocial Dimensions of Student Life",
+  "subtitleNullable": "Multifaceted Computer Science Students Data To Identify Depression Level",
+  "descriptionNullable": "This dataset comprises survey results from 100 computer science students, aiming to identify correlations between their depression levels, class performance, and ADHD patterns through data analysis.\n\nHere's a brief description of each column:\n\n**Age:**\n\nRepresents the age of the individuals in the dataset, providing insight into the age distribution of the study.\n\n\n**Gender:**\n\nIndicates the gender of each individual, allowing for the exploration of gender-related patterns and trends within the dataset.\n\n\n**Academic Performance:**\n\nReflects the academic achievements of individuals.\n\n\n**Taking Note In Class:**\n\nDescribes about individuals take notes during class, providing insights into study habits and engagement during lectures.\n\n**Depression Status:**\n\nIndicates the presence or absence of depressive symptoms, contributing valuable information about the mental health of individuals in the dataset.\n\n\n**Face Challenges To Complete Academic Task:**\n\nExplores whether individuals encounter challenges in completing academic tasks.\n\n\n**Like Presentation:**\n\nReflects individuals' preferences for presentations, offering insights into their learning style and engagement with visual or oral communication. This aim also measure is they extrovert or introvert.\n\n\n**Sleep Per Day Hours:**\n\nRepresents the average hours of sleep individuals get per day, providing information on sleep patterns and potential correlations with academic performance.\n\n\n**Number Of Friend:**\n\nQuantifies the social aspect by indicating the number of friends each individual has, contributing to the understanding of social dynamics within the dataset.\n\n**Like New Things:**\n\nExplores individuals' receptiveness to new experiences or concepts, offering insights into their adaptability and openness to innovation.\n\n\nThis dataset is designed to facilitate a comprehensive analysis of the interplay between demographic factors, academic performance, mental health, study habits, and social dynamics among individuals in the specified context.\n\n",
+  "datasetId": 4292144,
+  "datasetSlug": "psychosocial-dimensions-of-student-life",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdismielhossenabir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 8775,
+  "totalVotes": 90,
+  "totalDownloads": 1673,
+  "title": "Psychosocial Dimensions of Student Life",
+  "hasTitle": true,
+  "subtitle": "Multifaceted Computer Science Students Data To Identify Depression Level",
+  "hasSubtitle": true,
+  "description": "This dataset comprises survey results from 100 computer science students, aiming to identify correlations between their depression levels, class performance, and ADHD patterns through data analysis.\n\nHere's a brief description of each column:\n\n**Age:**\n\nRepresents the age of the individuals in the dataset, providing insight into the age distribution of the study.\n\n\n**Gender:**\n\nIndicates the gender of each individual, allowing for the exploration of gender-related patterns and trends within the dataset.\n\n\n**Academic Performance:**\n\nReflects the academic achievements of individuals.\n\n\n**Taking Note In Class:**\n\nDescribes about individuals take notes during class, providing insights into study habits and engagement during lectures.\n\n**Depression Status:**\n\nIndicates the presence or absence of depressive symptoms, contributing valuable information about the mental health of individuals in the dataset.\n\n\n**Face Challenges To Complete Academic Task:**\n\nExplores whether individuals encounter challenges in completing academic tasks.\n\n\n**Like Presentation:**\n\nReflects individuals' preferences for presentations, offering insights into their learning style and engagement with visual or oral communication. This aim also measure is they extrovert or introvert.\n\n\n**Sleep Per Day Hours:**\n\nRepresents the average hours of sleep individuals get per day, providing information on sleep patterns and potential correlations with academic performance.\n\n\n**Number Of Friend:**\n\nQuantifies the social aspect by indicating the number of friends each individual has, contributing to the understanding of social dynamics within the dataset.\n\n**Like New Things:**\n\nExplores individuals' receptiveness to new experiences or concepts, offering insights into their adaptability and openness to innovation.\n\n\nThis dataset is designed to facilitate a comprehensive analysis of the interplay between demographic factors, academic performance, mental health, study habits, and social dynamics among individuals in the specified context.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "psychology",
+    "random forest"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

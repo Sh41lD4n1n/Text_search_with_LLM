@@ -1,0 +1,43 @@
+{
+  "id": "bhavikjikadara/emotions-dataset",
+  "id_no": 4519601,
+  "datasetSlugNullable": "emotions-dataset",
+  "ownerUserNullable": "bhavikjikadara",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Emotions Dataset",
+  "subtitleNullable": "Emotions are conscious mental reactions",
+  "descriptionNullable": "&gt;# Content:\nThis Emotion Classification dataset is designed to facilitate research and experimentation in the field of natural language processing and emotion analysis. It contains a diverse collection of text samples, each labelled with the corresponding emotion it conveys. Emotions can range from happiness and excitement to anger, sadness, and more.\n&gt;# About emotions.csv file\nEach entry in this dataset consists of a text segment representing a Twitter message and a corresponding label indicating the predominant emotion conveyed. The emotions are classified into **six categories**: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5). Whether you're interested in sentiment analysis, emotion classification, or text mining, this dataset provides a rich foundation for exploring the nuanced emotional landscape within social media.\n- **text**: Description of context\n- **label**: The emotions are classified into six categories: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5).\n\n&gt;# Usecase:\n- **Sentiment Analysis**: Uncover the prevailing sentiments in English Twitter messages across various emotions.\n- **Emotion Classification**: Develop models to accurately classify tweets into the six specified emotion categories.\n- **Textual Analysis**: Explore linguistic patterns and expressions associated with different emotional states.",
+  "datasetId": 4519601,
+  "datasetSlug": "emotions-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavikjikadara",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6236,
+  "totalVotes": 19,
+  "totalDownloads": 714,
+  "title": "Emotions Dataset",
+  "hasTitle": true,
+  "subtitle": "Emotions are conscious mental reactions",
+  "hasSubtitle": true,
+  "description": "&gt;# Content:\nThis Emotion Classification dataset is designed to facilitate research and experimentation in the field of natural language processing and emotion analysis. It contains a diverse collection of text samples, each labelled with the corresponding emotion it conveys. Emotions can range from happiness and excitement to anger, sadness, and more.\n&gt;# About emotions.csv file\nEach entry in this dataset consists of a text segment representing a Twitter message and a corresponding label indicating the predominant emotion conveyed. The emotions are classified into **six categories**: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5). Whether you're interested in sentiment analysis, emotion classification, or text mining, this dataset provides a rich foundation for exploring the nuanced emotional landscape within social media.\n- **text**: Description of context\n- **label**: The emotions are classified into six categories: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5).\n\n&gt;# Usecase:\n- **Sentiment Analysis**: Uncover the prevailing sentiments in English Twitter messages across various emotions.\n- **Emotion Classification**: Develop models to accurately classify tweets into the six specified emotion categories.\n- **Textual Analysis**: Explore linguistic patterns and expressions associated with different emotional states.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "lstm",
+    "tabular",
+    "multiclass classification",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

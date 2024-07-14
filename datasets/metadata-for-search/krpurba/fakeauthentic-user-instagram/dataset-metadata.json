@@ -1,0 +1,39 @@
+{
+  "id": "krpurba/fakeauthentic-user-instagram",
+  "id_no": 1151945,
+  "datasetSlugNullable": "fakeauthentic-user-instagram",
+  "ownerUserNullable": "krpurba",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Fake/Authentic User Instagram",
+  "subtitleNullable": "Labelled Instagram Users with 17 features and output of Fake/Authentic User",
+  "descriptionNullable": "Kindly refer to my paper for more information. Please cite my work if you use my dataset in any work :\nK. R. Purba, D. Asirvatham and R. K. Murugesan, \"Classification of instagram fake users using supervised machine learning algorithms,\" International Journal of Electrical and Computer Engineering (IJECE), vol. 10, no. 3, pp. 2763-2772, 2020.\n\nThe dataset was collected using web scraping from third-party Instagram websites, to capture their metadata and up to 12 latest media posts from each user. The collection process was executed from September 1st, 2019, until September 20th, 2019.  The dataset contains authentic users and fake users, which were filtered using human annotators.\nThe authentic users were taken from followers of 24 private university pages (8 Indonesian, 8 Malaysian, 8 Australian) on Instagram. To reduce the number of users, they are picked using proportional random sampling based on their source university. All private users were removed, which is a total of 31,335 out of 63,795 users (49.11%). The final number of public users used in this research was 32,460 users.\n\nVar name | Feature name | Description\npos | Num posts | Number of total posts that the user has ever posted.\nflg | Num following | Number of following\nflr | Num followers | Number of followers\nbl | Biography length | Length (number of characters) of the user's biography\npic | Picture availability | Value 0 if the user has no profile picture, or 1 if has\nlin | Link availability | Value 0 if the user has no external URL, or 1 if has\ncl | Average caption length | The average number of character of captions in media\ncz | Caption zero | Percentage (0.0 to 1.0) of captions that has almost zero (&lt;=3) length\nni | Non image percentage | Percentage (0.0 to 1.0) of non-image media. There are three types of media on an Instagram post, i.e. image, video, carousel\nerl | Engagement rate (Like) | Engagement rate (ER) is commonly defined as (num likes) divide by (num media) divide by (num followers) \nerc | Engagement rate (Comm.) | Similar to ER like, but it is for comments\nlt | Location tag percentage | Percentage (0.0 to 1.0) of posts tagged with location\nhc | Average hashtag count | Average number of hashtags used in a post\npr | Promotional keywords | Average use of promotional keywords in hashtag, i.e.\n{regrann, contest, repost, giveaway, mention, share, give away, quiz}\nfo | Followers keywords | Average use of followers hunter keywords in hashtag, i.e.\n{follow, like, folback, follback, f4f}\ncs | Cosine similarity | Average cosine similarity of between all pair of two posts a user has\npi | Post interval | Average interval between posts (in hours)\n\nOutput :\n2-class User classes : r (real/authentic user), f (fake user / bought followers)\n4-class User classes : r (authentic/real user), a (active fake user), i (inactive fake user), s (spammer fake user)\nNote that the 3 fake user classes (a, i, s) were judged by human annotators.",
+  "datasetId": 1151945,
+  "datasetSlug": "fakeauthentic-user-instagram",
+  "hasDatasetSlug": true,
+  "ownerUser": "krpurba",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 7927,
+  "totalVotes": 17,
+  "totalDownloads": 803,
+  "title": "Fake/Authentic User Instagram",
+  "hasTitle": true,
+  "subtitle": "Labelled Instagram Users with 17 features and output of Fake/Authentic User",
+  "hasSubtitle": true,
+  "description": "Kindly refer to my paper for more information. Please cite my work if you use my dataset in any work :\nK. R. Purba, D. Asirvatham and R. K. Murugesan, \"Classification of instagram fake users using supervised machine learning algorithms,\" International Journal of Electrical and Computer Engineering (IJECE), vol. 10, no. 3, pp. 2763-2772, 2020.\n\nThe dataset was collected using web scraping from third-party Instagram websites, to capture their metadata and up to 12 latest media posts from each user. The collection process was executed from September 1st, 2019, until September 20th, 2019.  The dataset contains authentic users and fake users, which were filtered using human annotators.\nThe authentic users were taken from followers of 24 private university pages (8 Indonesian, 8 Malaysian, 8 Australian) on Instagram. To reduce the number of users, they are picked using proportional random sampling based on their source university. All private users were removed, which is a total of 31,335 out of 63,795 users (49.11%). The final number of public users used in this research was 32,460 users.\n\nVar name | Feature name | Description\npos | Num posts | Number of total posts that the user has ever posted.\nflg | Num following | Number of following\nflr | Num followers | Number of followers\nbl | Biography length | Length (number of characters) of the user's biography\npic | Picture availability | Value 0 if the user has no profile picture, or 1 if has\nlin | Link availability | Value 0 if the user has no external URL, or 1 if has\ncl | Average caption length | The average number of character of captions in media\ncz | Caption zero | Percentage (0.0 to 1.0) of captions that has almost zero (&lt;=3) length\nni | Non image percentage | Percentage (0.0 to 1.0) of non-image media. There are three types of media on an Instagram post, i.e. image, video, carousel\nerl | Engagement rate (Like) | Engagement rate (ER) is commonly defined as (num likes) divide by (num media) divide by (num followers) \nerc | Engagement rate (Comm.) | Similar to ER like, but it is for comments\nlt | Location tag percentage | Percentage (0.0 to 1.0) of posts tagged with location\nhc | Average hashtag count | Average number of hashtags used in a post\npr | Promotional keywords | Average use of promotional keywords in hashtag, i.e.\n{regrann, contest, repost, giveaway, mention, share, give away, quiz}\nfo | Followers keywords | Average use of followers hunter keywords in hashtag, i.e.\n{follow, like, folback, follback, f4f}\ncs | Cosine similarity | Average cosine similarity of between all pair of two posts a user has\npi | Post interval | Average interval between posts (in hours)\n\nOutput :\n2-class User classes : r (real/authentic user), f (fake user / bought followers)\n4-class User classes : r (authentic/real user), a (active fake user), i (inactive fake user), s (spammer fake user)\nNote that the 3 fake user classes (a, i, s) were judged by human annotators.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

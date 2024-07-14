@@ -1,0 +1,43 @@
+{
+  "id": "bravo03/house-price",
+  "id_no": 4349928,
+  "datasetSlugNullable": "house-price",
+  "ownerUserNullable": "bravo03",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "house_price",
+  "subtitleNullable": "Crack the Code of Real Estate Trends with Cutting-Edge Regression Analysis",
+  "descriptionNullable": "Embark on a data-driven exploration of the real estate landscape with the \"House Prices - Advanced Regression Techniques\" dataset, uniquely enriched with essential identifiers and sales dynamics. This robust repository not only captures the traditional features influencing property values but also provides a nuanced understanding of the correlation between ID, sales patterns, and housing market fluctuations.\n\nAt the heart of this dataset lies the fusion of two critical elements: a distinctive identification system and the intricate dance of sales data. Dive into the granular details of property transactions, identify trends in sales volume, and uncover the nuanced interplay between unique property identifiers and market dynamics.",
+  "datasetId": 4349928,
+  "datasetSlug": "house-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "bravo03",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2077,
+  "totalVotes": 89,
+  "totalDownloads": 361,
+  "title": "house_price",
+  "hasTitle": true,
+  "subtitle": "Crack the Code of Real Estate Trends with Cutting-Edge Regression Analysis",
+  "hasSubtitle": true,
+  "description": "Embark on a data-driven exploration of the real estate landscape with the \"House Prices - Advanced Regression Techniques\" dataset, uniquely enriched with essential identifiers and sales dynamics. This robust repository not only captures the traditional features influencing property values but also provides a nuanced understanding of the correlation between ID, sales patterns, and housing market fluctuations.\n\nAt the heart of this dataset lies the fusion of two critical elements: a distinctive identification system and the intricate dance of sales data. Dive into the granular details of property transactions, identify trends in sales volume, and uncover the nuanced interplay between unique property identifiers and market dynamics.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate",
+    "data cleaning",
+    "logistic regression",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

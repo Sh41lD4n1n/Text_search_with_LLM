@@ -1,0 +1,42 @@
+{
+  "id": "arunrk7/surface-crack-detection",
+  "id_no": 414522,
+  "datasetSlugNullable": "surface-crack-detection",
+  "ownerUserNullable": "arunrk7",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Surface Crack Detection",
+  "subtitleNullable": "Concrete surface sample images for Surface Crack Detection",
+  "descriptionNullable": "# Surface Crack Detection Dataset\n\n### Context\n\nConcrete surface cracks are major defect in civil structures. Building Inspection which is done for the evaluation of  rigidity and tensile strength of the building. Crack detection plays a major role in the building inspection, finding the cracks and determining the building health.\n\n\n### Content\n\nThe datasets contains images of various concrete surfaces with and without crack. The image data are divided into two as negative (without crack) and positive (with crack) in separate folder for image classification.  Each class has 20000images with a total of 40000 images with 227 x 227 pixels with RGB channels. The dataset is generated from 458 high-resolution images (4032x3024 pixel) with the method proposed by Zhang et al (2016). High resolution images found out to have high variance in terms of surface finish and illumination condition. No data augmentation in terms of random rotation or flipping or tilting is applied.\n\n### Acknowledgements\n\nThis dataset is taken from the website [Mendeley Data - Crack Detection](https://data.mendeley.com/datasets/5y9wdsg2zt/2), contributed by \u00c7a\u011flar F\u0131rat \u00d6zgenel.\n&gt; \u00d6zgenel, \u00c7a\u011flar F\u0131rat (2019), \u201cConcrete Crack Images for Classification\u201d, Mendeley Data, v2\n&gt;http://dx.doi.org/10.17632/5y9wdsg2zt.2\n\n### Previous works\n&gt; 2018 \u2013 \u00d6zgenel, \u00c7.F., G\u00f6nen\u00e7 Sorgu\u00e7, A. \u201cPerformance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings\u201d, ISARC 2018, Berlin.\n\n&gt;Lei Zhang , Fan Yang , Yimin Daniel Zhang, and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016). Road Crack Detection Using Deep Convolutional Neural Network. In 2016 IEEE International Conference on Image Processing (ICIP). http://doi.org/10.1109/ICIP.2016.7533052\n\n### Inspiration\n- Classifying crack and non crack images.\n- Using Image Segmentation method to create a mask of the cracked portion in new image.\n",
+  "datasetId": 414522,
+  "datasetSlug": "surface-crack-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "arunrk7",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 139606,
+  "totalVotes": 263,
+  "totalDownloads": 16004,
+  "title": "Surface Crack Detection",
+  "hasTitle": true,
+  "subtitle": "Concrete surface sample images for Surface Crack Detection",
+  "hasSubtitle": true,
+  "description": "# Surface Crack Detection Dataset\n\n### Context\n\nConcrete surface cracks are major defect in civil structures. Building Inspection which is done for the evaluation of  rigidity and tensile strength of the building. Crack detection plays a major role in the building inspection, finding the cracks and determining the building health.\n\n\n### Content\n\nThe datasets contains images of various concrete surfaces with and without crack. The image data are divided into two as negative (without crack) and positive (with crack) in separate folder for image classification.  Each class has 20000images with a total of 40000 images with 227 x 227 pixels with RGB channels. The dataset is generated from 458 high-resolution images (4032x3024 pixel) with the method proposed by Zhang et al (2016). High resolution images found out to have high variance in terms of surface finish and illumination condition. No data augmentation in terms of random rotation or flipping or tilting is applied.\n\n### Acknowledgements\n\nThis dataset is taken from the website [Mendeley Data - Crack Detection](https://data.mendeley.com/datasets/5y9wdsg2zt/2), contributed by \u00c7a\u011flar F\u0131rat \u00d6zgenel.\n&gt; \u00d6zgenel, \u00c7a\u011flar F\u0131rat (2019), \u201cConcrete Crack Images for Classification\u201d, Mendeley Data, v2\n&gt;http://dx.doi.org/10.17632/5y9wdsg2zt.2\n\n### Previous works\n&gt; 2018 \u2013 \u00d6zgenel, \u00c7.F., G\u00f6nen\u00e7 Sorgu\u00e7, A. \u201cPerformance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings\u201d, ISARC 2018, Berlin.\n\n&gt;Lei Zhang , Fan Yang , Yimin Daniel Zhang, and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016). Road Crack Detection Using Deep Convolutional Neural Network. In 2016 IEEE International Conference on Image Processing (ICIP). http://doi.org/10.1109/ICIP.2016.7533052\n\n### Inspiration\n- Classifying crack and non crack images.\n- Using Image Segmentation method to create a mask of the cracked portion in new image.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "classification",
+    "urban planning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

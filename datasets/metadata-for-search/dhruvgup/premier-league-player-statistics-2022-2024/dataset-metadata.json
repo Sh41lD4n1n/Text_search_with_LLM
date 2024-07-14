@@ -1,0 +1,39 @@
+{
+  "id": "dhruvgup/premier-league-player-statistics-2022-2024",
+  "id_no": 5127455,
+  "datasetSlugNullable": "premier-league-player-statistics-2022-2024",
+  "ownerUserNullable": "dhruvgup",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Premier League Player Statistics 2022-2024",
+  "subtitleNullable": "Game by game statistics of all current PL players for the past 2 seasons",
+  "descriptionNullable": "All statistics sourced from FBRef and Transfermarkt and scraped using Ruby on Rails. This dataset contains 3 CSVs, \"Teams\" with basic info (just name and FBRef link), \"Players\" with name and summary statistics for the 2023-2024 season as well as their age and value from Transfermarkt, and \"Match Logs\" which has in-depth information for every Premier League game the player's team took part in over the past 2 seasons (or whatever length of time the player was on said team).",
+  "datasetId": 5127455,
+  "datasetSlug": "premier-league-player-statistics-2022-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhruvgup",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 80,
+  "totalVotes": 0,
+  "totalDownloads": 26,
+  "title": "Premier League Player Statistics 2022-2024",
+  "hasTitle": true,
+  "subtitle": "Game by game statistics of all current PL players for the past 2 seasons",
+  "hasSubtitle": true,
+  "description": "All statistics sourced from FBRef and Transfermarkt and scraped using Ruby on Rails. This dataset contains 3 CSVs, \"Teams\" with basic info (just name and FBRef link), \"Players\" with name and summary statistics for the 2023-2024 season as well as their age and value from Transfermarkt, and \"Match Logs\" which has in-depth information for every Premier League game the player's team took part in over the past 2 seasons (or whatever length of time the player was on said team).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

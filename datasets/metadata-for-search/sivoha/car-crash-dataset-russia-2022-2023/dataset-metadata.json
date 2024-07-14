@@ -1,0 +1,43 @@
+{
+  "id": "sivoha/car-crash-dataset-russia-2022-2023",
+  "id_no": 3240734,
+  "datasetSlugNullable": "car-crash-dataset-russia-2022-2023",
+  "ownerUserNullable": "sivoha",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Car crash dataset RUSSIA 2022-2023",
+  "subtitleNullable": "Data from the YouTube car accidents compilations",
+  "descriptionNullable": "Car crash dataset RUSSIA 2022-2023 is a big driving video dataset that contains over 500 high-resolution videos of various driving scenarios. The dataset was created to aid the development and testing of autonomous driving systems and other related technologies. It includes videos from Russia, captured from a diverse set of locations, weather conditions, and lighting conditions, each video lasting about 10 seconds. The videos are annotated with bounding boxes around objects such as different types of cars, pedestrians, and cyclists, as well as traffic signs, and traffic lights. Additionally, the dataset includes metadata information for each video.Car crash dataset RUSSIA 2022-2023 is considered to be one of the few datasets from Russia on this topic. Created by 7 students from Moscow, MIEM HSE. First version published on 9th May, 2023.",
+  "datasetId": 3240734,
+  "datasetSlug": "car-crash-dataset-russia-2022-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "sivoha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1812,
+  "totalVotes": 4,
+  "totalDownloads": 190,
+  "title": "Car crash dataset RUSSIA 2022-2023",
+  "hasTitle": true,
+  "subtitle": "Data from the YouTube car accidents compilations",
+  "hasSubtitle": true,
+  "description": "Car crash dataset RUSSIA 2022-2023 is a big driving video dataset that contains over 500 high-resolution videos of various driving scenarios. The dataset was created to aid the development and testing of autonomous driving systems and other related technologies. It includes videos from Russia, captured from a diverse set of locations, weather conditions, and lighting conditions, each video lasting about 10 seconds. The videos are annotated with bounding boxes around objects such as different types of cars, pedestrians, and cyclists, as well as traffic signs, and traffic lights. Additionally, the dataset includes metadata information for each video.Car crash dataset RUSSIA 2022-2023 is considered to be one of the few datasets from Russia on this topic. Created by 7 students from Moscow, MIEM HSE. First version published on 9th May, 2023.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "automobiles and vehicles",
+    "computer vision",
+    "video",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nashatadelabd/fake-news-detection-with-nlp-and-lstm",
+  "id_no": 4791123,
+  "datasetSlugNullable": "fake-news-detection-with-nlp-and-lstm",
+  "ownerUserNullable": "nashatadelabd",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "fake_news_detection_with_nlp_and_lstm",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4791123,
+  "datasetSlug": "fake-news-detection-with-nlp-and-lstm",
+  "hasDatasetSlug": true,
+  "ownerUser": "nashatadelabd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 36,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "fake_news_detection_with_nlp_and_lstm",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

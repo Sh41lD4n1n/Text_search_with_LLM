@@ -1,0 +1,40 @@
+{
+  "id": "vishalsinghsangral/usa-bank-financial-data",
+  "id_no": 5297716,
+  "datasetSlugNullable": "usa-bank-financial-data",
+  "ownerUserNullable": "vishalsinghsangral",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "USA Bank Financial Data",
+  "subtitleNullable": "Data set for Tableau practice",
+  "descriptionNullable": "**Dataset Description:**\n\nThe `myusabank.csv` dataset contains daily financial data for a fictional bank (MyUSA Bank) over a two-year period. It includes various key financial metrics such as interest income, interest expense, average earning assets, net income, total assets, shareholder equity, operating expenses, operating income, market share, and stock price. The data is structured to simulate realistic scenarios in the banking sector, including outliers, duplicates, and missing values for educational purposes.\n\n**Potential Student Tasks:**\n\n1. **Data Cleaning and Preprocessing:**\n   - Handle missing values, duplicates, and outliers to ensure data integrity.\n   - Normalize or scale data as needed for analysis.\n\n2. **Exploratory Data Analysis (EDA):**\n   - Visualize trends and distributions of financial metrics over time.\n   - Identify correlations between different financial indicators.\n\n3. **Calculating Key Performance Indicators (KPIs):**\n   - Compute metrics such as Net Interest Margin (NIM), Return on Assets (ROA), Return on Equity (ROE), and Cost-to-Income Ratio using calculated fields.\n   - Analyze the financial health and performance of MyUSA Bank based on these KPIs.\n\n4. **Building Tableau Dashboards:**\n   - Design interactive dashboards to present insights and trends.\n   - Include summary cards, bar charts, line charts, and pie charts to visualize financial performance metrics.\n\n5. **Forecasting and Predictive Modeling:**\n   - Use historical data to forecast future financial performance.\n   - Apply regression or time series analysis to predict market share or stock price movements.\n\n6. **Business Insights and Reporting:**\n   - Interpret findings to derive actionable insights for bank management.\n   - Prepare reports or presentations summarizing key findings and recommendations.\n\n**Educational Goals:**\n\nThe dataset aims to provide hands-on experience in data preprocessing, analysis, and visualization within the context of banking and finance. It encourages students to apply data science techniques to real-world financial data, enhancing their skills in data-driven decision-making and strategic analysis.",
+  "datasetId": 5297716,
+  "datasetSlug": "usa-bank-financial-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "vishalsinghsangral",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 10,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "USA Bank Financial Data",
+  "hasTitle": true,
+  "subtitle": "Data set for Tableau practice",
+  "hasSubtitle": true,
+  "description": "**Dataset Description:**\n\nThe `myusabank.csv` dataset contains daily financial data for a fictional bank (MyUSA Bank) over a two-year period. It includes various key financial metrics such as interest income, interest expense, average earning assets, net income, total assets, shareholder equity, operating expenses, operating income, market share, and stock price. The data is structured to simulate realistic scenarios in the banking sector, including outliers, duplicates, and missing values for educational purposes.\n\n**Potential Student Tasks:**\n\n1. **Data Cleaning and Preprocessing:**\n   - Handle missing values, duplicates, and outliers to ensure data integrity.\n   - Normalize or scale data as needed for analysis.\n\n2. **Exploratory Data Analysis (EDA):**\n   - Visualize trends and distributions of financial metrics over time.\n   - Identify correlations between different financial indicators.\n\n3. **Calculating Key Performance Indicators (KPIs):**\n   - Compute metrics such as Net Interest Margin (NIM), Return on Assets (ROA), Return on Equity (ROE), and Cost-to-Income Ratio using calculated fields.\n   - Analyze the financial health and performance of MyUSA Bank based on these KPIs.\n\n4. **Building Tableau Dashboards:**\n   - Design interactive dashboards to present insights and trends.\n   - Include summary cards, bar charts, line charts, and pie charts to visualize financial performance metrics.\n\n5. **Forecasting and Predictive Modeling:**\n   - Use historical data to forecast future financial performance.\n   - Apply regression or time series analysis to predict market share or stock price movements.\n\n6. **Business Insights and Reporting:**\n   - Interpret findings to derive actionable insights for bank management.\n   - Prepare reports or presentations summarizing key findings and recommendations.\n\n**Educational Goals:**\n\nThe dataset aims to provide hands-on experience in data preprocessing, analysis, and visualization within the context of banking and finance. It encourages students to apply data science techniques to real-world financial data, enhancing their skills in data-driven decision-making and strategic analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "banking"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

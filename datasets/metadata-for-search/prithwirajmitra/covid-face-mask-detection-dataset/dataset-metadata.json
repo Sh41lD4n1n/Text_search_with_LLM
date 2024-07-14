@@ -1,0 +1,43 @@
+{
+  "id": "prithwirajmitra/covid-face-mask-detection-dataset",
+  "id_no": 778086,
+  "datasetSlugNullable": "covid-face-mask-detection-dataset",
+  "ownerUserNullable": "prithwirajmitra",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "COVID Face Mask Detection Dataset",
+  "subtitleNullable": "This dataset contains about 1006 equally distributed images of 2 distinct types.",
+  "descriptionNullable": "",
+  "datasetId": 778086,
+  "datasetSlug": "covid-face-mask-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "prithwirajmitra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 46560,
+  "totalVotes": 96,
+  "totalDownloads": 11405,
+  "title": "COVID Face Mask Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains about 1006 equally distributed images of 2 distinct types.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "computer vision",
+    "cnn",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

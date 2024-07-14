@@ -1,0 +1,43 @@
+{
+  "id": "mikoajfish99/marine-animal-images",
+  "id_no": 3071124,
+  "datasetSlugNullable": "marine-animal-images",
+  "ownerUserNullable": "mikoajfish99",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Marine Animal Images",
+  "subtitleNullable": "Build an Image Classification Model",
+  "descriptionNullable": "<b>The \"Marine Animal Images\" dataset available on Kaggle contains a collection of images of various sea animals. The dataset is structured into two main subdirectories: \"train\" and \"test\".<br>\nThe \"train\" directory contains images for nine different marine animals, which are further divided into separate subdirectories for each species: Fish, Goldfish, Harbor seal, Jellyfish, Lobster, Oyster, Sea turtle, Squid, and Starfish. These images can be used for training and developing machine learning models for classification or object detection tasks.<br>\nSimilarly, the \"test\" directory contains images for the same nine marine animal species, and these can be used to evaluate the performance of the trained models on unseen data.<br>\nThe images in the dataset may vary in terms of size, color, lighting, and background, and may be captured from different angles and perspectives. The images may also contain multiple animals, and some images may be slightly blurry or noisy.<b></b></b>",
+  "datasetId": 3071124,
+  "datasetSlug": "marine-animal-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikoajfish99",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3380,
+  "totalVotes": 6,
+  "totalDownloads": 501,
+  "title": "Marine Animal Images",
+  "hasTitle": true,
+  "subtitle": "Build an Image Classification Model",
+  "hasSubtitle": true,
+  "description": "<b>The \"Marine Animal Images\" dataset available on Kaggle contains a collection of images of various sea animals. The dataset is structured into two main subdirectories: \"train\" and \"test\".<br>\nThe \"train\" directory contains images for nine different marine animals, which are further divided into separate subdirectories for each species: Fish, Goldfish, Harbor seal, Jellyfish, Lobster, Oyster, Sea turtle, Squid, and Starfish. These images can be used for training and developing machine learning models for classification or object detection tasks.<br>\nSimilarly, the \"test\" directory contains images for the same nine marine animal species, and these can be used to evaluate the performance of the trained models on unseen data.<br>\nThe images in the dataset may vary in terms of size, color, lighting, and background, and may be captured from different angles and perspectives. The images may also contain multiple animals, and some images may be slightly blurry or noisy.<b></b></b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "multiclass classification",
+    "fish and aquaria",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

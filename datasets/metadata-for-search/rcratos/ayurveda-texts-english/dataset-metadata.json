@@ -1,0 +1,43 @@
+{
+  "id": "rcratos/ayurveda-texts-english",
+  "id_no": 5200042,
+  "datasetSlugNullable": "ayurveda-texts-english",
+  "ownerUserNullable": "rcratos",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Ayurveda Texts (English)",
+  "subtitleNullable": "Texts on Ayurveda in English containing 20+ Books and 2000+ Articles",
+  "descriptionNullable": "Texts related to Ayurveda in English scraped from 21 Books and 2000+ Articles from the internet.\n\nCan be used for finetuning or RAG applications.\n\nThe dataset contains two directories:\nayurveda_books contains book texts and pdfs both\nayurveda_texts contains only texts",
+  "datasetId": 5200042,
+  "datasetSlug": "ayurveda-texts-english",
+  "hasDatasetSlug": true,
+  "ownerUser": "rcratos",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 102,
+  "totalVotes": 3,
+  "totalDownloads": 12,
+  "title": "Ayurveda Texts (English)",
+  "hasTitle": true,
+  "subtitle": "Texts on Ayurveda in English containing 20+ Books and 2000+ Articles",
+  "hasSubtitle": true,
+  "description": "Texts related to Ayurveda in English scraped from 21 Books and 2000+ Articles from the internet.\n\nCan be used for finetuning or RAG applications.\n\nThe dataset contains two directories:\nayurveda_books contains book texts and pdfs both\nayurveda_texts contains only texts",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "health",
+    "nlp",
+    "text generation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

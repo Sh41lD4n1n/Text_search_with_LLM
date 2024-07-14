@@ -1,0 +1,37 @@
+{
+  "id": "sigmakhanam/fish-detection",
+  "id_no": 4575265,
+  "datasetSlugNullable": "fish-detection",
+  "ownerUserNullable": "sigmakhanam",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "sea-animals-image-dataste",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4575265,
+  "datasetSlug": "fish-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sigmakhanam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 70,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "sea-animals-image-dataste",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

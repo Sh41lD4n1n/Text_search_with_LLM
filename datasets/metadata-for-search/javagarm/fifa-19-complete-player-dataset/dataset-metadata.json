@@ -1,0 +1,42 @@
+{
+  "id": "javagarm/fifa-19-complete-player-dataset",
+  "id_no": 924360,
+  "datasetSlugNullable": "fifa-19-complete-player-dataset",
+  "ownerUserNullable": "javagarm",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "FIFA 19 complete player dataset",
+  "subtitleNullable": "18k+ FIFA 19 players, ~90 attributes extracted from the latest FIFA database",
+  "descriptionNullable": "Context\nFootball analytics\n\nContent\nDetailed attributes for every player registered in the latest edition of FIFA 19 database.\n\nAcknowledgments\nData scraped from https://sofifa.com/\n\nInspiration\nInspired by this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset",
+  "datasetId": 924360,
+  "datasetSlug": "fifa-19-complete-player-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "javagarm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 16792,
+  "totalVotes": 273,
+  "totalDownloads": 4459,
+  "title": "FIFA 19 complete player dataset",
+  "hasTitle": true,
+  "subtitle": "18k+ FIFA 19 players, ~90 attributes extracted from the latest FIFA database",
+  "hasSubtitle": true,
+  "description": "Context\nFootball analytics\n\nContent\nDetailed attributes for every player registered in the latest edition of FIFA 19 database.\n\nAcknowledgments\nData scraped from https://sofifa.com/\n\nInspiration\nInspired by this dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "football",
+    "basketball",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "yaminh/smartphone-sale-dataset",
+  "id_no": 4532632,
+  "datasetSlugNullable": "smartphone-sale-dataset",
+  "ownerUserNullable": "yaminh",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Smartphones Sales Dataset",
+  "subtitleNullable": "Smartphones Sale price in India",
+  "descriptionNullable": "Description for each of the variables:\n\n1. **Brands:** The brands of smartphones included in the dataset.\n2. **Colors:** The colors available for the smartphones.\n3. **Memory:** The storage capacity of the smartphones, typically measured in gigabytes (GB) or megabytes (MB).\n4. **Storage:** The internal storage capacity of the smartphones, often measured in gigabytes (GB) or megabytes (MB).\n5. **Rating:** The user ratings or scores assigned to the smartphones, reflecting user satisfaction or performance.\n6. **Selling Price:** The price at which the smartphones are sold to consumers.\n7. **Original Price:** The original or list price of the smartphones before any discounts or promotions.\n8. **Mobile:** Indicates whether the device is a mobile phone.\n9. **Discount:** The discount applied to the original price to calculate the selling price.\n10. **Discount percentage:** The percentage discount applied to the original price to calculate the selling price.",
+  "datasetId": 4532632,
+  "datasetSlug": "smartphone-sale-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yaminh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 19275,
+  "totalVotes": 49,
+  "totalDownloads": 5049,
+  "title": "Smartphones Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Smartphones Sale price in India",
+  "hasSubtitle": true,
+  "description": "Description for each of the variables:\n\n1. **Brands:** The brands of smartphones included in the dataset.\n2. **Colors:** The colors available for the smartphones.\n3. **Memory:** The storage capacity of the smartphones, typically measured in gigabytes (GB) or megabytes (MB).\n4. **Storage:** The internal storage capacity of the smartphones, often measured in gigabytes (GB) or megabytes (MB).\n5. **Rating:** The user ratings or scores assigned to the smartphones, reflecting user satisfaction or performance.\n6. **Selling Price:** The price at which the smartphones are sold to consumers.\n7. **Original Price:** The original or list price of the smartphones before any discounts or promotions.\n8. **Mobile:** Indicates whether the device is a mobile phone.\n9. **Discount:** The discount applied to the original price to calculate the selling price.\n10. **Discount percentage:** The percentage discount applied to the original price to calculate the selling price.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "mobile and wireless",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

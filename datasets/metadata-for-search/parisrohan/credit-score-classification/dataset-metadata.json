@@ -1,0 +1,43 @@
+{
+  "id": "parisrohan/credit-score-classification",
+  "id_no": 2289007,
+  "datasetSlugNullable": "credit-score-classification",
+  "ownerUserNullable": "parisrohan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Credit score classification",
+  "subtitleNullable": "Given a person\u2019s credit-related information, build a machine learning model that",
+  "descriptionNullable": "**Problem Statement**\nYou are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.\n\n**Task**\nGiven a person\u2019s credit-related information, build a machine learning model that can classify the credit score.",
+  "datasetId": 2289007,
+  "datasetSlug": "credit-score-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "parisrohan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 203089,
+  "totalVotes": 248,
+  "totalDownloads": 29392,
+  "title": "Credit score classification",
+  "hasTitle": true,
+  "subtitle": "Given a person\u2019s credit-related information, build a machine learning model that",
+  "hasSubtitle": true,
+  "description": "**Problem Statement**\nYou are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.\n\n**Task**\nGiven a person\u2019s credit-related information, build a machine learning model that can classify the credit score.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "finance",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

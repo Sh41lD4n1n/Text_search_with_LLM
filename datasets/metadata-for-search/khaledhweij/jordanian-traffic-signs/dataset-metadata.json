@@ -1,0 +1,43 @@
+{
+  "id": "khaledhweij/jordanian-traffic-signs",
+  "id_no": 2113422,
+  "datasetSlugNullable": "jordanian-traffic-signs",
+  "ownerUserNullable": "khaledhweij",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Jordanian (Arabic) Traffic signs in Yolo format",
+  "subtitleNullable": "Annotations of bounding boxes in txt files for all images",
+  "descriptionNullable": "A Jordanian traffic signs dataset contains 10566 signs in 9246 images. The dataset has 7 classes which are:\nNo Entry 0\nHump 1\nStop 2\nPedestrian Cross 3\nNo Stop 4\nGive Way 5\nPass Either 6\n\nThe contrast and brightness of the images were adjusted to generate two more copies of each collected image, the letter A stands for higher contrast images, and the letter B for higher brightness images. \nThese images were collected using Google Maps Street View feature in the streets of the Jordanian capital, Amman. Note that the street view feature is back to 2017 but in high quality.\nThe *.txt files include annotations of bounding boxes of the collected Traffic Sings in the YOLO format:\n[Class Number] [center in x] [center in y] [Width] [Height]\nsing's class number is mentioned above next to the sign type.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9644557%2Ff6f7ff1d209fe6ef60615a2ae39748e6%2FA18B5049-AF4B-4911-9863-77D6CE1D95A8.png?generation=1651280217474609&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9644557%2Fccf15e21bb7f6ceaab8c144937a8843a%2FAD94A331-FDEC-4503-B213-AC5542E3FD0E.png?generation=1651280217419988&alt=media)\n",
+  "datasetId": 2113422,
+  "datasetSlug": "jordanian-traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "khaledhweij",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2078,
+  "totalVotes": 17,
+  "totalDownloads": 262,
+  "title": "Jordanian (Arabic) Traffic signs in Yolo format",
+  "hasTitle": true,
+  "subtitle": "Annotations of bounding boxes in txt files for all images",
+  "hasSubtitle": true,
+  "description": "A Jordanian traffic signs dataset contains 10566 signs in 9246 images. The dataset has 7 classes which are:\nNo Entry 0\nHump 1\nStop 2\nPedestrian Cross 3\nNo Stop 4\nGive Way 5\nPass Either 6\n\nThe contrast and brightness of the images were adjusted to generate two more copies of each collected image, the letter A stands for higher contrast images, and the letter B for higher brightness images. \nThese images were collected using Google Maps Street View feature in the streets of the Jordanian capital, Amman. Note that the street view feature is back to 2017 but in high quality.\nThe *.txt files include annotations of bounding boxes of the collected Traffic Sings in the YOLO format:\n[Class Number] [center in x] [center in y] [Width] [Height]\nsing's class number is mentioned above next to the sign type.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9644557%2Ff6f7ff1d209fe6ef60615a2ae39748e6%2FA18B5049-AF4B-4911-9863-77D6CE1D95A8.png?generation=1651280217474609&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9644557%2Fccf15e21bb7f6ceaab8c144937a8843a%2FAD94A331-FDEC-4503-B213-AC5542E3FD0E.png?generation=1651280217419988&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software",
+    "classification",
+    "image",
+    "multiclass classification",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

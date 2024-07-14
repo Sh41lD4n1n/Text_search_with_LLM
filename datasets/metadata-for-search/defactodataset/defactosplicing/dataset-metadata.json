@@ -1,0 +1,40 @@
+{
+  "id": "defactodataset/defactosplicing",
+  "id_no": 1858652,
+  "datasetSlugNullable": "defactosplicing",
+  "ownerUserNullable": "defactodataset",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "defacto-splicing",
+  "subtitleNullable": "Splicings from the DEFACTO dataset",
+  "descriptionNullable": "### Context\n\nDigital image forensic has gained a lot of attention as it is becoming easier for anyone to make forged images. Several areas are concerned by image manipulation: a doctored image can increase the credibility of fake news, impostors can use morphed images to pretend being someone else.\n\nIt became of critical importance to be able to recognize the manipulations suffered by the images. To do this, the first need is to be able to rely on reliable and controlled data sets representing the most characteristic cases encountered. The purpose of this work is to lay the foundations of a body of tests allowing both the qualification of automatic methods of authentication and detection of manipulations and the training of these methods.\n\n### Content\n\nThis dataset contains about 105000 splicing forgeries are available under the splicing directory. Each splicing is accompanied by two binary masks. One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the location of the source. The external image can be found in the JSON file under the graph subdirectory.\n\n### Reference\n\nIf you use this dataset for your research, please refer to the original paper : \n`@INPROCEEDINGS{DEFACTODataset, AUTHOR=\u201dGa\u00ebl Mahfoudi and Badr Tajini and Florent Retraint and Fr{'e}d{'e}ric Morain-Nicolier and Jean Luc Dugelay and Marc Pic\u201d, TITLE=\u201d{DEFACTO:} Image and Face Manipulation Dataset\u201d, BOOKTITLE=\u201d27th European Signal Processing Conference (EUSIPCO 2019)\u201d, ADDRESS=\u201dA Coru\u00f1a, Spain\u201d, DAYS=1, MONTH=sep, YEAR=2019 }`\n\nand to the [MSCOCO dataset](https://cocodataset.org/#home)\n\n### License\n\nThe DEFACTO Consortium does not own the copyright of those images. Please refer to the MSCOCO [terms of use](https://cocodataset.org/#termsofuse) for all images based on their Dataset.",
+  "datasetId": 1858652,
+  "datasetSlug": "defactosplicing",
+  "hasDatasetSlug": true,
+  "ownerUser": "defactodataset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 7525,
+  "totalVotes": 15,
+  "totalDownloads": 1503,
+  "title": "defacto-splicing",
+  "hasTitle": true,
+  "subtitle": "Splicings from the DEFACTO dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDigital image forensic has gained a lot of attention as it is becoming easier for anyone to make forged images. Several areas are concerned by image manipulation: a doctored image can increase the credibility of fake news, impostors can use morphed images to pretend being someone else.\n\nIt became of critical importance to be able to recognize the manipulations suffered by the images. To do this, the first need is to be able to rely on reliable and controlled data sets representing the most characteristic cases encountered. The purpose of this work is to lay the foundations of a body of tests allowing both the qualification of automatic methods of authentication and detection of manipulations and the training of these methods.\n\n### Content\n\nThis dataset contains about 105000 splicing forgeries are available under the splicing directory. Each splicing is accompanied by two binary masks. One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the location of the source. The external image can be found in the JSON file under the graph subdirectory.\n\n### Reference\n\nIf you use this dataset for your research, please refer to the original paper : \n`@INPROCEEDINGS{DEFACTODataset, AUTHOR=\u201dGa\u00ebl Mahfoudi and Badr Tajini and Florent Retraint and Fr{'e}d{'e}ric Morain-Nicolier and Jean Luc Dugelay and Marc Pic\u201d, TITLE=\u201d{DEFACTO:} Image and Face Manipulation Dataset\u201d, BOOKTITLE=\u201d27th European Signal Processing Conference (EUSIPCO 2019)\u201d, ADDRESS=\u201dA Coru\u00f1a, Spain\u201d, DAYS=1, MONTH=sep, YEAR=2019 }`\n\nand to the [MSCOCO dataset](https://cocodataset.org/#home)\n\n### License\n\nThe DEFACTO Consortium does not own the copyright of those images. Please refer to the MSCOCO [terms of use](https://cocodataset.org/#termsofuse) for all images based on their Dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

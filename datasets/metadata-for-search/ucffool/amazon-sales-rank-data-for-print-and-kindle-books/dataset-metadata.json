@@ -1,0 +1,42 @@
+{
+  "id": "ucffool/amazon-sales-rank-data-for-print-and-kindle-books",
+  "id_no": 34436,
+  "datasetSlugNullable": "amazon-sales-rank-data-for-print-and-kindle-books",
+  "ownerUserNullable": "ucffool",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Amazon sales rank data for print and kindle books",
+  "subtitleNullable": "61,000 unique ASINs and 200,000,000 salesrank data points (JSON / CSV)",
+  "descriptionNullable": "### License\n**CC-BY-NC-SA** Credit to [NovelRank.com][1] for compiling the data and Amazon.com as the data source.\n\n### Context\n\nI've been collecting salesrank for authors publishing through Amazon worldwide for almost a decade via the site NovelRank.com. The data is collected as frequently as hourly and as infrequently as once every 24 hours. Over a single year this represents GBs of data. I think this would be a great time to let the Kaggle community play with it.\n\n\n### Content\n\nThe earliest data is from Jan 1, 2017. The latest data is from June 29, 2018. \nWithin the 61,000+ unique books, there is roughly a 50/50 split between **Kindle Editions** and **Print Editions**. This is critically important because **Amazon sales rankings are grouped under the *Books* umbrella into those two categories**. Thus you can have two books in the data set have the same sales rank at the same time if one is in the *kindle* group and the other is in the *book* group.\n\nWithin the data set there is a small subset of books that have more consistent sales rank collection, specifically they have **hourly salesrank collection**. *(Future Goal: offer a .zip file of only these ASINs). These titles are tracked by NovelRank Pro users which has the benefit of no throttling to their tracking. Books that don't sell for a while will have tracking throttled to as low as once every 24 hours until a drop in sales rank is detected, thus the variability in most of the data collection timestamps.\n\nFinally, **when salesrank has not changed, NovelRank does not record it**. In other words, taking the books that have hourly checks mentioned above, if salesrank has not changed, then there would be a gap, possibly 2 hours between the data points or more due to this housekeeping detail. *This is true for books that maintain a very good ranking (where it is harder for the book to manage but more likely to occur) as well as for books with a very low ranking.* \n\n**Sales rank is updated on an hourly basis (at best) by Amazon.**\n\n### Inspiration\n\nFor years I've used salesrank changes to estimate # of sales for authors, which due to inherent flaws in ranking data as a primary source has been better for low volume sellers than high volume sellers. This is aggravated by unreliable data collection to match actual sales to sales rank changes to improve things. \n\nSome of the flaws:\n\n- Purchasing multiple copies of a title in a single order will count as 1 sale in terms of sales rank improvement.\n- Sales rank changes due to sales can lag between 3 and 12 hours from the actual sale.\n- Sales rankings are unique to the total number of items in the group on that domain and since this is constantly in flux, no singular formula represents a good estimation. Kindle Edition books on Amazon.com will have a much wider range and much greater level of changes than Print Edition books on Amazon.it (Italy) due to group size.\n\n\n  [1]: https://www.novelrank.com/",
+  "datasetId": 34436,
+  "datasetSlug": "amazon-sales-rank-data-for-print-and-kindle-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "ucffool",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 68813,
+  "totalVotes": 120,
+  "totalDownloads": 4957,
+  "title": "Amazon sales rank data for print and kindle books",
+  "hasTitle": true,
+  "subtitle": "61,000 unique ASINs and 200,000,000 salesrank data points (JSON / CSV)",
+  "hasSubtitle": true,
+  "description": "### License\n**CC-BY-NC-SA** Credit to [NovelRank.com][1] for compiling the data and Amazon.com as the data source.\n\n### Context\n\nI've been collecting salesrank for authors publishing through Amazon worldwide for almost a decade via the site NovelRank.com. The data is collected as frequently as hourly and as infrequently as once every 24 hours. Over a single year this represents GBs of data. I think this would be a great time to let the Kaggle community play with it.\n\n\n### Content\n\nThe earliest data is from Jan 1, 2017. The latest data is from June 29, 2018. \nWithin the 61,000+ unique books, there is roughly a 50/50 split between **Kindle Editions** and **Print Editions**. This is critically important because **Amazon sales rankings are grouped under the *Books* umbrella into those two categories**. Thus you can have two books in the data set have the same sales rank at the same time if one is in the *kindle* group and the other is in the *book* group.\n\nWithin the data set there is a small subset of books that have more consistent sales rank collection, specifically they have **hourly salesrank collection**. *(Future Goal: offer a .zip file of only these ASINs). These titles are tracked by NovelRank Pro users which has the benefit of no throttling to their tracking. Books that don't sell for a while will have tracking throttled to as low as once every 24 hours until a drop in sales rank is detected, thus the variability in most of the data collection timestamps.\n\nFinally, **when salesrank has not changed, NovelRank does not record it**. In other words, taking the books that have hourly checks mentioned above, if salesrank has not changed, then there would be a gap, possibly 2 hours between the data points or more due to this housekeeping detail. *This is true for books that maintain a very good ranking (where it is harder for the book to manage but more likely to occur) as well as for books with a very low ranking.* \n\n**Sales rank is updated on an hourly basis (at best) by Amazon.**\n\n### Inspiration\n\nFor years I've used salesrank changes to estimate # of sales for authors, which due to inherent flaws in ranking data as a primary source has been better for low volume sellers than high volume sellers. This is aggravated by unreliable data collection to match actual sales to sales rank changes to improve things. \n\nSome of the flaws:\n\n- Purchasing multiple copies of a title in a single order will count as 1 sale in terms of sales rank improvement.\n- Sales rank changes due to sales can lag between 3 and 12 hours from the actual sale.\n- Sales rankings are unique to the total number of items in the group on that domain and since this is constantly in flux, no singular formula represents a good estimation. Kindle Edition books on Amazon.com will have a much wider range and much greater level of changes than Print Edition books on Amazon.it (Italy) due to group size.\n\n\n  [1]: https://www.novelrank.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "internet",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

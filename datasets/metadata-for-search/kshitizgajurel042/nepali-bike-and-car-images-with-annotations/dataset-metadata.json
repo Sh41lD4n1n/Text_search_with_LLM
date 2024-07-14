@@ -1,0 +1,43 @@
+{
+  "id": "kshitizgajurel042/nepali-bike-and-car-images-with-annotations",
+  "id_no": 4366764,
+  "datasetSlugNullable": "nepali-bike-and-car-images-with-annotations",
+  "ownerUserNullable": "kshitizgajurel042",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Nepali Bike and Car images with annotations",
+  "subtitleNullable": "",
+  "descriptionNullable": "The dataset comprises a diverse collection of images, focusing specifically on Nepali motor vehicles, including motorcycles and scooters, along with annotations to facilitate object detection tasks. The dataset is designed to support computer vision and machine learning applications that involve the identification and localization of vehicles, contributing to the development and training of object detection models.\n\nKey features of the dataset include a comprehensive representation of various motorcycle and scooter models commonly found in Nepal, reflecting the unique characteristics and specifications of vehicles used in the region. Additionally, the dataset includes images of cars, providing a broader scope for understanding and detecting different types of motor vehicles on the road.\n\nEach image in the dataset is accompanied by annotations, which typically include information about the bounding boxes around the vehicles and associated class labels. This annotation data is essential for training object detection algorithms, allowing the models to learn and generalize patterns for accurate detection and localization of bikes and cars within images.\n\nResearchers, developers, and data scientists can leverage this dataset to enhance the capabilities of their object detection models, particularly those focused on recognizing and analyzing Nepali motor vehicles. The dataset's specificity to the Nepali context makes it valuable for applications related to traffic monitoring, vehicle counting, and overall transportation-related analysis in the context of Nepal.",
+  "datasetId": 4366764,
+  "datasetSlug": "nepali-bike-and-car-images-with-annotations",
+  "hasDatasetSlug": true,
+  "ownerUser": "kshitizgajurel042",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 385,
+  "totalVotes": 6,
+  "totalDownloads": 85,
+  "title": "Nepali Bike and Car images with annotations",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The dataset comprises a diverse collection of images, focusing specifically on Nepali motor vehicles, including motorcycles and scooters, along with annotations to facilitate object detection tasks. The dataset is designed to support computer vision and machine learning applications that involve the identification and localization of vehicles, contributing to the development and training of object detection models.\n\nKey features of the dataset include a comprehensive representation of various motorcycle and scooter models commonly found in Nepal, reflecting the unique characteristics and specifications of vehicles used in the region. Additionally, the dataset includes images of cars, providing a broader scope for understanding and detecting different types of motor vehicles on the road.\n\nEach image in the dataset is accompanied by annotations, which typically include information about the bounding boxes around the vehicles and associated class labels. This annotation data is essential for training object detection algorithms, allowing the models to learn and generalize patterns for accurate detection and localization of bikes and cars within images.\n\nResearchers, developers, and data scientists can leverage this dataset to enhance the capabilities of their object detection models, particularly those focused on recognizing and analyzing Nepali motor vehicles. The dataset's specificity to the Nepali context makes it valuable for applications related to traffic monitoring, vehicle counting, and overall transportation-related analysis in the context of Nepal.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "tensorflow",
+    "nepali",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

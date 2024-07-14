@@ -1,0 +1,39 @@
+{
+  "id": "harlfoxem/housesalesprediction",
+  "id_no": 128,
+  "datasetSlugNullable": "housesalesprediction",
+  "ownerUserNullable": "harlfoxem",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "House Sales in King County, USA",
+  "subtitleNullable": "Predict house price using regression",
+  "descriptionNullable": "This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.\n\nIt's a great dataset for evaluating simple regression models.",
+  "datasetId": 128,
+  "datasetSlug": "housesalesprediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "harlfoxem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1103012,
+  "totalVotes": 2157,
+  "totalDownloads": 196604,
+  "title": "House Sales in King County, USA",
+  "hasTitle": true,
+  "subtitle": "Predict house price using regression",
+  "hasSubtitle": true,
+  "description": "This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.\n\nIt's a great dataset for evaluating simple regression models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

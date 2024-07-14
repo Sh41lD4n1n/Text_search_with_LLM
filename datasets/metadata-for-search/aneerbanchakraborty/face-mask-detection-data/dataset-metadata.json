@@ -1,0 +1,45 @@
+{
+  "id": "aneerbanchakraborty/face-mask-detection-data",
+  "id_no": 727156,
+  "datasetSlugNullable": "face-mask-detection-data",
+  "ownerUserNullable": "aneerbanchakraborty",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Face Mask Detection Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "## Face Mask detection\n\nIn this pandemic, face masks are a norm and for good reason. Various businesses are already mandating face masks across the globe and computer vision can be used to do the same using OpenCV. You may check out my [GitHub](https://github.com/Aneerban1411/FaceMaskDetection) for more info.\n\n\n### Content\n\nIt is a data of 4000 images of masked and unmasked faces with data augmentation.\n\n\n### Acknowledgements\n\nI would like to thank [Rakshana0802](https://www.kaggle.com/rakshana0802) \n",
+  "datasetId": 727156,
+  "datasetSlug": "face-mask-detection-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "aneerbanchakraborty",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 5444,
+  "totalVotes": 6,
+  "totalDownloads": 424,
+  "title": "Face Mask Detection Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "## Face Mask detection\n\nIn this pandemic, face masks are a norm and for good reason. Various businesses are already mandating face masks across the globe and computer vision can be used to do the same using OpenCV. You may check out my [GitHub](https://github.com/Aneerban1411/FaceMaskDetection) for more info.\n\n\n### Content\n\nIt is a data of 4000 images of masked and unmasked faces with data augmentation.\n\n\n### Acknowledgements\n\nI would like to thank [Rakshana0802](https://www.kaggle.com/rakshana0802) \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "rakshana0802",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

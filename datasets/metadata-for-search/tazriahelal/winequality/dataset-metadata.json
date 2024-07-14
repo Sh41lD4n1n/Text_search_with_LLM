@@ -1,0 +1,39 @@
+{
+  "id": "tazriahelal/winequality",
+  "id_no": 3084017,
+  "datasetSlugNullable": "winequality",
+  "ownerUserNullable": "tazriahelal",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "wineQuality",
+  "subtitleNullable": "",
+  "descriptionNullable": "The two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).\n\nThis dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality , I just shared it to kaggle for convenience. \n\n**Content**\nFor more information, read [Cortez et al., 2009].\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\n\n**Output variable (based on sensory data):**\n12 - quality (score between 0 and 10)",
+  "datasetId": 3084017,
+  "datasetSlug": "winequality",
+  "hasDatasetSlug": true,
+  "ownerUser": "tazriahelal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 158,
+  "totalVotes": 3,
+  "totalDownloads": 30,
+  "title": "wineQuality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).\n\nThis dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality , I just shared it to kaggle for convenience. \n\n**Content**\nFor more information, read [Cortez et al., 2009].\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\n\n**Output variable (based on sensory data):**\n12 - quality (score between 0 and 10)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

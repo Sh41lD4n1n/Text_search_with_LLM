@@ -1,0 +1,39 @@
+{
+  "id": "dareenalharthi/jamalon-arabic-books-dataset",
+  "id_no": 296425,
+  "datasetSlugNullable": "jamalon-arabic-books-dataset",
+  "ownerUserNullable": "dareenalharthi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Jamalon Arabic Books Dataset",
+  "subtitleNullable": "More than 8,000 books information",
+  "descriptionNullable": "### Context\n\nJamalon is the largest online bookstore in the Middle East, offering more than 9.5 million titles of Arabic and English books with home delivery. This dataset contains a wide collection of Arabic books in different fields of different categories.\n\n### Content\n\nMore than 8000 Arabic books. Each row represents a book and displays its information.\n\n### Acknowledgements\n\nThis dataset was scraped from Jamalon bookstore website.\n\n### Inspiration\n\nWhat categories of books are most expensive? What are the popular books categories recently? What are the most popular  category of writing recently?",
+  "datasetId": 296425,
+  "datasetSlug": "jamalon-arabic-books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dareenalharthi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 22357,
+  "totalVotes": 59,
+  "totalDownloads": 2124,
+  "title": "Jamalon Arabic Books Dataset",
+  "hasTitle": true,
+  "subtitle": "More than 8,000 books information",
+  "hasSubtitle": true,
+  "description": "### Context\n\nJamalon is the largest online bookstore in the Middle East, offering more than 9.5 million titles of Arabic and English books with home delivery. This dataset contains a wide collection of Arabic books in different fields of different categories.\n\n### Content\n\nMore than 8000 Arabic books. Each row represents a book and displays its information.\n\n### Acknowledgements\n\nThis dataset was scraped from Jamalon bookstore website.\n\n### Inspiration\n\nWhat categories of books are most expensive? What are the popular books categories recently? What are the most popular  category of writing recently?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kazanova/sentiment140",
+  "id_no": 2477,
+  "datasetSlugNullable": "sentiment140",
+  "ownerUserNullable": "kazanova",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Sentiment140 dataset with 1.6 million tweets",
+  "subtitleNullable": "Sentiment analysis with tweets",
+  "descriptionNullable": "### Context\n\nThis is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .\n\n### Content\n\nIt contains the following 6 fields:\n\n1. **target**: the polarity of the tweet (*0* = negative, *2* = neutral, *4* = positive)\n\n2. **ids**: The id of the tweet ( *2087*)\n\n3. **date**: the date of the tweet (*Sat May 16 23:58:44 UTC 2009*)\n\n4. **flag**: The query (*lyx*). If there is no query, then this value is NO_QUERY.\n\n5. **user**: the user that tweeted (*robotickilldozr*)\n\n6.  **text**: the text of the tweet (*Lyx is cool*)\n\n\n### Acknowledgements\n\nThe official link regarding the dataset with resources about how it was generated is [here][1]\nThe official paper detailing the approach is  [here][2]\n\nCitation: Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. *CS224N Project Report, Stanford, 1(2009), p.12*.\n\n\n### Inspiration\n\nTo detect severity from tweets. You [may have a look at this][3].\n\n[1]: http://%20http://help.sentiment140.com/for-students/\n[2]: http://bhttp://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf\n[3]: https://www.linkedin.com/pulse/social-machine-learning-h2o-twitter-python-marios-michailidis",
+  "datasetId": 2477,
+  "datasetSlug": "sentiment140",
+  "hasDatasetSlug": true,
+  "ownerUser": "kazanova",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 906540,
+  "totalVotes": 1801,
+  "totalDownloads": 156888,
+  "title": "Sentiment140 dataset with 1.6 million tweets",
+  "hasTitle": true,
+  "subtitle": "Sentiment analysis with tweets",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .\n\n### Content\n\nIt contains the following 6 fields:\n\n1. **target**: the polarity of the tweet (*0* = negative, *2* = neutral, *4* = positive)\n\n2. **ids**: The id of the tweet ( *2087*)\n\n3. **date**: the date of the tweet (*Sat May 16 23:58:44 UTC 2009*)\n\n4. **flag**: The query (*lyx*). If there is no query, then this value is NO_QUERY.\n\n5. **user**: the user that tweeted (*robotickilldozr*)\n\n6.  **text**: the text of the tweet (*Lyx is cool*)\n\n\n### Acknowledgements\n\nThe official link regarding the dataset with resources about how it was generated is [here][1]\nThe official paper detailing the approach is  [here][2]\n\nCitation: Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. *CS224N Project Report, Stanford, 1(2009), p.12*.\n\n\n### Inspiration\n\nTo detect severity from tweets. You [may have a look at this][3].\n\n[1]: http://%20http://help.sentiment140.com/for-students/\n[2]: http://bhttp://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf\n[3]: https://www.linkedin.com/pulse/social-machine-learning-h2o-twitter-python-marios-michailidis",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "linguistics",
+    "internet",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

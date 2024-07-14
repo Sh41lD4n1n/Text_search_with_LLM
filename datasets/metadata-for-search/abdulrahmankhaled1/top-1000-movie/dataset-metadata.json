@@ -1,0 +1,39 @@
+{
+  "id": "abdulrahmankhaled1/top-1000-movie",
+  "id_no": 2879444,
+  "datasetSlugNullable": "top-1000-movie",
+  "ownerUserNullable": "abdulrahmankhaled1",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Top 1000 IMDB Movie",
+  "subtitleNullable": "Dataset of top 1000 movie in IMDB",
+  "descriptionNullable": "",
+  "datasetId": 2879444,
+  "datasetSlug": "top-1000-movie",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdulrahmankhaled1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 276,
+  "totalVotes": 14,
+  "totalDownloads": 29,
+  "title": "Top 1000 IMDB Movie",
+  "hasTitle": true,
+  "subtitle": "Dataset of top 1000 movie in IMDB",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

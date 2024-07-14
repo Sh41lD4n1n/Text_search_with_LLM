@@ -1,0 +1,44 @@
+{
+  "id": "jvageesh11/foodies-ai-food-image-classification-challenge",
+  "id_no": 4466591,
+  "datasetSlugNullable": "foodies-ai-food-image-classification-challenge",
+  "ownerUserNullable": "jvageesh11",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Foodies.AI - Food Image Classification Challenge",
+  "subtitleNullable": "Indian Culinary Dataset - HumanoidX & Delish",
+  "descriptionNullable": "This dataset contains a collection of images showcasing various dishes from Indian cuisine. The images cover a wide range of traditional and popular dishes such as naan, dosa, biryani, samosa, and more. Each image is labeled with the name of the dish it represents. The dataset is suitable for tasks such as image classification, object recognition, and culinary research. It can be used by researchers, data enthusiasts, and machine learning practitioners interested in exploring and analyzing Indian culinary heritage.",
+  "datasetId": 4466591,
+  "datasetSlug": "foodies-ai-food-image-classification-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "jvageesh11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2126,
+  "totalVotes": 22,
+  "totalDownloads": 192,
+  "title": "Foodies.AI - Food Image Classification Challenge",
+  "hasTitle": true,
+  "subtitle": "Indian Culinary Dataset - HumanoidX & Delish",
+  "hasSubtitle": true,
+  "description": "This dataset contains a collection of images showcasing various dishes from Indian cuisine. The images cover a wide range of traditional and popular dishes such as naan, dosa, biryani, samosa, and more. Each image is labeled with the name of the dish it represents. The dataset is suitable for tasks such as image classification, object recognition, and culinary research. It can be used by researchers, data enthusiasts, and machine learning practitioners interested in exploring and analyzing Indian culinary heritage.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cooking and recipes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "aravindnagarajan",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

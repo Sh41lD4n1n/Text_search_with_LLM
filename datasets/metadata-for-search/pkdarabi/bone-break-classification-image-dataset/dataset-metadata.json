@@ -1,0 +1,44 @@
+{
+  "id": "pkdarabi/bone-break-classification-image-dataset",
+  "id_no": 4257126,
+  "datasetSlugNullable": "bone-break-classification-image-dataset",
+  "ownerUserNullable": "pkdarabi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bone Break Classification Image Dataset",
+  "subtitleNullable": "A Multi Class Image DataSet ",
+  "descriptionNullable": "#Bone Break Classification: A Computer Vision DataSet\n\nUtilize this dataset and training models to create a **computer vision system** capable of accurately classifying **bone breaks** from **X-ray images**.\n \nThe dataset covers a range of bone fracture classes, such as **avulsion fractures**, **comminuted fractures**, **fracture-dislocations**, **greenstick fractures**, **hairline fractures**, **impacted fractures**, **longitudinal fractures**, **oblique fractures**, **pathological fractures**, and **spiral fractures**.\n\nAutomating the **fracture classification process** has the potential to enhance patient care and aid medical professionals in making well-informed decisions.",
+  "datasetId": 4257126,
+  "datasetSlug": "bone-break-classification-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pkdarabi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8817,
+  "totalVotes": 62,
+  "totalDownloads": 1442,
+  "title": "Bone Break Classification Image Dataset",
+  "hasTitle": true,
+  "subtitle": "A Multi Class Image DataSet ",
+  "hasSubtitle": true,
+  "description": "#Bone Break Classification: A Computer Vision DataSet\n\nUtilize this dataset and training models to create a **computer vision system** capable of accurately classifying **bone breaks** from **X-ray images**.\n \nThe dataset covers a range of bone fracture classes, such as **avulsion fractures**, **comminuted fractures**, **fracture-dislocations**, **greenstick fractures**, **hairline fractures**, **impacted fractures**, **longitudinal fractures**, **oblique fractures**, **pathological fractures**, and **spiral fractures**.\n\nAutomating the **fracture classification process** has the potential to enhance patient care and aid medical professionals in making well-informed decisions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "multiclass classification",
+    "transfer learning",
+    "health conditions",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kunalduttads/tmdb-top-10000-10k-movies-dataset",
+  "id_no": 4509609,
+  "datasetSlugNullable": "tmdb-top-10000-10k-movies-dataset",
+  "ownerUserNullable": "kunalduttads",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "TMDB TOP 10000 (10K) Movies Dataset",
+  "subtitleNullable": "This dataset contains the TOP 10K movies fetched from TMDB API as of March 2024.",
+  "descriptionNullable": "",
+  "datasetId": 4509609,
+  "datasetSlug": "tmdb-top-10000-10k-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kunalduttads",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 59,
+  "totalVotes": 1,
+  "totalDownloads": 11,
+  "title": "TMDB TOP 10000 (10K) Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains the TOP 10K movies fetched from TMDB API as of March 2024.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "intermediate",
+    "recommender systems",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

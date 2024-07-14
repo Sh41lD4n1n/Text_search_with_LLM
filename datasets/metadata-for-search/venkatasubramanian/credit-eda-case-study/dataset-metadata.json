@@ -1,0 +1,44 @@
+{
+  "id": "venkatasubramanian/credit-eda-case-study",
+  "id_no": 1464713,
+  "datasetSlugNullable": "credit-eda-case-study",
+  "ownerUserNullable": "venkatasubramanian",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Credit EDA Case Study",
+  "subtitleNullable": "Identifying target customer audience for providing loan",
+  "descriptionNullable": "**Introduction**\nThis case study aims to give an idea of applying EDA in a real business scenario. In this case study, we will develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.\n\n**Business Understanding**\nThe loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. Suppose we work for a consumer finance company which specializes in lending various types of loans to urban customers. We will have to use EDA to analyze the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.\n\nWhen the company receives a loan application, the company has to decide for loan approval based on the applicant\u2019s profile. Two types of risks are associated with the bank\u2019s decision:\n\n- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company\n\n- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.\n\nThe data given below contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:\n\nThe client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,\n\nAll other cases: All other cases when the payment is paid on time.\n\nWhen a client applies for a loan, there are four types of decisions that could be taken by the client/company):\n\nApproved: The Company has approved loan Application\n\nCancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client he received worse pricing which he did not want.\n\nRefused: The company had rejected the loan (because the client does not meet their requirements etc.).\n\nUnused offer:  Loan has been cancelled by the client but on different stages of the process.\n\nIn this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.\n\n**Business Objectives**\nThis case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.\n\nIn other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment.\n\n**Data Understanding**\n\nThis dataset has 3 files as explained below: \n\n1. 'application_data.csv'  contains all the information of the client at the time of application.\nThe data is about whether a client has payment difficulties.\n\n2. 'previous_application.csv' contains information about the client\u2019s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.\n\n3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.",
+  "datasetId": 1464713,
+  "datasetSlug": "credit-eda-case-study",
+  "hasDatasetSlug": true,
+  "ownerUser": "venkatasubramanian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 32666,
+  "totalVotes": 37,
+  "totalDownloads": 3255,
+  "title": "Credit EDA Case Study",
+  "hasTitle": true,
+  "subtitle": "Identifying target customer audience for providing loan",
+  "hasSubtitle": true,
+  "description": "**Introduction**\nThis case study aims to give an idea of applying EDA in a real business scenario. In this case study, we will develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.\n\n**Business Understanding**\nThe loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. Suppose we work for a consumer finance company which specializes in lending various types of loans to urban customers. We will have to use EDA to analyze the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.\n\nWhen the company receives a loan application, the company has to decide for loan approval based on the applicant\u2019s profile. Two types of risks are associated with the bank\u2019s decision:\n\n- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company\n\n- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.\n\nThe data given below contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:\n\nThe client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,\n\nAll other cases: All other cases when the payment is paid on time.\n\nWhen a client applies for a loan, there are four types of decisions that could be taken by the client/company):\n\nApproved: The Company has approved loan Application\n\nCancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client he received worse pricing which he did not want.\n\nRefused: The company had rejected the loan (because the client does not meet their requirements etc.).\n\nUnused offer:  Loan has been cancelled by the client but on different stages of the process.\n\nIn this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.\n\n**Business Objectives**\nThis case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.\n\nIn other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment.\n\n**Data Understanding**\n\nThis dataset has 3 files as explained below: \n\n1. 'application_data.csv'  contains all the information of the client at the time of application.\nThe data is about whether a client has payment difficulties.\n\n2. 'previous_application.csv' contains information about the client\u2019s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.\n\n3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "lending",
+    "banking",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

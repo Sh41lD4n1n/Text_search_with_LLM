@@ -1,0 +1,40 @@
+{
+  "id": "nourmekkijj/stress-and-anxiety-posts-on-reddit",
+  "id_no": 5295427,
+  "datasetSlugNullable": "stress-and-anxiety-posts-on-reddit",
+  "ownerUserNullable": "nourmekkijj",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Stress and Anxiety Posts on Reddit",
+  "subtitleNullable": "4,000 Reddit posts from people experiencing stress/anxiety.",
+  "descriptionNullable": "This dataset contains 4,000 entries from Reddit, focusing on posts related to stress and anxiety. It provides a rich resource for analyzing the textual content and understanding the prevalence and context of stress and anxiety in online discussions.\n\n**Colomns**\n**Text**: The content of the Reddit post.\n**is_stressed/anxious:**A binary indicator where '1' denotes the presence of stress or anxiety in the post, and '0' denotes the absence.\n\nin this dataset i have merged the title and post content into one filed 'text' .\n\n**Usage**\n\nThis dataset can be used for various purposes, including but not limited to:\n\n- Sentiment analysis to gauge the emotional tone of the posts.\n- Natural language processing tasks such as topic modeling, keyword extraction, and text classification.\n- Studies on mental health trends and the impact of stress and anxiety on social media.\n- Development of machine learning models to predict mental health issues based on textual data.\n\n\n\nThis cleaned dataset offers valuable insights for those interested in exploring the dynamics of stress and anxiety as expressed in online communities, particularly on Reddit.",
+  "datasetId": 5295427,
+  "datasetSlug": "stress-and-anxiety-posts-on-reddit",
+  "hasDatasetSlug": true,
+  "ownerUser": "nourmekkijj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 59,
+  "totalVotes": 2,
+  "totalDownloads": 9,
+  "title": "Stress and Anxiety Posts on Reddit",
+  "hasTitle": true,
+  "subtitle": "4,000 Reddit posts from people experiencing stress/anxiety.",
+  "hasSubtitle": true,
+  "description": "This dataset contains 4,000 entries from Reddit, focusing on posts related to stress and anxiety. It provides a rich resource for analyzing the textual content and understanding the prevalence and context of stress and anxiety in online discussions.\n\n**Colomns**\n**Text**: The content of the Reddit post.\n**is_stressed/anxious:**A binary indicator where '1' denotes the presence of stress or anxiety in the post, and '0' denotes the absence.\n\nin this dataset i have merged the title and post content into one filed 'text' .\n\n**Usage**\n\nThis dataset can be used for various purposes, including but not limited to:\n\n- Sentiment analysis to gauge the emotional tone of the posts.\n- Natural language processing tasks such as topic modeling, keyword extraction, and text classification.\n- Studies on mental health trends and the impact of stress and anxiety on social media.\n- Development of machine learning models to predict mental health issues based on textual data.\n\n\n\nThis cleaned dataset offers valuable insights for those interested in exploring the dynamics of stress and anxiety as expressed in online communities, particularly on Reddit.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "psychology",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

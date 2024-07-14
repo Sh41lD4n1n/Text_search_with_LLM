@@ -1,0 +1,43 @@
+{
+  "id": "ahnaf105091/football-manager-23-championship-3031-dataset",
+  "id_no": 5086009,
+  "datasetSlugNullable": "football-manager-23-championship-3031-dataset",
+  "ownerUserNullable": "ahnaf105091",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football Manager-23 Championship 30/31 dataset",
+  "subtitleNullable": "A dataset of the players in a simulated Championship season(2030-31)",
+  "descriptionNullable": "## Context##\n\nThis dataset is collected from the simulated season of 2030-31 in Championship in the game Football Manager 23. \n\nWebscrapping is cool and all. But most of the time, you don't get much from the extracted data from sites like FBref, Opta, and so on. \n\nBut if you're a Football Manager player, you can generate your own data by simulating a full season in the game. And that's exactly what i did.\n\n---\n\nP.S Note: This dataset consists of players in the 2030-31 season. So most of the older players have already retired by now and you'll also stumble upon a lot of newly generated young players in the teams.\n\nHere's all the columns:\n\n---\n\nName  --- Player Name\nNat --- Nationality\nClub --- Playing Club\nPosition --- Playing Position\nAge --- Player Age\nHeight --- Player Height(Feet'inches\")\nPreferred Foot --- Strong foot of the player\nApps --- Appearances/ Matches played\nStarts --- Starting appearance\nMins --- Minuttes\nGls --- Goals\nAst --- Assists\nWage --- Player Wages\nTransfer_Value --- Estimated transfer value of player\nPens --- Penalties Attempted\nPens_S --- Penalties Scored\nPas_A --- Passes Attempted\nPas_% --- Pass completion rate\nPr_Passes --- Progressive Passes\nPres_A --- Press attempted\nPress_C --- Press completed\nBlk --- Block\nShts Blckd --- Shots Blocked\nClear --- Clearance\nHdrs --- Headers\nItc --- Interception\nTck_A --- Tackles attempted\nTck_W --- Tackled Won\nOff --- Offsides\nGl_Mst --- Mistakes leading to Goal\nK_Tck --- Key Tackles\nDistance --- Distance Covered\nDrb --- Dribbles made\nCr_A --- Crosses attempted\nCr_C% --- Cross Completion Ratio\nShots --- Shots taken\nShts_on_target --- Shots on target\nK_Pas --- Key Passes\nYel --- Yellow Cards\nRed --- Red Cards\nxG --- Expected Goals\nxA --- Expected Assists\n\n---\n**Some of you might get the UTF-8 error(UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte) while defining the dataframe. \n\nIn that case, simply add ''encoding =('ISO-8859-1'),low_memory =False'', after calling the location.\n\nExample:\n\ndf = pd.read_csv('/kaggle/input/football-manager-23-championship-3031-dataset/Championship_2030-31 Simulation data.csv', encoding =('ISO-8859-1'),low_memory =False)\ndf.head()**\n\n---\n\nThe dataset is not cleaned AT ALL. I'll try to clean it up asap. Until then, it's going to be a bit messy to deal with it. Cheers!",
+  "datasetId": 5086009,
+  "datasetSlug": "football-manager-23-championship-3031-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahnaf105091",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 43,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Football Manager-23 Championship 30/31 dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset of the players in a simulated Championship season(2030-31)",
+  "hasSubtitle": true,
+  "description": "## Context##\n\nThis dataset is collected from the simulated season of 2030-31 in Championship in the game Football Manager 23. \n\nWebscrapping is cool and all. But most of the time, you don't get much from the extracted data from sites like FBref, Opta, and so on. \n\nBut if you're a Football Manager player, you can generate your own data by simulating a full season in the game. And that's exactly what i did.\n\n---\n\nP.S Note: This dataset consists of players in the 2030-31 season. So most of the older players have already retired by now and you'll also stumble upon a lot of newly generated young players in the teams.\n\nHere's all the columns:\n\n---\n\nName  --- Player Name\nNat --- Nationality\nClub --- Playing Club\nPosition --- Playing Position\nAge --- Player Age\nHeight --- Player Height(Feet'inches\")\nPreferred Foot --- Strong foot of the player\nApps --- Appearances/ Matches played\nStarts --- Starting appearance\nMins --- Minuttes\nGls --- Goals\nAst --- Assists\nWage --- Player Wages\nTransfer_Value --- Estimated transfer value of player\nPens --- Penalties Attempted\nPens_S --- Penalties Scored\nPas_A --- Passes Attempted\nPas_% --- Pass completion rate\nPr_Passes --- Progressive Passes\nPres_A --- Press attempted\nPress_C --- Press completed\nBlk --- Block\nShts Blckd --- Shots Blocked\nClear --- Clearance\nHdrs --- Headers\nItc --- Interception\nTck_A --- Tackles attempted\nTck_W --- Tackled Won\nOff --- Offsides\nGl_Mst --- Mistakes leading to Goal\nK_Tck --- Key Tackles\nDistance --- Distance Covered\nDrb --- Dribbles made\nCr_A --- Crosses attempted\nCr_C% --- Cross Completion Ratio\nShots --- Shots taken\nShts_on_target --- Shots on target\nK_Pas --- Key Passes\nYel --- Yellow Cards\nRed --- Red Cards\nxG --- Expected Goals\nxA --- Expected Assists\n\n---\n**Some of you might get the UTF-8 error(UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte) while defining the dataframe. \n\nIn that case, simply add ''encoding =('ISO-8859-1'),low_memory =False'', after calling the location.\n\nExample:\n\ndf = pd.read_csv('/kaggle/input/football-manager-23-championship-3031-dataset/Championship_2030-31 Simulation data.csv', encoding =('ISO-8859-1'),low_memory =False)\ndf.head()**\n\n---\n\nThe dataset is not cleaned AT ALL. I'll try to clean it up asap. Until then, it's going to be a bit messy to deal with it. Cheers!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "football",
+    "data cleaning",
+    "data analytics",
+    "simulations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

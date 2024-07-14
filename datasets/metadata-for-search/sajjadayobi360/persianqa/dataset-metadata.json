@@ -1,0 +1,41 @@
+{
+  "id": "sajjadayobi360/persianqa",
+  "id_no": 1303838,
+  "datasetSlugNullable": "persianqa",
+  "ownerUserNullable": "sajjadayobi360",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "PersianQA",
+  "subtitleNullable": "Persian Question Answering Dataset",
+  "descriptionNullable": "# PersianQA: a dataset for Persian Question Answering\n\nPersian Question Answering (PersianQA) Dataset is a reading comprehension\ndataset on [Persian Wikipedia](https://fa.wikipedia.org/). The crowd-sourced\ndataset consists of more than 9,000 entries. Each entry can be either an\n_impossible-to-answer_ or a question with one or more answers spanning in the\npassage (the _context_) from which the questioner proposed the question.\nMuch like the SQuAD2.0 dataset, the impossible or _unanswerable_ questions can be\nutilized to create a system which \"knows that it doesn't know the answer\".\n\nMoreover, the dataset has 900 test data available. On top of that, the very\nfirst models trained on the dataset, Transformers, are available online.\n\nAll the crowdworkers of the dataset are native Persian speakers. Also, it worth\nmentioning that the contexts are collected from all categories of the Wiki\n(Historical, Religious, Geography, Science, etc).\n\nAt the moment, each context has 7 pairs of questions with one answer and 3\nimpossible questions.\n\n## Dataset\n\n### Access and Download\n\nYou can find the dataset under the [`dataset` directory](https://github.com/sajjjadayobi/PersianQA/tree/main/dataset) and use it like below:\n\n```python\nimport read_qa # is avalible at src/read_ds.py\ntrain_ds = read_qa('pqa_train.json')\ntest_ds  = read_qa('pqa_test.json')\n```\n\nAlternatively, you can also access the data through the HuggingFace\ud83e\udd17 datasets library.\nFor that, you need to install datasets using this command in your terminal:\n\n```sh\npip install -q datasets\n```\n\nAfterwards, import `persian_qa` dataset using `load_dataset`:\n\n```python\nfrom datasets import load_dataset\ndataset = load_dataset(\"SajjadAyoubi/persian_qa\")\n```\n\n### Statistic\n\n| Split | # of instances | # of unanswerables | avg. question length | avg. paragraph length | avg. answer length |\n| :---: | :------------: | :----------------: | :------------------: | :-------------------: | :----------------: |\n| Train |     9,000      |       2,700        |         8.39         |        224.58         |        9.61        |\n| Test  |      938       |        280         |         8.02         |        220.18         |        5.99        |\n\nThe lengths are on the token level.\n\nTo learn more about the data and more examples take a look [here](https://github.com/sajjjadayobi/PersianQA/tree/main/dataset#readme).\n\n## Models\n\nCurrently, two models (baseline) on\n[HuggingFace\ud83e\udd17](https://huggingface.co/SajjadAyoubi/) model hub are using the\ndataset. The models are listed in the table below.\n\n## Citation\n\nAs of yet, we didn't publish any papers on the work.\nHowever, if you did, please cite us properly with an entry like the one below.\n```bibtex\n@misc{PersianQA,\n  author          = {Ayoubi, Sajjad \\& Davoodeh, Mohammad Yasin},\n  title           = {PersianQA: a dataset for Persian Question Answering},\n  year            = 2021,\n  publisher       = {GitHub},\n  journal         = {GitHub repository},\n  howpublished    = {\\url{https://github.com/SajjjadAyobi/PersianQA}},\n}\n```",
+  "datasetId": 1303838,
+  "datasetSlug": "persianqa",
+  "hasDatasetSlug": true,
+  "ownerUser": "sajjadayobi360",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 5274,
+  "totalVotes": 19,
+  "totalDownloads": 273,
+  "title": "PersianQA",
+  "hasTitle": true,
+  "subtitle": "Persian Question Answering Dataset",
+  "hasSubtitle": true,
+  "description": "# PersianQA: a dataset for Persian Question Answering\n\nPersian Question Answering (PersianQA) Dataset is a reading comprehension\ndataset on [Persian Wikipedia](https://fa.wikipedia.org/). The crowd-sourced\ndataset consists of more than 9,000 entries. Each entry can be either an\n_impossible-to-answer_ or a question with one or more answers spanning in the\npassage (the _context_) from which the questioner proposed the question.\nMuch like the SQuAD2.0 dataset, the impossible or _unanswerable_ questions can be\nutilized to create a system which \"knows that it doesn't know the answer\".\n\nMoreover, the dataset has 900 test data available. On top of that, the very\nfirst models trained on the dataset, Transformers, are available online.\n\nAll the crowdworkers of the dataset are native Persian speakers. Also, it worth\nmentioning that the contexts are collected from all categories of the Wiki\n(Historical, Religious, Geography, Science, etc).\n\nAt the moment, each context has 7 pairs of questions with one answer and 3\nimpossible questions.\n\n## Dataset\n\n### Access and Download\n\nYou can find the dataset under the [`dataset` directory](https://github.com/sajjjadayobi/PersianQA/tree/main/dataset) and use it like below:\n\n```python\nimport read_qa # is avalible at src/read_ds.py\ntrain_ds = read_qa('pqa_train.json')\ntest_ds  = read_qa('pqa_test.json')\n```\n\nAlternatively, you can also access the data through the HuggingFace\ud83e\udd17 datasets library.\nFor that, you need to install datasets using this command in your terminal:\n\n```sh\npip install -q datasets\n```\n\nAfterwards, import `persian_qa` dataset using `load_dataset`:\n\n```python\nfrom datasets import load_dataset\ndataset = load_dataset(\"SajjadAyoubi/persian_qa\")\n```\n\n### Statistic\n\n| Split | # of instances | # of unanswerables | avg. question length | avg. paragraph length | avg. answer length |\n| :---: | :------------: | :----------------: | :------------------: | :-------------------: | :----------------: |\n| Train |     9,000      |       2,700        |         8.39         |        224.58         |        9.61        |\n| Test  |      938       |        280         |         8.02         |        220.18         |        5.99        |\n\nThe lengths are on the token level.\n\nTo learn more about the data and more examples take a look [here](https://github.com/sajjjadayobi/PersianQA/tree/main/dataset#readme).\n\n## Models\n\nCurrently, two models (baseline) on\n[HuggingFace\ud83e\udd17](https://huggingface.co/SajjadAyoubi/) model hub are using the\ndataset. The models are listed in the table below.\n\n## Citation\n\nAs of yet, we didn't publish any papers on the work.\nHowever, if you did, please cite us properly with an entry like the one below.\n```bibtex\n@misc{PersianQA,\n  author          = {Ayoubi, Sajjad \\& Davoodeh, Mohammad Yasin},\n  title           = {PersianQA: a dataset for Persian Question Answering},\n  year            = 2021,\n  publisher       = {GitHub},\n  journal         = {GitHub repository},\n  howpublished    = {\\url{https://github.com/SajjjadAyobi/PersianQA}},\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "text",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

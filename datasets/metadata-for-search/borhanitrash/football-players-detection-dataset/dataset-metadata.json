@@ -1,0 +1,42 @@
+{
+  "id": "borhanitrash/football-players-detection-dataset",
+  "id_no": 5033775,
+  "datasetSlugNullable": "football-players-detection-dataset",
+  "ownerUserNullable": "borhanitrash",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Football Players Detection Dataset",
+  "subtitleNullable": "A beginner friendly dataset on Football Players Det in YoloV8 format by Roboflow",
+  "descriptionNullable": "# Introduction\n\nThe dataset includes 312 images. Football-players-detection are annotated in YOLOv8 format. There are 4 classes. They are ball, goalkeeper, player and referee. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F19186184%2F46a9cc3344cab2b4ee820c3ed14838bc%2Fchrome_jxhxTWqqUe.png?generation=1716015279439811&alt=media)\n\n# Dataset collection\nThis dataset is provided as a collection in **Roboflow**, please check this link: [football-players-detection Computer Vision Project](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc) Dataset under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)\n\n# Citation\n\nPlease cite the project from Roboflow, if you use this dataset in a research paper.\n\n```python\n@misc{\nfootball-players-detection-3zvbc_dataset,\ntitle = { football-players-detection Dataset },\ntype = { Open Source Dataset },\nauthor = { Roboflow },\nhowpublished = { \\url{ https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc } },\nurl = { https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc },\njournal = { Roboflow Universe },\npublisher = { Roboflow },\nyear = { 2024 },\nmonth = { may },\nnote = { visited on 2024-05-18 },\n}\n```",
+  "datasetId": 5033775,
+  "datasetSlug": "football-players-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "borhanitrash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1064,
+  "totalVotes": 63,
+  "totalDownloads": 68,
+  "title": "Football Players Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "A beginner friendly dataset on Football Players Det in YoloV8 format by Roboflow",
+  "hasSubtitle": true,
+  "description": "# Introduction\n\nThe dataset includes 312 images. Football-players-detection are annotated in YOLOv8 format. There are 4 classes. They are ball, goalkeeper, player and referee. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F19186184%2F46a9cc3344cab2b4ee820c3ed14838bc%2Fchrome_jxhxTWqqUe.png?generation=1716015279439811&alt=media)\n\n# Dataset collection\nThis dataset is provided as a collection in **Roboflow**, please check this link: [football-players-detection Computer Vision Project](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc) Dataset under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)\n\n# Citation\n\nPlease cite the project from Roboflow, if you use this dataset in a research paper.\n\n```python\n@misc{\nfootball-players-detection-3zvbc_dataset,\ntitle = { football-players-detection Dataset },\ntype = { Open Source Dataset },\nauthor = { Roboflow },\nhowpublished = { \\url{ https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc } },\nurl = { https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc },\njournal = { Roboflow Universe },\npublisher = { Roboflow },\nyear = { 2024 },\nmonth = { may },\nnote = { visited on 2024-05-18 },\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

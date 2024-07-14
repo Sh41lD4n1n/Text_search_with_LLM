@@ -1,0 +1,45 @@
+{
+  "id": "daniildeltsov/traffic-signs-gtsrb-plus-162-custom-classes",
+  "id_no": 2087595,
+  "datasetSlugNullable": "traffic-signs-gtsrb-plus-162-custom-classes",
+  "ownerUserNullable": "daniildeltsov",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Traffic Signs (GTSRB plus 162 custom classes)",
+  "subtitleNullable": "Original GTSRB dataset filled with 162 more classes of traffic signs(150k total)",
+  "descriptionNullable": "# Description of what it is and how I did it\nThe data was collected manually (5-40 images per class) and afterwards augmented using **5 different** functions at **random**:\n\nRandomFog - addds some fog to the image;\nRandomSnow - adds the effect of snow on the image;\nRotate + RandomScale - rotates the image to left or right by at maximum 30 degrees and changes image's quality;\nAffine - geometrically changes the image's shape to make it look unique;\nPerspective - changes the perspective of the image, making it unique as well.\n\nOne image got affected by 5 transforms for 7 times, giving **35 images as an output** from only one. Then the process was repeated for the rest of the images.\n\n### **TEST**\nTest folder include complitely mixed order of images (linked with Test_data.csv), all the images were extracted (completely removed) from train folder and augmented so as to avoid data leakage.\n\n### **TEST_DATA.CSV**\nTest_data.csv is used after training to evaluate model's performance on a test set in Test folder. The Test_data.csv file include all images from Test folder in a mixed order.\n\n### **META**\nThe Meta folder consists of pattern images for each class.\n\n### **TRAIN**\nThe train folder consists of 205 folder enumerated from 0 to 204 making it easier to loop through them while image preprocessing. Each of the nested folders contain images of one traffic sign (cropped and augmented images from google images).\n\nP.S. A friend of mine helped me with manually collecting the data and gave some usefull advices, you can find here -&gt; [A helpfull teammate](https://www.kaggle.com/mishadushkin)",
+  "datasetId": 2087595,
+  "datasetSlug": "traffic-signs-gtsrb-plus-162-custom-classes",
+  "hasDatasetSlug": true,
+  "ownerUser": "daniildeltsov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 7060,
+  "totalVotes": 42,
+  "totalDownloads": 655,
+  "title": "Traffic Signs (GTSRB plus 162 custom classes)",
+  "hasTitle": true,
+  "subtitle": "Original GTSRB dataset filled with 162 more classes of traffic signs(150k total)",
+  "hasSubtitle": true,
+  "description": "# Description of what it is and how I did it\nThe data was collected manually (5-40 images per class) and afterwards augmented using **5 different** functions at **random**:\n\nRandomFog - addds some fog to the image;\nRandomSnow - adds the effect of snow on the image;\nRotate + RandomScale - rotates the image to left or right by at maximum 30 degrees and changes image's quality;\nAffine - geometrically changes the image's shape to make it look unique;\nPerspective - changes the perspective of the image, making it unique as well.\n\nOne image got affected by 5 transforms for 7 times, giving **35 images as an output** from only one. Then the process was repeated for the rest of the images.\n\n### **TEST**\nTest folder include complitely mixed order of images (linked with Test_data.csv), all the images were extracted (completely removed) from train folder and augmented so as to avoid data leakage.\n\n### **TEST_DATA.CSV**\nTest_data.csv is used after training to evaluate model's performance on a test set in Test folder. The Test_data.csv file include all images from Test folder in a mixed order.\n\n### **META**\nThe Meta folder consists of pattern images for each class.\n\n### **TRAIN**\nThe train folder consists of 205 folder enumerated from 0 to 204 making it easier to loop through them while image preprocessing. Each of the nested folders contain images of one traffic sign (cropped and augmented images from google images).\n\nP.S. A friend of mine helped me with manually collecting the data and gave some usefull advices, you can find here -&gt; [A helpfull teammate](https://www.kaggle.com/mishadushkin)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "software",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

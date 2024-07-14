@@ -1,0 +1,41 @@
+{
+  "id": "phunghieu/deepfake-detection-faces-sample",
+  "id_no": 500081,
+  "datasetSlugNullable": "deepfake-detection-faces-sample",
+  "ownerUserNullable": "phunghieu",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Deepfake Detection - Faces - Sample",
+  "subtitleNullable": "REAL or FAKE, LET'S GUESS",
+  "descriptionNullable": "### Context\n\nThis dataset includes all detectable faces of the sample training dataset in [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/). Kaggle and the host expected and encouraged us to train our models outside of Kaggle\u2019s notebooks environment; however, for someone who prefers to stick to Kaggle's kernels, this dataset would help a lot \ud83d\ude04.",
+  "datasetId": 500081,
+  "datasetSlug": "deepfake-detection-faces-sample",
+  "hasDatasetSlug": true,
+  "ownerUser": "phunghieu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3450,
+  "totalVotes": 8,
+  "totalDownloads": 516,
+  "title": "Deepfake Detection - Faces - Sample",
+  "hasTitle": true,
+  "subtitle": "REAL or FAKE, LET'S GUESS",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset includes all detectable faces of the sample training dataset in [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/). Kaggle and the host expected and encouraged us to train our models outside of Kaggle\u2019s notebooks environment; however, for someone who prefers to stick to Kaggle's kernels, this dataset would help a lot \ud83d\ude04.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "tabular",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

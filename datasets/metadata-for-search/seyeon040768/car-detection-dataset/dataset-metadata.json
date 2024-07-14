@@ -1,0 +1,42 @@
+{
+  "id": "seyeon040768/car-detection-dataset",
+  "id_no": 1567703,
+  "datasetSlugNullable": "car-detection-dataset",
+  "ownerUserNullable": "seyeon040768",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "car detection dataset",
+  "subtitleNullable": "This dataset contains approximately 16,000 car images and labels.",
+  "descriptionNullable": "# Cars Dataset\nThis dataset is a processing of [Cars Dataset produced by Stanford][dataset_link]. \nIt consists of approximately 16,000 car images and label files divided by 0.8, 0.1, and 0.1 ratios in the ```train```, ```value```, and ```test``` folders. \nWithin each ```train```, ```value```, and ```test``` folder, each image and label are contained in the ```images``` and ```labels``` folders. \nAnnotation is designed to fit yolo's .txt format. \nPlease refer to the link below for further details.\n\n**3D Object Representations for Fine-Grained Categorization**   \nJonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei   \n*4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013* **(3dRR-13)**. Sydney, Australia. Dec. 8, 2013.   \n[[pdf]]&nbsp;&nbsp;&nbsp;&nbsp;[[BibTex]]&nbsp;&nbsp;&nbsp;&nbsp;[[slides]]\n\n[dataset_link]: http://ai.stanford.edu/~jkrause/cars/car_dataset.html\n[pdf]: http://ai.stanford.edu/~jkrause/papers/3drr13.pdf\n[BibTex]: http://ai.stanford.edu/~jkrause/papers/3drr13.bib\n[slides]: http://ai.stanford.edu/~jkrause/papers/3drr_talk.pdf\n",
+  "datasetId": 1567703,
+  "datasetSlug": "car-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "seyeon040768",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 8939,
+  "totalVotes": 9,
+  "totalDownloads": 810,
+  "title": "car detection dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains approximately 16,000 car images and labels.",
+  "hasSubtitle": true,
+  "description": "# Cars Dataset\nThis dataset is a processing of [Cars Dataset produced by Stanford][dataset_link]. \nIt consists of approximately 16,000 car images and label files divided by 0.8, 0.1, and 0.1 ratios in the ```train```, ```value```, and ```test``` folders. \nWithin each ```train```, ```value```, and ```test``` folder, each image and label are contained in the ```images``` and ```labels``` folders. \nAnnotation is designed to fit yolo's .txt format. \nPlease refer to the link below for further details.\n\n**3D Object Representations for Fine-Grained Categorization**   \nJonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei   \n*4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013* **(3dRR-13)**. Sydney, Australia. Dec. 8, 2013.   \n[[pdf]]&nbsp;&nbsp;&nbsp;&nbsp;[[BibTex]]&nbsp;&nbsp;&nbsp;&nbsp;[[slides]]\n\n[dataset_link]: http://ai.stanford.edu/~jkrause/cars/car_dataset.html\n[pdf]: http://ai.stanford.edu/~jkrause/papers/3drr13.pdf\n[BibTex]: http://ai.stanford.edu/~jkrause/papers/3drr13.bib\n[slides]: http://ai.stanford.edu/~jkrause/papers/3drr_talk.pdf\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

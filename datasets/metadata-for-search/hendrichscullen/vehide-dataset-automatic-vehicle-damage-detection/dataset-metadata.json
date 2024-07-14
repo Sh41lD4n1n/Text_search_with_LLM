@@ -1,0 +1,43 @@
+{
+  "id": "hendrichscullen/vehide-dataset-automatic-vehicle-damage-detection",
+  "id_no": 3685629,
+  "datasetSlugNullable": "vehide-dataset-automatic-vehicle-damage-detection",
+  "ownerUserNullable": "hendrichscullen",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "VehiDE Dataset: Automatic vehicle damage detection",
+  "subtitleNullable": "New dataset for Automatic vehicle damage detection in Car insurance",
+  "descriptionNullable": "In the world of auto insurance, automatic car damage identification has garnered a lot of interest. However,\nit is difficult for us to develop a workable model for car damage identification due to the absence of high-quality datasets that are accessible to the general public. In order to achieve this, the Vehicle Damage Detection (VehiDE) dataset, the large-scale dataset made available to the public for the purpose of segmenting and detecting visual automotive damage. This dataset comprises 13,945 high-resolution photos of damaged cars together with more than 32,000 occurrences of each damage category with detailed annotations. Statistical dataset analysis is provided together with a description of the image collecting, selection, and annotation procedures. In order to emphasize\nthe expertise of automotive damage identification, extensive experiments on the VehiDE dataset are conducted using cutting-edge deep approaches for a variety of jobs and provide thorough analysis.",
+  "datasetId": 3685629,
+  "datasetSlug": "vehide-dataset-automatic-vehicle-damage-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "hendrichscullen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1706,
+  "totalVotes": 10,
+  "totalDownloads": 189,
+  "title": "VehiDE Dataset: Automatic vehicle damage detection",
+  "hasTitle": true,
+  "subtitle": "New dataset for Automatic vehicle damage detection in Car insurance",
+  "hasSubtitle": true,
+  "description": "In the world of auto insurance, automatic car damage identification has garnered a lot of interest. However,\nit is difficult for us to develop a workable model for car damage identification due to the absence of high-quality datasets that are accessible to the general public. In order to achieve this, the Vehicle Damage Detection (VehiDE) dataset, the large-scale dataset made available to the public for the purpose of segmenting and detecting visual automotive damage. This dataset comprises 13,945 high-resolution photos of damaged cars together with more than 32,000 occurrences of each damage category with detailed annotations. Statistical dataset analysis is provided together with a description of the image collecting, selection, and annotation procedures. In order to emphasize\nthe expertise of automotive damage identification, extensive experiments on the VehiDE dataset are conducted using cutting-edge deep approaches for a variety of jobs and provide thorough analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "multiclass classification",
+    "insurance",
+    "object detection",
+    "segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

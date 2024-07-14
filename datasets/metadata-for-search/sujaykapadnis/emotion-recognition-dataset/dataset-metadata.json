@@ -1,0 +1,43 @@
+{
+  "id": "sujaykapadnis/emotion-recognition-dataset",
+  "id_no": 4123094,
+  "datasetSlugNullable": "emotion-recognition-dataset",
+  "ownerUserNullable": "sujaykapadnis",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Facial Emotion Recognition Image Dataset",
+  "subtitleNullable": "Emotion Recognition Dataset",
+  "descriptionNullable": "The dataset consists of 6 distinct emotions : Happy, Angry, Sad, Neutral, Surprise and Ahegao. Images are RGB and presented as cropped faces with corresponding emotions. The images were collected by scrapping social nets as Facebook and Instagram, scrapping YouTube videos and already available datasets as IMDB and AffectNet. \n1) dataset.zip contains folders with corresponding classes.\n2) data.csv contains pathes to images and corresponding labels. \n\nKovenko, Volodymyr; Shevchuk, Vitalii (2021), \u201cOAHEGA : EMOTION RECOGNITION DATASET\u201d, Mendeley Data, V2, doi: 10.17632/5ck5zz6f2c.2",
+  "datasetId": 4123094,
+  "datasetSlug": "emotion-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujaykapadnis",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16665,
+  "totalVotes": 65,
+  "totalDownloads": 2825,
+  "title": "Facial Emotion Recognition Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Emotion Recognition Dataset",
+  "hasSubtitle": true,
+  "description": "The dataset consists of 6 distinct emotions : Happy, Angry, Sad, Neutral, Surprise and Ahegao. Images are RGB and presented as cropped faces with corresponding emotions. The images were collected by scrapping social nets as Facebook and Instagram, scrapping YouTube videos and already available datasets as IMDB and AffectNet. \n1) dataset.zip contains folders with corresponding classes.\n2) data.csv contains pathes to images and corresponding labels. \n\nKovenko, Volodymyr; Shevchuk, Vitalii (2021), \u201cOAHEGA : EMOTION RECOGNITION DATASET\u201d, Mendeley Data, V2, doi: 10.17632/5ck5zz6f2c.2",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "multiclass classification",
+    "online communities",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

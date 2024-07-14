@@ -1,0 +1,45 @@
+{
+  "id": "nishanthsalian/indian-stock-index-1minute-data-2008-2020",
+  "id_no": 1077770,
+  "datasetSlugNullable": "indian-stock-index-1minute-data-2008-2020",
+  "ownerUserNullable": "nishanthsalian",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Indian Stock Market Index Intraday Data(2008-2020)",
+  "subtitleNullable": "Nifty and BankNifty 1-minute OHLC data from 2008 till 2020",
+  "descriptionNullable": "### Context\n\nIn-order to validate various trading strategies and to come up with new trading strategies, historical data is a must.\nOnce historical data is available, there are various backtesting tools such as [\"Backtesting.py\"](https://pypi.org/project/Backtesting/) which helps users to easily validate their strategies and generate extensive reports.\n\n\n### Content\n\nThis dataset contains minute by minute OHLC (Open, High, Low, Close) data for two leading Indian stock market indices ([NIFTY](https://en.wikipedia.org/wiki/NIFTY_50) and [BANKNIFTY](https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-bank)) for the time period of 2008 to 2020. \nPS: BANKNIFTY data is available only from 2010 to 2020\n\nData for each index is placed in a folder named after the index. Inside the folder, the data is available both in consolidated and year wise segregated form.\n\nFor EOD data since 1990 please refer [Indian Stock Market EOD Data(1990 onwards)](https://www.kaggle.com/nishanthsalian/indian-stock-index-eod-data1990-onwards) dataset\n\n### Acknowledgements\n\nThis data is sourced from \"[https://tradingtuitions.com/intraday-1-minute-data-free-download/](https://tradingtuitions.com/intraday-1-minute-data-free-download/)\". Only minor processing such as removing inconsistent columns is performed. In 2015 BankNifty data some interpolation is done to account for missing data.  All other OHLC data is maintained as it is.\n\nPhoto Credits: [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/photos/SAYzxuS1O3M)\n",
+  "datasetId": 1077770,
+  "datasetSlug": "indian-stock-index-1minute-data-2008-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "nishanthsalian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 51419,
+  "totalVotes": 103,
+  "totalDownloads": 8053,
+  "title": "Indian Stock Market Index Intraday Data(2008-2020)",
+  "hasTitle": true,
+  "subtitle": "Nifty and BankNifty 1-minute OHLC data from 2008 till 2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn-order to validate various trading strategies and to come up with new trading strategies, historical data is a must.\nOnce historical data is available, there are various backtesting tools such as [\"Backtesting.py\"](https://pypi.org/project/Backtesting/) which helps users to easily validate their strategies and generate extensive reports.\n\n\n### Content\n\nThis dataset contains minute by minute OHLC (Open, High, Low, Close) data for two leading Indian stock market indices ([NIFTY](https://en.wikipedia.org/wiki/NIFTY_50) and [BANKNIFTY](https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-bank)) for the time period of 2008 to 2020. \nPS: BANKNIFTY data is available only from 2010 to 2020\n\nData for each index is placed in a folder named after the index. Inside the folder, the data is available both in consolidated and year wise segregated form.\n\nFor EOD data since 1990 please refer [Indian Stock Market EOD Data(1990 onwards)](https://www.kaggle.com/nishanthsalian/indian-stock-index-eod-data1990-onwards) dataset\n\n### Acknowledgements\n\nThis data is sourced from \"[https://tradingtuitions.com/intraday-1-minute-data-free-download/](https://tradingtuitions.com/intraday-1-minute-data-free-download/)\". Only minor processing such as removing inconsistent columns is performed. In 2015 BankNifty data some interpolation is done to account for missing data.  All other OHLC data is maintained as it is.\n\nPhoto Credits: [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/photos/SAYzxuS1O3M)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "business",
+    "finance",
+    "economics",
+    "time series analysis",
+    "statistical analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

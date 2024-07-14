@@ -1,0 +1,112 @@
+{
+  "id": "kimjihoo/coronavirusdataset",
+  "id_no": 527325,
+  "datasetSlugNullable": "coronavirusdataset",
+  "ownerUserNullable": "kimjihoo",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "[NeurIPS 2020] Data Science for COVID-19 (DS4C)",
+  "subtitleNullable": "DS4C: Data Science for COVID-19 in South Korea",
+  "descriptionNullable": "### A portion of our dataset has been accepted in NeurIPS 2020. See this [paper](https://www.cmu.edu/dietrich/causality/CameraReadys-accepted%20papers/55%5CCameraReady%5Cpaper.pdf) for more details\n\n## Context\nCOVID-19 has infected more than 10,000 people in South Korea.\nKCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.\nWe make a structured dataset based on the report materials of KCDC and local governments.\nAlso, we analyze and visualize the data using various data mining or visualization techniques.\n\n## Official Kernels\n- [[DS4C] What is this dataset (Detailed Description)](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)\n- [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)\n- [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)\n- [[DS4C] time series geospatial EDA using folium.](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)\n- [[DS4C]Tutorial : All about folium (ing..) + \ud55c\uad6d\uc5b4 \uc124\uba85](https://www.kaggle.com/mbnb8317/ds4c-tutorial-all-about-folium-ing)\n- [[DS4C] Korea, Wonderland? (Fight against COVID-19)](https://www.kaggle.com/kimjihoo/ds4c-korea-wonderland-fight-against-covid-19)\n\n## Update\n- We have stopped updating the dataset.\n- PatientRoute.csv is currently not available because of privacy issue.\n\n## Acknowledgements\nThanks sincerely to all the members of KCDC and local governments.\n**Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)\n\n***\n\n&gt; **DS4C (Data Science for COVID-19) Project**  [(Github)](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)\n1. To reprocess information provided by KCDC and local governments for easy data analysis\n2. To find meaningful patterns by applying various data mining or visualization techniques\n- **Chief Research Director**\n  - [Jihoo Kim](https://www.kaggle.com/kimjihoo)\n  - [JoongKun Lee](https://github.com/ThisIsIsaac)\n- **Senior Research Engineer**\n  - [SeoJin Jang](https://www.kaggle.com/sarah5398)\n  - [SeongHan Ryoo](https://www.kaggle.com/incastle)\n  - [YeonJun In](https://www.kaggle.com/mbnb8317)\n  - [WonCheol Lee](https://www.kaggle.com/leewoncheol)\n  - [DongHwan Jang](https://github.com/DongHwanJang)\n  - [Jimi Kim](https://github.com/kjm0623v)\n  - [MuHwan Kim](https://github.com/minty99) (absent)\n- **Research Engineer**\n  - [BoYoung Song](https://www.kaggle.com/bysong)\n  - [KyeongWook Jang](https://www.kaggle.com/jeeudev)\n  - [MinSeok Jung](https://www.kaggle.com/msjung)\n  - [SangWook Park](https://www.kaggle.com/kvmoke)\n  - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)\n  - [WanSik Choi](https://www.kaggle.com/wansook0316)\n  - [YouNa Jung](https://www.kaggle.com/younajung)\n\n- **Former Maintainer**\n  - [JuHwan Park](https://www.kaggle.com/parkjuhwan)\n  - [Won Hwang](https://github.com/mangocode96)\n- **Logo Designer**\n  - [RinChong Kim](http://indesignlab.creatorlink.net)\n\n\n***\n\n## Partnership\n### 1) Competition\n- [COVID-19 Visualization & AI Competition](https://dacon.io/competitions/official/235590/overview/) (DACON)\n   - 2020.03.29 ~ 2020.05.10\n   - Winners' Code\n[1st Place](https://dacon.io/competitions/official/235590/codeshare/949)\n[2nd Place](https://dacon.io/competitions/official/235590/codeshare/997)\n[3rd Place](https://dacon.io/competitions/official/235590/codeshare/1001)\n- [Post-Corona Data Visualization Competition](https://dacon.io/competitions/official/235618/overview/) (KT)\n   - 2020.07.01 ~ 2020.07.31\n   - Winners' Code\n[1st Place](https://dacon.io/competitions/official/235618/codeshare/1448)\n[2nd Place](https://dacon.io/competitions/official/235618/codeshare/1457)\n[3rd Place](https://dacon.io/competitions/official/235618/codeshare/1434)\n[4th Place](https://dacon.io/competitions/official/235618/codeshare/1363)\n[5th Place](https://dacon.io/competitions/official/235618/codeshare/1430)\n- [Transport Big Data Online Hackathon](https://dacon.io/competitions/official/235622/overview/) (Ministry of Land, Infrastructure and Transport)\n   - 2020.07.14 ~ 2020.09.04\n   - Winners' Code\n[1st Place](https://dacon.io/competitions/official/235622/codeshare/1603)\n[2nd Place](https://dacon.io/competitions/official/235622/codeshare/1621)\n[3rd Place](https://dacon.io/competitions/official/235622/codeshare/1620)\n[4th Place](https://dacon.io/competitions/official/235622/codeshare/1606)\n[5th Place](https://dacon.io/competitions/official/235622/codeshare/1607)\n\n<img src=\"https://user-images.githubusercontent.com/50820635/87323213-6f6eed00-c569-11ea-9ca0-965b984e25de.PNG\">\n### 2) Research\n- [Maggie Munkhjargal](https://www.linkedin.com/in/maggie-munkhjargal-md-ph-d-candidate-473a0163/) (Harvard T.H. Chan School of Public Health)\n- [Gwang-Jin Kim](https://www.linkedin.com/in/gwang-jin-kim-374b8867/) (University of Freiburg)\n- [Sofia K. Mettler](https://www.linkedin.com/in/sofia-kyonhi-mettler-ab23981b2/) (Swiss Federal Institute of Technology, University of Zurich)\n- [Myung-Bae Park](https://silvermed.pcu.ac.kr/_silvermed/sub02/sub020401.html) (Department of Gerontology Health and Welfare, Pai Chai University)\n- [Jinhee Lee](https://www.ywmc.or.kr/web/www/psychiatry/doc) (Department of Psychiatry, Yonsei University Wonju College of Medicine)\n- [Sun Kim](https://www.linkedin.com/in/sun-kim-035585124/) (Harvard T.H. Chan School of Public Health)\n- [Ardiansyah Ardiansyah](https://www.linkedin.com/in/ardiansyahdotid) (Chonnam National University)\n- [Atina Husnayain](https://www.medrxiv.org/content/10.1101/2020.04.23.20077552v1) (College of Medical Science and Technology, Taipei Medical University)\n- [Carlos Saez](https://avillach-lab.hms.harvard.edu/people/carlos-s%C3%A1ez) (Universitat Polit\u00e8cnica de Val\u00e8ncia & Harvard Medical School)\n- [Dimitrios E. Kouzoukas](https://www.linkedin.com/in/dimitrios-kouzoukas/) (Edward Hines, Jr. VA Hospital & Loyola University Chicago)  \n- [Tanima Bose](https://www.linkedin.com/in/tanima-bose-phd-6ab5263a/?originalSubdomain=de) (Ludwig-Maximilian University of Munich)\n- [Keumseok Peter Koh](https://www.geog.hku.hk/k-koh) (Faculty of Social Sciences, The University of Hong Kong)\n\n<img src=\"https://user-images.githubusercontent.com/50820635/83261173-e8062e00-a1f5-11ea-9968-1259e1b704d1.PNG\">\n### 3) Media\n- News articles\n  - [ZDNet Korea](https://www.zdnet.co.kr/view/?no=20200305141041) (2020.03.05)\n  - [The Electronic Times](https://www.etnews.com/20200306000213) (2020.03.06)\n  - [The Korea Economic Daily](https://www.hankyung.com/it/article/202003100677i) (2020.03.10)\n  - [The Washington Post](https://www.washingtonpost.com/graphics/2020/world/coronavirus-south-korea-church/?itid=ap_youjinshin) (2020.03.25)\n- Blog posts \n  - [Databricks](https://databricks.com/blog/2020/04/14/covid-19-datasets-now-available-on-databricks.html) (2020.04.14)\n  - [DataRobot](https://www.datarobot.com/blog/predicting-days-to-recovery-of-covid-19-patients/) (2020.05.08)\n\n<img src=\"https://user-images.githubusercontent.com/50820635/83264205-bb084a00-a1fa-11ea-8e9b-ccd024985887.PNG\">\n### 4) Sponsor\n- Google Korea ([Soonson Kwon](https://kldp.org/~kss/))\n- Slack Technologies ([Andy Pflaum](https://www.linkedin.com/in/andypflaum/))\n- Notion Labs\n<img src=\"https://user-images.githubusercontent.com/50820635/77623631-c4b7cc00-6f83-11ea-85d8-fc0c25d28af2.PNG\">\n### 5) Partner\n- [Big Leader Institute](http://bigleader.net/)\n- [MINDs Lab](https://mindslab.ai:8080/kr/company)\n- [SK Telecom Geovision](http://b2b.tworld.co.kr/bizts/solution/solutionTemplate.bs?solutionId=0022)\n- [Databricks](https://redash-demo.dev.databricks.com/public/dashboards/iGnxBLpGi7lSTZlH4AwlwmPmEZZo1FKJNKBtUm2Y?org_slug=default)\n- [CoronaBoard](https://coronaboard.kr/)\n<img src=\"https://user-images.githubusercontent.com/50820635/89502126-72bf6680-d7ff-11ea-926b-9e7ee6d414b8.PNG\">",
+  "datasetId": 527325,
+  "datasetSlug": "coronavirusdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kimjihoo",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 660273,
+  "totalVotes": 1601,
+  "totalDownloads": 140250,
+  "title": "[NeurIPS 2020] Data Science for COVID-19 (DS4C)",
+  "hasTitle": true,
+  "subtitle": "DS4C: Data Science for COVID-19 in South Korea",
+  "hasSubtitle": true,
+  "description": "### A portion of our dataset has been accepted in NeurIPS 2020. See this [paper](https://www.cmu.edu/dietrich/causality/CameraReadys-accepted%20papers/55%5CCameraReady%5Cpaper.pdf) for more details\n\n## Context\nCOVID-19 has infected more than 10,000 people in South Korea.\nKCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.\nWe make a structured dataset based on the report materials of KCDC and local governments.\nAlso, we analyze and visualize the data using various data mining or visualization techniques.\n\n## Official Kernels\n- [[DS4C] What is this dataset (Detailed Description)](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)\n- [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)\n- [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)\n- [[DS4C] time series geospatial EDA using folium.](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)\n- [[DS4C]Tutorial : All about folium (ing..) + \ud55c\uad6d\uc5b4 \uc124\uba85](https://www.kaggle.com/mbnb8317/ds4c-tutorial-all-about-folium-ing)\n- [[DS4C] Korea, Wonderland? (Fight against COVID-19)](https://www.kaggle.com/kimjihoo/ds4c-korea-wonderland-fight-against-covid-19)\n\n## Update\n- We have stopped updating the dataset.\n- PatientRoute.csv is currently not available because of privacy issue.\n\n## Acknowledgements\nThanks sincerely to all the members of KCDC and local governments.\n**Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)\n\n***\n\n&gt; **DS4C (Data Science for COVID-19) Project**  [(Github)](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)\n1. To reprocess information provided by KCDC and local governments for easy data analysis\n2. To find meaningful patterns by applying various data mining or visualization techniques\n- **Chief Research Director**\n  - [Jihoo Kim](https://www.kaggle.com/kimjihoo)\n  - [JoongKun Lee](https://github.com/ThisIsIsaac)\n- **Senior Research Engineer**\n  - [SeoJin Jang](https://www.kaggle.com/sarah5398)\n  - [SeongHan Ryoo](https://www.kaggle.com/incastle)\n  - [YeonJun In](https://www.kaggle.com/mbnb8317)\n  - [WonCheol Lee](https://www.kaggle.com/leewoncheol)\n  - [DongHwan Jang](https://github.com/DongHwanJang)\n  - [Jimi Kim](https://github.com/kjm0623v)\n  - [MuHwan Kim](https://github.com/minty99) (absent)\n- **Research Engineer**\n  - [BoYoung Song](https://www.kaggle.com/bysong)\n  - [KyeongWook Jang](https://www.kaggle.com/jeeudev)\n  - [MinSeok Jung](https://www.kaggle.com/msjung)\n  - [SangWook Park](https://www.kaggle.com/kvmoke)\n  - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)\n  - [WanSik Choi](https://www.kaggle.com/wansook0316)\n  - [YouNa Jung](https://www.kaggle.com/younajung)\n\n- **Former Maintainer**\n  - [JuHwan Park](https://www.kaggle.com/parkjuhwan)\n  - [Won Hwang](https://github.com/mangocode96)\n- **Logo Designer**\n  - [RinChong Kim](http://indesignlab.creatorlink.net)\n\n\n***\n\n## Partnership\n### 1) Competition\n- [COVID-19 Visualization & AI Competition](https://dacon.io/competitions/official/235590/overview/) (DACON)\n   - 2020.03.29 ~ 2020.05.10\n   - Winners' Code\n[1st Place](https://dacon.io/competitions/official/235590/codeshare/949)\n[2nd Place](https://dacon.io/competitions/official/235590/codeshare/997)\n[3rd Place](https://dacon.io/competitions/official/235590/codeshare/1001)\n- [Post-Corona Data Visualization Competition](https://dacon.io/competitions/official/235618/overview/) (KT)\n   - 2020.07.01 ~ 2020.07.31\n   - Winners' Code\n[1st Place](https://dacon.io/competitions/official/235618/codeshare/1448)\n[2nd Place](https://dacon.io/competitions/official/235618/codeshare/1457)\n[3rd Place](https://dacon.io/competitions/official/235618/codeshare/1434)\n[4th Place](https://dacon.io/competitions/official/235618/codeshare/1363)\n[5th Place](https://dacon.io/competitions/official/235618/codeshare/1430)\n- [Transport Big Data Online Hackathon](https://dacon.io/competitions/official/235622/overview/) (Ministry of Land, Infrastructure and Transport)\n   - 2020.07.14 ~ 2020.09.04\n   - Winners' Code\n[1st Place](https://dacon.io/competitions/official/235622/codeshare/1603)\n[2nd Place](https://dacon.io/competitions/official/235622/codeshare/1621)\n[3rd Place](https://dacon.io/competitions/official/235622/codeshare/1620)\n[4th Place](https://dacon.io/competitions/official/235622/codeshare/1606)\n[5th Place](https://dacon.io/competitions/official/235622/codeshare/1607)\n\n<img src=\"https://user-images.githubusercontent.com/50820635/87323213-6f6eed00-c569-11ea-9ca0-965b984e25de.PNG\">\n### 2) Research\n- [Maggie Munkhjargal](https://www.linkedin.com/in/maggie-munkhjargal-md-ph-d-candidate-473a0163/) (Harvard T.H. Chan School of Public Health)\n- [Gwang-Jin Kim](https://www.linkedin.com/in/gwang-jin-kim-374b8867/) (University of Freiburg)\n- [Sofia K. Mettler](https://www.linkedin.com/in/sofia-kyonhi-mettler-ab23981b2/) (Swiss Federal Institute of Technology, University of Zurich)\n- [Myung-Bae Park](https://silvermed.pcu.ac.kr/_silvermed/sub02/sub020401.html) (Department of Gerontology Health and Welfare, Pai Chai University)\n- [Jinhee Lee](https://www.ywmc.or.kr/web/www/psychiatry/doc) (Department of Psychiatry, Yonsei University Wonju College of Medicine)\n- [Sun Kim](https://www.linkedin.com/in/sun-kim-035585124/) (Harvard T.H. Chan School of Public Health)\n- [Ardiansyah Ardiansyah](https://www.linkedin.com/in/ardiansyahdotid) (Chonnam National University)\n- [Atina Husnayain](https://www.medrxiv.org/content/10.1101/2020.04.23.20077552v1) (College of Medical Science and Technology, Taipei Medical University)\n- [Carlos Saez](https://avillach-lab.hms.harvard.edu/people/carlos-s%C3%A1ez) (Universitat Polit\u00e8cnica de Val\u00e8ncia & Harvard Medical School)\n- [Dimitrios E. Kouzoukas](https://www.linkedin.com/in/dimitrios-kouzoukas/) (Edward Hines, Jr. VA Hospital & Loyola University Chicago)  \n- [Tanima Bose](https://www.linkedin.com/in/tanima-bose-phd-6ab5263a/?originalSubdomain=de) (Ludwig-Maximilian University of Munich)\n- [Keumseok Peter Koh](https://www.geog.hku.hk/k-koh) (Faculty of Social Sciences, The University of Hong Kong)\n\n<img src=\"https://user-images.githubusercontent.com/50820635/83261173-e8062e00-a1f5-11ea-9968-1259e1b704d1.PNG\">\n### 3) Media\n- News articles\n  - [ZDNet Korea](https://www.zdnet.co.kr/view/?no=20200305141041) (2020.03.05)\n  - [The Electronic Times](https://www.etnews.com/20200306000213) (2020.03.06)\n  - [The Korea Economic Daily](https://www.hankyung.com/it/article/202003100677i) (2020.03.10)\n  - [The Washington Post](https://www.washingtonpost.com/graphics/2020/world/coronavirus-south-korea-church/?itid=ap_youjinshin) (2020.03.25)\n- Blog posts \n  - [Databricks](https://databricks.com/blog/2020/04/14/covid-19-datasets-now-available-on-databricks.html) (2020.04.14)\n  - [DataRobot](https://www.datarobot.com/blog/predicting-days-to-recovery-of-covid-19-patients/) (2020.05.08)\n\n<img src=\"https://user-images.githubusercontent.com/50820635/83264205-bb084a00-a1fa-11ea-8e9b-ccd024985887.PNG\">\n### 4) Sponsor\n- Google Korea ([Soonson Kwon](https://kldp.org/~kss/))\n- Slack Technologies ([Andy Pflaum](https://www.linkedin.com/in/andypflaum/))\n- Notion Labs\n<img src=\"https://user-images.githubusercontent.com/50820635/77623631-c4b7cc00-6f83-11ea-85d8-fc0c25d28af2.PNG\">\n### 5) Partner\n- [Big Leader Institute](http://bigleader.net/)\n- [MINDs Lab](https://mindslab.ai:8080/kr/company)\n- [SK Telecom Geovision](http://b2b.tworld.co.kr/bizts/solution/solutionTemplate.bs?solutionId=0022)\n- [Databricks](https://redash-demo.dev.databricks.com/public/dashboards/iGnxBLpGi7lSTZlH4AwlwmPmEZZo1FKJNKBtUm2Y?org_slug=default)\n- [CoronaBoard](https://coronaboard.kr/)\n<img src=\"https://user-images.githubusercontent.com/50820635/89502126-72bf6680-d7ff-11ea-926b-9e7ee6d414b8.PNG\">",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "biology",
+    "data visualization",
+    "tabular",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "kjm0623v",
+      "role": "writer"
+    },
+    {
+      "username": "dhjang1028",
+      "role": "writer"
+    },
+    {
+      "username": "incastle",
+      "role": "writer"
+    },
+    {
+      "username": "bysong",
+      "role": "writer"
+    },
+    {
+      "username": "mbnb8317",
+      "role": "writer"
+    },
+    {
+      "username": "msjung",
+      "role": "writer"
+    },
+    {
+      "username": "kvmoke",
+      "role": "writer"
+    },
+    {
+      "username": "asdjfalksjdh",
+      "role": "writer"
+    },
+    {
+      "username": "sarah5398",
+      "role": "writer"
+    },
+    {
+      "username": "wansook0316",
+      "role": "writer"
+    },
+    {
+      "username": "jeeudev",
+      "role": "writer"
+    },
+    {
+      "username": "agnosticisaac",
+      "role": "writer"
+    },
+    {
+      "username": "parkjuhwan",
+      "role": "writer"
+    },
+    {
+      "username": "leewoncheol",
+      "role": "writer"
+    },
+    {
+      "username": "younajung",
+      "role": "writer"
+    },
+    {
+      "username": "minty99",
+      "role": "writer"
+    },
+    {
+      "username": "byeongukyu",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

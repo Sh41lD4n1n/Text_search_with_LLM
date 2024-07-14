@@ -1,0 +1,43 @@
+{
+  "id": "dmitryyemelyanov/chinese-traffic-signs",
+  "id_no": 606438,
+  "datasetSlugNullable": "chinese-traffic-signs",
+  "ownerUserNullable": "dmitryyemelyanov",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Chinese Traffic Signs",
+  "subtitleNullable": "5998 annotated traffic sign images of 58 categories",
+  "descriptionNullable": "### Context\n\nThis dataset is originating from [Chinese Traffic Sign Recognition Database](http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html). It has been explored by [Riga Data Science Club](https://rigadsclub.com/) members in order to do some training on convolution neural networks. We are glad to publish this work on kaggle.\n\n### Content\n\nDataset consists of 5998 traffic sign images of 58 categories. Each image is a zoomed view of single traffic sign. Annotations provide image properties (file_name, width, height) as well as traffic sign coordinates within image and category (e.g. 5 km/h speed limit)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4435864%2Fd264a5b1391eb305a78e65602a6b05cf%2F000_1_0007.png?generation=1587319693304630&alt=media)\n|file_name|width|height|x1|y1|x2|y2|category|\n| --- | --- |\n|000_1_0007.png|127|114|25|16|103|98|0|\n\n\n\n### Acknowledgements\n\nThis dataset is a converted version of publicly available [Chinese Traffic Sign Recognition Database](http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html).\nThis work is supported by National Nature Science Foundation of China(NSFC) Grant 61271306\n\nCredits:\nLinLin Huang,Prof.Ph.D\nSchool of Electronic and Information Engingeering,\nBeijing Jiaotong University,\nBeijing 100044,China\nEmail: huangll@bjtu.edu.cn\n\nAll images originally collected by camera under nature scenes or from BAIDU Street View.\n\n\n\n### Inspiration\n\nThis dataset allows you to train efficient traffic sign recognition model. Try building one! It would be worth trying to deploy it to a RaspberryPI coupled with a camera to get realtime traffic alerts on road.",
+  "datasetId": 606438,
+  "datasetSlug": "chinese-traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "dmitryyemelyanov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 23925,
+  "totalVotes": 39,
+  "totalDownloads": 2589,
+  "title": "Chinese Traffic Signs",
+  "hasTitle": true,
+  "subtitle": "5998 annotated traffic sign images of 58 categories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is originating from [Chinese Traffic Sign Recognition Database](http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html). It has been explored by [Riga Data Science Club](https://rigadsclub.com/) members in order to do some training on convolution neural networks. We are glad to publish this work on kaggle.\n\n### Content\n\nDataset consists of 5998 traffic sign images of 58 categories. Each image is a zoomed view of single traffic sign. Annotations provide image properties (file_name, width, height) as well as traffic sign coordinates within image and category (e.g. 5 km/h speed limit)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4435864%2Fd264a5b1391eb305a78e65602a6b05cf%2F000_1_0007.png?generation=1587319693304630&alt=media)\n|file_name|width|height|x1|y1|x2|y2|category|\n| --- | --- |\n|000_1_0007.png|127|114|25|16|103|98|0|\n\n\n\n### Acknowledgements\n\nThis dataset is a converted version of publicly available [Chinese Traffic Sign Recognition Database](http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html).\nThis work is supported by National Nature Science Foundation of China(NSFC) Grant 61271306\n\nCredits:\nLinLin Huang,Prof.Ph.D\nSchool of Electronic and Information Engingeering,\nBeijing Jiaotong University,\nBeijing 100044,China\nEmail: huangll@bjtu.edu.cn\n\nAll images originally collected by camera under nature scenes or from BAIDU Street View.\n\n\n\n### Inspiration\n\nThis dataset allows you to train efficient traffic sign recognition model. Try building one! It would be worth trying to deploy it to a RaspberryPI coupled with a camera to get realtime traffic alerts on road.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "law",
+    "computer science",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

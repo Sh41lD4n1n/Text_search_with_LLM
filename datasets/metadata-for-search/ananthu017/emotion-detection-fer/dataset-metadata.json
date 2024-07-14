@@ -1,0 +1,43 @@
+{
+  "id": "ananthu017/emotion-detection-fer",
+  "id_no": 1028436,
+  "datasetSlugNullable": "emotion-detection-fer",
+  "ownerUserNullable": "ananthu017",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Emotion Detection",
+  "subtitleNullable": "FER - 2013 dataset with 7 emotion types",
+  "descriptionNullable": "The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).",
+  "datasetId": 1028436,
+  "datasetSlug": "emotion-detection-fer",
+  "hasDatasetSlug": true,
+  "ownerUser": "ananthu017",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 156788,
+  "totalVotes": 246,
+  "totalDownloads": 24829,
+  "title": "Emotion Detection",
+  "hasTitle": true,
+  "subtitle": "FER - 2013 dataset with 7 emotion types",
+  "hasSubtitle": true,
+  "description": "The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "feature engineering",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

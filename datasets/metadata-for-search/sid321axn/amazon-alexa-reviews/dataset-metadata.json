@@ -1,0 +1,48 @@
+{
+  "id": "sid321axn/amazon-alexa-reviews",
+  "id_no": 39657,
+  "datasetSlugNullable": "amazon-alexa-reviews",
+  "ownerUserNullable": "sid321axn",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Amazon Alexa Reviews ",
+  "subtitleNullable": "A list of 3150 Amazon customers reviews for Alexa Echo, Firestick, Echo Dot etc.",
+  "descriptionNullable": "**About the Data**\n\nThis dataset consists of a nearly 3000 Amazon customer reviews (input text), star ratings, date of review, variant  and feedback of  various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc. for learning how to train Machine for sentiment analysis.\n\n\n### What you can do with this Data ?\n\nYou can use this data to analyze Amazon\u2019s Alexa product ; discover insights into consumer reviews and assist with machine learning models.You can also train your machine models for sentiment analysis and analyze customer reviews how many positive reviews ? and how many negative reviews ?\n\n\n\n### Source\n\nExtracted from Amazon's website \n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 39657,
+  "datasetSlug": "amazon-alexa-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "sid321axn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 146860,
+  "totalVotes": 277,
+  "totalDownloads": 23431,
+  "title": "Amazon Alexa Reviews ",
+  "hasTitle": true,
+  "subtitle": "A list of 3150 Amazon customers reviews for Alexa Echo, Firestick, Echo Dot etc.",
+  "hasSubtitle": true,
+  "description": "**About the Data**\n\nThis dataset consists of a nearly 3000 Amazon customer reviews (input text), star ratings, date of review, variant  and feedback of  various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc. for learning how to train Machine for sentiment analysis.\n\n\n### What you can do with this Data ?\n\nYou can use this data to analyze Amazon\u2019s Alexa product ; discover insights into consumer reviews and assist with machine learning models.You can also train your machine models for sentiment analysis and analyze customer reviews how many positive reviews ? and how many negative reviews ?\n\n\n\n### Source\n\nExtracted from Amazon's website \n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "nlp",
+    "deep learning",
+    "naive bayes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "anuragbhatt1",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "gauravsekar/construction-site-safety-image-dataset-roboflow",
+  "id_no": 5006773,
+  "datasetSlugNullable": "construction-site-safety-image-dataset-roboflow",
+  "ownerUserNullable": "gauravsekar",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Construction Site Safety Image Dataset Roboflow v2",
+  "subtitleNullable": "Modification on the original dataset, where some classes were removed/renamed.",
+  "descriptionNullable": "## Source:\n\n- Derived off the original \"[Construction Site Safety Image Dataset Roboflow](https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow/data)\" dataset.\n\n## Modifications:\n\n- The original dataset had 10 different classes namely `{0: 'Hardhat', 1: 'Mask', 2: 'NO-Hardhat', 3: 'NO-Mask', 4: 'NO-Safety Vest', 5: 'Person', 6: 'Safety Cone', 7: 'Safety Vest', 8: 'machinery', 9: 'vehicle'}` for object classification after detection.\n- This modified dataset has a total of 6 classes namely `{0: 'Hardhat', 1: 'NO-Hardhat', 2: 'NO-Safety Vest', 3: 'Person', 4: 'Safety Vest', 5: 'NOT-Person'}`.\n- It combines the classes `{6: 'Safety Cone', 8: 'machinery', 9: 'vehicle'}` into a single class named 'NOT-Person' and completely removes the classes `{1: 'Mask', 3: 'NO-Mask'}`.",
+  "datasetId": 5006773,
+  "datasetSlug": "construction-site-safety-image-dataset-roboflow",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravsekar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Construction Site Safety Image Dataset Roboflow v2",
+  "hasTitle": true,
+  "subtitle": "Modification on the original dataset, where some classes were removed/renamed.",
+  "hasSubtitle": true,
+  "description": "## Source:\n\n- Derived off the original \"[Construction Site Safety Image Dataset Roboflow](https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow/data)\" dataset.\n\n## Modifications:\n\n- The original dataset had 10 different classes namely `{0: 'Hardhat', 1: 'Mask', 2: 'NO-Hardhat', 3: 'NO-Mask', 4: 'NO-Safety Vest', 5: 'Person', 6: 'Safety Cone', 7: 'Safety Vest', 8: 'machinery', 9: 'vehicle'}` for object classification after detection.\n- This modified dataset has a total of 6 classes namely `{0: 'Hardhat', 1: 'NO-Hardhat', 2: 'NO-Safety Vest', 3: 'Person', 4: 'Safety Vest', 5: 'NOT-Person'}`.\n- It combines the classes `{6: 'Safety Cone', 8: 'machinery', 9: 'vehicle'}` into a single class named 'NOT-Person' and completely removes the classes `{1: 'Mask', 3: 'NO-Mask'}`.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

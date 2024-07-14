@@ -1,0 +1,44 @@
+{
+  "id": "dalaiaguirre/israel-hamas-full-articles-nyt",
+  "id_no": 5285192,
+  "datasetSlugNullable": "israel-hamas-full-articles-nyt",
+  "ownerUserNullable": "dalaiaguirre",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "israel-hamas-full-articles-nyt",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset comprises articles from the New York Times, covering the israel-hamas war. It is ideal for Natural Language Processing (NLP) tasks such as text classification, sentiment analysis, and named entity recognition (NER). The dataset includes the following features:\n\ncomprises all articles related to israel hamas war published by the nytimes during the year 2024 until 26/june.\n\nheadline: The headline of the article.\ntext: The full text of the article.",
+  "datasetId": 5285192,
+  "datasetSlug": "israel-hamas-full-articles-nyt",
+  "hasDatasetSlug": true,
+  "ownerUser": "dalaiaguirre",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 13,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "israel-hamas-full-articles-nyt",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset comprises articles from the New York Times, covering the israel-hamas war. It is ideal for Natural Language Processing (NLP) tasks such as text classification, sentiment analysis, and named entity recognition (NER). The dataset includes the following features:\n\ncomprises all articles related to israel hamas war published by the nytimes during the year 2024 until 26/june.\n\nheadline: The headline of the article.\ntext: The full text of the article.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "demographics",
+    "international relations",
+    "nlp",
+    "text",
+    "news",
+    "middle east"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

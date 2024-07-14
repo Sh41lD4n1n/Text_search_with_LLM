@@ -1,0 +1,39 @@
+{
+  "id": "denizorman/hw3-dataset",
+  "id_no": 2572527,
+  "datasetSlugNullable": "hw3-dataset",
+  "ownerUserNullable": "denizorman",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "imdb-top-1000-source-data",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2572527,
+  "datasetSlug": "hw3-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "denizorman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 212,
+  "totalVotes": 0,
+  "totalDownloads": 7,
+  "title": "imdb-top-1000-source-data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

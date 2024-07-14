@@ -1,0 +1,41 @@
+{
+  "id": "praneshchowdhury/discussion-group-message-whats-app",
+  "id_no": 4244846,
+  "datasetSlugNullable": "discussion-group-message-whats-app",
+  "ownerUserNullable": "praneshchowdhury",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "WhatsApp Message",
+  "subtitleNullable": "This is an small message dataset file. ",
+  "descriptionNullable": "The dataset is small, yet I applied it for WhatsApp message emotion detection.\n\nThe time series covers 24 hours without the distinction of AM or PM.\n\nFrom the 67 messages, I obtained a total of 67 rows \u00d7 13 columns.\n\nThank You.",
+  "datasetId": 4244846,
+  "datasetSlug": "discussion-group-message-whats-app",
+  "hasDatasetSlug": true,
+  "ownerUser": "praneshchowdhury",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1054,
+  "totalVotes": 12,
+  "totalDownloads": 124,
+  "title": "WhatsApp Message",
+  "hasTitle": true,
+  "subtitle": "This is an small message dataset file. ",
+  "hasSubtitle": true,
+  "description": "The dataset is small, yet I applied it for WhatsApp message emotion detection.\n\nThe time series covers 24 hours without the distinction of AM or PM.\n\nFrom the 67 messages, I obtained a total of 67 rows \u00d7 13 columns.\n\nThank You.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text",
+    "social networks",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

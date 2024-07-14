@@ -1,0 +1,40 @@
+{
+  "id": "muhammadkhalid/sign-language-for-alphabets",
+  "id_no": 415751,
+  "datasetSlugNullable": "sign-language-for-alphabets",
+  "ownerUserNullable": "muhammadkhalid",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Sign Language for Alphabets",
+  "subtitleNullable": "Hand Gesture Recognition Datasets for Alphabets",
+  "descriptionNullable": "- Sign language datasets for hand gesture recognition for alphabets.\n- Following gestures can be detected using this datasets \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3501914%2Fedf5ec2b617e714304c5216fdc95a68e%2Falphabets.JPG?generation=1573762565077631&alt=media)",
+  "datasetId": 415751,
+  "datasetSlug": "sign-language-for-alphabets",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadkhalid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 15037,
+  "totalVotes": 26,
+  "totalDownloads": 1354,
+  "title": "Sign Language for Alphabets",
+  "hasTitle": true,
+  "subtitle": "Hand Gesture Recognition Datasets for Alphabets",
+  "hasSubtitle": true,
+  "description": "- Sign language datasets for hand gesture recognition for alphabets.\n- Following gestures can be detected using this datasets \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3501914%2Fedf5ec2b617e714304c5216fdc95a68e%2Falphabets.JPG?generation=1573762565077631&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

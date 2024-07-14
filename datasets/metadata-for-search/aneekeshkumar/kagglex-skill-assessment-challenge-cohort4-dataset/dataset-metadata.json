@@ -1,0 +1,43 @@
+{
+  "id": "aneekeshkumar/kagglex-skill-assessment-challenge-cohort4-dataset",
+  "id_no": 5216256,
+  "datasetSlugNullable": "kagglex-skill-assessment-challenge-cohort4-dataset",
+  "ownerUserNullable": "aneekeshkumar",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "KaggleX Skill Assessment Challenge Cohort4 Dataset",
+  "subtitleNullable": "Used Car Price Prediction Dataset",
+  "descriptionNullable": "This Dataset is **forked from the Kaggle Cohort-4 Skill Assessment Challenge.** \nThe dataset for this competition (both train and test) was generated from a deep learning model fine-tuned on the [Used Car Price Prediction Dataset](https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset) dataset. Feature distributions are close to, but not exactly the same, as the original. **Feel free to use the original dataset** as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance, but that is not required.\n\n**train.csv ** - the training dataset; refer to the original dataset link above for column descriptions\n\n**test.csv **- the test dataset; your objective is to predict the value of the target Price\n\n\n**Brand & Model:** Identify the brand or company name along with the specific model of each vehicle.\n\n**Model Year:** Discover the manufacturing year of the vehicles, crucial for assessing depreciation and technology advancements.\n\n**Mileage:** Obtain the mileage of each vehicle, a key indicator of wear and tear and potential maintenance requirements.\n\n**Fuel Type:** Learn about the type of fuel the vehicles run on, whether it's gasoline, diesel, electric, or hybrid.\n\n**Engine Type:** Understand the engine specifications, shedding light on performance and efficiency.\n\n**Transmission:** Determine the transmission type, whether automatic, manual, or another variant.\n\n**Exterior & Interior Colors:** Explore the aesthetic aspects of the vehicles, including exterior and interior color options.\n\n**Accident History:** Discover whether a vehicle has a prior history of accidents or damage, crucial for informed decision-making.\n\n**Clean Title:** Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.\n\n***Price:*** Access the listed prices for each vehicle, aiding in price comparison and budgeting.\n",
+  "datasetId": 5216256,
+  "datasetSlug": "kagglex-skill-assessment-challenge-cohort4-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aneekeshkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 30,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "KaggleX Skill Assessment Challenge Cohort4 Dataset",
+  "hasTitle": true,
+  "subtitle": "Used Car Price Prediction Dataset",
+  "hasSubtitle": true,
+  "description": "This Dataset is **forked from the Kaggle Cohort-4 Skill Assessment Challenge.** \nThe dataset for this competition (both train and test) was generated from a deep learning model fine-tuned on the [Used Car Price Prediction Dataset](https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset) dataset. Feature distributions are close to, but not exactly the same, as the original. **Feel free to use the original dataset** as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance, but that is not required.\n\n**train.csv ** - the training dataset; refer to the original dataset link above for column descriptions\n\n**test.csv **- the test dataset; your objective is to predict the value of the target Price\n\n\n**Brand & Model:** Identify the brand or company name along with the specific model of each vehicle.\n\n**Model Year:** Discover the manufacturing year of the vehicles, crucial for assessing depreciation and technology advancements.\n\n**Mileage:** Obtain the mileage of each vehicle, a key indicator of wear and tear and potential maintenance requirements.\n\n**Fuel Type:** Learn about the type of fuel the vehicles run on, whether it's gasoline, diesel, electric, or hybrid.\n\n**Engine Type:** Understand the engine specifications, shedding light on performance and efficiency.\n\n**Transmission:** Determine the transmission type, whether automatic, manual, or another variant.\n\n**Exterior & Interior Colors:** Explore the aesthetic aspects of the vehicles, including exterior and interior color options.\n\n**Accident History:** Discover whether a vehicle has a prior history of accidents or damage, crucial for informed decision-making.\n\n**Clean Title:** Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.\n\n***Price:*** Access the listed prices for each vehicle, aiding in price comparison and budgeting.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "beginner",
+    "xgboost",
+    "decision tree",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

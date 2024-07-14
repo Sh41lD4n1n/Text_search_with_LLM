@@ -1,0 +1,44 @@
+{
+  "id": "nexuswho/aitex-fabric-image-database",
+  "id_no": 3379961,
+  "datasetSlugNullable": "aitex-fabric-image-database",
+  "ownerUserNullable": "nexuswho",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "AITEX Fabric Image Database",
+  "subtitleNullable": " 245 images of 7 different fabrics",
+  "descriptionNullable": "The textile fabric database consists of 245 images of 7 different fabrics. There are 140 defect-free images, 20 for each type of  fabric. With different types of defects, there are 105 images.\n\nImages have a size of 4096\u00d7256 pixels. Defective images have been denominated as follows: nnnn_ddd_ff.png, where nnnn  is the image number, ddd is the defect code, and ff is the fabric code.\n\nThere is a mask of defect, denominated as: nnnn_ddd_ff_mask.png, where white pixels represent the defect area of the defective image.\n\nDefect free images have been denominated as follows:\n\nnnnn_000_ff.png, where defect code has been replaced by 0000 code.\n\n\n| Defect Code | Defect Description |\n| --- | --- |\n| 2 | Broken end |\n| 6 | Broken yarn |\n| 10 | Broken pick |\n| 16 | Weft curling |\n| 19 | Fuzzyball |\n| 22 | Cut selvage |\n| 23 | Crease |\n| 25 | Warp ball |\n| 27 | Knots |\n| 29 | Contamination |\n| 30 | Nep |\n| 36 | Weft crack |\n\n\n\n\n&gt;Please, if you use this images and the rest of information in your research, we kindly ask that you reference the original authors and their paper:\n\n```\nAFID: a  public fabric image database for defect detection.\n\nJavier Silvestre-Blanes, Teresa Albero-Albero, Ignacio Miralles, Rub\u00e9n P\u00e9rez-Llorens, Jorge Moreno\n\nAUTEX Research Journal, No. 4, 2019\n\nhttps://content.sciendo.com/view/journals/aut/ahead-of-print/article-10.2478-aut-2019-0035.xml\n```\n\n",
+  "datasetId": 3379961,
+  "datasetSlug": "aitex-fabric-image-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexuswho",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5949,
+  "totalVotes": 39,
+  "totalDownloads": 835,
+  "title": "AITEX Fabric Image Database",
+  "hasTitle": true,
+  "subtitle": " 245 images of 7 different fabrics",
+  "hasSubtitle": true,
+  "description": "The textile fabric database consists of 245 images of 7 different fabrics. There are 140 defect-free images, 20 for each type of  fabric. With different types of defects, there are 105 images.\n\nImages have a size of 4096\u00d7256 pixels. Defective images have been denominated as follows: nnnn_ddd_ff.png, where nnnn  is the image number, ddd is the defect code, and ff is the fabric code.\n\nThere is a mask of defect, denominated as: nnnn_ddd_ff_mask.png, where white pixels represent the defect area of the defective image.\n\nDefect free images have been denominated as follows:\n\nnnnn_000_ff.png, where defect code has been replaced by 0000 code.\n\n\n| Defect Code | Defect Description |\n| --- | --- |\n| 2 | Broken end |\n| 6 | Broken yarn |\n| 10 | Broken pick |\n| 16 | Weft curling |\n| 19 | Fuzzyball |\n| 22 | Cut selvage |\n| 23 | Crease |\n| 25 | Warp ball |\n| 27 | Knots |\n| 29 | Contamination |\n| 30 | Nep |\n| 36 | Weft crack |\n\n\n\n\n&gt;Please, if you use this images and the rest of information in your research, we kindly ask that you reference the original authors and their paper:\n\n```\nAFID: a  public fabric image database for defect detection.\n\nJavier Silvestre-Blanes, Teresa Albero-Albero, Ignacio Miralles, Rub\u00e9n P\u00e9rez-Llorens, Jorge Moreno\n\nAUTEX Research Journal, No. 4, 2019\n\nhttps://content.sciendo.com/view/journals/aut/ahead-of-print/article-10.2478-aut-2019-0035.xml\n```\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "clothing and accessories",
+    "business",
+    "cnn",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

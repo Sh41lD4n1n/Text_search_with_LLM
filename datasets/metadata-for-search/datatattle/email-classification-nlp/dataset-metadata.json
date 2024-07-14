@@ -1,0 +1,43 @@
+{
+  "id": "datatattle/email-classification-nlp",
+  "id_no": 888171,
+  "datasetSlugNullable": "email-classification-nlp",
+  "ownerUserNullable": "datatattle",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "E-Mail classification NLP",
+  "subtitleNullable": "Text classification data",
+  "descriptionNullable": "\nDo not forget to leave an upvote :)\n\nThis can be your entry ticket to NLP. The first project you do for text classification.\nThe data consists of email body and labels for text classification.\n\n1) Message body\n2) Labels\n\n\nCheck other NLP data on the profile.\n",
+  "datasetId": 888171,
+  "datasetSlug": "email-classification-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "datatattle",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 33128,
+  "totalVotes": 60,
+  "totalDownloads": 4935,
+  "title": "E-Mail classification NLP",
+  "hasTitle": true,
+  "subtitle": "Text classification data",
+  "hasSubtitle": true,
+  "description": "\nDo not forget to leave an upvote :)\n\nThis can be your entry ticket to NLP. The first project you do for text classification.\nThe data consists of email body and labels for text classification.\n\n1) Message body\n2) Labels\n\n\nCheck other NLP data on the profile.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "internet",
+    "nlp",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "shaishavsurati/trafficdata",
+  "id_no": 2687377,
+  "datasetSlugNullable": "trafficdata",
+  "ownerUserNullable": "shaishavsurati",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "traffic-data ",
+  "subtitleNullable": "This is traffic data. in this dataset there are distance,congestion,waitfortime",
+  "descriptionNullable": "",
+  "datasetId": 2687377,
+  "datasetSlug": "trafficdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "shaishavsurati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 211,
+  "totalVotes": 0,
+  "totalDownloads": 25,
+  "title": "traffic-data ",
+  "hasTitle": true,
+  "subtitle": "This is traffic data. in this dataset there are distance,congestion,waitfortime",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

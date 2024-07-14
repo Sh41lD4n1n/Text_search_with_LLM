@@ -1,0 +1,41 @@
+{
+  "id": "gurpreetsdeol/football-player-performance-data-2017-2024",
+  "id_no": 5264025,
+  "datasetSlugNullable": "football-player-performance-data-2017-2024",
+  "ownerUserNullable": "gurpreetsdeol",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Football Player Performance Data 2017-2024",
+  "subtitleNullable": "Football Player Performance Data for Europe's top leagues ",
+  "descriptionNullable": "These files contain data about football players in Europe's most popular leagues between 2017-2024. There are a wide variety of attributes, the names of teams and players have been properly formatted. If you are unsure what a column is, please visit fbref.com and find the relevant section for a better description of each column. \n\nI used this data to build a Euro 2024 Match predictor (Spoiler: Germany and France Final) using Random Forest Regressor, a machine learning algorithm and I would greatly appreciate any feedback on the project.\nProject link:\nhttps://github.com/GurpreetSDeol/Euro-2024-Match-Predictor-/tree/main",
+  "datasetId": 5264025,
+  "datasetSlug": "football-player-performance-data-2017-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "gurpreetsdeol",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 29,
+  "totalVotes": 0,
+  "totalDownloads": 5,
+  "title": "Football Player Performance Data 2017-2024",
+  "hasTitle": true,
+  "subtitle": "Football Player Performance Data for Europe's top leagues ",
+  "hasSubtitle": true,
+  "description": "These files contain data about football players in Europe's most popular leagues between 2017-2024. There are a wide variety of attributes, the names of teams and players have been properly formatted. If you are unsure what a column is, please visit fbref.com and find the relevant section for a better description of each column. \n\nI used this data to build a Euro 2024 Match predictor (Spoiler: Germany and France Final) using Random Forest Regressor, a machine learning algorithm and I would greatly appreciate any feedback on the project.\nProject link:\nhttps://github.com/GurpreetSDeol/Euro-2024-Match-Predictor-/tree/main",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "decision tree"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "watchman/rtsd-dataset",
+  "id_no": 1961664,
+  "datasetSlugNullable": "rtsd-dataset",
+  "ownerUserNullable": "watchman",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Russian traffic sign images dataset",
+  "subtitleNullable": "Road signs from russian roads",
+  "descriptionNullable": "### Context\n\nDataset described in this [article](http://computeroptics.ru/eng/KO/PDF/KO41-ENG%20-17/400221.pdf). \nRTSD dataset contains frames provided by Geocenter Consulting company (http://geocenter-consulting.ru). Frames are obtained from widescreen digital video recorder which captures 5 frames per second. Frame resolution is from 1280\u00d7720 to 1920\u00d71080. Frames are captured in different seasons (spring, autumn, winter), time of day (morning, afternoon, evening) and in different weather conditions (rain, snow, bright sun). \n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1961664,
+  "datasetSlug": "rtsd-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "watchman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 11720,
+  "totalVotes": 15,
+  "totalDownloads": 2007,
+  "title": "Russian traffic sign images dataset",
+  "hasTitle": true,
+  "subtitle": "Road signs from russian roads",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset described in this [article](http://computeroptics.ru/eng/KO/PDF/KO41-ENG%20-17/400221.pdf). \nRTSD dataset contains frames provided by Geocenter Consulting company (http://geocenter-consulting.ru). Frames are obtained from widescreen digital video recorder which captures 5 frames per second. Frame resolution is from 1280\u00d7720 to 1920\u00d71080. Frames are captured in different seasons (spring, autumn, winter), time of day (morning, afternoon, evening) and in different weather conditions (rain, snow, bright sun). \n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "law",
+    "automobiles and vehicles",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "navabhaarathi20003/wireshark2",
+  "id_no": 3435280,
+  "datasetSlugNullable": "wireshark2",
+  "ownerUserNullable": "navabhaarathi20003",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Network traffic analysis",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is collect using wireshark. Wireshark is a widely used network protocol analyzer that captures and analyzes network traffic, allowing you to inspect and examine the communication between devices. \nWith a dataset of this nature, you have the opportunity to gain insights into the network activity within the college environment. Some possible characteristics and analyses you could explore include:\n\n1.Protocol Distribution: You can analyze the frequency and distribution of different protocols used within the college network. This information will provide an overview of the most commonly used protocols and their relative importance in the network infrastructure.\n\n2.Network Traffic Patterns: By examining the timestamps associated with each data point, you can identify patterns in network traffic throughout the day. This analysis could reveal peak usage times, network congestion, or specific events that generate increased network activity.\n\n3.Anomalous Behavior: By comparing the collected data against known patterns of normal network behavior, you can identify any anomalies or suspicious activities. Unusual protocols, unexpected traffic flows, or excessive bandwidth usage might indicate security breaches, network misconfigurations, or other irregularities that require attention.\n\n4.Bandwidth Utilization: Analyzing the data points' payload sizes and protocol types, you can gain insights into the overall bandwidth utilization of the college network. This information could help optimize network performance and identify potential bottlenecks.\n\n5.Protocol Interactions: Investigating the relationships between different protocols and their interactions can provide a deeper understanding of the network ecosystem. This analysis may reveal dependencies, interdependencies, or patterns that help improve network design and troubleshoot potential issues.\n\n6.Application Identification: By examining the protocols used by different applications or services, you can identify the most commonly accessed resources within the college network. This knowledge can be useful for network management, capacity planning, and prioritizing network resources.\n\n7.User Behavior: If the dataset includes information about the source or destination IP addresses, you can correlate the protocols with specific users or devices. This analysis can shed light on user preferences, popular services, or potential security risks associated with specific users.\n\nRemember to take privacy concerns into account when analyzing the dataset, ensuring that any personally identifiable information is properly anonymized or handled according to privacy regulations.",
+  "datasetId": 3435280,
+  "datasetSlug": "wireshark2",
+  "hasDatasetSlug": true,
+  "ownerUser": "navabhaarathi20003",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2219,
+  "totalVotes": 5,
+  "totalDownloads": 429,
+  "title": "Network traffic analysis",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is collect using wireshark. Wireshark is a widely used network protocol analyzer that captures and analyzes network traffic, allowing you to inspect and examine the communication between devices. \nWith a dataset of this nature, you have the opportunity to gain insights into the network activity within the college environment. Some possible characteristics and analyses you could explore include:\n\n1.Protocol Distribution: You can analyze the frequency and distribution of different protocols used within the college network. This information will provide an overview of the most commonly used protocols and their relative importance in the network infrastructure.\n\n2.Network Traffic Patterns: By examining the timestamps associated with each data point, you can identify patterns in network traffic throughout the day. This analysis could reveal peak usage times, network congestion, or specific events that generate increased network activity.\n\n3.Anomalous Behavior: By comparing the collected data against known patterns of normal network behavior, you can identify any anomalies or suspicious activities. Unusual protocols, unexpected traffic flows, or excessive bandwidth usage might indicate security breaches, network misconfigurations, or other irregularities that require attention.\n\n4.Bandwidth Utilization: Analyzing the data points' payload sizes and protocol types, you can gain insights into the overall bandwidth utilization of the college network. This information could help optimize network performance and identify potential bottlenecks.\n\n5.Protocol Interactions: Investigating the relationships between different protocols and their interactions can provide a deeper understanding of the network ecosystem. This analysis may reveal dependencies, interdependencies, or patterns that help improve network design and troubleshoot potential issues.\n\n6.Application Identification: By examining the protocols used by different applications or services, you can identify the most commonly accessed resources within the college network. This knowledge can be useful for network management, capacity planning, and prioritizing network resources.\n\n7.User Behavior: If the dataset includes information about the source or destination IP addresses, you can correlate the protocols with specific users or devices. This analysis can shed light on user preferences, popular services, or potential security risks associated with specific users.\n\nRemember to take privacy concerns into account when analyzing the dataset, ensuring that any personally identifiable information is properly anonymized or handled according to privacy regulations.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "advanced",
+    "time series analysis",
+    "neural networks",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

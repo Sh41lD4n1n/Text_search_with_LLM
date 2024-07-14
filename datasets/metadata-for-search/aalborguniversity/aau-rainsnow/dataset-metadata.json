@@ -1,0 +1,43 @@
+{
+  "id": "/aau-rainsnow",
+  "id_no": 55091,
+  "datasetSlugNullable": "aau-rainsnow",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "AAU RainSnow Traffic Surveillance Dataset",
+  "subtitleNullable": "Instance-level annotations of road users in RGB and thermal video",
+  "descriptionNullable": "### Rain, Snow, and Bad Weather in Traffic Surveillance\nComputed vision-based image analysis lays the foundation for automatic traffic surveillance. This works well in daylight when the road users are clearly visible to the camera but often struggles when the visibility of the scene is impaired by insufficient lighting or bad weather conditions such as rain, snow, haze, and fog. \n\nIn this dataset, we have focused on collecting traffic surveillance video in rainfall and snowfall, capturing 22 five-minute videos from seven different traffic intersections. The illumination of the scenes vary from broad daylight to twilight and night. The scenes feature glare from headlights of cars, reflections from puddles, and blur from raindrops at the camera lens. \n\nWe have collected the data using a conventional RGB colour camera and a thermal infrared camera. If combined, these modalities should enable robust detection and classification of road users even under challenging weather conditions.\n\n100 frames have been selected randomly from each five-minute sequence and any road user in these frames is annotated on a per-pixel, instance-level with corresponding category label. In total, 2,200 frames are annotated, containing 13,297 objects. \n\n\n### Content and Annotations\nThe dataset is collected from seven intersections in the Danish cities of Aalborg and Viborg. The RGB and thermal cameras are placed on a street lamp, observing the traffic from above. The resolution of both cameras are 640x480 pixels and the frame rate is fixed at 20 frames/second. With 21 five-minute sequences (and one four-minute sequence), this results in 130,800 RGB-thermal image pairs.\n\nThe two video streams are synchronized in time. The images of one modality is transferred to another by a fixed homography. A sample implementation is shown in the file *aauRainSnowUtility.py*\n\n### Annotations\nEach instance of a road user is annotated on a pixel-level with corresponding category label. \nWe have used the AAU VAP Multimodal Pixel Annotator as our annotation tool. The category labels are compatible with the MSCOCO category labels and the entire annotated dataset is converted to a json-file that can be used directly with the COCO API. In our kernel, we have used pycocotools to showcase the dataset and annotations.\n\n\n\n### Acknowledgements\nPlease cite the following paper if you find the dataset useful:\n\n    @article{bahnsen2018rain,\n      title={Rain Removal in Traffic Surveillance: Does it Matter?},\n      author={Bahnsen, Chris H. and Moeslund, Thomas B.},\n      journal={IEEE Transactions on Intelligent Transportation Systems},\n      year={2018},\n      publisher={IEEE},\n      doi={10.1109/TITS.2018.2872502},\n      pages={1--18}\n    }",
+  "datasetId": 55091,
+  "datasetSlug": "aau-rainsnow",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 96428,
+  "totalVotes": 121,
+  "totalDownloads": 4572,
+  "title": "AAU RainSnow Traffic Surveillance Dataset",
+  "hasTitle": true,
+  "subtitle": "Instance-level annotations of road users in RGB and thermal video",
+  "hasSubtitle": true,
+  "description": "### Rain, Snow, and Bad Weather in Traffic Surveillance\nComputed vision-based image analysis lays the foundation for automatic traffic surveillance. This works well in daylight when the road users are clearly visible to the camera but often struggles when the visibility of the scene is impaired by insufficient lighting or bad weather conditions such as rain, snow, haze, and fog. \n\nIn this dataset, we have focused on collecting traffic surveillance video in rainfall and snowfall, capturing 22 five-minute videos from seven different traffic intersections. The illumination of the scenes vary from broad daylight to twilight and night. The scenes feature glare from headlights of cars, reflections from puddles, and blur from raindrops at the camera lens. \n\nWe have collected the data using a conventional RGB colour camera and a thermal infrared camera. If combined, these modalities should enable robust detection and classification of road users even under challenging weather conditions.\n\n100 frames have been selected randomly from each five-minute sequence and any road user in these frames is annotated on a per-pixel, instance-level with corresponding category label. In total, 2,200 frames are annotated, containing 13,297 objects. \n\n\n### Content and Annotations\nThe dataset is collected from seven intersections in the Danish cities of Aalborg and Viborg. The RGB and thermal cameras are placed on a street lamp, observing the traffic from above. The resolution of both cameras are 640x480 pixels and the frame rate is fixed at 20 frames/second. With 21 five-minute sequences (and one four-minute sequence), this results in 130,800 RGB-thermal image pairs.\n\nThe two video streams are synchronized in time. The images of one modality is transferred to another by a fixed homography. A sample implementation is shown in the file *aauRainSnowUtility.py*\n\n### Annotations\nEach instance of a road user is annotated on a pixel-level with corresponding category label. \nWe have used the AAU VAP Multimodal Pixel Annotator as our annotation tool. The category labels are compatible with the MSCOCO category labels and the entire annotated dataset is converted to a json-file that can be used directly with the COCO API. In our kernel, we have used pycocotools to showcase the dataset and annotations.\n\n\n\n### Acknowledgements\nPlease cite the following paper if you find the dataset useful:\n\n    @article{bahnsen2018rain,\n      title={Rain Removal in Traffic Surveillance: Does it Matter?},\n      author={Bahnsen, Chris H. and Moeslund, Thomas B.},\n      journal={IEEE Transactions on Intelligent Transportation Systems},\n      year={2018},\n      publisher={IEEE},\n      doi={10.1109/TITS.2018.2872502},\n      pages={1--18}\n    }",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "law",
+    "computer science",
+    "software",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

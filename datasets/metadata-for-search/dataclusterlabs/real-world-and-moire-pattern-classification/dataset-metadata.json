@@ -1,0 +1,42 @@
+{
+  "id": "dataclusterlabs/real-world-and-moire-pattern-classification",
+  "id_no": 1651658,
+  "datasetSlugNullable": "real-world-and-moire-pattern-classification",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Real world moire pattern classification",
+  "subtitleNullable": "Used to classify spoof and real images",
+  "descriptionNullable": "### **This sample dataset is collected by DataCluster Labs, India.**\n\n### To download full datasets or to submit a request for your dataset needs, please email on: sales@datacluster.ai\n\nThis dataset consists of two categories. Real world images and spoof images(Captured from Screen) which shows moire patterns.\n\n### **Introduction**\nThis dataset can be used to classify real world images and images captured from laptop, mobile phones or TV. The spoof images shows the moire pattern which can help detect fake or spoof personality. This dataset can be used to enhance vision based security algorithms. \n\n### **Dataset Features**\n- Captured by 3000+ unique users\n- Rich in diversity\n- Mobile phone view point\n- Various lighting conditions\n- Indoor and Outdoor scene\n\n### **Dataset Features**\n- Classification and detection annotations available\n- Multiple category annotations possible\n- COCO, PASCAL VOC and YOLO formats\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "datasetId": 1651658,
+  "datasetSlug": "real-world-and-moire-pattern-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 6204,
+  "totalVotes": 10,
+  "totalDownloads": 379,
+  "title": "Real world moire pattern classification",
+  "hasTitle": true,
+  "subtitle": "Used to classify spoof and real images",
+  "hasSubtitle": true,
+  "description": "### **This sample dataset is collected by DataCluster Labs, India.**\n\n### To download full datasets or to submit a request for your dataset needs, please email on: sales@datacluster.ai\n\nThis dataset consists of two categories. Real world images and spoof images(Captured from Screen) which shows moire patterns.\n\n### **Introduction**\nThis dataset can be used to classify real world images and images captured from laptop, mobile phones or TV. The spoof images shows the moire pattern which can help detect fake or spoof personality. This dataset can be used to enhance vision based security algorithms. \n\n### **Dataset Features**\n- Captured by 3000+ unique users\n- Rich in diversity\n- Mobile phone view point\n- Various lighting conditions\n- Indoor and Outdoor scene\n\n### **Dataset Features**\n- Classification and detection annotations available\n- Multiple category annotations possible\n- COCO, PASCAL VOC and YOLO formats\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "computer vision",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

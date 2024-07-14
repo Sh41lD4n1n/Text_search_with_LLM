@@ -1,0 +1,43 @@
+{
+  "id": "moezabid/bottles-and-cans",
+  "id_no": 775403,
+  "datasetSlugNullable": "bottles-and-cans",
+  "ownerUserNullable": "moezabid",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Bottles and Cans Images",
+  "subtitleNullable": "Classification of plastic bottles and aluminum cans image data.",
+  "descriptionNullable": "### Context\n\nThe \"Vegeta Reverse Vending Machine\" does not rely on expensive sensors to detect the type of the object inserted, it uses AI : Deep Learning to classify the object that is detected by a cheap 1080p HD IR camera.\n\nFor more information on how a reverse vending machine works : https://www.youtube.com/watch?v=I2C7GjP1fGs\n\n[&gt; Github repository of the project.](https://github.com/MoezAbid/Reverse_Vending_Machine_Raspberry_Pi)\n\n### Content\n\nThere bottles and cans have already been split into folders for each class .\n\nThe types of the objects which the deep learning model has been trained on :\n\n* Plastic bottles, ranging from 25cl to 2 liters.\n* Aluminum/Metal cans.\n\nWhile the pictures were being taken, backgrounds, sizes, lighting and contents have been varied on purpose to provide a good data set that can help for generalization of models.\n\n## Examples\n![Data Examples Bottles](https://i.imgur.com/YCAkEfw.png)\n\n### Acknowledgements\n\nThis data has been collected in the context of a group school project at ESPRIT. The data has been collected by all the students of the Data Science specialty working on the Reverse Vending Machine Project. \n\n\n### Inspiration\n\nWhat can be done to help the environment ?\n\nFor the Demo Videos :\n[Reverse Vending Machine Web Application](https://www.youtube.com/watch?v=i-AVw1gl6Xw&feature=youtu.be)\n[Reverse Vending Facial Recognition](https://youtu.be/3dnJtUoCu2I)",
+  "datasetId": 775403,
+  "datasetSlug": "bottles-and-cans",
+  "hasDatasetSlug": true,
+  "ownerUser": "moezabid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 27116,
+  "totalVotes": 42,
+  "totalDownloads": 2930,
+  "title": "Bottles and Cans Images",
+  "hasTitle": true,
+  "subtitle": "Classification of plastic bottles and aluminum cans image data.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe \"Vegeta Reverse Vending Machine\" does not rely on expensive sensors to detect the type of the object inserted, it uses AI : Deep Learning to classify the object that is detected by a cheap 1080p HD IR camera.\n\nFor more information on how a reverse vending machine works : https://www.youtube.com/watch?v=I2C7GjP1fGs\n\n[&gt; Github repository of the project.](https://github.com/MoezAbid/Reverse_Vending_Machine_Raspberry_Pi)\n\n### Content\n\nThere bottles and cans have already been split into folders for each class .\n\nThe types of the objects which the deep learning model has been trained on :\n\n* Plastic bottles, ranging from 25cl to 2 liters.\n* Aluminum/Metal cans.\n\nWhile the pictures were being taken, backgrounds, sizes, lighting and contents have been varied on purpose to provide a good data set that can help for generalization of models.\n\n## Examples\n![Data Examples Bottles](https://i.imgur.com/YCAkEfw.png)\n\n### Acknowledgements\n\nThis data has been collected in the context of a group school project at ESPRIT. The data has been collected by all the students of the Data Science specialty working on the Reverse Vending Machine Project. \n\n\n### Inspiration\n\nWhat can be done to help the environment ?\n\nFor the Demo Videos :\n[Reverse Vending Machine Web Application](https://www.youtube.com/watch?v=i-AVw1gl6Xw&feature=youtu.be)\n[Reverse Vending Facial Recognition](https://youtu.be/3dnJtUoCu2I)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "business",
+    "health",
+    "deep learning",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

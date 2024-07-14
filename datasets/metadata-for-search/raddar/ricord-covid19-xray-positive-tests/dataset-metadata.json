@@ -1,0 +1,40 @@
+{
+  "id": "raddar/ricord-covid19-xray-positive-tests",
+  "id_no": 1351433,
+  "datasetSlugNullable": "ricord-covid19-xray-positive-tests",
+  "ownerUserNullable": "raddar",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "RICORD COVID-19 X-ray positive tests",
+  "subtitleNullable": "X-rays with test confirmed Covid-19",
+  "descriptionNullable": "This dataset contains X-rays of Covid-19 positive cases. I curated this dataset to remove any duplicated or lateral view images.\n\nEach x-ray is triple-read by different radiologist, who were asked to classify the X-ray in two dimensions:\n\n**Appearance**\n\n- Typical Appearance\nMultifocal bilateral, peripheral opacities, and/or Opacities with rounded morphology\nLower lung-predominant distribution (Required Feature - must be present with either or both of the first two opacity patterns)\n\n- Indeterminate Appearance\nAbsence of typical findings AND Unilateral, central or upper lung predominant distribution of airspace disease\n\n- Atypical Appearance\nPneumothorax or pleural effusion, Pulmonary Edema, Lobar Consolidation, Solitary lung nodule or mass, Diffuse tiny nodules, Cavity\n- Negative for Pneumonia\nNo lung opacities\n\n**Airspace Disease Grading**\n\n- Mild - Required if not negative for pneumonia\nOpacities in 1-2 lung zones\n\n- Moderate - Required if not negative for pneumonia\nOpacities in 3-4 lung zones\n\n- Severe - Required if not negative for pneumonia\nOpacities in &gt;4 lung zones\n\nThis grading is available in `labels` column. Comma acts as a separator for different radiologists.\n\nDICOM images were postprocessed using https://www.kaggle.com/raddar/convert-dicom-to-np-array-the-correct-way\n\nDataset's original source: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281",
+  "datasetId": 1351433,
+  "datasetSlug": "ricord-covid19-xray-positive-tests",
+  "hasDatasetSlug": true,
+  "ownerUser": "raddar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 6870,
+  "totalVotes": 62,
+  "totalDownloads": 560,
+  "title": "RICORD COVID-19 X-ray positive tests",
+  "hasTitle": true,
+  "subtitle": "X-rays with test confirmed Covid-19",
+  "hasSubtitle": true,
+  "description": "This dataset contains X-rays of Covid-19 positive cases. I curated this dataset to remove any duplicated or lateral view images.\n\nEach x-ray is triple-read by different radiologist, who were asked to classify the X-ray in two dimensions:\n\n**Appearance**\n\n- Typical Appearance\nMultifocal bilateral, peripheral opacities, and/or Opacities with rounded morphology\nLower lung-predominant distribution (Required Feature - must be present with either or both of the first two opacity patterns)\n\n- Indeterminate Appearance\nAbsence of typical findings AND Unilateral, central or upper lung predominant distribution of airspace disease\n\n- Atypical Appearance\nPneumothorax or pleural effusion, Pulmonary Edema, Lobar Consolidation, Solitary lung nodule or mass, Diffuse tiny nodules, Cavity\n- Negative for Pneumonia\nNo lung opacities\n\n**Airspace Disease Grading**\n\n- Mild - Required if not negative for pneumonia\nOpacities in 1-2 lung zones\n\n- Moderate - Required if not negative for pneumonia\nOpacities in 3-4 lung zones\n\n- Severe - Required if not negative for pneumonia\nOpacities in &gt;4 lung zones\n\nThis grading is available in `labels` column. Comma acts as a separator for different radiologists.\n\nDICOM images were postprocessed using https://www.kaggle.com/raddar/convert-dicom-to-np-array-the-correct-way\n\nDataset's original source: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

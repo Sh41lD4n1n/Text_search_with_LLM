@@ -1,0 +1,43 @@
+{
+  "id": "vijaykumar1799/face-mask-detection",
+  "id_no": 1353321,
+  "datasetSlugNullable": "face-mask-detection",
+  "ownerUserNullable": "vijaykumar1799",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Face Mask Detection",
+  "subtitleNullable": "Building a face mask classifier",
+  "descriptionNullable": "### Context\n\nHaving seen multiple datasets related to face mask detection on Kaggle, one dataset which stood out contained 3 classes (with mask, without a mask, and wearing mask incorrectly), unfortunately, the dataset was highly imbalanced and uncleaned. So to improve this dataset, images had to be augmented in such a way that each class has an equal distribution of images and removing noisy images which could be considered as outliers. Thus this dataset that I've created is a combination of an existing dataset that has been cleaned and equally distributed across each class.\n\n\n### Content\n\nThe dataset contains 3 folders labeled as to which class they belong to. the 3 classes are \"with_mask\", \"withou_mask\", and \"mask_weared_incorrect\". Each folder holds 2994 images of people that belong to such a labeled class.\n\n### Acknowledgements\n\nI would like to acknowledge the usage of those 2 datasets:\n- https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset\n- https://www.kaggle.com/andrewmvd/face-mask-detection\n\nUsing the above-mentioned datasets, data was manually extracted from both datasets in such a way that the new dataset is equally distributed and contains good quality samples without noise.",
+  "datasetId": 1353321,
+  "datasetSlug": "face-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijaykumar1799",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 39846,
+  "totalVotes": 76,
+  "totalDownloads": 6396,
+  "title": "Face Mask Detection",
+  "hasTitle": true,
+  "subtitle": "Building a face mask classifier",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHaving seen multiple datasets related to face mask detection on Kaggle, one dataset which stood out contained 3 classes (with mask, without a mask, and wearing mask incorrectly), unfortunately, the dataset was highly imbalanced and uncleaned. So to improve this dataset, images had to be augmented in such a way that each class has an equal distribution of images and removing noisy images which could be considered as outliers. Thus this dataset that I've created is a combination of an existing dataset that has been cleaned and equally distributed across each class.\n\n\n### Content\n\nThe dataset contains 3 folders labeled as to which class they belong to. the 3 classes are \"with_mask\", \"withou_mask\", and \"mask_weared_incorrect\". Each folder holds 2994 images of people that belong to such a labeled class.\n\n### Acknowledgements\n\nI would like to acknowledge the usage of those 2 datasets:\n- https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset\n- https://www.kaggle.com/andrewmvd/face-mask-detection\n\nUsing the above-mentioned datasets, data was manually extracted from both datasets in such a way that the new dataset is equally distributed and contains good quality samples without noise.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "cnn",
+    "image",
+    "public safety",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

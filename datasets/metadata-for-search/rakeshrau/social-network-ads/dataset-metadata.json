@@ -1,0 +1,39 @@
+{
+  "id": "rakeshrau/social-network-ads",
+  "id_no": 1846,
+  "datasetSlugNullable": "social-network-ads",
+  "ownerUserNullable": "rakeshrau",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Social Network Ads",
+  "subtitleNullable": "A categorical dataset to determine whether a user purchased a particular product",
+  "descriptionNullable": "### Context\r\n\r\nThere's a story behind every dataset and here's your opportunity to share yours.\r\n\r\n\r\n### Content\r\n\r\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\r\n\r\n\r\n### Acknowledgements\r\n\r\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\r\n\r\n\r\n### Inspiration\r\n\r\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1846,
+  "datasetSlug": "social-network-ads",
+  "hasDatasetSlug": true,
+  "ownerUser": "rakeshrau",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 209215,
+  "totalVotes": 187,
+  "totalDownloads": 57369,
+  "title": "Social Network Ads",
+  "hasTitle": true,
+  "subtitle": "A categorical dataset to determine whether a user purchased a particular product",
+  "hasSubtitle": true,
+  "description": "### Context\r\n\r\nThere's a story behind every dataset and here's your opportunity to share yours.\r\n\r\n\r\n### Content\r\n\r\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\r\n\r\n\r\n### Acknowledgements\r\n\r\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\r\n\r\n\r\n### Inspiration\r\n\r\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

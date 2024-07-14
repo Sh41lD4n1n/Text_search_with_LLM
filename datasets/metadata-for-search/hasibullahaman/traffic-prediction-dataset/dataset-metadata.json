@@ -1,0 +1,44 @@
+{
+  "id": "hasibullahaman/traffic-prediction-dataset",
+  "id_no": 3860551,
+  "datasetSlugNullable": "traffic-prediction-dataset",
+  "ownerUserNullable": "hasibullahaman",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Traffic Prediction Dataset",
+  "subtitleNullable": "Real Traffic Prediction Dataset ",
+  "descriptionNullable": "Traffic congestion and related problems are a common concern in urban areas. Understanding traffic patterns and analyzing data can provide valuable insights for transportation planning, infrastructure development, and congestion management. \n\n**What exactly is this dataset and how was it created?**\nit is a valuable resource for studying traffic conditions as it contains information collected by a computer vision model. The model detects four classes of vehicles: cars, bikes, buses, and trucks. The dataset is stored in a CSV file and includes additional columns such as time in hours, date, days of the week, and counts for each vehicle type (CarCount, BikeCount, BusCount, TruckCount). The \"Total\" column represents the total count of all vehicle types detected within a 15-minute duration. \n\nThe dataset is updated every 15 minutes, providing a comprehensive view of traffic patterns over the course of one month. Additionally, the dataset includes a column indicating the traffic situation categorized into four classes: 1-Heavy, 2-High, 3-Normal, and 4-Low. This information can help assess the severity of congestion and monitor traffic conditions at different times and days of the week.\n\n**In what cases can it be useful?**\nThe dataset is useful in transportation planning, congestion management, and traffic flow analysis. It helps understand vehicle demand, identify congested areas, and inform infrastructure improvements. The dataset enables targeted interventions like signal optimizations and lane adjustments. It allows researchers to study traffic patterns by hour, day, or specific dates and explore correlations with external factors. It supports transportation research on vehicle relationships and traffic behavior. Urban planners can assess traffic impact for zoning and infrastructure decisions. Overall, the dataset empowers stakeholders to make data-driven decisions, enhance urban mobility, and create efficient and sustainable cities.\n\n**Is there a new update?**\nYes, in the next update, the dataset will be expanded to include the speed of the cars. Additionally, the data will not be limited to a single route; instead, it will encompass a traffic intersection. This expansion aims to provide a more comprehensive understanding of traffic dynamics and enable better analysis and decision-making for traffic management. The inclusion of speed data will offer insights into the flow and efficiency of vehicles, further enhancing the dataset's value for transportation planning and congestion management efforts.\n\nThanks",
+  "datasetId": 3860551,
+  "datasetSlug": "traffic-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hasibullahaman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 27632,
+  "totalVotes": 70,
+  "totalDownloads": 5420,
+  "title": "Traffic Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "Real Traffic Prediction Dataset ",
+  "hasSubtitle": true,
+  "description": "Traffic congestion and related problems are a common concern in urban areas. Understanding traffic patterns and analyzing data can provide valuable insights for transportation planning, infrastructure development, and congestion management. \n\n**What exactly is this dataset and how was it created?**\nit is a valuable resource for studying traffic conditions as it contains information collected by a computer vision model. The model detects four classes of vehicles: cars, bikes, buses, and trucks. The dataset is stored in a CSV file and includes additional columns such as time in hours, date, days of the week, and counts for each vehicle type (CarCount, BikeCount, BusCount, TruckCount). The \"Total\" column represents the total count of all vehicle types detected within a 15-minute duration. \n\nThe dataset is updated every 15 minutes, providing a comprehensive view of traffic patterns over the course of one month. Additionally, the dataset includes a column indicating the traffic situation categorized into four classes: 1-Heavy, 2-High, 3-Normal, and 4-Low. This information can help assess the severity of congestion and monitor traffic conditions at different times and days of the week.\n\n**In what cases can it be useful?**\nThe dataset is useful in transportation planning, congestion management, and traffic flow analysis. It helps understand vehicle demand, identify congested areas, and inform infrastructure improvements. The dataset enables targeted interventions like signal optimizations and lane adjustments. It allows researchers to study traffic patterns by hour, day, or specific dates and explore correlations with external factors. It supports transportation research on vehicle relationships and traffic behavior. Urban planners can assess traffic impact for zoning and infrastructure decisions. Overall, the dataset empowers stakeholders to make data-driven decisions, enhance urban mobility, and create efficient and sustainable cities.\n\n**Is there a new update?**\nYes, in the next update, the dataset will be expanded to include the speed of the cars. Additionally, the data will not be limited to a single route; instead, it will encompass a traffic intersection. This expansion aims to provide a more comprehensive understanding of traffic dynamics and enable better analysis and decision-making for traffic management. The inclusion of speed data will offer insights into the flow and efficiency of vehicles, further enhancing the dataset's value for transportation planning and congestion management efforts.\n\nThanks",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "intermediate",
+    "advanced",
+    "data analytics",
+    "classification",
+    "feature engineering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

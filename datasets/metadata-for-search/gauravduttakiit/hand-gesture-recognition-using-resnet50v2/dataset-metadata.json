@@ -1,0 +1,39 @@
+{
+  "id": "gauravduttakiit/hand-gesture-recognition-using-resnet50v2",
+  "id_no": 1624694,
+  "datasetSlugNullable": "hand-gesture-recognition-using-resnet50v2",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Hand Gesture Recognition using ResNet50V2",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1624694,
+  "datasetSlug": "hand-gesture-recognition-using-resnet50v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 1654,
+  "totalVotes": 5,
+  "totalDownloads": 20,
+  "title": "Hand Gesture Recognition using ResNet50V2",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

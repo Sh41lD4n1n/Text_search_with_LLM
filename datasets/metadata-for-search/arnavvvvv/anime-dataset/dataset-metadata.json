@@ -1,0 +1,39 @@
+{
+  "id": "arnavvvvv/anime-dataset",
+  "id_no": 4533048,
+  "datasetSlugNullable": "anime-dataset",
+  "ownerUserNullable": "arnavvvvv",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Dataset",
+  "subtitleNullable": "Anime Dataset from myanimelist.net (animes, profiles, reviews)",
+  "descriptionNullable": "**Context**\nThis dataset contains information about Anime (16k), Reviews (130k) and Profiles (47k) crawled from https://myanimelist.net/\n\n**Content**\nThe dataset contains 3 files:\n\n**animes.csv** contains list of anime, with title, title synonyms, genre, duration, rank, populatiry, score, airing date, episodes and many other important data about individual anime providing sufficient information about trends in time about important aspects of anime. Rank is in float format in csv, but it contains only integer value. This is due to NaN values and their representation in pandas.\n\n**profiles.csv** contains information about users who watch anime, namely username, birth date, gender, and favorite animes list.\n\n**reviews.csv** contains information about reviews users x animes, with text review and scores.\n\n**Acknowledgements**\nThis dataset has been crawled from MyAnimeList.net by myself. If you use this dataset in your research, please support this page.\n\n**Inspiration**\nThis dataset may be used in recomender system, sentiment analysis or other natural language processing.\n\nWe can analysis the ratings to see Anime trend and how the genre can be a trend.",
+  "datasetId": 4533048,
+  "datasetSlug": "anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnavvvvv",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6200,
+  "totalVotes": 33,
+  "totalDownloads": 1080,
+  "title": "Anime Dataset",
+  "hasTitle": true,
+  "subtitle": "Anime Dataset from myanimelist.net (animes, profiles, reviews)",
+  "hasSubtitle": true,
+  "description": "**Context**\nThis dataset contains information about Anime (16k), Reviews (130k) and Profiles (47k) crawled from https://myanimelist.net/\n\n**Content**\nThe dataset contains 3 files:\n\n**animes.csv** contains list of anime, with title, title synonyms, genre, duration, rank, populatiry, score, airing date, episodes and many other important data about individual anime providing sufficient information about trends in time about important aspects of anime. Rank is in float format in csv, but it contains only integer value. This is due to NaN values and their representation in pandas.\n\n**profiles.csv** contains information about users who watch anime, namely username, birth date, gender, and favorite animes list.\n\n**reviews.csv** contains information about reviews users x animes, with text review and scores.\n\n**Acknowledgements**\nThis dataset has been crawled from MyAnimeList.net by myself. If you use this dataset in your research, please support this page.\n\n**Inspiration**\nThis dataset may be used in recomender system, sentiment analysis or other natural language processing.\n\nWe can analysis the ratings to see Anime trend and how the genre can be a trend.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

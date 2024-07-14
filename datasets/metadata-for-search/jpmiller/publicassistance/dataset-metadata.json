@@ -1,0 +1,40 @@
+{
+  "id": "jpmiller/publicassistance",
+  "id_no": 10128,
+  "datasetSlugNullable": "publicassistance",
+  "ownerUserNullable": "jpmiller",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "US Public Food Assistance 1 - WIC",
+  "subtitleNullable": "Where does it come from, who spends it, who gets it.",
+  "descriptionNullable": "####  PAID ADVERTISEMENT\nPart 2 of the dataset is complete (for now!)  There you'll find data specific to the Supplemental Nutrition Assistance (SNAP) Program. The US SNAP program provides food benefits to low-income families to supplement their grocery budget.\n\nLink: [US Public Food Assistance 2 - SNAP](https://www.kaggle.com/datasets/jpmiller/food-security)\n Please click on the \u25b2 if you find it useful -- it has almost 500 downloads!\n\n\n\n## Context\nThis dataset, Part 1, addresses another US program, the Special Supplemental Nutrition Program for Women, Infants, and Children Program, or simply WIC. The program allocates Federal and State funds to help low-income women and children up to age five who are at nutritional risk. Funds are used to provide supplemental foods, baby formula, health care, and nutrition education.\n\n\n## Content\n\nFiles may include participation data and spending for state programs, and poverty data for each state.  Data for WIC  covers fiscal years 2013-2016, which is actually October 2012 through September 2016.  \n\n## Motivation\nMy original purpose here is two-fold:\n\n - Explore various  aspects of US Public Assistance. Show trends over recent years and better understand differences across state agencies.  Although the federal government sponsors the program and provides funding, program are administered at the state level and can widely vary. Indian nations (native Americans) also administer their own programs.\n\n - Share with the Kaggle Community the joy - and pain -  of working with government data. Data is often spread across numerous agency sites and comes in a variety of formats. Often the data is provided in Excel, with the files consisting of multiple tabs. Also, files are formatted as reports and contain aggregated data (sums, averages, etc.) along with base data.\n\nAs of March 2nd, I am expanding the purpose to support the [M5 Forecasting Challenges](https://www.kaggle.com/c/m5-forecasting-accuracy/overview/evaluation) here on Kaggle. Store sales are partly driven by participation in Public Assistance programs. Participants typically receive the items free of charge. The store then recovers the sale price from the state agencies administering the program.",
+  "datasetId": 10128,
+  "datasetSlug": "publicassistance",
+  "hasDatasetSlug": true,
+  "ownerUser": "jpmiller",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 134109,
+  "totalVotes": 458,
+  "totalDownloads": 20803,
+  "title": "US Public Food Assistance 1 - WIC",
+  "hasTitle": true,
+  "subtitle": "Where does it come from, who spends it, who gets it.",
+  "hasSubtitle": true,
+  "description": "####  PAID ADVERTISEMENT\nPart 2 of the dataset is complete (for now!)  There you'll find data specific to the Supplemental Nutrition Assistance (SNAP) Program. The US SNAP program provides food benefits to low-income families to supplement their grocery budget.\n\nLink: [US Public Food Assistance 2 - SNAP](https://www.kaggle.com/datasets/jpmiller/food-security)\n Please click on the \u25b2 if you find it useful -- it has almost 500 downloads!\n\n\n\n## Context\nThis dataset, Part 1, addresses another US program, the Special Supplemental Nutrition Program for Women, Infants, and Children Program, or simply WIC. The program allocates Federal and State funds to help low-income women and children up to age five who are at nutritional risk. Funds are used to provide supplemental foods, baby formula, health care, and nutrition education.\n\n\n## Content\n\nFiles may include participation data and spending for state programs, and poverty data for each state.  Data for WIC  covers fiscal years 2013-2016, which is actually October 2012 through September 2016.  \n\n## Motivation\nMy original purpose here is two-fold:\n\n - Explore various  aspects of US Public Assistance. Show trends over recent years and better understand differences across state agencies.  Although the federal government sponsors the program and provides funding, program are administered at the state level and can widely vary. Indian nations (native Americans) also administer their own programs.\n\n - Share with the Kaggle Community the joy - and pain -  of working with government data. Data is often spread across numerous agency sites and comes in a variety of formats. Often the data is provided in Excel, with the files consisting of multiple tabs. Also, files are formatted as reports and contain aggregated data (sums, averages, etc.) along with base data.\n\nAs of March 2nd, I am expanding the purpose to support the [M5 Forecasting Challenges](https://www.kaggle.com/c/m5-forecasting-accuracy/overview/evaluation) here on Kaggle. Store sales are partly driven by participation in Public Assistance programs. Participants typically receive the items free of charge. The store then recovers the sale price from the state agencies administering the program.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

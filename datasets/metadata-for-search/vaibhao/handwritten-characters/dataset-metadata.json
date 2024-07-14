@@ -1,0 +1,42 @@
+{
+  "id": "vaibhao/handwritten-characters",
+  "id_no": 53376,
+  "datasetSlugNullable": "handwritten-characters",
+  "ownerUserNullable": "vaibhao",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "HandWritten_Character",
+  "subtitleNullable": "Alphabets(Small and Capital) Digits and Some Special Characters",
+  "descriptionNullable": "### Context\n1. Used Emnist data for Alphabets and Digits.\n2. Transformed the Data using some image processing techniques and convert it to 32,32 pixel black and white images.\n3. Created the Data set for special character ( @, #, $, & )\n4. Merged the Categories to avoid the misclassification \n5. Total 39 Categories in Train and Validation set\n\n\n### Content\n\n1. The Data set contains all the English alphabets  (small and caps), digits (0-9) and some special characters ( @, #, $, & )\n2. The images are 32 by 32 pixel black and white images\n3. There are total 39 categories 26 for Alphabets  (small and caps letters are combined to create a single class of each character), 9 for Digits (i.e. 1 to 9 ). to avoid mis-classification digit 0 is combined in character O category. and some special characters ( @, #, $, &).\n4.  Please refer the github page for trained Model using CNN and Convolution Scripts fro training.\nhttps://github.com/VaibhavKhamgaonkar/OCR  \n\n\n\n### Acknowledgements\n\nThanks a Lot Vijayalaxmi Rohane for helping me out for creating the Dataset.\n\n\n### Inspiration\nJust wanted to create a good dataset for everyone who wants to create something related to hand written text. i.e. Build an OCR or any other sort of application. I have created model which is around 92.7% accurate which is open sourced on my github account.\nhttps://github.com/VaibhavKhamgaonkar/OCR",
+  "datasetId": 53376,
+  "datasetSlug": "handwritten-characters",
+  "hasDatasetSlug": true,
+  "ownerUser": "vaibhao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 38247,
+  "totalVotes": 119,
+  "totalDownloads": 7987,
+  "title": "HandWritten_Character",
+  "hasTitle": true,
+  "subtitle": "Alphabets(Small and Capital) Digits and Some Special Characters",
+  "hasSubtitle": true,
+  "description": "### Context\n1. Used Emnist data for Alphabets and Digits.\n2. Transformed the Data using some image processing techniques and convert it to 32,32 pixel black and white images.\n3. Created the Data set for special character ( @, #, $, & )\n4. Merged the Categories to avoid the misclassification \n5. Total 39 Categories in Train and Validation set\n\n\n### Content\n\n1. The Data set contains all the English alphabets  (small and caps), digits (0-9) and some special characters ( @, #, $, & )\n2. The images are 32 by 32 pixel black and white images\n3. There are total 39 categories 26 for Alphabets  (small and caps letters are combined to create a single class of each character), 9 for Digits (i.e. 1 to 9 ). to avoid mis-classification digit 0 is combined in character O category. and some special characters ( @, #, $, &).\n4.  Please refer the github page for trained Model using CNN and Convolution Scripts fro training.\nhttps://github.com/VaibhavKhamgaonkar/OCR  \n\n\n\n### Acknowledgements\n\nThanks a Lot Vijayalaxmi Rohane for helping me out for creating the Dataset.\n\n\n### Inspiration\nJust wanted to create a good dataset for everyone who wants to create something related to hand written text. i.e. Build an OCR or any other sort of application. I have created model which is around 92.7% accurate which is open sourced on my github account.\nhttps://github.com/VaibhavKhamgaonkar/OCR",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer vision",
+    "classification",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

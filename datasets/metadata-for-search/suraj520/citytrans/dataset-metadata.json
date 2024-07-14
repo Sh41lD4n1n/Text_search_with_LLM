@@ -1,0 +1,43 @@
+{
+  "id": "suraj520/citytrans",
+  "id_no": 3360400,
+  "datasetSlugNullable": "citytrans",
+  "ownerUserNullable": "suraj520",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CityTrans ",
+  "subtitleNullable": "A dataset representing a city's transportation system.",
+  "descriptionNullable": "\n\nDescription:\n**CityTrans** is a dataset representing a city's transportation system. It includes various types of data related to the city's transportation infrastructure, such as road networks, public transportation routes, traffic flow, commuter patterns, and environmental factors. The dataset is designed to provide insights into urban mobility, aid in transportation planning, and serve as a testbed for innovative transportation solutions.\n\nFeatures of the **CityTrans** dataset:\n\nRoad Networks:\n\n- Graph representation of the road network, including nodes (intersections) and edges (road segments).\n- Attributes for each road segment, such as length, speed limits, and number of lanes.\n- Historical traffic data for different time periods, allowing analysis of traffic congestion patterns.\n\nPublic Transportation:\n\n- Bus routes and schedules, including stops, timings, and passenger load data.\n- Subway/Metro lines, stations, and their connections.\n- Fare data, including ticket prices and types.\n\nTraffic Flow:\n\n- Real-time and historical traffic flow information, including vehicle counts and speeds on different road segments.\n- Traffic congestion hotspots and peak hours.\n- Random delays introduced to simulate traffic congestion.\n\nCommuter Patterns:\n\n- Origin-destination matrices indicating the number of commuters traveling between different areas of the city.\n- Realistic departure and arrival times for different modes of transport, considering peak hours and congestion.\n- Random delays added to arrival times based on traffic congestion.\n\nEnvironmental Factors:\n\n- Random weather data, including temperature, precipitation, and wind speed for different locations and times.\n- Random air quality data, reflecting pollution levels at various locations.\n\n<br>\nThe *CityTrans* dataset aims to provide a comprehensive view of the city's transportation system. It enables researchers, planners, and developers to analyze and visualize the city's transportation patterns, develop predictive models, create interactive visualizations, and explore innovative solutions for urban mobility challenges.<br>\n\n<br>\nBy making this dataset available, it fosters collaboration and allows others to leverage the data for research, testing algorithms, and creating innovative solutions to address transportation-related issues in urban environments.",
+  "datasetId": 3360400,
+  "datasetSlug": "citytrans",
+  "hasDatasetSlug": true,
+  "ownerUser": "suraj520",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1684,
+  "totalVotes": 10,
+  "totalDownloads": 289,
+  "title": "CityTrans ",
+  "hasTitle": true,
+  "subtitle": "A dataset representing a city's transportation system.",
+  "hasSubtitle": true,
+  "description": "\n\nDescription:\n**CityTrans** is a dataset representing a city's transportation system. It includes various types of data related to the city's transportation infrastructure, such as road networks, public transportation routes, traffic flow, commuter patterns, and environmental factors. The dataset is designed to provide insights into urban mobility, aid in transportation planning, and serve as a testbed for innovative transportation solutions.\n\nFeatures of the **CityTrans** dataset:\n\nRoad Networks:\n\n- Graph representation of the road network, including nodes (intersections) and edges (road segments).\n- Attributes for each road segment, such as length, speed limits, and number of lanes.\n- Historical traffic data for different time periods, allowing analysis of traffic congestion patterns.\n\nPublic Transportation:\n\n- Bus routes and schedules, including stops, timings, and passenger load data.\n- Subway/Metro lines, stations, and their connections.\n- Fare data, including ticket prices and types.\n\nTraffic Flow:\n\n- Real-time and historical traffic flow information, including vehicle counts and speeds on different road segments.\n- Traffic congestion hotspots and peak hours.\n- Random delays introduced to simulate traffic congestion.\n\nCommuter Patterns:\n\n- Origin-destination matrices indicating the number of commuters traveling between different areas of the city.\n- Realistic departure and arrival times for different modes of transport, considering peak hours and congestion.\n- Random delays added to arrival times based on traffic congestion.\n\nEnvironmental Factors:\n\n- Random weather data, including temperature, precipitation, and wind speed for different locations and times.\n- Random air quality data, reflecting pollution levels at various locations.\n\n<br>\nThe *CityTrans* dataset aims to provide a comprehensive view of the city's transportation system. It enables researchers, planners, and developers to analyze and visualize the city's transportation patterns, develop predictive models, create interactive visualizations, and explore innovative solutions for urban mobility challenges.<br>\n\n<br>\nBy making this dataset available, it fosters collaboration and allows others to leverage the data for research, testing algorithms, and creating innovative solutions to address transportation-related issues in urban environments.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "beginner",
+    "intermediate",
+    "advanced",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

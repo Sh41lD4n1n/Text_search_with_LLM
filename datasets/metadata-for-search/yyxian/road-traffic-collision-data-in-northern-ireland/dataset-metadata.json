@@ -1,0 +1,43 @@
+{
+  "id": "yyxian/road-traffic-collision-data-in-northern-ireland",
+  "id_no": 4352927,
+  "datasetSlugNullable": "road-traffic-collision-data-in-northern-ireland",
+  "ownerUserNullable": "yyxian",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Road Traffic Collision Data in Northern Ireland",
+  "subtitleNullable": "Statistics on injury road traffic collisions (RTCs) from 2017 to 2022",
+  "descriptionNullable": "## Content  \nThe [**Police Service of Northern Ireland (PSNI)**](https://www.psni.police.uk/) compiles data on **road traffic collisions (RTCs)** that result in injuries. This data is used to monitor and identify trends in the number of individuals killed or injured (either seriously or slightly) due to RTCs on Northern Ireland\u2019s roads.\n\nThe PSNI\u2019s injury collision data for Northern Ireland, combined with those for England, Scotland and Wales, provide a comprehensive overview of all such collisions across the UK.\n\nThis dataset is retrieved from data.gov.uk, a website that is built and maintained by the Government Digital Service. It contains four csv files:\n1. **casualty2017-2022.csv**: The casualties involved in collisions, including casualty information (whether the casualty was a driver, passenger, pedestrian or cyclist) and vehicle involved.\n2. **collision2017-2022.csv**: The conditions under which the collisions occurred, including collision severity, number of vehicles and casualties involved, time, location, weather, road conditions and carriageway hazards.\n3. **vehicle2017-2022.csv**: The vehicles involved in each collision, including type of vehicle, operation at the time of the collision, object involved and driver information.\n4. **vehicle-index.csv**: A list of variables and values for vehicle2017-2022.csv.\n  \n## Possible Explorations\n- Assess how environmental conditions affect accident likelihood and severity.\n- Examine the influence of time (day and hour) on accident occurrence and severity.\n- Show differences in casualty demographics.\n- Identify regional variations in road traffic collisions.\n- Analyze trends in traffic accidents and fatality rates.\n\n## Important Note\nThe following variables are documented for collisions resulting in fatal and serious injuries only:  \n&gt;**Collision Records**  \n1. a_jdet - Junction Detail\n2. a_jcont - Junction Control\n3. a_pedphys - Pedestrian Crossing Facilities - Physical\n4. a_pedhum - Pedestrian Crossing Facilities - Human\n5. a_light - Light Conditions\n6. a_weat - Weather Conditions\n7. a_roadsc - Road Surface Conditions\n8. a_speccs - Special Conditions at Site\n9. a_chaz - Carriageway Hazard\n10. a_scene - Did a Police Officer Attend the Scene of the Collision  \n  \n&gt;**Casualty Records**  \n1. c_loc - Pedestrian Location\n2. c_move - Pedestrian Movement\n3. c_pcv - Bus or Coach Passenger\n4. c_pedinj - Pedestrian casualty injured in the course of on the road work  \n  \n&gt;**Vehicle Records**  \n1. v_junc - Junction Location of Vehicle at Time of Impact\n2. v_skid - Skidding / Overturning\n3. v_hit - First Object Hit in Carriageway\n4. v_leave - Vehicle Leaving Carriageway\n5. v_hitoff - First Object Hit off Carriageway\n6. v_forreg - Foreign Registered Vehicle\n\n## Licence\nUK Open Government Licence (OGL)\n\n## Acknowledgements  \nThe data were publicly visible and published by the Police Service of Northern Ireland.",
+  "datasetId": 4352927,
+  "datasetSlug": "road-traffic-collision-data-in-northern-ireland",
+  "hasDatasetSlug": true,
+  "ownerUser": "yyxian",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 696,
+  "totalVotes": 5,
+  "totalDownloads": 100,
+  "title": "Road Traffic Collision Data in Northern Ireland",
+  "hasTitle": true,
+  "subtitle": "Statistics on injury road traffic collisions (RTCs) from 2017 to 2022",
+  "hasSubtitle": true,
+  "description": "## Content  \nThe [**Police Service of Northern Ireland (PSNI)**](https://www.psni.police.uk/) compiles data on **road traffic collisions (RTCs)** that result in injuries. This data is used to monitor and identify trends in the number of individuals killed or injured (either seriously or slightly) due to RTCs on Northern Ireland\u2019s roads.\n\nThe PSNI\u2019s injury collision data for Northern Ireland, combined with those for England, Scotland and Wales, provide a comprehensive overview of all such collisions across the UK.\n\nThis dataset is retrieved from data.gov.uk, a website that is built and maintained by the Government Digital Service. It contains four csv files:\n1. **casualty2017-2022.csv**: The casualties involved in collisions, including casualty information (whether the casualty was a driver, passenger, pedestrian or cyclist) and vehicle involved.\n2. **collision2017-2022.csv**: The conditions under which the collisions occurred, including collision severity, number of vehicles and casualties involved, time, location, weather, road conditions and carriageway hazards.\n3. **vehicle2017-2022.csv**: The vehicles involved in each collision, including type of vehicle, operation at the time of the collision, object involved and driver information.\n4. **vehicle-index.csv**: A list of variables and values for vehicle2017-2022.csv.\n  \n## Possible Explorations\n- Assess how environmental conditions affect accident likelihood and severity.\n- Examine the influence of time (day and hour) on accident occurrence and severity.\n- Show differences in casualty demographics.\n- Identify regional variations in road traffic collisions.\n- Analyze trends in traffic accidents and fatality rates.\n\n## Important Note\nThe following variables are documented for collisions resulting in fatal and serious injuries only:  \n&gt;**Collision Records**  \n1. a_jdet - Junction Detail\n2. a_jcont - Junction Control\n3. a_pedphys - Pedestrian Crossing Facilities - Physical\n4. a_pedhum - Pedestrian Crossing Facilities - Human\n5. a_light - Light Conditions\n6. a_weat - Weather Conditions\n7. a_roadsc - Road Surface Conditions\n8. a_speccs - Special Conditions at Site\n9. a_chaz - Carriageway Hazard\n10. a_scene - Did a Police Officer Attend the Scene of the Collision  \n  \n&gt;**Casualty Records**  \n1. c_loc - Pedestrian Location\n2. c_move - Pedestrian Movement\n3. c_pcv - Bus or Coach Passenger\n4. c_pedinj - Pedestrian casualty injured in the course of on the road work  \n  \n&gt;**Vehicle Records**  \n1. v_junc - Junction Location of Vehicle at Time of Impact\n2. v_skid - Skidding / Overturning\n3. v_hit - First Object Hit in Carriageway\n4. v_leave - Vehicle Leaving Carriageway\n5. v_hitoff - First Object Hit off Carriageway\n6. v_forreg - Foreign Registered Vehicle\n\n## Licence\nUK Open Government Licence (OGL)\n\n## Acknowledgements  \nThe data were publicly visible and published by the Police Service of Northern Ireland.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "people and society",
+    "transportation",
+    "geospatial analysis",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

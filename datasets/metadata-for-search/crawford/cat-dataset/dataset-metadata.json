@@ -1,0 +1,46 @@
+{
+  "id": "crawford/cat-dataset",
+  "id_no": 13371,
+  "datasetSlugNullable": "cat-dataset",
+  "ownerUserNullable": "crawford",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Cat Dataset",
+  "subtitleNullable": "Over 9,000 images of cats with annotated facial features",
+  "descriptionNullable": "### Context\n\nThe CAT dataset includes over 9,000 cat images. For each image, there are annotations of the head of cat with nine points, two for eyes, one for mouth, and six for ears.  \n\n\n### Content\n\nThe annotation data are stored in a file with the name of the corresponding image plus .\"cat\" at the end. There is one annotation file for each cat image.  For each annotation file, the annotation data are stored in the following sequence:\n\n- Number of points (default is 9)\n- Left Eye\n- Right Eye\n- Mouth\n- Left Ear-1\n- Left Ear-2\n- Left Ear-3\n- Right Ear-1\n- Right Ear-2\n-Right Ear-3\n\n\n### Acknowledgements<br>\nWeiwei Zhang, Jian Sun, and Xiaoou Tang,  Cat Head Detection - How to Effectively Exploit Shape and Texture Features, Proc. of European Conf. Computer Vision, vol. 4, pp.802-816, 2008.<br>\nDataset originally found on the Internet Archive at https://archive.org/details/CAT_DATASET<br><br>\n\n",
+  "datasetId": 13371,
+  "datasetSlug": "cat-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawford",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 297903,
+  "totalVotes": 777,
+  "totalDownloads": 31632,
+  "title": "Cat Dataset",
+  "hasTitle": true,
+  "subtitle": "Over 9,000 images of cats with annotated facial features",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe CAT dataset includes over 9,000 cat images. For each image, there are annotations of the head of cat with nine points, two for eyes, one for mouth, and six for ears.  \n\n\n### Content\n\nThe annotation data are stored in a file with the name of the corresponding image plus .\"cat\" at the end. There is one annotation file for each cat image.  For each annotation file, the annotation data are stored in the following sequence:\n\n- Number of points (default is 9)\n- Left Eye\n- Right Eye\n- Mouth\n- Left Ear-1\n- Left Ear-2\n- Left Ear-3\n- Right Ear-1\n- Right Ear-2\n-Right Ear-3\n\n\n### Acknowledgements<br>\nWeiwei Zhang, Jian Sun, and Xiaoou Tang,  Cat Head Detection - How to Effectively Exploit Shape and Texture Features, Proc. of European Conf. Computer Vision, vol. 4, pp.802-816, 2008.<br>\nDataset originally found on the Internet Archive at https://archive.org/details/CAT_DATASET<br><br>\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "aakashnain",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "seriousran/appletwittersentimenttexts",
+  "id_no": 652925,
+  "datasetSlugNullable": "appletwittersentimenttexts",
+  "ownerUserNullable": "seriousran",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "apple_twitter_sentiment_texts",
+  "subtitleNullable": "Sentiment texts about Apple on Twitter",
+  "descriptionNullable": "### Context\n\nThere's a story behind every dataset and here's your opportunity to share yours.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\ndataset is from crowdflower, but filtered a lot.\nhttps://data.world/crowdflower/apple-twitter-sentiment",
+  "datasetId": 652925,
+  "datasetSlug": "appletwittersentimenttexts",
+  "hasDatasetSlug": true,
+  "ownerUser": "seriousran",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14550,
+  "totalVotes": 32,
+  "totalDownloads": 2447,
+  "title": "apple_twitter_sentiment_texts",
+  "hasTitle": true,
+  "subtitle": "Sentiment texts about Apple on Twitter",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThere's a story behind every dataset and here's your opportunity to share yours.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\ndataset is from crowdflower, but filtered a lot.\nhttps://data.world/crowdflower/apple-twitter-sentiment",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "nlp",
+    "classification",
+    "text",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

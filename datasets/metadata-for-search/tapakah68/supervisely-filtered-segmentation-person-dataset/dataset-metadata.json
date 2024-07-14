@@ -1,0 +1,42 @@
+{
+  "id": "tapakah68/supervisely-filtered-segmentation-person-dataset",
+  "id_no": 1152595,
+  "datasetSlugNullable": "supervisely-filtered-segmentation-person-dataset",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Human Segmentation Dataset - Supervise.ly",
+  "subtitleNullable": "2667 images of a segmented person from Supervise.ly",
+  "descriptionNullable": "# Supervise.ly Filtered Segmentation Person\nDataset from [supervise.ly/explore/projects/supervisely-person-dataset-23304/datasets](https://supervise.ly/explore/projects/supervisely-person-dataset-23304/datasets).\nImages with low-quality markup were removed and final dataset includes 2667 images in each of 3 folders.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=supervisely-filtered-segmentation-person-dataset)** to buy the dataset\n\n## SIMILAR DATASETS:\n- **[Body Segmentation - 5,300 Photos](https://www.kaggle.com/datasets/trainingdatapro/human-segmentation-dataset)**\n- **[Bald People Segmentation Dataset](https://www.kaggle.com/datasets/trainingdatapro/bald-people-segmentation-dataset)**\n- **[Segmentation Full Body TikTok Dancing Dataset](https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset)**\n- **[Dataset of bald people, 5000 images](https://www.kaggle.com/datasets/tapakah68/dataset-of-bald-people)**\n- **[Selfies, ID Images dataset (5591 sets of 15 files)](https://www.kaggle.com/datasets/tapakah68/selfies-id-images-dataset)**\n\n# Content \nThe dataset consists of 3 folders:\n- collages - collages of original phoro, human figure flooded with color and segmentation mask\n- images - original images\n- masks - segmentation masks for images\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=supervisely-filtered-segmentation-person-dataset)** to discuss your requirements, learn about the price and buy the dataset.\n\n**[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=supervisely-filtered-segmentation-person-dataset)** provides high-quality data annotation tailored to your needs.\n\n*keywords: pose recognition database, pose detection dataset, pose estimation dataset, annotated body, pose annotations dataset, augmented reality, ar, 2d human movements, hpe dataset, body segmentation dataset, human part segmentation dataset, semantic segmentation, human body segmentation data, deep learning, computer vision, people images dataset, biometric data dataset, biometric dataset, images database, image-to-image, people segmentation, machine learning*",
+  "datasetId": 1152595,
+  "datasetSlug": "supervisely-filtered-segmentation-person-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17123,
+  "totalVotes": 45,
+  "totalDownloads": 2473,
+  "title": "Human Segmentation Dataset - Supervise.ly",
+  "hasTitle": true,
+  "subtitle": "2667 images of a segmented person from Supervise.ly",
+  "hasSubtitle": true,
+  "description": "# Supervise.ly Filtered Segmentation Person\nDataset from [supervise.ly/explore/projects/supervisely-person-dataset-23304/datasets](https://supervise.ly/explore/projects/supervisely-person-dataset-23304/datasets).\nImages with low-quality markup were removed and final dataset includes 2667 images in each of 3 folders.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=supervisely-filtered-segmentation-person-dataset)** to buy the dataset\n\n## SIMILAR DATASETS:\n- **[Body Segmentation - 5,300 Photos](https://www.kaggle.com/datasets/trainingdatapro/human-segmentation-dataset)**\n- **[Bald People Segmentation Dataset](https://www.kaggle.com/datasets/trainingdatapro/bald-people-segmentation-dataset)**\n- **[Segmentation Full Body TikTok Dancing Dataset](https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset)**\n- **[Dataset of bald people, 5000 images](https://www.kaggle.com/datasets/tapakah68/dataset-of-bald-people)**\n- **[Selfies, ID Images dataset (5591 sets of 15 files)](https://www.kaggle.com/datasets/tapakah68/selfies-id-images-dataset)**\n\n# Content \nThe dataset consists of 3 folders:\n- collages - collages of original phoro, human figure flooded with color and segmentation mask\n- images - original images\n- masks - segmentation masks for images\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=supervisely-filtered-segmentation-person-dataset)** to discuss your requirements, learn about the price and buy the dataset.\n\n**[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=supervisely-filtered-segmentation-person-dataset)** provides high-quality data annotation tailored to your needs.\n\n*keywords: pose recognition database, pose detection dataset, pose estimation dataset, annotated body, pose annotations dataset, augmented reality, ar, 2d human movements, hpe dataset, body segmentation dataset, human part segmentation dataset, semantic segmentation, human body segmentation data, deep learning, computer vision, people images dataset, biometric data dataset, biometric dataset, images database, image-to-image, people segmentation, machine learning*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "people",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

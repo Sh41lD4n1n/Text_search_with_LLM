@@ -1,0 +1,39 @@
+{
+  "id": "balzzspelok/celeb-a-2ammu20-a3",
+  "id_no": 5293942,
+  "datasetSlugNullable": "celeb-a-2ammu20-a3",
+  "ownerUserNullable": "balzzspelok",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "celeb-a-2ammu20-a3",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5293942,
+  "datasetSlug": "celeb-a-2ammu20-a3",
+  "hasDatasetSlug": true,
+  "ownerUser": "balzzspelok",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 1,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "celeb-a-2ammu20-a3",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

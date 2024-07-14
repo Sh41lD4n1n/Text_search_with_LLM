@@ -1,0 +1,43 @@
+{
+  "id": "sojanprajapati/emg-signal-for-gesture-recognition",
+  "id_no": 756231,
+  "datasetSlugNullable": "emg-signal-for-gesture-recognition",
+  "ownerUserNullable": "sojanprajapati",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "EMG Signal for gesture recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nIt has just been a week since I have started working on gesture recognition and classification. I know if you too are new to this field, I know it is very difficult to get the raw data, and even if you do most of the data are not formatted. That why I sharing this analytics-ready data with you. I would be really happy to see creative kernels. \n\n### Content\n\nSo there are 11 columns. This is a Readme file from the actual dataset.` https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures`\n\nFor recording patterns, we used a MYO Thalmic bracelet worn on a user\u2019s forearm, and a PC with a Bluetooth receiver. The bracelet is equipped with eight sensors equally spaced around the forearm that simultaneously acquire myographic signals. The signals are sent through a Bluetooth interface to a PC. \nWe present raw EMG data for 36 subjects while they performed series of static hand gestures.The subject performs two series, each of which consists of six (seven) basic gestures. Each gesture was performed for 3 seconds with a pause of 3 seconds between gestures.\n\n\nDescription of raw_data _*** file\nEach file consist of 10 columns:\n1) Time - time in ms;\n2-9) Channel - eight EMG channels of MYO Thalmic bracelet;\n10) Class  \u2013the label of gestures: \n0 - unmarked data,\n1 - hand at rest, \n2 - hand clenched in a fist, \n3 - wrist flexion,\n4 \u2013 wrist extension,\n5 \u2013 radial deviations,\n6 - ulnar deviations,\n7 - extended palm (the gesture was not performed by all subjects).\n\nAlong with this, I have just added \"label\" column that refers to the subject who performed the experiment. There were 36 subjects, each performed 7 gestures twice. \n\n### Acknowledgements\n\nThank you UCI Machine learning repository and researchers for the open data.\n\n",
+  "datasetId": 756231,
+  "datasetSlug": "emg-signal-for-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "sojanprajapati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 27675,
+  "totalVotes": 35,
+  "totalDownloads": 2971,
+  "title": "EMG Signal for gesture recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIt has just been a week since I have started working on gesture recognition and classification. I know if you too are new to this field, I know it is very difficult to get the raw data, and even if you do most of the data are not formatted. That why I sharing this analytics-ready data with you. I would be really happy to see creative kernels. \n\n### Content\n\nSo there are 11 columns. This is a Readme file from the actual dataset.` https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures`\n\nFor recording patterns, we used a MYO Thalmic bracelet worn on a user\u2019s forearm, and a PC with a Bluetooth receiver. The bracelet is equipped with eight sensors equally spaced around the forearm that simultaneously acquire myographic signals. The signals are sent through a Bluetooth interface to a PC. \nWe present raw EMG data for 36 subjects while they performed series of static hand gestures.The subject performs two series, each of which consists of six (seven) basic gestures. Each gesture was performed for 3 seconds with a pause of 3 seconds between gestures.\n\n\nDescription of raw_data _*** file\nEach file consist of 10 columns:\n1) Time - time in ms;\n2-9) Channel - eight EMG channels of MYO Thalmic bracelet;\n10) Class  \u2013the label of gestures: \n0 - unmarked data,\n1 - hand at rest, \n2 - hand clenched in a fist, \n3 - wrist flexion,\n4 \u2013 wrist extension,\n5 \u2013 radial deviations,\n6 - ulnar deviations,\n7 - extended palm (the gesture was not performed by all subjects).\n\nAlong with this, I have just added \"label\" column that refers to the subject who performed the experiment. There were 36 subjects, each performed 7 gestures twice. \n\n### Acknowledgements\n\nThank you UCI Machine learning repository and researchers for the open data.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "signal processing",
+    "classification",
+    "deep learning",
+    "neural networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

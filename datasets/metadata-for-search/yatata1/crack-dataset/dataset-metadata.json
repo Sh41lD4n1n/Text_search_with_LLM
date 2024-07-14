@@ -1,0 +1,45 @@
+{
+  "id": "yatata1/crack-dataset",
+  "id_no": 2998302,
+  "datasetSlugNullable": "crack-dataset",
+  "ownerUserNullable": "yatata1",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Crack Dataset",
+  "subtitleNullable": "Dataset for Crack Segmentation and Detection (Under Develpment)",
+  "descriptionNullable": "Custom dataset of cracks, which was curated from multiple sources to provide a comprehensive range of crack scenarios for machine learning models. It consists of color images with positive and negative crack scenarios, \nThe inclusion of the corresponding mask images and bounding box identifications through image segmentation and image detection opportunities further enhances the usability of this dataset. (TODO)\n\n\nThis dataset was created to address the issue of unification in the field of crack detection. Although there are already numerous datasets available for this problem, they are often fragmented across multiple sources and may, in some samples, lack consistency due to automatic mask generation methods. Furthermore, some of the datasets presented some isolated cases of incorrect image-mask pairs or low precision cases, which can significantly affect the quality and accuracy of the model. In turn, this makes it difficult to create reliable and accurate machine learning models and, to ensure that the custom dataset of cracks is of the highest quality, these issues had to be  eliminated or taken with extra care by manually optimizing them when necessary. (Still under development)\n\n\n\n\n\n\nMost images are of size (448, 448) due to the bigger percentage of images from the Kaggle Dataset \"Crack Segmentation Dataset\".\n\n\nDue to the various contributors involved, this dataset provides a solid opportunity to train machine learning models under various lighting, material, and quality conditions.\nBy creating a unified and reliable dataset, I hope to contribute to the advancement of crack detection in the field of machine learning. The custom dataset of cracks will enable researchers and practitioners to create more accurate and effective models, which will ultimately lead to improved outcomes in the detection and prevention of cracks in various materials.\n\n\n\n\n\n\n## Citations\n\n@inproceedings{liu2019deep,\n  title={Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections},\n  author={Liu, Kangcheng and Han, Xiaodong and Chen, Ben M},\n  booktitle={2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)},\n  number={https://ieeexplore.ieee.org/document/896},\n  pages={381--387},\n  year={2019},\n  organization={IEEE}\n}\n\n@article{liu2022industrial,\n  title={Industrial uav-based unsupervised domain adaptive crack recognitions: From system setups to real-site infrastructural inspections},\n  author={Liu, Kangcheng and Chen, Ben M},\n  journal={IEEE Transactions on Industrial Electronics},\n  year={2022},\n  publisher={IEEE}\n}",
+  "datasetId": 2998302,
+  "datasetSlug": "crack-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yatata1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 3857,
+  "totalVotes": 17,
+  "totalDownloads": 585,
+  "title": "Crack Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Crack Segmentation and Detection (Under Develpment)",
+  "hasSubtitle": true,
+  "description": "Custom dataset of cracks, which was curated from multiple sources to provide a comprehensive range of crack scenarios for machine learning models. It consists of color images with positive and negative crack scenarios, \nThe inclusion of the corresponding mask images and bounding box identifications through image segmentation and image detection opportunities further enhances the usability of this dataset. (TODO)\n\n\nThis dataset was created to address the issue of unification in the field of crack detection. Although there are already numerous datasets available for this problem, they are often fragmented across multiple sources and may, in some samples, lack consistency due to automatic mask generation methods. Furthermore, some of the datasets presented some isolated cases of incorrect image-mask pairs or low precision cases, which can significantly affect the quality and accuracy of the model. In turn, this makes it difficult to create reliable and accurate machine learning models and, to ensure that the custom dataset of cracks is of the highest quality, these issues had to be  eliminated or taken with extra care by manually optimizing them when necessary. (Still under development)\n\n\n\n\n\n\nMost images are of size (448, 448) due to the bigger percentage of images from the Kaggle Dataset \"Crack Segmentation Dataset\".\n\n\nDue to the various contributors involved, this dataset provides a solid opportunity to train machine learning models under various lighting, material, and quality conditions.\nBy creating a unified and reliable dataset, I hope to contribute to the advancement of crack detection in the field of machine learning. The custom dataset of cracks will enable researchers and practitioners to create more accurate and effective models, which will ultimately lead to improved outcomes in the detection and prevention of cracks in various materials.\n\n\n\n\n\n\n## Citations\n\n@inproceedings{liu2019deep,\n  title={Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections},\n  author={Liu, Kangcheng and Han, Xiaodong and Chen, Ben M},\n  booktitle={2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)},\n  number={https://ieeexplore.ieee.org/document/896},\n  pages={381--387},\n  year={2019},\n  organization={IEEE}\n}\n\n@article{liu2022industrial,\n  title={Industrial uav-based unsupervised domain adaptive crack recognitions: From system setups to real-site infrastructural inspections},\n  author={Liu, Kangcheng and Chen, Ben M},\n  journal={IEEE Transactions on Industrial Electronics},\n  year={2022},\n  publisher={IEEE}\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "earth and nature",
+    "computer science",
+    "engineering",
+    "computer vision",
+    "deep learning",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

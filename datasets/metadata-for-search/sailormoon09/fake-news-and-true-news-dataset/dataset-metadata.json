@@ -1,0 +1,39 @@
+{
+  "id": "sailormoon09/fake-news-and-true-news-dataset",
+  "id_no": 5300391,
+  "datasetSlugNullable": "fake-news-and-true-news-dataset",
+  "ownerUserNullable": "sailormoon09",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "fake-news-and-true-news-dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5300391,
+  "datasetSlug": "fake-news-and-true-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sailormoon09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 0,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "fake-news-and-true-news-dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

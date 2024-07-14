@@ -1,0 +1,44 @@
+{
+  "id": "pkdarabi/yektanet",
+  "id_no": 3768106,
+  "datasetSlugNullable": "yektanet",
+  "ownerUserNullable": "pkdarabi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Yektanet( Dataset for Text Classification)",
+  "subtitleNullable": "Text Classification!",
+  "descriptionNullable": "The Yektanet Dataset is a real Persian web data collection that has been refined and gathered by the Yektanet platform. It serves as the basis for an industrial case study on the application of machine learning in **Natural Language Processing (NLP)**. The primary objective of this exercise is to develop a machine-learning model capable of predicting the categorical topic of a document based on the available text features, such as the **title**, **description**, complete **text content**, and more.\n\nThe dataset consists of multiple instances, each containing various features that provide information about the documents. The main target variable in this dataset is the **category** column, which indicates the topic or category of the content. This column serves as the target variable for the prediction task.\n\n**Additional features in the dataset include**\n - **Description:** This column describes the document.\n - **Text_content:** This column contains the complete text content of the document.\n - **Title:** This column represents the title of the document.\n - **h1 and h2:** These columns contain the content within the HTML tags h1 and h2, respectively.\n - **URL:** This column specifies the link address associated with the document.\n - **Domain:** This column indicates the domain or website from which the document originates.\n - **Id:** This column represents the unique identifier for each link.\n\nWith the provided features and the target variable, the Yektanet dataset offers a valuable resource for training and evaluating machine learning models in the domain of **NLP**. It enables researchers and practitioners to explore and develop effective approaches for document categorization and topic prediction tasks.",
+  "datasetId": 3768106,
+  "datasetSlug": "yektanet",
+  "hasDatasetSlug": true,
+  "ownerUser": "pkdarabi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1371,
+  "totalVotes": 71,
+  "totalDownloads": 116,
+  "title": "Yektanet( Dataset for Text Classification)",
+  "hasTitle": true,
+  "subtitle": "Text Classification!",
+  "hasSubtitle": true,
+  "description": "The Yektanet Dataset is a real Persian web data collection that has been refined and gathered by the Yektanet platform. It serves as the basis for an industrial case study on the application of machine learning in **Natural Language Processing (NLP)**. The primary objective of this exercise is to develop a machine-learning model capable of predicting the categorical topic of a document based on the available text features, such as the **title**, **description**, complete **text content**, and more.\n\nThe dataset consists of multiple instances, each containing various features that provide information about the documents. The main target variable in this dataset is the **category** column, which indicates the topic or category of the content. This column serves as the target variable for the prediction task.\n\n**Additional features in the dataset include**\n - **Description:** This column describes the document.\n - **Text_content:** This column contains the complete text content of the document.\n - **Title:** This column represents the title of the document.\n - **h1 and h2:** These columns contain the content within the HTML tags h1 and h2, respectively.\n - **URL:** This column specifies the link address associated with the document.\n - **Domain:** This column indicates the domain or website from which the document originates.\n - **Id:** This column represents the unique identifier for each link.\n\nWith the provided features and the target variable, the Yektanet dataset offers a valuable resource for training and evaluating machine learning models in the domain of **NLP**. It enables researchers and practitioners to explore and develop effective approaches for document categorization and topic prediction tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "travel",
+    "text classification",
+    "text pre-processing",
+    "persian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

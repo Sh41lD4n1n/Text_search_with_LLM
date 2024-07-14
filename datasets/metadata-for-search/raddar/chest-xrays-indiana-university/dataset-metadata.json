@@ -1,0 +1,39 @@
+{
+  "id": "raddar/chest-xrays-indiana-university",
+  "id_no": 516716,
+  "datasetSlugNullable": "chest-xrays-indiana-university",
+  "ownerUserNullable": "raddar",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Chest X-rays (Indiana University)",
+  "subtitleNullable": "Open-i dataset taken from openi.nlm.nih.gov",
+  "descriptionNullable": "### Open access chest X-ray collection from Indiana University\n\nOriginal source: https://openi.nlm.nih.gov/\n\nOriginal images were downloaded in raw DICOM standard. Each image was converted to png using some post-processing:\n- top/bottom 0.5% DICOM pixel values were clipped (to eliminate very dark or very bright pixel outliers)\n- DICOM pixel values scaled linearly to fit into 0-255 range\n- resized to 2048 on shorter side (to fit in Kaggle dataset limits)\n\nMetadata downloaded using available API (https://openi.nlm.nih.gov/services#searchAPIUsingGET)\n\nEach image classified manually into frontal and lateral chest X-ray categories.",
+  "datasetId": 516716,
+  "datasetSlug": "chest-xrays-indiana-university",
+  "hasDatasetSlug": true,
+  "ownerUser": "raddar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 52461,
+  "totalVotes": 98,
+  "totalDownloads": 7164,
+  "title": "Chest X-rays (Indiana University)",
+  "hasTitle": true,
+  "subtitle": "Open-i dataset taken from openi.nlm.nih.gov",
+  "hasSubtitle": true,
+  "description": "### Open access chest X-ray collection from Indiana University\n\nOriginal source: https://openi.nlm.nih.gov/\n\nOriginal images were downloaded in raw DICOM standard. Each image was converted to png using some post-processing:\n- top/bottom 0.5% DICOM pixel values were clipped (to eliminate very dark or very bright pixel outliers)\n- DICOM pixel values scaled linearly to fit into 0-255 range\n- resized to 2048 on shorter side (to fit in Kaggle dataset limits)\n\nMetadata downloaded using available API (https://openi.nlm.nih.gov/services#searchAPIUsingGET)\n\nEach image classified manually into frontal and lateral chest X-ray categories.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "akashdeepkuila/bakery",
+  "id_no": 1570429,
+  "datasetSlugNullable": "bakery",
+  "ownerUserNullable": "akashdeepkuila",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bakery Sales Dataset",
+  "subtitleNullable": "Market Basket Analysis : Association Rule Mining",
+  "descriptionNullable": "## Context\n\nWe live in the era of e-commerce and digital marketing. We have even small scale businesses going online as the opportunities are endless. Since a huge chunk of the people who have access to internet is switching to online shopping, large retailers are actively searching for ways to increase their profit. Market Basket analysis is one such key techniques used by large retailers to to increase sales by understanding the customers' purchasing behavior & patterns. Market basket analysis examines collections of items to find relationships between items that go together within the business context.\n\n## Content\nThe dataset belongs to \"The Bread Basket\" a bakery located in Edinburgh. The dataset provide the transaction details of customers who ordered different items from this bakery online during the time period from 26-01-11 to 27-12-03. The dataset has 20507 entries, over 9000 transactions, and 4 columns.\n\n###Variables\n\n- `TransactionNo` : unique identifier for every single transaction\n- `Items ` : items purchased\n- `DateTime` : date and time stamp of the transactions\n- `Daypart` : part of the day when a transaction is made (morning, afternoon, evening, night)\n- `DayType` : classifies whether a transaction has been made in weekend or weekdays\n\n## Inspiration\nThe dataset is ideal for anyone looking to practice association rule mining and understand the business context of data mining for better understanding of the buying pattern of customers.",
+  "datasetId": 1570429,
+  "datasetSlug": "bakery",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashdeepkuila",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 70837,
+  "totalVotes": 81,
+  "totalDownloads": 11941,
+  "title": "Bakery Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Market Basket Analysis : Association Rule Mining",
+  "hasSubtitle": true,
+  "description": "## Context\n\nWe live in the era of e-commerce and digital marketing. We have even small scale businesses going online as the opportunities are endless. Since a huge chunk of the people who have access to internet is switching to online shopping, large retailers are actively searching for ways to increase their profit. Market Basket analysis is one such key techniques used by large retailers to to increase sales by understanding the customers' purchasing behavior & patterns. Market basket analysis examines collections of items to find relationships between items that go together within the business context.\n\n## Content\nThe dataset belongs to \"The Bread Basket\" a bakery located in Edinburgh. The dataset provide the transaction details of customers who ordered different items from this bakery online during the time period from 26-01-11 to 27-12-03. The dataset has 20507 entries, over 9000 transactions, and 4 columns.\n\n###Variables\n\n- `TransactionNo` : unique identifier for every single transaction\n- `Items ` : items purchased\n- `DateTime` : date and time stamp of the transactions\n- `Daypart` : part of the day when a transaction is made (morning, afternoon, evening, night)\n- `DayType` : classifies whether a transaction has been made in weekend or weekdays\n\n## Inspiration\nThe dataset is ideal for anyone looking to practice association rule mining and understand the business context of data mining for better understanding of the buying pattern of customers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "marketing",
+    "data visualization",
+    "data analytics",
+    "optimization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

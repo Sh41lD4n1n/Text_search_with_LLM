@@ -1,0 +1,42 @@
+{
+  "id": "talhasar/genki4k",
+  "id_no": 3266395,
+  "datasetSlugNullable": "genki4k",
+  "ownerUserNullable": "talhasar",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "GENKI-4K",
+  "subtitleNullable": "Comprehensive Facial Images Database for Smile Detection",
+  "descriptionNullable": "The MPLab GENKI Database is a comprehensive collection of facial images captured under varying conditions such as lighting, geographical location, individual identity, and ethnicity. The database is continuously expanding, with each new release including all images from previous releases, thereby ensuring backward compatibility. The images are organized into distinct overlapping subsets, each tagged with unique labels and descriptions. The database aims to provide a broad spectrum of data for machine learning and computer vision research, particularly in areas of facial recognition and emotion detection. The database is open for public use under the specified license.",
+  "datasetId": 3266395,
+  "datasetSlug": "genki4k",
+  "hasDatasetSlug": true,
+  "ownerUser": "talhasar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 976,
+  "totalVotes": 3,
+  "totalDownloads": 136,
+  "title": "GENKI-4K",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Facial Images Database for Smile Detection",
+  "hasSubtitle": true,
+  "description": "The MPLab GENKI Database is a comprehensive collection of facial images captured under varying conditions such as lighting, geographical location, individual identity, and ethnicity. The database is continuously expanding, with each new release including all images from previous releases, thereby ensuring backward compatibility. The images are organized into distinct overlapping subsets, each tagged with unique labels and descriptions. The database aims to provide a broad spectrum of data for machine learning and computer vision research, particularly in areas of facial recognition and emotion detection. The database is open for public use under the specified license.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

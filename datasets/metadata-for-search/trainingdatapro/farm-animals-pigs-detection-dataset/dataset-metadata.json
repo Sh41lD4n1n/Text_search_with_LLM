@@ -1,0 +1,42 @@
+{
+  "id": "trainingdatapro/farm-animals-pigs-detection-dataset",
+  "id_no": 3615860,
+  "datasetSlugNullable": "farm-animals-pigs-detection-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Farm Animals (Pigs) Detection Dataset",
+  "subtitleNullable": "Photos of pigs - Object Detection dataset",
+  "descriptionNullable": "# Pigs Object Detection dataset\n\nThe dataset is a collection of images along with corresponding bounding box annotations that are specifically curated for **detecting pigs' heads** in images. The dataset covers different *pig breeds, sizes, and orientations*, providing a comprehensive representation of pig appearances.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/pigs-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=farm-animals-pigs-detection-dataset)** to buy the dataset\n\nThe pig detection dataset provides a valuable resource for researchers working on pig detection tasks. It offers a diverse collection of annotated images, allowing for comprehensive algorithm development, evaluation, and benchmarking, ultimately aiding in the development of accurate and robust models.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Ff3ec8a659f5d1f9cf28452387781d818%2F8679587693.png?generation=1692031895472458&alt=media)\n\n# Dataset structure\n- **images** - contains of original images of pigs\n- **boxes** - includes bounding box labeling for the original images\n-  **annotations.xml** -  contains coordinates of the bounding boxes and labels, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes for pigs detection. For each point, the x and y coordinates are provided.\n\n# Pig Detection might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/pigs-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=farm-animals-pigs-detection-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n## **[TrainingData](https://trainingdata.pro/datasets/pigs-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=farm-animals-pigs-detection-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: farm animal, animal recognition, farm animal detection, image-based recognition, farmers, \u201con-farm\u201d data, pig detection, pig images dataset, object detection, deep learning, computer vision, animal contacts, images dataset, agriculture, multiple animal pose estimation, feeding behavior, farming, bounding boxes*",
+  "datasetId": 3615860,
+  "datasetSlug": "farm-animals-pigs-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2322,
+  "totalVotes": 12,
+  "totalDownloads": 242,
+  "title": "Farm Animals (Pigs) Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Photos of pigs - Object Detection dataset",
+  "hasSubtitle": true,
+  "description": "# Pigs Object Detection dataset\n\nThe dataset is a collection of images along with corresponding bounding box annotations that are specifically curated for **detecting pigs' heads** in images. The dataset covers different *pig breeds, sizes, and orientations*, providing a comprehensive representation of pig appearances.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/pigs-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=farm-animals-pigs-detection-dataset)** to buy the dataset\n\nThe pig detection dataset provides a valuable resource for researchers working on pig detection tasks. It offers a diverse collection of annotated images, allowing for comprehensive algorithm development, evaluation, and benchmarking, ultimately aiding in the development of accurate and robust models.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Ff3ec8a659f5d1f9cf28452387781d818%2F8679587693.png?generation=1692031895472458&alt=media)\n\n# Dataset structure\n- **images** - contains of original images of pigs\n- **boxes** - includes bounding box labeling for the original images\n-  **annotations.xml** -  contains coordinates of the bounding boxes and labels, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes for pigs detection. For each point, the x and y coordinates are provided.\n\n# Pig Detection might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/pigs-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=farm-animals-pigs-detection-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n## **[TrainingData](https://trainingdata.pro/datasets/pigs-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=farm-animals-pigs-detection-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: farm animal, animal recognition, farm animal detection, image-based recognition, farmers, \u201con-farm\u201d data, pig detection, pig images dataset, object detection, deep learning, computer vision, animal contacts, images dataset, agriculture, multiple animal pose estimation, feeding behavior, farming, bounding boxes*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "business",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

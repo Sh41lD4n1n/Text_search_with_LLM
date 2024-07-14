@@ -1,0 +1,45 @@
+{
+  "id": "sidtwr/videogames-sales-dataset",
+  "id_no": 189386,
+  "datasetSlugNullable": "videogames-sales-dataset",
+  "ownerUserNullable": "sidtwr",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Video Games Sales Dataset",
+  "subtitleNullable": "Video Games Sales & Game Ratings Data Scraped from VzCharts ",
+  "descriptionNullable": "# Context\n\nMotivated by Gregory Smith's web scrape of VGChartz Video Games Sales, this data set simply extends the number of variables with another web scrape from Metacritic. Unfortunately, there are missing observations as Metacritic only covers a subset of the platforms. Also, a game may not have all the observations of the additional variables discussed below. Complete cases are ~ 6,900\n\n# Content\n\nAlongside the fields: Name, Platform, Year_of_Release, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales, we have:-\n\nCritic_score - Aggregate score compiled by Metacritic staff\nCritic_count - The number of critics used in coming up with the Critic_score\nUser_score - Score by Metacritic's subscribers\nUser_count - Number of users who gave the user_score\nDeveloper - Party responsible for creating the game\nRating - The ESRB ratings\n\n# Acknowledgements\n\nThis repository, https://github.com/wtamu-cisresearch/scraper, after a few adjustments worked extremely well!\n\n# Inspiration\n\nIt would be interesting to see any machine learning techniques or continued data visualisations applied on this data set.# ",
+  "datasetId": 189386,
+  "datasetSlug": "videogames-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sidtwr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 263626,
+  "totalVotes": 414,
+  "totalDownloads": 51074,
+  "title": "Video Games Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Video Games Sales & Game Ratings Data Scraped from VzCharts ",
+  "hasSubtitle": true,
+  "description": "# Context\n\nMotivated by Gregory Smith's web scrape of VGChartz Video Games Sales, this data set simply extends the number of variables with another web scrape from Metacritic. Unfortunately, there are missing observations as Metacritic only covers a subset of the platforms. Also, a game may not have all the observations of the additional variables discussed below. Complete cases are ~ 6,900\n\n# Content\n\nAlongside the fields: Name, Platform, Year_of_Release, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales, we have:-\n\nCritic_score - Aggregate score compiled by Metacritic staff\nCritic_count - The number of critics used in coming up with the Critic_score\nUser_score - Score by Metacritic's subscribers\nUser_count - Number of users who gave the user_score\nDeveloper - Party responsible for creating the game\nRating - The ESRB ratings\n\n# Acknowledgements\n\nThis repository, https://github.com/wtamu-cisresearch/scraper, after a few adjustments worked extremely well!\n\n# Inspiration\n\nIt would be interesting to see any machine learning techniques or continued data visualisations applied on this data set.# ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "games",
+    "video games",
+    "computer science",
+    "programming",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

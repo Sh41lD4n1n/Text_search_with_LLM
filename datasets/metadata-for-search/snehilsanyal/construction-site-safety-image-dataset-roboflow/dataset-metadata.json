@@ -1,0 +1,43 @@
+{
+  "id": "snehilsanyal/construction-site-safety-image-dataset-roboflow",
+  "id_no": 2919095,
+  "datasetSlugNullable": "construction-site-safety-image-dataset-roboflow",
+  "ownerUserNullable": "snehilsanyal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Construction Site Safety Image Dataset Roboflow",
+  "subtitleNullable": "A beginner friendly dataset on worker safety in YoloV8 format by Roboflow",
+  "descriptionNullable": "&gt;**4,764 workers died on the job in 2020 (3.4 per 100,000 full-time equivalent workers). Workers in transportation and material moving occupations and construction and extraction occupations accounted for nearly half of all fatal occupational injuries (47.4 percent), representing 1,282 and 976 workplace deaths, respectively.**\n *Occupational Safety and Health Administration (US Department of Labour)*\n\n# Introduction\nThere have been many accidents in construction sites due to lack of safety measures. A major reason for this has been workers not wearing Personal Protective Equipments (PPE) for their safety. Detecting PPEs become very crucial for the continuous monitoring of worker safety.\n\n# Dataset collection\nThis dataset is provided as a collection in Roboflow, please check this link: [Construction Site Safety Image Dataset](https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety) under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2163725%2F0e46d95b350ee8bc9c683595ccf5ecb6%2Fconstruction-safety.jpg?generation=1677172246224555&alt=media)\nThis dataset is a great collection of images, since the labels are in the following format: 'Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle'. It is very important in tracking and monitoring applications whether a person is wearing Hardhat or NO-Hardhat. Most of the datasets are not annotated in this particular way, making this dataset very useful.\n\n\n# Quick Summary\n- **Number of classes:** 10\n- **Label Annotation:** YOLO format (.txt)\n- **Metadata:** metadata.csv and count.csv provides information about the dataset and train-val-test count information.\n- **PPE Class Map:** `{0: 'Hardhat', 1: 'Mask', 2: 'NO-Hardhat', 3: 'NO-Mask', 4: 'NO-Safety Vest', 5: 'Person', 6: 'Safety Cone', 7: 'Safety Vest', 8: 'machinery', 9: 'vehicle'}`\n- **Difficulty:** This is a beginner-friendly dataset on multi-class classification, object detection, and tracking. Annotations are in YoloV8 format. The splits are given in the dataset folder itself with metadata, so anyone can use this data to run models and produce results. \n\n# Citation\nPlease cite the project from Roboflow, if you use this dataset in a research paper.\n```python\n@misc{ construction-site-safety_dataset,\n    title = { Construction Site Safety Dataset },\n    type = { Open Source Dataset },\n    author = { Roboflow Universe Projects },\n    howpublished = { \\url{ https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety } },\n    url = { https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety },\n    journal = { Roboflow Universe },\n    publisher = { Roboflow },\n    year = { 2023 },\n    month = { feb },\n    note = { visited on 2023-02-23 },\n}\n```",
+  "datasetId": 2919095,
+  "datasetSlug": "construction-site-safety-image-dataset-roboflow",
+  "hasDatasetSlug": true,
+  "ownerUser": "snehilsanyal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 37856,
+  "totalVotes": 75,
+  "totalDownloads": 7600,
+  "title": "Construction Site Safety Image Dataset Roboflow",
+  "hasTitle": true,
+  "subtitle": "A beginner friendly dataset on worker safety in YoloV8 format by Roboflow",
+  "hasSubtitle": true,
+  "description": "&gt;**4,764 workers died on the job in 2020 (3.4 per 100,000 full-time equivalent workers). Workers in transportation and material moving occupations and construction and extraction occupations accounted for nearly half of all fatal occupational injuries (47.4 percent), representing 1,282 and 976 workplace deaths, respectively.**\n *Occupational Safety and Health Administration (US Department of Labour)*\n\n# Introduction\nThere have been many accidents in construction sites due to lack of safety measures. A major reason for this has been workers not wearing Personal Protective Equipments (PPE) for their safety. Detecting PPEs become very crucial for the continuous monitoring of worker safety.\n\n# Dataset collection\nThis dataset is provided as a collection in Roboflow, please check this link: [Construction Site Safety Image Dataset](https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety) under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2163725%2F0e46d95b350ee8bc9c683595ccf5ecb6%2Fconstruction-safety.jpg?generation=1677172246224555&alt=media)\nThis dataset is a great collection of images, since the labels are in the following format: 'Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle'. It is very important in tracking and monitoring applications whether a person is wearing Hardhat or NO-Hardhat. Most of the datasets are not annotated in this particular way, making this dataset very useful.\n\n\n# Quick Summary\n- **Number of classes:** 10\n- **Label Annotation:** YOLO format (.txt)\n- **Metadata:** metadata.csv and count.csv provides information about the dataset and train-val-test count information.\n- **PPE Class Map:** `{0: 'Hardhat', 1: 'Mask', 2: 'NO-Hardhat', 3: 'NO-Mask', 4: 'NO-Safety Vest', 5: 'Person', 6: 'Safety Cone', 7: 'Safety Vest', 8: 'machinery', 9: 'vehicle'}`\n- **Difficulty:** This is a beginner-friendly dataset on multi-class classification, object detection, and tracking. Annotations are in YoloV8 format. The splits are given in the dataset folder itself with metadata, so anyone can use this data to run models and produce results. \n\n# Citation\nPlease cite the project from Roboflow, if you use this dataset in a research paper.\n```python\n@misc{ construction-site-safety_dataset,\n    title = { Construction Site Safety Dataset },\n    type = { Open Source Dataset },\n    author = { Roboflow Universe Projects },\n    howpublished = { \\url{ https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety } },\n    url = { https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety },\n    journal = { Roboflow Universe },\n    publisher = { Roboflow },\n    year = { 2023 },\n    month = { feb },\n    note = { visited on 2023-02-23 },\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "public safety",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

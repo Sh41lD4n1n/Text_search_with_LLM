@@ -1,0 +1,41 @@
+{
+  "id": "paultimothymooney/zillow-house-price-data",
+  "id_no": 464405,
+  "datasetSlugNullable": "zillow-house-price-data",
+  "ownerUserNullable": "paultimothymooney",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Zillow House Price Data",
+  "subtitleNullable": "housing prices and rental prices, by number of rooms",
+  "descriptionNullable": "### Context\n\nZillow has a lot of data about housing prices in America.\n\n### Content\n\nData about housing prices and rental prices broken down according to city and state and number of bedrooms. More detail can be found at https://www.zillow.com/research/data/ and at https://www.zillow.com/research/home-sales-methodology-7733/.\n\n### Acknowledgements\n\nThe data was downloaded from https://www.zillow.com/research/data/.  Banner photo from [Ian Keefe on Unsplash](https://unsplash.com/photos/OgcJIKRnRC8).  Dataset license described at https://www.zillow.com/research/data/.",
+  "datasetId": 464405,
+  "datasetSlug": "zillow-house-price-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "paultimothymooney",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 95946,
+  "totalVotes": 114,
+  "totalDownloads": 9513,
+  "title": "Zillow House Price Data",
+  "hasTitle": true,
+  "subtitle": "housing prices and rental prices, by number of rooms",
+  "hasSubtitle": true,
+  "description": "### Context\n\nZillow has a lot of data about housing prices in America.\n\n### Content\n\nData about housing prices and rental prices broken down according to city and state and number of bedrooms. More detail can be found at https://www.zillow.com/research/data/ and at https://www.zillow.com/research/home-sales-methodology-7733/.\n\n### Acknowledgements\n\nThe data was downloaded from https://www.zillow.com/research/data/.  Banner photo from [Ian Keefe on Unsplash](https://unsplash.com/photos/OgcJIKRnRC8).  Dataset license described at https://www.zillow.com/research/data/.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

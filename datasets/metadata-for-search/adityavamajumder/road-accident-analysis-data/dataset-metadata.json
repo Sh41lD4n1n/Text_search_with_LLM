@@ -1,0 +1,37 @@
+{
+  "id": "adityavamajumder/road-accident-analysis-data",
+  "id_no": 3441179,
+  "datasetSlugNullable": "road-accident-analysis-data",
+  "ownerUserNullable": "adityavamajumder",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Road accident analysis data",
+  "subtitleNullable": "Interactive dashboard to be created from the given data using Ms-Excel",
+  "descriptionNullable": "Data about road accidents at various locations with type of vehicles, intensity of accident, road surface type etc. The following analysis can be done to create interactive dashboard from the dataset :\n\n1) Primary KPI - Total Casualties taken place after the accident\n\n2) Primary KPI - Total Casualties & % of total with respect to accident severity and max casualties by type of vehicle\n\n3) Secondary KPI - Total Casualties wrt vehicle type\n\nMonthly trend showing comparison of Casualties for current Year and previous year\n\nMax casualties by road type\n\nDistribution of total casualties by Road Surface\n\nRelation between Casualties by Area/Location & by Day/Night",
+  "datasetId": 3441179,
+  "datasetSlug": "road-accident-analysis-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityavamajumder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 537,
+  "totalVotes": 3,
+  "totalDownloads": 141,
+  "title": "Road accident analysis data",
+  "hasTitle": true,
+  "subtitle": "Interactive dashboard to be created from the given data using Ms-Excel",
+  "hasSubtitle": true,
+  "description": "Data about road accidents at various locations with type of vehicles, intensity of accident, road surface type etc. The following analysis can be done to create interactive dashboard from the dataset :\n\n1) Primary KPI - Total Casualties taken place after the accident\n\n2) Primary KPI - Total Casualties & % of total with respect to accident severity and max casualties by type of vehicle\n\n3) Secondary KPI - Total Casualties wrt vehicle type\n\nMonthly trend showing comparison of Casualties for current Year and previous year\n\nMax casualties by road type\n\nDistribution of total casualties by Road Surface\n\nRelation between Casualties by Area/Location & by Day/Night",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

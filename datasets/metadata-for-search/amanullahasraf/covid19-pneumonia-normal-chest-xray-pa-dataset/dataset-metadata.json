@@ -1,0 +1,43 @@
+{
+  "id": "amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset",
+  "id_no": 772726,
+  "datasetSlugNullable": "covid19-pneumonia-normal-chest-xray-pa-dataset",
+  "ownerUserNullable": "amanullahasraf",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset",
+  "subtitleNullable": "COVID19 with Pneumonia and Normal Chest Xray(PA) Dataset",
+  "descriptionNullable": "### Context\n\nX-ray samples of COVID-19 were retrieved from different sources for the unavailability of a large specific dataset. Firstly, a total 1401 samples of COVID-19 were collected using GitHub repository [1] , [2] , the Radiopaedia [3] , Italian Society of Radiology (SIRM) [4] , Figshare data repository websites [5] , [6] . Then, 912 augmented images were also collected from Mendeley instead of using data augmentation techniques explicitly [7] . Finally, 2313 samples of normal and pneumonia cases were obtained from Kaggle [8] , [9] .\n\nReferences:\n[1][https://arxiv.org/abs/2003.11597](https://arxiv.org/abs/2003.11597)\n[2][https://github.com/agchung](https://github.com/agchung)\n[3][https://radiopaedia.org/?lang=gb](https://radiopaedia.org/?lang=gb)\n[4][https://www.sirm.org/en/category/articles/covid-19-database/](https://www.sirm.org/en/category/articles/covid-19-database/)\n[5][https://figshare.com/articles/dataset/COVID-19_Chest_X-Ray_Image_Repository/12580328/2](https://figshare.com/articles/dataset/COVID-19_Chest_X-Ray_Image_Repository/12580328/2)\n[6][https://figshare.com/articles/COVID-19_Image_Repository/12275009/1](https://figshare.com/articles/COVID-19_Image_Repository/12275009/1)\n[7][https://data.mendeley.com/datasets/2fxz4px6d8/4](https://data.mendeley.com/datasets/2fxz4px6d8/4)\n[8][https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)\n[9][https://www.kaggle.com/nih-chest-xrays/data](https://www.kaggle.com/nih-chest-xrays/data)\n\n\n### Content\n\nThe dataset is organized into 3 folders (covid, pneumonia , normal) which contain chest X-ray posteroanterior (PA) images. \n A total of 6939 samples were used in the experiment, where 2313 samples were used for each case.\n",
+  "datasetId": 772726,
+  "datasetSlug": "covid19-pneumonia-normal-chest-xray-pa-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amanullahasraf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 17616,
+  "totalVotes": 27,
+  "totalDownloads": 2773,
+  "title": "COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset",
+  "hasTitle": true,
+  "subtitle": "COVID19 with Pneumonia and Normal Chest Xray(PA) Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nX-ray samples of COVID-19 were retrieved from different sources for the unavailability of a large specific dataset. Firstly, a total 1401 samples of COVID-19 were collected using GitHub repository [1] , [2] , the Radiopaedia [3] , Italian Society of Radiology (SIRM) [4] , Figshare data repository websites [5] , [6] . Then, 912 augmented images were also collected from Mendeley instead of using data augmentation techniques explicitly [7] . Finally, 2313 samples of normal and pneumonia cases were obtained from Kaggle [8] , [9] .\n\nReferences:\n[1][https://arxiv.org/abs/2003.11597](https://arxiv.org/abs/2003.11597)\n[2][https://github.com/agchung](https://github.com/agchung)\n[3][https://radiopaedia.org/?lang=gb](https://radiopaedia.org/?lang=gb)\n[4][https://www.sirm.org/en/category/articles/covid-19-database/](https://www.sirm.org/en/category/articles/covid-19-database/)\n[5][https://figshare.com/articles/dataset/COVID-19_Chest_X-Ray_Image_Repository/12580328/2](https://figshare.com/articles/dataset/COVID-19_Chest_X-Ray_Image_Repository/12580328/2)\n[6][https://figshare.com/articles/COVID-19_Image_Repository/12275009/1](https://figshare.com/articles/COVID-19_Image_Repository/12275009/1)\n[7][https://data.mendeley.com/datasets/2fxz4px6d8/4](https://data.mendeley.com/datasets/2fxz4px6d8/4)\n[8][https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)\n[9][https://www.kaggle.com/nih-chest-xrays/data](https://www.kaggle.com/nih-chest-xrays/data)\n\n\n### Content\n\nThe dataset is organized into 3 folders (covid, pneumonia , normal) which contain chest X-ray posteroanterior (PA) images. \n A total of 6939 samples were used in the experiment, where 2313 samples were used for each case.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "categorical",
+    "image",
+    "heart conditions",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

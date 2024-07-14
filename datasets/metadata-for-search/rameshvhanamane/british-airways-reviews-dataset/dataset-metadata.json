@@ -1,0 +1,43 @@
+{
+  "id": "rameshvhanamane/british-airways-reviews-dataset",
+  "id_no": 5245724,
+  "datasetSlugNullable": "british-airways-reviews-dataset",
+  "ownerUserNullable": "rameshvhanamane",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "British Airways Reviews Dataset",
+  "subtitleNullable": "Exploring British Airways Customer Reviews",
+  "descriptionNullable": "This dataset captures customer reviews of **British Airways** obtained from the website[ https://www.airlinequality.com/airline-reviews/scoot](url). It consists of raw, uncleaned data directly scraped from the source, providing a rich resource for honing skills in **data cleaning, data visualization, analysis, and potentially predicting customer sentiment**.\n\nThe dataset includes various attributes such as review text, ratings, date of travel, and possibly more contextual information relevant to customer experiences with British Airways. Given its raw state, the dataset presents an opportunity to practice preprocessing techniques to ensure data quality and prepare it for deeper analytical insights.",
+  "datasetId": 5245724,
+  "datasetSlug": "british-airways-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rameshvhanamane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 44,
+  "totalVotes": 0,
+  "totalDownloads": 7,
+  "title": "British Airways Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring British Airways Customer Reviews",
+  "hasSubtitle": true,
+  "description": "This dataset captures customer reviews of **British Airways** obtained from the website[ https://www.airlinequality.com/airline-reviews/scoot](url). It consists of raw, uncleaned data directly scraped from the source, providing a rich resource for honing skills in **data cleaning, data visualization, analysis, and potentially predicting customer sentiment**.\n\nThe dataset includes various attributes such as review text, ratings, date of travel, and possibly more contextual information relevant to customer experiences with British Airways. Given its raw state, the dataset presents an opportunity to practice preprocessing techniques to ensure data quality and prepare it for deeper analytical insights.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/amazon-kindle-books-dataset-2023-130k-books",
+  "id_no": 3808504,
+  "datasetSlugNullable": "amazon-kindle-books-dataset-2023-130k-books",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Kindle Books Dataset 2023 (130K Books)",
+  "subtitleNullable": "Scraped dataset from October 2023. Contains book details and sales information",
+  "descriptionNullable": "This dataset contains data for 130,000 kindle e-books. Publicly available data were scraped on October 2023. \n\n## Interesting Task Ideas:\n\n1. Identify the most popular authors based on their number of published books and ratings.\n2. Explore Kindle Unlimited's impact on book sales and popularity.\n3. Determine the influence of \"Best Seller\" and \"Editors' Pick\" tags on book sales.\n4. Analyze book publication trends over time and identify any seasonality patterns.\n5. Dive into specific book genres to understand their sales performance and popularity.\n6. Train an AI recommendation model for personalized book recommendations.\n\n---\n\nIf you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\n---\n\n### Checkout my other datasets\n\n[900K TMDb Movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)\n\n[Employment-to-Population Ratio for USA ](https://www.kaggle.com/datasets/asaniczka/employment-to-population-ratio-for-usa-1979-2023)\n\n[Non-High School Wage Penalty](https://www.kaggle.com/datasets/asaniczka/non-high-school-wage-penalty-in-the-usa)\n\n[Pension Coverage in the USA](https://www.kaggle.com/datasets/asaniczka/pension-coverage-in-the-usa-1973-2022)\n\n[Black-White Wage Gap in the USA Dataset](https://www.kaggle.com/datasets/asaniczka/black-white-wage-gap-in-the-usa-dataset)\n",
+  "datasetId": 3808504,
+  "datasetSlug": "amazon-kindle-books-dataset-2023-130k-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12470,
+  "totalVotes": 168,
+  "totalDownloads": 2384,
+  "title": "Amazon Kindle Books Dataset 2023 (130K Books)",
+  "hasTitle": true,
+  "subtitle": "Scraped dataset from October 2023. Contains book details and sales information",
+  "hasSubtitle": true,
+  "description": "This dataset contains data for 130,000 kindle e-books. Publicly available data were scraped on October 2023. \n\n## Interesting Task Ideas:\n\n1. Identify the most popular authors based on their number of published books and ratings.\n2. Explore Kindle Unlimited's impact on book sales and popularity.\n3. Determine the influence of \"Best Seller\" and \"Editors' Pick\" tags on book sales.\n4. Analyze book publication trends over time and identify any seasonality patterns.\n5. Dive into specific book genres to understand their sales performance and popularity.\n6. Train an AI recommendation model for personalized book recommendations.\n\n---\n\nIf you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\n---\n\n### Checkout my other datasets\n\n[900K TMDb Movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)\n\n[Employment-to-Population Ratio for USA ](https://www.kaggle.com/datasets/asaniczka/employment-to-population-ratio-for-usa-1979-2023)\n\n[Non-High School Wage Penalty](https://www.kaggle.com/datasets/asaniczka/non-high-school-wage-penalty-in-the-usa)\n\n[Pension Coverage in the USA](https://www.kaggle.com/datasets/asaniczka/pension-coverage-in-the-usa-1973-2022)\n\n[Black-White Wage Gap in the USA Dataset](https://www.kaggle.com/datasets/asaniczka/black-white-wage-gap-in-the-usa-dataset)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "data visualization",
+    "statistical analysis",
+    "data analytics",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

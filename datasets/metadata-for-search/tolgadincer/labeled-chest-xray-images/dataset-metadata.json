@@ -1,0 +1,44 @@
+{
+  "id": "tolgadincer/labeled-chest-xray-images",
+  "id_no": 835414,
+  "datasetSlugNullable": "labeled-chest-xray-images",
+  "ownerUserNullable": "tolgadincer",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Chest X-ray Images",
+  "subtitleNullable": "for pneumonia detection with deep learning",
+  "descriptionNullable": "### Context\nPneumonia is an infection that inflames the air sacs in one or both lungs. It kills more children younger than 5 years old each year than any other infectious disease, such as HIV infection, malaria, or tuberculosis. Diagnosis is often based on symptoms and physical examination. Chest X-rays may help confirm the diagnosis.\n\n### Content\nThis dataset contains 5,856 validated Chest X-Ray images. The images are split into a training set and a testing set of independent patients. Images are labeled as (*disease*:NORMAL/BACTERIA/VIRUS)-(*randomized patient I*D)-(*image number of a patient*). For details of the data collection and description, see the referenced paper below.\n\nAccording to the paper, the images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children\u2019s Medical Center, Guangzhou.\n\nA previous version (v2) of this dataset is available here: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. Note that the files names are irregular in v2, but they are fixed in the new version (v3).\n\n### Inspiration\nThis data will be useful for developing/training/testing classification models with convolutional neural networks.\n\n### Acknowledgements\nThis dataset is taken from https://data.mendeley.com/datasets/rscbjbr9sj/3.\n\nLicence: CC BY 4.0\n\nReference: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F337744%2Fdcbe43e6fc837ab6b2f214a8c30a5ae9%2FScreen%20Shot%202020-08-18%20at%206.44.01%20PM.png?generation=1597792574722258&alt=media)",
+  "datasetId": 835414,
+  "datasetSlug": "labeled-chest-xray-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "tolgadincer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 69770,
+  "totalVotes": 151,
+  "totalDownloads": 10907,
+  "title": "Chest X-ray Images",
+  "hasTitle": true,
+  "subtitle": "for pneumonia detection with deep learning",
+  "hasSubtitle": true,
+  "description": "### Context\nPneumonia is an infection that inflames the air sacs in one or both lungs. It kills more children younger than 5 years old each year than any other infectious disease, such as HIV infection, malaria, or tuberculosis. Diagnosis is often based on symptoms and physical examination. Chest X-rays may help confirm the diagnosis.\n\n### Content\nThis dataset contains 5,856 validated Chest X-Ray images. The images are split into a training set and a testing set of independent patients. Images are labeled as (*disease*:NORMAL/BACTERIA/VIRUS)-(*randomized patient I*D)-(*image number of a patient*). For details of the data collection and description, see the referenced paper below.\n\nAccording to the paper, the images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children\u2019s Medical Center, Guangzhou.\n\nA previous version (v2) of this dataset is available here: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. Note that the files names are irregular in v2, but they are fixed in the new version (v3).\n\n### Inspiration\nThis data will be useful for developing/training/testing classification models with convolutional neural networks.\n\n### Acknowledgements\nThis dataset is taken from https://data.mendeley.com/datasets/rscbjbr9sj/3.\n\nLicence: CC BY 4.0\n\nReference: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F337744%2Fdcbe43e6fc837ab6b2f214a8c30a5ae9%2FScreen%20Shot%202020-08-18%20at%206.44.01%20PM.png?generation=1597792574722258&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "health",
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

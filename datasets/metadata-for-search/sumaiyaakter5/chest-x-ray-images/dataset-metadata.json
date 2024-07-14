@@ -1,0 +1,39 @@
+{
+  "id": "sumaiyaakter5/chest-x-ray-images",
+  "id_no": 4853269,
+  "datasetSlugNullable": "chest-x-ray-images",
+  "ownerUserNullable": "sumaiyaakter5",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Chest X-Ray Images",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4853269,
+  "datasetSlug": "chest-x-ray-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumaiyaakter5",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 30,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Chest X-Ray Images",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

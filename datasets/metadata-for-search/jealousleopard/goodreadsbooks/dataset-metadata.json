@@ -1,0 +1,43 @@
+{
+  "id": "jealousleopard/goodreadsbooks",
+  "id_no": 231310,
+  "datasetSlugNullable": "goodreadsbooks",
+  "ownerUserNullable": "jealousleopard",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Goodreads-books",
+  "subtitleNullable": "comprehensive list of books listed in goodreads",
+  "descriptionNullable": "### Context\nThe primary reason for creating this dataset is the requirement of a good clean dataset of books. Being a bookie myself (see what I did there?) I had searched for datasets on books in kaggle itself - and I found out that while most of the datasets had a good amount of books listed, there were either a) major columns missing or b) grossly unclean data. I mean, you can't determine how good a book is just from a few text reviews, come on! What I needed were numbers, solid integers and floats that say how many people liked the book or hated it, how much did they like it, and stuff like that. Even the [good dataset](https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv) that I found was well-cleaned, it had a number of interlinked files, which increased the hassle. This prompted me to use the Goodreads API to get a well-cleaned dataset, with the promising features only ( minus the redundant ones ), and the result is the dataset you're at now.\n\n### Acknowledgements\n\nThis data was entirely scraped via the [Goodreads API](https://goodreads.com/api), so kudos to them for providing such a simple interface to scrape their database.\n\n### Inspiration\n\nThe reason behind creating this dataset is pretty straightforward, I'm listing the books for all book-lovers out there, irrespective of the language and publication and all of that. So go ahead and use it to your liking, find out what book you should be reading next ( there are very few free content recommendation systems that suggest books last I checked ), what are the details of every book you have read, create a word cloud from the books you want to read - all possible approaches to exploring this dataset are welcome. \nI started creating this dataset on May 25, 2019, and intend to update it frequently.\nP.S. If you like this, please don't forget to give an upvote!\n\n### V2 notes :\nYou have the information about the publisher and the publication date now! Also, multiple authors are now delimited by '/'. Enjoy!\n\n### Author's note:\nPlease read the [Goodreads API](https://www.goodreads.com/api/terms) terms and conditions before you decide to use this dataset anywhere.   \nAll I can say is, this dataset was created in good faith to help bibliophiles like me. I will not be maintaining this dataset anymore because as of December 8th, 2020, Goodreads no longer issues new developer keys for their public developer API and plans to retire the current version of these tools. ",
+  "datasetId": 231310,
+  "datasetSlug": "goodreadsbooks",
+  "hasDatasetSlug": true,
+  "ownerUser": "jealousleopard",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 445313,
+  "totalVotes": 1820,
+  "totalDownloads": 67937,
+  "title": "Goodreads-books",
+  "hasTitle": true,
+  "subtitle": "comprehensive list of books listed in goodreads",
+  "hasSubtitle": true,
+  "description": "### Context\nThe primary reason for creating this dataset is the requirement of a good clean dataset of books. Being a bookie myself (see what I did there?) I had searched for datasets on books in kaggle itself - and I found out that while most of the datasets had a good amount of books listed, there were either a) major columns missing or b) grossly unclean data. I mean, you can't determine how good a book is just from a few text reviews, come on! What I needed were numbers, solid integers and floats that say how many people liked the book or hated it, how much did they like it, and stuff like that. Even the [good dataset](https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv) that I found was well-cleaned, it had a number of interlinked files, which increased the hassle. This prompted me to use the Goodreads API to get a well-cleaned dataset, with the promising features only ( minus the redundant ones ), and the result is the dataset you're at now.\n\n### Acknowledgements\n\nThis data was entirely scraped via the [Goodreads API](https://goodreads.com/api), so kudos to them for providing such a simple interface to scrape their database.\n\n### Inspiration\n\nThe reason behind creating this dataset is pretty straightforward, I'm listing the books for all book-lovers out there, irrespective of the language and publication and all of that. So go ahead and use it to your liking, find out what book you should be reading next ( there are very few free content recommendation systems that suggest books last I checked ), what are the details of every book you have read, create a word cloud from the books you want to read - all possible approaches to exploring this dataset are welcome. \nI started creating this dataset on May 25, 2019, and intend to update it frequently.\nP.S. If you like this, please don't forget to give an upvote!\n\n### V2 notes :\nYou have the information about the publisher and the publication date now! Also, multiple authors are now delimited by '/'. Enjoy!\n\n### Author's note:\nPlease read the [Goodreads API](https://www.goodreads.com/api/terms) terms and conditions before you decide to use this dataset anywhere.   \nAll I can say is, this dataset was created in good faith to help bibliophiles like me. I will not be maintaining this dataset anymore because as of December 8th, 2020, Goodreads no longer issues new developer keys for their public developer API and plans to retire the current version of these tools. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "demographics",
+    "linguistics",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

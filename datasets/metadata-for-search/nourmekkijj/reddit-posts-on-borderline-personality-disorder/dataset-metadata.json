@@ -1,0 +1,42 @@
+{
+  "id": "nourmekkijj/reddit-posts-on-borderline-personality-disorder",
+  "id_no": 5296273,
+  "datasetSlugNullable": "reddit-posts-on-borderline-personality-disorder",
+  "ownerUserNullable": "nourmekkijj",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Reddit Posts on Borderline Personality Disorder",
+  "subtitleNullable": "CLEANED almost 6000 posts about borderline personality",
+  "descriptionNullable": "This dataset contains 5,879 Reddit posts discussing Borderline Personality Disorder (BPD) , posts are about people telling own experiencies with this disorder either they suffer from or have met people or raised by bpd parents \n\nThis dataset provides a valuable resource for analyzing the discourse around BPD on social media, studying patterns in user interactions, and understanding the experiences and challenges faced by individuals with BPD.\n\n**Columns:**\n**Title**: The title of the Reddit post.\n**Score**: The score of the post, reflecting its popularity and engagement.\n**ID**: The unique identifier of the post.\n**Comments**: The number of comments the post received.\n**Creation Time**: The timestamp when the post was created\n**Content**: The main text of the post, detailing the user's thoughts, experiences, and discussions about BPD\n\nThis dataset can be used for various purposes, including sentiment analysis, natural language processing, mental health research",
+  "datasetId": 5296273,
+  "datasetSlug": "reddit-posts-on-borderline-personality-disorder",
+  "hasDatasetSlug": true,
+  "ownerUser": "nourmekkijj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 49,
+  "totalVotes": 3,
+  "totalDownloads": 4,
+  "title": "Reddit Posts on Borderline Personality Disorder",
+  "hasTitle": true,
+  "subtitle": "CLEANED almost 6000 posts about borderline personality",
+  "hasSubtitle": true,
+  "description": "This dataset contains 5,879 Reddit posts discussing Borderline Personality Disorder (BPD) , posts are about people telling own experiencies with this disorder either they suffer from or have met people or raised by bpd parents \n\nThis dataset provides a valuable resource for analyzing the discourse around BPD on social media, studying patterns in user interactions, and understanding the experiences and challenges faced by individuals with BPD.\n\n**Columns:**\n**Title**: The title of the Reddit post.\n**Score**: The score of the post, reflecting its popularity and engagement.\n**ID**: The unique identifier of the post.\n**Comments**: The number of comments the post received.\n**Creation Time**: The timestamp when the post was created\n**Content**: The main text of the post, detailing the user's thoughts, experiences, and discussions about BPD\n\nThis dataset can be used for various purposes, including sentiment analysis, natural language processing, mental health research",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "philosophy",
+    "text",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

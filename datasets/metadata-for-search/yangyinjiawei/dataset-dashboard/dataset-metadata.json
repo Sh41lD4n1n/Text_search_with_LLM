@@ -1,0 +1,37 @@
+{
+  "id": "yangyinjiawei/dataset-dashboard",
+  "id_no": 5292679,
+  "datasetSlugNullable": "dataset-dashboard",
+  "ownerUserNullable": "yangyinjiawei",
+  "usabilityRatingNullable": 0.17647058823529413,
+  "titleNullable": "Dataset Dashboard",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5292679,
+  "datasetSlug": "dataset-dashboard",
+  "hasDatasetSlug": true,
+  "ownerUser": "yangyinjiawei",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.17647058823529413,
+  "hasUsabilityRating": true,
+  "totalViews": 6,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Dataset Dashboard",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "akashkotal/imbd-top-1000-with-description",
+  "id_no": 2346901,
+  "datasetSlugNullable": "imbd-top-1000-with-description",
+  "ownerUserNullable": "akashkotal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMBD TOP 1000 WITH DESCRIPTION",
+  "subtitleNullable": "Top 1000 movie according imbd",
+  "descriptionNullable": "**Context**\nIMDb (also known as the Internet Movie Database) is an online database of information related to movies, it combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects.\n\nMost data in the database is provided by volunteer contributors.\n\n**Content**\nThis dataset includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.\n\n**Acknowledgements**\nThe data in this dataset has been scraped using selenium from the publicly available website https://www.imdb.com.",
+  "datasetId": 2346901,
+  "datasetSlug": "imbd-top-1000-with-description",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashkotal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8496,
+  "totalVotes": 35,
+  "totalDownloads": 1429,
+  "title": "IMBD TOP 1000 WITH DESCRIPTION",
+  "hasTitle": true,
+  "subtitle": "Top 1000 movie according imbd",
+  "hasSubtitle": true,
+  "description": "**Context**\nIMDb (also known as the Internet Movie Database) is an online database of information related to movies, it combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects.\n\nMost data in the database is provided by volunteer contributors.\n\n**Content**\nThis dataset includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.\n\n**Acknowledgements**\nThe data in this dataset has been scraped using selenium from the publicly available website https://www.imdb.com.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

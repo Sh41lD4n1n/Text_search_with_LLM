@@ -1,0 +1,42 @@
+{
+  "id": "konradb/conversational-nlp-timedial-and-disflqa",
+  "id_no": 1555490,
+  "datasetSlugNullable": "conversational-nlp-timedial-and-disflqa",
+  "ownerUserNullable": "konradb",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Conversational NLP: TimeDial and Disfl-QA",
+  "subtitleNullable": "Datasets from Google for building conversational agents",
+  "descriptionNullable": "Good quality datasets for modeling conversational agents are notoriously hard to come by - which is why it was a welcome contribution by Google AI to make two such datasets available https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html. This dataset contains the combined content of two repositories referenced in the announcement above: \n\nhttps://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html\n\nhttps://github.com/google-research-datasets/Disfl-QA\n\nFrom the article: \n\n\"To stir interest in this direction within the research community, we are excited to introduce TimeDial, for temporal commonsense reasoning in dialog, and Disfl-QA, which focuses on contextual disfluencies. TimeDial presents a new multiple choice span filling task targeted for temporal understanding, with an annotated test set of over ~1.1k dialogs. Disfl-QA is the first dataset containing contextual disfluencies in an information seeking setting, namely question answering over Wikipedia passages, with ~12k human annotated disfluent questions. These benchmark datasets are the first of their kind and show a significant gap between human performance and current state of the art NLP models.\"\n\n\n\n",
+  "datasetId": 1555490,
+  "datasetSlug": "conversational-nlp-timedial-and-disflqa",
+  "hasDatasetSlug": true,
+  "ownerUser": "konradb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 3279,
+  "totalVotes": 16,
+  "totalDownloads": 106,
+  "title": "Conversational NLP: TimeDial and Disfl-QA",
+  "hasTitle": true,
+  "subtitle": "Datasets from Google for building conversational agents",
+  "hasSubtitle": true,
+  "description": "Good quality datasets for modeling conversational agents are notoriously hard to come by - which is why it was a welcome contribution by Google AI to make two such datasets available https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html. This dataset contains the combined content of two repositories referenced in the announcement above: \n\nhttps://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html\n\nhttps://github.com/google-research-datasets/Disfl-QA\n\nFrom the article: \n\n\"To stir interest in this direction within the research community, we are excited to introduce TimeDial, for temporal commonsense reasoning in dialog, and Disfl-QA, which focuses on contextual disfluencies. TimeDial presents a new multiple choice span filling task targeted for temporal understanding, with an annotated test set of over ~1.1k dialogs. Disfl-QA is the first dataset containing contextual disfluencies in an information seeking setting, namely question answering over Wikipedia passages, with ~12k human annotated disfluent questions. These benchmark datasets are the first of their kind and show a significant gap between human performance and current state of the art NLP models.\"\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "linguistics",
+    "advanced",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

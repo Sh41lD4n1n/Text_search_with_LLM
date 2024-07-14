@@ -1,0 +1,44 @@
+{
+  "id": "shobhit043/percy-jackson-first-5-books",
+  "id_no": 5281392,
+  "datasetSlugNullable": "percy-jackson-first-5-books",
+  "ownerUserNullable": "shobhit043",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Percy Jackson Book Series NLP Dataset",
+  "subtitleNullable": "A Comprehensive Text Corpus of the First Five Books for Natural Language Process",
+  "descriptionNullable": "### Description:\n\n**Percy Jackson Book Series NLP Dataset**\n\nThis dataset contains the raw text from the first five books of the Percy Jackson series by Rick Riordan. It provides a rich corpus for various Natural Language Processing (NLP) tasks and is ideal for researchers, educators, and developers interested in text analysis, sentiment analysis, named entity recognition, and more.\n\n**Contents:**\n- The Lightning Thief\n- The Sea of Monsters\n- The Titan's Curse\n- The Battle of the Labyrinth\n- The Last Olympian\n\n**Key Features:**\n- **Raw Text:** The dataset includes unprocessed text from the books, providing an authentic and comprehensive source for a variety of NLP experiments.\n- **Rich in Entities:** With a plethora of characters, places, and mythical references, this dataset is perfect for named entity recognition and entity linking tasks.\n- **Diverse Sentiments:** The narrative includes a wide range of emotional expressions, making it suitable for sentiment analysis projects.\n- **Complex Sentences:** The books contain varying sentence structures and vocabularies, beneficial for language modeling and text generation.\n\n**Potential Use Cases:**\n- Sentiment Analysis\n- Named Entity Recognition\n- Text Classification\n- Language Modeling\n- Text Generation\n- Tokenization and Lemmatization Practice\n\n**Notes:**\n- **Raw Data:** The text is presented as-is from the books, with no preprocessing performed. Users may need to clean and preprocess the text according to their specific project requirements.\n- **Ethical Use:** Please ensure the dataset is used in compliance with copyright laws and is intended for educational and research purposes only.\n\nUnlock the potential of Rick Riordan's engaging narratives to enhance your NLP models and algorithms!\n",
+  "datasetId": 5281392,
+  "datasetSlug": "percy-jackson-first-5-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "shobhit043",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Percy Jackson Book Series NLP Dataset",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Text Corpus of the First Five Books for Natural Language Process",
+  "hasSubtitle": true,
+  "description": "### Description:\n\n**Percy Jackson Book Series NLP Dataset**\n\nThis dataset contains the raw text from the first five books of the Percy Jackson series by Rick Riordan. It provides a rich corpus for various Natural Language Processing (NLP) tasks and is ideal for researchers, educators, and developers interested in text analysis, sentiment analysis, named entity recognition, and more.\n\n**Contents:**\n- The Lightning Thief\n- The Sea of Monsters\n- The Titan's Curse\n- The Battle of the Labyrinth\n- The Last Olympian\n\n**Key Features:**\n- **Raw Text:** The dataset includes unprocessed text from the books, providing an authentic and comprehensive source for a variety of NLP experiments.\n- **Rich in Entities:** With a plethora of characters, places, and mythical references, this dataset is perfect for named entity recognition and entity linking tasks.\n- **Diverse Sentiments:** The narrative includes a wide range of emotional expressions, making it suitable for sentiment analysis projects.\n- **Complex Sentences:** The books contain varying sentence structures and vocabularies, beneficial for language modeling and text generation.\n\n**Potential Use Cases:**\n- Sentiment Analysis\n- Named Entity Recognition\n- Text Classification\n- Language Modeling\n- Text Generation\n- Tokenization and Lemmatization Practice\n\n**Notes:**\n- **Raw Data:** The text is presented as-is from the books, with no preprocessing performed. Users may need to clean and preprocess the text according to their specific project requirements.\n- **Ethical Use:** Please ensure the dataset is used in compliance with copyright laws and is intended for educational and research purposes only.\n\nUnlock the potential of Rick Riordan's engaging narratives to enhance your NLP models and algorithms!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "pca",
+    "nltk",
+    "token classification",
+    "word2vec skip-gram"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

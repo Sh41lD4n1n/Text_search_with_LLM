@@ -1,0 +1,42 @@
+{
+  "id": "tanishqdublish/urban-traffic-density-in-cities",
+  "id_no": 4481117,
+  "datasetSlugNullable": "urban-traffic-density-in-cities",
+  "ownerUserNullable": "tanishqdublish",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Urban traffic density in cities",
+  "subtitleNullable": "contains traffic densities of cities",
+  "descriptionNullable": "Dataset Overview\n\nThis dataset provides a detailed view of traffic data in a futuristic urban environment, containing over 1.2 million records. Each record represents a unique snapshot of various factors affecting traffic conditions in six fictional cities.\n\nFeatures\n\nCity: Name of the city (e.g., MetropolisX, SolarisVille).\nVehicle Type: Type of vehicle (e.g., Car, Flying Car).\nWeather Conditions: Current weather (e.g., Clear, Rainy).\nEconomic Conditions: Economic state of the city (e.g., Booming, Recession).\nDay of Week: Day of the week.\nHour of Day: Hour of the day when the data was recorded.\nSpeed: Recorded vehicle speed.\nEnergy Consumption: Estimated energy consumption based on vehicle type and speed.\nIs Peak Hour: Indicator if the record was during peak traffic hours.\nRandom Event Occurred: Indicator if a random event (e.g., accidents, road closures) occurred.\nTraffic Density: Density of traffic at the time of recording.\nFile Format\n\nThe dataset is provided in CSV format, suitable for analysis in various data processing tools and programming languages.\n\nPotential Uses\n\nThis dataset can be utilized for a variety of studies and analyses, including:\n\nUnderstanding traffic patterns in futuristic urban environments.\nAnalyzing the impact of factors like weather, economic conditions, and vehicle types on traffic flow and energy consumption.\nDeveloping and testing traffic management algorithms, especially for autonomous vehicles and smart city solutions.\n",
+  "datasetId": 4481117,
+  "datasetSlug": "urban-traffic-density-in-cities",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanishqdublish",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10051,
+  "totalVotes": 45,
+  "totalDownloads": 1969,
+  "title": "Urban traffic density in cities",
+  "hasTitle": true,
+  "subtitle": "contains traffic densities of cities",
+  "hasSubtitle": true,
+  "description": "Dataset Overview\n\nThis dataset provides a detailed view of traffic data in a futuristic urban environment, containing over 1.2 million records. Each record represents a unique snapshot of various factors affecting traffic conditions in six fictional cities.\n\nFeatures\n\nCity: Name of the city (e.g., MetropolisX, SolarisVille).\nVehicle Type: Type of vehicle (e.g., Car, Flying Car).\nWeather Conditions: Current weather (e.g., Clear, Rainy).\nEconomic Conditions: Economic state of the city (e.g., Booming, Recession).\nDay of Week: Day of the week.\nHour of Day: Hour of the day when the data was recorded.\nSpeed: Recorded vehicle speed.\nEnergy Consumption: Estimated energy consumption based on vehicle type and speed.\nIs Peak Hour: Indicator if the record was during peak traffic hours.\nRandom Event Occurred: Indicator if a random event (e.g., accidents, road closures) occurred.\nTraffic Density: Density of traffic at the time of recording.\nFile Format\n\nThe dataset is provided in CSV format, suitable for analysis in various data processing tools and programming languages.\n\nPotential Uses\n\nThis dataset can be utilized for a variety of studies and analyses, including:\n\nUnderstanding traffic patterns in futuristic urban environments.\nAnalyzing the impact of factors like weather, economic conditions, and vehicle types on traffic flow and energy consumption.\nDeveloping and testing traffic management algorithms, especially for autonomous vehicles and smart city solutions.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "feature engineering",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

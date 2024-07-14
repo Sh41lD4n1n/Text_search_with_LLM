@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/tmdb-movies-dataset-2023-930k-movies",
+  "id_no": 3816617,
+  "datasetSlugNullable": "tmdb-movies-dataset-2023-930k-movies",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Full TMDB Movies Dataset 2024 (1M Movies)",
+  "subtitleNullable": "Complete dataset containing movie data from TMDb. Updated Daily",
+  "descriptionNullable": "The TMDb (The Movie Database) is a comprehensive movie database that provides information about movies, including details like titles, ratings, release dates, revenue, genres, and much more. \n\nThis dataset contains a collection of 1,000,000 movies from the TMDB database.\n\n&gt; Dataset is **updated daily**. If you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\n## Interesting Task Ideas:\n\n1. Predict movie ratings based on features such as revenue, popularity, genre, and runtime.\n2. Identify trends in movie release dates and analyze their impact on revenue.\n3. Analyze the relationship between budget, revenue, and popularity to determine factors that contribute to a movie's success.\n4. Build a recommendation system that suggests similar movies based on genres, production companies, and language.\n5. Perform sentiment analysis on movie reviews to understand audience reactions.\n6. Explore the impact of movie genres on popularity and revenue.\n7. Investigate the correlation between runtime and audience engagement.\n8. Identify successful production companies and analyze their strategies.\n9. Utilize natural language processing techniques to extract meaningful insights from movie overviews.\n10. Visualize movie popularity over time and identify popular genres in different periods.\n\n---\n\n### Checkout my other datasets\n\n[Clash of Clans Clans Dataset 2023 (3.5M Clans)](https://www.kaggle.com/datasets/asaniczka/clash-of-clans-clans-dataset-2023-3-5m-clans)\n\n[Black-White Wage Gap in the USA Dataset](https://www.kaggle.com/datasets/asaniczka/black-white-wage-gap-in-the-usa-dataset)\n\n[130K Kindle Books](https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books)\n\n[USA Unemployment Rates by Demographics & Race](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)\n\n[150K TMDb TV Shows](https://www.kaggle.com/datasets/asaniczka/full-tmdb-tv-shows-dataset-2023-150k-shows)\n\n---\nPhoto by [Onur Binay](https://unsplash.com/@onurbinay?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/1tTpPS3NF6E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)\n  ",
+  "datasetId": 3816617,
+  "datasetSlug": "tmdb-movies-dataset-2023-930k-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 32612,
+  "totalVotes": 282,
+  "totalDownloads": 7386,
+  "title": "Full TMDB Movies Dataset 2024 (1M Movies)",
+  "hasTitle": true,
+  "subtitle": "Complete dataset containing movie data from TMDb. Updated Daily",
+  "hasSubtitle": true,
+  "description": "The TMDb (The Movie Database) is a comprehensive movie database that provides information about movies, including details like titles, ratings, release dates, revenue, genres, and much more. \n\nThis dataset contains a collection of 1,000,000 movies from the TMDB database.\n\n&gt; Dataset is **updated daily**. If you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\n## Interesting Task Ideas:\n\n1. Predict movie ratings based on features such as revenue, popularity, genre, and runtime.\n2. Identify trends in movie release dates and analyze their impact on revenue.\n3. Analyze the relationship between budget, revenue, and popularity to determine factors that contribute to a movie's success.\n4. Build a recommendation system that suggests similar movies based on genres, production companies, and language.\n5. Perform sentiment analysis on movie reviews to understand audience reactions.\n6. Explore the impact of movie genres on popularity and revenue.\n7. Investigate the correlation between runtime and audience engagement.\n8. Identify successful production companies and analyze their strategies.\n9. Utilize natural language processing techniques to extract meaningful insights from movie overviews.\n10. Visualize movie popularity over time and identify popular genres in different periods.\n\n---\n\n### Checkout my other datasets\n\n[Clash of Clans Clans Dataset 2023 (3.5M Clans)](https://www.kaggle.com/datasets/asaniczka/clash-of-clans-clans-dataset-2023-3-5m-clans)\n\n[Black-White Wage Gap in the USA Dataset](https://www.kaggle.com/datasets/asaniczka/black-white-wage-gap-in-the-usa-dataset)\n\n[130K Kindle Books](https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books)\n\n[USA Unemployment Rates by Demographics & Race](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)\n\n[150K TMDb TV Shows](https://www.kaggle.com/datasets/asaniczka/full-tmdb-tv-shows-dataset-2023-150k-shows)\n\n---\nPhoto by [Onur Binay](https://unsplash.com/@onurbinay?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/1tTpPS3NF6E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)\n  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "internet",
+    "data visualization",
+    "data analytics",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

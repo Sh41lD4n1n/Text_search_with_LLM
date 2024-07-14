@@ -1,0 +1,39 @@
+{
+  "id": "sdevkota007/vehicles-nepal",
+  "id_no": 1468,
+  "datasetSlugNullable": "vehicles-nepal",
+  "ownerUserNullable": "sdevkota007",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Vehicles - Nepal",
+  "subtitleNullable": "This dataset contains 4797 images of Nepalese vehicles",
+  "descriptionNullable": "**Introduction**\n----------------\n\nThis image dataset was collected as a part of my final year undergraduate project *Vehicle Detection and Road Traffic Congestion Mapping Using Image Processing*. A total of 30 traffic videos, each of approx. 4 mins, from different streets of Kathmandu were taken and images of vehicles were manually cropped out from the video frames.\n\n**Content**\n---------------\n\nTotal images: 4797 ,\nNo. of two-wheeler vehicles: 1823 ,\nNo. of four-wheeler vehicles: 2974 ,\nSize of each image: varies ,\nResolution of each image: varies ,\nImage format: \".jpg\"\n\n\n**Acknowledgement**\n-------------------\n\nThis dataset wouldn't be here without the help of my project mates Anup Adhikari, Binish Koirala and Sparsha Bhattarai. Thank you lads for your wonderful contribution.\n\n**Note**\n--------\nThe dataset is also available on https://github.com/sdevkota007/vehicles-nepal-dataset\nIf you have any questions, please email me at sdevkota007@gmail.com",
+  "datasetId": 1468,
+  "datasetSlug": "vehicles-nepal",
+  "hasDatasetSlug": true,
+  "ownerUser": "sdevkota007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 15624,
+  "totalVotes": 32,
+  "totalDownloads": 1267,
+  "title": "Vehicles - Nepal",
+  "hasTitle": true,
+  "subtitle": "This dataset contains 4797 images of Nepalese vehicles",
+  "hasSubtitle": true,
+  "description": "**Introduction**\n----------------\n\nThis image dataset was collected as a part of my final year undergraduate project *Vehicle Detection and Road Traffic Congestion Mapping Using Image Processing*. A total of 30 traffic videos, each of approx. 4 mins, from different streets of Kathmandu were taken and images of vehicles were manually cropped out from the video frames.\n\n**Content**\n---------------\n\nTotal images: 4797 ,\nNo. of two-wheeler vehicles: 1823 ,\nNo. of four-wheeler vehicles: 2974 ,\nSize of each image: varies ,\nResolution of each image: varies ,\nImage format: \".jpg\"\n\n\n**Acknowledgement**\n-------------------\n\nThis dataset wouldn't be here without the help of my project mates Anup Adhikari, Binish Koirala and Sparsha Bhattarai. Thank you lads for your wonderful contribution.\n\n**Note**\n--------\nThe dataset is also available on https://github.com/sdevkota007/vehicles-nepal-dataset\nIf you have any questions, please email me at sdevkota007@gmail.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

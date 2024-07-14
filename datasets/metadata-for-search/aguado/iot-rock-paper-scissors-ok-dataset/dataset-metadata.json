@@ -1,0 +1,44 @@
+{
+  "id": "aguado/iot-rock-paper-scissors-ok-dataset",
+  "id_no": 2725548,
+  "datasetSlugNullable": "iot-rock-paper-scissors-ok-dataset",
+  "ownerUserNullable": "aguado",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IoT Rock-Paper-Scissors-Ok Dataset",
+  "subtitleNullable": " Dataset containing accelerometer and gyroscope readings of hand gestures for ro",
+  "descriptionNullable": "This dataset contains accelerometer and gyroscope readings of hand gestures for rock, paper, scissors, and okay signs captured using an IoT device. The dataset is labeled and can be used for developing and testing gesture recognition algorithms. Each data point in the dataset includes the accelerometer and gyroscope readings in three axes, as well as the label of the corresponding hand gesture. The data was collected from a diverse group of participants and includes both males and females of different ages and hand sizes.",
+  "datasetId": 2725548,
+  "datasetSlug": "iot-rock-paper-scissors-ok-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aguado",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 359,
+  "totalVotes": 4,
+  "totalDownloads": 47,
+  "title": "IoT Rock-Paper-Scissors-Ok Dataset",
+  "hasTitle": true,
+  "subtitle": " Dataset containing accelerometer and gyroscope readings of hand gestures for ro",
+  "hasSubtitle": true,
+  "description": "This dataset contains accelerometer and gyroscope readings of hand gestures for rock, paper, scissors, and okay signs captured using an IoT device. The dataset is labeled and can be used for developing and testing gesture recognition algorithms. Each data point in the dataset includes the accelerometer and gyroscope readings in three axes, as well as the label of the corresponding hand gesture. The data was collected from a diverse group of participants and includes both males and females of different ages and hand sizes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biotechnology",
+    "exploratory data analysis",
+    "classification",
+    "clustering",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

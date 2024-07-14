@@ -1,0 +1,37 @@
+{
+  "id": "mahirkukreja/delhi-weather-data",
+  "id_no": 1118,
+  "datasetSlugNullable": "delhi-weather-data",
+  "ownerUserNullable": "mahirkukreja",
+  "usabilityRatingNullable": 0.6176470588235294,
+  "titleNullable": "Delhi Weather Data",
+  "subtitleNullable": "Delhi Weather Data from 1997 to 2016 december",
+  "descriptionNullable": "# Context \n\nThis dataset contains weather data for New Delhi, India.\n\n# Content\n\nThis data was taken out from wunderground with the help of their easy to use api.\nIt contains various features such as temperature, pressure, humidity, rain, precipitation,etc.\n\n\n# Acknowledgements\n\nThis data is owned by wunderground and although I ended up using noaa's data for my research, i thought that i'd share this data here as I haven't worked on hourly data yet and this might be of huge importance.\n\n\n# Inspiration\n\nThe main target is to develop a prediction model accurate enough for predicting the weather. We can try something like predicting the weather in the next 24 hours like microsoft tried some time back.\n\n\n\n  https://blogs.microsoft.com/next/2015/08/10/hows-the-weather-using-artificial-intelligence-for-better-answers/#sm.018l60051a9neka10is1m5qpi6u5y",
+  "datasetId": 1118,
+  "datasetSlug": "delhi-weather-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mahirkukreja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6176470588235294,
+  "hasUsabilityRating": true,
+  "totalViews": 108124,
+  "totalVotes": 250,
+  "totalDownloads": 19593,
+  "title": "Delhi Weather Data",
+  "hasTitle": true,
+  "subtitle": "Delhi Weather Data from 1997 to 2016 december",
+  "hasSubtitle": true,
+  "description": "# Context \n\nThis dataset contains weather data for New Delhi, India.\n\n# Content\n\nThis data was taken out from wunderground with the help of their easy to use api.\nIt contains various features such as temperature, pressure, humidity, rain, precipitation,etc.\n\n\n# Acknowledgements\n\nThis data is owned by wunderground and although I ended up using noaa's data for my research, i thought that i'd share this data here as I haven't worked on hourly data yet and this might be of huge importance.\n\n\n# Inspiration\n\nThe main target is to develop a prediction model accurate enough for predicting the weather. We can try something like predicting the weather in the next 24 hours like microsoft tried some time back.\n\n\n\n  https://blogs.microsoft.com/next/2015/08/10/hows-the-weather-using-artificial-intelligence-for-better-answers/#sm.018l60051a9neka10is1m5qpi6u5y",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

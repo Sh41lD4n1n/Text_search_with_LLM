@@ -1,0 +1,43 @@
+{
+  "id": "joebeachcapital/facebooks-supreme-court",
+  "id_no": 5289904,
+  "datasetSlugNullable": "facebooks-supreme-court",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Facebook's Supreme Court",
+  "subtitleNullable": "Meta's oversight-board & outcomes impacting decisions around content-moderation",
+  "descriptionNullable": "In 2020, Meta (then Facebook) created a quasi-independent, 20 member oversight board with the power to override the company's decisions around content-moderation. These are their major cases and outcomes. ",
+  "datasetId": 5289904,
+  "datasetSlug": "facebooks-supreme-court",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 3,
+  "totalDownloads": 0,
+  "title": "Facebook's Supreme Court",
+  "hasTitle": true,
+  "subtitle": "Meta's oversight-board & outcomes impacting decisions around content-moderation",
+  "hasSubtitle": true,
+  "description": "In 2020, Meta (then Facebook) created a quasi-independent, 20 member oversight board with the power to override the company's decisions around content-moderation. These are their major cases and outcomes. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people and society",
+    "government",
+    "law",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

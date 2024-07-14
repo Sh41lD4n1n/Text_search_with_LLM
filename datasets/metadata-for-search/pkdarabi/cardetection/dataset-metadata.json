@@ -1,0 +1,44 @@
+{
+  "id": "pkdarabi/cardetection",
+  "id_no": 4066836,
+  "datasetSlugNullable": "cardetection",
+  "ownerUserNullable": "pkdarabi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Traffic Signs Detection",
+  "subtitleNullable": "Signs Detection For Self-Driving Cars (Computer Vision Project)",
+  "descriptionNullable": "This dataset is a traffic sign image dataset containing 4969 samples, which dataset (as you can see in the image) is correctly divided into three parts: Train,Valid,Test!!\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14850461%2F69bf06b5bd76b597644880af6c884260%2Fssss.png?generation=1701092847791766&alt=media)\n\n**Name of Classes:** Green Light, Red Light, Speed Limit 10, Speed Limit 100, Speed Limit 110, Speed Limit 120, Speed Limit 20, Speed Limit 30, Speed Limit 40, Speed Limit 50, Speed Limit 60, Speed Limit 70, Speed Limit 80, Speed Limit 90, Stop\n\nHere are a few use cases for this project:\n\n**Autonomous Vehicle Navigation:** The model can be used in self-driving car systems to recognize traffic signs accurately. This would enable autonomous vehicles to follow traffic rules and regulations, analyzing every sign whether it\u2019s about speed limit or stop and go indications to safely navigate the roads.\n\n**Traffic Rule Compliance:** This model can be used in driver assistance systems to ensure that drivers comply with all traffic rules. Alerts can be generated when drivers exceed the speed limit or don't stop at red lights, fostering safer roads.\n\n**Road Safety Training Programs:** Driving schools and automotive companies can build simulations and education programs using this model. These programs can offer practical guidance to new drivers on identifying and responding to different traffic signs, thus enhancing road safety knowledge.\n\n**Smart City Infrastructure:** City authorities could use this model in connected CCTV or IoT infrastructure to track and monitor traffic compliance in real-time, helping identify areas with frequent rules violation for potential improvement.\n\n**Road Network Analysis:** Transportation engineering researchers can use this model to analyze how efficiently different sign classes are distributed and recognized around the city. This data can be instrumental in planning more efficient and safer road networks.\n\nYou can use the following link to download this dataset in other formats and also to access its original file: \nhttps://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou",
+  "datasetId": 4066836,
+  "datasetSlug": "cardetection",
+  "hasDatasetSlug": true,
+  "ownerUser": "pkdarabi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 22199,
+  "totalVotes": 117,
+  "totalDownloads": 3617,
+  "title": "Traffic Signs Detection",
+  "hasTitle": true,
+  "subtitle": "Signs Detection For Self-Driving Cars (Computer Vision Project)",
+  "hasSubtitle": true,
+  "description": "This dataset is a traffic sign image dataset containing 4969 samples, which dataset (as you can see in the image) is correctly divided into three parts: Train,Valid,Test!!\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14850461%2F69bf06b5bd76b597644880af6c884260%2Fssss.png?generation=1701092847791766&alt=media)\n\n**Name of Classes:** Green Light, Red Light, Speed Limit 10, Speed Limit 100, Speed Limit 110, Speed Limit 120, Speed Limit 20, Speed Limit 30, Speed Limit 40, Speed Limit 50, Speed Limit 60, Speed Limit 70, Speed Limit 80, Speed Limit 90, Stop\n\nHere are a few use cases for this project:\n\n**Autonomous Vehicle Navigation:** The model can be used in self-driving car systems to recognize traffic signs accurately. This would enable autonomous vehicles to follow traffic rules and regulations, analyzing every sign whether it\u2019s about speed limit or stop and go indications to safely navigate the roads.\n\n**Traffic Rule Compliance:** This model can be used in driver assistance systems to ensure that drivers comply with all traffic rules. Alerts can be generated when drivers exceed the speed limit or don't stop at red lights, fostering safer roads.\n\n**Road Safety Training Programs:** Driving schools and automotive companies can build simulations and education programs using this model. These programs can offer practical guidance to new drivers on identifying and responding to different traffic signs, thus enhancing road safety knowledge.\n\n**Smart City Infrastructure:** City authorities could use this model in connected CCTV or IoT infrastructure to track and monitor traffic compliance in real-time, helping identify areas with frequent rules violation for potential improvement.\n\n**Road Network Analysis:** Transportation engineering researchers can use this model to analyze how efficiently different sign classes are distributed and recognized around the city. This data can be instrumental in planning more efficient and safer road networks.\n\nYou can use the following link to download this dataset in other formats and also to access its original file: \nhttps://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "image",
+    "video",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "karmukilan/foodclassification",
+  "id_no": 3505381,
+  "datasetSlugNullable": "foodclassification",
+  "ownerUserNullable": "karmukilan",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Food classification",
+  "subtitleNullable": "Be hunger to Explore this dataset ",
+  "descriptionNullable": "The cover Image by KamranAydinov Freepik. \n\nThis Dataset contains different images of food in **20 different classes**. \n\nThe dataset has been collected from the google various sources.\n\nThe dataset was cleaned and splitted into **test,train and validation** folders.\n\nEach Folder contains **20 varieties of food **classifications where it contains respective images inside...",
+  "datasetId": 3505381,
+  "datasetSlug": "foodclassification",
+  "hasDatasetSlug": true,
+  "ownerUser": "karmukilan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1756,
+  "totalVotes": 10,
+  "totalDownloads": 215,
+  "title": "Food classification",
+  "hasTitle": true,
+  "subtitle": "Be hunger to Explore this dataset ",
+  "hasSubtitle": true,
+  "description": "The cover Image by KamranAydinov Freepik. \n\nThis Dataset contains different images of food in **20 different classes**. \n\nThe dataset has been collected from the google various sources.\n\nThe dataset was cleaned and splitted into **test,train and validation** folders.\n\nEach Folder contains **20 varieties of food **classifications where it contains respective images inside...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "advanced",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

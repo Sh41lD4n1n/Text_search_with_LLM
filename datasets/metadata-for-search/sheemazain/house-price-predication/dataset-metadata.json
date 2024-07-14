@@ -1,0 +1,58 @@
+{
+  "id": "sheemazain/house-price-predication",
+  "id_no": 4960736,
+  "datasetSlugNullable": "house-price-predication",
+  "ownerUserNullable": "sheemazain",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "House Price Predication",
+  "subtitleNullable": "Predicting the house price",
+  "descriptionNullable": "House price prediction\nPredicting house prices is a common task in data science and machine learning. Here's a high-level overview of how you might approach it:\n\nData Collection:\nGather a dataset containing features of houses (e.g., size, number of bedrooms, location, amenities) and their corresponding prices. Websites like Zillow, Kaggle, or government housing datasets are good sources.\n\nData Preprocessing:\nClean the data by handling missing values, encoding categorical variables, and scaling numerical features if necessary. This step ensures that the data is in a suitable format for training a model. Feature Selection/Engineering: Choose relevant features that are likely to influence house prices. You may also create new features based on domain knowledge or data analysis.\n\nModel Selection:\nSelect a regression model suitable for predicting continuous target variables like house prices. Common choices include Linear Regression, Decision Trees, Random Forests, Gradient Boosting, and Neural Networks.\n\nModel Training:\nSplit your dataset into training and testing sets to train and evaluate the performance of your model. You can further split the training set for validation purposes or use cross-validation techniques.\n\nModel Evaluation:\nAssess the performance of your model using appropriate evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE).\n\nHyperparameter Tuning:\nFine-tune your model's hyperparameters to improve its performance. Techniques like grid search or random search can be employed for this purpose.\n\nDeployment:\nOnce satisfied with your model's performance, deploy it to make predictions on new data. This could be as simple as saving the trained model and creating an interface for users to input house features.",
+  "datasetId": 4960736,
+  "datasetSlug": "house-price-predication",
+  "hasDatasetSlug": true,
+  "ownerUser": "sheemazain",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 282,
+  "totalVotes": 4,
+  "totalDownloads": 71,
+  "title": "House Price Predication",
+  "hasTitle": true,
+  "subtitle": "Predicting the house price",
+  "hasSubtitle": true,
+  "description": "House price prediction\nPredicting house prices is a common task in data science and machine learning. Here's a high-level overview of how you might approach it:\n\nData Collection:\nGather a dataset containing features of houses (e.g., size, number of bedrooms, location, amenities) and their corresponding prices. Websites like Zillow, Kaggle, or government housing datasets are good sources.\n\nData Preprocessing:\nClean the data by handling missing values, encoding categorical variables, and scaling numerical features if necessary. This step ensures that the data is in a suitable format for training a model. Feature Selection/Engineering: Choose relevant features that are likely to influence house prices. You may also create new features based on domain knowledge or data analysis.\n\nModel Selection:\nSelect a regression model suitable for predicting continuous target variables like house prices. Common choices include Linear Regression, Decision Trees, Random Forests, Gradient Boosting, and Neural Networks.\n\nModel Training:\nSplit your dataset into training and testing sets to train and evaluate the performance of your model. You can further split the training set for validation purposes or use cross-validation techniques.\n\nModel Evaluation:\nAssess the performance of your model using appropriate evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE).\n\nHyperparameter Tuning:\nFine-tune your model's hyperparameters to improve its performance. Techniques like grid search or random search can be employed for this purpose.\n\nDeployment:\nOnce satisfied with your model's performance, deploy it to make predictions on new data. This could be as simple as saving the trained model and creating an interface for users to input house features.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "zohaib123",
+      "role": "writer"
+    },
+    {
+      "username": "razaque22",
+      "role": "writer"
+    },
+    {
+      "username": "abdullah1502",
+      "role": "writer"
+    },
+    {
+      "username": "kashifalibhutto32",
+      "role": "writer"
+    },
+    {
+      "username": "sonialikhan",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

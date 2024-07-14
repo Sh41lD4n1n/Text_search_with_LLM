@@ -1,0 +1,44 @@
+{
+  "id": "datacarelabs/indian-traffic-sign-dataset",
+  "id_no": 2280371,
+  "datasetSlugNullable": "indian-traffic-sign-dataset",
+  "ownerUserNullable": "datacarelabs",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Indian Traffic Sign Dataset",
+  "subtitleNullable": "Dataset of over 70 different Indian Traffic Signs",
+  "descriptionNullable": "### This dataset is collected by us. To download full dataset submit a request for your new data collection needs on: indiantrafficsignimagedataset@gmail.com\n\nThe dataset contains over 9000+ images of 70 different traffic signs found in Indian metropolitan regions. The images have been captured in various settings including sunny, rains, nights, etc.\n\nThe dataset can be used for Traffic Sign detection, Self-driving automobiles, etc. The dataset will be useful with various **annotations** like YOLOvs, etc.\n\nAlso, we can provide the dataset along with bounding boxes (labels) needed for recoginition models like YOLO. To download full datasets submit a request for your dataset needs on: indiantrafficsignimagedataset@gmail.com",
+  "datasetId": 2280371,
+  "datasetSlug": "indian-traffic-sign-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "datacarelabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1766,
+  "totalVotes": 12,
+  "totalDownloads": 209,
+  "title": "Indian Traffic Sign Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of over 70 different Indian Traffic Signs",
+  "hasSubtitle": true,
+  "description": "### This dataset is collected by us. To download full dataset submit a request for your new data collection needs on: indiantrafficsignimagedataset@gmail.com\n\nThe dataset contains over 9000+ images of 70 different traffic signs found in Indian metropolitan regions. The images have been captured in various settings including sunny, rains, nights, etc.\n\nThe dataset can be used for Traffic Sign detection, Self-driving automobiles, etc. The dataset will be useful with various **annotations** like YOLOvs, etc.\n\nAlso, we can provide the dataset along with bounding boxes (labels) needed for recoginition models like YOLO. To download full datasets submit a request for your dataset needs on: indiantrafficsignimagedataset@gmail.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "data visualization",
+    "data analytics",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hamdallak/the-world-of-pokemons",
+  "id_no": 1619167,
+  "datasetSlugNullable": "the-world-of-pokemons",
+  "ownerUserNullable": "hamdallak",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "The World of Pokemons",
+  "subtitleNullable": "Welcome to The Pok\u00e9mon Database",
+  "descriptionNullable": "Context\nThis dataset includes information on all Pokemons. \nThe information was scraped from **pokemondb.net**\n\nContent\nname: The English name of the Pokemon\nname2: The English name of the Pokemon\nPrimary type: The Primary Type of the Pokemon\nSecondary type: The Secondary Type of the Pokemon\nhp: The Hit Points of the Pokemon\nattack: The Attack of the Pokemon\ndefense: The Defense of the Pokemon\nsp_attack: The Special Attack of the Pokemon\nsp_defense: The Special Defense of the Pokemon\nspeed: The Speed of the Pokemon\n\nAcknowledgements\nThe data was scraped from **pokemondb.net**",
+  "datasetId": 1619167,
+  "datasetSlug": "the-world-of-pokemons",
+  "hasDatasetSlug": true,
+  "ownerUser": "hamdallak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 12842,
+  "totalVotes": 84,
+  "totalDownloads": 1323,
+  "title": "The World of Pokemons",
+  "hasTitle": true,
+  "subtitle": "Welcome to The Pok\u00e9mon Database",
+  "hasSubtitle": true,
+  "description": "Context\nThis dataset includes information on all Pokemons. \nThe information was scraped from **pokemondb.net**\n\nContent\nname: The English name of the Pokemon\nname2: The English name of the Pokemon\nPrimary type: The Primary Type of the Pokemon\nSecondary type: The Secondary Type of the Pokemon\nhp: The Hit Points of the Pokemon\nattack: The Attack of the Pokemon\ndefense: The Defense of the Pokemon\nsp_attack: The Special Attack of the Pokemon\nsp_defense: The Special Defense of the Pokemon\nspeed: The Speed of the Pokemon\n\nAcknowledgements\nThe data was scraped from **pokemondb.net**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

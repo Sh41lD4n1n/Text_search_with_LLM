@@ -1,0 +1,44 @@
+{
+  "id": "tapakah68/facial-emotion-recognition",
+  "id_no": 3525344,
+  "datasetSlugNullable": "facial-emotion-recognition",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Facial Emotion Recognition Dataset",
+  "subtitleNullable": "Images of people showing eight different emotions, face dataset",
+  "descriptionNullable": "# Facial Emotion Recognition Faces Dataset\n\nThe dataset consists of images capturing people displaying **7 distinct emotions** (*anger, contempt, disgust, fear, happiness, sadness and surprise*). Each image in the dataset represents one of these specific emotions, enabling researchers and machine learning practitioners to study and develop models for emotion recognition and analysis.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/facial-emotion-image-collection?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-emotion-recognition)** to buy the dataset\n\nThe images encompass a diverse range of individuals, including different *genders, ethnicities, and age groups*. The dataset aims to provide a comprehensive representation of human emotions, allowing for a wide range of use cases.\n\n### The dataset's possible applications:\n- automatic emotion detection\n- mental health analysis\n- artificial intelligence (AI) and computer vision\n- entertainment industries\n- advertising and market research\n- security and surveillance\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F618942%2Fe72fc2820f1452bcdc99b4bc69e4c7b0%2FMacBook%20Air%20-%201.png?generation=1689578335866939&alt=media)\n\n# Content\n\n- **images**: includes folders corresponding to people and containing images with 8 different impersonated emotions, each file is named according to the expressed emotion\n- **.csv** file: contains information about people in the dataset\n\n### Emotions in the dataset:\n- anger\n- contempt\n- disgust\n- fear\n- happy\n- sad\n- surprised\n\n### File with the extension .csv\n\nincludes the following information for each set of media files:\n\n- **set_id**: id of the set of images,\n- **gender**: gender of the person, \n- **age**: age of the person,\n- **country**: country of the person\n\n# Images for facial emotion recognition might be collected in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/facial-emotion-image-collection?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-emotion-recognition)** to discuss your requirements, learn about the price and buy the dataset.\n\n## **[TrainingData](https://trainingdata.pro/datasets/facial-emotion-image-collection?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-emotion-recognition)** provides high-quality data annotation tailored to your needs\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human faces dataset, machine learning, image-to-image, facial expression recognition, emotion detection, facial emotions, emotion recognition, er, human emotions, facial cues*",
+  "datasetId": 3525344,
+  "datasetSlug": "facial-emotion-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 35281,
+  "totalVotes": 76,
+  "totalDownloads": 5864,
+  "title": "Facial Emotion Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "Images of people showing eight different emotions, face dataset",
+  "hasSubtitle": true,
+  "description": "# Facial Emotion Recognition Faces Dataset\n\nThe dataset consists of images capturing people displaying **7 distinct emotions** (*anger, contempt, disgust, fear, happiness, sadness and surprise*). Each image in the dataset represents one of these specific emotions, enabling researchers and machine learning practitioners to study and develop models for emotion recognition and analysis.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/facial-emotion-image-collection?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-emotion-recognition)** to buy the dataset\n\nThe images encompass a diverse range of individuals, including different *genders, ethnicities, and age groups*. The dataset aims to provide a comprehensive representation of human emotions, allowing for a wide range of use cases.\n\n### The dataset's possible applications:\n- automatic emotion detection\n- mental health analysis\n- artificial intelligence (AI) and computer vision\n- entertainment industries\n- advertising and market research\n- security and surveillance\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F618942%2Fe72fc2820f1452bcdc99b4bc69e4c7b0%2FMacBook%20Air%20-%201.png?generation=1689578335866939&alt=media)\n\n# Content\n\n- **images**: includes folders corresponding to people and containing images with 8 different impersonated emotions, each file is named according to the expressed emotion\n- **.csv** file: contains information about people in the dataset\n\n### Emotions in the dataset:\n- anger\n- contempt\n- disgust\n- fear\n- happy\n- sad\n- surprised\n\n### File with the extension .csv\n\nincludes the following information for each set of media files:\n\n- **set_id**: id of the set of images,\n- **gender**: gender of the person, \n- **age**: age of the person,\n- **country**: country of the person\n\n# Images for facial emotion recognition might be collected in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/facial-emotion-image-collection?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-emotion-recognition)** to discuss your requirements, learn about the price and buy the dataset.\n\n## **[TrainingData](https://trainingdata.pro/datasets/facial-emotion-image-collection?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-emotion-recognition)** provides high-quality data annotation tailored to your needs\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human faces dataset, machine learning, image-to-image, facial expression recognition, emotion detection, facial emotions, emotion recognition, er, human emotions, facial cues*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "neuroscience",
+    "people",
+    "psychology",
+    "computer vision",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

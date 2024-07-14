@@ -1,0 +1,42 @@
+{
+  "id": "tsiaras/uk-road-safety-accidents-and-vehicles",
+  "id_no": 43428,
+  "datasetSlugNullable": "uk-road-safety-accidents-and-vehicles",
+  "ownerUserNullable": "tsiaras",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "UK Road Safety: Traffic Accidents and Vehicles",
+  "subtitleNullable": "Detailed dataset of road accidents and involved vehicles in the UK (2005-2017)",
+  "descriptionNullable": "### Context\n\nThe UK government collects and publishes (usually on an annual basis) detailed information about traffic accidents across the country. This information includes, but is not limited to, geographical locations, weather conditions, type of vehicles, number of casualties and vehicle manoeuvres, making this a very interesting and comprehensive dataset for analysis and research.\n\nThe creation of this dataset was inspired by the one previously published by [Dave Fisher-Hickey][1]. However, this current dataset features the following significant improvements over its predecessor:\n\n* It covers a wider date range of events.\n* Most of the coded data variables have been transformed to textual strings using relevant lookup tables, enabling more efficient and \"human-readable\" analysis.\n* It features detailed information about the vehicles involved in the accidents.\n\n### Content\n\nThe data come from the [Open Data][2] website of the UK government, where they have been published by the Department of Transport.\n\nThe dataset comprises of two csv files:\n\n* **Accident_Information.csv:** every line in the file represents a unique traffic accident (identified by the Accident_Index column), featuring various properties related to the accident as columns. Date range: 2005-2017\n* **Vehicle_Information.csv:** every line in the file represents the involvement of a unique vehicle in a unique traffic accident, featuring various vehicle and passenger properties as columns. Date range: 2004-2016\n\nThe two above-mentioned files/datasets can be linked through the unique traffic accident identifier (Accident_Index column).\n\nThe dataset will keep being updated as more data become available by the Department of Transport. \n\n### Acknowledgements\n\nThanks to Dave Fisher-Hickey for previously publishing, what I consider to be, the first solid and structured version of this dataset on Kaggle.\n\nAlso thanks to data.gov.uk for making this information publicly available.\n\nLast but not least, thanks to [The Data Lab][3] for allocating me some much needed time to assemble this dataset.\n\n### Inspiration\n\nGo crazy using the dataset. Don't go crazy while driving.\n\n\n  [1]: https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales\n  [2]: https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data\n  [3]: https://www.thedatalab.com/",
+  "datasetId": 43428,
+  "datasetSlug": "uk-road-safety-accidents-and-vehicles",
+  "hasDatasetSlug": true,
+  "ownerUser": "tsiaras",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 123535,
+  "totalVotes": 209,
+  "totalDownloads": 14247,
+  "title": "UK Road Safety: Traffic Accidents and Vehicles",
+  "hasTitle": true,
+  "subtitle": "Detailed dataset of road accidents and involved vehicles in the UK (2005-2017)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe UK government collects and publishes (usually on an annual basis) detailed information about traffic accidents across the country. This information includes, but is not limited to, geographical locations, weather conditions, type of vehicles, number of casualties and vehicle manoeuvres, making this a very interesting and comprehensive dataset for analysis and research.\n\nThe creation of this dataset was inspired by the one previously published by [Dave Fisher-Hickey][1]. However, this current dataset features the following significant improvements over its predecessor:\n\n* It covers a wider date range of events.\n* Most of the coded data variables have been transformed to textual strings using relevant lookup tables, enabling more efficient and \"human-readable\" analysis.\n* It features detailed information about the vehicles involved in the accidents.\n\n### Content\n\nThe data come from the [Open Data][2] website of the UK government, where they have been published by the Department of Transport.\n\nThe dataset comprises of two csv files:\n\n* **Accident_Information.csv:** every line in the file represents a unique traffic accident (identified by the Accident_Index column), featuring various properties related to the accident as columns. Date range: 2005-2017\n* **Vehicle_Information.csv:** every line in the file represents the involvement of a unique vehicle in a unique traffic accident, featuring various vehicle and passenger properties as columns. Date range: 2004-2016\n\nThe two above-mentioned files/datasets can be linked through the unique traffic accident identifier (Accident_Index column).\n\nThe dataset will keep being updated as more data become available by the Department of Transport. \n\n### Acknowledgements\n\nThanks to Dave Fisher-Hickey for previously publishing, what I consider to be, the first solid and structured version of this dataset on Kaggle.\n\nAlso thanks to data.gov.uk for making this information publicly available.\n\nLast but not least, thanks to [The Data Lab][3] for allocating me some much needed time to assemble this dataset.\n\n### Inspiration\n\nGo crazy using the dataset. Don't go crazy while driving.\n\n\n  [1]: https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales\n  [2]: https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data\n  [3]: https://www.thedatalab.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "law",
+    "demographics",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

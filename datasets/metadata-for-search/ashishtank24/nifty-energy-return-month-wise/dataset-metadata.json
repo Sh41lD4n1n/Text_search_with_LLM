@@ -1,0 +1,43 @@
+{
+  "id": "ashishtank24/nifty-energy-return-month-wise",
+  "id_no": 5292732,
+  "datasetSlugNullable": "nifty-energy-return-month-wise",
+  "ownerUserNullable": "ashishtank24",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Nifty Energy Sector Monthly % Returns Dataset",
+  "subtitleNullable": "Monthly Percentage Returns of Nifty Energy Index Components, Ready for Analysis",
+  "descriptionNullable": "- **\"This dataset contains monthly percentage returns of constituent stocks comprising the Nifty Energy Index.\"\n\n\"Each observation includes the percentage change in stock prices for leading energy companies listed on the National Stock Exchange of India (NSE).\"\n\n\"The dataset spans multiple years, offering insights into the volatility and performance trends within the energy sector.\"\n\n\"Researchers and analysts can utilize this dataset to analyze market dynamics, assess risk, and develop predictive models for energy stock movements.\"\n\n\"Ideal for studying correlations between individual stock performances and broader market trends affecting the energy sector.\"**",
+  "datasetId": 5292732,
+  "datasetSlug": "nifty-energy-return-month-wise",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashishtank24",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "Nifty Energy Sector Monthly % Returns Dataset",
+  "hasTitle": true,
+  "subtitle": "Monthly Percentage Returns of Nifty Energy Index Components, Ready for Analysis",
+  "hasSubtitle": true,
+  "description": "- **\"This dataset contains monthly percentage returns of constituent stocks comprising the Nifty Energy Index.\"\n\n\"Each observation includes the percentage change in stock prices for leading energy companies listed on the National Stock Exchange of India (NSE).\"\n\n\"The dataset spans multiple years, offering insights into the volatility and performance trends within the energy sector.\"\n\n\"Researchers and analysts can utilize this dataset to analyze market dynamics, assess risk, and develop predictive models for energy stock movements.\"\n\n\"Ideal for studying correlations between individual stock performances and broader market trends affecting the energy sector.\"**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data cleaning",
+    "data visualization",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arathee2/demonetization-in-india-twitter-data",
+  "id_no": 430,
+  "datasetSlugNullable": "demonetization-in-india-twitter-data",
+  "ownerUserNullable": "arathee2",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Demonetization in India Twitter Data",
+  "subtitleNullable": "Data extracted from Twitter regarding the recent currency demonetization",
+  "descriptionNullable": "# Context\n\nThe **demonetization of \u20b9500 and \u20b91000** banknotes was a step taken by the **Government of India** on 8 November 2016, ceasing the usage of all \u20b9500 and \u20b91000 banknotes of the Mahatma Gandhi Series as a form of legal tender in India from 9 November 2016.\n\nThe announcement was made by the Prime Minister of India **Narendra Modi** in an unscheduled live televised address to the nation at 20:15 Indian Standard Time (IST) the same day. In the announcement, Modi declared circulation of all \u20b9500 and \u20b91000 banknotes of the Mahatma Gandhi Series as invalid and announced the issuance of new \u20b9500 and \u20b92000 banknotes of the Mahatma Gandhi New Series in exchange for the old banknotes.\n\n# Content\n\nThe data contains 6000 most recent tweets on #demonetization. There are 6000 rows(one for each tweet) and 14 columns.\n\n## Metadata:\n\n* Text (Tweets)\n* favorited\n* favoriteCount\n* replyToSN\n* created\n* truncated\n* replyToSID\n* id\n* replyToUID\n* statusSource\n* screenName\n* retweetCount\n* isRetweet\n* retweeted\n\n# Acknowledgement\n\nThe data was collected using the **\"twitteR\"** package in R using the twitter API.\n\n# Past Research\n\nI have performed my own analysis on the data. I only did a sentiment analysis and formed a word cloud.\n\n[Click here to see the analysis on GitHub](https://github.com/arathee2/demonetization-india/blob/master/demonetization-sentiment-analysis.md)\n\n# Inspiration\n\n* What percentage of tweets are negative, positive or neutral ?\n* What are the most famous/re-tweeted tweets ?",
+  "datasetId": 430,
+  "datasetSlug": "demonetization-in-india-twitter-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "arathee2",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 65013,
+  "totalVotes": 122,
+  "totalDownloads": 7017,
+  "title": "Demonetization in India Twitter Data",
+  "hasTitle": true,
+  "subtitle": "Data extracted from Twitter regarding the recent currency demonetization",
+  "hasSubtitle": true,
+  "description": "# Context\n\nThe **demonetization of \u20b9500 and \u20b91000** banknotes was a step taken by the **Government of India** on 8 November 2016, ceasing the usage of all \u20b9500 and \u20b91000 banknotes of the Mahatma Gandhi Series as a form of legal tender in India from 9 November 2016.\n\nThe announcement was made by the Prime Minister of India **Narendra Modi** in an unscheduled live televised address to the nation at 20:15 Indian Standard Time (IST) the same day. In the announcement, Modi declared circulation of all \u20b9500 and \u20b91000 banknotes of the Mahatma Gandhi Series as invalid and announced the issuance of new \u20b9500 and \u20b92000 banknotes of the Mahatma Gandhi New Series in exchange for the old banknotes.\n\n# Content\n\nThe data contains 6000 most recent tweets on #demonetization. There are 6000 rows(one for each tweet) and 14 columns.\n\n## Metadata:\n\n* Text (Tweets)\n* favorited\n* favoriteCount\n* replyToSN\n* created\n* truncated\n* replyToSID\n* id\n* replyToUID\n* statusSource\n* screenName\n* retweetCount\n* isRetweet\n* retweeted\n\n# Acknowledgement\n\nThe data was collected using the **\"twitteR\"** package in R using the twitter API.\n\n# Past Research\n\nI have performed my own analysis on the data. I only did a sentiment analysis and formed a word cloud.\n\n[Click here to see the analysis on GitHub](https://github.com/arathee2/demonetization-india/blob/master/demonetization-sentiment-analysis.md)\n\n# Inspiration\n\n* What percentage of tweets are negative, positive or neutral ?\n* What are the most famous/re-tweeted tweets ?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "internet",
+    "currencies and foreign exchange",
+    "email and messaging",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mahmoudnoor/high-resolution-catdogbird-image-dataset-13000",
+  "id_no": 1898241,
+  "datasetSlugNullable": "high-resolution-catdogbird-image-dataset-13000",
+  "ownerUserNullable": "mahmoudnoor",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "High Resolution Cat-Dog-Bird Image Dataset (13000)",
+  "subtitleNullable": "+13000 high resolution images scrabbed from Instagram and manually filtered",
+  "descriptionNullable": "### Data Description\n\nThe training archive contains **+13,000 High Resolution** images of **dogs, cats and birds** each of them is contained in its own folder read the data from them and train test split your data.\n\n### Note\n\n**don't forget to use the data augmentation approach so that you can have even larger dataset**\n\n### about the Data\n\nbirds =&gt; 4149 image ------- indexed from 0 =&gt; 4148\ncat =&gt; 4015 image ------- indexed from 0 =&gt; 4014\ndog =&gt; 5180 image ------- indexed from 0 =&gt; 5179",
+  "datasetId": 1898241,
+  "datasetSlug": "high-resolution-catdogbird-image-dataset-13000",
+  "hasDatasetSlug": true,
+  "ownerUser": "mahmoudnoor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3812,
+  "totalVotes": 13,
+  "totalDownloads": 784,
+  "title": "High Resolution Cat-Dog-Bird Image Dataset (13000)",
+  "hasTitle": true,
+  "subtitle": "+13000 high resolution images scrabbed from Instagram and manually filtered",
+  "hasSubtitle": true,
+  "description": "### Data Description\n\nThe training archive contains **+13,000 High Resolution** images of **dogs, cats and birds** each of them is contained in its own folder read the data from them and train test split your data.\n\n### Note\n\n**don't forget to use the data augmentation approach so that you can have even larger dataset**\n\n### about the Data\n\nbirds =&gt; 4149 image ------- indexed from 0 =&gt; 4148\ncat =&gt; 4015 image ------- indexed from 0 =&gt; 4014\ndog =&gt; 5180 image ------- indexed from 0 =&gt; 5179",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

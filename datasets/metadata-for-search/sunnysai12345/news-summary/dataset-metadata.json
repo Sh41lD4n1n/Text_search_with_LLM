@@ -1,0 +1,42 @@
+{
+  "id": "sunnysai12345/news-summary",
+  "id_no": 1895,
+  "datasetSlugNullable": "news-summary",
+  "ownerUserNullable": "sunnysai12345",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "NEWS SUMMARY",
+  "subtitleNullable": "Generating short length descriptions of news articles.",
+  "descriptionNullable": "### Context\n\nI am currently working on summarizing chat context where it helps an agent in understanding previous context quickly. It interests me to apply the deep learning models to existing datasets and how they perform on them. I believe news articles are rich in grammar and vocabulary which allows us to gain greater insights.\n\n\n### Content\n\nThe dataset consists of 4515 examples and contains Author_name, Headlines, Url of Article, Short text, Complete Article. I gathered the summarized news from Inshorts and only scraped the news articles from Hindu, Indian times and Guardian.  Time period ranges from febrauary to august 2017.\n\n### Acknowledgements\n\nI would like to thank the authors of Inshorts for their amazing work\n\n### Inspiration\n\n* Generating short length descriptions(headlines) from text(news articles).\n* Summarizing large amount of information which can be represented in compressed space\n\n###Purpose\n\nWhen I was working on the summarization task I didn't find any open source data-sets to work on, I believe there are people just like me who are working on these tasks and I hope it helps them.\n\n###Contributions\n\nIt will be really helpful if anyone found nice insights from this data and can share their work. Thankyou...!!!\n\nFor those who are interested here is the link for the github code which includes the scripts for scraping.\nhttps://github.com/sunnysai12345/News_Summary",
+  "datasetId": 1895,
+  "datasetSlug": "news-summary",
+  "hasDatasetSlug": true,
+  "ownerUser": "sunnysai12345",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 135290,
+  "totalVotes": 214,
+  "totalDownloads": 18446,
+  "title": "NEWS SUMMARY",
+  "hasTitle": true,
+  "subtitle": "Generating short length descriptions of news articles.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI am currently working on summarizing chat context where it helps an agent in understanding previous context quickly. It interests me to apply the deep learning models to existing datasets and how they perform on them. I believe news articles are rich in grammar and vocabulary which allows us to gain greater insights.\n\n\n### Content\n\nThe dataset consists of 4515 examples and contains Author_name, Headlines, Url of Article, Short text, Complete Article. I gathered the summarized news from Inshorts and only scraped the news articles from Hindu, Indian times and Guardian.  Time period ranges from febrauary to august 2017.\n\n### Acknowledgements\n\nI would like to thank the authors of Inshorts for their amazing work\n\n### Inspiration\n\n* Generating short length descriptions(headlines) from text(news articles).\n* Summarizing large amount of information which can be represented in compressed space\n\n###Purpose\n\nWhen I was working on the summarization task I didn't find any open source data-sets to work on, I believe there are people just like me who are working on these tasks and I hope it helps them.\n\n###Contributions\n\nIt will be really helpful if anyone found nice insights from this data and can share their work. Thankyou...!!!\n\nFor those who are interested here is the link for the github code which includes the scripts for scraping.\nhttps://github.com/sunnysai12345/News_Summary",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "linguistics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

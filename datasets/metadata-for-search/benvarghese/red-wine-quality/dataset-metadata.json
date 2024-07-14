@@ -1,0 +1,39 @@
+{
+  "id": "benvarghese/red-wine-quality",
+  "id_no": 4252225,
+  "datasetSlugNullable": "red-wine-quality",
+  "ownerUserNullable": "benvarghese",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Red Wine Quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4252225,
+  "datasetSlug": "red-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "benvarghese",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 73,
+  "totalVotes": 2,
+  "totalDownloads": 14,
+  "title": "Red Wine Quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

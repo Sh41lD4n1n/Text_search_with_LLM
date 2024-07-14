@@ -1,0 +1,58 @@
+{
+  "id": "utkarshsaxenadn/animal-image-classification-dataset",
+  "id_no": 2610296,
+  "datasetSlugNullable": "animal-image-classification-dataset",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Animal Species Classification - V3 ",
+  "subtitleNullable": "Animal Classification Dataset for Multi-Class Image Classification task",
+  "descriptionNullable": "# Idea\n\nThe vision behind creating this dataset is to have a data set for classifying animal species. A lot of animal species can be included in this data set, which is why it gets revised regularly. This will help to create a machine-learning model that can accurately classify animal species.\n\n---\n# Class Distribution\n\nThis is **Animal Classification Data-set** made for the **Multi-Class Image Recognition Task**. The dataset contains **15 Classes**, these classes are : \n\n1. **Beetle**\n2. **Butterfly**\n3. **Cat**\n4. **Cow**\n5. **Dog**\n6. **Elephant**\n7. **Gorilla**\n8. **Hippo**\n9. **Lizard**\n10. **Monkey**\n11. **Mouse**\n12. **Panda**\n13. **Spider**\n14. **Tiger**\n15. **Zebra**\n\n---\n\n# Data Distribution\n\nThe data is split into **6 directories**: \n\n**Interesting Data**\n  * As the name suggests, this folder contains **5 interesting images per class**. These are called **Interesting images** because it will be fascinating to know which class the model allocates to these shots. Based on the model's prediction, we can understand the model's understanding of that class.\n\n**Testing Data**\n * This folder is filled with a random number of images per class. As the name indicates this folder is purposefully made to incorporate testing images, that is images on which the model will be tested after training.\n\n**TFRecords Data** \n  * This folder contains the data in Tensorflow records format. All the images present in TF records format have already been resized to **256 x 256 pixels** and **normalized**.\n\n**Train Augmented**\n  * This time, an additional train augmented data is added to the data set. As per the name, this directory contains augmented images per class. 5 augmented images per original image, in total each class has 10,000 augmented images. This is done to increase the data set size because, With the increase in the total number of classes, the model complexity increases. And thus we require more data to train the model. The best way to get more data is data augmentation. It is highly recommended to shuffle the data before/after loading it.\n\n**Training Images**\n  * Each class is filled with **2000 images** for **training purpose**. This is the data that is used for training the model. In this case, all the images are resized to 256 by 256 pixels and normalized to have the input pixel range of 0 to 1.\n\n**Validation Images**\n  * This folder contains **100/200 images per class**, this is intentionally created for **validation purposes**. Images from this directory will be used at the time of training for **validating** the **model's performance**.\n\n---\n**DeepNets**",
+  "datasetId": 2610296,
+  "datasetSlug": "animal-image-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 22205,
+  "totalVotes": 55,
+  "totalDownloads": 2606,
+  "title": "Animal Species Classification - V3 ",
+  "hasTitle": true,
+  "subtitle": "Animal Classification Dataset for Multi-Class Image Classification task",
+  "hasSubtitle": true,
+  "description": "# Idea\n\nThe vision behind creating this dataset is to have a data set for classifying animal species. A lot of animal species can be included in this data set, which is why it gets revised regularly. This will help to create a machine-learning model that can accurately classify animal species.\n\n---\n# Class Distribution\n\nThis is **Animal Classification Data-set** made for the **Multi-Class Image Recognition Task**. The dataset contains **15 Classes**, these classes are : \n\n1. **Beetle**\n2. **Butterfly**\n3. **Cat**\n4. **Cow**\n5. **Dog**\n6. **Elephant**\n7. **Gorilla**\n8. **Hippo**\n9. **Lizard**\n10. **Monkey**\n11. **Mouse**\n12. **Panda**\n13. **Spider**\n14. **Tiger**\n15. **Zebra**\n\n---\n\n# Data Distribution\n\nThe data is split into **6 directories**: \n\n**Interesting Data**\n  * As the name suggests, this folder contains **5 interesting images per class**. These are called **Interesting images** because it will be fascinating to know which class the model allocates to these shots. Based on the model's prediction, we can understand the model's understanding of that class.\n\n**Testing Data**\n * This folder is filled with a random number of images per class. As the name indicates this folder is purposefully made to incorporate testing images, that is images on which the model will be tested after training.\n\n**TFRecords Data** \n  * This folder contains the data in Tensorflow records format. All the images present in TF records format have already been resized to **256 x 256 pixels** and **normalized**.\n\n**Train Augmented**\n  * This time, an additional train augmented data is added to the data set. As per the name, this directory contains augmented images per class. 5 augmented images per original image, in total each class has 10,000 augmented images. This is done to increase the data set size because, With the increase in the total number of classes, the model complexity increases. And thus we require more data to train the model. The best way to get more data is data augmentation. It is highly recommended to shuffle the data before/after loading it.\n\n**Training Images**\n  * Each class is filled with **2000 images** for **training purpose**. This is the data that is used for training the model. In this case, all the images are resized to 256 by 256 pixels and normalized to have the input pixel range of 0 to 1.\n\n**Validation Images**\n  * This folder contains **100/200 images per class**, this is intentionally created for **validation purposes**. Images from this directory will be used at the time of training for **validating** the **model's performance**.\n\n---\n**DeepNets**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "computer science",
+    "computer vision",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "notaashman",
+      "role": "reader"
+    },
+    {
+      "username": "shreshthjain",
+      "role": "reader"
+    },
+    {
+      "username": "khanakagrawal",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

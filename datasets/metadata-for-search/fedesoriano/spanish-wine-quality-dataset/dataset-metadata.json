@@ -1,0 +1,43 @@
+{
+  "id": "fedesoriano/spanish-wine-quality-dataset",
+  "id_no": 2125691,
+  "datasetSlugNullable": "spanish-wine-quality-dataset",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Spanish Wine Quality Dataset",
+  "subtitleNullable": "Model wine quality based on reviews and description",
+  "descriptionNullable": "### Similar Datasets\n\n- CERN Proton Collision Dataset: [LINK](https://www.kaggle.com/fedesoriano/multijet-primary-dataset)\n- Airfoil Self-Noise Dataset: [LINK](https://www.kaggle.com/fedesoriano/airfoil-selfnoise-dataset)\n- CERN Electron Collision Data: [LINK](https://www.kaggle.com/fedesoriano/cern-electron-collision-data)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Stellar Classification Dataset - SDSS17: [LINK](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)\n\n\n### Context\n\nThis dataset is related to red variants of spanish wines. The dataset describes several popularity and description metrics their effect on it's quality. The datasets can be used for classification or regression tasks. The classes are ordered and not balanced (i.e. the quality goes from almost 5 to 4 points). The task is to predict either the quality of wine or the prices using the given data.\n\n\n### Content\n\nThe dataset contains 7500 different types of red wines from Spain with 11 features that describe their price, rating, and even some flavor description. The was collected by me using web scraping from different sources (from wine specialized pages to supermarkets). Please acknowledge the hard work to obtain and create this dataset, you can upvote it if you find it useful to use on your projects :)\n\nIf the dataset becomes popular I will probably try to create a bigger version with wines from other countries and a wider spectrum of ratings.\n\n\n### Attribute Information\n\n1. winery: Winery name\n1. wine: Name of the wine\n1. year: Year in which the grapes were harvested\n1. rating: Average rating given to the wine by the users [from 1-5]\n1. num_reviews: Number of users that reviewed the wine\n1. country: Country of origin [Spain]\n1. region: Region of the wine\n1. price: Price in euros [\u20ac]\n1. type: Wine variety\n1. body: Body score, defined as the richness and weight of the wine in your mouth [from 1-5]\n1. acidity: Acidity score, defined as wine's \u201cpucker\u201d or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]\n\n\n### Citation Request\n\nIf you want to cite this data:\n&gt; fedesoriano. (April 2022). Spanish Wine Quality Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset",
+  "datasetId": 2125691,
+  "datasetSlug": "spanish-wine-quality-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 52376,
+  "totalVotes": 119,
+  "totalDownloads": 7212,
+  "title": "Spanish Wine Quality Dataset",
+  "hasTitle": true,
+  "subtitle": "Model wine quality based on reviews and description",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets\n\n- CERN Proton Collision Dataset: [LINK](https://www.kaggle.com/fedesoriano/multijet-primary-dataset)\n- Airfoil Self-Noise Dataset: [LINK](https://www.kaggle.com/fedesoriano/airfoil-selfnoise-dataset)\n- CERN Electron Collision Data: [LINK](https://www.kaggle.com/fedesoriano/cern-electron-collision-data)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Stellar Classification Dataset - SDSS17: [LINK](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)\n\n\n### Context\n\nThis dataset is related to red variants of spanish wines. The dataset describes several popularity and description metrics their effect on it's quality. The datasets can be used for classification or regression tasks. The classes are ordered and not balanced (i.e. the quality goes from almost 5 to 4 points). The task is to predict either the quality of wine or the prices using the given data.\n\n\n### Content\n\nThe dataset contains 7500 different types of red wines from Spain with 11 features that describe their price, rating, and even some flavor description. The was collected by me using web scraping from different sources (from wine specialized pages to supermarkets). Please acknowledge the hard work to obtain and create this dataset, you can upvote it if you find it useful to use on your projects :)\n\nIf the dataset becomes popular I will probably try to create a bigger version with wines from other countries and a wider spectrum of ratings.\n\n\n### Attribute Information\n\n1. winery: Winery name\n1. wine: Name of the wine\n1. year: Year in which the grapes were harvested\n1. rating: Average rating given to the wine by the users [from 1-5]\n1. num_reviews: Number of users that reviewed the wine\n1. country: Country of origin [Spain]\n1. region: Region of the wine\n1. price: Price in euros [\u20ac]\n1. type: Wine variety\n1. body: Body score, defined as the richness and weight of the wine in your mouth [from 1-5]\n1. acidity: Acidity score, defined as wine's \u201cpucker\u201d or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]\n\n\n### Citation Request\n\nIf you want to cite this data:\n&gt; fedesoriano. (April 2022). Spanish Wine Quality Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "beginner",
+    "classification",
+    "regression",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

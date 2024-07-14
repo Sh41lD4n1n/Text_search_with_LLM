@@ -1,0 +1,40 @@
+{
+  "id": "aadilmalik94/trafficsigns",
+  "id_no": 160905,
+  "datasetSlugNullable": "trafficsigns",
+  "ownerUserNullable": "aadilmalik94",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "TrafficSigns",
+  "subtitleNullable": "Traffic Signs Data ",
+  "descriptionNullable": "",
+  "datasetId": 160905,
+  "datasetSlug": "trafficsigns",
+  "hasDatasetSlug": true,
+  "ownerUser": "aadilmalik94",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 2856,
+  "totalVotes": 6,
+  "totalDownloads": 246,
+  "title": "TrafficSigns",
+  "hasTitle": true,
+  "subtitle": "Traffic Signs Data ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

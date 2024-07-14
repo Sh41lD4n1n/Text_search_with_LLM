@@ -1,0 +1,43 @@
+{
+  "id": "jpmiller/layoutlm",
+  "id_no": 841565,
+  "datasetSlugNullable": "layoutlm",
+  "ownerUserNullable": "jpmiller",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Healthcare NLP: LLMs, Transformers, Datasets",
+  "subtitleNullable": "Models and medical data to promote data science in healthcare",
+  "descriptionNullable": "Improving healthcare is one of the most promising and meaningful applications of data science. This dataset includes data and NLP-type models, including LLMs, to accomplish a variety of tasks:\n - sequence to sequence\n - summarization \n- q & a\n - token labeling \n - text classification\n - other! \n\nThere are three categories of models here: \n - Large Language Models for healthcare\n- Transformers tailored for medical applications \n - LayoutLM transformers for semi-structured documents such as patient forms\n \nThe data files are from MedQuAD: the Medical Question Answering Dataset. It's well-suited for use with the models. \n\nI hope you find this dataset useful for language-based exploration in healthcare!\n",
+  "datasetId": 841565,
+  "datasetSlug": "layoutlm",
+  "hasDatasetSlug": true,
+  "ownerUser": "jpmiller",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 61384,
+  "totalVotes": 134,
+  "totalDownloads": 4171,
+  "title": "Healthcare NLP: LLMs, Transformers, Datasets",
+  "hasTitle": true,
+  "subtitle": "Models and medical data to promote data science in healthcare",
+  "hasSubtitle": true,
+  "description": "Improving healthcare is one of the most promising and meaningful applications of data science. This dataset includes data and NLP-type models, including LLMs, to accomplish a variety of tasks:\n - sequence to sequence\n - summarization \n- q & a\n - token labeling \n - text classification\n - other! \n\nThere are three categories of models here: \n - Large Language Models for healthcare\n- Transformers tailored for medical applications \n - LayoutLM transformers for semi-structured documents such as patient forms\n \nThe data files are from MedQuAD: the Medical Question Answering Dataset. It's well-suited for use with the models. \n\nI hope you find this dataset useful for language-based exploration in healthcare!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "nlp",
+    "deep learning",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vsat156383/bollywood-hits-from-1947-2022-from-wikipedia",
+  "id_no": 3340081,
+  "datasetSlugNullable": "bollywood-hits-from-1947-2022-from-wikipedia",
+  "ownerUserNullable": "vsat156383",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Bollywood hits from 1947-2022, from Wikipedia",
+  "subtitleNullable": "Using AI to understand the evolution of female representation in Bollywood hits",
+  "descriptionNullable": "## Intro\nThis dataset has the top box-office hits for each year in the Hindi/Bollywood film industry, from 1947 to 2022 (75 years). Usually there are 10 hits for each year, but some years have fewer, so in the end we have information about 740 movies. The code used to create this dataset can be found at [this Github location](https://github.com/venusatuluri/analyses/tree/main/bollywood). \n\n## Why a new dataset?\nOther Bollywood movies datasets I found did not cover the time period I was interested in. I also wanted to understand the evolution of female representation in Bollywood hits, and I needed new columns for this. \n\n## Details\nThere are two files here, `hindi_hits_from_1947_to_2022.json` (~6MB) and `hindi_hits_from_1947_to_2022_ai_enhanced.json` (~500KB). \n\n`hindi_hits_from_1947_to_2022.json` has one line of json for each movie, with the following fields. The first 3 fields: \"year\", \"title\", \"movie_url\" are self-explanatory. The 4th field is \"paras\", which is an array of all the paragraphs in the Wikipedia article about the movie, with paras with fewer than 50 characters being discarded.  The 5th field is \"infobox\", and it contains the information from the side infobox about the director, cast etc. \n\n`hindi_hits_from_1947_to_2022_ai_enhanced.json` is mostly the result of processing the first file through OpenAI's text-davinci-003 model. For each movie, we get the first 1000 characters of text from the first 2 paragraphs in the Wiki article, and the first 500 characters from the infobox text. We then give the following prompt to the AI, which is also a good description of the json fields in the output:\n*Process the following movie information and return json. \nKeys of the json should be 'plot', 'revenue', 'genres',\n'cast', 'director', and 'female-led'. \n'plot' is a one sentence plot summary.\n'genres' is an array of strings.\n'revenue' is the box office revenue, a currency number with units. \n'cast' is an array of dicts with keys 'name' and 'gender'. \n'director' is a dict with keys 'name' and 'gender'. \n'female-led' is a boolean that is true if the plot of the movie\nis primarily female led. E.g. \"boy falls in love with girl\" is not female led. \n\"girl goes on a journey to discover her true self\" is female led. *\n\n## Why use AI?\nI was interested in getting the genders of the director and the cast of each movie, and doing this by myself would've required writing a gender classifier or manually assigning genders. I also wanted to know whether each movie was \n\"female-led\" in some sense, and manually doing this classification was going to be tough. \n\n## Assessment of AI response quality\n* Very good: Extracting genres, director and actor names, and gender assignments. I could rarely find a mistake here. \n* Decent: Classifying a movie as *female-led* or not. There were a fair number of false positives which I manually overwrote in my usage. I will upload my notebook which will show the movies I consider to be false positives. \n* Bad: Plot summary and revenue. The plot summaries leave much to be desired in comparison to TMDB. The revenue is inconsistently formatted. Ultimately I did not use either of these fields in my analysis but I am letting these fields remain since they may still have salvageable information. \n\n",
+  "datasetId": 3340081,
+  "datasetSlug": "bollywood-hits-from-1947-2022-from-wikipedia",
+  "hasDatasetSlug": true,
+  "ownerUser": "vsat156383",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 223,
+  "totalVotes": 0,
+  "totalDownloads": 52,
+  "title": "Bollywood hits from 1947-2022, from Wikipedia",
+  "hasTitle": true,
+  "subtitle": "Using AI to understand the evolution of female representation in Bollywood hits",
+  "hasSubtitle": true,
+  "description": "## Intro\nThis dataset has the top box-office hits for each year in the Hindi/Bollywood film industry, from 1947 to 2022 (75 years). Usually there are 10 hits for each year, but some years have fewer, so in the end we have information about 740 movies. The code used to create this dataset can be found at [this Github location](https://github.com/venusatuluri/analyses/tree/main/bollywood). \n\n## Why a new dataset?\nOther Bollywood movies datasets I found did not cover the time period I was interested in. I also wanted to understand the evolution of female representation in Bollywood hits, and I needed new columns for this. \n\n## Details\nThere are two files here, `hindi_hits_from_1947_to_2022.json` (~6MB) and `hindi_hits_from_1947_to_2022_ai_enhanced.json` (~500KB). \n\n`hindi_hits_from_1947_to_2022.json` has one line of json for each movie, with the following fields. The first 3 fields: \"year\", \"title\", \"movie_url\" are self-explanatory. The 4th field is \"paras\", which is an array of all the paragraphs in the Wikipedia article about the movie, with paras with fewer than 50 characters being discarded.  The 5th field is \"infobox\", and it contains the information from the side infobox about the director, cast etc. \n\n`hindi_hits_from_1947_to_2022_ai_enhanced.json` is mostly the result of processing the first file through OpenAI's text-davinci-003 model. For each movie, we get the first 1000 characters of text from the first 2 paragraphs in the Wiki article, and the first 500 characters from the infobox text. We then give the following prompt to the AI, which is also a good description of the json fields in the output:\n*Process the following movie information and return json. \nKeys of the json should be 'plot', 'revenue', 'genres',\n'cast', 'director', and 'female-led'. \n'plot' is a one sentence plot summary.\n'genres' is an array of strings.\n'revenue' is the box office revenue, a currency number with units. \n'cast' is an array of dicts with keys 'name' and 'gender'. \n'director' is a dict with keys 'name' and 'gender'. \n'female-led' is a boolean that is true if the plot of the movie\nis primarily female led. E.g. \"boy falls in love with girl\" is not female led. \n\"girl goes on a journey to discover her true self\" is female led. *\n\n## Why use AI?\nI was interested in getting the genders of the director and the cast of each movie, and doing this by myself would've required writing a gender classifier or manually assigning genders. I also wanted to know whether each movie was \n\"female-led\" in some sense, and manually doing this classification was going to be tough. \n\n## Assessment of AI response quality\n* Very good: Extracting genres, director and actor names, and gender assignments. I could rarely find a mistake here. \n* Decent: Classifying a movie as *female-led* or not. There were a fair number of false positives which I manually overwrote in my usage. I will upload my notebook which will show the movies I consider to be false positives. \n* Bad: Plot summary and revenue. The plot summaries leave much to be desired in comparison to TMDB. The revenue is inconsistently formatted. Ultimately I did not use either of these fields in my analysis but I am letting these fields remain since they may still have salvageable information. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

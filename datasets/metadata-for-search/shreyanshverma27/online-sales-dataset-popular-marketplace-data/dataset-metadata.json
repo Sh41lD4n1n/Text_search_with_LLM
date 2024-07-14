@@ -1,0 +1,44 @@
+{
+  "id": "shreyanshverma27/online-sales-dataset-popular-marketplace-data",
+  "id_no": 5085377,
+  "datasetSlugNullable": "online-sales-dataset-popular-marketplace-data",
+  "ownerUserNullable": "shreyanshverma27",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Online Sales Dataset - Popular Marketplace Data",
+  "subtitleNullable": "Global Transactions Across Various Product Categories",
+  "descriptionNullable": "This dataset provides a comprehensive overview of online sales transactions across different product categories. Each row represents a single transaction with detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method.\n\n##  **Columns:**\n\n- **Order ID:** Unique identifier for each sales order.\n- **Date:**Date of the sales transaction.\n- **Category:**Broad category of the product sold (e.g., Electronics, Home Appliances, Clothing, Books, Beauty Products, Sports).\n- **Product Name:**Specific name or model of the product sold.\n- **Quantity:**Number of units of the product sold in the transaction.\n- **Unit Price:**Price of one unit of the product.\n- **Total Price:** Total revenue generated from the sales transaction (Quantity * Unit Price).\n- **Region:**Geographic region where the transaction occurred (e.g., North America, Europe, Asia).\n- **Payment Method:** Method used for payment (e.g., Credit Card, PayPal, Debit Card).\n\n##  **Insights:**\n\n- *1. Analyze sales trends over time to identify seasonal patterns or growth opportunities.*\n- *2. Explore the popularity of different product categories across regions.*\n- *3. Investigate the impact of payment methods on sales volume or revenue.*\n- *4. Identify top-selling products within each category to optimize inventory and marketing strategies.*\n- *5. Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly.*",
+  "datasetId": 5085377,
+  "datasetSlug": "online-sales-dataset-popular-marketplace-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyanshverma27",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 44420,
+  "totalVotes": 219,
+  "totalDownloads": 12390,
+  "title": "Online Sales Dataset - Popular Marketplace Data",
+  "hasTitle": true,
+  "subtitle": "Global Transactions Across Various Product Categories",
+  "hasSubtitle": true,
+  "description": "This dataset provides a comprehensive overview of online sales transactions across different product categories. Each row represents a single transaction with detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method.\n\n##  **Columns:**\n\n- **Order ID:** Unique identifier for each sales order.\n- **Date:**Date of the sales transaction.\n- **Category:**Broad category of the product sold (e.g., Electronics, Home Appliances, Clothing, Books, Beauty Products, Sports).\n- **Product Name:**Specific name or model of the product sold.\n- **Quantity:**Number of units of the product sold in the transaction.\n- **Unit Price:**Price of one unit of the product.\n- **Total Price:** Total revenue generated from the sales transaction (Quantity * Unit Price).\n- **Region:**Geographic region where the transaction occurred (e.g., North America, Europe, Asia).\n- **Payment Method:** Method used for payment (e.g., Credit Card, PayPal, Debit Card).\n\n##  **Insights:**\n\n- *1. Analyze sales trends over time to identify seasonal patterns or growth opportunities.*\n- *2. Explore the popularity of different product categories across regions.*\n- *3. Investigate the impact of payment methods on sales volume or revenue.*\n- *4. Identify top-selling products within each category to optimize inventory and marketing strategies.*\n- *5. Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly.*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "e-commerce services",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

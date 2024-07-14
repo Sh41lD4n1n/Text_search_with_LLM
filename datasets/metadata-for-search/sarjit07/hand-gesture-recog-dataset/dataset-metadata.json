@@ -1,0 +1,40 @@
+{
+  "id": "sarjit07/hand-gesture-recog-dataset",
+  "id_no": 573674,
+  "datasetSlugNullable": "hand-gesture-recog-dataset",
+  "ownerUserNullable": "sarjit07",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "hand_gesture_recog_dataset",
+  "subtitleNullable": "Hand Gesture Recognition",
+  "descriptionNullable": "",
+  "datasetId": 573674,
+  "datasetSlug": "hand-gesture-recog-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarjit07",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 4191,
+  "totalVotes": 5,
+  "totalDownloads": 634,
+  "title": "hand_gesture_recog_dataset",
+  "hasTitle": true,
+  "subtitle": "Hand Gesture Recognition",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

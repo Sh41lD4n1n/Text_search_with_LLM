@@ -1,0 +1,43 @@
+{
+  "id": "pragyakatyayan/hindi-tweets-dataset-for-sarcasm-detection",
+  "id_no": 1147513,
+  "datasetSlugNullable": "hindi-tweets-dataset-for-sarcasm-detection",
+  "ownerUserNullable": "pragyakatyayan",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Hindi Tweets Dataset for Sarcasm Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1147513,
+  "datasetSlug": "hindi-tweets-dataset-for-sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "pragyakatyayan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 5686,
+  "totalVotes": 8,
+  "totalDownloads": 688,
+  "title": "Hindi Tweets Dataset for Sarcasm Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "nlp",
+    "text",
+    "multiclass classification",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

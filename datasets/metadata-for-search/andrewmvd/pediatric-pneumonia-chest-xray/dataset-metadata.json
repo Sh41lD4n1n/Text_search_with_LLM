@@ -1,0 +1,41 @@
+{
+  "id": "andrewmvd/pediatric-pneumonia-chest-xray",
+  "id_no": 560711,
+  "datasetSlugNullable": "pediatric-pneumonia-chest-xray",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pediatric Pneumonia Chest X-ray",
+  "subtitleNullable": "5856 Pediatric Chest X-rays for Pneumonia Classification",
+  "descriptionNullable": "### Context\n\n&gt; Pediatric chest X-rays are harder to properly acquire and standardize when compared to adults, as for a children in a dark room, with people watching them from a glass window with strange machinery doesn't make for a comfortable experience.\nAt the same time, children present a different physiology that is important to be captured in X-ray classification algorithms, as most datasets tend to focus on adults only.\n\n\n### Content\n\n&gt; 5,856 Chest X-rays labelled as either pneumonia or normal.\n\n\n### Acknowledgements\nAll credits are due to the authors of the dataset:\n\n&gt; Kermany D, Goldbaum M, Cai W et al. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 2018; 172(5):1122-1131. doi:10.1016/j.cell.2018.02.010\n\nHow to cite this dataset:\n&gt; Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), \u201cLabeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification\u201d, Mendeley Data, v2\nhttp://dx.doi.org/10.17632/rscbjbr9sj.2\n",
+  "datasetId": 560711,
+  "datasetSlug": "pediatric-pneumonia-chest-xray",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 27726,
+  "totalVotes": 53,
+  "totalDownloads": 2618,
+  "title": "Pediatric Pneumonia Chest X-ray",
+  "hasTitle": true,
+  "subtitle": "5856 Pediatric Chest X-rays for Pneumonia Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\n&gt; Pediatric chest X-rays are harder to properly acquire and standardize when compared to adults, as for a children in a dark room, with people watching them from a glass window with strange machinery doesn't make for a comfortable experience.\nAt the same time, children present a different physiology that is important to be captured in X-ray classification algorithms, as most datasets tend to focus on adults only.\n\n\n### Content\n\n&gt; 5,856 Chest X-rays labelled as either pneumonia or normal.\n\n\n### Acknowledgements\nAll credits are due to the authors of the dataset:\n\n&gt; Kermany D, Goldbaum M, Cai W et al. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 2018; 172(5):1122-1131. doi:10.1016/j.cell.2018.02.010\n\nHow to cite this dataset:\n&gt; Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), \u201cLabeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification\u201d, Mendeley Data, v2\nhttp://dx.doi.org/10.17632/rscbjbr9sj.2\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "health",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

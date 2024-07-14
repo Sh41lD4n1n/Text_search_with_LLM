@@ -1,0 +1,43 @@
+{
+  "id": "raj713335/twittesentimentanalysis",
+  "id_no": 3139808,
+  "datasetSlugNullable": "twittesentimentanalysis",
+  "ownerUserNullable": "raj713335",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Twitter Sentiment Analysis",
+  "subtitleNullable": "Twitter Sentiment Analysis on 1 Million Data",
+  "descriptionNullable": "**About Dataset**\n\n**Context**\n\nThis is the Twitter Sentiment Analysis dataset. It contains 1 Million tweets extracted using the Twitter Opensource API. The tweets have been annotated (0 = negative, 4 = positive) and they can be used primarily to detect sentiment.\n\n**Content**\nIt contains the following 6 fields:\n\n**target:** the polarity of the tweet (0 = negative, 2 = neutral, 4 = positive)\n\n**ids:** The id of the tweet ( 2087)\n\n**date:** the date of the tweet (Sat April 15 23:58:44 UTC 2023)\n\n**flag:** The query (lyx). If there is no query, then this value is NO_QUERY.\n\n**user:** The user that tweeted (raj713335)\n\n**text: **the text of the tweet (Lyx is cool)\n\n**Acknowledgments**\nThe official link regarding the dataset with resources about how it was generated is here\nThe official paper detailing the approach is here\n\n**Citation:** Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12.\n\n**Inspiration**\nTo detect severity from tweets. You may have a look at this.",
+  "datasetId": 3139808,
+  "datasetSlug": "twittesentimentanalysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "raj713335",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6344,
+  "totalVotes": 16,
+  "totalDownloads": 719,
+  "title": "Twitter Sentiment Analysis",
+  "hasTitle": true,
+  "subtitle": "Twitter Sentiment Analysis on 1 Million Data",
+  "hasSubtitle": true,
+  "description": "**About Dataset**\n\n**Context**\n\nThis is the Twitter Sentiment Analysis dataset. It contains 1 Million tweets extracted using the Twitter Opensource API. The tweets have been annotated (0 = negative, 4 = positive) and they can be used primarily to detect sentiment.\n\n**Content**\nIt contains the following 6 fields:\n\n**target:** the polarity of the tweet (0 = negative, 2 = neutral, 4 = positive)\n\n**ids:** The id of the tweet ( 2087)\n\n**date:** the date of the tweet (Sat April 15 23:58:44 UTC 2023)\n\n**flag:** The query (lyx). If there is no query, then this value is NO_QUERY.\n\n**user:** The user that tweeted (raj713335)\n\n**text: **the text of the tweet (Lyx is cool)\n\n**Acknowledgments**\nThe official link regarding the dataset with resources about how it was generated is here\nThe official paper detailing the approach is here\n\n**Citation:** Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12.\n\n**Inspiration**\nTo detect severity from tweets. You may have a look at this.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "tabular",
+    "email and messaging",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "inquisitivecrow/crime-data-in-brazil",
+  "id_no": 5013,
+  "datasetSlugNullable": "crime-data-in-brazil",
+  "ownerUserNullable": "inquisitivecrow",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Crime Data in Brazil",
+  "subtitleNullable": "All crime data for 10 years of police work in the biggest city of South America",
+  "descriptionNullable": "### Context\n\nBrazil has a very powerful Freedom of Information law which allows any citizen to request any data from the government which is not restricted, and where these restrictions are well defined exceptions. But still, having the right to request the information does not mean it is easy to get it. Bureaucracy and ignorance of the law gets in the way many times.\nIn order to encourage the government to put their databases in order and to inspire people to have the courage to ask the government for information, we made a massive request of information, for the complete dataset of crime data available for the last 10 years, in the biggest city of South America.\n\n### Content\n\nThis dataset contains structured data about all crime occurrences that have been acted upon by the PM, the main police force in Sao Paulo. The dataset is not consistent in its completeness, as some of the towns comprising the Greater Sao Paulo were slow in collecting full data. It also does not contain the actual historic of each crime report, as that would violate privacy.\n\n\n### Acknowledgements\n\nWe would like to acknowledge the prompt assistance from the SSP (Secretaria de Seguranca Publica), for providing the data with minimal resistance.\n\n\n### Inspiration\n\nPrimarily we would like to see a visualisation of this data, so that the people can have an idea of how crime has evolved in their city, which crimes are more prevalent in which areas, etc.\nIn addition, any model which can predict at what times and where the police is most needed would be helpful, as this can then be sent to the SSP to help them in planning.",
+  "datasetId": 5013,
+  "datasetSlug": "crime-data-in-brazil",
+  "hasDatasetSlug": true,
+  "ownerUser": "inquisitivecrow",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 43775,
+  "totalVotes": 157,
+  "totalDownloads": 5402,
+  "title": "Crime Data in Brazil",
+  "hasTitle": true,
+  "subtitle": "All crime data for 10 years of police work in the biggest city of South America",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBrazil has a very powerful Freedom of Information law which allows any citizen to request any data from the government which is not restricted, and where these restrictions are well defined exceptions. But still, having the right to request the information does not mean it is easy to get it. Bureaucracy and ignorance of the law gets in the way many times.\nIn order to encourage the government to put their databases in order and to inspire people to have the courage to ask the government for information, we made a massive request of information, for the complete dataset of crime data available for the last 10 years, in the biggest city of South America.\n\n### Content\n\nThis dataset contains structured data about all crime occurrences that have been acted upon by the PM, the main police force in Sao Paulo. The dataset is not consistent in its completeness, as some of the towns comprising the Greater Sao Paulo were slow in collecting full data. It also does not contain the actual historic of each crime report, as that would violate privacy.\n\n\n### Acknowledgements\n\nWe would like to acknowledge the prompt assistance from the SSP (Secretaria de Seguranca Publica), for providing the data with minimal resistance.\n\n\n### Inspiration\n\nPrimarily we would like to see a visualisation of this data, so that the people can have an idea of how crime has evolved in their city, which crimes are more prevalent in which areas, etc.\nIn addition, any model which can predict at what times and where the police is most needed would be helpful, as this can then be sent to the SSP to help them in planning.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "crime",
+    "government",
+    "social science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "dohoainam",
+      "role": "writer"
+    },
+    {
+      "username": "longntithutech",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

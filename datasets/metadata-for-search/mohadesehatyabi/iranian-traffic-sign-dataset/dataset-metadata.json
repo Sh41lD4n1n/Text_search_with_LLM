@@ -1,0 +1,45 @@
+{
+  "id": "mohadesehatyabi/iranian-traffic-sign-dataset",
+  "id_no": 3765551,
+  "datasetSlugNullable": "iranian-traffic-sign-dataset",
+  "ownerUserNullable": "mohadesehatyabi",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Iranian Traffic Sign Dataset",
+  "subtitleNullable": "Collection of images with labels for Object Detection",
+  "descriptionNullable": "If you're enthusiastic about computer vision, object detection, or object tracking, your search ends here! Dive into our meticulously curated and annotated dataset featuring a captivating collection of street images from the bustling metropolis of Tehran. Designed for AI researchers, machine learning enthusiasts, and developers engaged in traffic management solutions, this dataset is an invaluable asset for your projects.\n**Key Features:**\n- Distinctive Urban Perspective: Our dataset exclusively focuses on Tehran's dynamic streets, presenting a distinct perspective on the traffic sign challenges encountered in this vibrant urban environment. You can see the path taken to collect this dataset in the image below.\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11064833%2F0e23441a6edb54cdb4bccae919b927d3%2Fstop.png?generation=1696362377112417&alt=media\">\n- High-Quality Annotations: Each image within this dataset has undergone painstaking annotation, providing precise bounding boxes and class labels for a wide array of traffic signs. The annotations are exported in the **Pascal VOC XML** format.\n- Diverse Environmental Scenarios: This dataset encompasses traffic signs in a plethora of environmental conditions, ranging from varying lighting situations to fluctuations in traffic density. Such diversity ensures the robustness and adaptability of your research or development projects.\n- Real-Life Challenges: Included in the dataset are images featuring real-world challenges such as occlusions, partial sign visibility, and alterations in traffic sign appearances due to environmental factors.\n- Extensive Scale: Comprising hundreds of high-resolution images, this dataset offers an extensive data volume for your experimentation needs. This extensive collection facilitates comprehensive model training and rigorous testing of your computer vision algorithms. This dataset provides 1759 images that are split into train and test with the ratio of 80 to 20.  In this dataset, 18 different types of traffic signs are annotated.\n\n**Potential Use Cases:**\n- Traffic Management Innovations: Employ this dataset to conceptualize, develop, and assess traffic management solutions, including real-time traffic sign detection and recognition systems, with the ultimate goal of enhancing road safety.\n- Pioneering Object Detection: Ideal for researchers and aficionados looking to push the boundaries of object detection techniques, this dataset serves as an invaluable benchmark for rigorously assessing your algorithm's performance.\n- Educational Purposes: Educators can integrate this dataset into their curriculum to impart practical, real-world knowledge on machine learning concepts, computer vision, and object detection techniques.\n- Localization Advancements: Assess your localization algorithms' robustness by leveraging the annotated bounding boxes to refine model accuracy.\n- Traffic Sign Classification: Embark on tasks related to traffic sign classification to refine your grasp of traffic sign recognition algorithms.\n You can also annotate this dataset for different objects in the scene such as car, pedestrian, and traffic assets for further computer vision projects. \n\n**Citation:**\nIf you use this dataset in your work, please consider citing it to give credit to the contributors and help others find this valuable resource.\n",
+  "datasetId": 3765551,
+  "datasetSlug": "iranian-traffic-sign-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohadesehatyabi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 467,
+  "totalVotes": 3,
+  "totalDownloads": 46,
+  "title": "Iranian Traffic Sign Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of images with labels for Object Detection",
+  "hasSubtitle": true,
+  "description": "If you're enthusiastic about computer vision, object detection, or object tracking, your search ends here! Dive into our meticulously curated and annotated dataset featuring a captivating collection of street images from the bustling metropolis of Tehran. Designed for AI researchers, machine learning enthusiasts, and developers engaged in traffic management solutions, this dataset is an invaluable asset for your projects.\n**Key Features:**\n- Distinctive Urban Perspective: Our dataset exclusively focuses on Tehran's dynamic streets, presenting a distinct perspective on the traffic sign challenges encountered in this vibrant urban environment. You can see the path taken to collect this dataset in the image below.\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11064833%2F0e23441a6edb54cdb4bccae919b927d3%2Fstop.png?generation=1696362377112417&alt=media\">\n- High-Quality Annotations: Each image within this dataset has undergone painstaking annotation, providing precise bounding boxes and class labels for a wide array of traffic signs. The annotations are exported in the **Pascal VOC XML** format.\n- Diverse Environmental Scenarios: This dataset encompasses traffic signs in a plethora of environmental conditions, ranging from varying lighting situations to fluctuations in traffic density. Such diversity ensures the robustness and adaptability of your research or development projects.\n- Real-Life Challenges: Included in the dataset are images featuring real-world challenges such as occlusions, partial sign visibility, and alterations in traffic sign appearances due to environmental factors.\n- Extensive Scale: Comprising hundreds of high-resolution images, this dataset offers an extensive data volume for your experimentation needs. This extensive collection facilitates comprehensive model training and rigorous testing of your computer vision algorithms. This dataset provides 1759 images that are split into train and test with the ratio of 80 to 20.  In this dataset, 18 different types of traffic signs are annotated.\n\n**Potential Use Cases:**\n- Traffic Management Innovations: Employ this dataset to conceptualize, develop, and assess traffic management solutions, including real-time traffic sign detection and recognition systems, with the ultimate goal of enhancing road safety.\n- Pioneering Object Detection: Ideal for researchers and aficionados looking to push the boundaries of object detection techniques, this dataset serves as an invaluable benchmark for rigorously assessing your algorithm's performance.\n- Educational Purposes: Educators can integrate this dataset into their curriculum to impart practical, real-world knowledge on machine learning concepts, computer vision, and object detection techniques.\n- Localization Advancements: Assess your localization algorithms' robustness by leveraging the annotated bounding boxes to refine model accuracy.\n- Traffic Sign Classification: Embark on tasks related to traffic sign classification to refine your grasp of traffic sign recognition algorithms.\n You can also annotate this dataset for different objects in the scene such as car, pedestrian, and traffic assets for further computer vision projects. \n\n**Citation:**\nIf you use this dataset in your work, please consider citing it to give credit to the contributors and help others find this valuable resource.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "software",
+    "computer vision",
+    "transfer learning",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "name": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

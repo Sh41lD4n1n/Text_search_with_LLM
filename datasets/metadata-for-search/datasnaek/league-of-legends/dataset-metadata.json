@@ -1,0 +1,40 @@
+{
+  "id": "datasnaek/league-of-legends",
+  "id_no": 2361,
+  "datasetSlugNullable": "league-of-legends",
+  "ownerUserNullable": "datasnaek",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "(LoL) League of Legends Ranked Games",
+  "subtitleNullable": "Details from over 50,000 ranked games of LoL",
+  "descriptionNullable": "General Info\n----------------\n\nThis is a collection of over 50,000 ranked EUW games from the game League of Legends, as well as json files containing a way to convert between champion and summoner spell IDs and their names. For each game, there are fields for:\n\n - Game ID\n - Creation Time (in Epoch format)\n - Game Duration (in seconds)\n - Season ID\n - Winner (1 = team1,   2 = team2)\n - First Baron, dragon, tower, blood, inhibitor and Rift Herald (1 = team1,   2 = team2, 0 = none)\n - Champions and summoner spells for each team (Stored as Riot's champion and summoner spell IDs)\n - The number of tower, inhibitor, Baron, dragon and Rift Herald kills each team has\n - The 5 bans of each team (Again, champion IDs are used)\n\nThis dataset was collected using the Riot Games API, which makes it easy to lookup and collect information on a users ranked history and collect their games. However finding a list of usernames is the hard part, in this case I am using a list of usernames scraped from 3rd party LoL sites.\n\nPossible Uses\n-------------\n\nThere is a vast amount of data in just a single LoL game. This dataset takes the most relevant information and makes it available easily for use in things such as attempting to predict the outcome of a LoL game, analysing which in-game events are most likely to lead to victory, understanding how big of an effect bans of a specific champion have, and more.",
+  "datasetId": 2361,
+  "datasetSlug": "league-of-legends",
+  "hasDatasetSlug": true,
+  "ownerUser": "datasnaek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 123824,
+  "totalVotes": 243,
+  "totalDownloads": 12732,
+  "title": "(LoL) League of Legends Ranked Games",
+  "hasTitle": true,
+  "subtitle": "Details from over 50,000 ranked games of LoL",
+  "hasSubtitle": true,
+  "description": "General Info\n----------------\n\nThis is a collection of over 50,000 ranked EUW games from the game League of Legends, as well as json files containing a way to convert between champion and summoner spell IDs and their names. For each game, there are fields for:\n\n - Game ID\n - Creation Time (in Epoch format)\n - Game Duration (in seconds)\n - Season ID\n - Winner (1 = team1,   2 = team2)\n - First Baron, dragon, tower, blood, inhibitor and Rift Herald (1 = team1,   2 = team2, 0 = none)\n - Champions and summoner spells for each team (Stored as Riot's champion and summoner spell IDs)\n - The number of tower, inhibitor, Baron, dragon and Rift Herald kills each team has\n - The 5 bans of each team (Again, champion IDs are used)\n\nThis dataset was collected using the Riot Games API, which makes it easy to lookup and collect information on a users ranked history and collect their games. However finding a list of usernames is the hard part, in this case I am using a list of usernames scraped from 3rd party LoL sites.\n\nPossible Uses\n-------------\n\nThere is a vast amount of data in just a single LoL game. This dataset takes the most relevant information and makes it available easily for use in things such as attempting to predict the outcome of a LoL game, analysing which in-game events are most likely to lead to victory, understanding how big of an effect bans of a specific champion have, and more.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

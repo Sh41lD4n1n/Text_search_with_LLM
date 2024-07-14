@@ -1,0 +1,42 @@
+{
+  "id": "piterfm/fifa-football-world-cup",
+  "id_no": 2650295,
+  "datasetSlugNullable": "fifa-football-world-cup",
+  "ownerUserNullable": "piterfm",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football - FIFA World Cup, 1930 - 2022",
+  "subtitleNullable": "Football/Soccer World Cup history from 1930 to 2022, Qatar all matches",
+  "descriptionNullable": "**Dataset will be updated during World Cup 2022**<br>\n**You may support this project via the upvotes button**\n\n## Description \nThe dataset contains information about all matches and results that took place in Football/Soccer FIFA World Cups.\n- `fifa_ranking_2022-10-06.csv` - teams ranking before Qatar 2022 World Cup.\n- `matches_1930_2022.csv` - table contains all match results from 1930 to 2022.\n- `world_cup.csv` - table includes basic information about each World Cup.\n\n## Related Datasets\n- [Football - FIFA Women's World Cup, 1991 - 2023](https://www.kaggle.com/datasets/piterfm/football-fifa-womens-world-cup-1991-2023)\n- [Football - Soccer - UEFA EURO, 1960 - 2024](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024)\n\n## Table columns\n- `home_team`, `away_team` - Home and Away Teams,\n- `home_score`, `away_score` - Scores,\n- `home_xg`, `away_xg` - XG,\n- `home_penalty`, `away_penalty`- Penalties,\n- `home_manager`, `away_manager` - Managers,\n- `home_captain`, `away_captain` - Captains,\n- `home_goal`, `away_goal` - Scorers (Game),\n- `home_goal_long`, `away_goal_long` - Scorers (+Assistant),\n- `home_own_goal`, `away_own_goal` - Own Goal Scorers (OG),\n- `home_penalty_goal`, `away_penalty_goal` - Scorers (Penalty),\n- `home_penalty_miss_long`, `away_penalty_miss_long` - Miss Penalty (+Miss Reason),\n- `home_penalty_shootout_miss_long`, `away_penalty_shootout_miss_long` - Miss Penalty(After Game),\n- `home_penalty_shootout_goal_long`, `away_penalty_shootout_goal_long`- Penalty (After Game),\n- `home_red_card`, `away_red_card` - Red Cards (Direct),\n- `home_yellow_red_card`, `away_yellow_red_card` - Red Cards (Second Yellow),\n- `home_yellow_card_long`, `away_yellow_card_long` - Yellow Cards,\n- `home_substitute_in_long`, `away_substitute_in_long` - Substitutions,\n- `Attendance`,\n- `Venue`,\n- `Officials`,\n- `Round`,\n- `Date`,\n- `Score`,\n- `Referee`,\n- `Notes`,\n- `Host`,\n- `Year`, ",
+  "datasetId": 2650295,
+  "datasetSlug": "fifa-football-world-cup",
+  "hasDatasetSlug": true,
+  "ownerUser": "piterfm",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24853,
+  "totalVotes": 100,
+  "totalDownloads": 5284,
+  "title": "Football - FIFA World Cup, 1930 - 2022",
+  "hasTitle": true,
+  "subtitle": "Football/Soccer World Cup history from 1930 to 2022, Qatar all matches",
+  "hasSubtitle": true,
+  "description": "**Dataset will be updated during World Cup 2022**<br>\n**You may support this project via the upvotes button**\n\n## Description \nThe dataset contains information about all matches and results that took place in Football/Soccer FIFA World Cups.\n- `fifa_ranking_2022-10-06.csv` - teams ranking before Qatar 2022 World Cup.\n- `matches_1930_2022.csv` - table contains all match results from 1930 to 2022.\n- `world_cup.csv` - table includes basic information about each World Cup.\n\n## Related Datasets\n- [Football - FIFA Women's World Cup, 1991 - 2023](https://www.kaggle.com/datasets/piterfm/football-fifa-womens-world-cup-1991-2023)\n- [Football - Soccer - UEFA EURO, 1960 - 2024](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024)\n\n## Table columns\n- `home_team`, `away_team` - Home and Away Teams,\n- `home_score`, `away_score` - Scores,\n- `home_xg`, `away_xg` - XG,\n- `home_penalty`, `away_penalty`- Penalties,\n- `home_manager`, `away_manager` - Managers,\n- `home_captain`, `away_captain` - Captains,\n- `home_goal`, `away_goal` - Scorers (Game),\n- `home_goal_long`, `away_goal_long` - Scorers (+Assistant),\n- `home_own_goal`, `away_own_goal` - Own Goal Scorers (OG),\n- `home_penalty_goal`, `away_penalty_goal` - Scorers (Penalty),\n- `home_penalty_miss_long`, `away_penalty_miss_long` - Miss Penalty (+Miss Reason),\n- `home_penalty_shootout_miss_long`, `away_penalty_shootout_miss_long` - Miss Penalty(After Game),\n- `home_penalty_shootout_goal_long`, `away_penalty_shootout_goal_long`- Penalty (After Game),\n- `home_red_card`, `away_red_card` - Red Cards (Direct),\n- `home_yellow_red_card`, `away_yellow_red_card` - Red Cards (Second Yellow),\n- `home_yellow_card_long`, `away_yellow_card_long` - Yellow Cards,\n- `home_substitute_in_long`, `away_substitute_in_long` - Substitutions,\n- `Attendance`,\n- `Venue`,\n- `Officials`,\n- `Round`,\n- `Date`,\n- `Score`,\n- `Referee`,\n- `Notes`,\n- `Host`,\n- `Year`, ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "exploratory data analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

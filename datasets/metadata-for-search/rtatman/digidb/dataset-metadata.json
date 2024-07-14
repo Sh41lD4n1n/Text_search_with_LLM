@@ -1,0 +1,43 @@
+{
+  "id": "rtatman/digidb",
+  "id_no": 1593,
+  "datasetSlugNullable": "digidb",
+  "ownerUserNullable": "rtatman",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Digimon Database",
+  "subtitleNullable": "A database of Digimon and their moves from Digimon Story CyberSleuth",
+  "descriptionNullable": "### Context:  \nDigimon, short for \u201cdigital monsters\u201d, is a franchise which revolves around a core mechanic of capturing, caring for and training monsters and then engaging in combat with them. It\u2019s similar to Pok\u00e9mon.\n\nThis dataset contains information on digimon from \u201cDigimon Digimon Story: Cyber Sleuth\u201d, released for Playstation Vita in 2015 and Playstation 4 in 2016. \n\n### Content:\nThis database contains three files: a list of all the digimon that can be captured or fought in Cyber Sleuth, all the moves which Digimon can perform, and all the Support Skills. (Support Skills are a passive, stackable, team-wide buff. Each species of Digimon is associated with a single Support Skill.)\n\n### Acknowledgements: \nThis dataset was created by Mark Korsak and is used here with permission. You can find an interactive version of this database here. http://digidb.io/\n\n### Inspiration: \nThis dataset will help you theorycraft the ultimate team as well as ask interesting questions.\n\n* Which set of moves will get the best ratio of attack power to SP spent?\n* Which team of 3 digimon have the highest attack? Defense?\n* What\u2019s the tradeoff between HP and SP?\n* Are some types over- or under-represented?\n* Both the moves and support skills have short text descriptions. Can an NLP analysis reveal underlying clusters of moves?\n* Are different types and attributes evenly represented across stages?",
+  "datasetId": 1593,
+  "datasetSlug": "digidb",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtatman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 61354,
+  "totalVotes": 87,
+  "totalDownloads": 6094,
+  "title": "Digimon Database",
+  "hasTitle": true,
+  "subtitle": "A database of Digimon and their moves from Digimon Story CyberSleuth",
+  "hasSubtitle": true,
+  "description": "### Context:  \nDigimon, short for \u201cdigital monsters\u201d, is a franchise which revolves around a core mechanic of capturing, caring for and training monsters and then engaging in combat with them. It\u2019s similar to Pok\u00e9mon.\n\nThis dataset contains information on digimon from \u201cDigimon Digimon Story: Cyber Sleuth\u201d, released for Playstation Vita in 2015 and Playstation 4 in 2016. \n\n### Content:\nThis database contains three files: a list of all the digimon that can be captured or fought in Cyber Sleuth, all the moves which Digimon can perform, and all the Support Skills. (Support Skills are a passive, stackable, team-wide buff. Each species of Digimon is associated with a single Support Skill.)\n\n### Acknowledgements: \nThis dataset was created by Mark Korsak and is used here with permission. You can find an interactive version of this database here. http://digidb.io/\n\n### Inspiration: \nThis dataset will help you theorycraft the ultimate team as well as ask interesting questions.\n\n* Which set of moves will get the best ratio of attack power to SP spent?\n* Which team of 3 digimon have the highest attack? Defense?\n* What\u2019s the tradeoff between HP and SP?\n* Are some types over- or under-represented?\n* Both the moves and support skills have short text descriptions. Can an NLP analysis reveal underlying clusters of moves?\n* Are different types and attributes evenly represented across stages?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "anime and manga",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "richeeee/accident-data",
+  "id_no": 3719780,
+  "datasetSlugNullable": "accident-data",
+  "ownerUserNullable": "richeeee",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Road Accident",
+  "subtitleNullable": "Analysis by Power BI",
+  "descriptionNullable": "Project Overview\n\nThis project is aimed at analyzing road accident data and identifying trends and insights related to casualties. The project will leverage several key performance indicators (KPIs) to measure the severity and  the total number of casualties by accident severity, vehicle type, road type, and other factors.\n\nBusiness Case:\nThe business case for this project is to help transportation authorities, law enforcement agencies, and other stakeholders improve traffic safety and reduce the number of casualties caused by road accidents. By analyzing accident data and identifying trends and patterns, these stakeholders can implement targeted interventions to improve road safety and reduce the risk of accidents.\n\nGoal:\nThe goal of this project is to analyze traffic accident data and identify key trends and insights related to casualties. By doing so, the project aims to inform policy and decision-making related to road safety, and ultimately help reduce the number of casualties caused by accidents.\n\nKPIs:\nPrimary KPI:\nTotal Casualties and Total Accident values for Current Year (CY) and YoY growth\n\nPrimary KPI's\nTotal Casualties by Accident Severity for CY  and YoY growth\n\nSecondary KPI's\nTotal casualties with respect to vehicle types for CY\n\nMonthly trend showing comparision of casualties for Current Year and Previous Year\n\nCausalities by Road Type for CY\n\nCY Causalities by Area/Location & by Day/Night\n\nTotal Causalities and Total Accident by Location\n\n\nI have executed this project using Power BI\n\nActivities Carried Out\n\n1 Getting dataset from client \n\nData is available in googledrive link below:\nhttps://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm\n\n2 Stakeholders in Project \n\nKPI's was studied in respect to dataset, also stakeholders holders were determined\n\n3 Raw Data Overview \n4 Connecting Data with Power BI\n5 Data Cleaning\n6 Data Processing\n7 Data Modelling\n8 Background design in Power Point\n9 Data Visualization/ Chart Design\n10 Insights\n\n",
+  "datasetId": 3719780,
+  "datasetSlug": "accident-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "richeeee",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 548,
+  "totalVotes": 0,
+  "totalDownloads": 130,
+  "title": "Road Accident",
+  "hasTitle": true,
+  "subtitle": "Analysis by Power BI",
+  "hasSubtitle": true,
+  "description": "Project Overview\n\nThis project is aimed at analyzing road accident data and identifying trends and insights related to casualties. The project will leverage several key performance indicators (KPIs) to measure the severity and  the total number of casualties by accident severity, vehicle type, road type, and other factors.\n\nBusiness Case:\nThe business case for this project is to help transportation authorities, law enforcement agencies, and other stakeholders improve traffic safety and reduce the number of casualties caused by road accidents. By analyzing accident data and identifying trends and patterns, these stakeholders can implement targeted interventions to improve road safety and reduce the risk of accidents.\n\nGoal:\nThe goal of this project is to analyze traffic accident data and identify key trends and insights related to casualties. By doing so, the project aims to inform policy and decision-making related to road safety, and ultimately help reduce the number of casualties caused by accidents.\n\nKPIs:\nPrimary KPI:\nTotal Casualties and Total Accident values for Current Year (CY) and YoY growth\n\nPrimary KPI's\nTotal Casualties by Accident Severity for CY  and YoY growth\n\nSecondary KPI's\nTotal casualties with respect to vehicle types for CY\n\nMonthly trend showing comparision of casualties for Current Year and Previous Year\n\nCausalities by Road Type for CY\n\nCY Causalities by Area/Location & by Day/Night\n\nTotal Causalities and Total Accident by Location\n\n\nI have executed this project using Power BI\n\nActivities Carried Out\n\n1 Getting dataset from client \n\nData is available in googledrive link below:\nhttps://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm\n\n2 Stakeholders in Project \n\nKPI's was studied in respect to dataset, also stakeholders holders were determined\n\n3 Raw Data Overview \n4 Connecting Data with Power BI\n5 Data Cleaning\n6 Data Processing\n7 Data Modelling\n8 Background design in Power Point\n9 Data Visualization/ Chart Design\n10 Insights\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

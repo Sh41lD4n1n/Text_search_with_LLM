@@ -1,0 +1,42 @@
+{
+  "id": "davidwallach/financial-tweets",
+  "id_no": 37620,
+  "datasetSlugNullable": "financial-tweets",
+  "ownerUserNullable": "davidwallach",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Financial Tweets",
+  "subtitleNullable": "Tweets from verified users concerning stocks traded on the NYSE, NASDAQ, & SNP",
+  "descriptionNullable": "### Context\nI have been interested in using public sentiment and journalism to gather sentiment profiles on publicly traded companies. I first developed a Python package (https://github.com/dwallach1/Stocker) that scrapes the web for articles written about companies, and then noticed the abundance of overlap with Twitter. I then developed a NodeJS project that I have been running on my RaspberryPi to monitor Twitter for all tweets coming from those mentioned in the *content* section. If one of them tweeted about a company in the stocks_cleaned.csv file, then it would write the tweet to the database. Currently, the file is only from earlier today, but after about a month or two, I plan to update the tweets.csv file (hopefully closer to 50,000 entries. \n\nI am not quite sure how this dataset will be relevant, but I hope to use these tweets and try to generate some sense of public sentiment score.  \n\n\n### Content\n\nThis dataset has all the publicly traded companies (tickers and company names) that were used as input to fill the tweets.csv. The influencers whose tweets were monitored were: \n['MarketWatch', 'business', 'YahooFinance', 'TechCrunch', 'WSJ', 'Forbes', 'FT', 'TheEconomist', 'nytimes', 'Reuters', 'GerberKawasaki', 'jimcramer', 'TheStreet', 'TheStalwart', 'TruthGundlach', 'Carl_C_Icahn', 'ReformedBroker', 'benbernanke', 'bespokeinvest', 'BespokeCrypto', 'stlouisfed', 'federalreserve', 'GoldmanSachs', 'ianbremmer', 'MorganStanley', 'AswathDamodaran', 'mcuban', 'muddywatersre', 'StockTwits', 'SeanaNSmith'\n\n\n\n### Acknowledgements\n\nThe data used here is gathered from a project I developed : https://github.com/dwallach1/StockerBot\n\n### Inspiration\n\nI hope to develop a financial sentiment text classifier that would be able to track Twitter's (and the entire public's) feelings about any publicly traded company (and cryptocurrency).",
+  "datasetId": 37620,
+  "datasetSlug": "financial-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidwallach",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 373342,
+  "totalVotes": 285,
+  "totalDownloads": 12183,
+  "title": "Financial Tweets",
+  "hasTitle": true,
+  "subtitle": "Tweets from verified users concerning stocks traded on the NYSE, NASDAQ, & SNP",
+  "hasSubtitle": true,
+  "description": "### Context\nI have been interested in using public sentiment and journalism to gather sentiment profiles on publicly traded companies. I first developed a Python package (https://github.com/dwallach1/Stocker) that scrapes the web for articles written about companies, and then noticed the abundance of overlap with Twitter. I then developed a NodeJS project that I have been running on my RaspberryPi to monitor Twitter for all tweets coming from those mentioned in the *content* section. If one of them tweeted about a company in the stocks_cleaned.csv file, then it would write the tweet to the database. Currently, the file is only from earlier today, but after about a month or two, I plan to update the tweets.csv file (hopefully closer to 50,000 entries. \n\nI am not quite sure how this dataset will be relevant, but I hope to use these tweets and try to generate some sense of public sentiment score.  \n\n\n### Content\n\nThis dataset has all the publicly traded companies (tickers and company names) that were used as input to fill the tweets.csv. The influencers whose tweets were monitored were: \n['MarketWatch', 'business', 'YahooFinance', 'TechCrunch', 'WSJ', 'Forbes', 'FT', 'TheEconomist', 'nytimes', 'Reuters', 'GerberKawasaki', 'jimcramer', 'TheStreet', 'TheStalwart', 'TruthGundlach', 'Carl_C_Icahn', 'ReformedBroker', 'benbernanke', 'bespokeinvest', 'BespokeCrypto', 'stlouisfed', 'federalreserve', 'GoldmanSachs', 'ianbremmer', 'MorganStanley', 'AswathDamodaran', 'mcuban', 'muddywatersre', 'StockTwits', 'SeanaNSmith'\n\n\n\n### Acknowledgements\n\nThe data used here is gathered from a project I developed : https://github.com/dwallach1/StockerBot\n\n### Inspiration\n\nI hope to develop a financial sentiment text classifier that would be able to track Twitter's (and the entire public's) feelings about any publicly traded company (and cryptocurrency).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "investing",
+    "news",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

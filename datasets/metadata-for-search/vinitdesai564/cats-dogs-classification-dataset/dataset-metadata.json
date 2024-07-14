@@ -1,0 +1,43 @@
+{
+  "id": "vinitdesai564/cats-dogs-classification-dataset",
+  "id_no": 5297430,
+  "datasetSlugNullable": "cats-dogs-classification-dataset",
+  "ownerUserNullable": "vinitdesai564",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Cats Dogs Classification dataset",
+  "subtitleNullable": "contains total of 400 images of cats and dogs for making a classification model.",
+  "descriptionNullable": "A simple classification dataset which can used to train your very first CNN model, and get better understanding of Deep learning. It contains around 100 images of cats and dogs with each in its own directory. The data is gathered from WWW(World Wide Web) and is free to use for any user. ",
+  "datasetId": 5297430,
+  "datasetSlug": "cats-dogs-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vinitdesai564",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 11,
+  "totalVotes": 1,
+  "totalDownloads": 1,
+  "title": "Cats Dogs Classification dataset",
+  "hasTitle": true,
+  "subtitle": "contains total of 400 images of cats and dogs for making a classification model.",
+  "hasSubtitle": true,
+  "description": "A simple classification dataset which can used to train your very first CNN model, and get better understanding of Deep learning. It contains around 100 images of cats and dogs with each in its own directory. The data is gathered from WWW(World Wide Web) and is free to use for any user. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

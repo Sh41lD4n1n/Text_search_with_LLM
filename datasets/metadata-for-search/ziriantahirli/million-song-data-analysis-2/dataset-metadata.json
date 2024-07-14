@@ -1,0 +1,39 @@
+{
+  "id": "ziriantahirli/million-song-data-analysis-2",
+  "id_no": 5300397,
+  "datasetSlugNullable": "million-song-data-analysis-2",
+  "ownerUserNullable": "ziriantahirli",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Million Song Data Analysis 2",
+  "subtitleNullable": "Data Analysis Designed to Predict High Stream Count on Spotify",
+  "descriptionNullable": "Did We Solve the Problem?\nThe objective of this analysis was to predict high streaming counts on Spotify and perform a detailed cluster analysis to understand user behavior. Here\u2019s a summary of how we addressed each part of the objective:\n\nPrediction of High Streaming Counts:\n\nImplemented Multiple Models: We utilized several machine learning models including Decision Tree, Random Forest, Gradient Boosting, Support Vector Machine (SVM), and k-Nearest Neighbors (k-NN).\nComparison and Evaluation: These models were evaluated based on classification metrics like accuracy, precision, recall, and F1-score. The Gradient Boosting and Random Forest models were found to be the most effective in predicting high streaming counts.\nCluster Analysis:\n\nK-means Clustering: We applied K-means clustering to segment users into three clusters based on their listening behavior.\nDetailed Characterization: Each cluster was analyzed to understand the distinct characteristics, such as average playtime, skip rate, offline usage, and shuffle usage.\nVisualizations: Histograms and scatter plots were used to visualize the distributions and relationships within each cluster.\nResults and Insights\nEffective Models: The Gradient Boosting and Random Forest models provided the highest accuracy and balanced performance for predicting high streaming counts.\nUser Segmentation: The cluster analysis revealed three distinct user segments:\nCluster 1: Users with longer playtimes and lower skip rates.\nCluster 2: Users with moderate playtimes and skip rates.\nCluster 3: Users with shorter playtimes and higher skip rates.\nThese insights can be leveraged for targeted marketing, personalized recommendations, and improving user engagement on Spotify.\n\nConclusion\nYes, we solved the problem. We successfully predicted high streaming counts using effective machine learning models and provided a detailed cluster analysis to understand user behavior. The analysis offers valuable insights for enhancing Spotify\u2019s recommendation system and user experience.",
+  "datasetId": 5300397,
+  "datasetSlug": "million-song-data-analysis-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "ziriantahirli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Million Song Data Analysis 2",
+  "hasTitle": true,
+  "subtitle": "Data Analysis Designed to Predict High Stream Count on Spotify",
+  "hasSubtitle": true,
+  "description": "Did We Solve the Problem?\nThe objective of this analysis was to predict high streaming counts on Spotify and perform a detailed cluster analysis to understand user behavior. Here\u2019s a summary of how we addressed each part of the objective:\n\nPrediction of High Streaming Counts:\n\nImplemented Multiple Models: We utilized several machine learning models including Decision Tree, Random Forest, Gradient Boosting, Support Vector Machine (SVM), and k-Nearest Neighbors (k-NN).\nComparison and Evaluation: These models were evaluated based on classification metrics like accuracy, precision, recall, and F1-score. The Gradient Boosting and Random Forest models were found to be the most effective in predicting high streaming counts.\nCluster Analysis:\n\nK-means Clustering: We applied K-means clustering to segment users into three clusters based on their listening behavior.\nDetailed Characterization: Each cluster was analyzed to understand the distinct characteristics, such as average playtime, skip rate, offline usage, and shuffle usage.\nVisualizations: Histograms and scatter plots were used to visualize the distributions and relationships within each cluster.\nResults and Insights\nEffective Models: The Gradient Boosting and Random Forest models provided the highest accuracy and balanced performance for predicting high streaming counts.\nUser Segmentation: The cluster analysis revealed three distinct user segments:\nCluster 1: Users with longer playtimes and lower skip rates.\nCluster 2: Users with moderate playtimes and skip rates.\nCluster 3: Users with shorter playtimes and higher skip rates.\nThese insights can be leveraged for targeted marketing, personalized recommendations, and improving user engagement on Spotify.\n\nConclusion\nYes, we solved the problem. We successfully predicted high streaming counts using effective machine learning models and provided a detailed cluster analysis to understand user behavior. The analysis offers valuable insights for enhancing Spotify\u2019s recommendation system and user experience.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

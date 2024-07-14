@@ -1,0 +1,43 @@
+{
+  "id": "thaweewatboy/thailand-road-accident-2019-2022",
+  "id_no": 3641531,
+  "datasetSlugNullable": "thailand-road-accident-2019-2022",
+  "ownerUserNullable": "thaweewatboy",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Thailand Road Accident [2019-2022]",
+  "subtitleNullable": "Recorded road accidents in Thailand, spanning from approximately 2019 to 2022",
+  "descriptionNullable": "This dataset provides comprehensive statistics on recorded road accidents in Thailand, spanning from approximately 2019 to 2022. The data was sourced from raw information provided by the [Office of the Permanent Secretary, Ministry of Transport](https://www.mots.go.th/news/category/411), which is also utilized in this [public dashboard](https://trams.mot.go.th/main-dashboard) for easier access and visualization. The dataset encompasses various aspects of road accidents and aims to shed light on the trends and patterns within this critical area of concern,  analysis of this data could be crucial in guiding road safety policies and measures\ud83d\udc4d.\n\n&gt; **Cleaned and ready-to-use** 3 Years of data points with total 81,735 rows.\n\n\n\n|Column           |Description|\n| ---             | --- |\n|acc_code         |The accident code or identifier.|\n|incident_datetime|The date and time of the accident occurrence.|\n|report_datetime  |The date and time when the accident was reported.|\n|province_th      |The name of the province in Thailand, written in Thai.|\n|province_en      |The name of the province in Thailand, written in English.|\n|agency           |The government agency responsible for the road and traffic management.|\n|route            |The route or road segment where the accident occurred.|\n|vehicle_type     |The type of vehicle involved in the accident.|\n|presumed_cause   |The presumed cause or reason for the accident.|\n|accident_type    |The type or nature of the accident.|\n|number_of_vehicles_involved|The number of vehicles involved in the accident.|\n|number_of_fatalities|The number of fatalities resulting from the accident.|\n|number_of_injuries|The number of injuries resulting from the accident.|\n|weather_condition|The weather condition at the time of the accident.|\n|latitude         |The latitude coordinate of the accident location.|\n|longitude        |The longitude coordinate of the accident location.|\n|road_description |The description of the road type or configuration where the accident occurred.|\n|slope_description|The description of the slope condition at the accident location.|\n",
+  "datasetId": 3641531,
+  "datasetSlug": "thailand-road-accident-2019-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "thaweewatboy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3749,
+  "totalVotes": 11,
+  "totalDownloads": 625,
+  "title": "Thailand Road Accident [2019-2022]",
+  "hasTitle": true,
+  "subtitle": "Recorded road accidents in Thailand, spanning from approximately 2019 to 2022",
+  "hasSubtitle": true,
+  "description": "This dataset provides comprehensive statistics on recorded road accidents in Thailand, spanning from approximately 2019 to 2022. The data was sourced from raw information provided by the [Office of the Permanent Secretary, Ministry of Transport](https://www.mots.go.th/news/category/411), which is also utilized in this [public dashboard](https://trams.mot.go.th/main-dashboard) for easier access and visualization. The dataset encompasses various aspects of road accidents and aims to shed light on the trends and patterns within this critical area of concern,  analysis of this data could be crucial in guiding road safety policies and measures\ud83d\udc4d.\n\n&gt; **Cleaned and ready-to-use** 3 Years of data points with total 81,735 rows.\n\n\n\n|Column           |Description|\n| ---             | --- |\n|acc_code         |The accident code or identifier.|\n|incident_datetime|The date and time of the accident occurrence.|\n|report_datetime  |The date and time when the accident was reported.|\n|province_th      |The name of the province in Thailand, written in Thai.|\n|province_en      |The name of the province in Thailand, written in English.|\n|agency           |The government agency responsible for the road and traffic management.|\n|route            |The route or road segment where the accident occurred.|\n|vehicle_type     |The type of vehicle involved in the accident.|\n|presumed_cause   |The presumed cause or reason for the accident.|\n|accident_type    |The type or nature of the accident.|\n|number_of_vehicles_involved|The number of vehicles involved in the accident.|\n|number_of_fatalities|The number of fatalities resulting from the accident.|\n|number_of_injuries|The number of injuries resulting from the accident.|\n|weather_condition|The weather condition at the time of the accident.|\n|latitude         |The latitude coordinate of the accident location.|\n|longitude        |The longitude coordinate of the accident location.|\n|road_description |The description of the road type or configuration where the accident occurred.|\n|slope_description|The description of the slope condition at the accident location.|\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "beginner",
+    "tabular",
+    "english",
+    "thai"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "adityaghuse/imdb-top-1000",
+  "id_no": 3509720,
+  "datasetSlugNullable": "imdb-top-1000",
+  "ownerUserNullable": "adityaghuse",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "imdb top 1000",
+  "subtitleNullable": "Dataset consist of top 1000 imdb movies",
+  "descriptionNullable": "",
+  "datasetId": 3509720,
+  "datasetSlug": "imdb-top-1000",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityaghuse",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 57,
+  "totalVotes": 7,
+  "totalDownloads": 12,
+  "title": "imdb top 1000",
+  "hasTitle": true,
+  "subtitle": "Dataset consist of top 1000 imdb movies",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "imtkaggleteam/pathogen-detection-salmonella-enterica",
+  "id_no": 3689642,
+  "datasetSlugNullable": "pathogen-detection-salmonella-enterica",
+  "ownerUserNullable": "imtkaggleteam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Pathogen Detection | Salmonella Enterica",
+  "subtitleNullable": "Pathogen detection is important in the diagnosis of disease.",
+  "descriptionNullable": "**Introduction to Pathogen Detection**\n\nAdvances in DNA sequencing technology have made it possible for scientists all over the world to sequence complete microbial genomes rapidly and efficiently. Access to the DNA sequences of entire microbial genomes offers new opportunities to analyze and understand microorganism at the molecular level. Scientists are able to detect pathogens in biological tissues and study variations in gene expression in response to the pathogenic invasion. These responses help in designing novel approaches for microbial pathogen detection and drug development. Identification of certain microbial pathogens as etiologic agents responsible for chronic diseases is leading to new treatments and prevention strategies for these diseases.\nPathogen Detection Mechanism\n\nEach species of pathogens carries with it a unique DNA or RNA signature that differentiate it from other organisms. One of the challenges is to develop this DNA signature for each microorganism of interest for rapid and specific detection.\nPathogen Detection Applications\n\n**Pathogen detection has become an important part of research in many fields like:**\n\n*Biodefense -\n Animal health care -\n Food safety -\n Diagnostics -\n Pathology -\n Clinical research -\n Forensics -\n Drug discovery*\n\n**What is Salmonella Entreica?**\n\nSalmonella enterica (formerly Salmonella choleraesuis) is a rod-headed, flagellate, facultative anaerobic, Gram-negative bacterium and a species of the genus Salmonella. A number of its serovars are serious human pathogens; many of them are (more specifically) serovars of Salmonella enterica subsp. enterica. \nMost cases of salmonellosis are caused by food infected with S. enterica, which often infects cattle and poultry, though other animals such as domestic cats and hamsters have also been shown to be sources of infection in humans. Investigations of vacuum cleaner bags have shown that households can act as a reservoir of the bacterium; this is more likely if the household has contact with an infection source (i.e., members working with cattle or in a veterinary clinic).\n\n**What we have in this dataset?**\n\nThe system provides two major automated real-time analyses: 1) it quickly clusters related pathogen genome sequences to identify potential transmission chains, helping public health scientists investigate disease outbreaks, and 2) as part of the National Database of Antibiotic Resistant Organisms (NDARO), NCBI screens genomic sequences using AMRFinderPlus to identify the antimicrobial resistance, stress response, and virulence genes found in bacterial genomic sequences, which enables scientists to track the spread of resistance genes and to understand the relationships among antimicrobial resistance, stress response, and virulence. ",
+  "datasetId": 3689642,
+  "datasetSlug": "pathogen-detection-salmonella-enterica",
+  "hasDatasetSlug": true,
+  "ownerUser": "imtkaggleteam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5095,
+  "totalVotes": 97,
+  "totalDownloads": 533,
+  "title": "Pathogen Detection | Salmonella Enterica",
+  "hasTitle": true,
+  "subtitle": "Pathogen detection is important in the diagnosis of disease.",
+  "hasSubtitle": true,
+  "description": "**Introduction to Pathogen Detection**\n\nAdvances in DNA sequencing technology have made it possible for scientists all over the world to sequence complete microbial genomes rapidly and efficiently. Access to the DNA sequences of entire microbial genomes offers new opportunities to analyze and understand microorganism at the molecular level. Scientists are able to detect pathogens in biological tissues and study variations in gene expression in response to the pathogenic invasion. These responses help in designing novel approaches for microbial pathogen detection and drug development. Identification of certain microbial pathogens as etiologic agents responsible for chronic diseases is leading to new treatments and prevention strategies for these diseases.\nPathogen Detection Mechanism\n\nEach species of pathogens carries with it a unique DNA or RNA signature that differentiate it from other organisms. One of the challenges is to develop this DNA signature for each microorganism of interest for rapid and specific detection.\nPathogen Detection Applications\n\n**Pathogen detection has become an important part of research in many fields like:**\n\n*Biodefense -\n Animal health care -\n Food safety -\n Diagnostics -\n Pathology -\n Clinical research -\n Forensics -\n Drug discovery*\n\n**What is Salmonella Entreica?**\n\nSalmonella enterica (formerly Salmonella choleraesuis) is a rod-headed, flagellate, facultative anaerobic, Gram-negative bacterium and a species of the genus Salmonella. A number of its serovars are serious human pathogens; many of them are (more specifically) serovars of Salmonella enterica subsp. enterica. \nMost cases of salmonellosis are caused by food infected with S. enterica, which often infects cattle and poultry, though other animals such as domestic cats and hamsters have also been shown to be sources of infection in humans. Investigations of vacuum cleaner bags have shown that households can act as a reservoir of the bacterium; this is more likely if the household has contact with an infection source (i.e., members working with cattle or in a veterinary clinic).\n\n**What we have in this dataset?**\n\nThe system provides two major automated real-time analyses: 1) it quickly clusters related pathogen genome sequences to identify potential transmission chains, helping public health scientists investigate disease outbreaks, and 2) as part of the National Database of Antibiotic Resistant Organisms (NDARO), NCBI screens genomic sequences using AMRFinderPlus to identify the antimicrobial resistance, stress response, and virulence genes found in bacterial genomic sequences, which enables scientists to track the spread of resistance genes and to understand the relationships among antimicrobial resistance, stress response, and virulence. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "genetics",
+    "biology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

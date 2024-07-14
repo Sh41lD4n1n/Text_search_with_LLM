@@ -1,0 +1,43 @@
+{
+  "id": "jeffsinsel/nyc-fhvhv-data",
+  "id_no": 2984695,
+  "datasetSlugNullable": "nyc-fhvhv-data",
+  "ownerUserNullable": "jeffsinsel",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "NYC FHV (Uber/Lyft) Trip Data Expanded (2019-2022)",
+  "subtitleNullable": "The complete data of every For-Hire Vehicle trip in New York City from 2019-22",
+  "descriptionNullable": "The Uber Ride Dataset for New York City contains detailed information about every Uber ride in the city. The dataset includes the TLC license number of the HVFHS base or business, the TLC Base License Number of the base that dispatched the trip, the date and time of the trip pick-up and drop-off, the TLC Taxi Zone in which the trip began and ended, the base number of the base that received the original trip request, and the date and time when the passenger requested to be picked up.\n\nThe dataset also provides information about the total miles for the passenger trip, the total time in seconds for the passenger trip, the base passenger fare before tolls, tips, taxes, and fees, the total amount of all tolls paid in the trip, the total amount collected in the trip for the Black Car Fund, the total amount collected in the trip for NYS sales tax, the total amount collected in the trip for NYS congestion surcharge, and the airport fee of $2.50 for both drop off and pick up at LaGuardia, Newark, and John F. Kennedy airports.\n\nMoreover, the dataset includes the total amount of tips received from the passenger, the total driver pay (not including tolls or tips and net of commission, surcharges, or taxes), the flag indicating whether the passenger agreed to a shared/pooled ride and whether the passenger shared the vehicle with another passenger who booked separately at any point during the trip.\n\nThe dataset also includes information about whether the trip was administered on behalf of the Metropolitan Transportation Authority (MTA), whether the passenger requested a wheelchair-accessible vehicle (WAV), and whether the trip occurred in a wheelchair-accessible vehicle (WAV). This comprehensive dataset can be used for a variety of research and analysis purposes, including traffic patterns, fare analysis, and more.\n\nThe datasets are broken down by month and formatted in parquet. To use the parquet formatted files in pandas, there is an example in my notebook in the code section. If you need more details, look at the pdfs in the datasets. The data is originally from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+  "datasetId": 2984695,
+  "datasetSlug": "nyc-fhvhv-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jeffsinsel",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6101,
+  "totalVotes": 22,
+  "totalDownloads": 849,
+  "title": "NYC FHV (Uber/Lyft) Trip Data Expanded (2019-2022)",
+  "hasTitle": true,
+  "subtitle": "The complete data of every For-Hire Vehicle trip in New York City from 2019-22",
+  "hasSubtitle": true,
+  "description": "The Uber Ride Dataset for New York City contains detailed information about every Uber ride in the city. The dataset includes the TLC license number of the HVFHS base or business, the TLC Base License Number of the base that dispatched the trip, the date and time of the trip pick-up and drop-off, the TLC Taxi Zone in which the trip began and ended, the base number of the base that received the original trip request, and the date and time when the passenger requested to be picked up.\n\nThe dataset also provides information about the total miles for the passenger trip, the total time in seconds for the passenger trip, the base passenger fare before tolls, tips, taxes, and fees, the total amount of all tolls paid in the trip, the total amount collected in the trip for the Black Car Fund, the total amount collected in the trip for NYS sales tax, the total amount collected in the trip for NYS congestion surcharge, and the airport fee of $2.50 for both drop off and pick up at LaGuardia, Newark, and John F. Kennedy airports.\n\nMoreover, the dataset includes the total amount of tips received from the passenger, the total driver pay (not including tolls or tips and net of commission, surcharges, or taxes), the flag indicating whether the passenger agreed to a shared/pooled ride and whether the passenger shared the vehicle with another passenger who booked separately at any point during the trip.\n\nThe dataset also includes information about whether the trip was administered on behalf of the Metropolitan Transportation Authority (MTA), whether the passenger requested a wheelchair-accessible vehicle (WAV), and whether the trip occurred in a wheelchair-accessible vehicle (WAV). This comprehensive dataset can be used for a variety of research and analysis purposes, including traffic patterns, fare analysis, and more.\n\nThe datasets are broken down by month and formatted in parquet. To use the parquet formatted files in pandas, there is an example in my notebook in the code section. If you need more details, look at the pdfs in the datasets. The data is originally from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "categorical",
+    "transportation",
+    "automobiles and vehicles",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

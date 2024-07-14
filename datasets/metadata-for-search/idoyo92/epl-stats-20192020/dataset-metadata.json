@@ -1,0 +1,40 @@
+{
+  "id": "idoyo92/epl-stats-20192020",
+  "id_no": 646273,
+  "datasetSlugNullable": "epl-stats-20192020",
+  "ownerUserNullable": "idoyo92",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "English Premier League stats 2019-2020",
+  "subtitleNullable": "Team and player stats for all Premier League games 2019-2020",
+  "descriptionNullable": "This Dataset is a merge of two EPL datasets I found online. \n\nFirst, make sure to look up https://github.com/vaastav/Fantasy-Premier-League who has done an amazing job of collecting stats from the FPL app. There are further players' stats that I might share in the future. The second source is https://datahub.io/sports-data/english-premier-league, where some additional stats are available souch as referee name and betting odds (I kept 365 in the data, you might want to compare odds, etc)\n\nEach row is a summary of a EPL game from one team's perspective. Among the stats you can find shots on target, xG Index, PPDA (measures pressing play) and more. \n\nNotice:\nI added induvidual players stats. see the attached csv. \n\n\nAcknowledgements:\n\nAs mentioned above, the collecting was done by others. Make sure you take a look and upvote the Github repo that is trully great. \n\n\nSo the EPL is currently shut down, we don't know when it'll be back. By that time, could you predict results? find trends? \n",
+  "datasetId": 646273,
+  "datasetSlug": "epl-stats-20192020",
+  "hasDatasetSlug": true,
+  "ownerUser": "idoyo92",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 67761,
+  "totalVotes": 194,
+  "totalDownloads": 8835,
+  "title": "English Premier League stats 2019-2020",
+  "hasTitle": true,
+  "subtitle": "Team and player stats for all Premier League games 2019-2020",
+  "hasSubtitle": true,
+  "description": "This Dataset is a merge of two EPL datasets I found online. \n\nFirst, make sure to look up https://github.com/vaastav/Fantasy-Premier-League who has done an amazing job of collecting stats from the FPL app. There are further players' stats that I might share in the future. The second source is https://datahub.io/sports-data/english-premier-league, where some additional stats are available souch as referee name and betting odds (I kept 365 in the data, you might want to compare odds, etc)\n\nEach row is a summary of a EPL game from one team's perspective. Among the stats you can find shots on target, xG Index, PPDA (measures pressing play) and more. \n\nNotice:\nI added induvidual players stats. see the attached csv. \n\n\nAcknowledgements:\n\nAs mentioned above, the collecting was done by others. Make sure you take a look and upvote the Github repo that is trully great. \n\n\nSo the EPL is currently shut down, we don't know when it'll be back. By that time, could you predict results? find trends? \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

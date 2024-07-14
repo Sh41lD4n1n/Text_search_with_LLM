@@ -1,0 +1,44 @@
+{
+  "id": "abdulmannann/road-accidents-csv",
+  "id_no": 4457681,
+  "datasetSlugNullable": "road-accidents-csv",
+  "ownerUserNullable": "abdulmannann",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Road Accidents CSV and EXCEL",
+  "subtitleNullable": "CSV NUMERICAL DATA SET ",
+  "descriptionNullable": "\n****Dataset Description: Road Accident Records****\n\nThis dataset contains detailed records of road accidents occurring within a specific geographic region over a defined period. The data encompasses various attributes related to each accident, providing valuable insights into factors contributing to road safety issues.\n\n**Attributes Included:**\n\n1. **Accident ID:** A unique identifier assigned to each accident for reference and tracking purposes.\n2. **Date and Time:** The date and time when the accident occurred, facilitating temporal analysis and trend identification.\n3. **Location:** The precise geographical coordinates or address where the accident took place, enabling spatial analysis and mapping.\n4. **Severity:** The severity level of the accident, categorized based on the extent of injuries, property damage, or fatalities.\n5. **Weather Conditions:** Information about weather conditions prevailing at the time of the accident, such as clear, rainy, foggy, or snowy weather.\n6. **Road Conditions:** Description of road conditions, including dry, wet, icy, or slippery surfaces.\n7. **Vehicle Involved:** Details about vehicles involved in the accident, including types, models, and counts.\n8. **Contributing Factors:** Factors contributing to the accident, such as speeding, distracted driving, drunk driving, road defects, or mechanical failures.\n9. **Injuries and Fatalities:** Number of individuals injured or killed as a result of the accident.\n10. **Vehicle Maneuvers:** Description of maneuvers or actions taken by vehicles involved, such as turning, braking, or overtaking.\n\n**Potential Uses:**\n\n1. **Safety Analysis:** Identifying high-risk locations, times, and conditions to develop targeted safety measures and interventions.\n2. **Predictive Modeling:** Building predictive models to anticipate and prevent accidents based on historical patterns and contributing factors.\n3. **Policy Formulation:** Informing policymaking and infrastructure planning to improve road safety and reduce accident rates.\n4. **Public Awareness Campaigns:** Designing targeted awareness campaigns to educate drivers about common risk factors and safe driving practices.\n5. **Law Enforcement:** Supporting law enforcement efforts by identifying areas with high accident rates and enforcing traffic regulations accordingly.\n\n**Data Source:**\n\nThe dataset is sourced from official accident reports, police records, or other reliable sources authorized to collect and maintain such data. Care has been taken to ensure accuracy and completeness, although some discrepancies may exist due to reporting errors or data collection limitations.\n\n**Note:** Use of this dataset for research, analysis, or other purposes should adhere to relevant data privacy and ethical guidelines, ensuring responsible use and respect for individual privacy rights.",
+  "datasetId": 4457681,
+  "datasetSlug": "road-accidents-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdulmannann",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1047,
+  "totalVotes": 4,
+  "totalDownloads": 240,
+  "title": "Road Accidents CSV and EXCEL",
+  "hasTitle": true,
+  "subtitle": "CSV NUMERICAL DATA SET ",
+  "hasSubtitle": true,
+  "description": "\n****Dataset Description: Road Accident Records****\n\nThis dataset contains detailed records of road accidents occurring within a specific geographic region over a defined period. The data encompasses various attributes related to each accident, providing valuable insights into factors contributing to road safety issues.\n\n**Attributes Included:**\n\n1. **Accident ID:** A unique identifier assigned to each accident for reference and tracking purposes.\n2. **Date and Time:** The date and time when the accident occurred, facilitating temporal analysis and trend identification.\n3. **Location:** The precise geographical coordinates or address where the accident took place, enabling spatial analysis and mapping.\n4. **Severity:** The severity level of the accident, categorized based on the extent of injuries, property damage, or fatalities.\n5. **Weather Conditions:** Information about weather conditions prevailing at the time of the accident, such as clear, rainy, foggy, or snowy weather.\n6. **Road Conditions:** Description of road conditions, including dry, wet, icy, or slippery surfaces.\n7. **Vehicle Involved:** Details about vehicles involved in the accident, including types, models, and counts.\n8. **Contributing Factors:** Factors contributing to the accident, such as speeding, distracted driving, drunk driving, road defects, or mechanical failures.\n9. **Injuries and Fatalities:** Number of individuals injured or killed as a result of the accident.\n10. **Vehicle Maneuvers:** Description of maneuvers or actions taken by vehicles involved, such as turning, braking, or overtaking.\n\n**Potential Uses:**\n\n1. **Safety Analysis:** Identifying high-risk locations, times, and conditions to develop targeted safety measures and interventions.\n2. **Predictive Modeling:** Building predictive models to anticipate and prevent accidents based on historical patterns and contributing factors.\n3. **Policy Formulation:** Informing policymaking and infrastructure planning to improve road safety and reduce accident rates.\n4. **Public Awareness Campaigns:** Designing targeted awareness campaigns to educate drivers about common risk factors and safe driving practices.\n5. **Law Enforcement:** Supporting law enforcement efforts by identifying areas with high accident rates and enforcing traffic regulations accordingly.\n\n**Data Source:**\n\nThe dataset is sourced from official accident reports, police records, or other reliable sources authorized to collect and maintain such data. Care has been taken to ensure accuracy and completeness, although some discrepancies may exist due to reporting errors or data collection limitations.\n\n**Note:** Use of this dataset for research, analysis, or other purposes should adhere to relevant data privacy and ethical guidelines, ensuring responsible use and respect for individual privacy rights.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "law",
+    "automobiles and vehicles",
+    "intermediate",
+    "data analytics",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

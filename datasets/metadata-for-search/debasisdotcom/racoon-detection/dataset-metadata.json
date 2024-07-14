@@ -1,0 +1,42 @@
+{
+  "id": "debasisdotcom/racoon-detection",
+  "id_no": 902322,
+  "datasetSlugNullable": "racoon-detection",
+  "ownerUserNullable": "debasisdotcom",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Racoon Detection",
+  "subtitleNullable": "Detect Racoon from the images by putting bounding boxes",
+  "descriptionNullable": "WHAT THE HECK? WHY RACCOOOONS\ud83d\udc3c????\n\nNothing special\ud83d\ude04 they are one of my favorite animals and also the cutest. \n\nThis a basic single bounding box object detection where you need to detect the raccoon in the given image and put a bounding box around it.\n\n### Data\nThe data contains 200 racoon images and one .CSV file containing the bounding boxes.\n\n### Acknowledgements\nThis dataset was originally collected by Dat Tran.\n",
+  "datasetId": 902322,
+  "datasetSlug": "racoon-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "debasisdotcom",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 9134,
+  "totalVotes": 20,
+  "totalDownloads": 697,
+  "title": "Racoon Detection",
+  "hasTitle": true,
+  "subtitle": "Detect Racoon from the images by putting bounding boxes",
+  "hasSubtitle": true,
+  "description": "WHAT THE HECK? WHY RACCOOOONS\ud83d\udc3c????\n\nNothing special\ud83d\ude04 they are one of my favorite animals and also the cutest. \n\nThis a basic single bounding box object detection where you need to detect the raccoon in the given image and put a bounding box around it.\n\n### Data\nThe data contains 200 racoon images and one .CSV file containing the bounding boxes.\n\n### Acknowledgements\nThis dataset was originally collected by Dat Tran.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "animals",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

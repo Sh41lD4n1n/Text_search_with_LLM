@@ -1,0 +1,39 @@
+{
+  "id": "i191796majid/tweets",
+  "id_no": 1929954,
+  "datasetSlugNullable": "tweets",
+  "ownerUserNullable": "i191796majid",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "1.6 million random tweets",
+  "subtitleNullable": "million random tweets collected from Twitter two years ago(pre-elon's era)",
+  "descriptionNullable": "This dataset consists of 1.6 million random tweets collected from Twitter two years ago. The tweets cover a wide range of topics and reflect the diverse nature of user-generated content on the platform. These tweets can serve as a valuable resource for various natural language processing (NLP) tasks, including sentiment analysis, topic modeling, text classification, and language modeling.\n\nThe dataset includes both textual content and associated metadata such as timestamp, user information (username, follower count, etc.), and engagement metrics (likes, retweets, replies). This rich combination of textual and contextual information allows researchers and data scientists to explore the dynamics of user interactions, analyze trends, and study the evolution of social media conversations over time.\n\nWith 1.6 million tweets, this dataset provides a significant volume of data to train and validate machine learning models. It is suitable for developing and benchmarking algorithms that require large-scale text data, enabling researchers to tackle challenges in NLP and social media analytics.\n\nPotential applications of this dataset include but are not limited to sentiment analysis for brand monitoring, opinion mining for market research, user behavior analysis, and social media trend detection. Furthermore, it can be used to study language patterns, detect fake news or spam, and investigate the impact of events or campaigns on public opinion.\n\nBy making this dataset available on Kaggle, we aim to encourage the development of innovative approaches to analyze Twitter data and gain insights into the ever-evolving landscape of social media. We hope that this dataset will inspire researchers, data scientists, and enthusiasts to explore the vast potential of natural language processing and contribute to advancements in social media analytics.\n\n\n\n\n",
+  "datasetId": 1929954,
+  "datasetSlug": "tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "i191796majid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1068,
+  "totalVotes": 8,
+  "totalDownloads": 195,
+  "title": "1.6 million random tweets",
+  "hasTitle": true,
+  "subtitle": "million random tweets collected from Twitter two years ago(pre-elon's era)",
+  "hasSubtitle": true,
+  "description": "This dataset consists of 1.6 million random tweets collected from Twitter two years ago. The tweets cover a wide range of topics and reflect the diverse nature of user-generated content on the platform. These tweets can serve as a valuable resource for various natural language processing (NLP) tasks, including sentiment analysis, topic modeling, text classification, and language modeling.\n\nThe dataset includes both textual content and associated metadata such as timestamp, user information (username, follower count, etc.), and engagement metrics (likes, retweets, replies). This rich combination of textual and contextual information allows researchers and data scientists to explore the dynamics of user interactions, analyze trends, and study the evolution of social media conversations over time.\n\nWith 1.6 million tweets, this dataset provides a significant volume of data to train and validate machine learning models. It is suitable for developing and benchmarking algorithms that require large-scale text data, enabling researchers to tackle challenges in NLP and social media analytics.\n\nPotential applications of this dataset include but are not limited to sentiment analysis for brand monitoring, opinion mining for market research, user behavior analysis, and social media trend detection. Furthermore, it can be used to study language patterns, detect fake news or spam, and investigate the impact of events or campaigns on public opinion.\n\nBy making this dataset available on Kaggle, we aim to encourage the development of innovative approaches to analyze Twitter data and gain insights into the ever-evolving landscape of social media. We hope that this dataset will inspire researchers, data scientists, and enthusiasts to explore the vast potential of natural language processing and contribute to advancements in social media analytics.\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

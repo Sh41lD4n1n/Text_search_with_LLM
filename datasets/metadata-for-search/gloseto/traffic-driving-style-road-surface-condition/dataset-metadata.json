@@ -1,0 +1,42 @@
+{
+  "id": "gloseto/traffic-driving-style-road-surface-condition",
+  "id_no": 169483,
+  "datasetSlugNullable": "traffic-driving-style-road-surface-condition",
+  "ownerUserNullable": "gloseto",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Traffic, Driving Style and Road Surface Condition",
+  "subtitleNullable": "Low-level data acquired via OBD-II protocol and smartphone micro-devices",
+  "descriptionNullable": "## General Information\n \n* Low-level parameters acquired by the car via OBD-II and through the\n   micro-devices  embedded in the user smartphone, with the goal of\n   accurately characterizing the  overall system composed by driver,\n   vehicle and environment\n\n* Predicted attribute: road surface, traffic and driving style\n\nData related to the following cars:\n\n* Peugeot 207 1.4 HDi (70 CV)\n\n* Opel Corsa 1.3 HDi (95 CV)\n\n*Used for evaluation of the [Mafalda][1] framework*\n\n## Attributes\n\n**14 numeric features:** \n\n* altitude change, calculated over 10 seconds;\n\n* current speed value; average speed in the last 60 seconds; \n\n* speed variance in the last 60 seconds; \n\n* speed variation for every second of detection; \n\n* longitudinal acceleration, measured by the smartphone accelerometer and pre-processed with a low-pass filter; \n\n* engine load, expressed as a percentage; \n\n* engine coolant temperatures in celsius degree; \n\n* Manifold Air Pressure (MAP), a parameter the internal combustion engine uses to compute the optimal air/fuel ratio;\n\n* Revolutions Per Minute (RPM) of the engine; \n\n* Mass Air Flow (MAF) Rate measured in g/s, used by the engine to set fuel delivery and spark timing; \n\n* Intake Air Temperature (IAT) at the engine entrance; \n\n* vertical acceleration, measured by the smartphone accelerometer and pre-processed with a low-pass filter; \n\n* average fuel consumption, calculated as needed liters per 100 km.\n\n**3 target attributes**\n\n* road surface condition class: SmoothCondition, FullOfHolesCondition, UnevenCondition;\n\n* traffic congestion condition class: LowCongestionCondition, NormalCongestionCondition, HighCongestionCondition;\n\n* driving style class: EvenPaceStyle, AggressiveStyle.\n\n## References\n\nIf you want to refer to _Mafalda_ dataset and ontologies in a publication, please cite the following paper:\n\nMichele Ruta, Floriano Scioscia, Giuseppe Loseto, Agnese Pinto, Eugenio Di Sciascio. [Machine learning in the Internet of Things: A semantic-enhanced approach][2]. Semantic Web Journal, Volume 10, Number 1, page 183--204 - 2018.\n\n## License\nDataset licensed under the [Apache License 2.0][3]\n\nCreator: *SisInfLab Research Group* - Polytechnic University of Bari\n\nDate: Dec, 2017\n\n\n  [1]: https://github.com/sisinflab-swot/mafalda\n  [2]: http://sisinflab.poliba.it/publications/2018/RSLPD18/\n  [3]: https://www.apache.org/licenses/LICENSE-2.0",
+  "datasetId": 169483,
+  "datasetSlug": "traffic-driving-style-road-surface-condition",
+  "hasDatasetSlug": true,
+  "ownerUser": "gloseto",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 35173,
+  "totalVotes": 47,
+  "totalDownloads": 2576,
+  "title": "Traffic, Driving Style and Road Surface Condition",
+  "hasTitle": true,
+  "subtitle": "Low-level data acquired via OBD-II protocol and smartphone micro-devices",
+  "hasSubtitle": true,
+  "description": "## General Information\n \n* Low-level parameters acquired by the car via OBD-II and through the\n   micro-devices  embedded in the user smartphone, with the goal of\n   accurately characterizing the  overall system composed by driver,\n   vehicle and environment\n\n* Predicted attribute: road surface, traffic and driving style\n\nData related to the following cars:\n\n* Peugeot 207 1.4 HDi (70 CV)\n\n* Opel Corsa 1.3 HDi (95 CV)\n\n*Used for evaluation of the [Mafalda][1] framework*\n\n## Attributes\n\n**14 numeric features:** \n\n* altitude change, calculated over 10 seconds;\n\n* current speed value; average speed in the last 60 seconds; \n\n* speed variance in the last 60 seconds; \n\n* speed variation for every second of detection; \n\n* longitudinal acceleration, measured by the smartphone accelerometer and pre-processed with a low-pass filter; \n\n* engine load, expressed as a percentage; \n\n* engine coolant temperatures in celsius degree; \n\n* Manifold Air Pressure (MAP), a parameter the internal combustion engine uses to compute the optimal air/fuel ratio;\n\n* Revolutions Per Minute (RPM) of the engine; \n\n* Mass Air Flow (MAF) Rate measured in g/s, used by the engine to set fuel delivery and spark timing; \n\n* Intake Air Temperature (IAT) at the engine entrance; \n\n* vertical acceleration, measured by the smartphone accelerometer and pre-processed with a low-pass filter; \n\n* average fuel consumption, calculated as needed liters per 100 km.\n\n**3 target attributes**\n\n* road surface condition class: SmoothCondition, FullOfHolesCondition, UnevenCondition;\n\n* traffic congestion condition class: LowCongestionCondition, NormalCongestionCondition, HighCongestionCondition;\n\n* driving style class: EvenPaceStyle, AggressiveStyle.\n\n## References\n\nIf you want to refer to _Mafalda_ dataset and ontologies in a publication, please cite the following paper:\n\nMichele Ruta, Floriano Scioscia, Giuseppe Loseto, Agnese Pinto, Eugenio Di Sciascio. [Machine learning in the Internet of Things: A semantic-enhanced approach][2]. Semantic Web Journal, Volume 10, Number 1, page 183--204 - 2018.\n\n## License\nDataset licensed under the [Apache License 2.0][3]\n\nCreator: *SisInfLab Research Group* - Polytechnic University of Bari\n\nDate: Dec, 2017\n\n\n  [1]: https://github.com/sisinflab-swot/mafalda\n  [2]: http://sisinflab.poliba.it/publications/2018/RSLPD18/\n  [3]: https://www.apache.org/licenses/LICENSE-2.0",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "law",
+    "automobiles and vehicles",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

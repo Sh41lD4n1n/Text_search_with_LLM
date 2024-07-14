@@ -1,0 +1,43 @@
+{
+  "id": "divyansh22/summer-olympics-medals",
+  "id_no": 486282,
+  "datasetSlugNullable": "summer-olympics-medals",
+  "ownerUserNullable": "divyansh22",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Summer Olympics Medals (1976-2008)",
+  "subtitleNullable": "A Brief history of medals won at the Summer Olympics since 1976",
+  "descriptionNullable": "This dataset is a list of all the medal winners in the Summer Olympics from 1976 Montreal to 2008 Beijing. It includes each and every medal awarded within the period. This dataset is intended for beginners so that they can get a taste of advanced Excel functions which is perhaps one of the key skills required to be a great data scientist. I too got my hands dirty with the dataset and played with some advanced Excel functions. Further, this dataset can also be used for a predictive model as to which country is likely to fetch the highest number of gold in a particular sports category (just an example), etc. ",
+  "datasetId": 486282,
+  "datasetSlug": "summer-olympics-medals",
+  "hasDatasetSlug": true,
+  "ownerUser": "divyansh22",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 73037,
+  "totalVotes": 157,
+  "totalDownloads": 12030,
+  "title": "Summer Olympics Medals (1976-2008)",
+  "hasTitle": true,
+  "subtitle": "A Brief history of medals won at the Summer Olympics since 1976",
+  "hasSubtitle": true,
+  "description": "This dataset is a list of all the medal winners in the Summer Olympics from 1976 Montreal to 2008 Beijing. It includes each and every medal awarded within the period. This dataset is intended for beginners so that they can get a taste of advanced Excel functions which is perhaps one of the key skills required to be a great data scientist. I too got my hands dirty with the dataset and played with some advanced Excel functions. Further, this dataset can also be used for a predictive model as to which country is likely to fetch the highest number of gold in a particular sports category (just an example), etc. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "sports",
+    "cycling",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

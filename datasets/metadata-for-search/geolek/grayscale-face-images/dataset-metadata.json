@@ -1,0 +1,40 @@
+{
+  "id": "geolek/grayscale-face-images",
+  "id_no": 4560959,
+  "datasetSlugNullable": "grayscale-face-images",
+  "ownerUserNullable": "geolek",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Grayscale Face Images",
+  "subtitleNullable": "To be used for a recognition project in facial expression and emotion analysis.",
+  "descriptionNullable": "The scripts for this Facial Recognition and Emotion Analysis Project can be found here: https://github.com/GeoLek/FREA-Facial-Recognition-and-Emotion-Analysis\n\nThe datasets processed and used here, were taken from:\nExtended Cohn-Kanade (https://www.kaggle.com/datasets/shuvoalok/ck-dataset)\nFER-2013 (https://www.kaggle.com/datasets/msambare/fer2013)\nNatural Human Face Images for Emotion Recognition (https://www.kaggle.com/datasets/sudarshanvaidya/random-images-for-face-emotion-recognition)\nFacial Expressions Training Data (https://www.kaggle.com/datasets/noamsegal/affectnet-training-data)\nYoung AffectNet HQ (https://www.kaggle.com/datasets/vfomenko/young-affectnet-hq)\n\n\nAll images were resized to 224x224 dimensions and converted to grayscale. The emotions I classified are: Anger, Contempt, Disgust, Fear, Happy, Sad, Neutral, Surprise",
+  "datasetId": 4560959,
+  "datasetSlug": "grayscale-face-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "geolek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 392,
+  "totalVotes": 4,
+  "totalDownloads": 157,
+  "title": "Grayscale Face Images",
+  "hasTitle": true,
+  "subtitle": "To be used for a recognition project in facial expression and emotion analysis.",
+  "hasSubtitle": true,
+  "description": "The scripts for this Facial Recognition and Emotion Analysis Project can be found here: https://github.com/GeoLek/FREA-Facial-Recognition-and-Emotion-Analysis\n\nThe datasets processed and used here, were taken from:\nExtended Cohn-Kanade (https://www.kaggle.com/datasets/shuvoalok/ck-dataset)\nFER-2013 (https://www.kaggle.com/datasets/msambare/fer2013)\nNatural Human Face Images for Emotion Recognition (https://www.kaggle.com/datasets/sudarshanvaidya/random-images-for-face-emotion-recognition)\nFacial Expressions Training Data (https://www.kaggle.com/datasets/noamsegal/affectnet-training-data)\nYoung AffectNet HQ (https://www.kaggle.com/datasets/vfomenko/young-affectnet-hq)\n\n\nAll images were resized to 224x224 dimensions and converted to grayscale. The emotions I classified are: Anger, Contempt, Disgust, Fear, Happy, Sad, Neutral, Surprise",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "/climate-change-earth-surface-temperature-data",
+  "id_no": 29,
+  "datasetSlugNullable": "climate-change-earth-surface-temperature-data",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Climate Change: Earth Surface Temperature Data",
+  "subtitleNullable": "Exploring global temperatures since 1750",
+  "descriptionNullable": "Some say climate change is the biggest threat of our age while others say it\u2019s a myth based on dodgy science. We are turning some of the data over to you so you can form your own view.\n\n[![us-climate-change](https://www.kaggle.io/svf/195335/062aeda1473b00ec4b8505d5133dfc2c/__results___files/figure-html/unnamed-chunk-4-1.png)](https://www.kaggle.com/jagelves/d/berkeleyearth/climate-change-earth-surface-temperature-data/continental-us-climate-change-1850-2013)\n\nEven more than with other data sets that Kaggle has featured, there\u2019s a huge amount of data cleaning and preparation that goes into putting together a long-time study of climate trends. Early data was collected by technicians using mercury thermometers, where any variation in the visit time impacted measurements. In the 1940s, the construction of airports caused many weather stations to be moved. In the 1980s, there was a move to electronic thermometers that are said to have a cooling bias.\n\nGiven this complexity, there are a range of organizations that collate climate trends data. The three most cited land and ocean temperature data sets are NOAA\u2019s MLOST, NASA\u2019s GISTEMP and the UK\u2019s HadCrut. \n\nWe have repackaged the data from a newer compilation put together by the [Berkeley Earth][1], which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away. \n\nIn this dataset, we have include several files:\n\nGlobal Land and Ocean-and-Land Temperatures (**GlobalTemperatures.csv**):  \n \n - Date: starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures\n - LandAverageTemperature: global average land temperature in celsius  \n - LandAverageTemperatureUncertainty: the 95% confidence interval around the average  \n - LandMaxTemperature: global average maximum land temperature in celsius  \n - LandMaxTemperatureUncertainty: the 95% confidence interval around the maximum land temperature  \n - LandMinTemperature:  global average minimum land temperature in celsius  \n - LandMinTemperatureUncertainty: the 95% confidence interval around the minimum land temperature  \n - LandAndOceanAverageTemperature: global average land and ocean temperature in celsius  \n - LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature  \n\nOther files include:  \n\n - Global Average Land Temperature by Country (**GlobalLandTemperaturesByCountry.csv**)  \n - Global Average Land Temperature by State (**GlobalLandTemperaturesByState.csv**)  \n - Global Land Temperatures By Major City (**GlobalLandTemperaturesByMajorCity.csv**)  \n - Global Land Temperatures By City (**GlobalLandTemperaturesByCity.csv**)\n\nThe raw data comes from the [Berkeley Earth data page][2].\n\n\n  [1]: http://berkeleyearth.org/about/\n  [2]: http://berkeleyearth.org/data/",
+  "datasetId": 29,
+  "datasetSlug": "climate-change-earth-surface-temperature-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1080313,
+  "totalVotes": 2265,
+  "totalDownloads": 139486,
+  "title": "Climate Change: Earth Surface Temperature Data",
+  "hasTitle": true,
+  "subtitle": "Exploring global temperatures since 1750",
+  "hasSubtitle": true,
+  "description": "Some say climate change is the biggest threat of our age while others say it\u2019s a myth based on dodgy science. We are turning some of the data over to you so you can form your own view.\n\n[![us-climate-change](https://www.kaggle.io/svf/195335/062aeda1473b00ec4b8505d5133dfc2c/__results___files/figure-html/unnamed-chunk-4-1.png)](https://www.kaggle.com/jagelves/d/berkeleyearth/climate-change-earth-surface-temperature-data/continental-us-climate-change-1850-2013)\n\nEven more than with other data sets that Kaggle has featured, there\u2019s a huge amount of data cleaning and preparation that goes into putting together a long-time study of climate trends. Early data was collected by technicians using mercury thermometers, where any variation in the visit time impacted measurements. In the 1940s, the construction of airports caused many weather stations to be moved. In the 1980s, there was a move to electronic thermometers that are said to have a cooling bias.\n\nGiven this complexity, there are a range of organizations that collate climate trends data. The three most cited land and ocean temperature data sets are NOAA\u2019s MLOST, NASA\u2019s GISTEMP and the UK\u2019s HadCrut. \n\nWe have repackaged the data from a newer compilation put together by the [Berkeley Earth][1], which is affiliated with Lawrence Berkeley National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away. \n\nIn this dataset, we have include several files:\n\nGlobal Land and Ocean-and-Land Temperatures (**GlobalTemperatures.csv**):  \n \n - Date: starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures\n - LandAverageTemperature: global average land temperature in celsius  \n - LandAverageTemperatureUncertainty: the 95% confidence interval around the average  \n - LandMaxTemperature: global average maximum land temperature in celsius  \n - LandMaxTemperatureUncertainty: the 95% confidence interval around the maximum land temperature  \n - LandMinTemperature:  global average minimum land temperature in celsius  \n - LandMinTemperatureUncertainty: the 95% confidence interval around the minimum land temperature  \n - LandAndOceanAverageTemperature: global average land and ocean temperature in celsius  \n - LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature  \n\nOther files include:  \n\n - Global Average Land Temperature by Country (**GlobalLandTemperaturesByCountry.csv**)  \n - Global Average Land Temperature by State (**GlobalLandTemperaturesByState.csv**)  \n - Global Land Temperatures By Major City (**GlobalLandTemperaturesByMajorCity.csv**)  \n - Global Land Temperatures By City (**GlobalLandTemperaturesByCity.csv**)\n\nThe raw data comes from the [Berkeley Earth data page][2].\n\n\n  [1]: http://berkeleyearth.org/about/\n  [2]: http://berkeleyearth.org/data/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "environment",
+    "business",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "kristensissener",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

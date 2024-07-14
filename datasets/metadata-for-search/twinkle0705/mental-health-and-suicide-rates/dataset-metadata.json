@@ -1,0 +1,39 @@
+{
+  "id": "twinkle0705/mental-health-and-suicide-rates",
+  "id_no": 748724,
+  "datasetSlugNullable": "mental-health-and-suicide-rates",
+  "ownerUserNullable": "twinkle0705",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health and Suicide Rates",
+  "subtitleNullable": "Suicide Rates of age groups in different countries along with Health Facility  ",
+  "descriptionNullable": "### Context\n\nClose to 800 000 people die due to suicide every year, which is one person every 40 seconds. Suicide is a global phenomenon and occurs throughout the lifespan. Effective and evidence-based interventions can be implemented at population, sub-population and individual levels to prevent suicide and suicide attempts. There are indications that for each adult who died by suicide there may have been more than 20 others attempting suicide.\n\nSuicide is a complex issue and therefore suicide prevention efforts require coordination and collaboration among multiple sectors of society, including the health sector and other sectors such as education, labour, agriculture, business, justice, law, defense, politics, and the media. These efforts must be comprehensive and integrated as no single approach alone can make an impact on an issue as complex as suicide.\n\n### Do leave an upvote if you found this dataset useful!",
+  "datasetId": 748724,
+  "datasetSlug": "mental-health-and-suicide-rates",
+  "hasDatasetSlug": true,
+  "ownerUser": "twinkle0705",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 124285,
+  "totalVotes": 231,
+  "totalDownloads": 15226,
+  "title": "Mental Health and Suicide Rates",
+  "hasTitle": true,
+  "subtitle": "Suicide Rates of age groups in different countries along with Health Facility  ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nClose to 800 000 people die due to suicide every year, which is one person every 40 seconds. Suicide is a global phenomenon and occurs throughout the lifespan. Effective and evidence-based interventions can be implemented at population, sub-population and individual levels to prevent suicide and suicide attempts. There are indications that for each adult who died by suicide there may have been more than 20 others attempting suicide.\n\nSuicide is a complex issue and therefore suicide prevention efforts require coordination and collaboration among multiple sectors of society, including the health sector and other sectors such as education, labour, agriculture, business, justice, law, defense, politics, and the media. These efforts must be comprehensive and integrated as no single approach alone can make an impact on an issue as complex as suicide.\n\n### Do leave an upvote if you found this dataset useful!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "name": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

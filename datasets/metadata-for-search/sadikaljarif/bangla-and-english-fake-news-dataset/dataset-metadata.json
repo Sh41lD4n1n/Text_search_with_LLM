@@ -1,0 +1,43 @@
+{
+  "id": "sadikaljarif/bangla-and-english-fake-news-dataset",
+  "id_no": 2289084,
+  "datasetSlugNullable": "bangla-and-english-fake-news-dataset",
+  "ownerUserNullable": "sadikaljarif",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Bangla And English Fake News Detection  DataSet",
+  "subtitleNullable": "Bangla And English Fake News",
+  "descriptionNullable": "\n## The availability of datasets in different languages, such as Bangla and English, provides valuable resources for various data-driven tasks and research. In this case, we have two datasets, each in CSV format, with a binary classification indicating the authenticity of the data.\n\n### Bangla Dataset:\n```\nThe Bangla dataset consists of data written in the Bengali language, primarily spoken in Bangladesh and parts of India. It is a CSV file format, which is a common tabular data format with rows and columns. The dataset contains information or samples labeled as either fake (0) or real (1). The purpose of this dataset might be to develop a machine learning model or perform analysis to distinguish between fake and real data in the Bangla language.\n```\n### English Dataset:\n```\nThe English dataset contains data written in the English language, one of the most widely spoken languages globally. Similarly to the Bangla dataset, it is in CSV format, with each entry representing a piece of information labeled as either fake (0) or real (1). This dataset can be used for similar purposes as the Bangla dataset, but focusing on English-language data.\n```\n\n#### Both datasets follow a binary classification format, where the labels of 0 and 1 indicate whether the data is fake or real, respectively. This labeling scheme allows for supervised learning approaches, where machine learning models can be trained to predict the authenticity of new, unseen data based on the patterns and characteristics learned from the labeled datasets.With these datasets, researchers and practitioners can perform various analyses and tasks, such as:\n\n**Classification Modeling: Develop machine learning models, such as decision trees, random forests, or neural networks, to classify new data instances as either fake or real based on features or characteristics present in the datasets.**\n\n**Feature Engineering: Explore and extract meaningful features from the datasets to improve the performance of classification models. This may involve techniques like text preprocessing, sentiment analysis, or feature selection.**\n\n**Cross-Language Analysis: Compare the performance of classification models trained on Bangla and English datasets to understand if there are language-specific patterns or characteristics that influence the identification of fake and real data.**\n\n**Evaluation and Metrics: Measure the performance of classification models using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. These metrics help assess the model's ability to correctly classify fake and real data.**\n\n**Generalization and Deployment: Validate the trained models on unseen data to ensure their generalization and applicability in real-world scenarios. The models can be deployed as tools or systems that automatically assess the authenticity of new data instances.**",
+  "datasetId": 2289084,
+  "datasetSlug": "bangla-and-english-fake-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadikaljarif",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1985,
+  "totalVotes": 35,
+  "totalDownloads": 273,
+  "title": "Bangla And English Fake News Detection  DataSet",
+  "hasTitle": true,
+  "subtitle": "Bangla And English Fake News",
+  "hasSubtitle": true,
+  "description": "\n## The availability of datasets in different languages, such as Bangla and English, provides valuable resources for various data-driven tasks and research. In this case, we have two datasets, each in CSV format, with a binary classification indicating the authenticity of the data.\n\n### Bangla Dataset:\n```\nThe Bangla dataset consists of data written in the Bengali language, primarily spoken in Bangladesh and parts of India. It is a CSV file format, which is a common tabular data format with rows and columns. The dataset contains information or samples labeled as either fake (0) or real (1). The purpose of this dataset might be to develop a machine learning model or perform analysis to distinguish between fake and real data in the Bangla language.\n```\n### English Dataset:\n```\nThe English dataset contains data written in the English language, one of the most widely spoken languages globally. Similarly to the Bangla dataset, it is in CSV format, with each entry representing a piece of information labeled as either fake (0) or real (1). This dataset can be used for similar purposes as the Bangla dataset, but focusing on English-language data.\n```\n\n#### Both datasets follow a binary classification format, where the labels of 0 and 1 indicate whether the data is fake or real, respectively. This labeling scheme allows for supervised learning approaches, where machine learning models can be trained to predict the authenticity of new, unseen data based on the patterns and characteristics learned from the labeled datasets.With these datasets, researchers and practitioners can perform various analyses and tasks, such as:\n\n**Classification Modeling: Develop machine learning models, such as decision trees, random forests, or neural networks, to classify new data instances as either fake or real based on features or characteristics present in the datasets.**\n\n**Feature Engineering: Explore and extract meaningful features from the datasets to improve the performance of classification models. This may involve techniques like text preprocessing, sentiment analysis, or feature selection.**\n\n**Cross-Language Analysis: Compare the performance of classification models trained on Bangla and English datasets to understand if there are language-specific patterns or characteristics that influence the identification of fake and real data.**\n\n**Evaluation and Metrics: Measure the performance of classification models using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. These metrics help assess the model's ability to correctly classify fake and real data.**\n\n**Generalization and Deployment: Validate the trained models on unseen data to ensure their generalization and applicability in real-world scenarios. The models can be deployed as tools or systems that automatically assess the authenticity of new data instances.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "neural networks",
+    "lstm",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

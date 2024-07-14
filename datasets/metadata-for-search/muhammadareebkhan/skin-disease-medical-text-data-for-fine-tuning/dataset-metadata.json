@@ -1,0 +1,43 @@
+{
+  "id": "muhammadareebkhan/skin-disease-medical-text-data-for-fine-tuning",
+  "id_no": 3988271,
+  "datasetSlugNullable": "skin-disease-medical-text-data-for-fine-tuning",
+  "ownerUserNullable": "muhammadareebkhan",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Dermatology Question-Answer Dataset: Skin Disease ",
+  "subtitleNullable": "Curated collection of questions related to dermatology, covering skin diseases, ",
+  "descriptionNullable": "This dataset is a comprehensive compilation of questions related to dermatology, spanning inquiries about various skin diseases, their symptoms, recommended medications, and available treatment modalities. Each question is paired with a concise and informative response, making it an ideal resource for training and fine-tuning language models in the field of dermatological healthcare. The dataset is designed to facilitate the development of advanced medical chat-bots and language models tailored to dermatology, providing valuable insights into skin health-related inquiries.\n\n\nPlease Explore the Work Here: https://github.com/Mreeb/llama2-Fine-tuning-On-Custom-Medical_data/tree/master",
+  "datasetId": 3988271,
+  "datasetSlug": "skin-disease-medical-text-data-for-fine-tuning",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadareebkhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 950,
+  "totalVotes": 24,
+  "totalDownloads": 134,
+  "title": "Dermatology Question-Answer Dataset: Skin Disease ",
+  "hasTitle": true,
+  "subtitle": "Curated collection of questions related to dermatology, covering skin diseases, ",
+  "hasSubtitle": true,
+  "description": "This dataset is a comprehensive compilation of questions related to dermatology, spanning inquiries about various skin diseases, their symptoms, recommended medications, and available treatment modalities. Each question is paired with a concise and informative response, making it an ideal resource for training and fine-tuning language models in the field of dermatological healthcare. The dataset is designed to facilitate the development of advanced medical chat-bots and language models tailored to dermatology, providing valuable insights into skin health-related inquiries.\n\n\nPlease Explore the Work Here: https://github.com/Mreeb/llama2-Fine-tuning-On-Custom-Medical_data/tree/master",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "advanced",
+    "text",
+    "transfer learning",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

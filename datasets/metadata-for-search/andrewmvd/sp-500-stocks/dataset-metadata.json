@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/sp-500-stocks",
+  "id_no": 1807380,
+  "datasetSlugNullable": "sp-500-stocks",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "S&P 500 Stocks (daily updated)",
+  "subtitleNullable": "Stock and company data on all members of the popular financial index.",
+  "descriptionNullable": "# About this dataset\n&gt; The Standard and Poor's 500 or **S&P 500 is the most famous financial benchmark in the world**. \n\n&gt; This stock market index tracks the performance of 500 large companies listed on stock exchanges in the United States. As of December 31, 2020, more than **$5.4 trillion** was invested in assets tied to the performance of this index.\n\n&gt; Because the index includes multiple classes of stock of some constituent companies\u2014for example, Alphabet's Class A (GOOGL) and Class C (GOOG)\u2014there are actually 505 stocks in the gauge.\n\n\n# How to use this dataset\n&gt; - Create a time series regression model to predict S&P value and/or stock prices.\n- Explore the most the returns, components and volatility of the S&P 500 index.\n- Identify high and low performance stocks among the list.\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\n\n&gt; ### License\nCC0: Public Domain\n\n\n&gt; ### Splash banner\nStonks by unknown memer.\n\n",
+  "datasetId": 1807380,
+  "datasetSlug": "sp-500-stocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 106151,
+  "totalVotes": 361,
+  "totalDownloads": 22174,
+  "title": "S&P 500 Stocks (daily updated)",
+  "hasTitle": true,
+  "subtitle": "Stock and company data on all members of the popular financial index.",
+  "hasSubtitle": true,
+  "description": "# About this dataset\n&gt; The Standard and Poor's 500 or **S&P 500 is the most famous financial benchmark in the world**. \n\n&gt; This stock market index tracks the performance of 500 large companies listed on stock exchanges in the United States. As of December 31, 2020, more than **$5.4 trillion** was invested in assets tied to the performance of this index.\n\n&gt; Because the index includes multiple classes of stock of some constituent companies\u2014for example, Alphabet's Class A (GOOGL) and Class C (GOOG)\u2014there are actually 505 stocks in the gauge.\n\n\n# How to use this dataset\n&gt; - Create a time series regression model to predict S&P value and/or stock prices.\n- Explore the most the returns, components and volatility of the S&P 500 index.\n- Identify high and low performance stocks among the list.\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\n\n&gt; ### License\nCC0: Public Domain\n\n\n&gt; ### Splash banner\nStonks by unknown memer.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "banking",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

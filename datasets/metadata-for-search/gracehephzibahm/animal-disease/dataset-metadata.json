@@ -1,0 +1,42 @@
+{
+  "id": "gracehephzibahm/animal-disease",
+  "id_no": 3925228,
+  "datasetSlugNullable": "animal-disease",
+  "ownerUserNullable": "gracehephzibahm",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Animal Condition Classification Dataset",
+  "subtitleNullable": "Predict if an animal's condition is dangerous based on its symptoms.",
+  "descriptionNullable": "The \"Animal Condition Classification Dataset\" presents a unique and intricate data challenge in the realm of animal health assessment. Featuring a diverse array of animal species, ranging from birds to mammals, this dataset enables the development of predictive models to determine whether an animal's condition is dangerous or not based on five distinct symptoms. The dataset's diversity opens doors to creating a classification system that transcends taxonomic boundaries, making it particularly valuable for people interested in animal welfare and wildlife conservation. However, its manual collection process introduces potential sources of error, including spelling mistakes and variations in symptom representation. This necessitates meticulous data-cleaning efforts.\n\nAs you delve into the \"Animal Condition Classification Dataset,\" they are poised to confront challenges such as class imbalance and the need for feature engineering. Addressing these challenges will be crucial for achieving robust classification models. Thus, this dataset serves as a rich resource for those eager to make a meaningful impact in the field of animal health assessment, with the understanding that it demands careful handling and methodological rigour to deliver insightful and ethically sound results.\n\ndata.csv\n- AnimalName: Contains the animal kind. Like dog, cat, etc\n- symptoms1-5: Contain symptoms \n- Dangerous: Contains whether the condition is dangerous or not. \n\nIf you are new to machine learning, refer to these two notebooks\n- https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning\n- https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling\n\nThe raw data might seem hard to handle, so you can use these refined data for starting out. \n- cleaned data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning/output\n- encoded data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling/output",
+  "datasetId": 3925228,
+  "datasetSlug": "animal-disease",
+  "hasDatasetSlug": true,
+  "ownerUser": "gracehephzibahm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 13435,
+  "totalVotes": 48,
+  "totalDownloads": 2356,
+  "title": "Animal Condition Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Predict if an animal's condition is dangerous based on its symptoms.",
+  "hasSubtitle": true,
+  "description": "The \"Animal Condition Classification Dataset\" presents a unique and intricate data challenge in the realm of animal health assessment. Featuring a diverse array of animal species, ranging from birds to mammals, this dataset enables the development of predictive models to determine whether an animal's condition is dangerous or not based on five distinct symptoms. The dataset's diversity opens doors to creating a classification system that transcends taxonomic boundaries, making it particularly valuable for people interested in animal welfare and wildlife conservation. However, its manual collection process introduces potential sources of error, including spelling mistakes and variations in symptom representation. This necessitates meticulous data-cleaning efforts.\n\nAs you delve into the \"Animal Condition Classification Dataset,\" they are poised to confront challenges such as class imbalance and the need for feature engineering. Addressing these challenges will be crucial for achieving robust classification models. Thus, this dataset serves as a rich resource for those eager to make a meaningful impact in the field of animal health assessment, with the understanding that it demands careful handling and methodological rigour to deliver insightful and ethically sound results.\n\ndata.csv\n- AnimalName: Contains the animal kind. Like dog, cat, etc\n- symptoms1-5: Contain symptoms \n- Dangerous: Contains whether the condition is dangerous or not. \n\nIf you are new to machine learning, refer to these two notebooks\n- https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning\n- https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling\n\nThe raw data might seem hard to handle, so you can use these refined data for starting out. \n- cleaned data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning/output\n- encoded data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling/output",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

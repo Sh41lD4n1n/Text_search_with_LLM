@@ -1,0 +1,43 @@
+{
+  "id": "armitaraz/google-war-news",
+  "id_no": 2164905,
+  "datasetSlugNullable": "google-war-news",
+  "ownerUserNullable": "armitaraz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google War News",
+  "subtitleNullable": "Google News headlines about war in 21 different countries. ",
+  "descriptionNullable": "This dataset is scraped from 'Google News' Search Results regarding WAR and Conflicts in 21 different countries. The search query keywords are [country] + War. For instance, 'Ukraine War'. The dataset contains '**Headline**', '**Summary**', '**Press**', '**Date**', and '**Keyword**'.\nThe Keyword is the name of the country which is queried in Google News. You can find about 5600 news headlines in the dataset with the topic of WAR. The Google War News Country keywords are: \n**[Afghanistan, Algeria, Chins, Cuba, France, India, Iran, Iraq, Israel, Lebanon, Libya, Nigeria, Pakistan, Palestine, Russia, Sudan, Syria, Ukraine, Venezuela, Vietnam, Yemen ]**\nThis dataset is suitable for different Text Analysis and Natural Language Processing tasks such as **Classification**, **News Similarity (Clustering)**, **Name Entity Recognition (NER)**, **Topic Modeling**, **NEWS Generation**!, **Inline Question Answering** and any other tasks.\nIf you want to get your hands dirty with text analysis regarding WARS, this dataset is FOR YOU!\n\nPlease note:\n- The dataset is not cleaned or preprocessed. \n- The Date of scraping the data is May 10, 2022. So if you see the NEWS DATE eg. 20 hours ago, consider the date from 5/10/2022!\n- The license of the dataset belongs to the data collector, Me. \n- Feel free to download, share and use the data, but I'd be so happy and appreciated it if you **VOTE FOR THE DATASET** in case you find it helpful. \n\n**I hope there will be NO WAR in every land on this planet. **\nEnjoy. \n\n\n\n",
+  "datasetId": 2164905,
+  "datasetSlug": "google-war-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "armitaraz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7117,
+  "totalVotes": 38,
+  "totalDownloads": 772,
+  "title": "Google War News",
+  "hasTitle": true,
+  "subtitle": "Google News headlines about war in 21 different countries. ",
+  "hasSubtitle": true,
+  "description": "This dataset is scraped from 'Google News' Search Results regarding WAR and Conflicts in 21 different countries. The search query keywords are [country] + War. For instance, 'Ukraine War'. The dataset contains '**Headline**', '**Summary**', '**Press**', '**Date**', and '**Keyword**'.\nThe Keyword is the name of the country which is queried in Google News. You can find about 5600 news headlines in the dataset with the topic of WAR. The Google War News Country keywords are: \n**[Afghanistan, Algeria, Chins, Cuba, France, India, Iran, Iraq, Israel, Lebanon, Libya, Nigeria, Pakistan, Palestine, Russia, Sudan, Syria, Ukraine, Venezuela, Vietnam, Yemen ]**\nThis dataset is suitable for different Text Analysis and Natural Language Processing tasks such as **Classification**, **News Similarity (Clustering)**, **Name Entity Recognition (NER)**, **Topic Modeling**, **NEWS Generation**!, **Inline Question Answering** and any other tasks.\nIf you want to get your hands dirty with text analysis regarding WARS, this dataset is FOR YOU!\n\nPlease note:\n- The dataset is not cleaned or preprocessed. \n- The Date of scraping the data is May 10, 2022. So if you see the NEWS DATE eg. 20 hours ago, consider the date from 5/10/2022!\n- The license of the dataset belongs to the data collector, Me. \n- Feel free to download, share and use the data, but I'd be so happy and appreciated it if you **VOTE FOR THE DATASET** in case you find it helpful. \n\n**I hope there will be NO WAR in every land on this planet. **\nEnjoy. \n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "nlp",
+    "text",
+    "multiclass classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

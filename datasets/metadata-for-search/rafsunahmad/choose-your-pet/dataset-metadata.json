@@ -1,0 +1,43 @@
+{
+  "id": "rafsunahmad/choose-your-pet",
+  "id_no": 3723914,
+  "datasetSlugNullable": "choose-your-pet",
+  "ownerUserNullable": "rafsunahmad",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pet image classifier",
+  "subtitleNullable": "Know about the pet by passing image",
+  "descriptionNullable": "It is pet classifier dataset. In this dataset you will get different animals images which people kept as pet.\n**The animals categories are:**\n####Dog:#####\nLabrador Retriever, Golden Retriever, German Shepherd, Bulldog, Beagle, Poodle,\nYorkshire Terrier, Dachshund, Shih Tzu, Boxer, French Bulldog, Rottweiler, Miniature Schnauzer,\nCocker Spaniel, Great Dane.\n\n####Cat####\nPersian, Siamese, Maine Coon, Ragdoll, Bengal, Scottish Fold, Sphynx, British Shorthair, Abyssinian, Russian Blue, Burmese, Himalayan, Devon Rex, American Shorthair, Egyptian Mau.\n\n####Bird####\nBudgerigar, Cockatiel, Lovebird, Cockatoo, African Grey Parrot, Canary, Finch, Bourke's Parakeet, Quaker Parrot, \nParrotlet, Pionus Parrot.\n\n####Mammals####\nHamsters, Guinea Pigs, Gerbils, Rabbits, Rats, Mice, Chinchillas, Hedgehogs, Sugar Gliders, Degus, Prairie Dogs.\n\n####Reptiles####\nLeopard Gecko, Bearded Dragon, Crested Gecko, Green Iguana, Chameleon.\n\n####Amphibians####\nAfrican Dwarf Frog, Axolotls, Red-eyed Tree Frog, White's Tree Frog, American Toad, Frogs with Tadpoles.\n\n####Exotic Pets####\nChinchillas, Monitor Lizards, Hyacinth Macaws, Horned Toads, Fox Wallabies\n\nHorses, Ferrets, Salamander\n\nThis an image classification problem.\n",
+  "datasetId": 3723914,
+  "datasetSlug": "choose-your-pet",
+  "hasDatasetSlug": true,
+  "ownerUser": "rafsunahmad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1597,
+  "totalVotes": 13,
+  "totalDownloads": 221,
+  "title": "Pet image classifier",
+  "hasTitle": true,
+  "subtitle": "Know about the pet by passing image",
+  "hasSubtitle": true,
+  "description": "It is pet classifier dataset. In this dataset you will get different animals images which people kept as pet.\n**The animals categories are:**\n####Dog:#####\nLabrador Retriever, Golden Retriever, German Shepherd, Bulldog, Beagle, Poodle,\nYorkshire Terrier, Dachshund, Shih Tzu, Boxer, French Bulldog, Rottweiler, Miniature Schnauzer,\nCocker Spaniel, Great Dane.\n\n####Cat####\nPersian, Siamese, Maine Coon, Ragdoll, Bengal, Scottish Fold, Sphynx, British Shorthair, Abyssinian, Russian Blue, Burmese, Himalayan, Devon Rex, American Shorthair, Egyptian Mau.\n\n####Bird####\nBudgerigar, Cockatiel, Lovebird, Cockatoo, African Grey Parrot, Canary, Finch, Bourke's Parakeet, Quaker Parrot, \nParrotlet, Pionus Parrot.\n\n####Mammals####\nHamsters, Guinea Pigs, Gerbils, Rabbits, Rats, Mice, Chinchillas, Hedgehogs, Sugar Gliders, Degus, Prairie Dogs.\n\n####Reptiles####\nLeopard Gecko, Bearded Dragon, Crested Gecko, Green Iguana, Chameleon.\n\n####Amphibians####\nAfrican Dwarf Frog, Axolotls, Red-eyed Tree Frog, White's Tree Frog, American Toad, Frogs with Tadpoles.\n\n####Exotic Pets####\nChinchillas, Monitor Lizards, Hyacinth Macaws, Horned Toads, Fox Wallabies\n\nHorses, Ferrets, Salamander\n\nThis an image classification problem.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "classification",
+    "multiclass classification",
+    "food",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

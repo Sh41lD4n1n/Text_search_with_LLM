@@ -1,0 +1,39 @@
+{
+  "id": "ruinov1st/gesture-classification-hagrid",
+  "id_no": 3661090,
+  "datasetSlugNullable": "gesture-classification-hagrid",
+  "ownerUserNullable": "ruinov1st",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Gesture Classification HaGRID",
+  "subtitleNullable": "Gesture images including thumbs_up(like) and thumbs_down(dislike).",
+  "descriptionNullable": "## Data Sources:\nThis Dataset is collected from HAnd Gesture Recognition Image Dataset(HaGRID) and its 512p version created by [Innominate817](https://www.kaggle.com/innominate817). I modify it  for gesture classification.\nHaGRID: https://github.com/hukenovs/hagrid\nHaGRID-512p: https://www.kaggle.com/datasets/innominate817/hagrid-classification-512p\n## Data Analysis:\nit includes 2 gestures: thumbs up (like) and thumbs down(dislike).\nThe statistics for each sample are as follows:\n| shape | train | valid | test | total|\n| --- | --- | --- | --- | --- |\n| like | 16554 | 5518 | 5519 | 27591|\n| dislike | 17007 | 5669 | 5669 | 28345|\n\n## Usage:\nThis dataset can be used in gesture classification. My demo can be seen on GitHub: https://github.com/RuiNov1st/InternWork/tree/main/L6_GestureClassification. I use pretrained ResNet18 as base model and obtain its capability to recognize 'thumb up' and 'thumb down' gestures through retraining. The accuracy in the test set can reach 99%. I also take some my own gestures photos for testing, but now the performance is not good.\nAny suggestions will be greatly appreciated! \n",
+  "datasetId": 3661090,
+  "datasetSlug": "gesture-classification-hagrid",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruinov1st",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 158,
+  "totalVotes": 0,
+  "totalDownloads": 14,
+  "title": "Gesture Classification HaGRID",
+  "hasTitle": true,
+  "subtitle": "Gesture images including thumbs_up(like) and thumbs_down(dislike).",
+  "hasSubtitle": true,
+  "description": "## Data Sources:\nThis Dataset is collected from HAnd Gesture Recognition Image Dataset(HaGRID) and its 512p version created by [Innominate817](https://www.kaggle.com/innominate817). I modify it  for gesture classification.\nHaGRID: https://github.com/hukenovs/hagrid\nHaGRID-512p: https://www.kaggle.com/datasets/innominate817/hagrid-classification-512p\n## Data Analysis:\nit includes 2 gestures: thumbs up (like) and thumbs down(dislike).\nThe statistics for each sample are as follows:\n| shape | train | valid | test | total|\n| --- | --- | --- | --- | --- |\n| like | 16554 | 5518 | 5519 | 27591|\n| dislike | 17007 | 5669 | 5669 | 28345|\n\n## Usage:\nThis dataset can be used in gesture classification. My demo can be seen on GitHub: https://github.com/RuiNov1st/InternWork/tree/main/L6_GestureClassification. I use pretrained ResNet18 as base model and obtain its capability to recognize 'thumb up' and 'thumb down' gestures through retraining. The accuracy in the test set can reach 99%. I also take some my own gestures photos for testing, but now the performance is not good.\nAny suggestions will be greatly appreciated! \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

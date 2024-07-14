@@ -1,0 +1,44 @@
+{
+  "id": "nikhileswarkomati/suicide-watch",
+  "id_no": 1075326,
+  "datasetSlugNullable": "suicide-watch",
+  "ownerUserNullable": "nikhileswarkomati",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Suicide and Depression Detection",
+  "subtitleNullable": "A dataset that can be used to detect suicide and depression in a text.",
+  "descriptionNullable": "\n### Context\n\nWhen I thought of building a text classifier to detect Suicide Ideation I couldn't find any public dataset. Hope this can be useful to anyone looking for suicide detection datasets and can save their time \ud83d\udc9c.\n\n\n### Content\n\nThe dataset is a collection of posts from the \"SuicideWatch\" and \"depression\" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to \"SuicideWatch\" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while \"depression\" posts were collected from Jan 1, 2009, to Jan 2, 2021. All posts collected from SuicideWatch are labeled as suicide, While posts collected from the depression subreddit are labeled as depression. Non-suicide posts are collected from r/teenagers.\n\n### Version\nThe current version has only suicide & non-suicide labels. \nVersion V13 has suicide, depression & teenagers(normal conversations) as labels.\n\n### Collection\n\nA notebook is provided to show how posts from Reddit can be collected using PushShift API.",
+  "datasetId": 1075326,
+  "datasetSlug": "suicide-watch",
+  "hasDatasetSlug": true,
+  "ownerUser": "nikhileswarkomati",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 116475,
+  "totalVotes": 188,
+  "totalDownloads": 13692,
+  "title": "Suicide and Depression Detection",
+  "hasTitle": true,
+  "subtitle": "A dataset that can be used to detect suicide and depression in a text.",
+  "hasSubtitle": true,
+  "description": "\n### Context\n\nWhen I thought of building a text classifier to detect Suicide Ideation I couldn't find any public dataset. Hope this can be useful to anyone looking for suicide detection datasets and can save their time \ud83d\udc9c.\n\n\n### Content\n\nThe dataset is a collection of posts from the \"SuicideWatch\" and \"depression\" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to \"SuicideWatch\" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while \"depression\" posts were collected from Jan 1, 2009, to Jan 2, 2021. All posts collected from SuicideWatch are labeled as suicide, While posts collected from the depression subreddit are labeled as depression. Non-suicide posts are collected from r/teenagers.\n\n### Version\nThe current version has only suicide & non-suicide labels. \nVersion V13 has suicide, depression & teenagers(normal conversations) as labels.\n\n### Collection\n\nA notebook is provided to show how posts from Reddit can be collected using PushShift API.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "mental health",
+    "text",
+    "health conditions",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

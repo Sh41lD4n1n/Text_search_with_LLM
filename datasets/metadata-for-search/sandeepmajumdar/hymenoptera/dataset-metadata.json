@@ -1,0 +1,43 @@
+{
+  "id": "sandeepmajumdar/hymenoptera",
+  "id_no": 2442023,
+  "datasetSlugNullable": "hymenoptera",
+  "ownerUserNullable": "sandeepmajumdar",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Hymenoptera Species Detection (Sting Bites)",
+  "subtitleNullable": "Image files of Hymenoptera species, two classes, ants and bees",
+  "descriptionNullable": "This dataset contains images of Hymenoptera species. It was downloaded from DPhi practice challenge on 29 Aug 2022. Original link is:  https://dphi.tech/challenges/data-sprint-87-hymenoptera-species-recognition/255/data\n\nThere are images in two classes: ants and bees.\n\nTask is to classify the images.",
+  "datasetId": 2442023,
+  "datasetSlug": "hymenoptera",
+  "hasDatasetSlug": true,
+  "ownerUser": "sandeepmajumdar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 561,
+  "totalVotes": 8,
+  "totalDownloads": 61,
+  "title": "Hymenoptera Species Detection (Sting Bites)",
+  "hasTitle": true,
+  "subtitle": "Image files of Hymenoptera species, two classes, ants and bees",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of Hymenoptera species. It was downloaded from DPhi practice challenge on 29 Aug 2022. Original link is:  https://dphi.tech/challenges/data-sprint-87-hymenoptera-species-recognition/255/data\n\nThere are images in two classes: ants and bees.\n\nTask is to classify the images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "intermediate",
+    "deep learning",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

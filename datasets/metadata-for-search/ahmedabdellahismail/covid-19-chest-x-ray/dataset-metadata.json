@@ -1,0 +1,42 @@
+{
+  "id": "ahmedabdellahismail/covid-19-chest-x-ray",
+  "id_no": 4690653,
+  "datasetSlugNullable": "covid-19-chest-x-ray",
+  "ownerUserNullable": "ahmedabdellahismail",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Covid-19 Chest X-ray",
+  "subtitleNullable": "",
+  "descriptionNullable": "Context\n\n  The whole world is suffering from COVID-19 disease and its proper and timely diagnosis is the need of the hour. So for building an efficient AI-based diagnostic system we have collected Chest ray images from different sources so that we can train our CNN model for automating the whole diagnosis method. Therefore we have collected Chest ray images from different sources and research papers and combined them to create one comprehensive dataset that can be used by research community.\n\n  This dataset is also used in COVID Lite paper which has shown significant results by building novel CNN based solution.\n\nContent\n\n  This dataset consists of a posteroanterior (PA) view of chest X-ray images comprising Normal, Viral, and CVOID-19 affected patients. There are total 1709 CXR images.",
+  "datasetId": 4690653,
+  "datasetSlug": "covid-19-chest-x-ray",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedabdellahismail",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 312,
+  "totalVotes": 2,
+  "totalDownloads": 94,
+  "title": "Covid-19 Chest X-ray",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Context\n\n  The whole world is suffering from COVID-19 disease and its proper and timely diagnosis is the need of the hour. So for building an efficient AI-based diagnostic system we have collected Chest ray images from different sources so that we can train our CNN model for automating the whole diagnosis method. Therefore we have collected Chest ray images from different sources and research papers and combined them to create one comprehensive dataset that can be used by research community.\n\n  This dataset is also used in COVID Lite paper which has shown significant results by building novel CNN based solution.\n\nContent\n\n  This dataset consists of a posteroanterior (PA) view of chest X-ray images comprising Normal, Viral, and CVOID-19 affected patients. There are total 1709 CXR images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "deep learning",
+    "cnn",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

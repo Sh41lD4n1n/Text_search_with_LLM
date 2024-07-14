@@ -1,0 +1,44 @@
+{
+  "id": "anil1055/turkish-tweet-dataset",
+  "id_no": 1260963,
+  "datasetSlugNullable": "turkish-tweet-dataset",
+  "ownerUserNullable": "anil1055",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Turkish Tweets Dataset",
+  "subtitleNullable": "Dataset for Sentiment Analysis",
+  "descriptionNullable": "Dataset consists of 5 emotion labels. These labels are anger, happy, distinguish, surprise and fear. \nThere are 800 tweets in the dataset for each label. Hence, total tweet count is 4000 for dataset.\n\nYou can use the data set in many areas such as sentiment, emotion analysis and topic modeling.\n\nInfo: Hashtags and usernames was removed in the dataset.\nDataset has used many studies and researches. These researches are followed as:\n-(please citation this article) G\u00fcven, Z. A., Diri, B., & C\u0105kaloglu, T. (2020). Comparison of n-stage Latent Dirichlet Allocation versus other topic modeling methods for emotion analysis. Journal of the Faculty of Engineering and Architecture of Gazi University. https://doi.org/10.17341/gazimmfd.556104\n-G\u00fcven, Z. A., Diri, B., & \u00c7akalo\u011flu, T. (2019). Emotion Detection with n-stage Latent Dirichlet Allocation for Turkish Tweets. Academic Platform Journal of Engineering and Science. https://doi.org/10.21541/apjes.459447\n-Guven, Z. A., Diri, B., & Cakaloglu, T. (2019). Comparison Method for Emotion Detection of Twitter Users. Proceedings - 2019 Innovations in Intelligent Systems and Applications Conference, ASYU 2019. https://doi.org/10.1109/ASYU48272.2019.8946435\n",
+  "datasetId": 1260963,
+  "datasetSlug": "turkish-tweet-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anil1055",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5590,
+  "totalVotes": 10,
+  "totalDownloads": 429,
+  "title": "Turkish Tweets Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "Dataset consists of 5 emotion labels. These labels are anger, happy, distinguish, surprise and fear. \nThere are 800 tweets in the dataset for each label. Hence, total tweet count is 4000 for dataset.\n\nYou can use the data set in many areas such as sentiment, emotion analysis and topic modeling.\n\nInfo: Hashtags and usernames was removed in the dataset.\nDataset has used many studies and researches. These researches are followed as:\n-(please citation this article) G\u00fcven, Z. A., Diri, B., & C\u0105kaloglu, T. (2020). Comparison of n-stage Latent Dirichlet Allocation versus other topic modeling methods for emotion analysis. Journal of the Faculty of Engineering and Architecture of Gazi University. https://doi.org/10.17341/gazimmfd.556104\n-G\u00fcven, Z. A., Diri, B., & \u00c7akalo\u011flu, T. (2019). Emotion Detection with n-stage Latent Dirichlet Allocation for Turkish Tweets. Academic Platform Journal of Engineering and Science. https://doi.org/10.21541/apjes.459447\n-Guven, Z. A., Diri, B., & Cakaloglu, T. (2019). Comparison Method for Emotion Detection of Twitter Users. Proceedings - 2019 Innovations in Intelligent Systems and Applications Conference, ASYU 2019. https://doi.org/10.1109/ASYU48272.2019.8946435\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "classification",
+    "clustering",
+    "text",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

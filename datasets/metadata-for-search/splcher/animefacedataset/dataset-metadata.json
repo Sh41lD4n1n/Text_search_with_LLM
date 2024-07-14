@@ -1,0 +1,44 @@
+{
+  "id": "splcher/animefacedataset",
+  "id_no": 379764,
+  "datasetSlugNullable": "animefacedataset",
+  "ownerUserNullable": "splcher",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Anime Face Dataset",
+  "subtitleNullable": "Mckinsey666 dataset scraped from www.getchu.com",
+  "descriptionNullable": "### Context\n\nThis dataset is often used for varying projects with anime faces. I will keep this dataset up-to-date and clean, along with including fun scripts for generating anime waifus!\n\n### Content\n\nThis dataset has 63,632 \"high-quality\" anime faces... but let's be real... all anime girls are high-quality. \n![anime girls](https://raw.githubusercontent.com/Mckinsey666/Anime-Face-Dataset/master/test.jpg)\n\n### Acknowledgements\n\nBased on:\n[Mckinsey666](https://github.com/Mckinsey666/Anime-Face-Dataset)'s dataset\n\n### Inspiration\n\nI just want to generate perfect waifus. It's a simple dream. I will expand and alter this dataset to move towards a pure dataset of cute female anime faces.\n\n### Example Output\n\nIn the [Starter: Anime Face Dataset](https://www.kaggle.com/splcher/starter-anime-face-dataset) kernel, you will find the code to create this:\n![real vs fake images](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3234333%2F2dc6961dda3737c24e0f5bd3e602f011%2Freal%20vs%20fake1.png?generation=1570995411099796&alt=media)\n",
+  "datasetId": 379764,
+  "datasetSlug": "animefacedataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "splcher",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 127330,
+  "totalVotes": 377,
+  "totalDownloads": 29010,
+  "title": "Anime Face Dataset",
+  "hasTitle": true,
+  "subtitle": "Mckinsey666 dataset scraped from www.getchu.com",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is often used for varying projects with anime faces. I will keep this dataset up-to-date and clean, along with including fun scripts for generating anime waifus!\n\n### Content\n\nThis dataset has 63,632 \"high-quality\" anime faces... but let's be real... all anime girls are high-quality. \n![anime girls](https://raw.githubusercontent.com/Mckinsey666/Anime-Face-Dataset/master/test.jpg)\n\n### Acknowledgements\n\nBased on:\n[Mckinsey666](https://github.com/Mckinsey666/Anime-Face-Dataset)'s dataset\n\n### Inspiration\n\nI just want to generate perfect waifus. It's a simple dream. I will expand and alter this dataset to move towards a pure dataset of cute female anime faces.\n\n### Example Output\n\nIn the [Starter: Anime Face Dataset](https://www.kaggle.com/splcher/starter-anime-face-dataset) kernel, you will find the code to create this:\n![real vs fake images](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3234333%2F2dc6961dda3737c24e0f5bd3e602f011%2Freal%20vs%20fake1.png?generation=1570995411099796&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "computer science",
+    "deep learning",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

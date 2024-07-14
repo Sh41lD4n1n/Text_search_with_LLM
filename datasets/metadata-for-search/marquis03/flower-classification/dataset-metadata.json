@@ -1,0 +1,41 @@
+{
+  "id": "marquis03/flower-classification",
+  "id_no": 3917752,
+  "datasetSlugNullable": "flower-classification",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Flower Classification",
+  "subtitleNullable": "14 Types of Flower Image Classification",
+  "descriptionNullable": "The dataset contains 14 types of flower images, including 13618 training images and 98 validation images, with a total data size of 202MB, and supports the recognition of the following flower types: carnation, iris, bluebells, golden english, roses, fallen nephews, tulips, marigolds, dandelions, chrysanthemums, black-eyed daisies, water lilies, sunflowers, and daisies.",
+  "datasetId": 3917752,
+  "datasetSlug": "flower-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18695,
+  "totalVotes": 59,
+  "totalDownloads": 3599,
+  "title": "Flower Classification",
+  "hasTitle": true,
+  "subtitle": "14 Types of Flower Image Classification",
+  "hasSubtitle": true,
+  "description": "The dataset contains 14 types of flower images, including 13618 training images and 98 validation images, with a total data size of 202MB, and supports the recognition of the following flower types: carnation, iris, bluebells, golden english, roses, fallen nephews, tulips, marigolds, dandelions, chrysanthemums, black-eyed daisies, water lilies, sunflowers, and daisies.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "chinese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

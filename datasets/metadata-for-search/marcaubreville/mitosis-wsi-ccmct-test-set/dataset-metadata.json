@@ -1,0 +1,48 @@
+{
+  "id": "marcaubreville/mitosis-wsi-ccmct-test-set",
+  "id_no": 484595,
+  "datasetSlugNullable": "mitosis-wsi-ccmct-test-set",
+  "ownerUserNullable": "marcaubreville",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mitosis WSI CCMCT Test Set",
+  "subtitleNullable": "Large-scale mitotic figure data set on canine cutaneous mast cell tumor",
+  "descriptionNullable": "### Context\n\nIn the field of pathology, one of the most relevant questions in automatic or semi-automatic tumor grading is the density of mitotic figures (i.e., cells undergoing cell division). It is widely accepted that this density in the tumor area is related to the aggressiveness of the tumor. Detection of mitotic figures is a common task in computational pathology. Previous data sets, however, lack annotations for the complete area of the whole slide image (WSI). Due to this, we can expect them to have less favorable generalization properties. \n\nThe data set has been described in our article in Scientific Data: https://www.nature.com/articles/s41597-019-0290-4\nNote that this is the test set, the training set can be found here: [https://www.kaggle.com/marcaubreville/mitosis-wsi-ccmct-training-set](here)\n\n\n### Content\n\n\nWe present a dataset of 32 Whole Slide Images (WSI), out of which this kaggle data set represents the test set (11 WSI), with annotations for various cell types. All mitotic figures have been identified by two expert pathologists (class-blinded with final consensus upon disagreement). Additionally, a customized RetinaNet-based object-detection pipeline was used to identify potentially missed mitotic figures, that were subsequently presented to the experts for another blind vote with final consensus. \n\nPlease note that this data set was, for the sake of compatibility with notebooks on kaggle, converted to the DICOM format. During this, the original data was encoded in a lossy format once again. \n\n\n### Acknowledgements\n\nThanks to Christian Marzahl (@FAU Germany) for providing some of the pipeline code, thanks to Christof A. Bertram and Robert Klopfleisch (both @FU Berlin, Germany) for providing the annotations and the WSI.\n\n\n### Inspiration\n\nThere are numerous questions that can potentially be answered with this data set: \n- How do (other) state-of-the-art networks perform in mitotic figure detection?\n- What percentage of the data is required to perform reasonably well with a specified architecture?\n- How well do algorithms perform in finding the most aggressive (i.e., highest mitotic count) area?\n- Can transfer learning or domain adaptation with this data set be used to increase performance on other data sets (MITOS[2012|2014], TUPAC16, etc...)",
+  "datasetId": 484595,
+  "datasetSlug": "mitosis-wsi-ccmct-test-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "marcaubreville",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6362,
+  "totalVotes": 14,
+  "totalDownloads": 207,
+  "title": "Mitosis WSI CCMCT Test Set",
+  "hasTitle": true,
+  "subtitle": "Large-scale mitotic figure data set on canine cutaneous mast cell tumor",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn the field of pathology, one of the most relevant questions in automatic or semi-automatic tumor grading is the density of mitotic figures (i.e., cells undergoing cell division). It is widely accepted that this density in the tumor area is related to the aggressiveness of the tumor. Detection of mitotic figures is a common task in computational pathology. Previous data sets, however, lack annotations for the complete area of the whole slide image (WSI). Due to this, we can expect them to have less favorable generalization properties. \n\nThe data set has been described in our article in Scientific Data: https://www.nature.com/articles/s41597-019-0290-4\nNote that this is the test set, the training set can be found here: [https://www.kaggle.com/marcaubreville/mitosis-wsi-ccmct-training-set](here)\n\n\n### Content\n\n\nWe present a dataset of 32 Whole Slide Images (WSI), out of which this kaggle data set represents the test set (11 WSI), with annotations for various cell types. All mitotic figures have been identified by two expert pathologists (class-blinded with final consensus upon disagreement). Additionally, a customized RetinaNet-based object-detection pipeline was used to identify potentially missed mitotic figures, that were subsequently presented to the experts for another blind vote with final consensus. \n\nPlease note that this data set was, for the sake of compatibility with notebooks on kaggle, converted to the DICOM format. During this, the original data was encoded in a lossy format once again. \n\n\n### Acknowledgements\n\nThanks to Christian Marzahl (@FAU Germany) for providing some of the pipeline code, thanks to Christof A. Bertram and Robert Klopfleisch (both @FU Berlin, Germany) for providing the annotations and the WSI.\n\n\n### Inspiration\n\nThere are numerous questions that can potentially be answered with this data set: \n- How do (other) state-of-the-art networks perform in mitotic figure detection?\n- What percentage of the data is required to perform reasonably well with a specified architecture?\n- How well do algorithms perform in finding the most aggressive (i.e., highest mitotic count) area?\n- Can transfer learning or domain adaptation with this data set be used to increase performance on other data sets (MITOS[2012|2014], TUPAC16, etc...)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "health",
+    "deep learning",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "christianm",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

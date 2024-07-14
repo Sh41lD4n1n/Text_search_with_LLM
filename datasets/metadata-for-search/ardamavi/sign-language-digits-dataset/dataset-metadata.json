@@ -1,0 +1,43 @@
+{
+  "id": "ardamavi/sign-language-digits-dataset",
+  "id_no": 7836,
+  "datasetSlugNullable": "sign-language-digits-dataset",
+  "ownerUserNullable": "ardamavi",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Sign Language Digits Dataset",
+  "subtitleNullable": "Turkey Ankara Ayranc\u0131 Anadolu High School's Sign Language Digits Dataset",
+  "descriptionNullable": "### Context\n\nSign languages (also known as signed languages) are languages that use manual communication to convey meaning. This can include simultaneously employing hand gestures, movement, orientation of the fingers, arms or body, and facial expressions to convey a speaker's ideas.  Source: https://en.wikipedia.org/wiki/Sign_language\n\n## Announcement:\nThe new **27 Class Sign Language Dataset**, which has more gestures with different backgrounds, was published on Kaggle: [Kaggl - 27 Class Sign Language Dataset](https://www.kaggle.com/ardamavi/27-class-sign-language-dataset) \n\n### Content\n\n### Dataset Preview:\n\n\n<img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_0.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_1.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_2.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_3.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_4.JPG\">\n\n<img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_5.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_6.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_7.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_8.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_9.JPG\">\n\n### Details of datasets:\n- Image size: 64x64\n- Color space: Grayscale\n- File format: npy\n- Number of classes: 10 (Digits: 0-9)\n- Number of participant students: 218\n- Number of samples per student: 10\n\n### Details of datasets in GitHub Repo:\nRepo: [github.com/ardamavi/Sign-Language-Digits-Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset)\n\n- Image size: 100x100\n- Color space: RGB\n\n\n### Acknowledgements\n\n# Sign Language Digits Dataset\n## Dataset GitHub Page: [github.com/ardamavi/Sign-Language-Digits-Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset)\n### By ***[Turkey Ankara Ayranc\u0131 Anadolu High School](http://ayrancianadolu.meb.k12.tr)*** Students\n\n#### Turkey Ankara Ayranc\u0131 Anadolu High School's Sign Language Digits Dataset\nThis dataset prepared by our school students.\n\n## Project executives:\n## Zeynep Dikle & Arda Mavi\nTurkey Ankara Ayranc\u0131 Anadolu High School Students\n\n# For Development:\n### Processing Dataset:\nFor processing the dataset, look up Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)\n\n### Inspiration\n\nWhat is that person saying?\n\n## Cite as:\nIf you would like to use the data in research projects, please cite the following:\nMavi, A., (2020), \u201cA New Dataset and Proposed Convolutional Neural Network Architecture for Classification of American Sign Language Digits\u201d, arXiv:2011.08927 [cs.CV]\n",
+  "datasetId": 7836,
+  "datasetSlug": "sign-language-digits-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ardamavi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 172236,
+  "totalVotes": 852,
+  "totalDownloads": 31801,
+  "title": "Sign Language Digits Dataset",
+  "hasTitle": true,
+  "subtitle": "Turkey Ankara Ayranc\u0131 Anadolu High School's Sign Language Digits Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSign languages (also known as signed languages) are languages that use manual communication to convey meaning. This can include simultaneously employing hand gestures, movement, orientation of the fingers, arms or body, and facial expressions to convey a speaker's ideas.  Source: https://en.wikipedia.org/wiki/Sign_language\n\n## Announcement:\nThe new **27 Class Sign Language Dataset**, which has more gestures with different backgrounds, was published on Kaggle: [Kaggl - 27 Class Sign Language Dataset](https://www.kaggle.com/ardamavi/27-class-sign-language-dataset) \n\n### Content\n\n### Dataset Preview:\n\n\n<img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_0.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_1.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_2.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_3.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_4.JPG\">\n\n<img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_5.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_6.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_7.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_8.JPG\"> <img src=\"https://github.com/ardamavi/Sign-Language-Digits-Dataset/raw/master/Examples/example_9.JPG\">\n\n### Details of datasets:\n- Image size: 64x64\n- Color space: Grayscale\n- File format: npy\n- Number of classes: 10 (Digits: 0-9)\n- Number of participant students: 218\n- Number of samples per student: 10\n\n### Details of datasets in GitHub Repo:\nRepo: [github.com/ardamavi/Sign-Language-Digits-Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset)\n\n- Image size: 100x100\n- Color space: RGB\n\n\n### Acknowledgements\n\n# Sign Language Digits Dataset\n## Dataset GitHub Page: [github.com/ardamavi/Sign-Language-Digits-Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset)\n### By ***[Turkey Ankara Ayranc\u0131 Anadolu High School](http://ayrancianadolu.meb.k12.tr)*** Students\n\n#### Turkey Ankara Ayranc\u0131 Anadolu High School's Sign Language Digits Dataset\nThis dataset prepared by our school students.\n\n## Project executives:\n## Zeynep Dikle & Arda Mavi\nTurkey Ankara Ayranc\u0131 Anadolu High School Students\n\n# For Development:\n### Processing Dataset:\nFor processing the dataset, look up Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)\n\n### Inspiration\n\nWhat is that person saying?\n\n## Cite as:\nIf you would like to use the data in research projects, please cite the following:\nMavi, A., (2020), \u201cA New Dataset and Proposed Convolutional Neural Network Architecture for Classification of American Sign Language Digits\u201d, arXiv:2011.08927 [cs.CV]\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "education",
+    "image",
+    "primary and secondary schools",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

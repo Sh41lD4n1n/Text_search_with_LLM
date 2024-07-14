@@ -1,0 +1,44 @@
+{
+  "id": "vijayvvenkitesh/microsoft-stock-time-series-analysis",
+  "id_no": 1409311,
+  "datasetSlugNullable": "microsoft-stock-time-series-analysis",
+  "ownerUserNullable": "vijayvvenkitesh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Microsoft Stock- Time Series Analysis",
+  "subtitleNullable": "This contains data of Microsoft stock. it was gathered using google sheets.",
+  "descriptionNullable": "### Context\n\nThis file contains the stock information of Microsoft from 04/01/2015 to 04/01/2021\n\n\n### Content\n\nThis data was acquired in google sheets using the command 'GOOGLEFINANCE'\n\n\n\n### Inspiration\n\nWith this data you can do basic EDA and use predictive analysis. ",
+  "datasetId": 1409311,
+  "datasetSlug": "microsoft-stock-time-series-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijayvvenkitesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 45159,
+  "totalVotes": 76,
+  "totalDownloads": 8124,
+  "title": "Microsoft Stock- Time Series Analysis",
+  "hasTitle": true,
+  "subtitle": "This contains data of Microsoft stock. it was gathered using google sheets.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis file contains the stock information of Microsoft from 04/01/2015 to 04/01/2021\n\n\n### Content\n\nThis data was acquired in google sheets using the command 'GOOGLEFINANCE'\n\n\n\n### Inspiration\n\nWith this data you can do basic EDA and use predictive analysis. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "business",
+    "software",
+    "beginner",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

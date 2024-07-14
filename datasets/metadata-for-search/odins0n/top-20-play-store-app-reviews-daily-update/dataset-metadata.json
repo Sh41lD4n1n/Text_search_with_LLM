@@ -1,0 +1,42 @@
+{
+  "id": "odins0n/top-20-play-store-app-reviews-daily-update",
+  "id_no": 2270520,
+  "datasetSlugNullable": "top-20-play-store-app-reviews-daily-update",
+  "ownerUserNullable": "odins0n",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 20 Play Store App Reviews (Daily Update) ",
+  "subtitleNullable": "10000 Latest Reviews of Top 20 apps on Google Play Store",
+  "descriptionNullable": "The Dataset consists of **10000** latest reviews from the **Top 20** apps on the Google Play Store. \nThe Top 20 apps include the following:\n\n1.  **Facebook**\n2.  **WhatsApp**\n3.  **Facebook Messenger**\n4. **Instagram**\n5. **TikTok**\n6. **Subway Surfers**\n7. **Facebook Lite**\n8. **Microsoft Word**\n9. **Microsoft PowerPoint**\n10. **Snapchat**\n11. **SHAREit**\n12. **Netflix**\n13. **Twitter**\n14. **Flipboard**\n15. **Candy Crush Saga**\n16. **Skype**\n17.  **Spotify**\n18. **Dropbox**\n19. **Viber**\n20. **LINE**",
+  "datasetId": 2270520,
+  "datasetSlug": "top-20-play-store-app-reviews-daily-update",
+  "hasDatasetSlug": true,
+  "ownerUser": "odins0n",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18998,
+  "totalVotes": 129,
+  "totalDownloads": 2482,
+  "title": "Top 20 Play Store App Reviews (Daily Update) ",
+  "hasTitle": true,
+  "subtitle": "10000 Latest Reviews of Top 20 apps on Google Play Store",
+  "hasSubtitle": true,
+  "description": "The Dataset consists of **10000** latest reviews from the **Top 20** apps on the Google Play Store. \nThe Top 20 apps include the following:\n\n1.  **Facebook**\n2.  **WhatsApp**\n3.  **Facebook Messenger**\n4. **Instagram**\n5. **TikTok**\n6. **Subway Surfers**\n7. **Facebook Lite**\n8. **Microsoft Word**\n9. **Microsoft PowerPoint**\n10. **Snapchat**\n11. **SHAREit**\n12. **Netflix**\n13. **Twitter**\n14. **Flipboard**\n15. **Candy Crush Saga**\n16. **Skype**\n17.  **Spotify**\n18. **Dropbox**\n19. **Viber**\n20. **LINE**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mobile and wireless",
+    "tabular",
+    "text",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

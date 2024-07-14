@@ -1,0 +1,41 @@
+{
+  "id": "biancaferreira/african-wildlife",
+  "id_no": 674157,
+  "datasetSlugNullable": "african-wildlife",
+  "ownerUserNullable": "biancaferreira",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "African Wildlife",
+  "subtitleNullable": "A data set of 4 African animals in the YOLO labeling format.",
+  "descriptionNullable": "### Context\n\nThis data set was collected with the original goal of training an embedded device to perform real-time animal detection in nature reserves in South Africa.\n\n### Content\n\nThe data was collected using the following steps:\n1. Perform a Google search on the image class.\n2. Manually download images that are good representations of the class.\n3. Manually label the images in the YOLO format\nYeah .... there was a lot of manual labor involved, but what can you do!\n\nFour animal classes commonly found in nature reserves in South Africa are represented in this data set: buffalo, elephant, rhino and zebra. See the images below for examples.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5162470%2F06c402cda9457b50f04d22c0db8ce46f%2Fsamples_real.png?generation=1590432504707673&alt=media)\n\nThis data set contains at least **376 images for each animal class** collected via Google's image search function and labelled for object detection. Each example in the data set consists of a jpg image and a txt label file. The images have differing aspect ratios and contain at least one example of the specified animal class. Multiple instances of animals can exist in a single image. There could also be occurrences of the other classes in the same image, e.g. a zebra(3) in the file with an elephant(1).\n\nThe txt file contains a list of detectable instances on separate lines of the class in the YOLOv3 labeling format. The image and labelEach file contains object labels in the format:\n```\ntest\n```\n",
+  "datasetId": 674157,
+  "datasetSlug": "african-wildlife",
+  "hasDatasetSlug": true,
+  "ownerUser": "biancaferreira",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 40754,
+  "totalVotes": 125,
+  "totalDownloads": 5013,
+  "title": "African Wildlife",
+  "hasTitle": true,
+  "subtitle": "A data set of 4 African animals in the YOLO labeling format.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data set was collected with the original goal of training an embedded device to perform real-time animal detection in nature reserves in South Africa.\n\n### Content\n\nThe data was collected using the following steps:\n1. Perform a Google search on the image class.\n2. Manually download images that are good representations of the class.\n3. Manually label the images in the YOLO format\nYeah .... there was a lot of manual labor involved, but what can you do!\n\nFour animal classes commonly found in nature reserves in South Africa are represented in this data set: buffalo, elephant, rhino and zebra. See the images below for examples.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5162470%2F06c402cda9457b50f04d22c0db8ce46f%2Fsamples_real.png?generation=1590432504707673&alt=media)\n\nThis data set contains at least **376 images for each animal class** collected via Google's image search function and labelled for object detection. Each example in the data set consists of a jpg image and a txt label file. The images have differing aspect ratios and contain at least one example of the specified animal class. Multiple instances of animals can exist in a single image. There could also be occurrences of the other classes in the same image, e.g. a zebra(3) in the file with an elephant(1).\n\nThe txt file contains a list of detectable instances on separate lines of the class in the YOLOv3 labeling format. The image and labelEach file contains object labels in the format:\n```\ntest\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "africa",
+    "biology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

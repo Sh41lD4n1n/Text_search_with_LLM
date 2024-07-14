@@ -1,0 +1,43 @@
+{
+  "id": "bryanb/fifa-player-stats-database",
+  "id_no": 838882,
+  "datasetSlugNullable": "fifa-player-stats-database",
+  "ownerUserNullable": "bryanb",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "FIFA23 OFFICIAL DATASET",
+  "subtitleNullable": "From FIFA17 to FIFA23 statistics for each football player",
+  "descriptionNullable": "# [Updated 10/2022]\n\n# FIFA concerned: From FIFA17 to FIFA23\n\n### Dataset\n\nThe dataset contains **+17k unique players** and **more than 60 columns**, general information and all KPIs the famous videogame offers. As the esport scene keeps rising espacially on FIFA, I thought it can be useful for the community (kagglers and/or gamers)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F754781%2F9a2ffdb0d55279bd06db95322821ae16%2F5.jpg?generation=1597934332241413&alt=media)\n\n### Context\n\nThe data was retrieved thanks to a crawler that I implemented to retrieve: \n- **Aggregated data** such as *name of the players*, *age*, *country*\n- **Detailed data** such as *offensive potential*, *defense*, *acceleration*\nI like football a lot and this dataset is for me the opportunity to bring my contribution for the realization of projects that can go from simple analysis to elaboration of strategies on optimal composition under constraints... \n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. I would like to thanks @karangadiya who I got inspiration from, check his repo <a href=\"https://github.com/amanthedorkknight/fifa18-all-player-statistics/tree/master/2019\">here</a> !\n\n&gt; FIFA19 dataset: https://www.kaggle.com/karangadiya/fifa19\nFIFA18 dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset\n\n### More details on the crawler\n\nI used beautifulsoup to scrap https://sofifa.com/. First, I scrap the main page to get all general information and then, I scraped each player's webpage that is associated. I defined a batch size so I can parallelize the retrieving of the data. Then I merge all dataframes and cleaned the merged one. I have only 4 CPU and defined 5 batches:\n- **Without batch**:  5h12\n- **With batch**: 1h39\n\nIf you have any question or suggestion, feel free to comment !\n\n## Last update\n\nI added concatenation of all dataframes. !!! Disclaimer !!! Id column is no longer primary key. the primary key would be Id + source together",
+  "datasetId": 838882,
+  "datasetSlug": "fifa-player-stats-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "bryanb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 91170,
+  "totalVotes": 214,
+  "totalDownloads": 62346,
+  "title": "FIFA23 OFFICIAL DATASET",
+  "hasTitle": true,
+  "subtitle": "From FIFA17 to FIFA23 statistics for each football player",
+  "hasSubtitle": true,
+  "description": "# [Updated 10/2022]\n\n# FIFA concerned: From FIFA17 to FIFA23\n\n### Dataset\n\nThe dataset contains **+17k unique players** and **more than 60 columns**, general information and all KPIs the famous videogame offers. As the esport scene keeps rising espacially on FIFA, I thought it can be useful for the community (kagglers and/or gamers)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F754781%2F9a2ffdb0d55279bd06db95322821ae16%2F5.jpg?generation=1597934332241413&alt=media)\n\n### Context\n\nThe data was retrieved thanks to a crawler that I implemented to retrieve: \n- **Aggregated data** such as *name of the players*, *age*, *country*\n- **Detailed data** such as *offensive potential*, *defense*, *acceleration*\nI like football a lot and this dataset is for me the opportunity to bring my contribution for the realization of projects that can go from simple analysis to elaboration of strategies on optimal composition under constraints... \n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. I would like to thanks @karangadiya who I got inspiration from, check his repo <a href=\"https://github.com/amanthedorkknight/fifa18-all-player-statistics/tree/master/2019\">here</a> !\n\n&gt; FIFA19 dataset: https://www.kaggle.com/karangadiya/fifa19\nFIFA18 dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset\n\n### More details on the crawler\n\nI used beautifulsoup to scrap https://sofifa.com/. First, I scrap the main page to get all general information and then, I scraped each player's webpage that is associated. I defined a batch size so I can parallelize the retrieving of the data. Then I merge all dataframes and cleaned the merged one. I have only 4 CPU and defined 5 batches:\n- **Without batch**:  5h12\n- **With batch**: 1h39\n\nIf you have any question or suggestion, feel free to comment !\n\n## Last update\n\nI added concatenation of all dataframes. !!! Disclaimer !!! Id column is no longer primary key. the primary key would be Id + source together",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "exploratory data analysis",
+    "data visualization",
+    "feature engineering",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

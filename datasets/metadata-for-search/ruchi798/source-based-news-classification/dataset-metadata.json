@@ -1,0 +1,41 @@
+{
+  "id": "ruchi798/source-based-news-classification",
+  "id_no": 747224,
+  "datasetSlugNullable": "source-based-news-classification",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Source based Fake News Classification",
+  "subtitleNullable": "Classification of news by type and labels",
+  "descriptionNullable": "### Context\n\nSocial media is a vast pool of content, and among all the content available for users to access, news is an element that is accessed most frequently. These news can be posted by politicians, news channels, newspaper websites, or even common civilians. These posts have to be checked for their authenticity, since spreading misinformation has been a real concern in today\u2019s times, and many firms are taking steps to make the common people aware of the consequences of spread misinformation. The measure of authenticity of the news posted online cannot be definitively measured, since the manual classification of news is tedious and time-consuming, and is also subject to bias.\nPublished paper: http://www.ijirset.com/upload/2020/june/115_4_Source.PDF\n\n\n### Content\n\nData preprocessing has been done on the dataset [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news) and skew has been eliminated.\n\n### Inspiration\n\nIn an era where fake WhatsApp forwards and Tweets are capable of influencing naive minds, tools and knowledge have to be put to practical use in not only mitigating the spread of misinformation but also to inform people about the type of news they consume. \nDevelopment of practical applications for users to gain insight from the articles they consume, fact-checking websites, built-in plugins and article parsers can\nfurther be refined, made easier to access, and more importantly, should create more awareness.\n\n### Acknowledgements\n\n[Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news) seemed the most promising for preprocessing, feature extraction, and model classification. \nThe reason is due to the fact that all the other datasets lacked the sources from where the article/statement text was produced and published from. Citing the sources for article text is crucial to check the trustworthiness of the news and further helps in labelling the data as fake or untrustworthy.\n\nThanks to the dataset\u2019s comprehensiveness in terms of citing the source information of the text along with author names, date of publication and labels. \n\n",
+  "datasetId": 747224,
+  "datasetSlug": "source-based-news-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 51336,
+  "totalVotes": 165,
+  "totalDownloads": 6363,
+  "title": "Source based Fake News Classification",
+  "hasTitle": true,
+  "subtitle": "Classification of news by type and labels",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSocial media is a vast pool of content, and among all the content available for users to access, news is an element that is accessed most frequently. These news can be posted by politicians, news channels, newspaper websites, or even common civilians. These posts have to be checked for their authenticity, since spreading misinformation has been a real concern in today\u2019s times, and many firms are taking steps to make the common people aware of the consequences of spread misinformation. The measure of authenticity of the news posted online cannot be definitively measured, since the manual classification of news is tedious and time-consuming, and is also subject to bias.\nPublished paper: http://www.ijirset.com/upload/2020/june/115_4_Source.PDF\n\n\n### Content\n\nData preprocessing has been done on the dataset [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news) and skew has been eliminated.\n\n### Inspiration\n\nIn an era where fake WhatsApp forwards and Tweets are capable of influencing naive minds, tools and knowledge have to be put to practical use in not only mitigating the spread of misinformation but also to inform people about the type of news they consume. \nDevelopment of practical applications for users to gain insight from the articles they consume, fact-checking websites, built-in plugins and article parsers can\nfurther be refined, made easier to access, and more importantly, should create more awareness.\n\n### Acknowledgements\n\n[Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news) seemed the most promising for preprocessing, feature extraction, and model classification. \nThe reason is due to the fact that all the other datasets lacked the sources from where the article/statement text was produced and published from. Citing the sources for article text is crucial to check the trustworthiness of the news and further helps in labelling the data as fake or untrustworthy.\n\nThanks to the dataset\u2019s comprehensiveness in terms of citing the source information of the text along with author names, date of publication and labels. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

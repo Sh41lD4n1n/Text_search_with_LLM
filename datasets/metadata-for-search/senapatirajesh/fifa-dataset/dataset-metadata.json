@@ -1,0 +1,44 @@
+{
+  "id": "senapatirajesh/fifa-dataset",
+  "id_no": 2761779,
+  "datasetSlugNullable": "fifa-dataset",
+  "ownerUserNullable": "senapatirajesh",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "FIFA_historical_dataset_latest_2022",
+  "subtitleNullable": "FIFA_datasets for EDA and predictions",
+  "descriptionNullable": "Before the World Cup was inaugurated, the football tournament arranged as part of the Summer Olympics was given the most prestige. But in the 1920s, the game was facing a transition to professionalism that wasn't consistent with the Olympic spirit. Therefore, the government body, FIFA, made plans to organize a World Cup. The decision of arranging the first edition was officially declared on May 26, 1928.\nThe first official World Cup was played in Uruguay 1930, and since when the tournament has been held every fourth year (with exceptions for interruption due to the Second World War). There were, however, unofficial pre-FIFA World Cups already in the late 1800s, in a time when only few national teams existed. Another unofficial \"world cup\" arranged before 1930 was Sir Thomas Lipton Trophy held in 1909 and 1911. Besides that, the Summer Olympic football competitions would be a mark of which the best national teams were before 1930. The Olympic tournaments consisted, however, only of amateur teams \u2013 the World Cup became the \"real deal\".\n\nOne noticeable aspect in the World Cup history is that the home team has been over performing. On six occasions have the home team won the competition. Besides, many teams that normally doesn\u2019t compete with the greatest teams have gone far in the tournament then playing on home ground. For example, Sweden in 1958, reaching the final, and South Korea in 2006, reaching the semi-finals.\nFIFA (/\u02c8fi\u02d0f\u0259/; stands for F\u00e9d\u00e9ration Internationale de Football Association (French), meaning International Association Football Federation [3]) is the international governing body of association football, beach football and futsal.\n\nFunfact:\nThe 2022 World Cup ball, made by Adidas, will provide connected ball technology in all 64 matches. \n\nThe World Cup \u2018smart ball\u2019 has a sensor inside it which has been designed and built by engineers. \n\nThe sensor means that the position of the ball can be tracked at all times. So that means a referee can check the ball has definitely crossed the goal line and the exact time it happens, the referee will get all that information immediately sent to a smart watch they are wearing. The technology is very accurate and instantaneous so it can help referees make quick and fair decisions.\n\nFootball engineers help with these sorts of decisions can also make technology to help referees know if the ball is off side.\n\nAbout Dataset:\nThere are four datasets in this section where one shall do EDA and answer below questions\n1.Is there any correlation between host country and their results\n2.Is there any correlation between Top scorer/Top assists/Top goals to winning the FIFA world cup\n3.Top stats of the FIFA history\n4.Is there any relation between average attendance and Number of teams and Goals scored\n5.Is there any geographical advantage that any countries have?\nTry to find more through EDA and find out what factors are more influencing in winning the worldcup..Of course you can take other factors also into consideration.\nThank you and feel free to suggest.",
+  "datasetId": 2761779,
+  "datasetSlug": "fifa-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "senapatirajesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 2046,
+  "totalVotes": 17,
+  "totalDownloads": 355,
+  "title": "FIFA_historical_dataset_latest_2022",
+  "hasTitle": true,
+  "subtitle": "FIFA_datasets for EDA and predictions",
+  "hasSubtitle": true,
+  "description": "Before the World Cup was inaugurated, the football tournament arranged as part of the Summer Olympics was given the most prestige. But in the 1920s, the game was facing a transition to professionalism that wasn't consistent with the Olympic spirit. Therefore, the government body, FIFA, made plans to organize a World Cup. The decision of arranging the first edition was officially declared on May 26, 1928.\nThe first official World Cup was played in Uruguay 1930, and since when the tournament has been held every fourth year (with exceptions for interruption due to the Second World War). There were, however, unofficial pre-FIFA World Cups already in the late 1800s, in a time when only few national teams existed. Another unofficial \"world cup\" arranged before 1930 was Sir Thomas Lipton Trophy held in 1909 and 1911. Besides that, the Summer Olympic football competitions would be a mark of which the best national teams were before 1930. The Olympic tournaments consisted, however, only of amateur teams \u2013 the World Cup became the \"real deal\".\n\nOne noticeable aspect in the World Cup history is that the home team has been over performing. On six occasions have the home team won the competition. Besides, many teams that normally doesn\u2019t compete with the greatest teams have gone far in the tournament then playing on home ground. For example, Sweden in 1958, reaching the final, and South Korea in 2006, reaching the semi-finals.\nFIFA (/\u02c8fi\u02d0f\u0259/; stands for F\u00e9d\u00e9ration Internationale de Football Association (French), meaning International Association Football Federation [3]) is the international governing body of association football, beach football and futsal.\n\nFunfact:\nThe 2022 World Cup ball, made by Adidas, will provide connected ball technology in all 64 matches. \n\nThe World Cup \u2018smart ball\u2019 has a sensor inside it which has been designed and built by engineers. \n\nThe sensor means that the position of the ball can be tracked at all times. So that means a referee can check the ball has definitely crossed the goal line and the exact time it happens, the referee will get all that information immediately sent to a smart watch they are wearing. The technology is very accurate and instantaneous so it can help referees make quick and fair decisions.\n\nFootball engineers help with these sorts of decisions can also make technology to help referees know if the ball is off side.\n\nAbout Dataset:\nThere are four datasets in this section where one shall do EDA and answer below questions\n1.Is there any correlation between host country and their results\n2.Is there any correlation between Top scorer/Top assists/Top goals to winning the FIFA world cup\n3.Top stats of the FIFA history\n4.Is there any relation between average attendance and Number of teams and Goals scored\n5.Is there any geographical advantage that any countries have?\nTry to find more through EDA and find out what factors are more influencing in winning the worldcup..Of course you can take other factors also into consideration.\nThank you and feel free to suggest.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "data visualization",
+    "data analytics",
+    "clustering",
+    "tabular",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

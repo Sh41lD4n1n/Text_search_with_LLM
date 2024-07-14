@@ -1,0 +1,43 @@
+{
+  "id": "sarangdilipjodh/indian-traffic-signs-prediction85-classes",
+  "id_no": 2419060,
+  "datasetSlugNullable": "indian-traffic-signs-prediction85-classes",
+  "ownerUserNullable": "sarangdilipjodh",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Indian Traffic Signs Prediction(85 classes)",
+  "subtitleNullable": "Multi-Class Image Classification on Indian Traffic Signs Dataset (85 Classes) ",
+  "descriptionNullable": "**END TO END, MULTI-CLASS, TRAFFIC SIGNAL CLASSIFIER **\nIntroduction \n\nThis notebook makes an end-to-end, multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub.\n\n1. Problem: Identifying the kind of traffic sign from the given sign image.\n\n2. Data: The data we are using is collected by me from various sources available online, i.e., via Bing search, and familiar-looking traffic signs of other countries are also added to this dataset, and the dataset now has only those signs that are India specific.\n\n3. Features: Some information about the data,\n\nthere are 85 types of traffic signs (this means there are 85 different classes).\nThere is a total of 7210 labeled images in total.\n\nPlans/Improvement\n\nI want to convert it into a self-supervised classification problem.\nAs the probability of some traffic signs being together in a picture is high, so want to convert this existing single-label classification into a multi-label classification.",
+  "datasetId": 2419060,
+  "datasetSlug": "indian-traffic-signs-prediction85-classes",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarangdilipjodh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4676,
+  "totalVotes": 23,
+  "totalDownloads": 672,
+  "title": "Indian Traffic Signs Prediction(85 classes)",
+  "hasTitle": true,
+  "subtitle": "Multi-Class Image Classification on Indian Traffic Signs Dataset (85 Classes) ",
+  "hasSubtitle": true,
+  "description": "**END TO END, MULTI-CLASS, TRAFFIC SIGNAL CLASSIFIER **\nIntroduction \n\nThis notebook makes an end-to-end, multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub.\n\n1. Problem: Identifying the kind of traffic sign from the given sign image.\n\n2. Data: The data we are using is collected by me from various sources available online, i.e., via Bing search, and familiar-looking traffic signs of other countries are also added to this dataset, and the dataset now has only those signs that are India specific.\n\n3. Features: Some information about the data,\n\nthere are 85 types of traffic signs (this means there are 85 different classes).\nThere is a total of 7210 labeled images in total.\n\nPlans/Improvement\n\nI want to convert it into a self-supervised classification problem.\nAs the probability of some traffic signs being together in a picture is high, so want to convert this existing single-label classification into a multi-label classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "law",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

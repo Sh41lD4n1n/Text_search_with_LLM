@@ -1,0 +1,42 @@
+{
+  "id": "intelecai/car-segmentation",
+  "id_no": 1005067,
+  "datasetSlugNullable": "car-segmentation",
+  "ownerUserNullable": "intelecai",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Car segmentation",
+  "subtitleNullable": "Semantics segmentation of car parts like windows, wheels, etc",
+  "descriptionNullable": "### Content\n\nThis is a sample semantic image segmentation dataset. It contains images of cars and their segmentation masks. Most of the images were taken from side of the car. Image and its corresponding mask have the same name. For example, 003.png in the \"masks\" folder corresponds to the 003.png file in the \"images\" folder. Each pixel in a mask shows the class of the corresponding pixel in the corresponding image. For example, if value of pixel (3, 7) is 1, it means pixel (3,7) in the corresponding image belongs to class 1. We have following 5 classes in this dataset:\n\n* 0 - background\n* 1 - car\n* 2 - wheel\n* 3 - light\n* 4 - windows\n\nHalf of the images were collected from the Internet (especially from unsplash.com) and another half were taken in the streets.\n\n### Acknowledgements\n\nThanks to unsplash.com for making a lot of high quality images available free of charge. Thanks to David Salath\u00e9 for spending his time to take the rest of the photos and also annotating the whole dataset.\n\nIf you're inspired like us to build image classification, object detection and image segmentation models, visit our blog [blog.intelec.ai](https://blog.intelec.ai/) for a lot of case studies and demos :)\n\n### License\n\nYou can use this dataset freely in your private or commercial projects. If you do so, please cite our dataset at this URL https://www.kaggle.com/intelecai/car-segmentation . ",
+  "datasetId": 1005067,
+  "datasetSlug": "car-segmentation",
+  "hasDatasetSlug": true,
+  "ownerUser": "intelecai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 26509,
+  "totalVotes": 31,
+  "totalDownloads": 2282,
+  "title": "Car segmentation",
+  "hasTitle": true,
+  "subtitle": "Semantics segmentation of car parts like windows, wheels, etc",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis is a sample semantic image segmentation dataset. It contains images of cars and their segmentation masks. Most of the images were taken from side of the car. Image and its corresponding mask have the same name. For example, 003.png in the \"masks\" folder corresponds to the 003.png file in the \"images\" folder. Each pixel in a mask shows the class of the corresponding pixel in the corresponding image. For example, if value of pixel (3, 7) is 1, it means pixel (3,7) in the corresponding image belongs to class 1. We have following 5 classes in this dataset:\n\n* 0 - background\n* 1 - car\n* 2 - wheel\n* 3 - light\n* 4 - windows\n\nHalf of the images were collected from the Internet (especially from unsplash.com) and another half were taken in the streets.\n\n### Acknowledgements\n\nThanks to unsplash.com for making a lot of high quality images available free of charge. Thanks to David Salath\u00e9 for spending his time to take the rest of the photos and also annotating the whole dataset.\n\nIf you're inspired like us to build image classification, object detection and image segmentation models, visit our blog [blog.intelec.ai](https://blog.intelec.ai/) for a lot of case studies and demos :)\n\n### License\n\nYou can use this dataset freely in your private or commercial projects. If you do so, please cite our dataset at this URL https://www.kaggle.com/intelecai/car-segmentation . ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "automobiles and vehicles",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

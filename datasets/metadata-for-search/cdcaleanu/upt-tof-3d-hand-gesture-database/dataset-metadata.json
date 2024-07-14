@@ -1,0 +1,40 @@
+{
+  "id": "cdcaleanu/upt-tof-3d-hand-gesture-database",
+  "id_no": 537504,
+  "datasetSlugNullable": "upt-tof-3d-hand-gesture-database",
+  "ownerUserNullable": "cdcaleanu",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "UPT Time of Flight 3D Hand Gesture Database",
+  "subtitleNullable": "UPT-ToF-3D-HGDB @2012",
+  "descriptionNullable": "### Context\n\nAlthough 3D information presents, in the context of hand gesture recognition (and not only), multiple advantages in comparison with the 2D counterpart, up-to-date there are very few 3D hand gesture databases. \nA new dataset, UPT-ToF3D-HGDB, is under construction at the Faculty of Electronics, Telecommunications and Information Technologies (ETcTI, www.etcti.upt.ro) - Applied Electronics Department - from Politehnica University from Timi\u015foara (UPT, www.upt.ro). Having in mind that a high quality ToF video camera is still an expensive equipment (more than 5K \u20ac), the dataset is being constructed specifically to support researchers whom are willing to experiment 3D techniques.\n\n\n### Content\n\nFor image aqusition we used a high resolution 3D video camera produced by PMD Technologies GmbH Company, PMD[vision]\u00ae CamCube 3.0.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F981835%2Ffd9d87d693636ea277b6173eb96dc401%2Fhard.jpg?generation=1583740786143721&alt=media)\n\n The optical sensor having a resolution of 200x200 pixel.\n\n\n### Acknowledgements\n\nIf you find the dataset useful, please cite the following works:\n\n [1] Simion, G.; Caleanu, C.-D., \"A ToF 3D database for hand gesture recognition,\" Electronics and Telecommunications (ISETC), 2012 10th International Symposium on, pp. 363-366, 15-16 Nov. 2012\nhttps://doi.org/10.1109/ISETC.2012.6408145\n\n[2] G. Simion and C.-D Caleanu, \"Multi-stage 3D segmentation for ToF based gesture recognition system,\" 2014 11th International Symposium on Electronics and Telecommunications (ISETC), Timisoara, 2014, pp. 1-4.\nhttps://doi.org/10.1109/ISETC.2014.7010800\n\n[3] Mirsu, R.; Simion, G.; Caleanu, C.D.; Pop-Calimanu, I.M. A PointNet-Based Solution for 3D Hand Gesture Recognition. Sensors 2020, 20, 3226.\nAvailable online, Open Access: https://doi.org/10.3390/s20113226\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 537504,
+  "datasetSlug": "upt-tof-3d-hand-gesture-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "cdcaleanu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 7773,
+  "totalVotes": 7,
+  "totalDownloads": 98,
+  "title": "UPT Time of Flight 3D Hand Gesture Database",
+  "hasTitle": true,
+  "subtitle": "UPT-ToF-3D-HGDB @2012",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAlthough 3D information presents, in the context of hand gesture recognition (and not only), multiple advantages in comparison with the 2D counterpart, up-to-date there are very few 3D hand gesture databases. \nA new dataset, UPT-ToF3D-HGDB, is under construction at the Faculty of Electronics, Telecommunications and Information Technologies (ETcTI, www.etcti.upt.ro) - Applied Electronics Department - from Politehnica University from Timi\u015foara (UPT, www.upt.ro). Having in mind that a high quality ToF video camera is still an expensive equipment (more than 5K \u20ac), the dataset is being constructed specifically to support researchers whom are willing to experiment 3D techniques.\n\n\n### Content\n\nFor image aqusition we used a high resolution 3D video camera produced by PMD Technologies GmbH Company, PMD[vision]\u00ae CamCube 3.0.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F981835%2Ffd9d87d693636ea277b6173eb96dc401%2Fhard.jpg?generation=1583740786143721&alt=media)\n\n The optical sensor having a resolution of 200x200 pixel.\n\n\n### Acknowledgements\n\nIf you find the dataset useful, please cite the following works:\n\n [1] Simion, G.; Caleanu, C.-D., \"A ToF 3D database for hand gesture recognition,\" Electronics and Telecommunications (ISETC), 2012 10th International Symposium on, pp. 363-366, 15-16 Nov. 2012\nhttps://doi.org/10.1109/ISETC.2012.6408145\n\n[2] G. Simion and C.-D Caleanu, \"Multi-stage 3D segmentation for ToF based gesture recognition system,\" 2014 11th International Symposium on Electronics and Telecommunications (ISETC), Timisoara, 2014, pp. 1-4.\nhttps://doi.org/10.1109/ISETC.2014.7010800\n\n[3] Mirsu, R.; Simion, G.; Caleanu, C.D.; Pop-Calimanu, I.M. A PointNet-Based Solution for 3D Hand Gesture Recognition. Sensors 2020, 20, 3226.\nAvailable online, Open Access: https://doi.org/10.3390/s20113226\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

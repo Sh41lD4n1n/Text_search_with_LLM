@@ -1,0 +1,42 @@
+{
+  "id": "thomaskonstantin/highly-rated-children-books-and-stories",
+  "id_no": 937330,
+  "datasetSlugNullable": "highly-rated-children-books-and-stories",
+  "ownerUserNullable": "thomaskonstantin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Highly Rated Children Books And Stories",
+  "subtitleNullable": "Children Books And Stories Tagged By Target Age Range",
+  "descriptionNullable": "\n### Content\n\n\nBefore you is a dataset of highly-rated books, the target age range for which the book is written for and the book's description.\n\n\n### Inspiration\n\nI think it would be interesting to try and understand what are the underlying features which describe books of each age range and could we uncover a rule for which we can automatically assign an age range for a new book given its description?\n\nNOTE: if you encounter an error while reading the file please note  \"ISO-8859-1\" encoding should be used\n\n###Copyright\nI do not own any rights regarding the books,\nData source:www.booktrust.org.uk\n\n",
+  "datasetId": 937330,
+  "datasetSlug": "highly-rated-children-books-and-stories",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomaskonstantin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 31931,
+  "totalVotes": 84,
+  "totalDownloads": 3121,
+  "title": "Highly Rated Children Books And Stories",
+  "hasTitle": true,
+  "subtitle": "Children Books And Stories Tagged By Target Age Range",
+  "hasSubtitle": true,
+  "description": "\n### Content\n\n\nBefore you is a dataset of highly-rated books, the target age range for which the book is written for and the book's description.\n\n\n### Inspiration\n\nI think it would be interesting to try and understand what are the underlying features which describe books of each age range and could we uncover a rule for which we can automatically assign an age range for a new book given its description?\n\nNOTE: if you encounter an error while reading the file please note  \"ISO-8859-1\" encoding should be used\n\n###Copyright\nI do not own any rights regarding the books,\nData source:www.booktrust.org.uk\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "education",
+    "nlp",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

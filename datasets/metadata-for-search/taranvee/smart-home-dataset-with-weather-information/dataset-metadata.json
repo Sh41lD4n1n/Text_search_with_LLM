@@ -1,0 +1,43 @@
+{
+  "id": "taranvee/smart-home-dataset-with-weather-information",
+  "id_no": 157890,
+  "datasetSlugNullable": "smart-home-dataset-with-weather-information",
+  "ownerUserNullable": "taranvee",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Smart Home Dataset with weather Information",
+  "subtitleNullable": "Internet of Things (IoT)",
+  "descriptionNullable": "This CSV file contains the readings with a time span of 1 minute of house appliances in kW from a smart meter and weather conditions of that particular region.",
+  "datasetId": 157890,
+  "datasetSlug": "smart-home-dataset-with-weather-information",
+  "hasDatasetSlug": true,
+  "ownerUser": "taranvee",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 97833,
+  "totalVotes": 177,
+  "totalDownloads": 11760,
+  "title": "Smart Home Dataset with weather Information",
+  "hasTitle": true,
+  "subtitle": "Internet of Things (IoT)",
+  "hasSubtitle": true,
+  "description": "This CSV file contains the readings with a time span of 1 minute of house appliances in kW from a smart meter and weather conditions of that particular region.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy",
+    "electronics",
+    "time series analysis",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

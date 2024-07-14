@@ -1,0 +1,43 @@
+{
+  "id": "araraltawil/arabic-food-101",
+  "id_no": 2868465,
+  "datasetSlugNullable": "arabic-food-101",
+  "ownerUserNullable": "araraltawil",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Arabic Food 101",
+  "subtitleNullable": "Data about 16 traditional and famous dishes in Jordan",
+  "descriptionNullable": "# **Context**\nThere's a story behind every dataset and here's your opportunity to share yours.\n\n# **Content**\nJordan cuisine consists of a variety of regional and traditional to the Arabic subcontinent. Given the diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally available spices, herbs, vegetables, and fruits.\n\nThis dataset consists of information about various Jordan dishes, their ingredients, their place of origin, etc.\n\n# **Challenge**\nThe first goal is to be able to automatically classify an unknown image using the dataset, but beyond this there are a number of possibilities for looking at what regions/image components are important for making classifications, identify new types of food as combinations of existing tags, build object detectors which can find similar objects in a full scene.\n\n#**About**\nFor more information: http://arartawil.com/\n",
+  "datasetId": 2868465,
+  "datasetSlug": "arabic-food-101",
+  "hasDatasetSlug": true,
+  "ownerUser": "araraltawil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1434,
+  "totalVotes": 8,
+  "totalDownloads": 138,
+  "title": "Arabic Food 101",
+  "hasTitle": true,
+  "subtitle": "Data about 16 traditional and famous dishes in Jordan",
+  "hasSubtitle": true,
+  "description": "# **Context**\nThere's a story behind every dataset and here's your opportunity to share yours.\n\n# **Content**\nJordan cuisine consists of a variety of regional and traditional to the Arabic subcontinent. Given the diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally available spices, herbs, vegetables, and fruits.\n\nThis dataset consists of information about various Jordan dishes, their ingredients, their place of origin, etc.\n\n# **Challenge**\nThe first goal is to be able to automatically classify an unknown image using the dataset, but beyond this there are a number of possibilities for looking at what regions/image components are important for making classifications, identify new types of food as combinations of existing tags, build object detectors which can find similar objects in a full scene.\n\n#**About**\nFor more information: http://arartawil.com/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "image",
+    "cooking and recipes",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

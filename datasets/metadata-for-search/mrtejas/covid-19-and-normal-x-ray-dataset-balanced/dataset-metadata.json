@@ -1,0 +1,43 @@
+{
+  "id": "mrtejas/covid-19-and-normal-x-ray-dataset-balanced",
+  "id_no": 3118395,
+  "datasetSlugNullable": "covid-19-and-normal-x-ray-dataset-balanced",
+  "ownerUserNullable": "mrtejas",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID-19 and Normal X-ray Dataset: Balanced",
+  "subtitleNullable": "Equally Balanced COVID-19 and Normal Chest X-ray Dataset for Deep Learning",
+  "descriptionNullable": "This dataset comprises a total of 800 high-quality chest X-ray images, with 400 images depicting COVID-19 infected patients and the other 400 images representing normal cases (i.e., non-COVID patients). The dataset is equally balanced, with an equal distribution of COVID-19 and normal cases, making it ideal for deep learning and medical research purposes.",
+  "datasetId": 3118395,
+  "datasetSlug": "covid-19-and-normal-x-ray-dataset-balanced",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrtejas",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3312,
+  "totalVotes": 22,
+  "totalDownloads": 307,
+  "title": "COVID-19 and Normal X-ray Dataset: Balanced",
+  "hasTitle": true,
+  "subtitle": "Equally Balanced COVID-19 and Normal Chest X-ray Dataset for Deep Learning",
+  "hasSubtitle": true,
+  "description": "This dataset comprises a total of 800 high-quality chest X-ray images, with 400 images depicting COVID-19 infected patients and the other 400 images representing normal cases (i.e., non-COVID patients). The dataset is equally balanced, with an equal distribution of COVID-19 and normal cases, making it ideal for deep learning and medical research purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "deep learning",
+    "cnn",
+    "covid19",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

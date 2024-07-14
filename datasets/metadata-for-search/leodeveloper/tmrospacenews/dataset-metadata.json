@@ -1,0 +1,42 @@
+{
+  "id": "leodeveloper/tmrospacenews",
+  "id_no": 5280462,
+  "datasetSlugNullable": "tmrospacenews",
+  "ownerUserNullable": "leodeveloper",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": " Youtube Channel tmrospacenews",
+  "subtitleNullable": " Youtube Channel tmrospacenews",
+  "descriptionNullable": "Description for the tmrospacenews , youtube channel videos. include title, description, view_count,  publish_date, length, author. This CSV dataset contains detailed information about videos YouTube channel, last update on June 24, 2024.",
+  "datasetId": 5280462,
+  "datasetSlug": "tmrospacenews",
+  "hasDatasetSlug": true,
+  "ownerUser": "leodeveloper",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 0,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": " Youtube Channel tmrospacenews",
+  "hasTitle": true,
+  "subtitle": " Youtube Channel tmrospacenews",
+  "hasSubtitle": true,
+  "description": "Description for the tmrospacenews , youtube channel videos. include title, description, view_count,  publish_date, length, author. This CSV dataset contains detailed information about videos YouTube channel, last update on June 24, 2024.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "advanced",
+    "video",
+    "python",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

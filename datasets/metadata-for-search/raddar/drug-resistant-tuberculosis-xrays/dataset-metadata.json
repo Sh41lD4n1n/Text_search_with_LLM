@@ -1,0 +1,37 @@
+{
+  "id": "raddar/drug-resistant-tuberculosis-xrays",
+  "id_no": 517071,
+  "datasetSlugNullable": "drug-resistant-tuberculosis-xrays",
+  "ownerUserNullable": "raddar",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Drug resistant tuberculosis X-rays",
+  "subtitleNullable": "Tuberculosis in Belarus",
+  "descriptionNullable": "This is a tuberculosis Chest X-ray dataset containing patients who are resistant to conventional tuberculosis treatment. Data is provided in raw format as available in https://tbportals.niaid.nih.gov. The dataset mainly comes from the population of Belarus - in total over 1000 tuberculosis cases are provided.\n\nCredits to:\nTB Portals Program, Office of Cyber Infrastructure and Computational Biology (OCICB), National Institute of Allergy and Infectious Diseases (NIAID). ",
+  "datasetId": 517071,
+  "datasetSlug": "drug-resistant-tuberculosis-xrays",
+  "hasDatasetSlug": true,
+  "ownerUser": "raddar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 7337,
+  "totalVotes": 23,
+  "totalDownloads": 545,
+  "title": "Drug resistant tuberculosis X-rays",
+  "hasTitle": true,
+  "subtitle": "Tuberculosis in Belarus",
+  "hasSubtitle": true,
+  "description": "This is a tuberculosis Chest X-ray dataset containing patients who are resistant to conventional tuberculosis treatment. Data is provided in raw format as available in https://tbportals.niaid.nih.gov. The dataset mainly comes from the population of Belarus - in total over 1000 tuberculosis cases are provided.\n\nCredits to:\nTB Portals Program, Office of Cyber Infrastructure and Computational Biology (OCICB), National Institute of Allergy and Infectious Diseases (NIAID). ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

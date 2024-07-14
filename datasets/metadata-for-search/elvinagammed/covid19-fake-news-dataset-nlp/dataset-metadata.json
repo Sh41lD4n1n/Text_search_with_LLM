@@ -1,0 +1,44 @@
+{
+  "id": "elvinagammed/covid19-fake-news-dataset-nlp",
+  "id_no": 1207011,
+  "datasetSlugNullable": "covid19-fake-news-dataset-nlp",
+  "ownerUserNullable": "elvinagammed",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "COVID19 Fake News Dataset NLP",
+  "subtitleNullable": "COVID19 Fake News Detection in English \ud83d\udd0e \ud83d\udc40",
+  "descriptionNullable": "### Context\n\nCOVID Fake News Detection Dataset\n\n### Content\n\nIt is a subtask in the CONSTRAINT-2021 shared task on the hostile post detection. This subtask focuses on the detection of COVID19-related fake news in English. The sources of data are various social-media platforms such as Twitter, Facebook, Instagram, etc. Given a social media post, the objective of the shared task is to classify it into either fake or real news.\nhttps://competitions.codalab.org/competitions/26655\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1207011,
+  "datasetSlug": "covid19-fake-news-dataset-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "elvinagammed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 13231,
+  "totalVotes": 19,
+  "totalDownloads": 1782,
+  "title": "COVID19 Fake News Dataset NLP",
+  "hasTitle": true,
+  "subtitle": "COVID19 Fake News Detection in English \ud83d\udd0e \ud83d\udc40",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCOVID Fake News Detection Dataset\n\n### Content\n\nIt is a subtask in the CONSTRAINT-2021 shared task on the hostile post detection. This subtask focuses on the detection of COVID19-related fake news in English. The sources of data are various social-media platforms such as Twitter, Facebook, Instagram, etc. Given a social media post, the objective of the shared task is to classify it into either fake or real news.\nhttps://competitions.codalab.org/competitions/26655\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "text mining",
+    "neural networks",
+    "text",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

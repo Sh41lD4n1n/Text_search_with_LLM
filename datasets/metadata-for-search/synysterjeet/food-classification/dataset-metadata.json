@@ -1,0 +1,40 @@
+{
+  "id": "synysterjeet/food-classification",
+  "id_no": 788032,
+  "datasetSlugNullable": "food-classification",
+  "ownerUserNullable": "synysterjeet",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Food Classification",
+  "subtitleNullable": "Food images divided into folders by classes",
+  "descriptionNullable": "Dataset was web scraped using Bing. All images have been resized to be of constant size. The data is slightly noisy with outliers\n",
+  "datasetId": 788032,
+  "datasetSlug": "food-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "synysterjeet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 6359,
+  "totalVotes": 12,
+  "totalDownloads": 386,
+  "title": "Food Classification",
+  "hasTitle": true,
+  "subtitle": "Food images divided into folders by classes",
+  "hasSubtitle": true,
+  "description": "Dataset was web scraped using Bing. All images have been resized to be of constant size. The data is slightly noisy with outliers\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

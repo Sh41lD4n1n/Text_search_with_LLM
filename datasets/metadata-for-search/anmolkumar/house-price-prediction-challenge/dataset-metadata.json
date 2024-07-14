@@ -1,0 +1,45 @@
+{
+  "id": "anmolkumar/house-price-prediction-challenge",
+  "id_no": 902117,
+  "datasetSlugNullable": "house-price-prediction-challenge",
+  "ownerUserNullable": "anmolkumar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "House Price Prediction Challenge",
+  "subtitleNullable": "Predict the house prices in India",
+  "descriptionNullable": "# House Price Prediction Challenge\n\n## Overview\n\nWelcome to the House Price Prediction Challenge, you will test your regression skills by designing an algorithm to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. It can be extremely difficult to figure out the right set of attributes that are contributing to understanding the buyer's behavior as such. This dataset has been collected across various property aggregators across India.  In this competition, provided the 12 influencing factors your role as a data scientist is to predict the prices as accurately as possible.\n\nAlso, in this competition, you will get a lot of room for feature engineering and mastering advanced regression techniques such as Random Forest, Deep Neural Nets, and various other ensembling techniques. \n\n## Data Description:\nTrain.csv - 29451 rows x 12 columns\nTest.csv - 68720 rows x 11 columns\nSample Submission - Acceptable submission format. (.csv/.xlsx file with 68720 rows) \n\n## Attributes Description:\n|Column  |  Description|\n| --- | --- |\n|POSTED_BY| Category marking who has listed the property|\n|UNDER_CONSTRUCTION | Under Construction or Not|\n|RERA | Rera approved or Not|\n|BHK_NO | Number of Rooms|\n|BHK_OR_RK | Type of property|\n|SQUARE_FT | Total area of the house in square feet|\n|READY_TO_MOVE|  Category marking Ready to move or Not|\n|RESALE | Category marking Resale or not|\n|ADDRESS | Address of the property|\n|LONGITUDE | Longitude of the property|\n|LATITUDE | Latitude of the property|\n \n## ACKNOWLEDGMENT:\nThe dataset for this hackathon was contributed by [Devrup Banerjee](https://www.machinehack.com/user/profile/5ef0a238b7efcc325e390297) . We would like to appreciate his efforts for this contribution to the Machinehack community. ",
+  "datasetId": 902117,
+  "datasetSlug": "house-price-prediction-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "anmolkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 152270,
+  "totalVotes": 220,
+  "totalDownloads": 19925,
+  "title": "House Price Prediction Challenge",
+  "hasTitle": true,
+  "subtitle": "Predict the house prices in India",
+  "hasSubtitle": true,
+  "description": "# House Price Prediction Challenge\n\n## Overview\n\nWelcome to the House Price Prediction Challenge, you will test your regression skills by designing an algorithm to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. It can be extremely difficult to figure out the right set of attributes that are contributing to understanding the buyer's behavior as such. This dataset has been collected across various property aggregators across India.  In this competition, provided the 12 influencing factors your role as a data scientist is to predict the prices as accurately as possible.\n\nAlso, in this competition, you will get a lot of room for feature engineering and mastering advanced regression techniques such as Random Forest, Deep Neural Nets, and various other ensembling techniques. \n\n## Data Description:\nTrain.csv - 29451 rows x 12 columns\nTest.csv - 68720 rows x 11 columns\nSample Submission - Acceptable submission format. (.csv/.xlsx file with 68720 rows) \n\n## Attributes Description:\n|Column  |  Description|\n| --- | --- |\n|POSTED_BY| Category marking who has listed the property|\n|UNDER_CONSTRUCTION | Under Construction or Not|\n|RERA | Rera approved or Not|\n|BHK_NO | Number of Rooms|\n|BHK_OR_RK | Type of property|\n|SQUARE_FT | Total area of the house in square feet|\n|READY_TO_MOVE|  Category marking Ready to move or Not|\n|RESALE | Category marking Resale or not|\n|ADDRESS | Address of the property|\n|LONGITUDE | Longitude of the property|\n|LATITUDE | Latitude of the property|\n \n## ACKNOWLEDGMENT:\nThe dataset for this hackathon was contributed by [Devrup Banerjee](https://www.machinehack.com/user/profile/5ef0a238b7efcc325e390297) . We would like to appreciate his efforts for this contribution to the Machinehack community. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "housing",
+    "religion and belief systems",
+    "business",
+    "education",
+    "real estate",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

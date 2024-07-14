@@ -1,0 +1,42 @@
+{
+  "id": "lakshmi25npathi/imdb-dataset-of-50k-movie-reviews",
+  "id_no": 134715,
+  "datasetSlugNullable": "imdb-dataset-of-50k-movie-reviews",
+  "ownerUserNullable": "lakshmi25npathi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "IMDB Dataset of 50K Movie Reviews",
+  "subtitleNullable": "Large Movie Review Dataset",
+  "descriptionNullable": "IMDB dataset having 50K movie reviews for natural language processing or Text analytics.\nThis is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.\nFor more dataset information, please go through the following link,\nhttp://ai.stanford.edu/~amaas/data/sentiment/\n",
+  "datasetId": 134715,
+  "datasetSlug": "imdb-dataset-of-50k-movie-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "lakshmi25npathi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 988484,
+  "totalVotes": 1157,
+  "totalDownloads": 194939,
+  "title": "IMDB Dataset of 50K Movie Reviews",
+  "hasTitle": true,
+  "subtitle": "Large Movie Review Dataset",
+  "hasSubtitle": true,
+  "description": "IMDB dataset having 50K movie reviews for natural language processing or Text analytics.\nThis is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.\nFor more dataset information, please go through the following link,\nhttp://ai.stanford.edu/~amaas/data/sentiment/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "business",
+    "internet",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

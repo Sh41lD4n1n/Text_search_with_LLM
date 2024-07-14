@@ -1,0 +1,43 @@
+{
+  "id": "sahilwagh/gold-stock-prices",
+  "id_no": 4338114,
+  "datasetSlugNullable": "gold-stock-prices",
+  "ownerUserNullable": "sahilwagh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Gold Stock Prices",
+  "subtitleNullable": "GC:CMX Historical Data",
+  "descriptionNullable": "This data set provides a comprehensive record of daily gold prices from January 19, 2014 to January 22, 2024. The data is provided by [Nasdaq ](https://www.nasdaq.com/) and includes key financial metrics for each trading day. . The dataset consists of the following columns:\n\n- **Date:** A unique date for each trading day recorded.\n- **Close**: The closing price of gold on the relevant date.\n- **Volume**: Gold trading volume on the relevant date.\n- **Open**: The opening price of gold on the relevant date.\n- **High**: The highest recorded price of gold during the trading day.\n- **Low**: The lowest price recorded for gold in the trading day.\nThis data set is valuable for researchers, analysts, and data enthusiasts who want to understand historical trends, patterns, and changes in gold prices over time. Analysts can use this database to perform a variety of analyses, including price forecasting, trend spotting, and market behavior studies.\n\n__Possible conditions__:\n- Time Series Analysis: Explore trends and patterns in gold prices over a given period.\n- Advanced Modeling: Build models to predict future gold prices based on historical data.\n- Trading Strategy Development: Develop and reverse trade strategies using the given price and volume information.\n- Market Sentiment Analysis: Analyze the impact of market events on gold prices and assess market sentiment.\n- Statistical Analysis: Perform tests and statistical analysis to gain insight into the characteristics of gold price movements.\n\n__Description__:\nUsers are advised to verify the accuracy and reliability of the information and to be aware of the limitations and biases inherent in financial databases. In addition, it is important to consider external factors such as economic indicators, geopolitical events, and market sentiment when using databases for analysis and use.",
+  "datasetId": 4338114,
+  "datasetSlug": "gold-stock-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "sahilwagh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16046,
+  "totalVotes": 59,
+  "totalDownloads": 3718,
+  "title": "Gold Stock Prices",
+  "hasTitle": true,
+  "subtitle": "GC:CMX Historical Data",
+  "hasSubtitle": true,
+  "description": "This data set provides a comprehensive record of daily gold prices from January 19, 2014 to January 22, 2024. The data is provided by [Nasdaq ](https://www.nasdaq.com/) and includes key financial metrics for each trading day. . The dataset consists of the following columns:\n\n- **Date:** A unique date for each trading day recorded.\n- **Close**: The closing price of gold on the relevant date.\n- **Volume**: Gold trading volume on the relevant date.\n- **Open**: The opening price of gold on the relevant date.\n- **High**: The highest recorded price of gold during the trading day.\n- **Low**: The lowest price recorded for gold in the trading day.\nThis data set is valuable for researchers, analysts, and data enthusiasts who want to understand historical trends, patterns, and changes in gold prices over time. Analysts can use this database to perform a variety of analyses, including price forecasting, trend spotting, and market behavior studies.\n\n__Possible conditions__:\n- Time Series Analysis: Explore trends and patterns in gold prices over a given period.\n- Advanced Modeling: Build models to predict future gold prices based on historical data.\n- Trading Strategy Development: Develop and reverse trade strategies using the given price and volume information.\n- Market Sentiment Analysis: Analyze the impact of market events on gold prices and assess market sentiment.\n- Statistical Analysis: Perform tests and statistical analysis to gain insight into the characteristics of gold price movements.\n\n__Description__:\nUsers are advised to verify the accuracy and reliability of the information and to be aware of the limitations and biases inherent in financial databases. In addition, it is important to consider external factors such as economic indicators, geopolitical events, and market sentiment when using databases for analysis and use.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "banking",
+    "marketing",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

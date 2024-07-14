@@ -1,0 +1,43 @@
+{
+  "id": "yasserh/advertising-sales-dataset",
+  "id_no": 1819823,
+  "datasetSlugNullable": "advertising-sales-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Advertising Sales Dataset",
+  "subtitleNullable": "Advertising Budget & Sales Prediction using Rregression",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Ad_Budget_Estimation_/main/0-ad1%20(1).jpg)\n\n### Description:\nThe advertising dataset captures the sales revenue generated with respect to advertisement costs across multiple channels like radio, tv, and newspapers. \n\nIt is required to understand the impact of ad budgets on the overall sales.\n\n### Acknowledgement: \nThe dataset is taken from Kaggle\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build Regression models to predict the sales w.r.t a single & multiple features.\n- Also evaluate the models & compare their respective scores like R2, RMSE, etc.",
+  "datasetId": 1819823,
+  "datasetSlug": "advertising-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 56875,
+  "totalVotes": 66,
+  "totalDownloads": 9745,
+  "title": "Advertising Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Advertising Budget & Sales Prediction using Rregression",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Ad_Budget_Estimation_/main/0-ad1%20(1).jpg)\n\n### Description:\nThe advertising dataset captures the sales revenue generated with respect to advertisement costs across multiple channels like radio, tv, and newspapers. \n\nIt is required to understand the impact of ad budgets on the overall sales.\n\n### Acknowledgement: \nThe dataset is taken from Kaggle\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build Regression models to predict the sales w.r.t a single & multiple features.\n- Also evaluate the models & compare their respective scores like R2, RMSE, etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "marketing",
+    "beginner",
+    "linear regression",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

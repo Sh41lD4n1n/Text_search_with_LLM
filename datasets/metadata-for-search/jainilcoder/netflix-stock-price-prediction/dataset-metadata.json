@@ -1,0 +1,44 @@
+{
+  "id": "jainilcoder/netflix-stock-price-prediction",
+  "id_no": 1912819,
+  "datasetSlugNullable": "netflix-stock-price-prediction",
+  "ownerUserNullable": "jainilcoder",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Netflix Stock Price Prediction",
+  "subtitleNullable": "Netflix Stock PricePrediction using Time Series",
+  "descriptionNullable": "The Dataset contains data for 5 years ie. from 5th Feb 2018 to 5th Feb 2022\n\nThe art of forecasting stock prices has been a difficult task for many of the researchers and analysts. In fact, investors are highly interested in the research area of stock price prediction. For a good and successful investment, many investors are keen on knowing the future situation of the stock market. Good and effective prediction systems for the stock market help traders, investors, and analyst by providing supportive information like the future direction of the stock market.",
+  "datasetId": 1912819,
+  "datasetSlug": "netflix-stock-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "jainilcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 75109,
+  "totalVotes": 112,
+  "totalDownloads": 12968,
+  "title": "Netflix Stock Price Prediction",
+  "hasTitle": true,
+  "subtitle": "Netflix Stock PricePrediction using Time Series",
+  "hasSubtitle": true,
+  "description": "The Dataset contains data for 5 years ie. from 5th Feb 2018 to 5th Feb 2022\n\nThe art of forecasting stock prices has been a difficult task for many of the researchers and analysts. In fact, investors are highly interested in the research area of stock price prediction. For a good and successful investment, many investors are keen on knowing the future situation of the stock market. Good and effective prediction systems for the stock market help traders, investors, and analyst by providing supportive information like the future direction of the stock market.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "intermediate",
+    "time series analysis",
+    "lstm",
+    "investing",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

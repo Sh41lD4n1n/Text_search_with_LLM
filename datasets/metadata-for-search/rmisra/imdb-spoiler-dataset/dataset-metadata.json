@@ -1,0 +1,43 @@
+{
+  "id": "rmisra/imdb-spoiler-dataset",
+  "id_no": 200769,
+  "datasetSlugNullable": "imdb-spoiler-dataset",
+  "ownerUserNullable": "rmisra",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB Spoiler Dataset",
+  "subtitleNullable": "Can you identify which reviews have spoilers to improve user experience?",
+  "descriptionNullable": "### Context\nUser-generated reviews are often our first point of contact when we consider watching a movie or a TV show. However, beyond telling us the qualitative aspects of the item we want to consume, reviews may inevitably contain undesired revelatory information (i.e. 'spoilers') such as the surprising fate of a character in a movie, or identity of a murderer in a crime-suspense movie etc. For users who are interested in consuming the item but are unaware of the critical plot twists, spoilers may decrease the excitement regarding the pleasurable uncertainty and curiosity of media consumption. Therefore, a natural question is how to identify these spoilers in entertainment reviews, so that users can more effectively navigate review platforms.\n\n### Content\nThis dataset is collected from IMDB. It contains meta-data about items as well as user reviews with information regarding whether a review contains a spoiler or not. For more details on the attributes, please check file descriptions. Following stats provide a good sense of the scale of the dataset:\n\n`# records` = 573913 \n\n`# users` = 263407 \n\n`# movies` = 1572 \n\n`# spoiler reviews` = 150924 \n\n`# users with at least one spoiler review` = 79039 \n\n`# items with at least one spoiler review` = 1570\n\n### Citation\nIf you use the dataset for your work, please cite the following:\n\nCitation in text format\n```\nMisra, Rishabh. \"IMDB Spoiler Dataset.\" DOI: 10.13140/RG.2.2.11584.15362 (2019).\n```\nCitation in BibTex format\n```\n@dataset{misra2019imdb,\n  author = {Misra, Rishabh},\n  year = {2019},\n  month = {05},\n  pages = {},\n  title = {IMDB Spoiler Dataset},\n  doi = {10.13140/RG.2.2.11584.15362}\n}\n```\nPlease link to [rishabhmisra.github.io/publications](https://rishabhmisra.github.io/publications/) as the source of this dataset.\n\n### Acknowledgement\nThis dataset is collected from IMDB.\n\n### Inspiration\n* Can you utilize the metadata to identify reviews which contain spoiler?\n* Additionally, can you uncover signals that make a review spoiler-y?\n* Apart from spoiler detection, the metadata available can be used for other tasks as well like rating prediction etc.\n\n### Want to contribute your own datasets?\n\nIf you are interested in learning how to collect high-quality datasets for various ML tasks and the overall importance of data in the ML ecosystem, consider reading my book [Sculpting Data for ML](https://www.amazon.com/dp/B08RN47C5T).\n\n### Other datasets\nPlease also checkout the following datasets collected by me:\n\n* [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)\n\n* [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)\n\n* [Clothing Fit Dataset for Size Recommendation](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)\n\n* [Politifact Fact Check Dataset](https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset)",
+  "datasetId": 200769,
+  "datasetSlug": "imdb-spoiler-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rmisra",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 36556,
+  "totalVotes": 70,
+  "totalDownloads": 3573,
+  "title": "IMDB Spoiler Dataset",
+  "hasTitle": true,
+  "subtitle": "Can you identify which reviews have spoilers to improve user experience?",
+  "hasSubtitle": true,
+  "description": "### Context\nUser-generated reviews are often our first point of contact when we consider watching a movie or a TV show. However, beyond telling us the qualitative aspects of the item we want to consume, reviews may inevitably contain undesired revelatory information (i.e. 'spoilers') such as the surprising fate of a character in a movie, or identity of a murderer in a crime-suspense movie etc. For users who are interested in consuming the item but are unaware of the critical plot twists, spoilers may decrease the excitement regarding the pleasurable uncertainty and curiosity of media consumption. Therefore, a natural question is how to identify these spoilers in entertainment reviews, so that users can more effectively navigate review platforms.\n\n### Content\nThis dataset is collected from IMDB. It contains meta-data about items as well as user reviews with information regarding whether a review contains a spoiler or not. For more details on the attributes, please check file descriptions. Following stats provide a good sense of the scale of the dataset:\n\n`# records` = 573913 \n\n`# users` = 263407 \n\n`# movies` = 1572 \n\n`# spoiler reviews` = 150924 \n\n`# users with at least one spoiler review` = 79039 \n\n`# items with at least one spoiler review` = 1570\n\n### Citation\nIf you use the dataset for your work, please cite the following:\n\nCitation in text format\n```\nMisra, Rishabh. \"IMDB Spoiler Dataset.\" DOI: 10.13140/RG.2.2.11584.15362 (2019).\n```\nCitation in BibTex format\n```\n@dataset{misra2019imdb,\n  author = {Misra, Rishabh},\n  year = {2019},\n  month = {05},\n  pages = {},\n  title = {IMDB Spoiler Dataset},\n  doi = {10.13140/RG.2.2.11584.15362}\n}\n```\nPlease link to [rishabhmisra.github.io/publications](https://rishabhmisra.github.io/publications/) as the source of this dataset.\n\n### Acknowledgement\nThis dataset is collected from IMDB.\n\n### Inspiration\n* Can you utilize the metadata to identify reviews which contain spoiler?\n* Additionally, can you uncover signals that make a review spoiler-y?\n* Apart from spoiler detection, the metadata available can be used for other tasks as well like rating prediction etc.\n\n### Want to contribute your own datasets?\n\nIf you are interested in learning how to collect high-quality datasets for various ML tasks and the overall importance of data in the ML ecosystem, consider reading my book [Sculpting Data for ML](https://www.amazon.com/dp/B08RN47C5T).\n\n### Other datasets\nPlease also checkout the following datasets collected by me:\n\n* [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)\n\n* [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)\n\n* [Clothing Fit Dataset for Size Recommendation](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)\n\n* [Politifact Fact Check Dataset](https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "linguistics",
+    "nlp",
+    "deep learning",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

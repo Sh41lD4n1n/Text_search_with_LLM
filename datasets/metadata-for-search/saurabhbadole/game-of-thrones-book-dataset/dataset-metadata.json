@@ -1,0 +1,44 @@
+{
+  "id": "saurabhbadole/game-of-thrones-book-dataset",
+  "id_no": 4715157,
+  "datasetSlugNullable": "game-of-thrones-book-dataset",
+  "ownerUserNullable": "saurabhbadole",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Game of Thrones - Book Dataset",
+  "subtitleNullable": "Unraveling the Epic GOT Saga in Text Form",
+  "descriptionNullable": "This dataset comprises the complete text of the **five books from the epic fantasy series, Game of Thrones**. Dive into the rich narrative tapestry woven by **George R.R. Martin** and explore the lands of Westeros and Essos through textual analysis and natural language processing techniques.\n\n**Usage:**\n- Text Analysis: Perform sentiment analysis, topic modeling, and character network analysis to uncover insights into \n   the story's themes and character interactions.\n- Natural Language Processing: Utilize the dataset for training language models, generating text, and exploring \n   language patterns within the Game of Thrones universe.\n- Literary Research: Conduct comparative studies, explore narrative structures, and analyze literary devices employed \n   by the author across the series. \n",
+  "datasetId": 4715157,
+  "datasetSlug": "game-of-thrones-book-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhbadole",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 941,
+  "totalVotes": 73,
+  "totalDownloads": 141,
+  "title": "Game of Thrones - Book Dataset",
+  "hasTitle": true,
+  "subtitle": "Unraveling the Epic GOT Saga in Text Form",
+  "hasSubtitle": true,
+  "description": "This dataset comprises the complete text of the **five books from the epic fantasy series, Game of Thrones**. Dive into the rich narrative tapestry woven by **George R.R. Martin** and explore the lands of Westeros and Essos through textual analysis and natural language processing techniques.\n\n**Usage:**\n- Text Analysis: Perform sentiment analysis, topic modeling, and character network analysis to uncover insights into \n   the story's themes and character interactions.\n- Natural Language Processing: Utilize the dataset for training language models, generating text, and exploring \n   language patterns within the Game of Thrones universe.\n- Literary Research: Conduct comparative studies, explore narrative structures, and analyze literary devices employed \n   by the author across the series. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "literature",
+    "beginner",
+    "intermediate",
+    "text",
+    "word2vec skip-gram"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

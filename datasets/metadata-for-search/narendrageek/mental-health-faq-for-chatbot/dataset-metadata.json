@@ -1,0 +1,47 @@
+{
+  "id": "narendrageek/mental-health-faq-for-chatbot",
+  "id_no": 903283,
+  "datasetSlugNullable": "mental-health-faq-for-chatbot",
+  "ownerUserNullable": "narendrageek",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health FAQ for Chatbot",
+  "subtitleNullable": "Get answers to all mental health related queries",
+  "descriptionNullable": "### Content\n\nMental health includes our emotional, psychological, and social well-being. Mental health is integral to living a healthy, balanced life. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Emotional and mental health is important because it\u2019s a vital part of your life and impacts your thoughts, behaviors and emotions. Being healthy emotionally can promote productivity and effectiveness in activities like work, school or care-giving. It plays an important part in the health of your relationships, and allows you to adapt to changes in your life and cope with adversity. Mental health problems are common but help is available. People with mental health problems can get better and many recover completely. \n\nThis dataset consists of FAQs about Mental Health.\n\n\n### Acknowledgements\n\nhttps://www.thekimfoundation.org/faqs/\n\nhttps://www.mhanational.org/frequently-asked-questions\n\nhttps://www.wellnessinmind.org/frequently-asked-questions/\n\nhttps://www.heretohelp.bc.ca/questions-and-answers",
+  "datasetId": 903283,
+  "datasetSlug": "mental-health-faq-for-chatbot",
+  "hasDatasetSlug": true,
+  "ownerUser": "narendrageek",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 67626,
+  "totalVotes": 131,
+  "totalDownloads": 8620,
+  "title": "Mental Health FAQ for Chatbot",
+  "hasTitle": true,
+  "subtitle": "Get answers to all mental health related queries",
+  "hasSubtitle": true,
+  "description": "### Content\n\nMental health includes our emotional, psychological, and social well-being. Mental health is integral to living a healthy, balanced life. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Emotional and mental health is important because it\u2019s a vital part of your life and impacts your thoughts, behaviors and emotions. Being healthy emotionally can promote productivity and effectiveness in activities like work, school or care-giving. It plays an important part in the health of your relationships, and allows you to adapt to changes in your life and cope with adversity. Mental health problems are common but help is available. People with mental health problems can get better and many recover completely. \n\nThis dataset consists of FAQs about Mental Health.\n\n\n### Acknowledgements\n\nhttps://www.thekimfoundation.org/faqs/\n\nhttps://www.mhanational.org/frequently-asked-questions\n\nhttps://www.wellnessinmind.org/frequently-asked-questions/\n\nhttps://www.heretohelp.bc.ca/questions-and-answers",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "beginner",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nehaprabhavalkar",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

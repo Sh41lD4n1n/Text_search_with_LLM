@@ -1,0 +1,43 @@
+{
+  "id": "tarunbisht11/intruder-detection",
+  "id_no": 1795799,
+  "datasetSlugNullable": "intruder-detection",
+  "ownerUserNullable": "tarunbisht11",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Intruder Detection",
+  "subtitleNullable": "Object Detection Dataset with 4 classes in VOC Format",
+  "descriptionNullable": "### Context\n\nThis dataset was curated for a research project that deals with monkey theft detection. To be more versatile and generalizable dataset contains 3 more categories other than monkeys which include person, dog and cat.\n\n\n### Content\n\nThis Dataset consists of images along with their annotations in csv file. Dataset also consists of tfrecords files of images and annotations.\n- `train.csv` : csv file consist of training images and their annotations.\n- `test.csv` : csv file consist of test images and their annotations.\n- `train.tfrecord` : training data tfrecord file with images and annotations.\n- `test.tfrecord` : test data tfrecord file with images and annotations.\n- jpg images of 4 categories with approx 3000 images per category\n\n\n### Acknowledgements\n\nDataset curated from [Open Image Dataset](https://opensource.google/projects/open-images-dataset) using [OIDv4_ToolKit](https://github.com/EscVM/OIDv4_ToolKit)",
+  "datasetId": 1795799,
+  "datasetSlug": "intruder-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarunbisht11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 2827,
+  "totalVotes": 6,
+  "totalDownloads": 99,
+  "title": "Intruder Detection",
+  "hasTitle": true,
+  "subtitle": "Object Detection Dataset with 4 classes in VOC Format",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was curated for a research project that deals with monkey theft detection. To be more versatile and generalizable dataset contains 3 more categories other than monkeys which include person, dog and cat.\n\n\n### Content\n\nThis Dataset consists of images along with their annotations in csv file. Dataset also consists of tfrecords files of images and annotations.\n- `train.csv` : csv file consist of training images and their annotations.\n- `test.csv` : csv file consist of test images and their annotations.\n- `train.tfrecord` : training data tfrecord file with images and annotations.\n- `test.tfrecord` : test data tfrecord file with images and annotations.\n- jpg images of 4 categories with approx 3000 images per category\n\n\n### Acknowledgements\n\nDataset curated from [Open Image Dataset](https://opensource.google/projects/open-images-dataset) using [OIDv4_ToolKit](https://github.com/EscVM/OIDv4_ToolKit)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "keras",
+    "tensorflow",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

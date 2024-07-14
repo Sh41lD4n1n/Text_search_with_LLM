@@ -1,0 +1,42 @@
+{
+  "id": "tsaustin/us-historical-stock-prices-with-earnings-data",
+  "id_no": 145153,
+  "datasetSlugNullable": "us-historical-stock-prices-with-earnings-data",
+  "ownerUserNullable": "tsaustin",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "US historical stock prices with earnings data",
+  "subtitleNullable": "20 years of NASDAQ, NYSE, & AMEX daily stock prices",
+  "descriptionNullable": "### Overview\n\n20 years of historical US stock prices from AMEX, Nasdaq and NYSE markets with data for 7000+ stocks. \n\n### Content\nThere are four files in this dataset:\n\n 1. dataset_summary.csv: Summary table for all stocks in this dataset.\n 2. earnings_latest.csv: Earnings data for each stock with earnings date, estimated EPS and reported EPS.\n 3. stock_prices.csv: Daily stock price data with open, close, low, high, trading volumes and adjusted closing prices as well as stock split coefficient.\n 4. dividends_latest.csv: Dividend data for each stock with dividend date.\n\n### Updates\nI'm updating the data in batches, so don't expect that all stocks will have prices up to the same date. It could take up to two weeks for individual stocks to catch up.\nI'll try to upload updated data at least once a month.\n\n### Data sources\n\nThe data was scraped from different data sources:\n\n - [Nasdaq][1]\n - [Yahoo Finance][2]\n - [Zacks][3]\n - [Alpha Vantage][4]\n\n\n  [1]: https://www.nasdaq.com/\n  [2]: https://finance.yahoo.com/\n  [3]: https://www.zacks.com/\n  [4]: https://www.alphavantage.co/",
+  "datasetId": 145153,
+  "datasetSlug": "us-historical-stock-prices-with-earnings-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "tsaustin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 61318,
+  "totalVotes": 226,
+  "totalDownloads": 6862,
+  "title": "US historical stock prices with earnings data",
+  "hasTitle": true,
+  "subtitle": "20 years of NASDAQ, NYSE, & AMEX daily stock prices",
+  "hasSubtitle": true,
+  "description": "### Overview\n\n20 years of historical US stock prices from AMEX, Nasdaq and NYSE markets with data for 7000+ stocks. \n\n### Content\nThere are four files in this dataset:\n\n 1. dataset_summary.csv: Summary table for all stocks in this dataset.\n 2. earnings_latest.csv: Earnings data for each stock with earnings date, estimated EPS and reported EPS.\n 3. stock_prices.csv: Daily stock price data with open, close, low, high, trading volumes and adjusted closing prices as well as stock split coefficient.\n 4. dividends_latest.csv: Dividend data for each stock with dividend date.\n\n### Updates\nI'm updating the data in batches, so don't expect that all stocks will have prices up to the same date. It could take up to two weeks for individual stocks to catch up.\nI'll try to upload updated data at least once a month.\n\n### Data sources\n\nThe data was scraped from different data sources:\n\n - [Nasdaq][1]\n - [Yahoo Finance][2]\n - [Zacks][3]\n - [Alpha Vantage][4]\n\n\n  [1]: https://www.nasdaq.com/\n  [2]: https://finance.yahoo.com/\n  [3]: https://www.zacks.com/\n  [4]: https://www.alphavantage.co/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "regression",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

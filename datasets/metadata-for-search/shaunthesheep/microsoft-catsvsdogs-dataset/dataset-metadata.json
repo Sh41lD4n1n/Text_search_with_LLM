@@ -1,0 +1,43 @@
+{
+  "id": "shaunthesheep/microsoft-catsvsdogs-dataset",
+  "id_no": 550917,
+  "datasetSlugNullable": "microsoft-catsvsdogs-dataset",
+  "ownerUserNullable": "shaunthesheep",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cats-vs-Dogs",
+  "subtitleNullable": "image dataset for binary classification.",
+  "descriptionNullable": "### Context\n\n**This data set contains two class of images Cats and Dogs.\nThis can be best utilized in a binary classification problem set in computer vision.**\n\ud83d\udc4d ",
+  "datasetId": 550917,
+  "datasetSlug": "microsoft-catsvsdogs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shaunthesheep",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 208414,
+  "totalVotes": 529,
+  "totalDownloads": 46115,
+  "title": "Cats-vs-Dogs",
+  "hasTitle": true,
+  "subtitle": "image dataset for binary classification.",
+  "hasSubtitle": true,
+  "description": "### Context\n\n**This data set contains two class of images Cats and Dogs.\nThis can be best utilized in a binary classification problem set in computer vision.**\n\ud83d\udc4d ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "catherinerasgaitis/mxmh-survey-results",
+  "id_no": 2659407,
+  "datasetSlugNullable": "mxmh-survey-results",
+  "ownerUserNullable": "catherinerasgaitis",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Music & Mental Health Survey Results",
+  "subtitleNullable": "Survey results on music taste and self-reported mental health",
+  "descriptionNullable": "<img src=\"https://i.imgur.com/tPHIgmR.png\" alt=\"logo\" style=\"width: 300px; float: left\">   <img src=\"https://cdn.discordapp.com/attachments/776317787869282327/1045460261840093245/music_x_mental_health_6.png\" alt=\"girl\" style=\"width: 300px\"> \n\n# Context\nMusic therapy, or MT, is the use of music to improve an individual's stress, mood, and overall mental health. MT is also recognized as an evidence-based practice, using music as a catalyst for \"happy\" hormones such as oxytocin.\n\nHowever, MT employs a wide range of different genres, varying from one organization to the next.\n\nThe **MxMH** dataset aims to identify what, if any, correlations exist between an individual's music taste and their self-reported mental health. Ideally, these findings could contribute to a more informed application of MT or simply provide interesting sights about the mind.\n\n# Interpreting data\n\n### Block 0: Background\nRespondents answer generic questions focused on musical background and listening habits.\n\n### Block 1: Music genres\nRespondents rank how often they listen to 16 music genres, where they can select:\n* Never\n* Rarely\n* Sometimes\n* Very frequently\n\n### Block 2: Mental health\nRespondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, where:\n* 0 - I do not experience this.\n* 10 - I experience this regularly, constantly/or to an extreme.\n\n*Additional data that does not fall in these blocks may provide useful background information. See column descriptors.*\n\n# Data collection\nData collection was managed by @catherinerasgaitis via a Google Form. Respondents were not restricted by age or location.\n\nThe form was posted in various Reddit forums, Discord servers, and social media platforms. Posters and \"business cards\" were also used to advertise the form in libraries, parks, and other public locations.\n\nThe form was relatively brief so that respondents would be more likely finish the survey. \"Harder\" questions (such as BPM) were left optional for the same reason.\n\nView the [EDA notebook](https://www.kaggle.com/code/catherinerasgaitis/music-mental-health-eda/notebook).",
+  "datasetId": 2659407,
+  "datasetSlug": "mxmh-survey-results",
+  "hasDatasetSlug": true,
+  "ownerUser": "catherinerasgaitis",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 134603,
+  "totalVotes": 286,
+  "totalDownloads": 23130,
+  "title": "Music & Mental Health Survey Results",
+  "hasTitle": true,
+  "subtitle": "Survey results on music taste and self-reported mental health",
+  "hasSubtitle": true,
+  "description": "<img src=\"https://i.imgur.com/tPHIgmR.png\" alt=\"logo\" style=\"width: 300px; float: left\">   <img src=\"https://cdn.discordapp.com/attachments/776317787869282327/1045460261840093245/music_x_mental_health_6.png\" alt=\"girl\" style=\"width: 300px\"> \n\n# Context\nMusic therapy, or MT, is the use of music to improve an individual's stress, mood, and overall mental health. MT is also recognized as an evidence-based practice, using music as a catalyst for \"happy\" hormones such as oxytocin.\n\nHowever, MT employs a wide range of different genres, varying from one organization to the next.\n\nThe **MxMH** dataset aims to identify what, if any, correlations exist between an individual's music taste and their self-reported mental health. Ideally, these findings could contribute to a more informed application of MT or simply provide interesting sights about the mind.\n\n# Interpreting data\n\n### Block 0: Background\nRespondents answer generic questions focused on musical background and listening habits.\n\n### Block 1: Music genres\nRespondents rank how often they listen to 16 music genres, where they can select:\n* Never\n* Rarely\n* Sometimes\n* Very frequently\n\n### Block 2: Mental health\nRespondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, where:\n* 0 - I do not experience this.\n* 10 - I experience this regularly, constantly/or to an extreme.\n\n*Additional data that does not fall in these blocks may provide useful background information. See column descriptors.*\n\n# Data collection\nData collection was managed by @catherinerasgaitis via a Google Form. Respondents were not restricted by age or location.\n\nThe form was posted in various Reddit forums, Discord servers, and social media platforms. Posters and \"business cards\" were also used to advertise the form in libraries, parks, and other public locations.\n\nThe form was relatively brief so that respondents would be more likely finish the survey. \"Harder\" questions (such as BPM) were left optional for the same reason.\n\nView the [EDA notebook](https://www.kaggle.com/code/catherinerasgaitis/music-mental-health-eda/notebook).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "mental health",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

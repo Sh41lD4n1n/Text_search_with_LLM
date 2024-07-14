@@ -1,0 +1,43 @@
+{
+  "id": "rashikrahmanpritom/heart-attack-analysis-prediction-dataset",
+  "id_no": 1226038,
+  "datasetSlugNullable": "heart-attack-analysis-prediction-dataset",
+  "ownerUserNullable": "rashikrahmanpritom",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Heart Attack Analysis & Prediction Dataset",
+  "subtitleNullable": "A dataset for heart attack classification",
+  "descriptionNullable": "## Hone your analytical and ML skills by participating in tasks of my other dataset's. Given below.\n\n\n[Data Science Job Posting on Glassdoor](https://www.kaggle.com/rashikrahmanpritom/data-science-job-posting-on-glassdoor)\n\n[Groceries dataset for Market Basket Analysis(MBA)](https://www.kaggle.com/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba)\n\n[Dataset for Facial recognition using ML approach](https://www.kaggle.com/rashikrahmanpritom/dataset-for-facial-recognition-using-ml-approach)\n\n[Covid_w/wo_Pneumonia Chest Xray](https://www.kaggle.com/rashikrahmanpritom/covid-wwo-pneumonia-chest-xray)\n\n[Disney Movies 1937-2016 Gross Income](https://www.kaggle.com/rashikrahmanpritom/disney-movies-19372016-total-gross)\n\n[Bollywood Movie data from 2000 to 2019](https://www.kaggle.com/rashikrahmanpritom/bollywood-movie-data-from-2000-to-2019)\n\n[17.7K English song data from 2008-2017](https://www.kaggle.com/rashikrahmanpritom/177k-english-song-data-from-20082017)\n\n## About this dataset\n\n- Age : Age of the patient\n\n- Sex : Sex of the patient\n\n- exang: exercise induced angina (1 = yes; 0 = no)\n\n- ca: number of major vessels (0-3)\n\n- cp : Chest Pain type chest pain type\n     - Value 1: typical angina\n     - Value 2: atypical angina\n     - Value 3: non-anginal pain\n     - Value 4: asymptomatic\n     \n- trtbps : resting blood pressure (in mm Hg)\n- chol : cholestoral in mg/dl fetched via BMI sensor\n- fbs : (fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false)\n- rest_ecg : resting electrocardiographic results\n    - Value 0: normal\n    - Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of &gt; 0.05 mV)\n    - Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria\n    \n- thalach : maximum heart rate achieved\n- target : 0= less chance of heart attack 1= more chance of heart attack\n\nn ",
+  "datasetId": 1226038,
+  "datasetSlug": "heart-attack-analysis-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rashikrahmanpritom",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1142698,
+  "totalVotes": 3766,
+  "totalDownloads": 191408,
+  "title": "Heart Attack Analysis & Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset for heart attack classification",
+  "hasSubtitle": true,
+  "description": "## Hone your analytical and ML skills by participating in tasks of my other dataset's. Given below.\n\n\n[Data Science Job Posting on Glassdoor](https://www.kaggle.com/rashikrahmanpritom/data-science-job-posting-on-glassdoor)\n\n[Groceries dataset for Market Basket Analysis(MBA)](https://www.kaggle.com/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba)\n\n[Dataset for Facial recognition using ML approach](https://www.kaggle.com/rashikrahmanpritom/dataset-for-facial-recognition-using-ml-approach)\n\n[Covid_w/wo_Pneumonia Chest Xray](https://www.kaggle.com/rashikrahmanpritom/covid-wwo-pneumonia-chest-xray)\n\n[Disney Movies 1937-2016 Gross Income](https://www.kaggle.com/rashikrahmanpritom/disney-movies-19372016-total-gross)\n\n[Bollywood Movie data from 2000 to 2019](https://www.kaggle.com/rashikrahmanpritom/bollywood-movie-data-from-2000-to-2019)\n\n[17.7K English song data from 2008-2017](https://www.kaggle.com/rashikrahmanpritom/177k-english-song-data-from-20082017)\n\n## About this dataset\n\n- Age : Age of the patient\n\n- Sex : Sex of the patient\n\n- exang: exercise induced angina (1 = yes; 0 = no)\n\n- ca: number of major vessels (0-3)\n\n- cp : Chest Pain type chest pain type\n     - Value 1: typical angina\n     - Value 2: atypical angina\n     - Value 3: non-anginal pain\n     - Value 4: asymptomatic\n     \n- trtbps : resting blood pressure (in mm Hg)\n- chol : cholestoral in mg/dl fetched via BMI sensor\n- fbs : (fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false)\n- rest_ecg : resting electrocardiographic results\n    - Value 0: normal\n    - Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of &gt; 0.05 mV)\n    - Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria\n    \n- thalach : maximum heart rate achieved\n- target : 0= less chance of heart attack 1= more chance of heart attack\n\nn ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "classification",
+    "binary classification",
+    "health conditions",
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

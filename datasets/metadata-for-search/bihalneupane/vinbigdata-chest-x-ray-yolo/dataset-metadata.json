@@ -1,0 +1,42 @@
+{
+  "id": "bihalneupane/vinbigdata-chest-x-ray-yolo",
+  "id_no": 5118172,
+  "datasetSlugNullable": "vinbigdata-chest-x-ray-yolo",
+  "ownerUserNullable": "bihalneupane",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "VinBigData Chest X-ray - YOLO",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5118172,
+  "datasetSlug": "vinbigdata-chest-x-ray-yolo",
+  "hasDatasetSlug": true,
+  "ownerUser": "bihalneupane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 45,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "VinBigData Chest X-ray - YOLO",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nigamniraula",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sreekargv/bike-rentals",
+  "id_no": 4659895,
+  "datasetSlugNullable": "bike-rentals",
+  "ownerUserNullable": "sreekargv",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bike rentals",
+  "subtitleNullable": "This is Yulu dataset. Yulu is India\u2019s leading micro-mobility service provider.",
+  "descriptionNullable": "About Yulu\n\nYulu is India\u2019s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable commuting.\n\nYulu zones are located at all the appropriate locations (including metro stations, bus stands, office spaces, residential areas, corporate offices, etc) to make those first and last miles smooth, affordable, and convenient!\n\nYulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.",
+  "datasetId": 4659895,
+  "datasetSlug": "bike-rentals",
+  "hasDatasetSlug": true,
+  "ownerUser": "sreekargv",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5724,
+  "totalVotes": 28,
+  "totalDownloads": 1104,
+  "title": "Bike rentals",
+  "hasTitle": true,
+  "subtitle": "This is Yulu dataset. Yulu is India\u2019s leading micro-mobility service provider.",
+  "hasSubtitle": true,
+  "description": "About Yulu\n\nYulu is India\u2019s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable commuting.\n\nYulu zones are located at all the appropriate locations (including metro stations, bus stands, office spaces, residential areas, corporate offices, etc) to make those first and last miles smooth, affordable, and convenient!\n\nYulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "retail and shopping",
+    "pandas",
+    "scipy",
+    "seaborn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

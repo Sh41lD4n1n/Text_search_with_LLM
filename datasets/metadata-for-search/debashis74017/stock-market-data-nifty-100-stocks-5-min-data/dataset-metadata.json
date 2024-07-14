@@ -1,0 +1,44 @@
+{
+  "id": "debashis74017/stock-market-data-nifty-100-stocks-5-min-data",
+  "id_no": 2481535,
+  "datasetSlugNullable": "stock-market-data-nifty-100-stocks-5-min-data",
+  "ownerUserNullable": "debashis74017",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stock Market Data - Nifty 100 stocks (5 min) data",
+  "subtitleNullable": "Huge stock market data - with Technical indicators - Time series analysis -ML/DL",
+  "descriptionNullable": "**Disclaimer!!!**\nData uploaded here are collected from the internet. The sole purposes of uploading these data are to provide this Kaggle community with a good source of data for analysis and research. I don't own these datasets and am also not responsible for them legally by any means. I am not charging anything (either monetary or any favor) for this dataset.  \n\nFor the first time, Nifty 100 stocks data and two indices data, along with 55 technical indicators used by Market experts are calculated and made available. Kindly download the data and make sure to share your code in public and if you like this data, do upvote. Thank you. \n\n## Overview\nThis dataset contains historical daily prices for Nifty 100 stocks and indices currently trading on the Indian Stock Market. \n- Data samples are of 5-minute intervals and the availability of data is from Jan 2015 to Feb 2022. \n- Along with OHLCV (Open, High, Low, Close, and Volume) data, we have created 55 technical indicators. \n- More details about these technical indicators are provided in the Data description file. \n\n## Content\nThe whole dataset is around 5 GB, and 100 stocks (Nifty 100 stocks) and 2 indices (Nifty 50 and Nifty Bank indices) are present in this dataset. Details about each file are - \n- OHLCV (Open, High, Low, Close, and Volume) data\n- 55 Technical indicator values are also present\n\n## Inspiration\n- Data is uploaded for Research and Educational purposes.\n\n## Possible problem statements\n- Univariate and Multi-variate time series forecasting of stock prices and index prices\n- Multi-variate data can be used to predict the trend of the stock price (Buy or Sell or Hold)\n- Different intraday or positional trading strategies can be built out of this multivariate data. [technical indicators are already added here]\n- EDA on time series data\n",
+  "datasetId": 2481535,
+  "datasetSlug": "stock-market-data-nifty-100-stocks-5-min-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "debashis74017",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 14533,
+  "totalVotes": 52,
+  "totalDownloads": 2091,
+  "title": "Stock Market Data - Nifty 100 stocks (5 min) data",
+  "hasTitle": true,
+  "subtitle": "Huge stock market data - with Technical indicators - Time series analysis -ML/DL",
+  "hasSubtitle": true,
+  "description": "**Disclaimer!!!**\nData uploaded here are collected from the internet. The sole purposes of uploading these data are to provide this Kaggle community with a good source of data for analysis and research. I don't own these datasets and am also not responsible for them legally by any means. I am not charging anything (either monetary or any favor) for this dataset.  \n\nFor the first time, Nifty 100 stocks data and two indices data, along with 55 technical indicators used by Market experts are calculated and made available. Kindly download the data and make sure to share your code in public and if you like this data, do upvote. Thank you. \n\n## Overview\nThis dataset contains historical daily prices for Nifty 100 stocks and indices currently trading on the Indian Stock Market. \n- Data samples are of 5-minute intervals and the availability of data is from Jan 2015 to Feb 2022. \n- Along with OHLCV (Open, High, Low, Close, and Volume) data, we have created 55 technical indicators. \n- More details about these technical indicators are provided in the Data description file. \n\n## Content\nThe whole dataset is around 5 GB, and 100 stocks (Nifty 100 stocks) and 2 indices (Nifty 50 and Nifty Bank indices) are present in this dataset. Details about each file are - \n- OHLCV (Open, High, Low, Close, and Volume) data\n- 55 Technical indicator values are also present\n\n## Inspiration\n- Data is uploaded for Research and Educational purposes.\n\n## Possible problem statements\n- Univariate and Multi-variate time series forecasting of stock prices and index prices\n- Multi-variate data can be used to predict the trend of the stock price (Buy or Sell or Hold)\n- Different intraday or positional trading strategies can be built out of this multivariate data. [technical indicators are already added here]\n- EDA on time series data\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "business",
+    "finance",
+    "reinforcement learning",
+    "logistic regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

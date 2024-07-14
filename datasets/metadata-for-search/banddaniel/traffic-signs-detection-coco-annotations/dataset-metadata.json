@@ -1,0 +1,39 @@
+{
+  "id": "banddaniel/traffic-signs-detection-coco-annotations",
+  "id_no": 4073530,
+  "datasetSlugNullable": "traffic-signs-detection-coco-annotations",
+  "ownerUserNullable": "banddaniel",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Traffic Signs Detection (COCO annotations)",
+  "subtitleNullable": "",
+  "descriptionNullable": "COCO (json) format of this dataset -&gt; https://www.kaggle.com/datasets/pkdarabi/cardetection/data\noriginal dataset from -&gt; https://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou/dataset/6",
+  "datasetId": 4073530,
+  "datasetSlug": "traffic-signs-detection-coco-annotations",
+  "hasDatasetSlug": true,
+  "ownerUser": "banddaniel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 271,
+  "totalVotes": 4,
+  "totalDownloads": 26,
+  "title": "Traffic Signs Detection (COCO annotations)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "COCO (json) format of this dataset -&gt; https://www.kaggle.com/datasets/pkdarabi/cardetection/data\noriginal dataset from -&gt; https://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou/dataset/6",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

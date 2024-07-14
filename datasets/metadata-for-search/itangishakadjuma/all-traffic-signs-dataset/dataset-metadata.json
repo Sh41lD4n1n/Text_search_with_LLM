@@ -1,0 +1,39 @@
+{
+  "id": "itangishakadjuma/all-traffic-signs-dataset",
+  "id_no": 5175287,
+  "datasetSlugNullable": "all-traffic-signs-dataset",
+  "ownerUserNullable": "itangishakadjuma",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "all traffic signs dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains images of various traffic signs captured in different conditions to facilitate the training and evaluation of machine learning models for traffic sign recognition. The dataset is designed to be used in computer vision tasks such as object detection and classification.",
+  "datasetId": 5175287,
+  "datasetSlug": "all-traffic-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "itangishakadjuma",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 15,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "all traffic signs dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of various traffic signs captured in different conditions to facilitate the training and evaluation of machine learning models for traffic sign recognition. The dataset is designed to be used in computer vision tasks such as object detection and classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

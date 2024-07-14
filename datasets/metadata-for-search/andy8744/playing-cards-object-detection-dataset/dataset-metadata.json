@@ -1,0 +1,43 @@
+{
+  "id": "andy8744/playing-cards-object-detection-dataset",
+  "id_no": 1043676,
+  "datasetSlugNullable": "playing-cards-object-detection-dataset",
+  "ownerUserNullable": "andy8744",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Playing Cards Object Detection Dataset",
+  "subtitleNullable": "Synthetically generated playing cards images with bounding boxes",
+  "descriptionNullable": "### Context\n\nHighly inspired by RAIN MAN 2.0 by Edje Electronics (https://www.youtube.com/watch?v=Nf3zBJ2cDAs) I wanted to create my own playing cards AI for Blackjack and Poker. I didn't have much prior experience to DL so I wanted to jump in straight away and train my own yolov5 model but there was no dataset provided, only the code for generating it. \n\n### Content\n\nFirst I took 20-30 second videos of all 52 cards under variable light temperature and brightness. The images were processed with open-cv. The DTD dataset (https://www.robots.ox.ac.uk/~vgg/data/dtd/) was used to simulate backgrounds of various textures for our dataset. \n\nThe original generated dataset was in Pascal VOC format. It was uploaded to [Roboflow](https://app.roboflow.com/) and exported to YOLO v5 PyTorch format. \n\nImages are 416x416, split into train/test/valid (70/20/10 split). \n\nUse kaggle_data.yaml if training in kaggle; data.yaml if training on your local machine\n\n### Acknowledgements\n\nThanks to @geaxgx for providing a well documented jupyter notebook on generating this dataset. \nhttps://github.com/geaxgx/playing-card-detection\n",
+  "datasetId": 1043676,
+  "datasetSlug": "playing-cards-object-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "andy8744",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 18654,
+  "totalVotes": 38,
+  "totalDownloads": 1919,
+  "title": "Playing Cards Object Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Synthetically generated playing cards images with bounding boxes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHighly inspired by RAIN MAN 2.0 by Edje Electronics (https://www.youtube.com/watch?v=Nf3zBJ2cDAs) I wanted to create my own playing cards AI for Blackjack and Poker. I didn't have much prior experience to DL so I wanted to jump in straight away and train my own yolov5 model but there was no dataset provided, only the code for generating it. \n\n### Content\n\nFirst I took 20-30 second videos of all 52 cards under variable light temperature and brightness. The images were processed with open-cv. The DTD dataset (https://www.robots.ox.ac.uk/~vgg/data/dtd/) was used to simulate backgrounds of various textures for our dataset. \n\nThe original generated dataset was in Pascal VOC format. It was uploaded to [Roboflow](https://app.roboflow.com/) and exported to YOLO v5 PyTorch format. \n\nImages are 416x416, split into train/test/valid (70/20/10 split). \n\nUse kaggle_data.yaml if training in kaggle; data.yaml if training on your local machine\n\n### Acknowledgements\n\nThanks to @geaxgx for providing a well documented jupyter notebook on generating this dataset. \nhttps://github.com/geaxgx/playing-card-detection\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "card games",
+    "computer science",
+    "classification",
+    "gambling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

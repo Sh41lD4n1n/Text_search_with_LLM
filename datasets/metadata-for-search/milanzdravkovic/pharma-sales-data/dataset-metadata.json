@@ -1,0 +1,40 @@
+{
+  "id": "milanzdravkovic/pharma-sales-data",
+  "id_no": 466126,
+  "datasetSlugNullable": "pharma-sales-data",
+  "ownerUserNullable": "milanzdravkovic",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Pharma sales data",
+  "subtitleNullable": "Six years data (2014-2019) on sales of drugs classified in 8 ATC categories",
+  "descriptionNullable": "The dataset is built from the initial dataset consisted of 600000 transactional data collected in 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:\n- M01AB - Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances\n- M01AE - Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives\n- N02BA - Other analgesics and antipyretics, Salicylic acid and derivatives\n- N02BE/B - Other analgesics and antipyretics, Pyrazolones and Anilides\n- N05B - Psycholeptics drugs, Anxiolytic drugs\n- N05C - Psycholeptics drugs, Hypnotics and sedatives drugs\n- R03 - Drugs for obstructive airway diseases\n- R06 - Antihistamines for systemic use\nSales data are resampled to the hourly, daily, weekly and monthly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.",
+  "datasetId": 466126,
+  "datasetSlug": "pharma-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "milanzdravkovic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 194304,
+  "totalVotes": 247,
+  "totalDownloads": 34773,
+  "title": "Pharma sales data",
+  "hasTitle": true,
+  "subtitle": "Six years data (2014-2019) on sales of drugs classified in 8 ATC categories",
+  "hasSubtitle": true,
+  "description": "The dataset is built from the initial dataset consisted of 600000 transactional data collected in 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:\n- M01AB - Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances\n- M01AE - Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives\n- N02BA - Other analgesics and antipyretics, Salicylic acid and derivatives\n- N02BE/B - Other analgesics and antipyretics, Pyrazolones and Anilides\n- N05B - Psycholeptics drugs, Anxiolytic drugs\n- N05C - Psycholeptics drugs, Hypnotics and sedatives drugs\n- R03 - Drugs for obstructive airway diseases\n- R06 - Antihistamines for systemic use\nSales data are resampled to the hourly, daily, weekly and monthly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shiv28/animal-5-mammal",
+  "id_no": 1839011,
+  "datasetSlugNullable": "animal-5-mammal",
+  "ownerUserNullable": "shiv28",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Animal -5 Mammal",
+  "subtitleNullable": "This dataset contain 5 different mammals(Cat, Dog , Elephant , Horse , Lion)",
+  "descriptionNullable": "Hello everyone!\n\n****About This Data****\nThis is the dataset I have used for my matriculation thesis.\nIt contains about 15K medium quality animal images belonging to 10 categories: dog, cat, horse, elephant ,lion.\nAll the images have been collected from \"google images\" and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app).\n\n****How to Cite this Dataset****\nIf you use this dataset in your research, please credit the authors",
+  "datasetId": 1839011,
+  "datasetSlug": "animal-5-mammal",
+  "hasDatasetSlug": true,
+  "ownerUser": "shiv28",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 5665,
+  "totalVotes": 31,
+  "totalDownloads": 893,
+  "title": "Animal -5 Mammal",
+  "hasTitle": true,
+  "subtitle": "This dataset contain 5 different mammals(Cat, Dog , Elephant , Horse , Lion)",
+  "hasSubtitle": true,
+  "description": "Hello everyone!\n\n****About This Data****\nThis is the dataset I have used for my matriculation thesis.\nIt contains about 15K medium quality animal images belonging to 10 categories: dog, cat, horse, elephant ,lion.\nAll the images have been collected from \"google images\" and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app).\n\n****How to Cite this Dataset****\nIf you use this dataset in your research, please credit the authors",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "neural networks",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

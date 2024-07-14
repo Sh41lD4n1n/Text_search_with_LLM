@@ -1,0 +1,43 @@
+{
+  "id": "/depthgestrecog",
+  "id_no": 38942,
+  "datasetSlugNullable": "depthgestrecog",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Depth based Gesture Recognition Database",
+  "subtitleNullable": "Acquired by a Microsoft Kinect 2",
+  "descriptionNullable": "### Context\n\nHand gesture recognition database is presented, composed by a set of high resolution range images acquired by the latest generation of range / depth cameras: the Microsoft Kinect 2 (second generation).\n\n### Content\n\nThe database is composed by 11 different hand-gestures  (showed above, where the first row represents dynamic gestures and the second row represents static ones) that are performed by 6 different subjects.\n\nThe database is structured in different folders as (a detailed description can be found below):\n\n - /fist    (fist hand-gesture)\n   - /fist/video_base_1    (base fist hand-gesture of subject 1)\n     - /fist/video_base_1/s01_g10_011_1.png,...,s01_g10_050_1.png,...\n   - /fist/video_base_2    (base fist hand-gesture of subject 2)\n     - /fist/video_base_2/s02_g10_011_1.png,...,s02_g10_050_1.png,...\n   - /fist/video_base_6    (base fist hand-gesture of subject 6)\n     - /fist/video_base_6/s06_g10_011_1.png,...,s06_g10_050_1.png,...\n   - /fist/video_moved_1_1    (moved up fist hand-gesture of subject 1)\n     - /fist/video_moved_1_1/s01_g10_011_2.png,...,s01_g10_050_2.png,...\n   - /fist/video_moved_1_2    (moved down fist hand-gesture of subject 1)\n     - /fist/video_moved_1_2/s01_g10_011_3.png,...,s01_g10_050_3.png,...\n   - /fist/video_moved_1_8    (moved up and left fist hand-gesture of subject 1)\n   - /fist/video_moved_1_8/s01_g10_011_9.png,...,s01_g10_050_9.png,...\n   - /fist/video_moved_6_1    (moved up fist hand-gesture of subject 6)\n   - /fist/video_moved_6_8    (moved up and left fist hand-gesture of subject 6)\n - /grab\n - /one_finger\n - /palm    (palm hand-gesture)\n - /thumb_ud\n\nEvery root folder (fist, grab,...) contains the range images of one hand-gesture. The folder name is the identifier of the hand-gesture (for example fist, palm, thumb_ud,...).\n\nInside every root folder, there are 54 folders: 6 of them are the base hand-gestures (/fist/video_base_1,...,/fist/video_base_2) and the others are the moved hand-gestures used to increment the training samples (/fist/video_moved_1_1,...,/fist/video_moved_1_8,...,/fist/video_moved_6_1,...,/fist_video_moved_6_8). Inside every subfolder, there are a set of range hand images that can be true/positive samples or false/negative samples. The structure of the name of each frame is the same: sXX_gYY_ZZZ_M.png where:\n - XX is the subject identifier.\n - YY is the gesture identifier.\n - ZZZ is the number of the frame.\n - M indicates if the frame belongs to the base video (M = 1) or if it belongs to a moved video (M=2,...9).\n\nFor example, the frame 's02_g_05_060_1' indicates that the frame belongs to the fifth gesture, which is performed by the second subject,  it is the frame number 60, and it belongs to the base video.\n\n\n### Citation\n\nT. Mantec\u00f3n, C.R. del Blanco, F. Jaureguizar, N. Garc\u00eda, \u201cNew generation of human machine interfaces for controlling UAV through depth-based gesture recognition\u201c, SPIE Unmanned Systems Technology XVI, vol. 9084, pp. 9084:1- 9084:0C, June 2014. (doi.org/10.1117/12.2053244)",
+  "datasetId": 38942,
+  "datasetSlug": "depthgestrecog",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 8003,
+  "totalVotes": 20,
+  "totalDownloads": 606,
+  "title": "Depth based Gesture Recognition Database",
+  "hasTitle": true,
+  "subtitle": "Acquired by a Microsoft Kinect 2",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHand gesture recognition database is presented, composed by a set of high resolution range images acquired by the latest generation of range / depth cameras: the Microsoft Kinect 2 (second generation).\n\n### Content\n\nThe database is composed by 11 different hand-gestures  (showed above, where the first row represents dynamic gestures and the second row represents static ones) that are performed by 6 different subjects.\n\nThe database is structured in different folders as (a detailed description can be found below):\n\n - /fist    (fist hand-gesture)\n   - /fist/video_base_1    (base fist hand-gesture of subject 1)\n     - /fist/video_base_1/s01_g10_011_1.png,...,s01_g10_050_1.png,...\n   - /fist/video_base_2    (base fist hand-gesture of subject 2)\n     - /fist/video_base_2/s02_g10_011_1.png,...,s02_g10_050_1.png,...\n   - /fist/video_base_6    (base fist hand-gesture of subject 6)\n     - /fist/video_base_6/s06_g10_011_1.png,...,s06_g10_050_1.png,...\n   - /fist/video_moved_1_1    (moved up fist hand-gesture of subject 1)\n     - /fist/video_moved_1_1/s01_g10_011_2.png,...,s01_g10_050_2.png,...\n   - /fist/video_moved_1_2    (moved down fist hand-gesture of subject 1)\n     - /fist/video_moved_1_2/s01_g10_011_3.png,...,s01_g10_050_3.png,...\n   - /fist/video_moved_1_8    (moved up and left fist hand-gesture of subject 1)\n   - /fist/video_moved_1_8/s01_g10_011_9.png,...,s01_g10_050_9.png,...\n   - /fist/video_moved_6_1    (moved up fist hand-gesture of subject 6)\n   - /fist/video_moved_6_8    (moved up and left fist hand-gesture of subject 6)\n - /grab\n - /one_finger\n - /palm    (palm hand-gesture)\n - /thumb_ud\n\nEvery root folder (fist, grab,...) contains the range images of one hand-gesture. The folder name is the identifier of the hand-gesture (for example fist, palm, thumb_ud,...).\n\nInside every root folder, there are 54 folders: 6 of them are the base hand-gestures (/fist/video_base_1,...,/fist/video_base_2) and the others are the moved hand-gestures used to increment the training samples (/fist/video_moved_1_1,...,/fist/video_moved_1_8,...,/fist/video_moved_6_1,...,/fist_video_moved_6_8). Inside every subfolder, there are a set of range hand images that can be true/positive samples or false/negative samples. The structure of the name of each frame is the same: sXX_gYY_ZZZ_M.png where:\n - XX is the subject identifier.\n - YY is the gesture identifier.\n - ZZZ is the number of the frame.\n - M indicates if the frame belongs to the base video (M = 1) or if it belongs to a moved video (M=2,...9).\n\nFor example, the frame 's02_g_05_060_1' indicates that the frame belongs to the fifth gesture, which is performed by the second subject,  it is the frame number 60, and it belongs to the base video.\n\n\n### Citation\n\nT. Mantec\u00f3n, C.R. del Blanco, F. Jaureguizar, N. Garc\u00eda, \u201cNew generation of human machine interfaces for controlling UAV through depth-based gesture recognition\u201c, SPIE Unmanned Systems Technology XVI, vol. 9084, pp. 9084:1- 9084:0C, June 2014. (doi.org/10.1117/12.2053244)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "video games",
+    "business",
+    "computer science",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

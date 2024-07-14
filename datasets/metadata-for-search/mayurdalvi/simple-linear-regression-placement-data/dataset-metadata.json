@@ -1,0 +1,41 @@
+{
+  "id": "mayurdalvi/simple-linear-regression-placement-data",
+  "id_no": 1712555,
+  "datasetSlugNullable": "simple-linear-regression-placement-data",
+  "ownerUserNullable": "mayurdalvi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Simple Linear Regression - Placement data",
+  "subtitleNullable": "Beginner Guide for simple Linear Regression.",
+  "descriptionNullable": "### Context\n\nThis package was build to understand Simple Linear Regression. The content in this dataset are easy to understand.\n\n\n### Content\n\nContains Two columns:\n\nCGPA : Aggregate Cgpa received \nPackage : Total Package (LPA)\n\n### Thank You !!\nIf like my work please UPVOTE  \ud83d\ude4f\ud83d\ude4f\n\n##Happy Learning",
+  "datasetId": 1712555,
+  "datasetSlug": "simple-linear-regression-placement-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mayurdalvi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29107,
+  "totalVotes": 49,
+  "totalDownloads": 6071,
+  "title": "Simple Linear Regression - Placement data",
+  "hasTitle": true,
+  "subtitle": "Beginner Guide for simple Linear Regression.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis package was build to understand Simple Linear Regression. The content in this dataset are easy to understand.\n\n\n### Content\n\nContains Two columns:\n\nCGPA : Aggregate Cgpa received \nPackage : Total Package (LPA)\n\n### Thank You !!\nIf like my work please UPVOTE  \ud83d\ude4f\ud83d\ude4f\n\n##Happy Learning",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "linear regression",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

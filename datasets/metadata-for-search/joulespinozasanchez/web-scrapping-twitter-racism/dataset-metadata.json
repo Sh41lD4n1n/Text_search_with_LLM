@@ -1,0 +1,43 @@
+{
+  "id": "joulespinozasanchez/web-scrapping-twitter-racism",
+  "id_no": 3806908,
+  "datasetSlugNullable": "web-scrapping-twitter-racism",
+  "ownerUserNullable": "joulespinozasanchez",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Web Scrapping Twitter Racism",
+  "subtitleNullable": "Dataset generated and used in the final project of UAA-ICI-S7-M1",
+  "descriptionNullable": "As part of my studies at the *Aguascalientes Autonomous University* in the *Intelligent Computing Engineering* program, during our seventh semester, we took a course called \"Metaheuristics 1.\" Taught by Professor **Francisco Javier Luna Rosas**, we were going to undertake a quite ambitious project planned for the entire semester.\n\nThe project consisted of several phases where we would perform web scraping of a social network on a specific sensitive topic on a massive scale, aiming to simulate a Big Data operation for sentiment analysis of this data and classify it as positive or negative. Additionally, we were required to propose a load balancer that would handle the distributed processing, providing us with speed in the project's execution time.\n\nThe teacher said that, since this project was very complex, it needed to be accomplished in teams. So with that, the team I collaborated with was formed. Teaming up with [Andrea Melissa Almeida Ortega](https://github.com/Melissa-AO), [\u00d3scar Alonso, Flores Fern\u00e1ndez](https://github.com/Dem0n2000), [Dariana G\u00f3mez Garza](https://github.com/DariGmz), Fernando Francisco Gonz\u00e1lez Arenas, and [Hiram Efra\u00edn Orocio Garc\u00eda](https://github.com/hiram57ef) we began sentiment analysis focusing on the topic of racism using the social network Twitter and conducted web scraping with a developer account using the Python library Tweepy. The procedure took place throughout the second semester of 2021, and at that time, the Twitter API download limit was approximately 900 requests every 15 minutes. Therefore, we developed a program to continuously make these requests, aiming to gather the maximum number of tweets possible and effectively simulate Big Data for the project. The number of tweets obtained after intensive web scraping reached a total of **6,942,021 tweets**, resulting in a **1.14 GB** file. Here it's uploaded separating the total scrapping each of the team members could do.\n\nA simple genetic algorithm procedure was applied, serving as a dynamic load balancer among the six collaborating project computers to perform parallel processing as quickly as possible. The NLTK library in Python was used for lemmatization procedures on the tweets. The Random Forest model was chosen as the classifier for this sentiment analysis, implemented using the sci-kit learn library in Python.\n\nThe classifier achieved an accuracy of **0.9999157** as evaluated through a confusion matrix. The project can be reviewed at this link [here](https://github.com/Joul24py/UAA-ICI/tree/main/23-S7-M1-ClassExercises/04-FinalProject).",
+  "datasetId": 3806908,
+  "datasetSlug": "web-scrapping-twitter-racism",
+  "hasDatasetSlug": true,
+  "ownerUser": "joulespinozasanchez",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 491,
+  "totalVotes": 1,
+  "totalDownloads": 42,
+  "title": "Web Scrapping Twitter Racism",
+  "hasTitle": true,
+  "subtitle": "Dataset generated and used in the final project of UAA-ICI-S7-M1",
+  "hasSubtitle": true,
+  "description": "As part of my studies at the *Aguascalientes Autonomous University* in the *Intelligent Computing Engineering* program, during our seventh semester, we took a course called \"Metaheuristics 1.\" Taught by Professor **Francisco Javier Luna Rosas**, we were going to undertake a quite ambitious project planned for the entire semester.\n\nThe project consisted of several phases where we would perform web scraping of a social network on a specific sensitive topic on a massive scale, aiming to simulate a Big Data operation for sentiment analysis of this data and classify it as positive or negative. Additionally, we were required to propose a load balancer that would handle the distributed processing, providing us with speed in the project's execution time.\n\nThe teacher said that, since this project was very complex, it needed to be accomplished in teams. So with that, the team I collaborated with was formed. Teaming up with [Andrea Melissa Almeida Ortega](https://github.com/Melissa-AO), [\u00d3scar Alonso, Flores Fern\u00e1ndez](https://github.com/Dem0n2000), [Dariana G\u00f3mez Garza](https://github.com/DariGmz), Fernando Francisco Gonz\u00e1lez Arenas, and [Hiram Efra\u00edn Orocio Garc\u00eda](https://github.com/hiram57ef) we began sentiment analysis focusing on the topic of racism using the social network Twitter and conducted web scraping with a developer account using the Python library Tweepy. The procedure took place throughout the second semester of 2021, and at that time, the Twitter API download limit was approximately 900 requests every 15 minutes. Therefore, we developed a program to continuously make these requests, aiming to gather the maximum number of tweets possible and effectively simulate Big Data for the project. The number of tweets obtained after intensive web scraping reached a total of **6,942,021 tweets**, resulting in a **1.14 GB** file. Here it's uploaded separating the total scrapping each of the team members could do.\n\nA simple genetic algorithm procedure was applied, serving as a dynamic load balancer among the six collaborating project computers to perform parallel processing as quickly as possible. The NLTK library in Python was used for lemmatization procedures on the tweets. The Random Forest model was chosen as the classifier for this sentiment analysis, implemented using the sci-kit learn library in Python.\n\nThe classifier achieved an accuracy of **0.9999157** as evaluated through a confusion matrix. The project can be reviewed at this link [here](https://github.com/Joul24py/UAA-ICI/tree/main/23-S7-M1-ClassExercises/04-FinalProject).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text",
+    "binary classification",
+    "online communities",
+    "racial equity",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

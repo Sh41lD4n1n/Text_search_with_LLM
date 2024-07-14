@@ -1,0 +1,39 @@
+{
+  "id": "ad6398/aossie-fake-news-detection-datasets",
+  "id_no": 238871,
+  "datasetSlugNullable": "aossie-fake-news-detection-datasets",
+  "ownerUserNullable": "ad6398",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "AOSSIE: Fake News Detection datasets",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 238871,
+  "datasetSlug": "aossie-fake-news-detection-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "ad6398",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 3550,
+  "totalVotes": 5,
+  "totalDownloads": 167,
+  "title": "AOSSIE: Fake News Detection datasets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "brzy56/2024-nwsl-womens-soccer-league-player-stats-full",
+  "id_no": 5090530,
+  "datasetSlugNullable": "2024-nwsl-womens-soccer-league-player-stats-full",
+  "ownerUserNullable": "brzy56",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "2024 NWSL Womens Soccer League Player Stats FULL",
+  "subtitleNullable": "2024 NWSL Season (so far) player stats for 343 players. Updated monthly.",
+  "descriptionNullable": "2024 NWSL (so far) complete player stats. The dataset will be updated monthly throughout the season as the season progresses. \n\nThe data is mostly scraped from NWSL.com. It has been cleaned, and additional information has been added, such as position.\n\nThe current file is scraped for the current 2024 season through May 25, 2024, and will be updated monthly with updated information as NWSL posts updates.\n\nThere is currently data for 344 players across 40 variables. \n\nHere is the type of information included:\n\n- team\n- player_name\n- position\n- games_played\n- games_started\n- minutes_played\n- goals\n- accurate_pass_percentage\n- assists\n- total_scoring_attempts\n- on_target_scoring_attempts\n- total_attacking_assists\n- tackles\n- fouls_committed\n- fouls_suffered\n- total_offside\n- yellow_cards\n- red_cards\n- accurate_passes\n- total_passes\n- crosses\n- assists_avg_over_90_mins\n- long_balls\n- successful_short_passes\n- turnovers\n- goals_avg_over_90_mins\n- penalty_kick_goals\n- penalty_kick_taken\n- penalty_kick_percentage\n- accurate_shooting_percentage\n- successful_dribble\n- dribble_percentage\n- goals_and_assists\n- tackles\n- tackles_percentage\n- interceptions\n- headed_duel\n- gk_saves\n- gk_long_ball_percentage\n- gk_total_clearance\n\nUse the data to make interesting visualizations, make your own predictions for the season, power your app, do your own analysis, have fun! Just an NWSL superfan here making information available for you. Please message me for any other ideas or questions.\n",
+  "datasetId": 5090530,
+  "datasetSlug": "2024-nwsl-womens-soccer-league-player-stats-full",
+  "hasDatasetSlug": true,
+  "ownerUser": "brzy56",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 34,
+  "totalVotes": 1,
+  "totalDownloads": 13,
+  "title": "2024 NWSL Womens Soccer League Player Stats FULL",
+  "hasTitle": true,
+  "subtitle": "2024 NWSL Season (so far) player stats for 343 players. Updated monthly.",
+  "hasSubtitle": true,
+  "description": "2024 NWSL (so far) complete player stats. The dataset will be updated monthly throughout the season as the season progresses. \n\nThe data is mostly scraped from NWSL.com. It has been cleaned, and additional information has been added, such as position.\n\nThe current file is scraped for the current 2024 season through May 25, 2024, and will be updated monthly with updated information as NWSL posts updates.\n\nThere is currently data for 344 players across 40 variables. \n\nHere is the type of information included:\n\n- team\n- player_name\n- position\n- games_played\n- games_started\n- minutes_played\n- goals\n- accurate_pass_percentage\n- assists\n- total_scoring_attempts\n- on_target_scoring_attempts\n- total_attacking_assists\n- tackles\n- fouls_committed\n- fouls_suffered\n- total_offside\n- yellow_cards\n- red_cards\n- accurate_passes\n- total_passes\n- crosses\n- assists_avg_over_90_mins\n- long_balls\n- successful_short_passes\n- turnovers\n- goals_avg_over_90_mins\n- penalty_kick_goals\n- penalty_kick_taken\n- penalty_kick_percentage\n- accurate_shooting_percentage\n- successful_dribble\n- dribble_percentage\n- goals_and_assists\n- tackles\n- tackles_percentage\n- interceptions\n- headed_duel\n- gk_saves\n- gk_long_ball_percentage\n- gk_total_clearance\n\nUse the data to make interesting visualizations, make your own predictions for the season, power your app, do your own analysis, have fun! Just an NWSL superfan here making information available for you. Please message me for any other ideas or questions.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

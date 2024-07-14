@@ -1,0 +1,42 @@
+{
+  "id": "realtimear/multidomain-image-characteristics-dataset",
+  "id_no": 491482,
+  "datasetSlugNullable": "multidomain-image-characteristics-dataset",
+  "ownerUserNullable": "realtimear",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Multi-domain Image Characteristics Dataset",
+  "subtitleNullable": "Multi-domain Image Characteristics Dataset of characteristic-tagged images",
+  "descriptionNullable": "### Context\n\nTypically, most publicly available datasets are created with the intent of testing classification or labeling algorithms. The primary goal of a learning algorithm that works on such datasets is to classify the data. Very few datasets exist, on which the goal of a learning algorithm is to reason out why and how the data has been classified.\n\n### Content\n\nThe Multi-domain Image Characteristic Dataset consists of thousands of images sourced from the internet. Each image falls under one of three domains - animals, birds or furniture. There are five types under each domain. There are 200 images of each type, summing up the total dataset to 3,000 images. The master file consists of two columns; the image name and the visible characteristics in that image. Every image was manually analysed and the characteristics for each image was generated, ensuring accuracy.\n\nImages falling under the same domain have a similar set of characteristics. For example, pictures under the birds domain will have a common set of characteristics such as color of the bird, presence of a beak, wing, eye, legs, etc. Care has been taken to ensure that each image is as unique as possible by including pictures that have different combinations of visible characteristics present. This includes pictures having variations in the capture angle, etc.\n\nThe entire data is comprised of 3 primary classes, and further into 5 sub-classes for each primary class as follows:\n1)  Animals\na) Cat; b) Dog; c) Fox; d) Hyena; e) Wolf\n\n2)  Birds\na)  Duck; b) Eagle; c) Hawk; d) Parrot; e) Sparrow \n\n3)  Furniture\na)  Bed; b) Chair; c) Sofa; d) Table; e) Nightstand\n\nEach subclass also contains a.csvfile, with the image name, and characteristics present in the corresponding image.  The exhaustive list of image characteristics are divided as follows:\n1)  Face: Eyes, Mouth, Snout, Ears, Whiskers, Nose, Teeth, Beak, Tongue\n\n2)  Body: Wings, Legs, Paws, Tail, Surface, Arm Rest, Base, Pillows, Cushion, Drawer, Knob, Mattress\n\n3)  Color: Brown, Black, Grey, White, Purple, Pink, Yellow, Turquoise",
+  "datasetId": 491482,
+  "datasetSlug": "multidomain-image-characteristics-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "realtimear",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4012,
+  "totalVotes": 12,
+  "totalDownloads": 275,
+  "title": "Multi-domain Image Characteristics Dataset",
+  "hasTitle": true,
+  "subtitle": "Multi-domain Image Characteristics Dataset of characteristic-tagged images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTypically, most publicly available datasets are created with the intent of testing classification or labeling algorithms. The primary goal of a learning algorithm that works on such datasets is to classify the data. Very few datasets exist, on which the goal of a learning algorithm is to reason out why and how the data has been classified.\n\n### Content\n\nThe Multi-domain Image Characteristic Dataset consists of thousands of images sourced from the internet. Each image falls under one of three domains - animals, birds or furniture. There are five types under each domain. There are 200 images of each type, summing up the total dataset to 3,000 images. The master file consists of two columns; the image name and the visible characteristics in that image. Every image was manually analysed and the characteristics for each image was generated, ensuring accuracy.\n\nImages falling under the same domain have a similar set of characteristics. For example, pictures under the birds domain will have a common set of characteristics such as color of the bird, presence of a beak, wing, eye, legs, etc. Care has been taken to ensure that each image is as unique as possible by including pictures that have different combinations of visible characteristics present. This includes pictures having variations in the capture angle, etc.\n\nThe entire data is comprised of 3 primary classes, and further into 5 sub-classes for each primary class as follows:\n1)  Animals\na) Cat; b) Dog; c) Fox; d) Hyena; e) Wolf\n\n2)  Birds\na)  Duck; b) Eagle; c) Hawk; d) Parrot; e) Sparrow \n\n3)  Furniture\na)  Bed; b) Chair; c) Sofa; d) Table; e) Nightstand\n\nEach subclass also contains a.csvfile, with the image name, and characteristics present in the corresponding image.  The exhaustive list of image characteristics are divided as follows:\n1)  Face: Eyes, Mouth, Snout, Ears, Whiskers, Nose, Teeth, Beak, Tongue\n\n2)  Body: Wings, Legs, Paws, Tail, Surface, Arm Rest, Base, Pillows, Cushion, Drawer, Knob, Mattress\n\n3)  Color: Brown, Black, Grey, White, Purple, Pink, Yellow, Turquoise",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "artificial intelligence",
+    "feature engineering",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+      "name": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

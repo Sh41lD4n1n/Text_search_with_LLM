@@ -1,0 +1,37 @@
+{
+  "id": "velile/car-accidents",
+  "id_no": 66632,
+  "datasetSlugNullable": "car-accidents",
+  "ownerUserNullable": "velile",
+  "usabilityRatingNullable": 0.0,
+  "titleNullable": "Car Accidents",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 66632,
+  "datasetSlug": "car-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "velile",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3730,
+  "totalVotes": 4,
+  "totalDownloads": 347,
+  "title": "Car Accidents",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

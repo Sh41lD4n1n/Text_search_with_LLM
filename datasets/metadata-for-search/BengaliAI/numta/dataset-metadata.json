@@ -1,0 +1,54 @@
+{
+  "id": "/numta",
+  "id_no": 26936,
+  "datasetSlugNullable": "numta",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NumtaDB: Bengali Handwritten Digits",
+  "subtitleNullable": "Build a classification model for Bengali handwritten digits.",
+  "descriptionNullable": "###Notice: This page will be used for Kernels, Starter Codes, and Discussions. For competition rules, evaluation metric description, new team registration, data download and result submission click  [here](https://www.kaggle.com/c/numta).\n### Context\n<p>Currently, natural language processing (NLP) research is developing rapidly due to the rise of artificial intelligence (AI). One of the key topics of NLP is optical character recognition (OCR). To build an OCR in Bengali language, digit classification provides a convenient starting point.  We have accumulated a large dataset (85,000+) of Bengali digits (NumtaDB) which can be used by researchers for benchmarking their algorithm. </p>\n\n### Content\n\nThe dataset is a combination of six datasets that were gathered from different sources and at\ndifferent times. However, each of them was checked rigorously under the same evaluation\ncriterion so that all digits were at least legible to one human being without any prior knowledge.\nDescriptions of these datasets including collection methodology, image segmentation and\nextraction and image formats of these datasets are described in [https://bengali.ai/datasets](https://bengali.ai/datasets).\n\nThe sources are labeled from 'a' to 'f'. The training and testing sets have separate subsets\ndepending on the source of the data (training-a, testing-a, etc.). All the datasets have been\npartitioned into training and testing sets so that handwriting from the same subject/contributor\nis not present in both. Dataset-f had no corresponding metadata for contributors for which all of\nit was added to the testing set (testing-f). The metric for the competition is selected to be the\nUnweighted Average Accuracy (UAA). Starter codes for the competition are available at\n[https://github.com/BengaliAI](https://github.com/BengaliAI).\n\n*Two augmented datasets (augmented from test images of dataset 'a' and 'c') are appended to the testing set which consists of the following augmentations:*\n\n - Spatial Transformations: Rotation, Translation, Shear, Height/Width Shift, Channel Shift, Zoom.\n - Brightness, Contrast, Saturation, Hue shifts, Noise.\n - Occlusions.\n - Superimposition (to simulate the effect of text being visible from the other side of a page).\n\n### Inspiration\n\nIf you are a Bengali machine learning enthusiast this is a good starting point to get accustomed to computer vision algorithms using a dataset in your native language.\n\nAlso, the augmented test images challenge the learners to learn about image augmentation and implement their own image augmentation pipeline.\n\n### Acknowledgements\n\nNumerals in dataset 'e' are collected and curated version of [BanglaLekha-Isolated](https://www.sciencedirect.com/science/article/pii/S2352340917301117). We would like to thank the researcher for allowing us to integrate it into our database.\n\n### When referencing this material please cite the below paper\n\n[NumtaDB - Assembled Bengali Handwritten Digits](https://arxiv.org/abs/1806.02452)\n\n**Bibtex**\n\n@article{alam2018numtadb,\n\n  title={NumtaDB-Assembled Bengali Handwritten Digits},\n\n  author={Alam, Samiul and Reasat, Tahsin and Doha, Rashed Mohammad and Humayun, Ahmed Imtiaz},\n\n  journal={arXiv preprint arXiv:1806.02452},\n\n  year={2018}\n\n}\n",
+  "datasetId": 26936,
+  "datasetSlug": "numta",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 42760,
+  "totalVotes": 144,
+  "totalDownloads": 4385,
+  "title": "NumtaDB: Bengali Handwritten Digits",
+  "hasTitle": true,
+  "subtitle": "Build a classification model for Bengali handwritten digits.",
+  "hasSubtitle": true,
+  "description": "###Notice: This page will be used for Kernels, Starter Codes, and Discussions. For competition rules, evaluation metric description, new team registration, data download and result submission click  [here](https://www.kaggle.com/c/numta).\n### Context\n<p>Currently, natural language processing (NLP) research is developing rapidly due to the rise of artificial intelligence (AI). One of the key topics of NLP is optical character recognition (OCR). To build an OCR in Bengali language, digit classification provides a convenient starting point.  We have accumulated a large dataset (85,000+) of Bengali digits (NumtaDB) which can be used by researchers for benchmarking their algorithm. </p>\n\n### Content\n\nThe dataset is a combination of six datasets that were gathered from different sources and at\ndifferent times. However, each of them was checked rigorously under the same evaluation\ncriterion so that all digits were at least legible to one human being without any prior knowledge.\nDescriptions of these datasets including collection methodology, image segmentation and\nextraction and image formats of these datasets are described in [https://bengali.ai/datasets](https://bengali.ai/datasets).\n\nThe sources are labeled from 'a' to 'f'. The training and testing sets have separate subsets\ndepending on the source of the data (training-a, testing-a, etc.). All the datasets have been\npartitioned into training and testing sets so that handwriting from the same subject/contributor\nis not present in both. Dataset-f had no corresponding metadata for contributors for which all of\nit was added to the testing set (testing-f). The metric for the competition is selected to be the\nUnweighted Average Accuracy (UAA). Starter codes for the competition are available at\n[https://github.com/BengaliAI](https://github.com/BengaliAI).\n\n*Two augmented datasets (augmented from test images of dataset 'a' and 'c') are appended to the testing set which consists of the following augmentations:*\n\n - Spatial Transformations: Rotation, Translation, Shear, Height/Width Shift, Channel Shift, Zoom.\n - Brightness, Contrast, Saturation, Hue shifts, Noise.\n - Occlusions.\n - Superimposition (to simulate the effect of text being visible from the other side of a page).\n\n### Inspiration\n\nIf you are a Bengali machine learning enthusiast this is a good starting point to get accustomed to computer vision algorithms using a dataset in your native language.\n\nAlso, the augmented test images challenge the learners to learn about image augmentation and implement their own image augmentation pipeline.\n\n### Acknowledgements\n\nNumerals in dataset 'e' are collected and curated version of [BanglaLekha-Isolated](https://www.sciencedirect.com/science/article/pii/S2352340917301117). We would like to thank the researcher for allowing us to integrate it into our database.\n\n### When referencing this material please cite the below paper\n\n[NumtaDB - Assembled Bengali Handwritten Digits](https://arxiv.org/abs/1806.02452)\n\n**Bibtex**\n\n@article{alam2018numtadb,\n\n  title={NumtaDB-Assembled Bengali Handwritten Digits},\n\n  author={Alam, Samiul and Reasat, Tahsin and Doha, Rashed Mohammad and Humayun, Ahmed Imtiaz},\n\n  journal={arXiv preprint arXiv:1806.02452},\n\n  year={2018}\n\n}\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "suhailnajeeb",
+      "role": "writer"
+    },
+    {
+      "username": "redowan",
+      "role": "writer"
+    },
+    {
+      "username": "imtiazprio",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

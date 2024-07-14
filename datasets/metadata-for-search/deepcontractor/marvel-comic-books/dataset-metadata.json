@@ -1,0 +1,43 @@
+{
+  "id": "deepcontractor/marvel-comic-books",
+  "id_no": 1681244,
+  "datasetSlugNullable": "marvel-comic-books",
+  "ownerUserNullable": "deepcontractor",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Marvel Comic Books Dataset",
+  "subtitleNullable": "A complete dataset of all existing Marvel Comics.",
+  "descriptionNullable": "### Context\n\nThe dataset contains info on all the comic books ever released in the Marvel Universe.\n\n### Content\nFollowing are the columns:\nComic name: Name of the comic series.\nActive years: Years between which the comic series was active.\nIssue title: Tv shows have episodes, comic books have issues. For eg, Spiderman comic series has xyz number of issues.\nPublish date: Date of publish for the comic issue.\nIssue_description: Description of the issue.\nPenciler: Penciper of the comic issue.\nWriter: Original writer.\nCover artist: Person responsible for cover art of the comic.\nImprint: An imprint of a publisher is a trade name under which it publishes a work\nFormat: Comic format.\nRating: Age Rating.\nPrice: Price of the comic.\n\n### Data Source\n[A-Z Marvel Comic Series](https://www.marvel.com/comics/series)",
+  "datasetId": 1681244,
+  "datasetSlug": "marvel-comic-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepcontractor",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 25872,
+  "totalVotes": 156,
+  "totalDownloads": 2907,
+  "title": "Marvel Comic Books Dataset",
+  "hasTitle": true,
+  "subtitle": "A complete dataset of all existing Marvel Comics.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset contains info on all the comic books ever released in the Marvel Universe.\n\n### Content\nFollowing are the columns:\nComic name: Name of the comic series.\nActive years: Years between which the comic series was active.\nIssue title: Tv shows have episodes, comic books have issues. For eg, Spiderman comic series has xyz number of issues.\nPublish date: Date of publish for the comic issue.\nIssue_description: Description of the issue.\nPenciler: Penciper of the comic issue.\nWriter: Original writer.\nCover artist: Person responsible for cover art of the comic.\nImprint: An imprint of a publisher is a trade name under which it publishes a work\nFormat: Comic format.\nRating: Age Rating.\nPrice: Price of the comic.\n\n### Data Source\n[A-Z Marvel Comic Series](https://www.marvel.com/comics/series)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "beginner",
+    "recommender systems",
+    "tabular",
+    "comics and animation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "anshtanwar/top-200-trending-books-with-reviews",
+  "id_no": 3968810,
+  "datasetSlugNullable": "top-200-trending-books-with-reviews",
+  "ownerUserNullable": "anshtanwar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 100 Bestselling Book Reviews on Amazon",
+  "subtitleNullable": "\u2705Amazon's Customer Reviews, Ratings, Price and much more \ud83d\uded2",
+  "descriptionNullable": "# Description\n\n&gt; This dataset offers an in-depth look into Amazon's top 100 Bestselling books along with their customer reviews, Ratings, Price etc. Whether you're a book enthusiast, data scientist, or just curious about the latest literary trends, this dataset provides a window into the world of popular reading.{Scrapped dataset on November 2023}\n\n\n&gt;- **Book Rank**: The ranking of the book among the top 100 Bestselling books on Amazon.\n- **Book Title**: The title of the book.\n- **Price**: The price of the book in USD.\n- **Rating**: The overall rating of the book, on a scale of 1 to 5.\n- **Author**: The author of the book.\n- **Year of Publication**: The year in which the book was published.\n- **Genre**: The genre or category to which the book belongs.\n- **URL**: The URL link to the book on Amazon's platform.\n- **Review Title**: The title of the book review.\n- **Reviewer**: The name of the person who has written a review for the book.\n- **Reviewer Rating**: The rating given by the reviewer for the book, on a scale of 1 to 5.\n- **Review Description**: The text description of the review given.\n- **Is_verified**: Indicates whether the review is verified as a genuine customer review.\n- **Date**: The timestamp indicates the date when the review was posted.\n- **Timestamp**: The timestamp indicates when the review was posted.\n- **ASIN**: Amazon Standard Identification Number assigned to products on Amazon.\n\n\n\n\n\n# Feel free to download the data and use it in your work. I will wait for interesting notebooks from your side. Thank you",
+  "datasetId": 3968810,
+  "datasetSlug": "top-200-trending-books-with-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "anshtanwar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 43761,
+  "totalVotes": 103,
+  "totalDownloads": 11150,
+  "title": "Top 100 Bestselling Book Reviews on Amazon",
+  "hasTitle": true,
+  "subtitle": "\u2705Amazon's Customer Reviews, Ratings, Price and much more \ud83d\uded2",
+  "hasSubtitle": true,
+  "description": "# Description\n\n&gt; This dataset offers an in-depth look into Amazon's top 100 Bestselling books along with their customer reviews, Ratings, Price etc. Whether you're a book enthusiast, data scientist, or just curious about the latest literary trends, this dataset provides a window into the world of popular reading.{Scrapped dataset on November 2023}\n\n\n&gt;- **Book Rank**: The ranking of the book among the top 100 Bestselling books on Amazon.\n- **Book Title**: The title of the book.\n- **Price**: The price of the book in USD.\n- **Rating**: The overall rating of the book, on a scale of 1 to 5.\n- **Author**: The author of the book.\n- **Year of Publication**: The year in which the book was published.\n- **Genre**: The genre or category to which the book belongs.\n- **URL**: The URL link to the book on Amazon's platform.\n- **Review Title**: The title of the book review.\n- **Reviewer**: The name of the person who has written a review for the book.\n- **Reviewer Rating**: The rating given by the reviewer for the book, on a scale of 1 to 5.\n- **Review Description**: The text description of the review given.\n- **Is_verified**: Indicates whether the review is verified as a genuine customer review.\n- **Date**: The timestamp indicates the date when the review was posted.\n- **Timestamp**: The timestamp indicates when the review was posted.\n- **ASIN**: Amazon Standard Identification Number assigned to products on Amazon.\n\n\n\n\n\n# Feel free to download the data and use it in your work. I will wait for interesting notebooks from your side. Thank you",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "education",
+    "computer science",
+    "nlp",
+    "data visualization",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

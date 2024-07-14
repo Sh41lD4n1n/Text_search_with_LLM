@@ -1,0 +1,37 @@
+{
+  "id": "tanishas2024/sarcasm-detection",
+  "id_no": 4806574,
+  "datasetSlugNullable": "sarcasm-detection",
+  "ownerUserNullable": "tanishas2024",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Sarcasm detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4806574,
+  "datasetSlug": "sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanishas2024",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 56,
+  "totalVotes": 7,
+  "totalDownloads": 12,
+  "title": "Sarcasm detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

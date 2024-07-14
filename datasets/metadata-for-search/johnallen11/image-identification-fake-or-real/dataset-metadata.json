@@ -1,0 +1,39 @@
+{
+  "id": "johnallen11/image-identification-fake-or-real",
+  "id_no": 1588939,
+  "datasetSlugNullable": "image-identification-fake-or-real",
+  "ownerUserNullable": "johnallen11",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "Image Identification Fake or Real",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1588939,
+  "datasetSlug": "image-identification-fake-or-real",
+  "hasDatasetSlug": true,
+  "ownerUser": "johnallen11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 1094,
+  "totalVotes": 2,
+  "totalDownloads": 39,
+  "title": "Image Identification Fake or Real",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

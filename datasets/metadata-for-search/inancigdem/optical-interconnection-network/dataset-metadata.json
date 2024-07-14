@@ -1,0 +1,41 @@
+{
+  "id": "inancigdem/optical-interconnection-network",
+  "id_no": 19055,
+  "datasetSlugNullable": "optical-interconnection-network",
+  "ownerUserNullable": "inancigdem",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Optical Interconnection Network Dataset",
+  "subtitleNullable": "Performance Measures of an Optical Interconnection Network",
+  "descriptionNullable": "### Context\n\nThis dataset contains 640 performance measurements from a simulation of 2-Dimensional Multiprocessor Optical Interconnection Network. All simulations have done under the software named OPNET Modeler. Message passing is used as the communication mechanism in which any processor can submit to the network a point-to-point message destined at any other processor. \n\n### Content\n\n\nThe summary of the attributes is given below. Please read the paper (https://doi.org/10.1007/s11227-015-1384-1) for detailed descriptions of the attributes. \n\n----------\n\nNode Number: The number of the nodes in the network. (8x8 or 4x4).\n\n----------\n\nThread Number: The number of threads in each node at the beginning of the simulation.\n\n----------\n\nSpatial Distribution: The performance of the network is evaluated using synthetic traffic workloads. Uniform (UN), Hot Region (HR), Bit reverse (BR) and Perfect Shuffle (PS) traffic models have been included.\n\n----------\n\nTemporal Distribution: Temporal distribution of packet generation is implemented by independent traffic sources. In our simulations, we utilized client\u2013server traffic (i.e., a server node sends packets to respond to the reception of packets from clients) and asynchronous traffic (i.e., initially, all nodes generate traffic independently of the others; as time progresses, traffic generation at the source/destination nodes depends on the receipt of messages from destination/source nodes).\n\n----------\n\nT/R: Message transfer time (T ) Uniformly distributed with mean in range from 20 to 100 clock cycles. Thread run time (R) Exponentially distributed with a mean of 100 clock cycles.\n\n----------\n\nProcessor Utilization: The average processor utilization measures the percent of time that threads are running in the processor.\nChannel Waiting Time: Average waiting time of a packet at the output channel queue until it is serviced by the channel.\n\n----------\n\nInput Waiting Time: Average waiting time of a packet until it is serviced by the processor.\n\n----------\n\nNetwork Response Time: The time between a request message is enqueued at the output channel and the corresponding data message is received in the input queue.\n\n----------\n\nChannel Utilization: The percent of time that the channel is busy transferring packets to the network.\n\n----------\n\n### Acknowledgements\nPlease cite as\n\nAc\u0131, \u00c7.\u0130. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907. https://doi.org/10.1007/s11227-015-1384-1\n\n\n### Inspiration\n\nThe dataset is suitable for regression and classification tasks for machine learning algorithms.",
+  "datasetId": 19055,
+  "datasetSlug": "optical-interconnection-network",
+  "hasDatasetSlug": true,
+  "ownerUser": "inancigdem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 14794,
+  "totalVotes": 18,
+  "totalDownloads": 847,
+  "title": "Optical Interconnection Network Dataset",
+  "hasTitle": true,
+  "subtitle": "Performance Measures of an Optical Interconnection Network",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains 640 performance measurements from a simulation of 2-Dimensional Multiprocessor Optical Interconnection Network. All simulations have done under the software named OPNET Modeler. Message passing is used as the communication mechanism in which any processor can submit to the network a point-to-point message destined at any other processor. \n\n### Content\n\n\nThe summary of the attributes is given below. Please read the paper (https://doi.org/10.1007/s11227-015-1384-1) for detailed descriptions of the attributes. \n\n----------\n\nNode Number: The number of the nodes in the network. (8x8 or 4x4).\n\n----------\n\nThread Number: The number of threads in each node at the beginning of the simulation.\n\n----------\n\nSpatial Distribution: The performance of the network is evaluated using synthetic traffic workloads. Uniform (UN), Hot Region (HR), Bit reverse (BR) and Perfect Shuffle (PS) traffic models have been included.\n\n----------\n\nTemporal Distribution: Temporal distribution of packet generation is implemented by independent traffic sources. In our simulations, we utilized client\u2013server traffic (i.e., a server node sends packets to respond to the reception of packets from clients) and asynchronous traffic (i.e., initially, all nodes generate traffic independently of the others; as time progresses, traffic generation at the source/destination nodes depends on the receipt of messages from destination/source nodes).\n\n----------\n\nT/R: Message transfer time (T ) Uniformly distributed with mean in range from 20 to 100 clock cycles. Thread run time (R) Exponentially distributed with a mean of 100 clock cycles.\n\n----------\n\nProcessor Utilization: The average processor utilization measures the percent of time that threads are running in the processor.\nChannel Waiting Time: Average waiting time of a packet at the output channel queue until it is serviced by the channel.\n\n----------\n\nInput Waiting Time: Average waiting time of a packet until it is serviced by the processor.\n\n----------\n\nNetwork Response Time: The time between a request message is enqueued at the output channel and the corresponding data message is received in the input queue.\n\n----------\n\nChannel Utilization: The percent of time that the channel is busy transferring packets to the network.\n\n----------\n\n### Acknowledgements\nPlease cite as\n\nAc\u0131, \u00c7.\u0130. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907. https://doi.org/10.1007/s11227-015-1384-1\n\n\n### Inspiration\n\nThe dataset is suitable for regression and classification tasks for machine learning algorithms.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

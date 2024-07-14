@@ -1,0 +1,43 @@
+{
+  "id": "yashdixit24/road-accidents-and-conditions",
+  "id_no": 1438679,
+  "datasetSlugNullable": "road-accidents-and-conditions",
+  "ownerUserNullable": "yashdixit24",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Road accidents and conditions",
+  "subtitleNullable": "This dataset contains information on road accidents .",
+  "descriptionNullable": "Context\nDespite new advances in vehicle technology, such as backup cameras, adaptive headlights, and forward collision systems (FCS), car accidents still happen. Still many people were killed on the roads and accident victims sustained injuries that required a visit to a medical professional.\n\n\nContent\n\nAt some point, a number of drivers will find themselves guilty of committing some of the most common causes of traffic accidents. However, heightening awareness for these causes can further educate and hopefully influence drivers to be more cautious on the road\n\n\n\nInspiration\nWhether minor or severe, accidents can drastically change a person\u2019s life. They can result in a loss of wages, pain and suffering, or permanent disabilities. Just because traffic accidents are common doesn\u2019t mean familiarizing yourself with the facts should be brushed aside.\n\n",
+  "datasetId": 1438679,
+  "datasetSlug": "road-accidents-and-conditions",
+  "hasDatasetSlug": true,
+  "ownerUser": "yashdixit24",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 5012,
+  "totalVotes": 14,
+  "totalDownloads": 797,
+  "title": "Road accidents and conditions",
+  "hasTitle": true,
+  "subtitle": "This dataset contains information on road accidents .",
+  "hasSubtitle": true,
+  "description": "Context\nDespite new advances in vehicle technology, such as backup cameras, adaptive headlights, and forward collision systems (FCS), car accidents still happen. Still many people were killed on the roads and accident victims sustained injuries that required a visit to a medical professional.\n\n\nContent\n\nAt some point, a number of drivers will find themselves guilty of committing some of the most common causes of traffic accidents. However, heightening awareness for these causes can further educate and hopefully influence drivers to be more cautious on the road\n\n\n\nInspiration\nWhether minor or severe, accidents can drastically change a person\u2019s life. They can result in a loss of wages, pain and suffering, or permanent disabilities. Just because traffic accidents are common doesn\u2019t mean familiarizing yourself with the facts should be brushed aside.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "feature engineering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

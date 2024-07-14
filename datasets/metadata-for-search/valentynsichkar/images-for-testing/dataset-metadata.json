@@ -1,0 +1,44 @@
+{
+  "id": "valentynsichkar/images-for-testing",
+  "id_no": 271443,
+  "datasetSlugNullable": "images-for-testing",
+  "ownerUserNullable": "valentynsichkar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Images for testing",
+  "subtitleNullable": "Few images for testing Object Detection and Image Classification algorithms",
+  "descriptionNullable": "### Content\n\nImages for testing Object Detection algorithm YOLO v3 and Image Classification algorithms with Convolutional Neural Networks. CNN trained with CIFAR10 and MNIST and Traffic Signs datasets.\n\nUsed as input after training in order to evaluate performance.\n\n### :mortar_board: Related course for classification tasks\n\n**Design**, **Train** & **Test** deep CNN for Image Classification. Join the course & enjoy new opportunities to get deep learning skills:\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)\n\n![CNN Course](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/slideshow_classification.gif?raw=true =470x516 \"CNN Course\")\n\n<br>\n\n### \ud83d\uddfa\ufe0f Concept Map of the Course\n![Concept map](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/concept_map.png?raw=true =570x410 \"Concept map\")\n\n<br>\n\n### \ud83d\udc49 Join the Course\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)",
+  "datasetId": 271443,
+  "datasetSlug": "images-for-testing",
+  "hasDatasetSlug": true,
+  "ownerUser": "valentynsichkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14650,
+  "totalVotes": 16,
+  "totalDownloads": 1113,
+  "title": "Images for testing",
+  "hasTitle": true,
+  "subtitle": "Few images for testing Object Detection and Image Classification algorithms",
+  "hasSubtitle": true,
+  "description": "### Content\n\nImages for testing Object Detection algorithm YOLO v3 and Image Classification algorithms with Convolutional Neural Networks. CNN trained with CIFAR10 and MNIST and Traffic Signs datasets.\n\nUsed as input after training in order to evaluate performance.\n\n### :mortar_board: Related course for classification tasks\n\n**Design**, **Train** & **Test** deep CNN for Image Classification. Join the course & enjoy new opportunities to get deep learning skills:\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)\n\n![CNN Course](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/slideshow_classification.gif?raw=true =470x516 \"CNN Course\")\n\n<br>\n\n### \ud83d\uddfa\ufe0f Concept Map of the Course\n![Concept map](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/concept_map.png?raw=true =570x410 \"Concept map\")\n\n<br>\n\n### \ud83d\udc49 Join the Course\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

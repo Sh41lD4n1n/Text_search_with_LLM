@@ -1,0 +1,41 @@
+{
+  "id": "piyushagni5/white-wine-quality",
+  "id_no": 897248,
+  "datasetSlugNullable": "white-wine-quality",
+  "ownerUserNullable": "piyushagni5",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "White Wine Quality",
+  "subtitleNullable": "Simple and clean practice dataset for regression or classification modelling",
+  "descriptionNullable": "### Context\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, refer to [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\n\n### Content\n\nFor more information, read [Cortez et al., 2009].\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\n\n### Acknowledgements\n\nThis dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality, to get both the dataset i.e. red and white vinho verde wine samples, from the north of Portugal, please visit the above link.\n\n**Please include this citation if you plan to use this database:**\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.\nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.\n\n### Inspiration\n\nWe kagglers can apply several machine-learning algorithms to determine which physiochemical properties make a wine 'good'!\n\n### Relevant papers\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.\nIn Decision Support Systems, Elsevier, 47(4):547-553, 2009.",
+  "datasetId": 897248,
+  "datasetSlug": "white-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "piyushagni5",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 59507,
+  "totalVotes": 51,
+  "totalDownloads": 11019,
+  "title": "White Wine Quality",
+  "hasTitle": true,
+  "subtitle": "Simple and clean practice dataset for regression or classification modelling",
+  "hasSubtitle": true,
+  "description": "### Context\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, refer to [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\n\n### Content\n\nFor more information, read [Cortez et al., 2009].\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\n\n### Acknowledgements\n\nThis dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality, to get both the dataset i.e. red and white vinho verde wine samples, from the north of Portugal, please visit the above link.\n\n**Please include this citation if you plan to use this database:**\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.\nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.\n\n### Inspiration\n\nWe kagglers can apply several machine-learning algorithms to determine which physiochemical properties make a wine 'good'!\n\n### Relevant papers\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.\nIn Decision Support Systems, Elsevier, 47(4):547-553, 2009.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "education",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

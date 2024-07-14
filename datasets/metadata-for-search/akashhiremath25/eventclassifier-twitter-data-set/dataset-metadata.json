@@ -1,0 +1,42 @@
+{
+  "id": "akashhiremath25/eventclassifier-twitter-data-set",
+  "id_no": 4371024,
+  "datasetSlugNullable": "eventclassifier-twitter-data-set",
+  "ownerUserNullable": "akashhiremath25",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "EventClassifier: Twitter Data Set",
+  "subtitleNullable": "Analyzing Public Opinions: Twitter Data with Labels for Different Categories",
+  "descriptionNullable": "Explore the diverse landscape of social media with this annotated Twitter dataset. Categorized into 'Political,' 'Positive,' 'Protest,' 'Riot,' 'Terror,' 'Disaster,' and 'Other,' these tweets provide valuable insights into public sentiments and trending topics. Whether you're interested in understanding political discourse, positive expressions, social movements, or crisis events, this dataset offers a comprehensive look into various aspects of online conversations. Use it for sentiment analysis, trend detection, or studying public reactions across a spectrum of categories.",
+  "datasetId": 4371024,
+  "datasetSlug": "eventclassifier-twitter-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashhiremath25",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 197,
+  "totalVotes": 5,
+  "totalDownloads": 29,
+  "title": "EventClassifier: Twitter Data Set",
+  "hasTitle": true,
+  "subtitle": "Analyzing Public Opinions: Twitter Data with Labels for Different Categories",
+  "hasSubtitle": true,
+  "description": "Explore the diverse landscape of social media with this annotated Twitter dataset. Categorized into 'Political,' 'Positive,' 'Protest,' 'Riot,' 'Terror,' 'Disaster,' and 'Other,' these tweets provide valuable insights into public sentiments and trending topics. Whether you're interested in understanding political discourse, positive expressions, social movements, or crisis events, this dataset offers a comprehensive look into various aspects of online conversations. Use it for sentiment analysis, trend detection, or studying public reactions across a spectrum of categories.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "text",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

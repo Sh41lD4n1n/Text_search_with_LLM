@@ -1,0 +1,43 @@
+{
+  "id": "hadyfarrag/car-brand-recognition",
+  "id_no": 5016489,
+  "datasetSlugNullable": "car-brand-recognition",
+  "ownerUserNullable": "hadyfarrag",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Car Brand Recognition",
+  "subtitleNullable": "image datasets training images: 11060 and  test images: 2274 classifies 27 cars",
+  "descriptionNullable": "",
+  "datasetId": 5016489,
+  "datasetSlug": "car-brand-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "hadyfarrag",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 78,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "Car Brand Recognition",
+  "hasTitle": true,
+  "subtitle": "image datasets training images: 11060 and  test images: 2274 classifies 27 cars",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "multiclass classification",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+      "name": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

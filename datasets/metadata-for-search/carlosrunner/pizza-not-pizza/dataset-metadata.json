@@ -1,0 +1,43 @@
+{
+  "id": "carlosrunner/pizza-not-pizza",
+  "id_no": 2296957,
+  "datasetSlugNullable": "pizza-not-pizza",
+  "ownerUserNullable": "carlosrunner",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Pizza or Not Pizza?",
+  "subtitleNullable": "Binary image classification",
+  "descriptionNullable": "Who doesn't like pizza? This dataset contains about 1000 images of pizza and 1000 images of dishes other than pizza. It can be used for a simple binary image classification task.\n\nAll images were rescaled to have a maximum side length of 512 pixels. \n\nThis is a subset of the Food-101 dataset. Information about the original dataset can be found in the following paper: \nBossard, Lukas, Matthieu Guillaumin, and Luc Van Gool. \"Food-101 \u2013 Mining Discriminative Components with Random Forests.\" In *European conference on computer vision*, pp. 446-461. Springer, Cham, 2014.\n\nThe original dataset can be found in the following locations:\n- https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/\n- https://www.kaggle.com/datasets/dansbecker/food-101\n- https://paperswithcode.com/dataset/food-101\n- https://www.tensorflow.org/datasets/catalog/food101\n\nNumber of instances in each class:\nPizza: 983\nNot Pizza: 983\n\n##Acknowledgements\n\nThe Food-101 data set consists of images from Foodspotting [1] which are not property of the Federal Institute of Technology Zurich (ETHZ). Any use beyond scientific fair use must be negociated with the respective picture owners according to the Foodspotting terms of use [2].\n\n[1] http://www.foodspotting.com/\n[2] http://www.foodspotting.com/terms/",
+  "datasetId": 2296957,
+  "datasetSlug": "pizza-not-pizza",
+  "hasDatasetSlug": true,
+  "ownerUser": "carlosrunner",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 36149,
+  "totalVotes": 75,
+  "totalDownloads": 4960,
+  "title": "Pizza or Not Pizza?",
+  "hasTitle": true,
+  "subtitle": "Binary image classification",
+  "hasSubtitle": true,
+  "description": "Who doesn't like pizza? This dataset contains about 1000 images of pizza and 1000 images of dishes other than pizza. It can be used for a simple binary image classification task.\n\nAll images were rescaled to have a maximum side length of 512 pixels. \n\nThis is a subset of the Food-101 dataset. Information about the original dataset can be found in the following paper: \nBossard, Lukas, Matthieu Guillaumin, and Luc Van Gool. \"Food-101 \u2013 Mining Discriminative Components with Random Forests.\" In *European conference on computer vision*, pp. 446-461. Springer, Cham, 2014.\n\nThe original dataset can be found in the following locations:\n- https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/\n- https://www.kaggle.com/datasets/dansbecker/food-101\n- https://paperswithcode.com/dataset/food-101\n- https://www.tensorflow.org/datasets/catalog/food101\n\nNumber of instances in each class:\nPizza: 983\nNot Pizza: 983\n\n##Acknowledgements\n\nThe Food-101 data set consists of images from Foodspotting [1] which are not property of the Federal Institute of Technology Zurich (ETHZ). Any use beyond scientific fair use must be negociated with the respective picture owners according to the Foodspotting terms of use [2].\n\n[1] http://www.foodspotting.com/\n[2] http://www.foodspotting.com/terms/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "binary classification",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

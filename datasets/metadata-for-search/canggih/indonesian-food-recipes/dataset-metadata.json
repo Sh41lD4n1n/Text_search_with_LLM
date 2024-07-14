@@ -1,0 +1,42 @@
+{
+  "id": "canggih/indonesian-food-recipes",
+  "id_no": 14012,
+  "datasetSlugNullable": "indonesian-food-recipes",
+  "ownerUserNullable": "canggih",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Indonesian Food Recipes",
+  "subtitleNullable": "14000 recipes of chicken, lamb, beef, egg, tofu, tempe, and fish",
+  "descriptionNullable": "### Context  \n\nIndonesian foods are well-known for their rich taste. There are many spices used even for daily foods. This dataset may give insight on how to prepare Indonesian food, in many ways. \n\n### Content  \n\nThis dataset contains 14000 recipes divided in 7 categories:  \n- `dataset-ayam.csv` (chicken recipes)  \n- `dataset-kambing.csv` (lamb recipes)   \n- `dataset-sapi.csv` (beef recipes)   \n- `dataset-telur.csv` (egg recipes)  \n- `dataset-tahu.csv` (tofu recipes)  \n- `dataset-ikan.csv` (fish recipes)  \n- `dataset-tempe.csv` (tempe recipes)  \n\nFor each category, there are 5 columns:  \n- Title  \n- Ingredients  \n- Steps  \n- Love  \n- URL\n\n### Acknowledgements\n\nAll the data were taken from Cookpad on 23 Feb 2018.\n\n\n### Inspiration\n\nDare to find out what is the unique recipe? The most strange? Or the common way to cook particular ingredients.   \nCan you create your own recipe based on this dataset?",
+  "datasetId": 14012,
+  "datasetSlug": "indonesian-food-recipes",
+  "hasDatasetSlug": true,
+  "ownerUser": "canggih",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 30966,
+  "totalVotes": 91,
+  "totalDownloads": 3807,
+  "title": "Indonesian Food Recipes",
+  "hasTitle": true,
+  "subtitle": "14000 recipes of chicken, lamb, beef, egg, tofu, tempe, and fish",
+  "hasSubtitle": true,
+  "description": "### Context  \n\nIndonesian foods are well-known for their rich taste. There are many spices used even for daily foods. This dataset may give insight on how to prepare Indonesian food, in many ways. \n\n### Content  \n\nThis dataset contains 14000 recipes divided in 7 categories:  \n- `dataset-ayam.csv` (chicken recipes)  \n- `dataset-kambing.csv` (lamb recipes)   \n- `dataset-sapi.csv` (beef recipes)   \n- `dataset-telur.csv` (egg recipes)  \n- `dataset-tahu.csv` (tofu recipes)  \n- `dataset-ikan.csv` (fish recipes)  \n- `dataset-tempe.csv` (tempe recipes)  \n\nFor each category, there are 5 columns:  \n- Title  \n- Ingredients  \n- Steps  \n- Love  \n- URL\n\n### Acknowledgements\n\nAll the data were taken from Cookpad on 23 Feb 2018.\n\n\n### Inspiration\n\nDare to find out what is the unique recipe? The most strange? Or the common way to cook particular ingredients.   \nCan you create your own recipe based on this dataset?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nutrition",
+    "text",
+    "cooking and recipes",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

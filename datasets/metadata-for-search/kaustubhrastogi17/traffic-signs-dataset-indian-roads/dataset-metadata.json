@@ -1,0 +1,48 @@
+{
+  "id": "kaustubhrastogi17/traffic-signs-dataset-indian-roads",
+  "id_no": 4505237,
+  "datasetSlugNullable": "traffic-signs-dataset-indian-roads",
+  "ownerUserNullable": "kaustubhrastogi17",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Traffic Signs Dataset (Indian Roads)",
+  "subtitleNullable": "Labelled data in YOLO format",
+  "descriptionNullable": "The Traffic Signs Dataset in YOLO format comprises images captured under various conditions, including foggy weather, nighttime, and different times of the day. This dataset offers a diverse collection of traffic sign images suitable for training object detection models using the YOLO (You Only Look Once) framework. Researchers and practitioners can utilize this dataset to develop and evaluate algorithms robust to challenging environmental conditions commonly encountered in real-world traffic scenarios. With annotations provided in YOLO format, users can efficiently leverage this dataset to train and test their object detection models for accurate detection and classification of traffic signs across different lighting and weather conditions.\n\nThe dataset consists of a total of five classes: regulatory, mandatory, informatory, general, and warning, as illustrated in the accompanying image. These classes encompass various types of traffic signs commonly encountered on roadways, providing a comprehensive representation for training and evaluating object detection models.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14848725%2Fbacaa7518deff61e9c6f4d2ff9be3b9f%2FClasses.png?generation=1709053136663232&alt=media)",
+  "datasetId": 4505237,
+  "datasetSlug": "traffic-signs-dataset-indian-roads",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaustubhrastogi17",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 529,
+  "totalVotes": 8,
+  "totalDownloads": 67,
+  "title": "Traffic Signs Dataset (Indian Roads)",
+  "hasTitle": true,
+  "subtitle": "Labelled data in YOLO format",
+  "hasSubtitle": true,
+  "description": "The Traffic Signs Dataset in YOLO format comprises images captured under various conditions, including foggy weather, nighttime, and different times of the day. This dataset offers a diverse collection of traffic sign images suitable for training object detection models using the YOLO (You Only Look Once) framework. Researchers and practitioners can utilize this dataset to develop and evaluate algorithms robust to challenging environmental conditions commonly encountered in real-world traffic scenarios. With annotations provided in YOLO format, users can efficiently leverage this dataset to train and test their object detection models for accurate detection and classification of traffic signs across different lighting and weather conditions.\n\nThe dataset consists of a total of five classes: regulatory, mandatory, informatory, general, and warning, as illustrated in the accompanying image. These classes encompass various types of traffic signs commonly encountered on roadways, providing a comprehensive representation for training and evaluating object detection models.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14848725%2Fbacaa7518deff61e9c6f4d2ff9be3b9f%2FClasses.png?generation=1709053136663232&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "transportation",
+    "image",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "bansalgul",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "maneesh99/emotionhappy-detection-image-dataset",
+  "id_no": 1124285,
+  "datasetSlugNullable": "emotionhappy-detection-image-dataset",
+  "ownerUserNullable": "maneesh99",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Emotion(Happy) Detection Image DataSet",
+  "subtitleNullable": "Binary Classification of Emotion ",
+  "descriptionNullable": "# If You find this useful please Upvote it.\u261d\ufe0f \n### Context\n\nA nearby community health clinic is helping the local residents monitor their mental health.\nAs part of their study, they are asking volunteers to record their emotions throughout the day.\n",
+  "datasetId": 1124285,
+  "datasetSlug": "emotionhappy-detection-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "maneesh99",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 6280,
+  "totalVotes": 14,
+  "totalDownloads": 450,
+  "title": "Emotion(Happy) Detection Image DataSet",
+  "hasTitle": true,
+  "subtitle": "Binary Classification of Emotion ",
+  "hasSubtitle": true,
+  "description": "# If You find this useful please Upvote it.\u261d\ufe0f \n### Context\n\nA nearby community health clinic is helping the local residents monitor their mental health.\nAs part of their study, they are asking volunteers to record their emotions throughout the day.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "cnn",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

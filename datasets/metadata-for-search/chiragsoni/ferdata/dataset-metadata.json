@@ -1,0 +1,39 @@
+{
+  "id": "chiragsoni/ferdata",
+  "id_no": 806819,
+  "datasetSlugNullable": "ferdata",
+  "ownerUserNullable": "chiragsoni",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "facial emotion recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 806819,
+  "datasetSlug": "ferdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "chiragsoni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 21323,
+  "totalVotes": 41,
+  "totalDownloads": 3516,
+  "title": "facial emotion recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

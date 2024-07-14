@@ -1,0 +1,43 @@
+{
+  "id": "validmodel/amazon-top-cell-phones-and-accessories-qa",
+  "id_no": 2939484,
+  "datasetSlugNullable": "amazon-top-cell-phones-and-accessories-qa",
+  "ownerUserNullable": "validmodel",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Top cell Phones and Accessories QA",
+  "subtitleNullable": " Answers for Amazon Customer Queries , followed with Yes or No.",
+  "descriptionNullable": "This dataset contains question and answers for Amazon cell phones and Accessories .\nCitation :- Addressing complex and subjective product-related queries with customer reviews .\n\nThis dataset can be used to build the chatbot or recommendation of answers for questions based on similarity score.",
+  "datasetId": 2939484,
+  "datasetSlug": "amazon-top-cell-phones-and-accessories-qa",
+  "hasDatasetSlug": true,
+  "ownerUser": "validmodel",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6537,
+  "totalVotes": 39,
+  "totalDownloads": 1075,
+  "title": "Amazon Top cell Phones and Accessories QA",
+  "hasTitle": true,
+  "subtitle": " Answers for Amazon Customer Queries , followed with Yes or No.",
+  "hasSubtitle": true,
+  "description": "This dataset contains question and answers for Amazon cell phones and Accessories .\nCitation :- Addressing complex and subjective product-related queries with customer reviews .\n\nThis dataset can be used to build the chatbot or recommendation of answers for questions based on similarity score.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "intermediate",
+    "e-commerce services",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

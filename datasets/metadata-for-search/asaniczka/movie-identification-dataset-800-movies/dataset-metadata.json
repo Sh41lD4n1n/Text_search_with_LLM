@@ -1,0 +1,42 @@
+{
+  "id": "asaniczka/movie-identification-dataset-800-movies",
+  "id_no": 4175424,
+  "datasetSlugNullable": "movie-identification-dataset-800-movies",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Movie Identification Dataset [800 Movies]",
+  "subtitleNullable": "Frames from 800 top-rated movies for building movie identification models",
+  "descriptionNullable": "Google's GEMINI can identify a movie if you show a few frames of it. Cool stuff! Can you build a model that can do the same thing?\n\nThe dataset contains frames from approximately 800 top-rated movies. Each movie has around 1000 frames, totaling up to 800,000 frames in the dataset. \n\n&gt; If you find this dataset valuable for building movie identification models, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\nTop rated movies were identified from my [TMDB Full movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) dataset\n\n### Checkout my top datasets\n- [Top Spotify Songs in 73 Countries](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated)\n- [Wages by Education in the USA](https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022)\n- [Amazon Products Dataset (1.4M Products)](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)\n- [TMDB 950K Movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)\n- [Amazon Kindle Books (130K Books)](https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books)\n\n\n## Interesting Task Ideas:\n\n1. Create a movie identification system that can predict the title of a movie based on extracted frames.\n2. Train an AI model to identify similar scenes or genres using movie frames.\n3. Develop a content-based recommendation system that suggests movies based on visual similarity.\n4. Explore the correlation between movie ratings and the visual elements captured in the frames. Use [TMDB Full movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) for ratings\n5. Train deep learning models like VIT or ResNet using the dataset to develop powerful movie identification systems.\n\n## Specs:\n\n- Each frame has a height of 256px.\n- Width will vary since different movies have different aspect ratios.\n- Roughly 1000 frames were extracted from each movie.\n- All frames for a movie will exist under the folder with the movie's name.\n- Movie names are in the format of `Movie name (Year of release)`.\n- To get more details on movies, use my TMDB movies dataset. Movie names are not a 100% match. Filter by release year and try semantic similarity or vector similarity.\n\n---\n\nPhoto by <a href=\"https://unsplash.com/@jakobowens1?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Jakob Owens</a> on <a href=\"https://unsplash.com/photos/clap-board-roadside-jakob-and-ryan-CiUR8zISX60?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  ",
+  "datasetId": 4175424,
+  "datasetSlug": "movie-identification-dataset-800-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2776,
+  "totalVotes": 36,
+  "totalDownloads": 219,
+  "title": "Movie Identification Dataset [800 Movies]",
+  "hasTitle": true,
+  "subtitle": "Frames from 800 top-rated movies for building movie identification models",
+  "hasSubtitle": true,
+  "description": "Google's GEMINI can identify a movie if you show a few frames of it. Cool stuff! Can you build a model that can do the same thing?\n\nThe dataset contains frames from approximately 800 top-rated movies. Each movie has around 1000 frames, totaling up to 800,000 frames in the dataset. \n\n&gt; If you find this dataset valuable for building movie identification models, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\nTop rated movies were identified from my [TMDB Full movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) dataset\n\n### Checkout my top datasets\n- [Top Spotify Songs in 73 Countries](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated)\n- [Wages by Education in the USA](https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022)\n- [Amazon Products Dataset (1.4M Products)](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)\n- [TMDB 950K Movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)\n- [Amazon Kindle Books (130K Books)](https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books)\n\n\n## Interesting Task Ideas:\n\n1. Create a movie identification system that can predict the title of a movie based on extracted frames.\n2. Train an AI model to identify similar scenes or genres using movie frames.\n3. Develop a content-based recommendation system that suggests movies based on visual similarity.\n4. Explore the correlation between movie ratings and the visual elements captured in the frames. Use [TMDB Full movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) for ratings\n5. Train deep learning models like VIT or ResNet using the dataset to develop powerful movie identification systems.\n\n## Specs:\n\n- Each frame has a height of 256px.\n- Width will vary since different movies have different aspect ratios.\n- Roughly 1000 frames were extracted from each movie.\n- All frames for a movie will exist under the folder with the movie's name.\n- Movie names are in the format of `Movie name (Year of release)`.\n- To get more details on movies, use my TMDB movies dataset. Movie names are not a 100% match. Filter by release year and try semantic similarity or vector similarity.\n\n---\n\nPhoto by <a href=\"https://unsplash.com/@jakobowens1?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Jakob Owens</a> on <a href=\"https://unsplash.com/photos/clap-board-roadside-jakob-and-ryan-CiUR8zISX60?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "arts and entertainment",
+    "movies and tv shows",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

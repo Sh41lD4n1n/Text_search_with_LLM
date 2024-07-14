@@ -1,0 +1,39 @@
+{
+  "id": "owaiskhan9654/car-person-v2-roboflow",
+  "id_no": 2405291,
+  "datasetSlugNullable": "car-person-v2-roboflow",
+  "ownerUserNullable": "owaiskhan9654",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Car-Person Custom-Object-Detection-v2-Roboflow",
+  "subtitleNullable": "The goal of creating this Dataset is to implement newly Launched YoloV7 ",
+  "descriptionNullable": "",
+  "datasetId": 2405291,
+  "datasetSlug": "car-person-v2-roboflow",
+  "hasDatasetSlug": true,
+  "ownerUser": "owaiskhan9654",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 5237,
+  "totalVotes": 26,
+  "totalDownloads": 863,
+  "title": "Car-Person Custom-Object-Detection-v2-Roboflow",
+  "hasTitle": true,
+  "subtitle": "The goal of creating this Dataset is to implement newly Launched YoloV7 ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

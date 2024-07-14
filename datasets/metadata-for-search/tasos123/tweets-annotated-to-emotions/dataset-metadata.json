@@ -1,0 +1,37 @@
+{
+  "id": "tasos123/tweets-annotated-to-emotions",
+  "id_no": 1131797,
+  "datasetSlugNullable": "tweets-annotated-to-emotions",
+  "ownerUserNullable": "tasos123",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Tweets_Annotated_to_emotions",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nDataset used for paper\n```\nKrommyda, M.; Rigos, A.; Bouklas, K.; Amditis, A. An Experimental Analysis of Data Annotation Methodologies for Emotion Detection in Short Text Posted on Social Media. Informatics 2021, 8, 19. https://doi.org/10.3390/informatics8010019 \n```\n\n\nDOI : https://doi.org/10.3390/informatics8010019\n\n\n### Citation\nCite this dataset as:\n```\n@Article{informatics8010019,\nAUTHOR = {Krommyda, Maria and Rigos, Anastasios and Bouklas, Kostas and Amditis, Angelos},\nTITLE = {An Experimental Analysis of Data Annotation Methodologies for Emotion Detection in Short Text Posted on Social Media},\nJOURNAL = {Informatics},\nVOLUME = {8},\nYEAR = {2021},\nNUMBER = {1},\nARTICLE-NUMBER = {19},\nURL = {https://www.mdpi.com/2227-9709/8/1/19},\nISSN = {2227-9709},\nABSTRACT = {Opinion mining techniques, investigating if text is expressing a positive or negative opinion, continuously gain in popularity, attracting the attention of many scientists from different disciplines. Specific use cases, however, where the expressed opinion is indisputably positive or negative, render such solutions obsolete and emphasize the need for a more in-depth analysis of the available text. Emotion analysis is a solution to this problem, but the multi-dimensional elements of the expressed emotions in text along with the complexity of the features that allow their identification pose a significant challenge. Machine learning solutions fail to achieve a high accuracy, mainly due to the limited availability of annotated training datasets, and the bias introduced to the annotations by the personal interpretations of emotions from individuals. A hybrid rule-based algorithm that allows the acquisition of a dataset that is annotated with regard to the Plutchik\u2019s eight basic emotions is proposed in this paper. Emoji, keywords and semantic relationships are used in order to identify in an objective and unbiased way the emotion expressed in a short phrase or text. The acquired datasets are used to train machine learning classification models. The accuracy of the models and the parameters that affect it are presented in length through an experimental analysis. The most accurate model is selected and offered through an API to tackle the emotion detection in social media posts.},\nDOI = {10.3390/informatics8010019}\n}\n```\n",
+  "datasetId": 1131797,
+  "datasetSlug": "tweets-annotated-to-emotions",
+  "hasDatasetSlug": true,
+  "ownerUser": "tasos123",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 2862,
+  "totalVotes": 2,
+  "totalDownloads": 158,
+  "title": "Tweets_Annotated_to_emotions",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset used for paper\n```\nKrommyda, M.; Rigos, A.; Bouklas, K.; Amditis, A. An Experimental Analysis of Data Annotation Methodologies for Emotion Detection in Short Text Posted on Social Media. Informatics 2021, 8, 19. https://doi.org/10.3390/informatics8010019 \n```\n\n\nDOI : https://doi.org/10.3390/informatics8010019\n\n\n### Citation\nCite this dataset as:\n```\n@Article{informatics8010019,\nAUTHOR = {Krommyda, Maria and Rigos, Anastasios and Bouklas, Kostas and Amditis, Angelos},\nTITLE = {An Experimental Analysis of Data Annotation Methodologies for Emotion Detection in Short Text Posted on Social Media},\nJOURNAL = {Informatics},\nVOLUME = {8},\nYEAR = {2021},\nNUMBER = {1},\nARTICLE-NUMBER = {19},\nURL = {https://www.mdpi.com/2227-9709/8/1/19},\nISSN = {2227-9709},\nABSTRACT = {Opinion mining techniques, investigating if text is expressing a positive or negative opinion, continuously gain in popularity, attracting the attention of many scientists from different disciplines. Specific use cases, however, where the expressed opinion is indisputably positive or negative, render such solutions obsolete and emphasize the need for a more in-depth analysis of the available text. Emotion analysis is a solution to this problem, but the multi-dimensional elements of the expressed emotions in text along with the complexity of the features that allow their identification pose a significant challenge. Machine learning solutions fail to achieve a high accuracy, mainly due to the limited availability of annotated training datasets, and the bias introduced to the annotations by the personal interpretations of emotions from individuals. A hybrid rule-based algorithm that allows the acquisition of a dataset that is annotated with regard to the Plutchik\u2019s eight basic emotions is proposed in this paper. Emoji, keywords and semantic relationships are used in order to identify in an objective and unbiased way the emotion expressed in a short phrase or text. The acquired datasets are used to train machine learning classification models. The accuracy of the models and the parameters that affect it are presented in length through an experimental analysis. The most accurate model is selected and offered through an API to tackle the emotion detection in social media posts.},\nDOI = {10.3390/informatics8010019}\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

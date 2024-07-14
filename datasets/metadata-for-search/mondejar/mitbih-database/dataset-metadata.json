@@ -1,0 +1,43 @@
+{
+  "id": "mondejar/mitbih-database",
+  "id_no": 19554,
+  "datasetSlugNullable": "mitbih-database",
+  "ownerUserNullable": "mondejar",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "MIT-BIH Database",
+  "subtitleNullable": "MIT-BIH Arrhythmia Database",
+  "descriptionNullable": "### Context\n\nECG data from mit-bih database from physionet in plain text format.\n\n\n### Content\nRaw signals in .csv files and original annotations in .txt.\nStructure .csv files\nnumber_of_sample, raw_value_signal_1, raw_value_signal_2\n\n\n### Acknowledgements\nThe original data can be found in https://www.physionet.org/physiobank/database/mitdb/\n",
+  "datasetId": 19554,
+  "datasetSlug": "mitbih-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "mondejar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 79226,
+  "totalVotes": 144,
+  "totalDownloads": 10673,
+  "title": "MIT-BIH Database",
+  "hasTitle": true,
+  "subtitle": "MIT-BIH Arrhythmia Database",
+  "hasSubtitle": true,
+  "description": "### Context\n\nECG data from mit-bih database from physionet in plain text format.\n\n\n### Content\nRaw signals in .csv files and original annotations in .txt.\nStructure .csv files\nnumber_of_sample, raw_value_signal_1, raw_value_signal_2\n\n\n### Acknowledgements\nThe original data can be found in https://www.physionet.org/physiobank/database/mitdb/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "software",
+    "classification",
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

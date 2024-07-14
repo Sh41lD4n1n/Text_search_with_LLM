@@ -1,0 +1,41 @@
+{
+  "id": "brendan45774/wine-quality",
+  "id_no": 1606963,
+  "datasetSlugNullable": "wine-quality",
+  "ownerUserNullable": "brendan45774",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wine Quality",
+  "subtitleNullable": "Wine quality for red and white wine",
+  "descriptionNullable": "### Content\n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. These datasets can be viewed as classification or regression tasks. Their are 12 attributes and used for classification or regression. \n\nAlso check out my notebook that goes with this dataset: [Wine quality - Regression prediction](https://www.kaggle.com/brendan45774/wine-quality-regression-prediction)\n\n### Acknowledgements\nCredit goes to https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/\nPhoto by Maksym Kaharlytskyi on Unsplash\n",
+  "datasetId": 1606963,
+  "datasetSlug": "wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "brendan45774",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8788,
+  "totalVotes": 42,
+  "totalDownloads": 1182,
+  "title": "Wine Quality",
+  "hasTitle": true,
+  "subtitle": "Wine quality for red and white wine",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. These datasets can be viewed as classification or regression tasks. Their are 12 attributes and used for classification or regression. \n\nAlso check out my notebook that goes with this dataset: [Wine quality - Regression prediction](https://www.kaggle.com/brendan45774/wine-quality-regression-prediction)\n\n### Acknowledgements\nCredit goes to https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/\nPhoto by Maksym Kaharlytskyi on Unsplash\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "beginner",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

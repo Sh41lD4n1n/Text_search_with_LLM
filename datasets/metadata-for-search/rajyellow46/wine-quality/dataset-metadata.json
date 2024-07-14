@@ -1,0 +1,42 @@
+{
+  "id": "rajyellow46/wine-quality",
+  "id_no": 35901,
+  "datasetSlugNullable": "wine-quality",
+  "ownerUserNullable": "rajyellow46",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Wine Quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Data Set Information:**\n\nThe dataset was downloaded from the UCI Machine Learning Repository. \n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. The reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.). \n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are munch more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods. \n\nTwo datasets were combined and few values were randomly removed.\n\n**Attribute Information:**\n\nFor more information, read [Cortez et al., 2009]. \nInput variables (based on physicochemical tests): \n1 - fixed acidity \n2 - volatile acidity \n3 - citric acid \n4 - residual sugar \n5 - chlorides \n6 - free sulfur dioxide \n7 - total sulfur dioxide \n8 - density \n9 - pH \n10 - sulphates \n11 - alcohol \nOutput variable (based on sensory data): \n12 - quality (score between 0 and 10)\n\n**Acknowledgements:**\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.",
+  "datasetId": 35901,
+  "datasetSlug": "wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajyellow46",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 249977,
+  "totalVotes": 259,
+  "totalDownloads": 41055,
+  "title": "Wine Quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Data Set Information:**\n\nThe dataset was downloaded from the UCI Machine Learning Repository. \n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. The reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.). \n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are munch more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods. \n\nTwo datasets were combined and few values were randomly removed.\n\n**Attribute Information:**\n\nFor more information, read [Cortez et al., 2009]. \nInput variables (based on physicochemical tests): \n1 - fixed acidity \n2 - volatile acidity \n3 - citric acid \n4 - residual sugar \n5 - chlorides \n6 - free sulfur dioxide \n7 - total sulfur dioxide \n8 - density \n9 - pH \n10 - sulphates \n11 - alcohol \nOutput variable (based on sensory data): \n12 - quality (score between 0 and 10)\n\n**Acknowledgements:**\n\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "earth and nature",
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

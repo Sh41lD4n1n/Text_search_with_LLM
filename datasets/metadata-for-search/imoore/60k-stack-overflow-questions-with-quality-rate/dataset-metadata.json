@@ -1,0 +1,42 @@
+{
+  "id": "imoore/60k-stack-overflow-questions-with-quality-rate",
+  "id_no": 850380,
+  "datasetSlugNullable": "60k-stack-overflow-questions-with-quality-rate",
+  "ownerUserNullable": "imoore",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "60k Stack Overflow Questions with Quality Rating",
+  "subtitleNullable": "Questions from 2016-2020 classified in three categories based on their quality",
+  "descriptionNullable": "This is a dataset containing 60,000 Stack Overflow questions from 2016-2020. Questions are classified into three categories: \n\n1. HQ: High-quality posts without a single edit.\n2. LQ_EDIT: Low-quality posts with a negative score, and multiple community edits. However, they still remain open after those changes.\n3. LQ_CLOSE: Low-quality posts that were closed by the community without a single edit.\n\n## How to cite\n```\nAnnamoradnejad, I., Habibi, J., & Fazli, M. (2022). Multi-view approach to suggest moderation actions in community question answering sites. Information Sciences, 600, 144-154.\n```\n```\n@article{annamoradnejad2022multiview,\n  title={Multi-View Approach to Suggest Moderation Actions in Community Question Answering Sites},\n  author={Annamoradnejad, Issa and Habibi, Jafar and Fazli, Mohammadamin},\n  journal = {Information Sciences},\n  volume = {600},\n  pages = {144-154},\n  year = {2022},\n  issn = {0020-0255},\n  doi = {https://doi.org/10.1016/j.ins.2022.03.085},\n  url = {https://www.sciencedirect.com/science/article/pii/S0020025522003127}\n}\n```\n## Notes:\n\n- Questions are sorted according to Question Id.\n- Question body is in HTML format.\n- All dates are in UTC format. \n\n## Source:\n\nhttps://github.com/Moradnejad/StackOverflow-Questions-Quality-Dataset",
+  "datasetId": 850380,
+  "datasetSlug": "60k-stack-overflow-questions-with-quality-rate",
+  "hasDatasetSlug": true,
+  "ownerUser": "imoore",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 67761,
+  "totalVotes": 298,
+  "totalDownloads": 6978,
+  "title": "60k Stack Overflow Questions with Quality Rating",
+  "hasTitle": true,
+  "subtitle": "Questions from 2016-2020 classified in three categories based on their quality",
+  "hasSubtitle": true,
+  "description": "This is a dataset containing 60,000 Stack Overflow questions from 2016-2020. Questions are classified into three categories: \n\n1. HQ: High-quality posts without a single edit.\n2. LQ_EDIT: Low-quality posts with a negative score, and multiple community edits. However, they still remain open after those changes.\n3. LQ_CLOSE: Low-quality posts that were closed by the community without a single edit.\n\n## How to cite\n```\nAnnamoradnejad, I., Habibi, J., & Fazli, M. (2022). Multi-view approach to suggest moderation actions in community question answering sites. Information Sciences, 600, 144-154.\n```\n```\n@article{annamoradnejad2022multiview,\n  title={Multi-View Approach to Suggest Moderation Actions in Community Question Answering Sites},\n  author={Annamoradnejad, Issa and Habibi, Jafar and Fazli, Mohammadamin},\n  journal = {Information Sciences},\n  volume = {600},\n  pages = {144-154},\n  year = {2022},\n  issn = {0020-0255},\n  doi = {https://doi.org/10.1016/j.ins.2022.03.085},\n  url = {https://www.sciencedirect.com/science/article/pii/S0020025522003127}\n}\n```\n## Notes:\n\n- Questions are sorted according to Question Id.\n- Question body is in HTML format.\n- All dates are in UTC format. \n\n## Source:\n\nhttps://github.com/Moradnejad/StackOverflow-Questions-Quality-Dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "nlp",
+    "text mining",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

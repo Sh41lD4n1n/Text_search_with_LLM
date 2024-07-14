@@ -1,0 +1,37 @@
+{
+  "id": "revelation2k23/brain-dead-emotion-detection",
+  "id_no": 3018163,
+  "datasetSlugNullable": "brain-dead-emotion-detection",
+  "ownerUserNullable": "revelation2k23",
+  "usabilityRatingNullable": 0.0625,
+  "titleNullable": "brain_dead_emotion_detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3018163,
+  "datasetSlug": "brain-dead-emotion-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "revelation2k23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.0625,
+  "hasUsabilityRating": true,
+  "totalViews": 957,
+  "totalVotes": 2,
+  "totalDownloads": 160,
+  "title": "brain_dead_emotion_detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dkhalidashik/fake-news-detection",
+  "id_no": 4555081,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "dkhalidashik",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Fake News detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4555081,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "dkhalidashik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 101,
+  "totalVotes": 2,
+  "totalDownloads": 25,
+  "title": "Fake News detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

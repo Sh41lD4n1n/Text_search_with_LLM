@@ -1,0 +1,43 @@
+{
+  "id": "guillemsimhospedales/improved-x-ray-data",
+  "id_no": 5213677,
+  "datasetSlugNullable": "improved-x-ray-data",
+  "ownerUserNullable": "guillemsimhospedales",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Improved_X-Ray_data",
+  "subtitleNullable": "NIH Chest X-rays validated images",
+  "descriptionNullable": "",
+  "datasetId": 5213677,
+  "datasetSlug": "improved-x-ray-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "guillemsimhospedales",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 14,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Improved_X-Ray_data",
+  "hasTitle": true,
+  "subtitle": "NIH Chest X-rays validated images",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "health",
+    "medicine",
+    "computer science",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

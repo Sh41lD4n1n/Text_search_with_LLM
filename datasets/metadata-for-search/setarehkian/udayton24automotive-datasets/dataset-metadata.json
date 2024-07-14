@@ -1,0 +1,43 @@
+{
+  "id": "setarehkian/udayton24automotive-datasets",
+  "id_no": 4461060,
+  "datasetSlugNullable": "udayton24automotive-datasets",
+  "ownerUserNullable": "setarehkian",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "UDayton24Automotive Datasets",
+  "subtitleNullable": "Object detection on road elements with RGGB/RCCB CFA sensors data",
+  "descriptionNullable": "Datasets for automotive applications require human annotators to label objects such as traffic lights, cars, and pedestrians. There are many available today (e.g. image data sets and infrared images), as well sensor fusion\ndata sets (e.g. image/RADAR/LiDAR, images with athermalized lenses, and images with event-based sensor data).\n**UDayton24Automotive** differs from other datasets in the sense that it is specifically designed for developing, training, and benchmarking object detection algorithms using raw sensor data. Multiple automotive cameras are\ninvolved, as described below.\n\n**RGGB Camera Data (Baseline Training Set)**\nWe collected a new dataset of raw/demosaicked image pairs using automotive camera (SONY IMX390 camera with\nRGGB color filter array and 174 degree fisheye camera), yielding 438 images for training and 88 images for testing tasks. The dataset was annotated by human for cars (3089), pedestrians (687), stop signs (110), and traffic lights (848). This dataset is used to train the raw sensor data-based object detection algorithm for the RGGB camera module, which we may regards as the \u201cteacher\u201d algorithm in knowledge distillation.\n\n**RCCB Camera Data (Test Set)**\nWe collected this dataset by using the RCCB camera module with 169 degree fisheye lens to test and evaluate the performance of the proposed object detection algorithm. There are total number of 474 raw/demosaicked image pairs captured by this automotive camera. The dataset was annotated by human for cars (2506), pedestrians (406), stop-signs (109),and traffic lights (784).\n\n**Joint RGGB-RCCB Camera Data (Cross-Camera Training Set)**\nWe collected 90 RGGB-RCCB pair images using the dual-camera configuration shown in 2 and captured by Sony\nIMX390 Cameras with RGGB and RCCB color filter arrays. As this dataset is intended to support the unsupervised learning of raw RCCB sensor data-based object detection, the image pairs in this dataset are not annotated.\nThe two cameras are externally triggered by two separate laptops (again, limitation to the hardware/software\nenvironment we are given). Although not perfectly synchronized, they are manually triggered together so that they are captured within a fraction of a second. Unlike the RGGB Camera Dataset (Baseline Training Set) or the RCCB Camera Data (Test Set), the RGGB-RCCB Camera Dataset does not need to contain moving targets such as pedestrians and cars, and therefore strict synchronization is not necessary.",
+  "datasetId": 4461060,
+  "datasetSlug": "udayton24automotive-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "setarehkian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 93,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "UDayton24Automotive Datasets",
+  "hasTitle": true,
+  "subtitle": "Object detection on road elements with RGGB/RCCB CFA sensors data",
+  "hasSubtitle": true,
+  "description": "Datasets for automotive applications require human annotators to label objects such as traffic lights, cars, and pedestrians. There are many available today (e.g. image data sets and infrared images), as well sensor fusion\ndata sets (e.g. image/RADAR/LiDAR, images with athermalized lenses, and images with event-based sensor data).\n**UDayton24Automotive** differs from other datasets in the sense that it is specifically designed for developing, training, and benchmarking object detection algorithms using raw sensor data. Multiple automotive cameras are\ninvolved, as described below.\n\n**RGGB Camera Data (Baseline Training Set)**\nWe collected a new dataset of raw/demosaicked image pairs using automotive camera (SONY IMX390 camera with\nRGGB color filter array and 174 degree fisheye camera), yielding 438 images for training and 88 images for testing tasks. The dataset was annotated by human for cars (3089), pedestrians (687), stop signs (110), and traffic lights (848). This dataset is used to train the raw sensor data-based object detection algorithm for the RGGB camera module, which we may regards as the \u201cteacher\u201d algorithm in knowledge distillation.\n\n**RCCB Camera Data (Test Set)**\nWe collected this dataset by using the RCCB camera module with 169 degree fisheye lens to test and evaluate the performance of the proposed object detection algorithm. There are total number of 474 raw/demosaicked image pairs captured by this automotive camera. The dataset was annotated by human for cars (2506), pedestrians (406), stop-signs (109),and traffic lights (784).\n\n**Joint RGGB-RCCB Camera Data (Cross-Camera Training Set)**\nWe collected 90 RGGB-RCCB pair images using the dual-camera configuration shown in 2 and captured by Sony\nIMX390 Cameras with RGGB and RCCB color filter arrays. As this dataset is intended to support the unsupervised learning of raw RCCB sensor data-based object detection, the image pairs in this dataset are not annotated.\nThe two cameras are externally triggered by two separate laptops (again, limitation to the hardware/software\nenvironment we are given). Although not perfectly synchronized, they are manually triggered together so that they are captured within a fraction of a second. Unlike the RGGB Camera Dataset (Baseline Training Set) or the RCCB Camera Data (Test Set), the RGGB-RCCB Camera Dataset does not need to contain moving targets such as pedestrians and cars, and therefore strict synchronization is not necessary.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

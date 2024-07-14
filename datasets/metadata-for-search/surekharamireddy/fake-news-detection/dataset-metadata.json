@@ -1,0 +1,42 @@
+{
+  "id": "surekharamireddy/fake-news-detection",
+  "id_no": 1001006,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "surekharamireddy",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Fake News Detection",
+  "subtitleNullable": "Detecting News weather it is  True or Fake ",
+  "descriptionNullable": "<h1>Problem Description </h1>\nThe authenticity of Information has become a longstanding issue affecting businesses and society, both for printed and digital media. On social networks, the reach and effects of information spread occur at such a fast pace and so amplified that distorted, inaccurate, or false information acquires a tremendous potential to cause real-world impacts, within minutes, ffor millions of users. Recently, several public concerns about this problem and some approaches to mitigate the problem were expressed.\n\n<h1>Data- Description:</h1>\nThere are 6 columns in the dataset provided to you. The description of each of the column is given below:\n\u201cid\u201d: Unique id of each news article\n\u201cheadline\u201d: It is the title of the news.\n\u201cnews\u201d: It contains the full text of the news article\n\u201cUnnamed:0\u201d: It is a serial number\n\u201cwritten_by\u201d: It represents the author of the news article\n\u201clabel\u201d: It tells whether the news is fake (1) or not fake (0).\n",
+  "datasetId": 1001006,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "surekharamireddy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 6092,
+  "totalVotes": 8,
+  "totalDownloads": 667,
+  "title": "Fake News Detection",
+  "hasTitle": true,
+  "subtitle": "Detecting News weather it is  True or Fake ",
+  "hasSubtitle": true,
+  "description": "<h1>Problem Description </h1>\nThe authenticity of Information has become a longstanding issue affecting businesses and society, both for printed and digital media. On social networks, the reach and effects of information spread occur at such a fast pace and so amplified that distorted, inaccurate, or false information acquires a tremendous potential to cause real-world impacts, within minutes, ffor millions of users. Recently, several public concerns about this problem and some approaches to mitigate the problem were expressed.\n\n<h1>Data- Description:</h1>\nThere are 6 columns in the dataset provided to you. The description of each of the column is given below:\n\u201cid\u201d: Unique id of each news article\n\u201cheadline\u201d: It is the title of the news.\n\u201cnews\u201d: It contains the full text of the news article\n\u201cUnnamed:0\u201d: It is a serial number\n\u201cwritten_by\u201d: It represents the author of the news article\n\u201clabel\u201d: It tells whether the news is fake (1) or not fake (0).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "natural disasters",
+    "people and society",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

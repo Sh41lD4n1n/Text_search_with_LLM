@@ -1,0 +1,37 @@
+{
+  "id": "wahyutisnoatmojo/sarcasm-detection-publication",
+  "id_no": 3486586,
+  "datasetSlugNullable": "sarcasm-detection-publication",
+  "ownerUserNullable": "wahyutisnoatmojo",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Sarcasm Detection Publication",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3486586,
+  "datasetSlug": "sarcasm-detection-publication",
+  "hasDatasetSlug": true,
+  "ownerUser": "wahyutisnoatmojo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 109,
+  "totalVotes": 0,
+  "totalDownloads": 12,
+  "title": "Sarcasm Detection Publication",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

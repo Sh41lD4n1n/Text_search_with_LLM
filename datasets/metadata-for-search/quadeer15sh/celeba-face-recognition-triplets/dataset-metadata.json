@@ -1,0 +1,44 @@
+{
+  "id": "quadeer15sh/celeba-face-recognition-triplets",
+  "id_no": 2937277,
+  "datasetSlugNullable": "celeba-face-recognition-triplets",
+  "ownerUserNullable": "quadeer15sh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "CelebA Face Recognition Triplets",
+  "subtitleNullable": "Facial images split into triplets for training one shot learning models",
+  "descriptionNullable": "CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset with more than 200K celebrity images. However this dataset is only a subset of the original dataset available on the official website: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html\n\nThe purpose of this dataset is to train one shot learning models which require the images to be divided into anchor, positive and negative. \n\n@inproceedings{liu2015faceattributes,\n  title = {Deep Learning Face Attributes in the Wild},\n  author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},\n  booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},\n  month = {December},\n  year = {2015} \n}",
+  "datasetId": 2937277,
+  "datasetSlug": "celeba-face-recognition-triplets",
+  "hasDatasetSlug": true,
+  "ownerUser": "quadeer15sh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 8716,
+  "totalVotes": 53,
+  "totalDownloads": 1064,
+  "title": "CelebA Face Recognition Triplets",
+  "hasTitle": true,
+  "subtitle": "Facial images split into triplets for training one shot learning models",
+  "hasSubtitle": true,
+  "description": "CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset with more than 200K celebrity images. However this dataset is only a subset of the original dataset available on the official website: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html\n\nThe purpose of this dataset is to train one shot learning models which require the images to be divided into anchor, positive and negative. \n\n@inproceedings{liu2015faceattributes,\n  title = {Deep Learning Face Attributes in the Wild},\n  author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},\n  booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},\n  month = {December},\n  year = {2015} \n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "people",
+    "people and society",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

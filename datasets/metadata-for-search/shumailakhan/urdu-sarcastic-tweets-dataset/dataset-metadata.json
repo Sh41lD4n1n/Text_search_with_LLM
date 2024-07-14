@@ -1,0 +1,48 @@
+{
+  "id": "shumailakhan/urdu-sarcastic-tweets-dataset",
+  "id_no": 2888930,
+  "datasetSlugNullable": "urdu-sarcastic-tweets-dataset",
+  "ownerUserNullable": "shumailakhan",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Urdu Sarcastic Tweets Dataset",
+  "subtitleNullable": "Towards Computational Sarcastic Tweets Identification : An Open-Source Dataset ",
+  "descriptionNullable": "This dataset is part of the research \"Towards Computational Sarcastic Tweets identification: An open-Source Dataset and Developmental Framework\"\n\nIt contains 19955 rows and columns (features), that are, 'urdu_tweets' & 'is_sarcastic' (labels with 0 and 1, where 1 denotes sarcastic tweet ). This dataset can be used for sentiment analysis, specifically for sarcasm detection in urdu tweets.  ",
+  "datasetId": 2888930,
+  "datasetSlug": "urdu-sarcastic-tweets-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shumailakhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 652,
+  "totalVotes": 0,
+  "totalDownloads": 93,
+  "title": "Urdu Sarcastic Tweets Dataset",
+  "hasTitle": true,
+  "subtitle": "Towards Computational Sarcastic Tweets Identification : An Open-Source Dataset ",
+  "hasSubtitle": true,
+  "description": "This dataset is part of the research \"Towards Computational Sarcastic Tweets identification: An open-Source Dataset and Developmental Framework\"\n\nIt contains 19955 rows and columns (features), that are, 'urdu_tweets' & 'is_sarcastic' (labels with 0 and 1, where 1 denotes sarcastic tweet ). This dataset can be used for sentiment analysis, specifically for sarcasm detection in urdu tweets.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "data analytics",
+    "deep learning",
+    "pandas",
+    "urdu"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "fahadnajeeb",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

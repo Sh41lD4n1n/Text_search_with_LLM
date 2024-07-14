@@ -1,0 +1,44 @@
+{
+  "id": "pavellexyr/one-million-reddit-questions",
+  "id_no": 1642092,
+  "datasetSlugNullable": "one-million-reddit-questions",
+  "ownerUserNullable": "pavellexyr",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "One Million Reddit Questions",
+  "subtitleNullable": "One million questions from /r/AskReddit, going back from September 2021.",
+  "descriptionNullable": "### Context\n\nAh, questions. One of the most important parts of natural dialogue. Automated question answering has been a long-standing problem in the NLP field. To help solve it, we present you with this dataset.\n\n\n### Content\n\nThe following dataset comprises one million questions from /r/AskReddit, procured using [SocialGrep](https://socialgrep.com/datasets/one-million-reddit-questions?utm_source=kaggle&utm_medium=link&utm_campaign=onemillionquestions).\nThe questions are labelled with date of creation and their score.\n\n### Acknowledgements\n\nWe would like to thank [Etienne Girardet](https://unsplash.com/@etiennegirardet) for generously providing us with a background image for this dataset.\n\n### Inspiration\n\n- What makes a popular Reddit question?\n- What makes a good Reddit question?\n- Can Reddit teach us more about how to ask questions properly?",
+  "datasetId": 1642092,
+  "datasetSlug": "one-million-reddit-questions",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavellexyr",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4426,
+  "totalVotes": 23,
+  "totalDownloads": 239,
+  "title": "One Million Reddit Questions",
+  "hasTitle": true,
+  "subtitle": "One million questions from /r/AskReddit, going back from September 2021.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAh, questions. One of the most important parts of natural dialogue. Automated question answering has been a long-standing problem in the NLP field. To help solve it, we present you with this dataset.\n\n\n### Content\n\nThe following dataset comprises one million questions from /r/AskReddit, procured using [SocialGrep](https://socialgrep.com/datasets/one-million-reddit-questions?utm_source=kaggle&utm_medium=link&utm_campaign=onemillionquestions).\nThe questions are labelled with date of creation and their score.\n\n### Acknowledgements\n\nWe would like to thank [Etienne Girardet](https://unsplash.com/@etiennegirardet) for generously providing us with a background image for this dataset.\n\n### Inspiration\n\n- What makes a popular Reddit question?\n- What makes a good Reddit question?\n- Can Reddit teach us more about how to ask questions properly?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "nlp",
+    "text",
+    "regression",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "manishagahirwal/imdb-1000-movie-data-of-2022",
+  "id_no": 2991394,
+  "datasetSlugNullable": "imdb-1000-movie-data-of-2022",
+  "ownerUserNullable": "manishagahirwal",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "IMDB 1000 Movie Data of 2022",
+  "subtitleNullable": "This CSV file provides recent 1000 IMDB rating movies.",
+  "descriptionNullable": "Detail about the dataset :\nThe data is collected by web scraping for IMDb \"Top 1000\" (Sorted by Popularity Ascending) movies from the following website (https://www.imdb.com/search/title/?groups=top_1000)\ncolumn description :\nmovie : Name of the movie.\nyear : Release year of the movie.\ntimeMin :  Length of the movie (In minutes)\nIMDb : IMDB rating of the movie.\nvotes : Votes given by IMDB registered users.\nmetascores : Rating of the film (Critic opinion as Metascore)\nus_grossMillions : Gross income of the movie ( In Millions)\nDirector : Name of director of the movie.\n\nTASK:\nData analysis can be performed on the above dataset.\nData cleaning, handle  Null values\nFind how many movies were released with respect to the year.\nFind most popular movies wrt gross /Metascore/votes\nCreate Bins for movie length(time) or gross\nFind Popular director wrt rating/gross income.\n",
+  "datasetId": 2991394,
+  "datasetSlug": "imdb-1000-movie-data-of-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "manishagahirwal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 338,
+  "totalVotes": 0,
+  "totalDownloads": 44,
+  "title": "IMDB 1000 Movie Data of 2022",
+  "hasTitle": true,
+  "subtitle": "This CSV file provides recent 1000 IMDB rating movies.",
+  "hasSubtitle": true,
+  "description": "Detail about the dataset :\nThe data is collected by web scraping for IMDb \"Top 1000\" (Sorted by Popularity Ascending) movies from the following website (https://www.imdb.com/search/title/?groups=top_1000)\ncolumn description :\nmovie : Name of the movie.\nyear : Release year of the movie.\ntimeMin :  Length of the movie (In minutes)\nIMDb : IMDB rating of the movie.\nvotes : Votes given by IMDB registered users.\nmetascores : Rating of the film (Critic opinion as Metascore)\nus_grossMillions : Gross income of the movie ( In Millions)\nDirector : Name of director of the movie.\n\nTASK:\nData analysis can be performed on the above dataset.\nData cleaning, handle  Null values\nFind how many movies were released with respect to the year.\nFind most popular movies wrt gross /Metascore/votes\nCreate Bins for movie length(time) or gross\nFind Popular director wrt rating/gross income.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

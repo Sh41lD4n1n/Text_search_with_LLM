@@ -1,0 +1,39 @@
+{
+  "id": "senindrani/red-wine-quality-data",
+  "id_no": 2424714,
+  "datasetSlugNullable": "red-wine-quality-data",
+  "ownerUserNullable": "senindrani",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Red_wine_quality_data",
+  "subtitleNullable": "This data collected from GitHub and Kaggle, Used for self practice",
+  "descriptionNullable": "",
+  "datasetId": 2424714,
+  "datasetSlug": "red-wine-quality-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "senindrani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 262,
+  "totalVotes": 2,
+  "totalDownloads": 19,
+  "title": "Red_wine_quality_data",
+  "hasTitle": true,
+  "subtitle": "This data collected from GitHub and Kaggle, Used for self practice",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

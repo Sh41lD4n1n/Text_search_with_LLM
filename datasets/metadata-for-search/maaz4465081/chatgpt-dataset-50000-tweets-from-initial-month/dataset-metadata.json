@@ -1,0 +1,41 @@
+{
+  "id": "maaz4465081/chatgpt-dataset-50000-tweets-from-initial-month",
+  "id_no": 5128634,
+  "datasetSlugNullable": "chatgpt-dataset-50000-tweets-from-initial-month",
+  "ownerUserNullable": "maaz4465081",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Chatgpt DataSet 50000 Tweets from initial month",
+  "subtitleNullable": "Obtained by Twitter API v2, Best for Topic Modelling and Sentiment Analysis",
+  "descriptionNullable": "",
+  "datasetId": 5128634,
+  "datasetSlug": "chatgpt-dataset-50000-tweets-from-initial-month",
+  "hasDatasetSlug": true,
+  "ownerUser": "maaz4465081",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 43,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Chatgpt DataSet 50000 Tweets from initial month",
+  "hasTitle": true,
+  "subtitle": "Obtained by Twitter API v2, Best for Topic Modelling and Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text classification",
+    "sentence similarity",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

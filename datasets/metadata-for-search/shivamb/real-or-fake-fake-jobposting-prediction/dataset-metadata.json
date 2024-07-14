@@ -1,0 +1,43 @@
+{
+  "id": "shivamb/real-or-fake-fake-jobposting-prediction",
+  "id_no": 533871,
+  "datasetSlugNullable": "real-or-fake-fake-jobposting-prediction",
+  "ownerUserNullable": "shivamb",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Real / Fake Job Posting Prediction",
+  "subtitleNullable": "Dataset of real and fake job postings ",
+  "descriptionNullable": "### [Real or Fake] : Fake Job Description Prediction\n\nThis dataset contains 18K job descriptions out of which about 800 are fake. The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent. \n\n### Acknowledgements\n\nThe University of the Aegean | Laboratory of Information & Communication Systems Security\nhttp://emscad.samos.aegean.gr/\n\n### Inspiration\n\nThe dataset is very valuable as it can be used to answer the following questions:\n\n1. Create a classification model that uses text data features and meta-features and predict which job description are fraudulent or real.  \n2. Identify key traits/features (words, entities, phrases) of job descriptions which are fraudulent in nature. \n3. Run a contextual embedding model to identify the most similar job descriptions.\n4. Perform Exploratory Data Analysis on the dataset to identify interesting insights from this dataset. ",
+  "datasetId": 533871,
+  "datasetSlug": "real-or-fake-fake-jobposting-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamb",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 289252,
+  "totalVotes": 655,
+  "totalDownloads": 29999,
+  "title": "Real / Fake Job Posting Prediction",
+  "hasTitle": true,
+  "subtitle": "Dataset of real and fake job postings ",
+  "hasSubtitle": true,
+  "description": "### [Real or Fake] : Fake Job Description Prediction\n\nThis dataset contains 18K job descriptions out of which about 800 are fake. The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent. \n\n### Acknowledgements\n\nThe University of the Aegean | Laboratory of Information & Communication Systems Security\nhttp://emscad.samos.aegean.gr/\n\n### Inspiration\n\nThe dataset is very valuable as it can be used to answer the following questions:\n\n1. Create a classification model that uses text data features and meta-features and predict which job description are fraudulent or real.  \n2. Identify key traits/features (words, entities, phrases) of job descriptions which are fraudulent in nature. \n3. Run a contextual embedding model to identify the most similar job descriptions.\n4. Perform Exploratory Data Analysis on the dataset to identify interesting insights from this dataset. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "nlp",
+    "text",
+    "binary classification",
+    "jobs and career"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "omkar1008/covid19-mask-detection",
+  "id_no": 583749,
+  "datasetSlugNullable": "covid19-mask-detection",
+  "ownerUserNullable": "omkar1008",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "covid-19_mask_detection",
+  "subtitleNullable": "pollution mask/corona mask detection corona virus",
+  "descriptionNullable": "",
+  "datasetId": 583749,
+  "datasetSlug": "covid19-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "omkar1008",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 5536,
+  "totalVotes": 9,
+  "totalDownloads": 354,
+  "title": "covid-19_mask_detection",
+  "hasTitle": true,
+  "subtitle": "pollution mask/corona mask detection corona virus",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

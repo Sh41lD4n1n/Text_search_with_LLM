@@ -1,0 +1,42 @@
+{
+  "id": "marlesson/myanimelist-dataset-animes-profiles-reviews",
+  "id_no": 465305,
+  "datasetSlugNullable": "myanimelist-dataset-animes-profiles-reviews",
+  "ownerUserNullable": "marlesson",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Dataset with Reviews - MyAnimeList",
+  "subtitleNullable": "Anime Dataset from myanimelist.net (animes, profiles, reviews) as 2020",
+  "descriptionNullable": "### Context\n\nThis dataset contains informations about Anime (16k), Reviews (130k) and Profiles (47k) crawled from https://myanimelist.net/ at 05/01/20.   \n\nThe crawler program is opened on [https://github.com/marlesson/scrapy_myanimelist](https://github.com/marlesson/scrapy_myanimelist)\n\nThere are others similar datasets:\n\n* [azathoth42/myanimelist ](https://www.kaggle.com/azathoth42/myanimelist)\n* [CooperUnion/anime-recommendations-database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)\n* [natlee/myanimelist-comment-dataset](https://www.kaggle.com/natlee/myanimelist-comment-dataset)\n\n### Content\n\nThe dataset contains 3 files:\n\n* **animes.csv** contains list of anime, with title, title synonyms, genre, duration, rank, populatiry, score, airing date, episodes and many other important data about individual anime providing sufficient information about trends in time about important aspects of anime. Rank is in float format in csv, but it contains only integer value. This is due to NaN values and their representation in pandas.\n\n* **profiles.csv** contains information about users who watch anime, namely username, birth date, gender, and favorite animes list.\n\n* **reviews.csv** contains information about reviews users x animes, with text review and scores.\n\n### Acknowledgements\n\nThis dataset has been crawled from [MyAnimeList.net ](MyAnimeList.net)by myself. If you use this dataset in your research, please cite this page.\n\n### Inspiration\n\nThis dataset may be used in recomender system, sentiment analysis or other natural language processing.\n\nWe can analysis the ratings to see Anime trend and how the genre can be a trend.",
+  "datasetId": 465305,
+  "datasetSlug": "myanimelist-dataset-animes-profiles-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "marlesson",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 79359,
+  "totalVotes": 130,
+  "totalDownloads": 9226,
+  "title": "Anime Dataset with Reviews - MyAnimeList",
+  "hasTitle": true,
+  "subtitle": "Anime Dataset from myanimelist.net (animes, profiles, reviews) as 2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains informations about Anime (16k), Reviews (130k) and Profiles (47k) crawled from https://myanimelist.net/ at 05/01/20.   \n\nThe crawler program is opened on [https://github.com/marlesson/scrapy_myanimelist](https://github.com/marlesson/scrapy_myanimelist)\n\nThere are others similar datasets:\n\n* [azathoth42/myanimelist ](https://www.kaggle.com/azathoth42/myanimelist)\n* [CooperUnion/anime-recommendations-database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)\n* [natlee/myanimelist-comment-dataset](https://www.kaggle.com/natlee/myanimelist-comment-dataset)\n\n### Content\n\nThe dataset contains 3 files:\n\n* **animes.csv** contains list of anime, with title, title synonyms, genre, duration, rank, populatiry, score, airing date, episodes and many other important data about individual anime providing sufficient information about trends in time about important aspects of anime. Rank is in float format in csv, but it contains only integer value. This is due to NaN values and their representation in pandas.\n\n* **profiles.csv** contains information about users who watch anime, namely username, birth date, gender, and favorite animes list.\n\n* **reviews.csv** contains information about reviews users x animes, with text review and scores.\n\n### Acknowledgements\n\nThis dataset has been crawled from [MyAnimeList.net ](MyAnimeList.net)by myself. If you use this dataset in your research, please cite this page.\n\n### Inspiration\n\nThis dataset may be used in recomender system, sentiment analysis or other natural language processing.\n\nWe can analysis the ratings to see Anime trend and how the genre can be a trend.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "arts and entertainment",
+    "movies and tv shows",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

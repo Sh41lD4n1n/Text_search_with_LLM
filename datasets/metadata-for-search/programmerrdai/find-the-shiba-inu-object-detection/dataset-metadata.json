@@ -1,0 +1,43 @@
+{
+  "id": "programmerrdai/find-the-shiba-inu-object-detection",
+  "id_no": 2188662,
+  "datasetSlugNullable": "find-the-shiba-inu-object-detection",
+  "ownerUserNullable": "programmerrdai",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Find the Shiba Inu (Object Detection)",
+  "subtitleNullable": "Find the actually dog that is in the doge coin using object detection",
+  "descriptionNullable": "I have used alot of Kaggle Datasets and I want to help the community also. So I hope this helps at least one person.\n:)\nThe data has been taken from Open Images V6\nSubset of Shibu Inu.\nThis is a subset of Open Images.\nI will update as frequently as possible.",
+  "datasetId": 2188662,
+  "datasetSlug": "find-the-shiba-inu-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "programmerrdai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2810,
+  "totalVotes": 20,
+  "totalDownloads": 134,
+  "title": "Find the Shiba Inu (Object Detection)",
+  "hasTitle": true,
+  "subtitle": "Find the actually dog that is in the doge coin using object detection",
+  "hasSubtitle": true,
+  "description": "I have used alot of Kaggle Datasets and I want to help the community also. So I hope this helps at least one person.\n:)\nThe data has been taken from Open Images V6\nSubset of Shibu Inu.\nThis is a subset of Open Images.\nI will update as frequently as possible.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "intermediate",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

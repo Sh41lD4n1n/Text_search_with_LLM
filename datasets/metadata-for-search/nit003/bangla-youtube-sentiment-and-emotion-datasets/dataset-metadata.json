@@ -1,0 +1,39 @@
+{
+  "id": "nit003/bangla-youtube-sentiment-and-emotion-datasets",
+  "id_no": 340706,
+  "datasetSlugNullable": "bangla-youtube-sentiment-and-emotion-datasets",
+  "ownerUserNullable": "nit003",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Bangla YouTube Sentiment and Emotion datasets",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThis dataset is used in Multilabel sentiment analysis and emotion detection for YouTube comments in different kinds of Bengali videos.\n\n\n### Content\n\nThere are two files in the folder. There are might be multiple comments with same text. Also it may be noted that, the comments collected here contain abusive and vulgar words, slangs and personal attack. Therefore, we ensure that all annotators are adults.\n\n###################################\n\nSentiment.csv\n\nId - Unique id number for the comment. \nText - Text of the data\nLabel - 1 (3 class label) or 2 (5 class label)\nScore - Denotes the polarity of the comment.\n\t\tIn three class labelling : 1(positive), 0 (neutral), -1(negative)\n\t\tIn three class labelling : 2 (highly positive), 1(positive), 0 (neutral), -1(negative), -2(highly negative)\nLan - Language of the comment. EN (English), BN (Bengali), RN (Romanized Bangla)\nDomain - Category of the video. \n\n###################################\n\nEmotion.csv\n\nId - Unique id number for the comment. \nText - Text of the data\nemotion - Corresponding emotion of the comment.\n\t\tAnger/Joy/Disgust/Fear/Surprise/Sad/None (no emotion found) \nLan - Language of the comment. EN (English), BN (Bengali), RN (Romanized Bangla)\nDomain - Category of the video. \n\n### Acknowledgements\n\nIf you use the dataset in any research work, please cite the following paper as\n\nN. Irtiza Tripto and M. Eunus Ali, \"Detecting Multilabel Sentiment and Emotions from Bangla YouTube Comments,\" 2018 International Conference on Bangla Speech and Language Processing (ICBSLP), Sylhet, 2018, pp. 1-6.\n\ndoi: 10.1109/ICBSLP.2018.8554875\n\n\n### Inspiration\n\nIt will be helpful for researchers specially in analyzing sentiments from social media in non-English language",
+  "datasetId": 340706,
+  "datasetSlug": "bangla-youtube-sentiment-and-emotion-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "nit003",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 9309,
+  "totalVotes": 9,
+  "totalDownloads": 898,
+  "title": "Bangla YouTube Sentiment and Emotion datasets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is used in Multilabel sentiment analysis and emotion detection for YouTube comments in different kinds of Bengali videos.\n\n\n### Content\n\nThere are two files in the folder. There are might be multiple comments with same text. Also it may be noted that, the comments collected here contain abusive and vulgar words, slangs and personal attack. Therefore, we ensure that all annotators are adults.\n\n###################################\n\nSentiment.csv\n\nId - Unique id number for the comment. \nText - Text of the data\nLabel - 1 (3 class label) or 2 (5 class label)\nScore - Denotes the polarity of the comment.\n\t\tIn three class labelling : 1(positive), 0 (neutral), -1(negative)\n\t\tIn three class labelling : 2 (highly positive), 1(positive), 0 (neutral), -1(negative), -2(highly negative)\nLan - Language of the comment. EN (English), BN (Bengali), RN (Romanized Bangla)\nDomain - Category of the video. \n\n###################################\n\nEmotion.csv\n\nId - Unique id number for the comment. \nText - Text of the data\nemotion - Corresponding emotion of the comment.\n\t\tAnger/Joy/Disgust/Fear/Surprise/Sad/None (no emotion found) \nLan - Language of the comment. EN (English), BN (Bengali), RN (Romanized Bangla)\nDomain - Category of the video. \n\n### Acknowledgements\n\nIf you use the dataset in any research work, please cite the following paper as\n\nN. Irtiza Tripto and M. Eunus Ali, \"Detecting Multilabel Sentiment and Emotions from Bangla YouTube Comments,\" 2018 International Conference on Bangla Speech and Language Processing (ICBSLP), Sylhet, 2018, pp. 1-6.\n\ndoi: 10.1109/ICBSLP.2018.8554875\n\n\n### Inspiration\n\nIt will be helpful for researchers specially in analyzing sentiments from social media in non-English language",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bhaveshmisra/heart-disease-indicators",
+  "id_no": 3825415,
+  "datasetSlugNullable": "heart-disease-indicators",
+  "ownerUserNullable": "bhaveshmisra",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Heart_Disease_Indicators",
+  "subtitleNullable": "Analyzing Heart Disease Data",
+  "descriptionNullable": "This dataset contains various health-related indicators for a sample of individuals. Here's a brief description of each column:\n\n- HeartDiseaseorAttack: Indicates whether the individual has had a heart disease or heart attack (binary: 0 = No, 1 = Yes).\n- HighBP: High blood pressure status (binary: 0 = No, 1 = Yes).\n- HighChol: High cholesterol status (binary: 0 = No, 1 = Yes).\n- CholCheck: Frequency of cholesterol check (categorical).\n- BMI: Body Mass Index (continuous).\n- Smoker: Smoking status (binary: 0 = No, 1 = Yes).\n- Stroke: History of stroke (binary: 0 = No, 1 = Yes).\n- Diabetes: Diabetes status (binary: 0 = No, 1 = Yes).\n- PhysActivity: Level of physical activity (categorical).\n- Fruits: Frequency of fruit consumption (categorical).\n- Veggies: Frequency of vegetable consumption (categorical).\n- HvyAlcoholConsump: Heavy alcohol consumption status (binary: 0 = No, 1 = Yes).\n- AnyHealthcare: Access to any healthcare (binary: 0 = No, 1 = Yes).\n- NoDocbcCost: No doctor because of cost (binary: 0 = No, 1 = Yes).\n- GenHlth: General health assessment (categorical).\n- MentHlth: Mental health assessment (categorical).\n- PhysHlth: Physical health assessment (categorical).\n- DiffWalk: Difficulty walking status (binary: 0 = No, 1 = Yes).\n- Sex: Gender of the individual (binary: 0 = Female, 1 = Male).\n- Age: Age of the individual (continuous).\n- Education: Educational level (categorical).\n-Income: Income level (categorical).\n\nThis dataset contains a variety of health-related information, lifestyle factors, and demographics for a group of individuals, making it suitable for exploring correlations and potential risk factors for heart disease and other health conditions.\n\n",
+  "datasetId": 3825415,
+  "datasetSlug": "heart-disease-indicators",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhaveshmisra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 8008,
+  "totalVotes": 37,
+  "totalDownloads": 1641,
+  "title": "Heart_Disease_Indicators",
+  "hasTitle": true,
+  "subtitle": "Analyzing Heart Disease Data",
+  "hasSubtitle": true,
+  "description": "This dataset contains various health-related indicators for a sample of individuals. Here's a brief description of each column:\n\n- HeartDiseaseorAttack: Indicates whether the individual has had a heart disease or heart attack (binary: 0 = No, 1 = Yes).\n- HighBP: High blood pressure status (binary: 0 = No, 1 = Yes).\n- HighChol: High cholesterol status (binary: 0 = No, 1 = Yes).\n- CholCheck: Frequency of cholesterol check (categorical).\n- BMI: Body Mass Index (continuous).\n- Smoker: Smoking status (binary: 0 = No, 1 = Yes).\n- Stroke: History of stroke (binary: 0 = No, 1 = Yes).\n- Diabetes: Diabetes status (binary: 0 = No, 1 = Yes).\n- PhysActivity: Level of physical activity (categorical).\n- Fruits: Frequency of fruit consumption (categorical).\n- Veggies: Frequency of vegetable consumption (categorical).\n- HvyAlcoholConsump: Heavy alcohol consumption status (binary: 0 = No, 1 = Yes).\n- AnyHealthcare: Access to any healthcare (binary: 0 = No, 1 = Yes).\n- NoDocbcCost: No doctor because of cost (binary: 0 = No, 1 = Yes).\n- GenHlth: General health assessment (categorical).\n- MentHlth: Mental health assessment (categorical).\n- PhysHlth: Physical health assessment (categorical).\n- DiffWalk: Difficulty walking status (binary: 0 = No, 1 = Yes).\n- Sex: Gender of the individual (binary: 0 = Female, 1 = Male).\n- Age: Age of the individual (continuous).\n- Education: Educational level (categorical).\n-Income: Income level (categorical).\n\nThis dataset contains a variety of health-related information, lifestyle factors, and demographics for a group of individuals, making it suitable for exploring correlations and potential risk factors for heart disease and other health conditions.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "text",
+    "binary classification",
+    "health conditions",
+    "heart conditions",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

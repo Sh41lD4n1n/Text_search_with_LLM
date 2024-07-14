@@ -1,0 +1,41 @@
+{
+  "id": "axondata/silicone-mask-biometric-attack-dataset",
+  "id_no": 5014102,
+  "datasetSlugNullable": "silicone-mask-biometric-attack-dataset",
+  "ownerUserNullable": "axondata",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Silicone Mask Biometric Attack Dataset",
+  "subtitleNullable": "Anti spoofing dataset with Silicone 3D mask attacks (7000 videos)",
+  "descriptionNullable": "# Silicone Mask Biometric Attack Dataset\n\n## This is a demo version, full dataset is coming soon. Share with us your feedback and recieve additional samples for free!\ud83d\ude0a\n\n##Introduction\nThe Silicone Mask Attack Dataset is designed to address security challenges in liveness detection systems through 3D silicone mask attacks. These presentation attacks are key for testing Passive Liveness Detection systems crucial for iBeta Level 2 certification. This dataset significantly enhances the capabilities of liveness detection models \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F20109613%2Fe70f55bdfc175f2d96b3dfcfabe4eb11%2FIllustration.jpg?generation=1715795985085319&alt=media)\n\n##Why Silicone Mask Data?\nThis dataset is crucial for companies preparing to comply with iBeta Level 2 certification which requires anti-spoofing technologies. In today's digital security landscape, the Silicone Mask Dataset serves as a critical resource for training Machine Learning (ML) models and advanced biometric techniques to detect spoofing attempts. \n\n##Dataset Features\n\u2022\t**Variety of Masks:** Encompasses 8 unique silicone masks (male and female, Caucasian ans Asian ethnicity)\n\u2022\t**Video Collection:** There are roughly 7,000 videos that showcase detailed spoofing detection scenarios.\n\u2022\t**Helpful for Active liveness:** Head movements and blinking are included in the dataset\n\u2022\t**5 Different shooting angles:** Front Selfie and far/ close back camera, two side shots available\u200b\n\u2022\t**Capture Devices:** Three different recording devices in selfie mode to mirror real-life conditions (Modern iPhone, Xiaomi and Samsung)\n\u2022\t **Environmental Conditions:** Captures videos across diverse lighting and background settings to ensure robustness.\n\n\u2022 **Additional Flexibility:** We can recreate this dataset using both RGB and USB camera inputs to accommodate various research needs.\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n##Technical Specifications\n\u2022\t**File Format:** Videos are formatted to be compatible with mainstream ML frameworks.\n\u2022\t**Resolution and Frame Rate:** Tailored for high-resolution and optimal frame rates to capture quick mask placements.\n\n##Best Uses\nThis dataset is ideal for entities striving to meet or exceed iBeta Level 2 certification. By integrating this dataset, organizations can greatly enhance the training effectiveness of anti-spoofing algorithms, ensuring a robust and accurate performance in practical scenarios.\n\n##Conclusion\nWith its comprehensive features and simulation of real attack scenarios, the Silicone Mask Biometric Attack Dataset is indispensable for anyone involved in developing and certifying facial recognition and liveness detection technologies. Utilize this dataset to strengthen your systems against the most deceptive digital security threats.\n\n",
+  "datasetId": 5014102,
+  "datasetSlug": "silicone-mask-biometric-attack-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "axondata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 291,
+  "totalVotes": 6,
+  "totalDownloads": 28,
+  "title": "Silicone Mask Biometric Attack Dataset",
+  "hasTitle": true,
+  "subtitle": "Anti spoofing dataset with Silicone 3D mask attacks (7000 videos)",
+  "hasSubtitle": true,
+  "description": "# Silicone Mask Biometric Attack Dataset\n\n## This is a demo version, full dataset is coming soon. Share with us your feedback and recieve additional samples for free!\ud83d\ude0a\n\n##Introduction\nThe Silicone Mask Attack Dataset is designed to address security challenges in liveness detection systems through 3D silicone mask attacks. These presentation attacks are key for testing Passive Liveness Detection systems crucial for iBeta Level 2 certification. This dataset significantly enhances the capabilities of liveness detection models \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F20109613%2Fe70f55bdfc175f2d96b3dfcfabe4eb11%2FIllustration.jpg?generation=1715795985085319&alt=media)\n\n##Why Silicone Mask Data?\nThis dataset is crucial for companies preparing to comply with iBeta Level 2 certification which requires anti-spoofing technologies. In today's digital security landscape, the Silicone Mask Dataset serves as a critical resource for training Machine Learning (ML) models and advanced biometric techniques to detect spoofing attempts. \n\n##Dataset Features\n\u2022\t**Variety of Masks:** Encompasses 8 unique silicone masks (male and female, Caucasian ans Asian ethnicity)\n\u2022\t**Video Collection:** There are roughly 7,000 videos that showcase detailed spoofing detection scenarios.\n\u2022\t**Helpful for Active liveness:** Head movements and blinking are included in the dataset\n\u2022\t**5 Different shooting angles:** Front Selfie and far/ close back camera, two side shots available\u200b\n\u2022\t**Capture Devices:** Three different recording devices in selfie mode to mirror real-life conditions (Modern iPhone, Xiaomi and Samsung)\n\u2022\t **Environmental Conditions:** Captures videos across diverse lighting and background settings to ensure robustness.\n\n\u2022 **Additional Flexibility:** We can recreate this dataset using both RGB and USB camera inputs to accommodate various research needs.\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n##Technical Specifications\n\u2022\t**File Format:** Videos are formatted to be compatible with mainstream ML frameworks.\n\u2022\t**Resolution and Frame Rate:** Tailored for high-resolution and optimal frame rates to capture quick mask placements.\n\n##Best Uses\nThis dataset is ideal for entities striving to meet or exceed iBeta Level 2 certification. By integrating this dataset, organizations can greatly enhance the training effectiveness of anti-spoofing algorithms, ensuring a robust and accurate performance in practical scenarios.\n\n##Conclusion\nWith its comprehensive features and simulation of real attack scenarios, the Silicone Mask Biometric Attack Dataset is indispensable for anyone involved in developing and certifying facial recognition and liveness detection technologies. Utilize this dataset to strengthen your systems against the most deceptive digital security threats.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "business",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

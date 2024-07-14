@@ -1,0 +1,43 @@
+{
+  "id": "zzsleepyzzz/crypto-tweets-data-and-sentiments",
+  "id_no": 4308180,
+  "datasetSlugNullable": "crypto-tweets-data-and-sentiments",
+  "ownerUserNullable": "zzsleepyzzz",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "crypto nft tweets data",
+  "subtitleNullable": "crypto and nft related tweets and sentiments for NLP, market trends, etc",
+  "descriptionNullable": "NO MORE UPDATES\n[nitter.net](https://nitter.net) the twitter mirror we were pulling from has shutdown indefinitely.\n\n* this is a twitter tweet dataset on crypto, nfts, exchanges, and popular forums like wallstreetbets  \n* pulling tweets live from twitter ~3-4 days worth of tweets from the marked date of the files  \n\n\n## search queries in `_q.csv`\nthis file contains all the queries for different cryptocurrencies and exchanges / forums that were searching on twitter to gather the data.\n\n## tweets `yymmdd.*` files\n- these are the tweets data files\n- note they are marked sol and binance but they contain results from all queries\n\n## columns\n```\n|-------------------------|-------------------------------------------------------|\n| field                   | explanation                                           |\n|-------------------------|-------------------------------------------------------|\n| username                | who posted the tweet                                  |\n|-------------------------|-------------------------------------------------------|\n| tweet_raw               | unfiltered tweets *have links whitespace special chs. |\n|-------------------------|-------------------------------------------------------|\n| tweet_text              | cleaned tweet text                                    |\n|-------------------------|-------------------------------------------------------|\n| date                    | date tweet was posted                                 |\n|-------------------------|-------------------------------------------------------|\n| happy/sad/etc           | these are emotion / sentiment scoring                 |\n|-------------------------|-------------------------------------------------------|\n| afinn/bing/sid/bertweet | more sentiment scoring                                |\n|-------------------------|-------------------------------------------------------|\n```\n\n\n",
+  "datasetId": 4308180,
+  "datasetSlug": "crypto-tweets-data-and-sentiments",
+  "hasDatasetSlug": true,
+  "ownerUser": "zzsleepyzzz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 666,
+  "totalVotes": 6,
+  "totalDownloads": 62,
+  "title": "crypto nft tweets data",
+  "hasTitle": true,
+  "subtitle": "crypto and nft related tweets and sentiments for NLP, market trends, etc",
+  "hasSubtitle": true,
+  "description": "NO MORE UPDATES\n[nitter.net](https://nitter.net) the twitter mirror we were pulling from has shutdown indefinitely.\n\n* this is a twitter tweet dataset on crypto, nfts, exchanges, and popular forums like wallstreetbets  \n* pulling tweets live from twitter ~3-4 days worth of tweets from the marked date of the files  \n\n\n## search queries in `_q.csv`\nthis file contains all the queries for different cryptocurrencies and exchanges / forums that were searching on twitter to gather the data.\n\n## tweets `yymmdd.*` files\n- these are the tweets data files\n- note they are marked sol and binance but they contain results from all queries\n\n## columns\n```\n|-------------------------|-------------------------------------------------------|\n| field                   | explanation                                           |\n|-------------------------|-------------------------------------------------------|\n| username                | who posted the tweet                                  |\n|-------------------------|-------------------------------------------------------|\n| tweet_raw               | unfiltered tweets *have links whitespace special chs. |\n|-------------------------|-------------------------------------------------------|\n| tweet_text              | cleaned tweet text                                    |\n|-------------------------|-------------------------------------------------------|\n| date                    | date tweet was posted                                 |\n|-------------------------|-------------------------------------------------------|\n| happy/sad/etc           | these are emotion / sentiment scoring                 |\n|-------------------------|-------------------------------------------------------|\n| afinn/bing/sid/bertweet | more sentiment scoring                                |\n|-------------------------|-------------------------------------------------------|\n```\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "tabular",
+    "text",
+    "currencies and foreign exchange",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

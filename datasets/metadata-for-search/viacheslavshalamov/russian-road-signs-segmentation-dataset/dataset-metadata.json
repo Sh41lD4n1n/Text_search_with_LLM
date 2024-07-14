@@ -1,0 +1,46 @@
+{
+  "id": "viacheslavshalamov/russian-road-signs-segmentation-dataset",
+  "id_no": 756584,
+  "datasetSlugNullable": "russian-road-signs-segmentation-dataset",
+  "ownerUserNullable": "viacheslavshalamov",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Russian road signs segmentation dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThis dataset is based on ***V. I. Shakhuro and A. S. Konushin, \u201cRussian traffic sign images dataset,\u201d Computer Optics, vol. 40, no. 2, pp. 294\u2013300, 2016.***\n\nThe authors (Shakhuro and Konushin) of the original dataset collected approximately 100 000 images of road signs taken with car DVR. The photographs were taken during traveling across Russia. They captured many variations, distortions, and defects. This dataset was developed for the object detection task, so it contains bounding boxes and labels (road sign types). \n\nUsing this detection dataset, we generated a segmentation dataset. The mask was generated based on the road sign type. There are 156 road sign types of 8 super-classes, there are only 5 basic shapes: ellipse, rectangle, triangle, reversed triangle, and diamond. The resulting mask was obtained by fitting the corresponding shape into the bounding box. The size of a single image is 1280x720 pixels. \n\nWe used in it our research \"Keypoint-based Static Object Removal from Photographs\", which will be soon available online.\n\n### Content\n\nEach *.jpg image file has a corresponding *.json  file which contains the mask for road sign on it.\n\n\n### Acknowledgements\nShakhuro and Konushin - for the original dataset.\n\nAlexander Volkov - for making it a segmentation dataset.\n\n### Inspiration\n\n",
+  "datasetId": 756584,
+  "datasetSlug": "russian-road-signs-segmentation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "viacheslavshalamov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 5962,
+  "totalVotes": 10,
+  "totalDownloads": 577,
+  "title": "Russian road signs segmentation dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is based on ***V. I. Shakhuro and A. S. Konushin, \u201cRussian traffic sign images dataset,\u201d Computer Optics, vol. 40, no. 2, pp. 294\u2013300, 2016.***\n\nThe authors (Shakhuro and Konushin) of the original dataset collected approximately 100 000 images of road signs taken with car DVR. The photographs were taken during traveling across Russia. They captured many variations, distortions, and defects. This dataset was developed for the object detection task, so it contains bounding boxes and labels (road sign types). \n\nUsing this detection dataset, we generated a segmentation dataset. The mask was generated based on the road sign type. There are 156 road sign types of 8 super-classes, there are only 5 basic shapes: ellipse, rectangle, triangle, reversed triangle, and diamond. The resulting mask was obtained by fitting the corresponding shape into the bounding box. The size of a single image is 1280x720 pixels. \n\nWe used in it our research \"Keypoint-based Static Object Removal from Photographs\", which will be soon available online.\n\n### Content\n\nEach *.jpg image file has a corresponding *.json  file which contains the mask for road sign on it.\n\n\n### Acknowledgements\nShakhuro and Konushin - for the original dataset.\n\nAlexander Volkov - for making it a segmentation dataset.\n\n### Inspiration\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "russia",
+    "transportation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "valeryefimova",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

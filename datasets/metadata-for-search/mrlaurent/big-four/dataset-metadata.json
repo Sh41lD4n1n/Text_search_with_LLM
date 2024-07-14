@@ -1,0 +1,42 @@
+{
+  "id": "mrlaurent/big-four",
+  "id_no": 2861553,
+  "datasetSlugNullable": "big-four",
+  "ownerUserNullable": "mrlaurent",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Big Four",
+  "subtitleNullable": "Unleashing the Beauty of the Wild: A Comprehensive Animal Dataset",
+  "descriptionNullable": "This a Dataset on the four main animals that act as major tourist attractions. Lion, Elephant, Cheetah and Rhinoceros.\nI was inspired to create this dataset because I was going to do a project on Image Detection on the four animals but it was so hard to find them and I didn't want people to face the same problem, so I created it.\nI used three datasets I found on kaggle to extract what I wanted to create this.\nThose three datasets are:\n1. African Wildlife\n2. Animals Detection Images\n3. Wild Animals Images \n\nI want to thank the authors of these datasets for the big help. I wouldn't have done it without their hard work and contributions\n\nIF you liked it please UPVOTE",
+  "datasetId": 2861553,
+  "datasetSlug": "big-four",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrlaurent",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 982,
+  "totalVotes": 6,
+  "totalDownloads": 71,
+  "title": "Big Four",
+  "hasTitle": true,
+  "subtitle": "Unleashing the Beauty of the Wild: A Comprehensive Animal Dataset",
+  "hasSubtitle": true,
+  "description": "This a Dataset on the four main animals that act as major tourist attractions. Lion, Elephant, Cheetah and Rhinoceros.\nI was inspired to create this dataset because I was going to do a project on Image Detection on the four animals but it was so hard to find them and I didn't want people to face the same problem, so I created it.\nI used three datasets I found on kaggle to extract what I wanted to create this.\nThose three datasets are:\n1. African Wildlife\n2. Animals Detection Images\n3. Wild Animals Images \n\nI want to thank the authors of these datasets for the big help. I wouldn't have done it without their hard work and contributions\n\nIF you liked it please UPVOTE",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "neural networks",
+    "transfer learning",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "axondata/3d-mannequin-dataset-for-liveness-detection",
+  "id_no": 5007682,
+  "datasetSlugNullable": "3d-mannequin-dataset-for-liveness-detection",
+  "ownerUserNullable": "axondata",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "3D Mannequin Dataset for Liveness Detection",
+  "subtitleNullable": "Explore 3D mannequins for anti-spoofing models (1000+ images)",
+  "descriptionNullable": "## 3D Mannequin Face Dataset for Liveness Detection (1K+ pictures)\n\n## Contact us and share your feedback - recieve additional samples for free!\ud83d\ude0a\n\n\nOur 3D Mannequin Anti-Spoofing Dataset provides a comprehensive collection of mannequin images, optimized for enhancing liveness detection models in face anti-spoofing. Utilizing retail mannequins, this dataset simulates 3D faces, presenting a realistic challenge for spoofing scenarios. By incorporating 3D textures, it significantly improves the capability of anti-spoofing algorithms\n\n## Some Liveness detection SDK do not recognize this attack - here is an example\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F20109613%2F484daafbdd3b29fa87822fb7d54405c1%2FTest%20example.png?generation=1715709935878279&alt=media)\n\n**Why Using Mannequin Data?**\n\nIntegrating 3D mannequin images into training scenarios boosts the effectiveness of anti-spoofing models. By training with varied 3D representations of masks, algorithms enhance their ability to distinguish between genuine and spoofed faces. This training is crucial for increasing the security and reliability of biometric systems.\n\n**Dataset Description:**\n- Scope: Features over 100 mannequins from retail environments.\n- Diversity: Includes female, male, and children mannequins, some sporting natural hair.\n- Image Capture: Utilizes both selfie and frontal camera perspectives.\n- Variations: Encompasses accessories such as glasses, sunglasses, scarves, and hats.\n- Lighting Conditions: Offers a range of lighting scenarios for well-rounded algorithm training.\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n**Best Used For Anti-Spoofing Training:** The dataset\u2019s 3D characteristics elevate the training efficiency of anti-spoofing algorithms, ensuring a more robust learning experience for detection models.\n\n\nKeywords: 3D Mannequin Face Dataset, Liveness Detection Models, Anti-Spoofing, Comprehensive Dataset, Realistic Features, Detection of Genuine Faces, Sophisticated Spoofing Scenarios, Diverse Lighting, Retail Mannequins, Variability in Facial Accessories, Frontal Camera Usage, Enhanced Anti-Spoofing Algorithms, Security in Biometric Systems, Comprehensive Exposure, Facial Recognition Training, Mannequin-Based Anti-Spoofing, 3D Mask Simulation.\n",
+  "datasetId": 5007682,
+  "datasetSlug": "3d-mannequin-dataset-for-liveness-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "axondata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 305,
+  "totalVotes": 8,
+  "totalDownloads": 25,
+  "title": "3D Mannequin Dataset for Liveness Detection",
+  "hasTitle": true,
+  "subtitle": "Explore 3D mannequins for anti-spoofing models (1000+ images)",
+  "hasSubtitle": true,
+  "description": "## 3D Mannequin Face Dataset for Liveness Detection (1K+ pictures)\n\n## Contact us and share your feedback - recieve additional samples for free!\ud83d\ude0a\n\n\nOur 3D Mannequin Anti-Spoofing Dataset provides a comprehensive collection of mannequin images, optimized for enhancing liveness detection models in face anti-spoofing. Utilizing retail mannequins, this dataset simulates 3D faces, presenting a realistic challenge for spoofing scenarios. By incorporating 3D textures, it significantly improves the capability of anti-spoofing algorithms\n\n## Some Liveness detection SDK do not recognize this attack - here is an example\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F20109613%2F484daafbdd3b29fa87822fb7d54405c1%2FTest%20example.png?generation=1715709935878279&alt=media)\n\n**Why Using Mannequin Data?**\n\nIntegrating 3D mannequin images into training scenarios boosts the effectiveness of anti-spoofing models. By training with varied 3D representations of masks, algorithms enhance their ability to distinguish between genuine and spoofed faces. This training is crucial for increasing the security and reliability of biometric systems.\n\n**Dataset Description:**\n- Scope: Features over 100 mannequins from retail environments.\n- Diversity: Includes female, male, and children mannequins, some sporting natural hair.\n- Image Capture: Utilizes both selfie and frontal camera perspectives.\n- Variations: Encompasses accessories such as glasses, sunglasses, scarves, and hats.\n- Lighting Conditions: Offers a range of lighting scenarios for well-rounded algorithm training.\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n**Best Used For Anti-Spoofing Training:** The dataset\u2019s 3D characteristics elevate the training efficiency of anti-spoofing algorithms, ensuring a more robust learning experience for detection models.\n\n\nKeywords: 3D Mannequin Face Dataset, Liveness Detection Models, Anti-Spoofing, Comprehensive Dataset, Realistic Features, Detection of Genuine Faces, Sophisticated Spoofing Scenarios, Diverse Lighting, Retail Mannequins, Variability in Facial Accessories, Frontal Camera Usage, Enhanced Anti-Spoofing Algorithms, Security in Biometric Systems, Comprehensive Exposure, Facial Recognition Training, Mannequin-Based Anti-Spoofing, 3D Mask Simulation.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "people",
+    "computer science",
+    "neural networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

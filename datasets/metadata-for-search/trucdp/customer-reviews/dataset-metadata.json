@@ -1,0 +1,43 @@
+{
+  "id": "trucdp/customer-reviews",
+  "id_no": 1552018,
+  "datasetSlugNullable": "customer-reviews",
+  "ownerUserNullable": "trucdp",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "EC Review Sentiment Dataset",
+  "subtitleNullable": "Vietname e-commerce websites in categories: Clothing...",
+  "descriptionNullable": "",
+  "datasetId": 1552018,
+  "datasetSlug": "customer-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "trucdp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1348,
+  "totalVotes": 3,
+  "totalDownloads": 40,
+  "title": "EC Review Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "Vietname e-commerce websites in categories: Clothing...",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "lstm",
+    "text",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

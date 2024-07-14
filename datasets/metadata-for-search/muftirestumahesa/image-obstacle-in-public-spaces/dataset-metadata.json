@@ -1,0 +1,44 @@
+{
+  "id": "muftirestumahesa/image-obstacle-in-public-spaces",
+  "id_no": 4362605,
+  "datasetSlugNullable": "image-obstacle-in-public-spaces",
+  "ownerUserNullable": "muftirestumahesa",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Image Obstacle in Public Spaces",
+  "subtitleNullable": "Annotated Images of Obstacles in Public Spaces",
+  "descriptionNullable": "The \"Image Obstacles in Public Spaces\" dataset is a collection of data focusing on annotated images depicting various types of obstacles that can be encountered in public spaces. The description of this dataset includes several key points:\n\n1. Types of Obstacles: The dataset encompasses various types of obstacles that may be encountered in public spaces, such as Right Turn, Left Turn, Puddle, Street Vendor, Obstacle, Bad Road, Garbage Bin, Chair, Pothole, Car, Motorcycle, Pedestrian, Fence, Gate, Barrier, Roadblock, Door, Tree, Plant, Pot, Drain, Stair, Pole, and Zebra Cross.\n2. Annotation Purpose: Each image in the dataset has been meticulously annotated to identify the location and type of obstacles present in the image.\n3. Data Format: Data in the dataset is typically presented in image formats (JPG) that have been annotated with bounding boxes or markers to indicate the location of obstacles.\n4. Dataset Size: The dataset can contain varying numbers of images, depending on research or model development needs. Total images in dataset is 3350 images.\n5. Usage Requirement: This dataset is useful for training and testing recognizing and classifying obstacles in public environments.\n6. Application Fields: The dataset can be utilized in various application fields, including assistive technology for the visually impaired, development of navigation systems for the blind, autonomous vehicle development, and other applications involving object detection in public spaces. It is important to provide proper attribution and references to the dataset when used in research or projects, and to adhere to applicable guidelines and copyrights related to the dataset.",
+  "datasetId": 4362605,
+  "datasetSlug": "image-obstacle-in-public-spaces",
+  "hasDatasetSlug": true,
+  "ownerUser": "muftirestumahesa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1030,
+  "totalVotes": 3,
+  "totalDownloads": 122,
+  "title": "Image Obstacle in Public Spaces",
+  "hasTitle": true,
+  "subtitle": "Annotated Images of Obstacles in Public Spaces",
+  "hasSubtitle": true,
+  "description": "The \"Image Obstacles in Public Spaces\" dataset is a collection of data focusing on annotated images depicting various types of obstacles that can be encountered in public spaces. The description of this dataset includes several key points:\n\n1. Types of Obstacles: The dataset encompasses various types of obstacles that may be encountered in public spaces, such as Right Turn, Left Turn, Puddle, Street Vendor, Obstacle, Bad Road, Garbage Bin, Chair, Pothole, Car, Motorcycle, Pedestrian, Fence, Gate, Barrier, Roadblock, Door, Tree, Plant, Pot, Drain, Stair, Pole, and Zebra Cross.\n2. Annotation Purpose: Each image in the dataset has been meticulously annotated to identify the location and type of obstacles present in the image.\n3. Data Format: Data in the dataset is typically presented in image formats (JPG) that have been annotated with bounding boxes or markers to indicate the location of obstacles.\n4. Dataset Size: The dataset can contain varying numbers of images, depending on research or model development needs. Total images in dataset is 3350 images.\n5. Usage Requirement: This dataset is useful for training and testing recognizing and classifying obstacles in public environments.\n6. Application Fields: The dataset can be utilized in various application fields, including assistive technology for the visually impaired, development of navigation systems for the blind, autonomous vehicle development, and other applications involving object detection in public spaces. It is important to provide proper attribution and references to the dataset when used in research or projects, and to adhere to applicable guidelines and copyrights related to the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

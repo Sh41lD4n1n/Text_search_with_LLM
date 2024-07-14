@@ -1,0 +1,43 @@
+{
+  "id": "soylevbeytullah/ds4work-operation-department",
+  "id_no": 4942869,
+  "datasetSlugNullable": "ds4work-operation-department",
+  "ownerUserNullable": "soylevbeytullah",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "DS4 Work - Operation Datasets",
+  "subtitleNullable": "Data Science for Business - Operation Department",
+  "descriptionNullable": "In this case study, you are hired by a hospital in Toronto as a deep learning consultant and tasked with automating the detection and classification process of pulmonary diseases.\n\nThe team collected extensive X-Ray chest data and asked you to develop a model that could detect and classify diseases in less than a minute.\n\nThey provided a dataset consisting of 133 images and divided into 4 classes:\n\n0 - Covid-19\n1 - Healty X-ray\n2 - Viral Pneumonia X-ray\n3 - Bacterial Pneumonia X-ray\n\nHowever, it's crucial to note that the use of AI in healthcare raises some ethical and social concerns. For instance, there are worries that AI systems may be biased and result in misdiagnoses. Additionally, there are concerns that AI may replace doctors and other healthcare professionals.",
+  "datasetId": 4942869,
+  "datasetSlug": "ds4work-operation-department",
+  "hasDatasetSlug": true,
+  "ownerUser": "soylevbeytullah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 265,
+  "totalVotes": 12,
+  "totalDownloads": 10,
+  "title": "DS4 Work - Operation Datasets",
+  "hasTitle": true,
+  "subtitle": "Data Science for Business - Operation Department",
+  "hasSubtitle": true,
+  "description": "In this case study, you are hired by a hospital in Toronto as a deep learning consultant and tasked with automating the detection and classification process of pulmonary diseases.\n\nThe team collected extensive X-Ray chest data and asked you to develop a model that could detect and classify diseases in less than a minute.\n\nThey provided a dataset consisting of 133 images and divided into 4 classes:\n\n0 - Covid-19\n1 - Healty X-ray\n2 - Viral Pneumonia X-ray\n3 - Bacterial Pneumonia X-ray\n\nHowever, it's crucial to note that the use of AI in healthcare raises some ethical and social concerns. For instance, there are worries that AI systems may be biased and result in misdiagnoses. Additionally, there are concerns that AI may replace doctors and other healthcare professionals.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "health",
+    "medicine",
+    "image",
+    "canada"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

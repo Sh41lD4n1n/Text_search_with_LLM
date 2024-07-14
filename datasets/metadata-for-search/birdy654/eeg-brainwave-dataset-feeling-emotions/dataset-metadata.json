@@ -1,0 +1,46 @@
+{
+  "id": "birdy654/eeg-brainwave-dataset-feeling-emotions",
+  "id_no": 93959,
+  "datasetSlugNullable": "eeg-brainwave-dataset-feeling-emotions",
+  "ownerUserNullable": "birdy654",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "EEG Brainwave Dataset: Feeling Emotions ",
+  "subtitleNullable": "Positive and Negative emotional experiences captured from the brain",
+  "descriptionNullable": "Can you use brainwave data to discern whether someone is feeling good?\n----------------------------------------------------------------------\n\n##Please cite the following if you are using this data\nhttps://www.researchgate.net/publication/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface\n\nhttps://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_to_Bioinspired_Classifier_Optimisation_for_Brain-Machine_Interaction\n\n\n\nThis is a dataset of EEG brainwave data that has been processed with our original strategy of statistical extraction (paper below)\n\nThe data was collected from two people (1 male, 1 female) for 3 minutes per state - positive, neutral, negative. We used a Muse EEG headband which recorded the TP9, AF7, AF8 and TP10 EEG placements via dry electrodes. Six minutes of resting neutral data is also recorded, the stimuli used to evoke the emotions are below\n\n&gt; 1 . Marley and Me - **Negative** (Twentieth Century Fox)\n*Death Scene*\n&gt; 2. Up - **Negative** (Walt Disney Pictures)\n*Opening Death Scene*\n&gt; 3. My Girl - **Negative** (Imagine Entertainment)\n*Funeral Scene*\n&gt; 4. La La Land - **Positive** (Summit Entertainment)\n*Opening musical number*\n&gt; 5. Slow Life - **Positive** (BioQuest Studios)\n*Nature timelapse*\n&gt; 6. Funny Dogs - **Positive** (MashupZone)\n*Funny dog clips*\n\nOur method of statistical extraction resampled the data since waves must be mathematically described in a temporal fashion.\n\nIf you would like to use the data in research projects, please cite the following:\n\nJ. J. Bird, L. J. Manso, E. P. Ribiero, A. Ekart, and D. R. Faria, \u201cA study on mental state classification using eeg-based brain-machine interface,\u201din 9th International Conference on Intelligent Systems, IEEE, 2018.\n\nJ. J. Bird, A. Ekart, C. D. Buckingham, and D. R. Faria, \u201cMental emotional sentiment classification with an eeg-based brain-machine interface,\u201d in The International Conference on Digital Image and Signal Processing (DISP\u201919), Springer, 2019.\n\n\n*This research was part supported by the EIT Health GRaCE-AGE grant number 18429 awarded to C.D. Buckingham.*",
+  "datasetId": 93959,
+  "datasetSlug": "eeg-brainwave-dataset-feeling-emotions",
+  "hasDatasetSlug": true,
+  "ownerUser": "birdy654",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 148246,
+  "totalVotes": 225,
+  "totalDownloads": 15287,
+  "title": "EEG Brainwave Dataset: Feeling Emotions ",
+  "hasTitle": true,
+  "subtitle": "Positive and Negative emotional experiences captured from the brain",
+  "hasSubtitle": true,
+  "description": "Can you use brainwave data to discern whether someone is feeling good?\n----------------------------------------------------------------------\n\n##Please cite the following if you are using this data\nhttps://www.researchgate.net/publication/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface\n\nhttps://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_to_Bioinspired_Classifier_Optimisation_for_Brain-Machine_Interaction\n\n\n\nThis is a dataset of EEG brainwave data that has been processed with our original strategy of statistical extraction (paper below)\n\nThe data was collected from two people (1 male, 1 female) for 3 minutes per state - positive, neutral, negative. We used a Muse EEG headband which recorded the TP9, AF7, AF8 and TP10 EEG placements via dry electrodes. Six minutes of resting neutral data is also recorded, the stimuli used to evoke the emotions are below\n\n&gt; 1 . Marley and Me - **Negative** (Twentieth Century Fox)\n*Death Scene*\n&gt; 2. Up - **Negative** (Walt Disney Pictures)\n*Opening Death Scene*\n&gt; 3. My Girl - **Negative** (Imagine Entertainment)\n*Funeral Scene*\n&gt; 4. La La Land - **Positive** (Summit Entertainment)\n*Opening musical number*\n&gt; 5. Slow Life - **Positive** (BioQuest Studios)\n*Nature timelapse*\n&gt; 6. Funny Dogs - **Positive** (MashupZone)\n*Funny dog clips*\n\nOur method of statistical extraction resampled the data since waves must be mathematically described in a temporal fashion.\n\nIf you would like to use the data in research projects, please cite the following:\n\nJ. J. Bird, L. J. Manso, E. P. Ribiero, A. Ekart, and D. R. Faria, \u201cA study on mental state classification using eeg-based brain-machine interface,\u201din 9th International Conference on Intelligent Systems, IEEE, 2018.\n\nJ. J. Bird, A. Ekart, C. D. Buckingham, and D. R. Faria, \u201cMental emotional sentiment classification with an eeg-based brain-machine interface,\u201d in The International Conference on Digital Image and Signal Processing (DISP\u201919), Springer, 2019.\n\n\n*This research was part supported by the EIT Health GRaCE-AGE grant number 18429 awarded to C.D. Buckingham.*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "mental health",
+    "healthcare",
+    "public health",
+    "earth and nature",
+    "religion and belief systems",
+    "health",
+    "psychology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

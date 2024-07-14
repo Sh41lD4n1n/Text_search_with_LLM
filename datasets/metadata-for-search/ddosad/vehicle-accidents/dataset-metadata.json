@@ -1,0 +1,43 @@
+{
+  "id": "ddosad/vehicle-accidents",
+  "id_no": 3963606,
+  "datasetSlugNullable": "vehicle-accidents",
+  "ownerUserNullable": "ddosad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hourly Vehicle Crossing data for Time Series",
+  "subtitleNullable": "Hourly Vehicle data on an Highway, good dataset for beginers",
+  "descriptionNullable": "The data contains hourly vehicle counts of particular highway in the year of 1995 beginning from the month of August. The data is of around 70 days span.\n\nThe dataset is good for beginners to practice on Time series",
+  "datasetId": 3963606,
+  "datasetSlug": "vehicle-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "ddosad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4179,
+  "totalVotes": 43,
+  "totalDownloads": 666,
+  "title": "Hourly Vehicle Crossing data for Time Series",
+  "hasTitle": true,
+  "subtitle": "Hourly Vehicle data on an Highway, good dataset for beginers",
+  "hasSubtitle": true,
+  "description": "The data contains hourly vehicle counts of particular highway in the year of 1995 beginning from the month of August. The data is of around 70 days span.\n\nThe dataset is good for beginners to practice on Time series",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "beginner",
+    "data visualization",
+    "time series analysis",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

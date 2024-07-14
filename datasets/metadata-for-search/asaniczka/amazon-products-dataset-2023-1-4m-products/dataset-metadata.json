@@ -1,0 +1,42 @@
+{
+  "id": "asaniczka/amazon-products-dataset-2023-1-4m-products",
+  "id_no": 3798081,
+  "datasetSlugNullable": "amazon-products-dataset-2023-1-4m-products",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Products Dataset 2023 (1.4M Products)",
+  "subtitleNullable": "Scraped dataset from Sep 2023. Contains pricing & sales data",
+  "descriptionNullable": "## About the Dataset:\n\nAmazon is one of the biggest online retailers in the USA that [sells over 12 million products](https://www.bigcommerce.com/blog/amazon-statistics/). With this dataset, you can get an in-depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.\n\n&gt; If you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d\n\n### Similar datasets:\n\n[Amazon UK Products](https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023)\n\n[Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products)\n\n[Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products/data)\n\n## Interesting Task Ideas:\n\n1. Uncover trending product categories and their sales performance.\n2. Analyze customer ratings to find top-rated products.\n3. Train a product title generator that can generate sales-worthy product titles based on products with the most sales.\n4. Gain insight into the best price for any given product based on sales data and competition.\n5. Identify which niches are the easiest to make sales in.\n6. Gain insights into the general spending habits of online shoppers.\n7. Use as a seed dataset for practicing database management and performance optimization.\n8. Train (or learn to train) an AI-based search model to recommend Amazon products.\n\n\n---\n\n### Checkout my other datasets\n\n[USA Unemployment Rates by Demographics & Race](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)\n\n[USA Hispanic-White Wage Gap Dataset ](https://www.kaggle.com/datasets/asaniczka/usa-hispanic-white-wage-gap-dataset-1973-2022)\n\n[Median and Avg Hourly Wages in the USA ](https://www.kaggle.com/datasets/asaniczka/median-and-avg-hourly-wages-in-the-usa-1973-2022)\n\n[Health Insurance Coverage in the USA ](https://www.kaggle.com/datasets/asaniczka/health-insurance-coverage-in-the-usa-1979-2019)\n\n[Black-White Wage Gap in the USA Dataset](https://www.kaggle.com/datasets/asaniczka/black-white-wage-gap-in-the-usa-dataset)",
+  "datasetId": 3798081,
+  "datasetSlug": "amazon-products-dataset-2023-1-4m-products",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29681,
+  "totalVotes": 199,
+  "totalDownloads": 5697,
+  "title": "Amazon Products Dataset 2023 (1.4M Products)",
+  "hasTitle": true,
+  "subtitle": "Scraped dataset from Sep 2023. Contains pricing & sales data",
+  "hasSubtitle": true,
+  "description": "## About the Dataset:\n\nAmazon is one of the biggest online retailers in the USA that [sells over 12 million products](https://www.bigcommerce.com/blog/amazon-statistics/). With this dataset, you can get an in-depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.\n\n&gt; If you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d\n\n### Similar datasets:\n\n[Amazon UK Products](https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023)\n\n[Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products)\n\n[Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products/data)\n\n## Interesting Task Ideas:\n\n1. Uncover trending product categories and their sales performance.\n2. Analyze customer ratings to find top-rated products.\n3. Train a product title generator that can generate sales-worthy product titles based on products with the most sales.\n4. Gain insight into the best price for any given product based on sales data and competition.\n5. Identify which niches are the easiest to make sales in.\n6. Gain insights into the general spending habits of online shoppers.\n7. Use as a seed dataset for practicing database management and performance optimization.\n8. Train (or learn to train) an AI-based search model to recommend Amazon products.\n\n\n---\n\n### Checkout my other datasets\n\n[USA Unemployment Rates by Demographics & Race](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)\n\n[USA Hispanic-White Wage Gap Dataset ](https://www.kaggle.com/datasets/asaniczka/usa-hispanic-white-wage-gap-dataset-1973-2022)\n\n[Median and Avg Hourly Wages in the USA ](https://www.kaggle.com/datasets/asaniczka/median-and-avg-hourly-wages-in-the-usa-1973-2022)\n\n[Health Insurance Coverage in the USA ](https://www.kaggle.com/datasets/asaniczka/health-insurance-coverage-in-the-usa-1979-2019)\n\n[Black-White Wage Gap in the USA Dataset](https://www.kaggle.com/datasets/asaniczka/black-white-wage-gap-in-the-usa-dataset)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

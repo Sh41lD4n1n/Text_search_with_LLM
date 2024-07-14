@@ -1,0 +1,44 @@
+{
+  "id": "ritikbompilwar/fishes-species-in-the-indian-subcontinent",
+  "id_no": 2447339,
+  "datasetSlugNullable": "fishes-species-in-the-indian-subcontinent",
+  "ownerUserNullable": "ritikbompilwar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fishes Species in the Indian Sub-Continent",
+  "subtitleNullable": "Object Detection Dataset for Fish Recognition",
+  "descriptionNullable": "# StockFish : DEEP LEARNING BASED FISH SPECIES RECOGNITION FOR STOCK ANALYSIS.\n\nThe initial 270 images of 5 species of fishes majorly found in Indian Sub-continent namely Catla (Thala), Hypophthalmichthys molitrix (Silver carp), Labeo rohita (Rohu), Cirrhinus mrigala (Mori), Cyprinus carpio (Common carp) and Ctenopharyngodon idella (Grass carp) were acquired from [1].\n\nThe images were then resized to 640x640 pixel. Varoius Data Augmentation techniques were employed to remove class imbalance and make the number of images in each of the five classes to be ~200 each. Finally a dataset of 1033 images was created.\n\nThen all the images were annotated using bounding box annotaion in the Pascal VOC format to create the object detection Dataset. The datset was then split into 70:20:10 for Training, Validation and Test dataset.\n\nReferences\n[1] Shah, Syed Zakir Hussain ; Rauf, Hafiz Tayyab; lali, IkramUllah; Bukhari, Syed Ahmad Chan; Khalid, Malik Shahzaib; Farooq, Muhammad ; Fatima, Mahroze (2019), \u201cFish-Pak: Fish Species Dataset from Pakistan for Visual Features Based Classification\u201d, Mendeley Data, V3, doi: 10.17632/n3ydw29sbz.3",
+  "datasetId": 2447339,
+  "datasetSlug": "fishes-species-in-the-indian-subcontinent",
+  "hasDatasetSlug": true,
+  "ownerUser": "ritikbompilwar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4134,
+  "totalVotes": 12,
+  "totalDownloads": 351,
+  "title": "Fishes Species in the Indian Sub-Continent",
+  "hasTitle": true,
+  "subtitle": "Object Detection Dataset for Fish Recognition",
+  "hasSubtitle": true,
+  "description": "# StockFish : DEEP LEARNING BASED FISH SPECIES RECOGNITION FOR STOCK ANALYSIS.\n\nThe initial 270 images of 5 species of fishes majorly found in Indian Sub-continent namely Catla (Thala), Hypophthalmichthys molitrix (Silver carp), Labeo rohita (Rohu), Cirrhinus mrigala (Mori), Cyprinus carpio (Common carp) and Ctenopharyngodon idella (Grass carp) were acquired from [1].\n\nThe images were then resized to 640x640 pixel. Varoius Data Augmentation techniques were employed to remove class imbalance and make the number of images in each of the five classes to be ~200 each. Finally a dataset of 1033 images was created.\n\nThen all the images were annotated using bounding box annotaion in the Pascal VOC format to create the object detection Dataset. The datset was then split into 70:20:10 for Training, Validation and Test dataset.\n\nReferences\n[1] Shah, Syed Zakir Hussain ; Rauf, Hafiz Tayyab; lali, IkramUllah; Bukhari, Syed Ahmad Chan; Khalid, Malik Shahzaib; Farooq, Muhammad ; Fatima, Mahroze (2019), \u201cFish-Pak: Fish Species Dataset from Pakistan for Visual Features Based Classification\u201d, Mendeley Data, V3, doi: 10.17632/n3ydw29sbz.3",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "asia",
+    "biology",
+    "computer science",
+    "computer vision",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ash2703/handsignimages",
+  "id_no": 589922,
+  "datasetSlugNullable": "handsignimages",
+  "ownerUserNullable": "ash2703",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "hand-sign-images",
+  "subtitleNullable": "Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks",
+  "descriptionNullable": "The Sign Language MNIST is presented here and follows the jpeg image format with labels . The American Sign Language letter database of hand gestures represent a multi-class problem with 24 classes of letters (excluding J and Z which require motion).\nThis dataset has been adopted from [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist#sign_mnist_test.csv), converting csv file into images also decreasing the overall size of database.\n\nThere are a total of 27,455 gray-scale images of size 28*28 pixels whose value range between 0-255.  Each case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions). \nThe data is stored in a sorted manner and compatible to be used with data flow generators in Tensorflow API. Every folder is named according to the class of Images stored inside it, making it easy to load and visualize. The images are stored in 'JPEG' file format. \nThe original hand gesture image data represented multiple users repeating the gesture against different backgrounds. The Sign Language MNIST data came from greatly extending the small number (1704) of the color images included as not cropped around the hand region of interest. To create new data, an image pipeline was used based on ImageMagick and included cropping to hands-only, gray-scaling, resizing, and then creating at least 50+ variations to enlarge the quantity. The modification and expansion strategy was filters ('Mitchell', 'Robidoux', 'Catrom', 'Spline', 'Hermite'), along with 5% random pixelation, +/- 15% brightness/contrast, and finally 3 degrees rotation. Because of the tiny size of the images, these modifications effectively alter the resolution and class separation in interesting, controllable ways.\n",
+  "datasetId": 589922,
+  "datasetSlug": "handsignimages",
+  "hasDatasetSlug": true,
+  "ownerUser": "ash2703",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 25612,
+  "totalVotes": 45,
+  "totalDownloads": 3225,
+  "title": "hand-sign-images",
+  "hasTitle": true,
+  "subtitle": "Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks",
+  "hasSubtitle": true,
+  "description": "The Sign Language MNIST is presented here and follows the jpeg image format with labels . The American Sign Language letter database of hand gestures represent a multi-class problem with 24 classes of letters (excluding J and Z which require motion).\nThis dataset has been adopted from [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist#sign_mnist_test.csv), converting csv file into images also decreasing the overall size of database.\n\nThere are a total of 27,455 gray-scale images of size 28*28 pixels whose value range between 0-255.  Each case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions). \nThe data is stored in a sorted manner and compatible to be used with data flow generators in Tensorflow API. Every folder is named according to the class of Images stored inside it, making it easy to load and visualize. The images are stored in 'JPEG' file format. \nThe original hand gesture image data represented multiple users repeating the gesture against different backgrounds. The Sign Language MNIST data came from greatly extending the small number (1704) of the color images included as not cropped around the hand region of interest. To create new data, an image pipeline was used based on ImageMagick and included cropping to hands-only, gray-scaling, resizing, and then creating at least 50+ variations to enlarge the quantity. The modification and expansion strategy was filters ('Mitchell', 'Robidoux', 'Catrom', 'Spline', 'Hermite'), along with 5% random pixelation, +/- 15% brightness/contrast, and finally 3 degrees rotation. Because of the tiny size of the images, these modifications effectively alter the resolution and class separation in interesting, controllable ways.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "software",
+    "computer vision",
+    "lstm",
+    "cnn",
+    "rnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

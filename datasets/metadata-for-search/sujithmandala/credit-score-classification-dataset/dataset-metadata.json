@@ -1,0 +1,41 @@
+{
+  "id": "sujithmandala/credit-score-classification-dataset",
+  "id_no": 3304781,
+  "datasetSlugNullable": "credit-score-classification-dataset",
+  "ownerUserNullable": "sujithmandala",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Credit Score Classification Dataset",
+  "subtitleNullable": "Easy Credit Score Classification Dataset for Multiple Classification.",
+  "descriptionNullable": "**This dataset contains information about a sample of over 100 people across the world. The data includes the following information:**\n\n1. Age\n2. Gender\n3. Income\n4. Education\n5. Marital Status\n6. Number of Children\n7. Home Ownership\n8. Credit Score",
+  "datasetId": 3304781,
+  "datasetSlug": "credit-score-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujithmandala",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18433,
+  "totalVotes": 81,
+  "totalDownloads": 3404,
+  "title": "Credit Score Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Easy Credit Score Classification Dataset for Multiple Classification.",
+  "hasSubtitle": true,
+  "description": "**This dataset contains information about a sample of over 100 people across the world. The data includes the following information:**\n\n1. Age\n2. Gender\n3. Income\n4. Education\n5. Marital Status\n6. Number of Children\n7. Home Ownership\n8. Credit Score",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "banking",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

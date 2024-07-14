@@ -1,0 +1,39 @@
+{
+  "id": "muratkokludataset/rice-dataset-commeo-and-osmancik",
+  "id_no": 2048923,
+  "datasetSlugNullable": "rice-dataset-commeo-and-osmancik",
+  "ownerUserNullable": "muratkokludataset",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Rice Dataset Commeo and Osmancik",
+  "subtitleNullable": "Rice Dataset: 2 Class Commeo and Osmancik Rice",
+  "descriptionNullable": "DATASET: https://www.muratkoklu.com/datasets/\n\n1: KOKLU, M., CINAR, I. and TASPINAR, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285.\nDOI: https://doi.org/10.1016/j.compag.2021.106285\n\n2: CINAR, I. and KOKLU, M. (2021). Determination of Effective and Specific Physical Features of Rice Varieties by Computer Vision In Exterior Quality Inspection. Selcuk Journal of Agriculture and Food Sciences, 35(3), 229-243.\nDOI: https://doi.org/10.15316/SJAFS.2021.252\n\n3: CINAR, I. and KOKLU, M. (2022). Identification of Rice Varieties Using Machine Learning Algorithms. Journal of Agricultural Sciences, 28 (2), 307-325.\nDOI: https://doi.org/10.15832/ankutbd.862482\n\n4: CINAR, I. and KOKLU, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, 7(3), 188-194.\nDOI: https://doi.org/10.18201/ijisae.2019355381\n\nRelevant Papers / Citation Requests / Acknowledgements:\nCinar, I. and Koklu, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, vol.7, no.3 (Sep. 2019), pp.188-194. https://doi.org/10.18201/ijisae.2019355381.\n\nData Set Name: Rice Dataset (Commeo and Osmancik)\nAbstract: A total of 3810 rice grain's images were taken for the two species (Cammeo and Osmancik), processed and feature inferences were made. 7 morphological features were obtained for each grain of rice.\t\n\nSource:\nIlkay CINAR\nGraduate School of Natural and Applied Sciences, \nSelcuk University, Konya, TURKEY\nilkay_cinar@hotmail.com\n\nMurat KOKLU\nFaculty of Technology, \nSelcuk University, Konya, TURKEY.\nmkoklu@selcuk.edu.tr\n\nDATASET: https://www.muratkoklu.com/datasets/\n\nRelevant Information: In order to classify the rice varieties (Cammeo and Osmancik) used, preliminary processing was applied to the pictures obtained with computer vision system and a total of 3810 rice grains were obtained. Furthermore, 7 morphological features have been inferred for each grain.  A data set has been created for the properties obtained.\n\nAttribute Information:\n1. Area: Returns the number of pixels within the boundaries of the rice grain.\n2. Perimeter: Calculates the circumference by calculating the distance between pixels around the boundaries of the rice grain.\n3. Major Axis Length: The longest line that can be drawn on the rice grain, i.e. the main axis distance, gives.\n4. Minor Axis Length: The shortest line that can be drawn on the rice grain, i.e. the small axis distance, gives.\n5. Eccentricity: It measures how round the ellipse, which has the same moments as the rice grain, is.\n6. Convex Area: Returns the pixel count of the smallest convex shell of the region formed by the rice grain.\n7. Extent: Returns the ratio of the region formed by the rice grain to the bounding box pixels\n8. Class: Commeo and Osmancik.\n\nRelevant Papers / Citation Requests / Acknowledgements:\nCinar, I. and Koklu, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, vol.7, no.3 (Sep. 2019), pp.188-194. https://doi.org/10.18201/ijisae.2019355381.",
+  "datasetId": 2048923,
+  "datasetSlug": "rice-dataset-commeo-and-osmancik",
+  "hasDatasetSlug": true,
+  "ownerUser": "muratkokludataset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 11733,
+  "totalVotes": 1426,
+  "totalDownloads": 1554,
+  "title": "Rice Dataset Commeo and Osmancik",
+  "hasTitle": true,
+  "subtitle": "Rice Dataset: 2 Class Commeo and Osmancik Rice",
+  "hasSubtitle": true,
+  "description": "DATASET: https://www.muratkoklu.com/datasets/\n\n1: KOKLU, M., CINAR, I. and TASPINAR, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285.\nDOI: https://doi.org/10.1016/j.compag.2021.106285\n\n2: CINAR, I. and KOKLU, M. (2021). Determination of Effective and Specific Physical Features of Rice Varieties by Computer Vision In Exterior Quality Inspection. Selcuk Journal of Agriculture and Food Sciences, 35(3), 229-243.\nDOI: https://doi.org/10.15316/SJAFS.2021.252\n\n3: CINAR, I. and KOKLU, M. (2022). Identification of Rice Varieties Using Machine Learning Algorithms. Journal of Agricultural Sciences, 28 (2), 307-325.\nDOI: https://doi.org/10.15832/ankutbd.862482\n\n4: CINAR, I. and KOKLU, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, 7(3), 188-194.\nDOI: https://doi.org/10.18201/ijisae.2019355381\n\nRelevant Papers / Citation Requests / Acknowledgements:\nCinar, I. and Koklu, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, vol.7, no.3 (Sep. 2019), pp.188-194. https://doi.org/10.18201/ijisae.2019355381.\n\nData Set Name: Rice Dataset (Commeo and Osmancik)\nAbstract: A total of 3810 rice grain's images were taken for the two species (Cammeo and Osmancik), processed and feature inferences were made. 7 morphological features were obtained for each grain of rice.\t\n\nSource:\nIlkay CINAR\nGraduate School of Natural and Applied Sciences, \nSelcuk University, Konya, TURKEY\nilkay_cinar@hotmail.com\n\nMurat KOKLU\nFaculty of Technology, \nSelcuk University, Konya, TURKEY.\nmkoklu@selcuk.edu.tr\n\nDATASET: https://www.muratkoklu.com/datasets/\n\nRelevant Information: In order to classify the rice varieties (Cammeo and Osmancik) used, preliminary processing was applied to the pictures obtained with computer vision system and a total of 3810 rice grains were obtained. Furthermore, 7 morphological features have been inferred for each grain.  A data set has been created for the properties obtained.\n\nAttribute Information:\n1. Area: Returns the number of pixels within the boundaries of the rice grain.\n2. Perimeter: Calculates the circumference by calculating the distance between pixels around the boundaries of the rice grain.\n3. Major Axis Length: The longest line that can be drawn on the rice grain, i.e. the main axis distance, gives.\n4. Minor Axis Length: The shortest line that can be drawn on the rice grain, i.e. the small axis distance, gives.\n5. Eccentricity: It measures how round the ellipse, which has the same moments as the rice grain, is.\n6. Convex Area: Returns the pixel count of the smallest convex shell of the region formed by the rice grain.\n7. Extent: Returns the ratio of the region formed by the rice grain to the bounding box pixels\n8. Class: Commeo and Osmancik.\n\nRelevant Papers / Citation Requests / Acknowledgements:\nCinar, I. and Koklu, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, vol.7, no.3 (Sep. 2019), pp.188-194. https://doi.org/10.18201/ijisae.2019355381.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

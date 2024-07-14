@@ -1,0 +1,39 @@
+{
+  "id": "asemmustafa/fake-news-csv",
+  "id_no": 4810525,
+  "datasetSlugNullable": "fake-news-csv",
+  "ownerUserNullable": "asemmustafa",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Fake News .csv",
+  "subtitleNullable": "fake news as tweets in tweeter",
+  "descriptionNullable": "The research on fake news and machine learning focuses on using advanced techniques to detect and classify fake news from real news. Various studies have shown the effectiveness of machine learning models, such as Naive Bayes Classifier, in distinguishing between fake and true news based on language patterns and content analysis\n\nEfforts have been made to automate the detection of fake news due to the limitations of human ability in consistently identifying fake news. Machine learning and natural language processing techniques have been employed to create tools that can analyze language patterns and classify news articles as real or fake, demonstrating the potential of machine learning in this task\n1\n5\n. While some deep learning models have been explored, they may require more data to predict accurately for fake news detection",
+  "datasetId": 4810525,
+  "datasetSlug": "fake-news-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "asemmustafa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 198,
+  "totalVotes": 3,
+  "totalDownloads": 28,
+  "title": "Fake News .csv",
+  "hasTitle": true,
+  "subtitle": "fake news as tweets in tweeter",
+  "hasSubtitle": true,
+  "description": "The research on fake news and machine learning focuses on using advanced techniques to detect and classify fake news from real news. Various studies have shown the effectiveness of machine learning models, such as Naive Bayes Classifier, in distinguishing between fake and true news based on language patterns and content analysis\n\nEfforts have been made to automate the detection of fake news due to the limitations of human ability in consistently identifying fake news. Machine learning and natural language processing techniques have been employed to create tools that can analyze language patterns and classify news articles as real or fake, demonstrating the potential of machine learning in this task\n1\n5\n. While some deep learning models have been explored, they may require more data to predict accurately for fake news detection",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

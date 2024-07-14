@@ -1,0 +1,40 @@
+{
+  "id": "divaniazzahra/mental-health-dataset",
+  "id_no": 4553564,
+  "datasetSlugNullable": "mental-health-dataset",
+  "ownerUserNullable": "divaniazzahra",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health Dataset",
+  "subtitleNullable": "Mental Health: Understanding the Factors that Affect Mental Health",
+  "descriptionNullable": "This dataset records a global survey conducted to track trends in mental health. The data covers a range of variables such as levels of stress, depression, anxiety, subjective well-being, and use of mental health services. The survey involved respondents from various demographic backgrounds, including gender, employment status, and geographic region. This dataset aims to provide a better understanding of changes in mental health globally over the specified time period.",
+  "datasetId": 4553564,
+  "datasetSlug": "mental-health-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "divaniazzahra",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13555,
+  "totalVotes": 44,
+  "totalDownloads": 2542,
+  "title": "Mental Health Dataset",
+  "hasTitle": true,
+  "subtitle": "Mental Health: Understanding the Factors that Affect Mental Health",
+  "hasSubtitle": true,
+  "description": "This dataset records a global survey conducted to track trends in mental health. The data covers a range of variables such as levels of stress, depression, anxiety, subjective well-being, and use of mental health services. The survey involved respondents from various demographic backgrounds, including gender, employment status, and geographic region. This dataset aims to provide a better understanding of changes in mental health globally over the specified time period.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "people and society"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

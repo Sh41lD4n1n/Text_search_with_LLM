@@ -1,0 +1,39 @@
+{
+  "id": "zusmani/hadithsahibukhari",
+  "id_no": 4345,
+  "datasetSlugNullable": "hadithsahibukhari",
+  "ownerUserNullable": "zusmani",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Hadith Project",
+  "subtitleNullable": "Chain of Narrators - Deep Learning for Authentication ",
+  "descriptionNullable": "### Context\n\nA Hadith is a report describing the words, actions, intentions or habits of the last Prophet and Messenger Muhammed (Peace Be Upon Him). The term literally means report, account or narrative.\n\n\u1e62a\u1e25\u012b\u1e25 al-Bukh\u0101r\u012b  ([\u0635\u062d\u064a\u062d \u0627\u0644\u0628\u062e\u0627\u0631\u064a\u200e\u200e)][1], is one of the [six major][2] hadith collections books. It was collected by a Muslim scholar Imam Muhammad al-Bukhari, after being transmitted orally for generations. There are 7,658 full hadiths in this collection narrated by 1,755 narrators/transmitters.\n\nImam Bukhari finished his work around 846 A.D.\n\n### Content\n\nThe two main sources of data regarding hadith are works of hadith and works containing biographical information about hadith narrators. The dataset contains 7,658 hadiths in Arabic and the names of 1,755 transmitters. Imam Bukhari followed the following criterion to include a hadith in this book. \n\n1.\tQuality and soundness of chain of narrators - the lifetime of a narrator should overlap with the lifetime of the authority from whom he narrates. \n\n2.\tVerifiable - it should be verifiable that narrators have met with their source persons. They should also expressly state that they obtained the narrative from these authorities. \n\n3.\tPiousness \u2013 he only accepted the narratives from only those who, according to his knowledge, not only believed in Islam but practiced its teachings.\n\n### Acknowledgements\n\nMore information on Hadith and Sahih Bukhari can be found from this link - [Hadith Books][3]\n\n### Inspiration\n\nHere are some ideas worth exploring:\n\n1.\tThe traditional criteria for determining if a hadith is Sahih (authentic) requires that there should be an uninterrupted chain of narrators; that all those narrators should be highly reliable and there should not be any hidden defects. Can we make a social network graph of all the narrators and then timestamp it with their age and era to see who overlaps who?\n\n2.\tThe name of a transmitter mentioned in a given hadith is not the full name, and many transmitters have similar names. So identifying who is the transmitter of a given hadith based on the names mentioned in the text might be a good problem to tackle\n\n3.\tCan we analyze the chains of transmitters for entire collections using Neo4j or some other graph database\n\n4.\tThere exist different chains that reports the same hadith with little variation of words, can you identify those\n\n5.\tCan you link the text with other external data sources?\n\n6.\tCan we produce the word cloud for each chapter of the book?\n\n7.\tCan we train a neural network to authenticate if the hadith is real or not?\n\n8.\tCan we find out the specific style or vocabulary of each narrator?\n\n9.\tCan we develop a system for comparing variant wordings for the same hadith to identify how reliable a given transmitter is.\n\n\t\nPlease also help me extend this dataset. If you have any other hadith book in CSV or text format, please send me a message and I will add.\n\n\n  [1]: https://en.wikipedia.org/wiki/Sahih_al-Bukhari\n  [2]: https://en.wikipedia.org/wiki/Kutub_al-Sittah\n  [3]: http://www.quranexplorer.com/hadithebook/english/index.html",
+  "datasetId": 4345,
+  "datasetSlug": "hadithsahibukhari",
+  "hasDatasetSlug": true,
+  "ownerUser": "zusmani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 27629,
+  "totalVotes": 128,
+  "totalDownloads": 1159,
+  "title": "Hadith Project",
+  "hasTitle": true,
+  "subtitle": "Chain of Narrators - Deep Learning for Authentication ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA Hadith is a report describing the words, actions, intentions or habits of the last Prophet and Messenger Muhammed (Peace Be Upon Him). The term literally means report, account or narrative.\n\n\u1e62a\u1e25\u012b\u1e25 al-Bukh\u0101r\u012b  ([\u0635\u062d\u064a\u062d \u0627\u0644\u0628\u062e\u0627\u0631\u064a\u200e\u200e)][1], is one of the [six major][2] hadith collections books. It was collected by a Muslim scholar Imam Muhammad al-Bukhari, after being transmitted orally for generations. There are 7,658 full hadiths in this collection narrated by 1,755 narrators/transmitters.\n\nImam Bukhari finished his work around 846 A.D.\n\n### Content\n\nThe two main sources of data regarding hadith are works of hadith and works containing biographical information about hadith narrators. The dataset contains 7,658 hadiths in Arabic and the names of 1,755 transmitters. Imam Bukhari followed the following criterion to include a hadith in this book. \n\n1.\tQuality and soundness of chain of narrators - the lifetime of a narrator should overlap with the lifetime of the authority from whom he narrates. \n\n2.\tVerifiable - it should be verifiable that narrators have met with their source persons. They should also expressly state that they obtained the narrative from these authorities. \n\n3.\tPiousness \u2013 he only accepted the narratives from only those who, according to his knowledge, not only believed in Islam but practiced its teachings.\n\n### Acknowledgements\n\nMore information on Hadith and Sahih Bukhari can be found from this link - [Hadith Books][3]\n\n### Inspiration\n\nHere are some ideas worth exploring:\n\n1.\tThe traditional criteria for determining if a hadith is Sahih (authentic) requires that there should be an uninterrupted chain of narrators; that all those narrators should be highly reliable and there should not be any hidden defects. Can we make a social network graph of all the narrators and then timestamp it with their age and era to see who overlaps who?\n\n2.\tThe name of a transmitter mentioned in a given hadith is not the full name, and many transmitters have similar names. So identifying who is the transmitter of a given hadith based on the names mentioned in the text might be a good problem to tackle\n\n3.\tCan we analyze the chains of transmitters for entire collections using Neo4j or some other graph database\n\n4.\tThere exist different chains that reports the same hadith with little variation of words, can you identify those\n\n5.\tCan you link the text with other external data sources?\n\n6.\tCan we produce the word cloud for each chapter of the book?\n\n7.\tCan we train a neural network to authenticate if the hadith is real or not?\n\n8.\tCan we find out the specific style or vocabulary of each narrator?\n\n9.\tCan we develop a system for comparing variant wordings for the same hadith to identify how reliable a given transmitter is.\n\n\t\nPlease also help me extend this dataset. If you have any other hadith book in CSV or text format, please send me a message and I will add.\n\n\n  [1]: https://en.wikipedia.org/wiki/Sahih_al-Bukhari\n  [2]: https://en.wikipedia.org/wiki/Kutub_al-Sittah\n  [3]: http://www.quranexplorer.com/hadithebook/english/index.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "religion and belief systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

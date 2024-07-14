@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/reddit-on-israel-palestine-daily-updated",
+  "id_no": 3848678,
+  "datasetSlugNullable": "reddit-on-israel-palestine-daily-updated",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Daily Public Opinion on Israel-Palestine War",
+  "subtitleNullable": "Comments from reddit on posts related to the current war. Updated Daily",
+  "descriptionNullable": "The Israel-Palestine conflict has been a highly discussed and sensitive topic in recent times. \n\nThis dataset contains comments from Reddit posts related to the current situation in Israel and Gaza. \n\nBy analyzing these comments, you can gain insights into the biases and affiliations of the commenters, as well as their support for different parties involved. \n\n**This dataset is updated daily**, providing a comprehensive and up-to-date view of the sentiments expressed on Reddit regarding this conflict.\n\n&gt; If you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\n## Interesting Task Ideas:\n\n1. Perform sentiment analysis to determine the overall sentiment of the comments towards Israel and Palestine.\n2. Identify the most biased subreddits and understand their stance on the conflict.\n3. Analyze the comment scores to uncover trends and popular opinions.\n4. Explore temporal patterns to understand how sentiments evolved over time.\n5. Determine the most commonly used keywords and phrases in the comments.\n6. Investigate the relationship between subreddit affiliations and the sentiments expressed.\n7. Identify the most common emotions found in the comments.\n8. Analyze the most popular posting hours to determine the location of the authors\n9. Investigate the response of users to the sentiment of the comment by analyzing the scores for different comment sentiments\n\n## 2023-11-19 Update\n\n- Since a few kagglers asked to add more data points to this dataset, i've created a new csv called \"reddit_opinion_PSE_ISR.csv\".\n\n&gt; This csv has data about the **comment, the author of the comment, and the post the comment was posted on**. \n\n- This is a denormalized dataset. You can normalize the dataset by splitting posts, comments, and user data into 3 seperate tables/dataframes.\n- Old dataset csv can be found inside the *legacy* folder. Old csv won't be updated daily\n- On the new version, there are no duplicate comment ids, but there will be duplicate posts (post ids) since a post can have many comments, and authors (author names) since a single user can leave many comments.",
+  "datasetId": 3848678,
+  "datasetSlug": "reddit-on-israel-palestine-daily-updated",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12063,
+  "totalVotes": 154,
+  "totalDownloads": 2141,
+  "title": "Daily Public Opinion on Israel-Palestine War",
+  "hasTitle": true,
+  "subtitle": "Comments from reddit on posts related to the current war. Updated Daily",
+  "hasSubtitle": true,
+  "description": "The Israel-Palestine conflict has been a highly discussed and sensitive topic in recent times. \n\nThis dataset contains comments from Reddit posts related to the current situation in Israel and Gaza. \n\nBy analyzing these comments, you can gain insights into the biases and affiliations of the commenters, as well as their support for different parties involved. \n\n**This dataset is updated daily**, providing a comprehensive and up-to-date view of the sentiments expressed on Reddit regarding this conflict.\n\n&gt; If you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d \n\n## Interesting Task Ideas:\n\n1. Perform sentiment analysis to determine the overall sentiment of the comments towards Israel and Palestine.\n2. Identify the most biased subreddits and understand their stance on the conflict.\n3. Analyze the comment scores to uncover trends and popular opinions.\n4. Explore temporal patterns to understand how sentiments evolved over time.\n5. Determine the most commonly used keywords and phrases in the comments.\n6. Investigate the relationship between subreddit affiliations and the sentiments expressed.\n7. Identify the most common emotions found in the comments.\n8. Analyze the most popular posting hours to determine the location of the authors\n9. Investigate the response of users to the sentiment of the comment by analyzing the scores for different comment sentiments\n\n## 2023-11-19 Update\n\n- Since a few kagglers asked to add more data points to this dataset, i've created a new csv called \"reddit_opinion_PSE_ISR.csv\".\n\n&gt; This csv has data about the **comment, the author of the comment, and the post the comment was posted on**. \n\n- This is a denormalized dataset. You can normalize the dataset by splitting posts, comments, and user data into 3 seperate tables/dataframes.\n- Old dataset csv can be found inside the *legacy* folder. Old csv won't be updated daily\n- On the new version, there are no duplicate comment ids, but there will be duplicate posts (post ids) since a post can have many comments, and authors (author names) since a single user can leave many comments.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "data analytics",
+    "social issues and advocacy",
+    "online communities",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "rituparnaghosh18/transformed-housing-data-2",
+  "id_no": 5179102,
+  "datasetSlugNullable": "transformed-housing-data-2",
+  "ownerUserNullable": "rituparnaghosh18",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Transformed Housing Data 2",
+  "subtitleNullable": "Data regarding Sale Prices of several houses and their respective features",
+  "descriptionNullable": "This house costing data is transformed for data modelling and is the updated version of my previous dataset 'Transformed Housing Data'. The updation is the creation of dummy variables of certain categorical features for modelling purpose. There are a total of 31 columns, out of which Sale Price can be supposedly taken as a dependent variable. The other variables are different features, locations and date, etc. regarding the houses. Several EDA or regression modelling can be performed in this data after a little polishing and treatment.",
+  "datasetId": 5179102,
+  "datasetSlug": "transformed-housing-data-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "rituparnaghosh18",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 67,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Transformed Housing Data 2",
+  "hasTitle": true,
+  "subtitle": "Data regarding Sale Prices of several houses and their respective features",
+  "hasSubtitle": true,
+  "description": "This house costing data is transformed for data modelling and is the updated version of my previous dataset 'Transformed Housing Data'. The updation is the creation of dummy variables of certain categorical features for modelling purpose. There are a total of 31 columns, out of which Sale Price can be supposedly taken as a dependent variable. The other variables are different features, locations and date, etc. regarding the houses. Several EDA or regression modelling can be performed in this data after a little polishing and treatment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "data visualization",
+    "statistical analysis",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

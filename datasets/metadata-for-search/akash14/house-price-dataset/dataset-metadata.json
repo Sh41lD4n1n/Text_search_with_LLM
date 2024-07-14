@@ -1,0 +1,40 @@
+{
+  "id": "akash14/house-price-dataset",
+  "id_no": 895675,
+  "datasetSlugNullable": "house-price-dataset",
+  "ownerUserNullable": "akash14",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "House Price Dataset",
+  "subtitleNullable": "House prices in India",
+  "descriptionNullable": "### Context\n\nHouse Price Prediction Challenge\n\n\n### Content\n\nWelcome to the House Price Prediction Challenge, you will test your regression skills by designing an algorithm to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. It can be extremely difficult to figure out the right set of attributes that are contributing to understanding the buyer's behavior as such. This dataset has been collected across various property aggregators across India.  In this competition, provided the 12 influencing factors your role as a data scientist is to predict the prices as accurately as possible.\n\n\n### Acknowledgements\n\nFrom MachineHack\n\n\n### Attributes Description:\nPOSTED_BY - Category marking who has listed the property\nUNDER_CONSTRUCTION - Under Construction or Not\nRERA - Rera approved or Not\nBHK_NO - Number of Rooms\nBHK_OR_RK - Type of property\nSQUARE_FT - Total area of the house in square feet\nREADY_TO_MOVE - Category marking Ready to move or Not\nRESALE - Category marking Resale or not\nADDRESS - Address of the property\nLONGITUDE - Longitude of the property\nLATITUDE - Latitude of the property",
+  "datasetId": 895675,
+  "datasetSlug": "house-price-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "akash14",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29148,
+  "totalVotes": 48,
+  "totalDownloads": 5079,
+  "title": "House Price Dataset",
+  "hasTitle": true,
+  "subtitle": "House prices in India",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHouse Price Prediction Challenge\n\n\n### Content\n\nWelcome to the House Price Prediction Challenge, you will test your regression skills by designing an algorithm to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. It can be extremely difficult to figure out the right set of attributes that are contributing to understanding the buyer's behavior as such. This dataset has been collected across various property aggregators across India.  In this competition, provided the 12 influencing factors your role as a data scientist is to predict the prices as accurately as possible.\n\n\n### Acknowledgements\n\nFrom MachineHack\n\n\n### Attributes Description:\nPOSTED_BY - Category marking who has listed the property\nUNDER_CONSTRUCTION - Under Construction or Not\nRERA - Rera approved or Not\nBHK_NO - Number of Rooms\nBHK_OR_RK - Type of property\nSQUARE_FT - Total area of the house in square feet\nREADY_TO_MOVE - Category marking Ready to move or Not\nRESALE - Category marking Resale or not\nADDRESS - Address of the property\nLONGITUDE - Longitude of the property\nLATITUDE - Latitude of the property",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "religion and belief systems",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

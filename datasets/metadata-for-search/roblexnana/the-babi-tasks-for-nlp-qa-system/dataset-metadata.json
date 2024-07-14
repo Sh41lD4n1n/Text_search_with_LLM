@@ -1,0 +1,44 @@
+{
+  "id": "roblexnana/the-babi-tasks-for-nlp-qa-system",
+  "id_no": 657043,
+  "datasetSlugNullable": "the-babi-tasks-for-nlp-qa-system",
+  "ownerUserNullable": "roblexnana",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "The bAbI tasks data",
+  "subtitleNullable": "Towards AI Complete Question Answering: A Set of Prerequisite Toy Tasks",
+  "descriptionNullable": "### Context\nThis dataset   presents the first set of 20 tasks for testing text understanding and reasoning in the bAbI project. The tasks are described in detail in the paper: **Jason Weston, Antoine Bordes, Sumit Chopra, Alexander M. Rush, Bart van Merri\u00ebnboer, Armand Joulin and Tomas Mikolov.** [Towards AI Complete Question Answering: A Set of Prerequisite Toy Tasks, arXiv:1502.05698.](https://arxiv.org/pdf/1502.05698.pdf)\n\nPlease also see the following slides:\n[Antoine Bordes Artificial Tasks for Artificial Intelligence, ICLR keynote, 2015.](http://www.thespermwhale.com/jaseweston/babi/abordes-ICLR.pdf)\n\nThe aim is that each task tests a unique aspect of text and reasoning, and hence test different capabilities of learning models. More tasks are planned in the future to capture more aspects.\n\n### Content\n\n**Training Set Size:** For each task, there are 1000 questions for training, and 1000 for testing. However, we emphasize that the goal is to use as little data as possible to do well on the tasks (i.e. if you can use less than 1000 that\u2019s even better) \u2014 and without resorting to engineering task-specific tricks that will not generalize to other tasks, as they may not be of much use subsequently. Note that the aim during evaluation is to use the _same_ learner across all tasks to evaluate its skills and capabilities.\n\n**Supervision Signal:** Further while the MemNN results in the paper use full supervision (including of the supporting facts) results with weak supervision would also be ultimately preferable as this kind of data is easier to collect. Hence results of that form are very welcome. E.g. [this paper](https://arxiv.org/pdf/1503.08895.pdf) does include weakly supervised results.\n\nFor the reasons above there are currently several directories:\n\n    1) en/ \u2014 the tasks in English, readable by humans.\n    2) hn/ \u2014 the tasks in Hindi, readable by humans.\n    3) shuffled/ \u2014 the same tasks with shuffled letters so they are not readable by humans, and for existing parsers and taggers cannot be used in a straight-forward fashion to leverage extra resources\u2013 in this case the learner is more forced to rely on the given training data. This mimics a learner being first presented a language and having to learn from scratch.\n    4) en-10k/ shuffled-10k/ and hn-10k/ \u2014 the same tasks in the three formats, but with 10,000 training examples, rather than 1000 training examples. Note the results in the paper use 1000 training examples.\n\n**Versions:** Some small updates since the original release have been made (see the README in the data download for more details). You can also get v1.0 and v1.1 [here](https://research.fb.com/downloads/babi/).\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n### Inspiration\n\nThe aim is to encourage the machine learning community to work on, and develop more, of these tasks.\n\n### References\n- https://research.fb.com/downloads/babi/",
+  "datasetId": 657043,
+  "datasetSlug": "the-babi-tasks-for-nlp-qa-system",
+  "hasDatasetSlug": true,
+  "ownerUser": "roblexnana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 12424,
+  "totalVotes": 16,
+  "totalDownloads": 955,
+  "title": "The bAbI tasks data",
+  "hasTitle": true,
+  "subtitle": "Towards AI Complete Question Answering: A Set of Prerequisite Toy Tasks",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset   presents the first set of 20 tasks for testing text understanding and reasoning in the bAbI project. The tasks are described in detail in the paper: **Jason Weston, Antoine Bordes, Sumit Chopra, Alexander M. Rush, Bart van Merri\u00ebnboer, Armand Joulin and Tomas Mikolov.** [Towards AI Complete Question Answering: A Set of Prerequisite Toy Tasks, arXiv:1502.05698.](https://arxiv.org/pdf/1502.05698.pdf)\n\nPlease also see the following slides:\n[Antoine Bordes Artificial Tasks for Artificial Intelligence, ICLR keynote, 2015.](http://www.thespermwhale.com/jaseweston/babi/abordes-ICLR.pdf)\n\nThe aim is that each task tests a unique aspect of text and reasoning, and hence test different capabilities of learning models. More tasks are planned in the future to capture more aspects.\n\n### Content\n\n**Training Set Size:** For each task, there are 1000 questions for training, and 1000 for testing. However, we emphasize that the goal is to use as little data as possible to do well on the tasks (i.e. if you can use less than 1000 that\u2019s even better) \u2014 and without resorting to engineering task-specific tricks that will not generalize to other tasks, as they may not be of much use subsequently. Note that the aim during evaluation is to use the _same_ learner across all tasks to evaluate its skills and capabilities.\n\n**Supervision Signal:** Further while the MemNN results in the paper use full supervision (including of the supporting facts) results with weak supervision would also be ultimately preferable as this kind of data is easier to collect. Hence results of that form are very welcome. E.g. [this paper](https://arxiv.org/pdf/1503.08895.pdf) does include weakly supervised results.\n\nFor the reasons above there are currently several directories:\n\n    1) en/ \u2014 the tasks in English, readable by humans.\n    2) hn/ \u2014 the tasks in Hindi, readable by humans.\n    3) shuffled/ \u2014 the same tasks with shuffled letters so they are not readable by humans, and for existing parsers and taggers cannot be used in a straight-forward fashion to leverage extra resources\u2013 in this case the learner is more forced to rely on the given training data. This mimics a learner being first presented a language and having to learn from scratch.\n    4) en-10k/ shuffled-10k/ and hn-10k/ \u2014 the same tasks in the three formats, but with 10,000 training examples, rather than 1000 training examples. Note the results in the paper use 1000 training examples.\n\n**Versions:** Some small updates since the original release have been made (see the README in the data download for more details). You can also get v1.0 and v1.1 [here](https://research.fb.com/downloads/babi/).\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n### Inspiration\n\nThe aim is to encourage the machine learning community to work on, and develop more, of these tasks.\n\n### References\n- https://research.fb.com/downloads/babi/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "education",
+    "computer science",
+    "programming",
+    "nlp",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

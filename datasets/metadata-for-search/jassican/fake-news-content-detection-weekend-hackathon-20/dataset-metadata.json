@@ -1,0 +1,40 @@
+{
+  "id": "jassican/fake-news-content-detection-weekend-hackathon-20",
+  "id_no": 868713,
+  "datasetSlugNullable": "fake-news-content-detection-weekend-hackathon-20",
+  "ownerUserNullable": "jassican",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Fake News Content Detection: Weekend Hackathon #20",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nWelcome to another weekend hackathon, this weekend we are providing a great opportunity to the machinehackers to flex their NLP muscles again by building a fake content detection algorithm. Fake contents are everywhere from social media platforms, news platforms and there is a big list. Considering the advancement in NLP research institutes are putting a lot of sweat, blood, and tears to detect the fake content generated across the platforms.\n\nFake news, defined by the New York Times as \u201ca made-up story with an intention to deceive\u201d, often for a secondary gain, is arguably one of the most serious challenges facing the news industry today. In a December Pew Research poll, 64% of US adults said that \u201cmade-up news\u201d has caused a \u201cgreat deal of confusion\u201d about the facts of current events\n\nIn this hackathon, your goal as a data scientist is to create an NLP model, to combat fake content problems. We believe that these AI technologies hold promise for significantly automating parts of the procedure human fact-checkers use today to determine if a story is real or a hoax.\n\n\n### Content\n\nTrain.csv - 10240 rows x 3 columns (Inlcudes Labels Columns as Target)\nTest.csv - 1267 rows x 2 columns\nSample Submission.csv - Please check the Evaluation section for more details on how to generate a valid submission\nText - Raw content from social media/ new platforms\nText_Tag - Different types of content tags (9 unique products)\nLabels - Represents various classes of Labels\nHalf-True - 2\nFalse - 1\nMostly-True - 3\nTrue - 5\nBarely-True - 0\nNot-Known - 4\n\n\n### Inspiration\n\n[https://www.machinehack.com/hackathons/fake_news_content_detection_weekend_hackathon_20](https://www.machinehack.com/hackathons/fake_news_content_detection_weekend_hackathon_20)",
+  "datasetId": 868713,
+  "datasetSlug": "fake-news-content-detection-weekend-hackathon-20",
+  "hasDatasetSlug": true,
+  "ownerUser": "jassican",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 3294,
+  "totalVotes": 8,
+  "totalDownloads": 170,
+  "title": "Fake News Content Detection: Weekend Hackathon #20",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWelcome to another weekend hackathon, this weekend we are providing a great opportunity to the machinehackers to flex their NLP muscles again by building a fake content detection algorithm. Fake contents are everywhere from social media platforms, news platforms and there is a big list. Considering the advancement in NLP research institutes are putting a lot of sweat, blood, and tears to detect the fake content generated across the platforms.\n\nFake news, defined by the New York Times as \u201ca made-up story with an intention to deceive\u201d, often for a secondary gain, is arguably one of the most serious challenges facing the news industry today. In a December Pew Research poll, 64% of US adults said that \u201cmade-up news\u201d has caused a \u201cgreat deal of confusion\u201d about the facts of current events\n\nIn this hackathon, your goal as a data scientist is to create an NLP model, to combat fake content problems. We believe that these AI technologies hold promise for significantly automating parts of the procedure human fact-checkers use today to determine if a story is real or a hoax.\n\n\n### Content\n\nTrain.csv - 10240 rows x 3 columns (Inlcudes Labels Columns as Target)\nTest.csv - 1267 rows x 2 columns\nSample Submission.csv - Please check the Evaluation section for more details on how to generate a valid submission\nText - Raw content from social media/ new platforms\nText_Tag - Different types of content tags (9 unique products)\nLabels - Represents various classes of Labels\nHalf-True - 2\nFalse - 1\nMostly-True - 3\nTrue - 5\nBarely-True - 0\nNot-Known - 4\n\n\n### Inspiration\n\n[https://www.machinehack.com/hackathons/fake_news_content_detection_weekend_hackathon_20](https://www.machinehack.com/hackathons/fake_news_content_detection_weekend_hackathon_20)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

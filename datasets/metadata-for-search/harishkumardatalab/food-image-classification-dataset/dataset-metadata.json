@@ -1,0 +1,42 @@
+{
+  "id": "harishkumardatalab/food-image-classification-dataset",
+  "id_no": 3480259,
+  "datasetSlugNullable": "food-image-classification-dataset",
+  "ownerUserNullable": "harishkumardatalab",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Food Image Classification Dataset",
+  "subtitleNullable": "Taste the World: A Culinary Adventure with our Food Image Classification Dataset",
+  "descriptionNullable": "**Food Image Classification Dataset**\n- The dataset contains **24K** unique images obtained from various Google resources\n- Focuses on **35 varieties** of both Indian and Western appetizers\n- Meticulously curated images ensuring diversity and representativeness\n- Provides a solid foundation for developing robust and precise image classification algorithms\n- Encourages exploration in the fascinating field of food image classification\n\n**Warning**\nYou may get hungry and cravings ",
+  "datasetId": 3480259,
+  "datasetSlug": "food-image-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harishkumardatalab",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8502,
+  "totalVotes": 24,
+  "totalDownloads": 1831,
+  "title": "Food Image Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Taste the World: A Culinary Adventure with our Food Image Classification Dataset",
+  "hasSubtitle": true,
+  "description": "**Food Image Classification Dataset**\n- The dataset contains **24K** unique images obtained from various Google resources\n- Focuses on **35 varieties** of both Indian and Western appetizers\n- Meticulously curated images ensuring diversity and representativeness\n- Provides a solid foundation for developing robust and precise image classification algorithms\n- Encourages exploration in the fascinating field of food image classification\n\n**Warning**\nYou may get hungry and cravings ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "cnn",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

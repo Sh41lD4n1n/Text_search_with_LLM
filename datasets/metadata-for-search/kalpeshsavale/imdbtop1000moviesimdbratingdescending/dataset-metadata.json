@@ -1,0 +1,42 @@
+{
+  "id": "kalpeshsavale/imdbtop1000moviesimdbratingdescending",
+  "id_no": 1929217,
+  "datasetSlugNullable": "imdbtop1000moviesimdbratingdescending",
+  "ownerUserNullable": "kalpeshsavale",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "imdb-top-1000-movies-(imdb-rating-descending)",
+  "subtitleNullable": "Dataset about all top 1000 movies  rating by imdb.",
+  "descriptionNullable": "### Context\n\nIMDb (also known as the Internet Movie Database) is an online database of information related to movies, it combines movie plot Metastore ratings, critic and user ratings, and release year.\n\n\n### Content\n\nThis dataset includes IMDB top 1,000 movies of all time with attributes such as Title, Ratings, Year, Genre, etc.\n\n### Acknowledgements\n\nThe data in this dataset has been scraped using Python BeautifulSoup from the publicly available website https://www.imdb.com.\n\n",
+  "datasetId": 1929217,
+  "datasetSlug": "imdbtop1000moviesimdbratingdescending",
+  "hasDatasetSlug": true,
+  "ownerUser": "kalpeshsavale",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1941,
+  "totalVotes": 3,
+  "totalDownloads": 48,
+  "title": "imdb-top-1000-movies-(imdb-rating-descending)",
+  "hasTitle": true,
+  "subtitle": "Dataset about all top 1000 movies  rating by imdb.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIMDb (also known as the Internet Movie Database) is an online database of information related to movies, it combines movie plot Metastore ratings, critic and user ratings, and release year.\n\n\n### Content\n\nThis dataset includes IMDB top 1,000 movies of all time with attributes such as Title, Ratings, Year, Genre, etc.\n\n### Acknowledgements\n\nThe data in this dataset has been scraped using Python BeautifulSoup from the publicly available website https://www.imdb.com.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "intermediate",
+    "text",
+    "IPython"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

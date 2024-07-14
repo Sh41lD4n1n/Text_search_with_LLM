@@ -1,0 +1,40 @@
+{
+  "id": "hamjashaikh/mental-health-detection-dataset",
+  "id_no": 5106739,
+  "datasetSlugNullable": "mental-health-detection-dataset",
+  "ownerUserNullable": "hamjashaikh",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Mental Health Detection Dataset",
+  "subtitleNullable": "Make your machine learning model more accurate with these dataset  ",
+  "descriptionNullable": "This dataset contains survey responses from patients regarding various symptoms associated with depression. Each patient answered 14 questions, and the responses are coded from 1 to 6 based on the frequency of experiencing each symptom. Additionally, the dataset includes a column indicating the patient's overall depression state.",
+  "datasetId": 5106739,
+  "datasetSlug": "mental-health-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hamjashaikh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 11398,
+  "totalVotes": 40,
+  "totalDownloads": 2252,
+  "title": "Mental Health Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Make your machine learning model more accurate with these dataset  ",
+  "hasSubtitle": true,
+  "description": "This dataset contains survey responses from patients regarding various symptoms associated with depression. Each patient answered 14 questions, and the responses are coded from 1 to 6 based on the frequency of experiencing each symptom. Additionally, the dataset includes a column indicating the patient's overall depression state.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

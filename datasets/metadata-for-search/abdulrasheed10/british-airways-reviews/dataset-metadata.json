@@ -1,0 +1,39 @@
+{
+  "id": "abdulrasheed10/british-airways-reviews",
+  "id_no": 5285069,
+  "datasetSlugNullable": "british-airways-reviews",
+  "ownerUserNullable": "abdulrasheed10",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "British Airways Reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "The dataset containing reviews of British Airways has been meticulously gathered from the Skytrax website. This dataset is intended for comprehensive data analysis and visualization. By analyzing this data, we aim to uncover insights and trends regarding customer experiences and satisfaction levels with British Airways. The visualization of this data will further enhance the understanding by presenting the findings in a clear and engaging manner, making it easier to identify patterns and areas for improvement.",
+  "datasetId": 5285069,
+  "datasetSlug": "british-airways-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdulrasheed10",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 5,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "British Airways Reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The dataset containing reviews of British Airways has been meticulously gathered from the Skytrax website. This dataset is intended for comprehensive data analysis and visualization. By analyzing this data, we aim to uncover insights and trends regarding customer experiences and satisfaction levels with British Airways. The visualization of this data will further enhance the understanding by presenting the findings in a clear and engaging manner, making it easier to identify patterns and areas for improvement.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

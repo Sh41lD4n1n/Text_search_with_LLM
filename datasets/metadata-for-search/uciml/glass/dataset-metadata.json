@@ -1,0 +1,42 @@
+{
+  "id": "/glass",
+  "id_no": 738,
+  "datasetSlugNullable": "glass",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Glass Classification",
+  "subtitleNullable": "Can you correctly identify glass type?",
+  "descriptionNullable": "# Context \n\nThis is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type(discrete 7 values)\n\n\n# Content\n\nAttribute Information:\n\n1. Id number: 1 to 214 (removed from CSV file)\n2. RI: refractive index \n3. Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10) \n4. Mg: Magnesium \n5. Al: Aluminum \n6. Si: Silicon \n7. K: Potassium \n8. Ca: Calcium \n9. Ba: Barium \n10. Fe: Iron \n11. Type of glass: (class attribute) \n-- 1 building_windows_float_processed \n-- 2 building_windows_non_float_processed \n-- 3 vehicle_windows_float_processed \n-- 4 vehicle_windows_non_float_processed (none in this database) \n-- 5 containers \n-- 6 tableware \n-- 7 headlamps\n\n\n# Acknowledgements\n\nhttps://archive.ics.uci.edu/ml/datasets/Glass+Identification\nSource:\n\nCreator: \nB. German \nCentral Research Establishment \nHome Office Forensic Science Service \nAldermaston, Reading, Berkshire RG7 4PN \n\nDonor: \nVina Spiehler, Ph.D., DABFT \nDiagnostic Products Corporation \n(213) 776-0180 (ext 3014)\n\n# Inspiration\n\nData exploration of this dataset reveals two important characteristics :\n1) The variables are highly **corelated** with each other including the response variables:\nSo which kind of ML algorithm is most suitable for this dataset Random Forest , KNN or other? Also since dataset is too small is there any chance of applying PCA or it should be completely avoided?\n\n2) Highly **Skewed** Data:\nIs scaling sufficient or are there any other techniques which should be applied to normalize data? Like BOX-COX Power transformation?",
+  "datasetId": 738,
+  "datasetSlug": "glass",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 263249,
+  "totalVotes": 349,
+  "totalDownloads": 39972,
+  "title": "Glass Classification",
+  "hasTitle": true,
+  "subtitle": "Can you correctly identify glass type?",
+  "hasSubtitle": true,
+  "description": "# Context \n\nThis is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type(discrete 7 values)\n\n\n# Content\n\nAttribute Information:\n\n1. Id number: 1 to 214 (removed from CSV file)\n2. RI: refractive index \n3. Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10) \n4. Mg: Magnesium \n5. Al: Aluminum \n6. Si: Silicon \n7. K: Potassium \n8. Ca: Calcium \n9. Ba: Barium \n10. Fe: Iron \n11. Type of glass: (class attribute) \n-- 1 building_windows_float_processed \n-- 2 building_windows_non_float_processed \n-- 3 vehicle_windows_float_processed \n-- 4 vehicle_windows_non_float_processed (none in this database) \n-- 5 containers \n-- 6 tableware \n-- 7 headlamps\n\n\n# Acknowledgements\n\nhttps://archive.ics.uci.edu/ml/datasets/Glass+Identification\nSource:\n\nCreator: \nB. German \nCentral Research Establishment \nHome Office Forensic Science Service \nAldermaston, Reading, Berkshire RG7 4PN \n\nDonor: \nVina Spiehler, Ph.D., DABFT \nDiagnostic Products Corporation \n(213) 776-0180 (ext 3014)\n\n# Inspiration\n\nData exploration of this dataset reveals two important characteristics :\n1) The variables are highly **corelated** with each other including the response variables:\nSo which kind of ML algorithm is most suitable for this dataset Random Forest , KNN or other? Also since dataset is too small is there any chance of applying PCA or it should be completely avoided?\n\n2) Highly **Skewed** Data:\nIs scaling sufficient or are there any other techniques which should be applied to normalize data? Like BOX-COX Power transformation?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "chemistry",
+    "artificial intelligence",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

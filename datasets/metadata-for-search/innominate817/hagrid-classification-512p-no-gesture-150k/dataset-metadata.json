@@ -1,0 +1,43 @@
+{
+  "id": "innominate817/hagrid-classification-512p-no-gesture-150k",
+  "id_no": 2519314,
+  "datasetSlugNullable": "hagrid-classification-512p-no-gesture-150k",
+  "ownerUserNullable": "innominate817",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "HaGRID Classification 512p no_gesture 150k",
+  "subtitleNullable": "A modified HAnd Gesture Recognition Image Dataset for image classification",
+  "descriptionNullable": "This dataset contains 125,912 training images from [HaGRID](https://github.com/hukenovs/hagrid) (HAnd Gesture Recognition Image Dataset) modified for image classification instead of object detection. This version contains a separate folder with 27,823 samples images containing no gestures for a total 153,787 training samples. The original dataset is 716GB. I created this sample for a tutorial so readers can use the dataset in the free tiers of Google Colab and Kaggle Notebooks.\n\n### Training Notebooks:\n* [Fastai+timm-&gt;TFJS Image Classification HaGRID](https://www.kaggle.com/code/innominate817/fastai-timm-tfjs-image-classification-hagrid?scriptVersionId=105447974)\n\n### Original Authors:\n*  [Alexander Kapitanov](https://www.linkedin.com/in/hukenovs)\n* [Andrey Makhlyarchuk](https://www.linkedin.com/in/makhliarchuk)\n* [Karina Kvanchiani](https://www.linkedin.com/in/kvanchiani)\n\n### Original Dataset Links\n* [GitHub](https://github.com/hukenovs/hagrid)\n* [Kaggle Datasets Page](https://www.kaggle.com/datasets/kapitanov/hagrid)",
+  "datasetId": 2519314,
+  "datasetSlug": "hagrid-classification-512p-no-gesture-150k",
+  "hasDatasetSlug": true,
+  "ownerUser": "innominate817",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1798,
+  "totalVotes": 3,
+  "totalDownloads": 253,
+  "title": "HaGRID Classification 512p no_gesture 150k",
+  "hasTitle": true,
+  "subtitle": "A modified HAnd Gesture Recognition Image Dataset for image classification",
+  "hasSubtitle": true,
+  "description": "This dataset contains 125,912 training images from [HaGRID](https://github.com/hukenovs/hagrid) (HAnd Gesture Recognition Image Dataset) modified for image classification instead of object detection. This version contains a separate folder with 27,823 samples images containing no gestures for a total 153,787 training samples. The original dataset is 716GB. I created this sample for a tutorial so readers can use the dataset in the free tiers of Google Colab and Kaggle Notebooks.\n\n### Training Notebooks:\n* [Fastai+timm-&gt;TFJS Image Classification HaGRID](https://www.kaggle.com/code/innominate817/fastai-timm-tfjs-image-classification-hagrid?scriptVersionId=105447974)\n\n### Original Authors:\n*  [Alexander Kapitanov](https://www.linkedin.com/in/hukenovs)\n* [Andrey Makhlyarchuk](https://www.linkedin.com/in/makhliarchuk)\n* [Karina Kvanchiani](https://www.linkedin.com/in/kvanchiani)\n\n### Original Dataset Links\n* [GitHub](https://github.com/hukenovs/hagrid)\n* [Kaggle Datasets Page](https://www.kaggle.com/datasets/kapitanov/hagrid)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

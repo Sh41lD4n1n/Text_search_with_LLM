@@ -1,0 +1,43 @@
+{
+  "id": "algord/fake-news",
+  "id_no": 2623949,
+  "datasetSlugNullable": "fake-news",
+  "ownerUserNullable": "algord",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fake News",
+  "subtitleNullable": "Fake News dataset based on FakeNewsNet.",
+  "descriptionNullable": "This dataset contains news articles and information about it.\n\nOriginal: [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet).\n\n# **Context**\nAll data is got from [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet).\nThe data was cleaned and combined in one file. Some columns were changed. \nYou can see preprocessing algorithm [here](https://colab.research.google.com/drive/1AnRzfi6rm4aqpUdf7jbi6usrSsuhnEyW?usp=sharing). \n\n\n# **Content**\nFile contains information about news articles.\nFormat: CSV.\n\n- *title*: title of the article.\n- *news_url*: URL of the article.\n- *source domain*: web domain where article was posted.\n- *tweet_num*:  number of retweets for this article.\n- *real*:  label column, where 1 is real and 0 is fake.",
+  "datasetId": 2623949,
+  "datasetSlug": "fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "algord",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 36104,
+  "totalVotes": 62,
+  "totalDownloads": 5143,
+  "title": "Fake News",
+  "hasTitle": true,
+  "subtitle": "Fake News dataset based on FakeNewsNet.",
+  "hasSubtitle": true,
+  "description": "This dataset contains news articles and information about it.\n\nOriginal: [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet).\n\n# **Context**\nAll data is got from [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet).\nThe data was cleaned and combined in one file. Some columns were changed. \nYou can see preprocessing algorithm [here](https://colab.research.google.com/drive/1AnRzfi6rm4aqpUdf7jbi6usrSsuhnEyW?usp=sharing). \n\n\n# **Content**\nFile contains information about news articles.\nFormat: CSV.\n\n- *title*: title of the article.\n- *news_url*: URL of the article.\n- *source domain*: web domain where article was posted.\n- *tweet_num*:  number of retweets for this article.\n- *real*:  label column, where 1 is real and 0 is fake.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "classification",
+    "tabular",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

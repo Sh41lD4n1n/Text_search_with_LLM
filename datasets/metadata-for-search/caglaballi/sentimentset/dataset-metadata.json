@@ -1,0 +1,43 @@
+{
+  "id": "caglaballi/sentimentset",
+  "id_no": 1447524,
+  "datasetSlugNullable": "sentimentset",
+  "ownerUserNullable": "caglaballi",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "SentimentSet",
+  "subtitleNullable": "Turkish Sentiment Analysis dataset that is collected from Twitter",
+  "descriptionNullable": "Citation Request (Please cite following paper in order to use this dataset) :\n\nCagla Balli, Mehmet Serdar Guzel, Erkan Bostanci, Alok Mishra, \"Sentimental Analysis of Twitter Users from Turkish Content with Natural Language Processing\", Computational Intelligence and Neuroscience, vol. 2022, Article ID 2455160, 17 pages, 2022. https://doi.org/10.1155/2022/2455160\nhttps://www.hindawi.com/journals/cin/2022/2455160/\n\nThis is a public Turkish Sentimental Dataset. It is created by me (Cagla Balli) and my father Tahsin Balli. The SentimentSet consists of 2 columns one of them is sentiment which can be positive and negative and the other one is tweets which contains Turkish tweets.\n\nTo create this dataset, tweets are gathered and marked manually.\n\nGATHER TWEETS:\nTwo methods were used while collecting the tweets that make up the dataset : \n* stream method of the Twitter API\n* open source snscrape library. \n\nStream method, which belongs to the Tweepy library, and provides data in accordance with the given parameters. The dataset was created from real-time tweets selected by searching the words 'a\u015f\u0131', 'a\u015f\u0131lanmak', 'a\u015f\u0131 olmak', 'vaccine', 'vaccinated', 'vaccination', 'stayhome', 'stay home', 'covid', 'corona', 'coronavirus', 'korona', 'covid-19', 'Covid19', 'Covid-19', 'Corona Virus', 'pandemic', 'pandemi', 'COVID-19'. Another parameter is \"languages = 'tr'\", which is used to extract only Turkish tweets. Received tweets were manually transferred to a table and manually marked there. In the second method used when collecting tweets, tweets were drawn from random months from March 2020 to March 2021 with the sncscrape library, and the word 'pandemic' was searched for and tweets collected at random time intervals were purified from retweets, links and replies.\n\n After collecting tweets, following preprocess are done:\n\n* Noisy Data Cleaning process.\n* Convertion to lowercase\n* Deletion whitespaces at the beginning and end of the tweets\n* Deletion of stopwords. \n\nMARK TWEETS:\nTweets are marked manually as positive or negative by my father Tahsin BALLI.\n\nHopefully, this dataset will help you with your studies. For to use this dataset you need to cite this paper. (paper link)You can also f\u0131nd more information about have this dataset is created in detail. (gathering tweets, data preprocessing)\n\nMany thanks for my father Tahsin Ball\u0131 to help me build up this dataset, and also many thanks to my mother Ay\u015fe Ball\u0131 for all her support for my education and everything. Glad to have my sister and brother to achive my skills and getting ready to life. Thank you all for being my family!",
+  "datasetId": 1447524,
+  "datasetSlug": "sentimentset",
+  "hasDatasetSlug": true,
+  "ownerUser": "caglaballi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1123,
+  "totalVotes": 5,
+  "totalDownloads": 114,
+  "title": "SentimentSet",
+  "hasTitle": true,
+  "subtitle": "Turkish Sentiment Analysis dataset that is collected from Twitter",
+  "hasSubtitle": true,
+  "description": "Citation Request (Please cite following paper in order to use this dataset) :\n\nCagla Balli, Mehmet Serdar Guzel, Erkan Bostanci, Alok Mishra, \"Sentimental Analysis of Twitter Users from Turkish Content with Natural Language Processing\", Computational Intelligence and Neuroscience, vol. 2022, Article ID 2455160, 17 pages, 2022. https://doi.org/10.1155/2022/2455160\nhttps://www.hindawi.com/journals/cin/2022/2455160/\n\nThis is a public Turkish Sentimental Dataset. It is created by me (Cagla Balli) and my father Tahsin Balli. The SentimentSet consists of 2 columns one of them is sentiment which can be positive and negative and the other one is tweets which contains Turkish tweets.\n\nTo create this dataset, tweets are gathered and marked manually.\n\nGATHER TWEETS:\nTwo methods were used while collecting the tweets that make up the dataset : \n* stream method of the Twitter API\n* open source snscrape library. \n\nStream method, which belongs to the Tweepy library, and provides data in accordance with the given parameters. The dataset was created from real-time tweets selected by searching the words 'a\u015f\u0131', 'a\u015f\u0131lanmak', 'a\u015f\u0131 olmak', 'vaccine', 'vaccinated', 'vaccination', 'stayhome', 'stay home', 'covid', 'corona', 'coronavirus', 'korona', 'covid-19', 'Covid19', 'Covid-19', 'Corona Virus', 'pandemic', 'pandemi', 'COVID-19'. Another parameter is \"languages = 'tr'\", which is used to extract only Turkish tweets. Received tweets were manually transferred to a table and manually marked there. In the second method used when collecting tweets, tweets were drawn from random months from March 2020 to March 2021 with the sncscrape library, and the word 'pandemic' was searched for and tweets collected at random time intervals were purified from retweets, links and replies.\n\n After collecting tweets, following preprocess are done:\n\n* Noisy Data Cleaning process.\n* Convertion to lowercase\n* Deletion whitespaces at the beginning and end of the tweets\n* Deletion of stopwords. \n\nMARK TWEETS:\nTweets are marked manually as positive or negative by my father Tahsin BALLI.\n\nHopefully, this dataset will help you with your studies. For to use this dataset you need to cite this paper. (paper link)You can also f\u0131nd more information about have this dataset is created in detail. (gathering tweets, data preprocessing)\n\nMany thanks for my father Tahsin Ball\u0131 to help me build up this dataset, and also many thanks to my mother Ay\u015fe Ball\u0131 for all her support for my education and everything. Glad to have my sister and brother to achive my skills and getting ready to life. Thank you all for being my family!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "text",
+    "social networks",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

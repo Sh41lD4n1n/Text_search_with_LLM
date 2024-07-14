@@ -1,0 +1,45 @@
+{
+  "id": "rxnach/student-stress-factors-a-comprehensive-analysis",
+  "id_no": 3858024,
+  "datasetSlugNullable": "student-stress-factors-a-comprehensive-analysis",
+  "ownerUserNullable": "rxnach",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Student Stress Factors: A Comprehensive Analysis",
+  "subtitleNullable": "Understanding the Underlying Causes and Their Impact on Today's Students.",
+  "descriptionNullable": ":grinning:Unlock the secrets of student stress with our easy-to-understand dataset! Dive into real-life factors like sleep quality, study load, and even bullying. Discover how the environment or even friendships can impact stress. Perfect for beginners eager to explore and make a difference. Start your data journey with us and uncover stories that matter!\n\n:grinning:This dataset contains around 20 features that create the most impact on the Stress of a Student. The features are selected scientifically considering 5 major factors, they are Psychological, Physiological, Social, Environmental, and Academic Factors. Some of them are: \nPsychological Factors =&gt; 'anxiety_level', 'self_esteem', 'mental_health_history', 'depression', \nPhysiological Factors =&gt; 'headache', 'blood_pressure', 'sleep_quality', 'breathing_problem\nEnvironmental Factors =&gt; 'noise_level', 'living_conditions', 'safety', 'basic_needs',\nAcademic Factors =&gt; 'academic_performance', 'study_load', 'teacher_student_relationship', 'future_career_concerns', \nSocial Factor =&gt; 'social_support', 'peer_pressure', 'extracurricular_activities', 'bullying'\n\n**Task for the beginners:**\n*Time to rise and shine. Best of Luck. Comment down your notebook, if you are able to solve them.*\n\n**Descriptive Statistics:**\n\n1) How many students are in the dataset?\n2) What is the average anxiety level of students in the dataset?\n3) How many students have reported a history of mental health issues?\n**Psychological Factors:**\n\n1) How many students have a self-esteem level below the average?\n2) What percentage of students have reported experiencing depression?\n**Physiological Factors:**\n\n1) How many students experience headaches frequently?\n2) What is the average blood pressure reading among the students?\n3) How many students rate their sleep quality as poor?\n**Environmental Factors:**\n\n1) How many students live in conditions with high noise levels?\n2) What percentage of students feel unsafe in their living conditions?\n3) How many students have reported not having their basic needs met?\n**Academic Factors:**\n\n1) How many students rate their academic performance as below average?\n2) What is the average study load reported by students?\n3) How many students have concerns about their future careers?\n**Social Factors:**\n\n1) How many students feel they have strong social support?\n2) What percentage of students have experienced bullying?\n3) How many students participate in extracurricular activities?\n**Comparative Analysis:**\n\n1) Is there a correlation between anxiety level and academic performance?\n2) Do students with poor sleep quality also report higher levels of depression?\n3) Are students who experience bullying more likely to have a history of mental health issues?\n**General Exploration:**\n\n1) Which factor (Psychological, Physiological, Environmental, Academic, Social) has the highest number of students reporting negative experiences or conditions?\n2) Are there any noticeable trends or patterns when comparing different factors?\n3) Which specific feature within each factor has the most significant impact on student stress, based on the dataset?\n\n\n",
+  "datasetId": 3858024,
+  "datasetSlug": "student-stress-factors-a-comprehensive-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "rxnach",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 77514,
+  "totalVotes": 185,
+  "totalDownloads": 15086,
+  "title": "Student Stress Factors: A Comprehensive Analysis",
+  "hasTitle": true,
+  "subtitle": "Understanding the Underlying Causes and Their Impact on Today's Students.",
+  "hasSubtitle": true,
+  "description": ":grinning:Unlock the secrets of student stress with our easy-to-understand dataset! Dive into real-life factors like sleep quality, study load, and even bullying. Discover how the environment or even friendships can impact stress. Perfect for beginners eager to explore and make a difference. Start your data journey with us and uncover stories that matter!\n\n:grinning:This dataset contains around 20 features that create the most impact on the Stress of a Student. The features are selected scientifically considering 5 major factors, they are Psychological, Physiological, Social, Environmental, and Academic Factors. Some of them are: \nPsychological Factors =&gt; 'anxiety_level', 'self_esteem', 'mental_health_history', 'depression', \nPhysiological Factors =&gt; 'headache', 'blood_pressure', 'sleep_quality', 'breathing_problem\nEnvironmental Factors =&gt; 'noise_level', 'living_conditions', 'safety', 'basic_needs',\nAcademic Factors =&gt; 'academic_performance', 'study_load', 'teacher_student_relationship', 'future_career_concerns', \nSocial Factor =&gt; 'social_support', 'peer_pressure', 'extracurricular_activities', 'bullying'\n\n**Task for the beginners:**\n*Time to rise and shine. Best of Luck. Comment down your notebook, if you are able to solve them.*\n\n**Descriptive Statistics:**\n\n1) How many students are in the dataset?\n2) What is the average anxiety level of students in the dataset?\n3) How many students have reported a history of mental health issues?\n**Psychological Factors:**\n\n1) How many students have a self-esteem level below the average?\n2) What percentage of students have reported experiencing depression?\n**Physiological Factors:**\n\n1) How many students experience headaches frequently?\n2) What is the average blood pressure reading among the students?\n3) How many students rate their sleep quality as poor?\n**Environmental Factors:**\n\n1) How many students live in conditions with high noise levels?\n2) What percentage of students feel unsafe in their living conditions?\n3) How many students have reported not having their basic needs met?\n**Academic Factors:**\n\n1) How many students rate their academic performance as below average?\n2) What is the average study load reported by students?\n3) How many students have concerns about their future careers?\n**Social Factors:**\n\n1) How many students feel they have strong social support?\n2) What percentage of students have experienced bullying?\n3) How many students participate in extracurricular activities?\n**Comparative Analysis:**\n\n1) Is there a correlation between anxiety level and academic performance?\n2) Do students with poor sleep quality also report higher levels of depression?\n3) Are students who experience bullying more likely to have a history of mental health issues?\n**General Exploration:**\n\n1) Which factor (Psychological, Physiological, Environmental, Academic, Social) has the highest number of students reporting negative experiences or conditions?\n2) Are there any noticeable trends or patterns when comparing different factors?\n3) Which specific feature within each factor has the most significant impact on student stress, based on the dataset?\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "education",
+    "beginner",
+    "classification",
+    "random forest",
+    "tabular",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

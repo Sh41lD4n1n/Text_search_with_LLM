@@ -1,0 +1,43 @@
+{
+  "id": "prashant268/chest-xray-covid19-pneumonia",
+  "id_no": 724418,
+  "datasetSlugNullable": "chest-xray-covid19-pneumonia",
+  "ownerUserNullable": "prashant268",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Chest X-ray (Covid-19 & Pneumonia)",
+  "subtitleNullable": "Dataset contains chest x-ray images of Covid-19, Pneumonia and normal patients.",
+  "descriptionNullable": "### Context\n\n**COVID-19 (coronavirus disease 2019)** is an infectious disease caused by **severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)**, a strain of coronavirus. The first cases were seen in Wuhan, China, in late December 2019 before spreading globally. The current outbreak was officially recognized as a pandemic by the World Health Organization (WHO) on 11 March 2020.\nCurrently **Reverse transcription polymerase chain reaction (RT-PCR)** is used for diagnosis of the COVID-19. X-ray machines are widely available and provide images for diagnosis quickly so chest X-ray images can be very useful in early diagnosis of COVID-19.\n\n\n\n\n### Content\n\nDataset is organized into 2 folders (train, test) and both train and test contain 3 subfolders (COVID19, PNEUMONIA, NORMAL). DataSet contains total 6432 x-ray images and test data have 20% of total images.\n\n\n### Acknowledgements\n\nImages are collected from various publicly available resources. If you use the data for research please give credit to authors:\n**Sources:**\n1. [https://github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)\n2. [https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia ](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)\n3. [https://github.com/agchung](https://github.com/agchung)\n\n\n\n### Inspiration\n\nApplication of Artificial Intelligence (AI) techniques with radiological images for COVID-19 diagnosis.",
+  "datasetId": 724418,
+  "datasetSlug": "chest-xray-covid19-pneumonia",
+  "hasDatasetSlug": true,
+  "ownerUser": "prashant268",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 90305,
+  "totalVotes": 169,
+  "totalDownloads": 14956,
+  "title": "Chest X-ray (Covid-19 & Pneumonia)",
+  "hasTitle": true,
+  "subtitle": "Dataset contains chest x-ray images of Covid-19, Pneumonia and normal patients.",
+  "hasSubtitle": true,
+  "description": "### Context\n\n**COVID-19 (coronavirus disease 2019)** is an infectious disease caused by **severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)**, a strain of coronavirus. The first cases were seen in Wuhan, China, in late December 2019 before spreading globally. The current outbreak was officially recognized as a pandemic by the World Health Organization (WHO) on 11 March 2020.\nCurrently **Reverse transcription polymerase chain reaction (RT-PCR)** is used for diagnosis of the COVID-19. X-ray machines are widely available and provide images for diagnosis quickly so chest X-ray images can be very useful in early diagnosis of COVID-19.\n\n\n\n\n### Content\n\nDataset is organized into 2 folders (train, test) and both train and test contain 3 subfolders (COVID19, PNEUMONIA, NORMAL). DataSet contains total 6432 x-ray images and test data have 20% of total images.\n\n\n### Acknowledgements\n\nImages are collected from various publicly available resources. If you use the data for research please give credit to authors:\n**Sources:**\n1. [https://github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)\n2. [https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia ](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)\n3. [https://github.com/agchung](https://github.com/agchung)\n\n\n\n### Inspiration\n\nApplication of Artificial Intelligence (AI) techniques with radiological images for COVID-19 diagnosis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer science",
+    "deep learning",
+    "cnn",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

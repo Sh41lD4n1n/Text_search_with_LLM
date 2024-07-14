@@ -1,0 +1,40 @@
+{
+  "id": "dhruvildave/billboard-the-hot-100-songs",
+  "id_no": 1211465,
+  "datasetSlugNullable": "billboard-the-hot-100-songs",
+  "ownerUserNullable": "dhruvildave",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Billboard \"The Hot 100\" Songs",
+  "subtitleNullable": "A collection of \"The Hot 100\" charts on Billboard",
+  "descriptionNullable": "## Content\n\nThe Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. Chart rankings are based on sales, radio play, and online streaming in the United States.\n\nEvery week, [Billboard](https://www.billboard.com/) releases \"The Hot 100\" chart of songs that were trending on sales and airplay for that week. This dataset is a collection of all \"The Hot 100\" charts released since its inception in 1958.\n\n[Starter Notebook + Basic EDA](https://www.kaggle.com/dhruvildave/starter-basic-eda-billboard)\n\n## Acknowledgements\n\nImage credits: [Photo by Stas Knop from Pexels](https://www.pexels.com/photo/black-cassette-tape-on-top-of-red-and-yellow-surface-1626481/)",
+  "datasetId": 1211465,
+  "datasetSlug": "billboard-the-hot-100-songs",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhruvildave",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 80490,
+  "totalVotes": 177,
+  "totalDownloads": 12857,
+  "title": "Billboard \"The Hot 100\" Songs",
+  "hasTitle": true,
+  "subtitle": "A collection of \"The Hot 100\" charts on Billboard",
+  "hasSubtitle": true,
+  "description": "## Content\n\nThe Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. Chart rankings are based on sales, radio play, and online streaming in the United States.\n\nEvery week, [Billboard](https://www.billboard.com/) releases \"The Hot 100\" chart of songs that were trending on sales and airplay for that week. This dataset is a collection of all \"The Hot 100\" charts released since its inception in 1958.\n\n[Starter Notebook + Basic EDA](https://www.kaggle.com/dhruvildave/starter-basic-eda-billboard)\n\n## Acknowledgements\n\nImage credits: [Photo by Stas Knop from Pexels](https://www.pexels.com/photo/black-cassette-tape-on-top-of-red-and-yellow-surface-1626481/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

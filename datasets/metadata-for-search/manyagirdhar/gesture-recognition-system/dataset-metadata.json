@@ -1,0 +1,44 @@
+{
+  "id": "manyagirdhar/gesture-recognition-system",
+  "id_no": 5234499,
+  "datasetSlugNullable": "gesture-recognition-system",
+  "ownerUserNullable": "manyagirdhar",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Gesture Recognition System Dataset",
+  "subtitleNullable": "Computer Vision Task",
+  "descriptionNullable": "The following steps were taken to prepare the dataset:\n\n1.1. Video Recording: Videos of the gestures (thumbs up, fist, open palm) were recorded for both the left and right hands.\n1.2. Frame Extraction: Frames were extracted from the videos, resulting in a total of 250 images for each gesture from both the left and right hands. Each image is of dimension: 64X64\n\nThere are 3 gestures : fist, open_palm and thumbs_up\n\nEach image/frame has a name starting with \u2018l\u2019 or \u2018r\u2019 where \u2018l\u2019 refers to left and \u2018r\u2019 refers to right. \nAnd second character as \u2018f\u2019 ,\u2018t\u2019 , or \u2018p\u2019 which stands for fist, thumbs up and open palm, respectively.\nFor example, image named as lf_0011 means it is an image of left fist taken from video\u2019s 11th frame. \nIt was carried out with the help of OpenCV (cv2) and os libraries as shown in code in figure 1 and the frames were downloaded as a zip file with the help of code in figure 2.\n\n1.3. Dataset Splitting: The total dataset consisted of 1500 images (250 images per gesture per hand).\nThe dataset was split into training and testing sets:\nTraining Set: 300 images (150 images for left and right hands combined) for each gesture.\nTesting Set: 200 images (100 images for left and right hands combined) for each gesture.\n",
+  "datasetId": 5234499,
+  "datasetSlug": "gesture-recognition-system",
+  "hasDatasetSlug": true,
+  "ownerUser": "manyagirdhar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 100,
+  "totalVotes": 0,
+  "totalDownloads": 11,
+  "title": "Gesture Recognition System Dataset",
+  "hasTitle": true,
+  "subtitle": "Computer Vision Task",
+  "hasSubtitle": true,
+  "description": "The following steps were taken to prepare the dataset:\n\n1.1. Video Recording: Videos of the gestures (thumbs up, fist, open palm) were recorded for both the left and right hands.\n1.2. Frame Extraction: Frames were extracted from the videos, resulting in a total of 250 images for each gesture from both the left and right hands. Each image is of dimension: 64X64\n\nThere are 3 gestures : fist, open_palm and thumbs_up\n\nEach image/frame has a name starting with \u2018l\u2019 or \u2018r\u2019 where \u2018l\u2019 refers to left and \u2018r\u2019 refers to right. \nAnd second character as \u2018f\u2019 ,\u2018t\u2019 , or \u2018p\u2019 which stands for fist, thumbs up and open palm, respectively.\nFor example, image named as lf_0011 means it is an image of left fist taken from video\u2019s 11th frame. \nIt was carried out with the help of OpenCV (cv2) and os libraries as shown in code in figure 1 and the frames were downloaded as a zip file with the help of code in figure 2.\n\n1.3. Dataset Splitting: The total dataset consisted of 1500 images (250 images per gesture per hand).\nThe dataset was split into training and testing sets:\nTraining Set: 300 images (150 images for left and right hands combined) for each gesture.\nTesting Set: 200 images (100 images for left and right hands combined) for each gesture.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "neural networks",
+    "cnn",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

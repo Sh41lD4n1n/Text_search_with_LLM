@@ -1,0 +1,39 @@
+{
+  "id": "irayane/imdbv1",
+  "id_no": 608591,
+  "datasetSlugNullable": "imdbv1",
+  "ownerUserNullable": "irayane",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Top 1000 movies ",
+  "subtitleNullable": "Top 1k movies based on imdb users review",
+  "descriptionNullable": "### Context\n\nThis dataset consists of movies available on IMDB top 1000 movies. The dataset is collected from imdb by using beautifulsoup\n\n\n### Content\n\neach movie have a lot of features you can see the top movies based on it \nmovie_name,\ngenre,\nyear,\ntimeMin,\nimdb,\nmetascore,\nvotes,\nus_grossMillions\n\n### Acknowledgements\n\nThis dataset was scraping  from imdb website for the top 1K movies based on imdb rating \n\n\n",
+  "datasetId": 608591,
+  "datasetSlug": "imdbv1",
+  "hasDatasetSlug": true,
+  "ownerUser": "irayane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 5070,
+  "totalVotes": 6,
+  "totalDownloads": 449,
+  "title": "Top 1000 movies ",
+  "hasTitle": true,
+  "subtitle": "Top 1k movies based on imdb users review",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset consists of movies available on IMDB top 1000 movies. The dataset is collected from imdb by using beautifulsoup\n\n\n### Content\n\neach movie have a lot of features you can see the top movies based on it \nmovie_name,\ngenre,\nyear,\ntimeMin,\nimdb,\nmetascore,\nvotes,\nus_grossMillions\n\n### Acknowledgements\n\nThis dataset was scraping  from imdb website for the top 1K movies based on imdb rating \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

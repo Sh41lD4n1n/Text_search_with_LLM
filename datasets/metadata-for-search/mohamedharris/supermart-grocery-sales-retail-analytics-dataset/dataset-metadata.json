@@ -1,0 +1,42 @@
+{
+  "id": "mohamedharris/supermart-grocery-sales-retail-analytics-dataset",
+  "id_no": 2260653,
+  "datasetSlugNullable": "supermart-grocery-sales-retail-analytics-dataset",
+  "ownerUserNullable": "mohamedharris",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Supermart Grocery Sales - Retail Analytics Dataset",
+  "subtitleNullable": "Data on orders placed by customers on a grocery app",
+  "descriptionNullable": "This is a fictional dataset created for helping the data analysts to practice exploratory data analysis and data visualization. The dataset has data on orders placed by customers on a grocery delivery application.\n\nThe dataset is designed with an assumption that the orders are placed by customers living in the state of Tamil Nadu, India.\n\nPlease **DO NOT** reproduce the same dataset without giving me the credits. If you like this dataset, please consider upvoting.\n\nThanks!",
+  "datasetId": 2260653,
+  "datasetSlug": "supermart-grocery-sales-retail-analytics-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedharris",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 70347,
+  "totalVotes": 187,
+  "totalDownloads": 14887,
+  "title": "Supermart Grocery Sales - Retail Analytics Dataset",
+  "hasTitle": true,
+  "subtitle": "Data on orders placed by customers on a grocery app",
+  "hasSubtitle": true,
+  "description": "This is a fictional dataset created for helping the data analysts to practice exploratory data analysis and data visualization. The dataset has data on orders placed by customers on a grocery delivery application.\n\nThe dataset is designed with an assumption that the orders are placed by customers living in the state of Tamil Nadu, India.\n\nPlease **DO NOT** reproduce the same dataset without giving me the credits. If you like this dataset, please consider upvoting.\n\nThanks!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "internet",
+    "food",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

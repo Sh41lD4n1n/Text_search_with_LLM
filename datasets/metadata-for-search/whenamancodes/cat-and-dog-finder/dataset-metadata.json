@@ -1,0 +1,43 @@
+{
+  "id": "whenamancodes/cat-and-dog-finder",
+  "id_no": 2589732,
+  "datasetSlugNullable": "cat-and-dog-finder",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Cat and Dog | Pet Finder",
+  "subtitleNullable": "Cats and Dogs dataset to train model",
+  "descriptionNullable": "# PetFinder: Image Augmentations\nThis dataset is for running the code from this site: https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8.\n\nYou\u2019ll analyze raw images and metadata to predict the \u201cPawpularity\u201d of pet photos. You'll train and test your model on PetFinder.my's thousands of pet profiles. \nIf successful, your solution will be adapted into AI tools that will guide shelters and rescuers around the world to improve the appeal of their pet profiles, automatically enhancing photo quality and recommending composition improvements. As a result, stray dogs and cats can find their \"furever\" homes much faster. With a little assistance from the Kaggle community, many precious lives could be saved and more happy families created.\n\n## Photo Metadata\nThe train.csv and test.csv files contain metadata for photos in the training set and test set, respectively. Each pet photo is labeled with the value of 1 (Yes) or 0 (No) for each of the following features:\n- Focus - Pet stands out against uncluttered background, not too close / far.\n- Eyes - Both eyes are facing front or near-front, with at least 1 eye / pupil decently clear.\n- Face - Decently clear face, facing front or near-front. Near - Single pet taking up significant portion of - photo (roughly over 50% of photo width or height).\n- Action - Pet in the middle of an action (e.g., jumping).\n- Accessory - Accompanying physical or digital accessory / prop (i.e. toy, digital sticker), excluding collar and leash.\n- Group - More than 1 pet in the photo.\n- Collage - Digitally-retouched photo (i.e. with digital photo frame, combination of multiple photos).\n- Human - Human in the photo.\n- Occlusion - Specific undesirable objects blocking part of the pet (i.e. human, cage or fence). Note that not all blocking objects are considered occlusion.\n- Info - Custom-added text or labels (i.e. pet name, description).\n- Blur - Noticeably out of focus or noisy, especially for the pet\u2019s eyes and face. For Blur entries, \u201cEyes\u201d column is always set to 0.\n\nThis is how to show a picture from the training set: display(Image('../input/cat-and-dog/trainingset/trainingset/dogs/dog.423.jpg'))\nFrom the test set: display(Image('../input/cat-and-dog/testset/testset/cats/cat.4453.jpg'))\n\n",
+  "datasetId": 2589732,
+  "datasetSlug": "cat-and-dog-finder",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2572,
+  "totalVotes": 9,
+  "totalDownloads": 280,
+  "title": "Cat and Dog | Pet Finder",
+  "hasTitle": true,
+  "subtitle": "Cats and Dogs dataset to train model",
+  "hasSubtitle": true,
+  "description": "# PetFinder: Image Augmentations\nThis dataset is for running the code from this site: https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8.\n\nYou\u2019ll analyze raw images and metadata to predict the \u201cPawpularity\u201d of pet photos. You'll train and test your model on PetFinder.my's thousands of pet profiles. \nIf successful, your solution will be adapted into AI tools that will guide shelters and rescuers around the world to improve the appeal of their pet profiles, automatically enhancing photo quality and recommending composition improvements. As a result, stray dogs and cats can find their \"furever\" homes much faster. With a little assistance from the Kaggle community, many precious lives could be saved and more happy families created.\n\n## Photo Metadata\nThe train.csv and test.csv files contain metadata for photos in the training set and test set, respectively. Each pet photo is labeled with the value of 1 (Yes) or 0 (No) for each of the following features:\n- Focus - Pet stands out against uncluttered background, not too close / far.\n- Eyes - Both eyes are facing front or near-front, with at least 1 eye / pupil decently clear.\n- Face - Decently clear face, facing front or near-front. Near - Single pet taking up significant portion of - photo (roughly over 50% of photo width or height).\n- Action - Pet in the middle of an action (e.g., jumping).\n- Accessory - Accompanying physical or digital accessory / prop (i.e. toy, digital sticker), excluding collar and leash.\n- Group - More than 1 pet in the photo.\n- Collage - Digitally-retouched photo (i.e. with digital photo frame, combination of multiple photos).\n- Human - Human in the photo.\n- Occlusion - Specific undesirable objects blocking part of the pet (i.e. human, cage or fence). Note that not all blocking objects are considered occlusion.\n- Info - Custom-added text or labels (i.e. pet name, description).\n- Blur - Noticeably out of focus or noisy, especially for the pet\u2019s eyes and face. For Blur entries, \u201cEyes\u201d column is always set to 0.\n\nThis is how to show a picture from the training set: display(Image('../input/cat-and-dog/trainingset/trainingset/dogs/dog.423.jpg'))\nFrom the test set: display(Image('../input/cat-and-dog/testset/testset/cats/cat.4453.jpg'))\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "peacehegemony/image-classification-people-and-food",
+  "id_no": 2849445,
+  "datasetSlugNullable": "image-classification-people-and-food",
+  "ownerUserNullable": "peacehegemony",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Image classification : People and food",
+  "subtitleNullable": "Collection of images of people eating various food items",
+  "descriptionNullable": "A collection of images of people eating fruits, cakes, and other foodstuffs. Contributors classified the images by male/female, then by age (adult or child/teenager).",
+  "datasetId": 2849445,
+  "datasetSlug": "image-classification-people-and-food",
+  "hasDatasetSlug": true,
+  "ownerUser": "peacehegemony",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3405,
+  "totalVotes": 15,
+  "totalDownloads": 290,
+  "title": "Image classification : People and food",
+  "hasTitle": true,
+  "subtitle": "Collection of images of people eating various food items",
+  "hasSubtitle": true,
+  "description": "A collection of images of people eating fruits, cakes, and other foodstuffs. Contributors classified the images by male/female, then by age (adult or child/teenager).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

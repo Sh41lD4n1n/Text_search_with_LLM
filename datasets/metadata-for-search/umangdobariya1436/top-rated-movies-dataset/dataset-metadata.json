@@ -1,0 +1,39 @@
+{
+  "id": "umangdobariya1436/top-rated-movies-dataset",
+  "id_no": 2211691,
+  "datasetSlugNullable": "top-rated-movies-dataset",
+  "ownerUserNullable": "umangdobariya1436",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top Rated 10000 Movies Dataset (IMDB)",
+  "subtitleNullable": "In this dataset the top movies data is given based on the IMDB rating.",
+  "descriptionNullable": "\nIn this dataset all time top  movies data is given from the IMDB and title ,overview ,relaease date ,popularity ,vote_count and vote_average is given.This dataset is created using web scrapping technique.",
+  "datasetId": 2211691,
+  "datasetSlug": "top-rated-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "umangdobariya1436",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5316,
+  "totalVotes": 32,
+  "totalDownloads": 947,
+  "title": "Top Rated 10000 Movies Dataset (IMDB)",
+  "hasTitle": true,
+  "subtitle": "In this dataset the top movies data is given based on the IMDB rating.",
+  "hasSubtitle": true,
+  "description": "\nIn this dataset all time top  movies data is given from the IMDB and title ,overview ,relaease date ,popularity ,vote_count and vote_average is given.This dataset is created using web scrapping technique.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

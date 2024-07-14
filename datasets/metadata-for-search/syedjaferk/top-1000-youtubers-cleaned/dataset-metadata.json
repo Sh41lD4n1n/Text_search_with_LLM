@@ -1,0 +1,43 @@
+{
+  "id": "syedjaferk/top-1000-youtubers-cleaned",
+  "id_no": 2334068,
+  "datasetSlugNullable": "top-1000-youtubers-cleaned",
+  "ownerUserNullable": "syedjaferk",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Top 1000 Youtubers (Cleaned)  World",
+  "subtitleNullable": "Top 1000 Influencers in youtube all over the world. ",
+  "descriptionNullable": "YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is owned by Google, and is the second most visited website, after Google Search. YouTube has more than 2.5 billion monthly users who collectively watch more than one billion hours of videos each day. As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute.\n\nIn October 2006, 18 months after posting its first video and 10 months after its official launch, YouTube was bought by Google for $1.65 billion. Google's ownership of YouTube expanded the site's business model, expanding from generating revenue from advertisements alone, to offering paid content such as movies and exclusive content produced by YouTube. It also offers YouTube Premium, a paid subscription option for watching content without ads. YouTube and approved creators participate in Google's AdSense program, which seeks to generate more revenue for both parties. YouTube reported revenue of $19.8 billion in 2020. In 2021, YouTube's annual advertising revenue increased to $28.8 billion.\n\nThis dataset consists details on top 1000 influencers all over the world. ",
+  "datasetId": 2334068,
+  "datasetSlug": "top-1000-youtubers-cleaned",
+  "hasDatasetSlug": true,
+  "ownerUser": "syedjaferk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4387,
+  "totalVotes": 16,
+  "totalDownloads": 756,
+  "title": "Top 1000 Youtubers (Cleaned)  World",
+  "hasTitle": true,
+  "subtitle": "Top 1000 Influencers in youtube all over the world. ",
+  "hasSubtitle": true,
+  "description": "YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is owned by Google, and is the second most visited website, after Google Search. YouTube has more than 2.5 billion monthly users who collectively watch more than one billion hours of videos each day. As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute.\n\nIn October 2006, 18 months after posting its first video and 10 months after its official launch, YouTube was bought by Google for $1.65 billion. Google's ownership of YouTube expanded the site's business model, expanding from generating revenue from advertisements alone, to offering paid content such as movies and exclusive content produced by YouTube. It also offers YouTube Premium, a paid subscription option for watching content without ads. YouTube and approved creators participate in Google's AdSense program, which seeks to generate more revenue for both parties. YouTube reported revenue of $19.8 billion in 2020. In 2021, YouTube's annual advertising revenue increased to $28.8 billion.\n\nThis dataset consists details on top 1000 influencers all over the world. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "exploratory data analysis",
+    "data visualization",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

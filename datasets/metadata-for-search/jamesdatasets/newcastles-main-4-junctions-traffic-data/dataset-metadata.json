@@ -1,0 +1,37 @@
+{
+  "id": "jamesdatasets/newcastles-main-4-junctions-traffic-data",
+  "id_no": 3643017,
+  "datasetSlugNullable": "newcastles-main-4-junctions-traffic-data",
+  "ownerUserNullable": "jamesdatasets",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Newcastle's 4 main junctions traffic data",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Context**\n\nTraffic congestion is rising in cities around the world. Contributing factors include expanding urban populations, aging infrastructure, inefficient and uncoordinated traffic signal timing and a lack of real-time data.\n\n**Content**\n\nThis dataset contains 48.1k (48120) observations of the number of vehicles each hour in four different junctions:\n1) DateTime\n2) Juction\n3) Vehicles\n4) ID\n\n**About the data**\n\nThe sensors on each of these junctions were collecting data at different times, hence you will see traffic data from different time periods. Some of the junctions have provided limited or sparse data requiring thoughtfulness when creating future projections.\n\n**Source**\n\n(Confidential Source) - Use only for educational purposes\nIf you use this dataset in your research, please credit the author.",
+  "datasetId": 3643017,
+  "datasetSlug": "newcastles-main-4-junctions-traffic-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jamesdatasets",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 54,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "Newcastle's 4 main junctions traffic data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nTraffic congestion is rising in cities around the world. Contributing factors include expanding urban populations, aging infrastructure, inefficient and uncoordinated traffic signal timing and a lack of real-time data.\n\n**Content**\n\nThis dataset contains 48.1k (48120) observations of the number of vehicles each hour in four different junctions:\n1) DateTime\n2) Juction\n3) Vehicles\n4) ID\n\n**About the data**\n\nThe sensors on each of these junctions were collecting data at different times, hence you will see traffic data from different time periods. Some of the junctions have provided limited or sparse data requiring thoughtfulness when creating future projections.\n\n**Source**\n\n(Confidential Source) - Use only for educational purposes\nIf you use this dataset in your research, please credit the author.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

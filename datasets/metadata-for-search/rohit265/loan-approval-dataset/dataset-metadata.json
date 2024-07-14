@@ -1,0 +1,43 @@
+{
+  "id": "rohit265/loan-approval-dataset",
+  "id_no": 4837622,
+  "datasetSlugNullable": "loan-approval-dataset",
+  "ownerUserNullable": "rohit265",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Loan Approval Dataset",
+  "subtitleNullable": "Exploring Loan Applicant Characteristics and Risk Assessment",
+  "descriptionNullable": "This dataset provides insights into loan applicants' characteristics and their risk assessment. It comprises information on various attributes of loan applicants, including demographic details, financial status, employment history, and ownership status. The dataset includes both numerical and categorical features, making it suitable for diverse analytical approaches.\n\nKey Features:\n\n1. Id: Unique identifier for each loan applicant.\n2. Income: The income level of the applicant.\n3. Age: Age of the applicant.\n4. Experience: Years of professional experience.\n5. Married/Single: Marital status of the applicant.\n6. House_Ownership: Indicates whether the applicant owns or rents a house.\n7. Car_Ownership: Indicates whether the applicant owns a car.\n8. Profession: Occupation or profession of the applicant.\n9. CITY: City of residence of the applicant.\n10. STATE: State of residence of the applicant.\n11. CURRENT_JOB_YRS: Duration of employment in the current job.\n12. CURRENT_HOUSE_YRS: Duration of residence in the current house.\n13. Risk_Flag: Binary indicator of loan risk, where 1 represents a flagged risky applicant and 0 represents a non-risky applicant.\n\nThis dataset contains 252,000 entries and provides a comprehensive overview of loan applicants' profiles, enabling analysis and modeling for risk assessment and decision-making in lending processes.",
+  "datasetId": 4837622,
+  "datasetSlug": "loan-approval-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohit265",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10219,
+  "totalVotes": 42,
+  "totalDownloads": 2185,
+  "title": "Loan Approval Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring Loan Applicant Characteristics and Risk Assessment",
+  "hasSubtitle": true,
+  "description": "This dataset provides insights into loan applicants' characteristics and their risk assessment. It comprises information on various attributes of loan applicants, including demographic details, financial status, employment history, and ownership status. The dataset includes both numerical and categorical features, making it suitable for diverse analytical approaches.\n\nKey Features:\n\n1. Id: Unique identifier for each loan applicant.\n2. Income: The income level of the applicant.\n3. Age: Age of the applicant.\n4. Experience: Years of professional experience.\n5. Married/Single: Marital status of the applicant.\n6. House_Ownership: Indicates whether the applicant owns or rents a house.\n7. Car_Ownership: Indicates whether the applicant owns a car.\n8. Profession: Occupation or profession of the applicant.\n9. CITY: City of residence of the applicant.\n10. STATE: State of residence of the applicant.\n11. CURRENT_JOB_YRS: Duration of employment in the current job.\n12. CURRENT_HOUSE_YRS: Duration of residence in the current house.\n13. Risk_Flag: Binary indicator of loan risk, where 1 represents a flagged risky applicant and 0 represents a non-risky applicant.\n\nThis dataset contains 252,000 entries and provides a comprehensive overview of loan applicants' profiles, enabling analysis and modeling for risk assessment and decision-making in lending processes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "finance",
+    "banking",
+    "classification",
+    "insurance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

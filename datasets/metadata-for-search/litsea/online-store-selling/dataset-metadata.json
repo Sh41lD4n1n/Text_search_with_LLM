@@ -1,0 +1,39 @@
+{
+  "id": "litsea/online-store-selling",
+  "id_no": 5221532,
+  "datasetSlugNullable": "online-store-selling",
+  "ownerUserNullable": "litsea",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Online Store Selling",
+  "subtitleNullable": "",
+  "descriptionNullable": "This is a synthetic dataset of an online store selling natural cosmetics. It is closely approximated to real data, with logic maintained in the number of sales during certain periods, the influence of user ratings on products, and even the seasonality of some product sales.",
+  "datasetId": 5221532,
+  "datasetSlug": "online-store-selling",
+  "hasDatasetSlug": true,
+  "ownerUser": "litsea",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 33,
+  "totalVotes": 1,
+  "totalDownloads": 6,
+  "title": "Online Store Selling",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This is a synthetic dataset of an online store selling natural cosmetics. It is closely approximated to real data, with logic maintained in the number of sales during certain periods, the influence of user ratings on products, and even the seasonality of some product sales.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "make-up and cosmetics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bryan2k19/dutch-house-prices-dataset",
+  "id_no": 2391434,
+  "datasetSlugNullable": "dutch-house-prices-dataset",
+  "ownerUserNullable": "bryan2k19",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dutch House Prices Dataset",
+  "subtitleNullable": "Dataset consisting of information on over 5000 houses in the Netherlands",
+  "descriptionNullable": "This dataset has been created for a personal project on house price predictions. As no dataset on house prices was available in the Netherlands, I decided to create one myself. The data consists of information retrieved from the largest real estate website in the Netherlands: [Funda](https://www.funda.nl/). \n\nThe data consists of basic descriptors such as the address and ask price, but also contains the number of rooms and bathrooms, the type of building and the year the building was constructed.\n\nThe source code for the creation of the dataset can be found [here](https://github.com/bryanlusse/HousePrices__Webscraper) \n\nThumbnail image credit: [@rarchitecture_melbourne](https://unsplash.com/@rarchitecture_melbourne) - Unsplash",
+  "datasetId": 2391434,
+  "datasetSlug": "dutch-house-prices-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bryan2k19",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3487,
+  "totalVotes": 10,
+  "totalDownloads": 564,
+  "title": "Dutch House Prices Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset consisting of information on over 5000 houses in the Netherlands",
+  "hasSubtitle": true,
+  "description": "This dataset has been created for a personal project on house price predictions. As no dataset on house prices was available in the Netherlands, I decided to create one myself. The data consists of information retrieved from the largest real estate website in the Netherlands: [Funda](https://www.funda.nl/). \n\nThe data consists of basic descriptors such as the address and ask price, but also contains the number of rooms and bathrooms, the type of building and the year the building was constructed.\n\nThe source code for the creation of the dataset can be found [here](https://github.com/bryanlusse/HousePrices__Webscraper) \n\nThumbnail image credit: [@rarchitecture_melbourne](https://unsplash.com/@rarchitecture_melbourne) - Unsplash",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "real estate",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

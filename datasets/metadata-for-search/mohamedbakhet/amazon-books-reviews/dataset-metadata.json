@@ -1,0 +1,44 @@
+{
+  "id": "mohamedbakhet/amazon-books-reviews",
+  "id_no": 2476732,
+  "datasetSlugNullable": "amazon-books-reviews",
+  "ownerUserNullable": "mohamedbakhet",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Books Reviews",
+  "subtitleNullable": "Goodreads-books reviews and descriptions of each book ",
+  "descriptionNullable": "![ERD Digram](https://i.imgur.com/9ELRD7G.png)\n \nThis dataset contains 2 files as you see in the figure above \n<br>\nThe first file** reviews** file contain feedback about 3M user on 212404 unique books the data set is part of the Amazon review Dataset it contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.\nand this file has these attributes\n\n| Features  | Description  | \n| --- | --- |\n| id  | The Id of Book |\n|Title|Book Title| \n|Price|The price of Book |\n|User_id|Id of the user who rates the book|\n|profileName|Name of the user who rates the book|\n|review/helpfulness|helpfulness rating of the review, e.g. 2/3|\n|review/score|rating from 0 to 5 for the book|\n|review/time|time of given  the review|\n|review/summary|the summary of a text review|\n|review/text|the full text of a review|\n|  |  \n\nThe second file **Books Details** file contains details information about  212404 unique books it file is built by using \n[google books API](https://developers.google.com/books/docs/overview) to get details information about books it rated in the first file \nand this file contains   \n\n| Features  | Description  | \n| --- | --- |\n|Title|Book Title|\n|Descripe |decription of book |\n|authors|Neme of book authors|\n|image|url for book cover|\n|previewLink|link to access this book on google Books|\n|publisher|Name of the publisheer|\n|publishedDate|the date of publish|\n|infoLink|link to get more information about the book on google books|\n|categories|genres of books|\n|ratingsCount|averaging rating for book|\n|  |  \n## recommender tasks on the data set\n* recommender system\n* sentiment analysis \n* text classification \n* text clustering\n* gans generate book cover \n* data analysis \n* visualization \n\nI wish this dataset by helpful for you  \ud83d\ude03\ud83d\ude03",
+  "datasetId": 2476732,
+  "datasetSlug": "amazon-books-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedbakhet",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 78717,
+  "totalVotes": 156,
+  "totalDownloads": 14531,
+  "title": "Amazon Books Reviews",
+  "hasTitle": true,
+  "subtitle": "Goodreads-books reviews and descriptions of each book ",
+  "hasSubtitle": true,
+  "description": "![ERD Digram](https://i.imgur.com/9ELRD7G.png)\n \nThis dataset contains 2 files as you see in the figure above \n<br>\nThe first file** reviews** file contain feedback about 3M user on 212404 unique books the data set is part of the Amazon review Dataset it contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.\nand this file has these attributes\n\n| Features  | Description  | \n| --- | --- |\n| id  | The Id of Book |\n|Title|Book Title| \n|Price|The price of Book |\n|User_id|Id of the user who rates the book|\n|profileName|Name of the user who rates the book|\n|review/helpfulness|helpfulness rating of the review, e.g. 2/3|\n|review/score|rating from 0 to 5 for the book|\n|review/time|time of given  the review|\n|review/summary|the summary of a text review|\n|review/text|the full text of a review|\n|  |  \n\nThe second file **Books Details** file contains details information about  212404 unique books it file is built by using \n[google books API](https://developers.google.com/books/docs/overview) to get details information about books it rated in the first file \nand this file contains   \n\n| Features  | Description  | \n| --- | --- |\n|Title|Book Title|\n|Descripe |decription of book |\n|authors|Neme of book authors|\n|image|url for book cover|\n|previewLink|link to access this book on google Books|\n|publisher|Name of the publisheer|\n|publishedDate|the date of publish|\n|infoLink|link to get more information about the book on google books|\n|categories|genres of books|\n|ratingsCount|averaging rating for book|\n|  |  \n## recommender tasks on the data set\n* recommender system\n* sentiment analysis \n* text classification \n* text clustering\n* gans generate book cover \n* data analysis \n* visualization \n\nI wish this dataset by helpful for you  \ud83d\ude03\ud83d\ude03",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "recommender systems",
+    "tabular",
+    "text",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "willianoliveiragibin/commerce-furniture",
+  "id_no": 5223087,
+  "datasetSlugNullable": "commerce-furniture",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "commerce Furniture",
+  "subtitleNullable": "This dataset comprises 2,000 entries scraped from AliExpress.",
+  "descriptionNullable": "this graph was created in PowerBi,Loocker studio and Tableau:\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2Fea63e695d326e3f57b044725376024c2%2Fgraph1.jpg?generation=1718574239511915&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2Fc285144b368e9b25b2d576d5bf6d4b81%2Fgraph2.png?generation=1718574245118394&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F80adbea61286526a5910b803a8d4822e%2Fgraph3.png?generation=1718574250267201&alt=media)\n\n\nAliExpress Data is vast collection of information and statistics gathered from the AliExpress online marketplace. It includes details about products, sellers, prices, customer reviews, ratings, and other relevant data points. This data can be analyzed to gain insights into market trends, consumer behavior, and business performance, helping businesses make informed decisions and optimize their operations on the platform.\nExamples of AliExpress data include product listings, customer reviews, seller ratings, and transaction details. AliExpress data is used for various purposes such as market research, competitor analysis, trend identification, and customer behavior analysis. In this page, you\u2019ll find the best data sources for AliExpress data, AliExpress dataset, AliExpress data analysis.",
+  "datasetId": 5223087,
+  "datasetSlug": "commerce-furniture",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 25,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "commerce Furniture",
+  "hasTitle": true,
+  "subtitle": "This dataset comprises 2,000 entries scraped from AliExpress.",
+  "hasSubtitle": true,
+  "description": "this graph was created in PowerBi,Loocker studio and Tableau:\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2Fea63e695d326e3f57b044725376024c2%2Fgraph1.jpg?generation=1718574239511915&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2Fc285144b368e9b25b2d576d5bf6d4b81%2Fgraph2.png?generation=1718574245118394&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F80adbea61286526a5910b803a8d4822e%2Fgraph3.png?generation=1718574250267201&alt=media)\n\n\nAliExpress Data is vast collection of information and statistics gathered from the AliExpress online marketplace. It includes details about products, sellers, prices, customer reviews, ratings, and other relevant data points. This data can be analyzed to gain insights into market trends, consumer behavior, and business performance, helping businesses make informed decisions and optimize their operations on the platform.\nExamples of AliExpress data include product listings, customer reviews, seller ratings, and transaction details. AliExpress data is used for various purposes such as market research, competitor analysis, trend identification, and customer behavior analysis. In this page, you\u2019ll find the best data sources for AliExpress data, AliExpress dataset, AliExpress data analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "finance",
+    "data cleaning",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

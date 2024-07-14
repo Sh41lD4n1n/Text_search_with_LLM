@@ -1,0 +1,39 @@
+{
+  "id": "francielleavargas/opcovidbr",
+  "id_no": 803749,
+  "datasetSlugNullable": "opcovidbr",
+  "ownerUserNullable": "francielleavargas",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Coronavirus Twitters NLP: Text Classification (PT)",
+  "subtitleNullable": "OPCovid-BR: Dataset for Aspect-based Sentiment Analysis in Portuguese Language",
+  "descriptionNullable": "###OPCovid-BR\nTwitter Data on Covid-19 for Aspect-Based Sentiment Analysis in Brazilian Portuguese\n\n### Context\nOpinion mining or sentiment analysis is a relevant task above all when the world lives a pandemic.Extracting and classifying fine-grained opinion and polarity may provide insight to public and private agencies making better decision against the coronavirus pandemic. Therefore, in this paper, we provide a new dataset of twitter data related to novel coronavirus (2019-nCoV), which it composed by 600 twitters manually annotated with aspects-level target and binary polarity (positive negative).\n\n###Content\nThe OPCovid-Br consists of a dataset of twitter data for fine-grained opinion mining or sentiment analysis applications in Portuguese Language. The OPCovid-BR is composed by 600 annotated twitters with  opinion aspects, as well as the binary document polarity (positive or negative).\n\n###Acknowledgements\nThe authors are grateful to CAPES and CNPq for supporting this work.\n\n###Citing\nVargas, F.A.,Santos, R.S.S. and Rocha, P.R. (2020). Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic. Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020), Rio Grande, RS, Brazil.\n\n###Bibtex\n@inproceedings{VargasEtAll2020, author = {Francielle Alves Vargas and Rodolfo Sanches Saraiva Dos Santos and Pedro Regattieri Rocha}, title = {Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic}, booktitle = {Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020)}, pages = {01-10}, year = {2020}, address = {Rio Grande, RS, Brazil}, crossref = {http://bracis2020.c3.furg.br/acceptedPapers.html}, }\n",
+  "datasetId": 803749,
+  "datasetSlug": "opcovidbr",
+  "hasDatasetSlug": true,
+  "ownerUser": "francielleavargas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 3129,
+  "totalVotes": 7,
+  "totalDownloads": 120,
+  "title": "Coronavirus Twitters NLP: Text Classification (PT)",
+  "hasTitle": true,
+  "subtitle": "OPCovid-BR: Dataset for Aspect-based Sentiment Analysis in Portuguese Language",
+  "hasSubtitle": true,
+  "description": "###OPCovid-BR\nTwitter Data on Covid-19 for Aspect-Based Sentiment Analysis in Brazilian Portuguese\n\n### Context\nOpinion mining or sentiment analysis is a relevant task above all when the world lives a pandemic.Extracting and classifying fine-grained opinion and polarity may provide insight to public and private agencies making better decision against the coronavirus pandemic. Therefore, in this paper, we provide a new dataset of twitter data related to novel coronavirus (2019-nCoV), which it composed by 600 twitters manually annotated with aspects-level target and binary polarity (positive negative).\n\n###Content\nThe OPCovid-Br consists of a dataset of twitter data for fine-grained opinion mining or sentiment analysis applications in Portuguese Language. The OPCovid-BR is composed by 600 annotated twitters with  opinion aspects, as well as the binary document polarity (positive or negative).\n\n###Acknowledgements\nThe authors are grateful to CAPES and CNPq for supporting this work.\n\n###Citing\nVargas, F.A.,Santos, R.S.S. and Rocha, P.R. (2020). Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic. Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020), Rio Grande, RS, Brazil.\n\n###Bibtex\n@inproceedings{VargasEtAll2020, author = {Francielle Alves Vargas and Rodolfo Sanches Saraiva Dos Santos and Pedro Regattieri Rocha}, title = {Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic}, booktitle = {Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020)}, pages = {01-10}, year = {2020}, address = {Rio Grande, RS, Brazil}, crossref = {http://bracis2020.c3.furg.br/acceptedPapers.html}, }\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

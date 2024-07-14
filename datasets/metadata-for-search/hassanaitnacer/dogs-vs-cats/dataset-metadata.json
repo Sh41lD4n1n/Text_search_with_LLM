@@ -1,0 +1,43 @@
+{
+  "id": "hassanaitnacer/dogs-vs-cats",
+  "id_no": 2751699,
+  "datasetSlugNullable": "dogs-vs-cats",
+  "ownerUserNullable": "hassanaitnacer",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Dogs vs Cats",
+  "subtitleNullable": "Classifying Man's Best Friends: A Guide to Distinguishing Dogs and Cats",
+  "descriptionNullable": "Context: The dataset may be intended for use in a machine learning project or research study related to image classification or object recognition. The dataset could be used to train a model to distinguish between images of dogs and cats.\n\nSources: The images in the dataset may have been collected from a variety of sources, such as online image databases, social media platforms, or personal collections. It is possible that the images have been annotated or labeled in some way to indicate whether they depict a dog or a cat.\n\nInspiration: The dataset may have been inspired by a particular research question or problem related to image classification or object recognition. The creators of the dataset may have been interested in exploring the differences between dogs and cats and how they can be distinguished by machine learning algorithms. Alternatively, the dataset may have been created as a teaching tool or for use in a classroom setting, to help students learn about image classification and machine learning concepts.",
+  "datasetId": 2751699,
+  "datasetSlug": "dogs-vs-cats",
+  "hasDatasetSlug": true,
+  "ownerUser": "hassanaitnacer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1891,
+  "totalVotes": 7,
+  "totalDownloads": 355,
+  "title": "Dogs vs Cats",
+  "hasTitle": true,
+  "subtitle": "Classifying Man's Best Friends: A Guide to Distinguishing Dogs and Cats",
+  "hasSubtitle": true,
+  "description": "Context: The dataset may be intended for use in a machine learning project or research study related to image classification or object recognition. The dataset could be used to train a model to distinguish between images of dogs and cats.\n\nSources: The images in the dataset may have been collected from a variety of sources, such as online image databases, social media platforms, or personal collections. It is possible that the images have been annotated or labeled in some way to indicate whether they depict a dog or a cat.\n\nInspiration: The dataset may have been inspired by a particular research question or problem related to image classification or object recognition. The creators of the dataset may have been interested in exploring the differences between dogs and cats and how they can be distinguished by machine learning algorithms. Alternatively, the dataset may have been created as a teaching tool or for use in a classroom setting, to help students learn about image classification and machine learning concepts.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

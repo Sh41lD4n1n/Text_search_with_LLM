@@ -1,0 +1,43 @@
+{
+  "id": "kaggleprollc/mapillary-vistas-image-data-collection",
+  "id_no": 3606949,
+  "datasetSlugNullable": "mapillary-vistas-image-data-collection",
+  "ownerUserNullable": "kaggleprollc",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Mapillary Vistas Image Data Collection",
+  "subtitleNullable": "The street-level image goldmine with 25K crowdsourced scenes, used by Meta SAM",
+  "descriptionNullable": "It is a large, diverse dataset of street-level images labelled for semantic segmentation and object detection.\nContains **25,000** high-resolution images collected from various street-level scenes around the world.\n\n- The images are annotated with **66 object classes** for semantic segmentation, like road, sidewalk, building, traffic sign, person, car, etc.\n- There are also bounding box annotations for 37 of those classes for object detection.\n- The dataset has a variety of scenes, including city, town, village, countryside, beach, and winter images. Captured across 6 continents.\n- Provides both train and validation splits. Train has 18,000 images, and validation has 2,000 images.\n- Can be used to train models for tasks like semantic segmentation, instance segmentation, and object detection for self-driving cars, mobility applications, geographical analysis, etc.\n- Models pretrained on Mapillary Vistas transfer well to other street-level or aerial image datasets.\n\nOverall, Mapillary Vistas is a high quality, diverse dataset useful for various urban computer vision tasks involving classifying and localizing objects in street-level scenes. The varied images and multi-label annotations enable training rich perception models.\nThe Mapillary Vistas dataset was used to train **Meta's SAM** model for panoptic segmentation. SAM achieved state-of-the-art results on this dataset in 2021. Mapillary Vistas provides a diverse set of street-level scenes that enabled Meta to train a single model capable of segmenting many different classes.\n\n\n[Source](https://www.mapillary.com/dataset/vistas)",
+  "datasetId": 3606949,
+  "datasetSlug": "mapillary-vistas-image-data-collection",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaggleprollc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 2359,
+  "totalVotes": 16,
+  "totalDownloads": 318,
+  "title": "Mapillary Vistas Image Data Collection",
+  "hasTitle": true,
+  "subtitle": "The street-level image goldmine with 25K crowdsourced scenes, used by Meta SAM",
+  "hasSubtitle": true,
+  "description": "It is a large, diverse dataset of street-level images labelled for semantic segmentation and object detection.\nContains **25,000** high-resolution images collected from various street-level scenes around the world.\n\n- The images are annotated with **66 object classes** for semantic segmentation, like road, sidewalk, building, traffic sign, person, car, etc.\n- There are also bounding box annotations for 37 of those classes for object detection.\n- The dataset has a variety of scenes, including city, town, village, countryside, beach, and winter images. Captured across 6 continents.\n- Provides both train and validation splits. Train has 18,000 images, and validation has 2,000 images.\n- Can be used to train models for tasks like semantic segmentation, instance segmentation, and object detection for self-driving cars, mobility applications, geographical analysis, etc.\n- Models pretrained on Mapillary Vistas transfer well to other street-level or aerial image datasets.\n\nOverall, Mapillary Vistas is a high quality, diverse dataset useful for various urban computer vision tasks involving classifying and localizing objects in street-level scenes. The varied images and multi-label annotations enable training rich perception models.\nThe Mapillary Vistas dataset was used to train **Meta's SAM** model for panoptic segmentation. SAM achieved state-of-the-art results on this dataset in 2021. Mapillary Vistas provides a diverse set of street-level scenes that enabled Meta to train a single model capable of segmenting many different classes.\n\n\n[Source](https://www.mapillary.com/dataset/vistas)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "computer vision",
+    "image",
+    "image augmentation",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "name": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "simaanjali/emotion-analysis-based-on-text",
+  "id_no": 4540583,
+  "datasetSlugNullable": "emotion-analysis-based-on-text",
+  "ownerUserNullable": "simaanjali",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "emotion analysis based on text",
+  "subtitleNullable": "dataset for analyzing emotions from text",
+  "descriptionNullable": "Emotion detection from text is a major challenge in Natural Language Processing (NLP) due to the lack of labeled datasets and their multi-class complexity. Humans experience a wide range of emotions that are difficult to represent in sufficient data for each emotion, causing class imbalance. This Emotion Classification Dataset was compiled to support research in the field of NLP and emotion analysis. It includes a wide array of texts labeled with the emotions they convey, ranging from happiness to anger and sadness. The goal is to build an efficient model for detecting emotions from text.",
+  "datasetId": 4540583,
+  "datasetSlug": "emotion-analysis-based-on-text",
+  "hasDatasetSlug": true,
+  "ownerUser": "simaanjali",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12329,
+  "totalVotes": 43,
+  "totalDownloads": 2035,
+  "title": "emotion analysis based on text",
+  "hasTitle": true,
+  "subtitle": "dataset for analyzing emotions from text",
+  "hasSubtitle": true,
+  "description": "Emotion detection from text is a major challenge in Natural Language Processing (NLP) due to the lack of labeled datasets and their multi-class complexity. Humans experience a wide range of emotions that are difficult to represent in sufficient data for each emotion, causing class imbalance. This Emotion Classification Dataset was compiled to support research in the field of NLP and emotion analysis. It includes a wide array of texts labeled with the emotions they convey, ranging from happiness to anger and sadness. The goal is to build an efficient model for detecting emotions from text.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

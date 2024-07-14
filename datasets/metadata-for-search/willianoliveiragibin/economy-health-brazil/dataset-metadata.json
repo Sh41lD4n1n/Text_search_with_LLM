@@ -1,0 +1,43 @@
+{
+  "id": "willianoliveiragibin/economy-health-brazil",
+  "id_no": 4148918,
+  "datasetSlugNullable": "economy-health-brazil",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Economy_Health brazil",
+  "subtitleNullable": "Contains data from the World Bank's data portal. There is also a consolidated.",
+  "descriptionNullable": "Contains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Gender equality is a core development objective in its own right. It is also smart development policy and sound business practice. It is integral to economic growth, business growth and good development outcomes. Gender equality can boost productivity, enhance prospects for the next generation, build resilience, and make institutions more representative and effective. In December 2015, the World Bank Group Board discussed our new Gender Equality Strategy 2016-2023, which aims to address persistent gaps and proposed a sharpened focus on more and better gender data. The Bank Group is continually scaling up commitments and expanding partnerships to fill significant gaps in gender data. The database hosts the latest sex-disaggregated data and gender statistics covering demography, education, health, access to economic opportunities, public life and decision-making, and agency.\n\nContains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Cities can be tremendously efficient. It is easier to provide water and sanitation to people living closer together, while access to health, education, and other social and cultural services is also much more readily available. However, as cities grow, the cost of meeting basic needs increases, as does the strain on the environment and natural resources. Data on urbanization, traffic and congestion, and air pollution are from the United Nations Population Division, World Health Organization, International Road Federation, World Resources Institute, and other sources.\n\nContains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Data here cover child labor, gender issues, refugees, and asylum seekers. Children in many countries work long hours, often combining studying with work for pay. The data on their paid work are from household surveys conducted by the International Labour Organization (ILO), the United Nations Children's Fund (UNICEF), the World Bank, and national statistical offices. Gender disparities are measured using a compilation of data on key topics such as education, health, labor force participation, and political participation. Data on refugees are from the United Nations High Commissioner for Refugees complemented by statistics on Palestinian refugees under the mandate of the United Nations Relief and Works Agency.",
+  "datasetId": 4148918,
+  "datasetSlug": "economy-health-brazil",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 424,
+  "totalVotes": 4,
+  "totalDownloads": 37,
+  "title": "Economy_Health brazil",
+  "hasTitle": true,
+  "subtitle": "Contains data from the World Bank's data portal. There is also a consolidated.",
+  "hasSubtitle": true,
+  "description": "Contains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Gender equality is a core development objective in its own right. It is also smart development policy and sound business practice. It is integral to economic growth, business growth and good development outcomes. Gender equality can boost productivity, enhance prospects for the next generation, build resilience, and make institutions more representative and effective. In December 2015, the World Bank Group Board discussed our new Gender Equality Strategy 2016-2023, which aims to address persistent gaps and proposed a sharpened focus on more and better gender data. The Bank Group is continually scaling up commitments and expanding partnerships to fill significant gaps in gender data. The database hosts the latest sex-disaggregated data and gender statistics covering demography, education, health, access to economic opportunities, public life and decision-making, and agency.\n\nContains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Cities can be tremendously efficient. It is easier to provide water and sanitation to people living closer together, while access to health, education, and other social and cultural services is also much more readily available. However, as cities grow, the cost of meeting basic needs increases, as does the strain on the environment and natural resources. Data on urbanization, traffic and congestion, and air pollution are from the United Nations Population Division, World Health Organization, International Road Federation, World Resources Institute, and other sources.\n\nContains data from the World Bank's data portal. There is also a consolidated country dataset on HDX. Data here cover child labor, gender issues, refugees, and asylum seekers. Children in many countries work long hours, often combining studying with work for pay. The data on their paid work are from household surveys conducted by the International Labour Organization (ILO), the United Nations Children's Fund (UNICEF), the World Bank, and national statistical offices. Gender disparities are measured using a compilation of data on key topics such as education, health, labor force participation, and political participation. Data on refugees are from the United Nations High Commissioner for Refugees complemented by statistics on Palestinian refugees under the mandate of the United Nations Relief and Works Agency.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "banking",
+    "advanced",
+    "data analytics",
+    "graph"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

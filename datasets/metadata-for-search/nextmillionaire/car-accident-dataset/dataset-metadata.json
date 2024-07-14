@@ -1,0 +1,43 @@
+{
+  "id": "nextmillionaire/car-accident-dataset",
+  "id_no": 4288589,
+  "datasetSlugNullable": "car-accident-dataset",
+  "ownerUserNullable": "nextmillionaire",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Car Accident Dataset",
+  "subtitleNullable": "Road Accident Records in Kensington and Chelsea (January 2021)",
+  "descriptionNullable": "This dataset provides detailed records of road accidents that occurred during *January 2021*. It includes information such as the accident date, day of the week, junction control, accident severity, geographical coordinates, lighting and weather conditions, vehicle details, and more. The data is valuable for analyzing and understanding the factors contributing to road accidents in this urban area, aiding in the development of strategies for improved road safety.\n\n\n**Accident_Index:** A unique identifier for each accident record.\n\n**Accident Date:** The date on which the accident occurred (format: DD/MM/YYYY).\n\n**Day_of_Week:** The day of the week when the accident took place.\n\n**Junction_Control** : Describes the type of junction control at the accident location (e.g., \"Give way or uncontrolled\").\n\n**Junction_Detail:** Provides additional details about the junction where the accident occurred (e.g., \"T or staggered junction\").\n\n**Accident_Severity:** Indicates the severity of the accident (e.g., \"Serious\").\n\n**Latitude:** The geographic latitude of the accident location.\n\n**Light_Conditions:** Describes the lighting conditions at the time of the accident (e.g., \"Daylight\").\n\n**Local_Authority_(District)**: The local authority district where the accident occurred.\n\n**Carriageway_Hazards:** Describes any hazards present on the carriageway at the time of the accident (e.g., \"None\").\n\n**Longitude:** The geographic longitude of the accident location.\n\n**Number_of_Casualties:** The total number of casualties involved in the accident.\n\n**Number_of_Vehicles:** The total number of vehicles involved in the accident.\n\n**Police_Force:** The police force that handled the accident.\n\n**Road_Surface_Conditions:** Describes the surface conditions of the road at the time of the accident (e.g., \"Dry\").\n\n**Road_Type:** Specifies the type of road where the accident occurred (e.g., \"One way street\").\n\n**Speed_limit:** The speed limit applicable to the road where the accident occurred.\n\n**Time:** The time of day when the accident happened (format: HH:MM).\n\n**Urban_or_Rural_Area:** Indicates whether the accident occurred in an urban or rural area.\n\n**Weather_Conditions:** Describes the weather conditions at the time of the accident (e.g., \"Fine no high winds\").\n\n**Vehicle_Type:** Specifies the type of vehicle involved in the accident (e.g., \"Car,\" \"Taxi/Private hire car\").",
+  "datasetId": 4288589,
+  "datasetSlug": "car-accident-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nextmillionaire",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 15183,
+  "totalVotes": 47,
+  "totalDownloads": 3037,
+  "title": "Car Accident Dataset",
+  "hasTitle": true,
+  "subtitle": "Road Accident Records in Kensington and Chelsea (January 2021)",
+  "hasSubtitle": true,
+  "description": "This dataset provides detailed records of road accidents that occurred during *January 2021*. It includes information such as the accident date, day of the week, junction control, accident severity, geographical coordinates, lighting and weather conditions, vehicle details, and more. The data is valuable for analyzing and understanding the factors contributing to road accidents in this urban area, aiding in the development of strategies for improved road safety.\n\n\n**Accident_Index:** A unique identifier for each accident record.\n\n**Accident Date:** The date on which the accident occurred (format: DD/MM/YYYY).\n\n**Day_of_Week:** The day of the week when the accident took place.\n\n**Junction_Control** : Describes the type of junction control at the accident location (e.g., \"Give way or uncontrolled\").\n\n**Junction_Detail:** Provides additional details about the junction where the accident occurred (e.g., \"T or staggered junction\").\n\n**Accident_Severity:** Indicates the severity of the accident (e.g., \"Serious\").\n\n**Latitude:** The geographic latitude of the accident location.\n\n**Light_Conditions:** Describes the lighting conditions at the time of the accident (e.g., \"Daylight\").\n\n**Local_Authority_(District)**: The local authority district where the accident occurred.\n\n**Carriageway_Hazards:** Describes any hazards present on the carriageway at the time of the accident (e.g., \"None\").\n\n**Longitude:** The geographic longitude of the accident location.\n\n**Number_of_Casualties:** The total number of casualties involved in the accident.\n\n**Number_of_Vehicles:** The total number of vehicles involved in the accident.\n\n**Police_Force:** The police force that handled the accident.\n\n**Road_Surface_Conditions:** Describes the surface conditions of the road at the time of the accident (e.g., \"Dry\").\n\n**Road_Type:** Specifies the type of road where the accident occurred (e.g., \"One way street\").\n\n**Speed_limit:** The speed limit applicable to the road where the accident occurred.\n\n**Time:** The time of day when the accident happened (format: HH:MM).\n\n**Urban_or_Rural_Area:** Indicates whether the accident occurred in an urban or rural area.\n\n**Weather_Conditions:** Describes the weather conditions at the time of the accident (e.g., \"Fine no high winds\").\n\n**Vehicle_Type:** Specifies the type of vehicle involved in the accident (e.g., \"Car,\" \"Taxi/Private hire car\").",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

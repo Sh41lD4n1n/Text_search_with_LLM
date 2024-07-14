@@ -1,0 +1,44 @@
+{
+  "id": "joyshil0599/movie-reviews-dataset-10k-scraped-data",
+  "id_no": 3030249,
+  "datasetSlugNullable": "movie-reviews-dataset-10k-scraped-data",
+  "ownerUserNullable": "joyshil0599",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Movie Reviews Dataset: 10k+ Scraped Data",
+  "subtitleNullable": "Explore sentiments,ratings,and more with our comprehensive movie review dataset.",
+  "descriptionNullable": "The dataset contains over 10,000 movie reviews that were scraped from two popular movie review websites, **Letterboxd** and **Metacritic**. \n\n**Letterboxd:** Letterboxd is a global social network for grass-roots film discussion and discovery. Use it as a diary to record and share your opinion about films as you watch them, or just to keep track of films you\u2019ve seen in the past. Showcase your favorites on your profile page. Rate, review and tag films as you add them. Find and follow your friends to see what they\u2019re enjoying. Keep a watchlist of films you\u2019d like to see, and create lists/collections on any given topic. We\u2019ve been described as \u201clike GoodReads for movies\u201d.\nWe have apps for iOS, Android and Apple TV. Paying members get an ad-free experience, personalized all-time and annual stats pages, the option to select and filter by what\u2019s available on their favorite streaming services, watchlist notifications, the ability to filter activity streams by entry type and to clone other members\u2019 lists, and much more. Learn about Pro.Read more about the genesis of Letterboxd and follow us on Twitter, Facebook, Instagram, YouTube and TikTok.\n\n**Metacritic:** It began as a simple idea back in the summer of 1999: a single score could summarize the many entertainment reviews available for a movie or a video game. Metacritic's three founding members\u2014all former attorneys who were happy to find a more constructive but less profitable use of their time\u2014launched the site in January 2001 and Metacritic has evolved over the last decade to reflect their experience distilling many critics' voices into the single Metascore, a weighted average of the most respected critics writing reviews online and in print.\nMetacritic's mission is to help consumers make an informed decision about how to spend their time and money on entertainment. We believe that multiple opinions are better than one, user voices can be as important as critics, and opinions must be scored to be easy to use.\nOur Metascore system is unique and merits its own explanation page.\n\nEach review includes various data points such as the **movie title**, **release year**,  **review text** , **rating** , and **sentiment** . The data can be used for sentiment analysis, natural language processing, and machine learning applications such as text classification, recommendation systems, and more.\n\nSince the dataset includes reviews from two different websites, it offers a diverse range of opinions and perspectives on a wide variety of movies. Additionally, the large size of the dataset makes it a valuable resource for researchers, analysts, and data scientists who are interested in studying movie reviews and developing new insights into audience preferences, trends, and behaviors.\n\nOverall, this dataset offers a rich source of information for anyone who wants to analyze or explore movie reviews in depth.",
+  "datasetId": 3030249,
+  "datasetSlug": "movie-reviews-dataset-10k-scraped-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "joyshil0599",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5233,
+  "totalVotes": 32,
+  "totalDownloads": 805,
+  "title": "Movie Reviews Dataset: 10k+ Scraped Data",
+  "hasTitle": true,
+  "subtitle": "Explore sentiments,ratings,and more with our comprehensive movie review dataset.",
+  "hasSubtitle": true,
+  "description": "The dataset contains over 10,000 movie reviews that were scraped from two popular movie review websites, **Letterboxd** and **Metacritic**. \n\n**Letterboxd:** Letterboxd is a global social network for grass-roots film discussion and discovery. Use it as a diary to record and share your opinion about films as you watch them, or just to keep track of films you\u2019ve seen in the past. Showcase your favorites on your profile page. Rate, review and tag films as you add them. Find and follow your friends to see what they\u2019re enjoying. Keep a watchlist of films you\u2019d like to see, and create lists/collections on any given topic. We\u2019ve been described as \u201clike GoodReads for movies\u201d.\nWe have apps for iOS, Android and Apple TV. Paying members get an ad-free experience, personalized all-time and annual stats pages, the option to select and filter by what\u2019s available on their favorite streaming services, watchlist notifications, the ability to filter activity streams by entry type and to clone other members\u2019 lists, and much more. Learn about Pro.Read more about the genesis of Letterboxd and follow us on Twitter, Facebook, Instagram, YouTube and TikTok.\n\n**Metacritic:** It began as a simple idea back in the summer of 1999: a single score could summarize the many entertainment reviews available for a movie or a video game. Metacritic's three founding members\u2014all former attorneys who were happy to find a more constructive but less profitable use of their time\u2014launched the site in January 2001 and Metacritic has evolved over the last decade to reflect their experience distilling many critics' voices into the single Metascore, a weighted average of the most respected critics writing reviews online and in print.\nMetacritic's mission is to help consumers make an informed decision about how to spend their time and money on entertainment. We believe that multiple opinions are better than one, user voices can be as important as critics, and opinions must be scored to be easy to use.\nOur Metascore system is unique and merits its own explanation page.\n\nEach review includes various data points such as the **movie title**, **release year**,  **review text** , **rating** , and **sentiment** . The data can be used for sentiment analysis, natural language processing, and machine learning applications such as text classification, recommendation systems, and more.\n\nSince the dataset includes reviews from two different websites, it offers a diverse range of opinions and perspectives on a wide variety of movies. Additionally, the large size of the dataset makes it a valuable resource for researchers, analysts, and data scientists who are interested in studying movie reviews and developing new insights into audience preferences, trends, and behaviors.\n\nOverall, this dataset offers a rich source of information for anyone who wants to analyze or explore movie reviews in depth.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "global",
+    "beginner",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

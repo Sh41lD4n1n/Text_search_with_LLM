@@ -1,0 +1,45 @@
+{
+  "id": "praveengovi/coronahack-chest-xraydataset",
+  "id_no": 562468,
+  "datasetSlugNullable": "coronahack-chest-xraydataset",
+  "ownerUserNullable": "praveengovi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "CoronaHack -Chest X-Ray-Dataset",
+  "subtitleNullable": "Classify the X Ray image which is having Corona",
+  "descriptionNullable": "### Context\n\nCorona - COVID19 virus affects the respiratory system of healthy individual & Chest X -Ray is one of the important  imaging methods to identify the corona virus.\n\nWith the Chest X - Ray dataset, Develop a Machine Learning Model to classify the X Rays of Healthy vs Pneumonia (Corona) affected patients  & this model powers the AI application to test the Corona Virus in Faster Phase.\n\n### Content\n\nCollection Chest X Ray of  Healthy vs Pneumonia (Corona) affected patients infected patients along with few other categories such as SARS (Severe Acute Respiratory Syndrome ) ,Streptococcus & ARDS (Acute Respiratory Distress Syndrome)\n\nImages name and labels are available  in  Chest_Xray_Corona_Metadata.csv\n\nCOVID 19               - https://en.wikipedia.org/wiki/Coronavirus_disease_2019\nARDS                      - https://en.wikipedia.org/wiki/Acute_respiratory_distress_syndrome\nStreptococcus       -  https://en.wikipedia.org/wiki/Streptococcus\nSARS                      - https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F378285%2Fcfdeda929ebe5e6254590538601c0ef6%2FChest_XRay_dataset_labels.png?generation=1584770009221937&alt=media)\n\n\n### Acknowledgements\n\nI would like to thank to below team from Joseph Paul Cohen. Postdoctoral Fellow, Mila, University of Montreal for the dataset below for corona dataset & 80% dataset collected from different sources.\n\nOriginal Source :- https://github.com/ieee8023/covid-chestxray-dataset\n\n\n### Inspiration\n\nAutomated methods to detect and classify human diseases from medical images.Novel Machine Learning Algorithms and neural networks helps to reduce the Corona Virus detection time and aids the doctor to drive the consultation in better way\n",
+  "datasetId": 562468,
+  "datasetSlug": "coronahack-chest-xraydataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "praveengovi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 160987,
+  "totalVotes": 529,
+  "totalDownloads": 19557,
+  "title": "CoronaHack -Chest X-Ray-Dataset",
+  "hasTitle": true,
+  "subtitle": "Classify the X Ray image which is having Corona",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCorona - COVID19 virus affects the respiratory system of healthy individual & Chest X -Ray is one of the important  imaging methods to identify the corona virus.\n\nWith the Chest X - Ray dataset, Develop a Machine Learning Model to classify the X Rays of Healthy vs Pneumonia (Corona) affected patients  & this model powers the AI application to test the Corona Virus in Faster Phase.\n\n### Content\n\nCollection Chest X Ray of  Healthy vs Pneumonia (Corona) affected patients infected patients along with few other categories such as SARS (Severe Acute Respiratory Syndrome ) ,Streptococcus & ARDS (Acute Respiratory Distress Syndrome)\n\nImages name and labels are available  in  Chest_Xray_Corona_Metadata.csv\n\nCOVID 19               - https://en.wikipedia.org/wiki/Coronavirus_disease_2019\nARDS                      - https://en.wikipedia.org/wiki/Acute_respiratory_distress_syndrome\nStreptococcus       -  https://en.wikipedia.org/wiki/Streptococcus\nSARS                      - https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F378285%2Fcfdeda929ebe5e6254590538601c0ef6%2FChest_XRay_dataset_labels.png?generation=1584770009221937&alt=media)\n\n\n### Acknowledgements\n\nI would like to thank to below team from Joseph Paul Cohen. Postdoctoral Fellow, Mila, University of Montreal for the dataset below for corona dataset & 80% dataset collected from different sources.\n\nOriginal Source :- https://github.com/ieee8023/covid-chestxray-dataset\n\n\n### Inspiration\n\nAutomated methods to detect and classify human diseases from medical images.Novel Machine Learning Algorithms and neural networks helps to reduce the Corona Virus detection time and aids the doctor to drive the consultation in better way\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "earth and nature",
+    "health",
+    "artificial intelligence",
+    "computer vision",
+    "deep learning",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

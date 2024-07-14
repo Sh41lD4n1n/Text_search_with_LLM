@@ -1,0 +1,39 @@
+{
+  "id": "naveedpy1/wine-quality-red",
+  "id_no": 1245801,
+  "datasetSlugNullable": "wine-quality-red",
+  "ownerUserNullable": "naveedpy1",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Wine Quality Red",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1245801,
+  "datasetSlug": "wine-quality-red",
+  "hasDatasetSlug": true,
+  "ownerUser": "naveedpy1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1137,
+  "totalVotes": 1,
+  "totalDownloads": 12,
+  "title": "Wine Quality Red",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

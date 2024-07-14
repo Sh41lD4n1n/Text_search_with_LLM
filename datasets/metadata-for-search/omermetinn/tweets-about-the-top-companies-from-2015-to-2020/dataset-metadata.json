@@ -1,0 +1,49 @@
+{
+  "id": "omermetinn/tweets-about-the-top-companies-from-2015-to-2020",
+  "id_no": 999187,
+  "datasetSlugNullable": "tweets-about-the-top-companies-from-2015-to-2020",
+  "ownerUserNullable": "omermetinn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tweets about the Top Companies from 2015 to 2020",
+  "subtitleNullable": "Tweets about the Top NASDAQ Companies from 2015 to 2020",
+  "descriptionNullable": "### Tweets about the Top Companies from 2015 to 2020\n\nThis dataset as a part of the paper published in the 2020 IEEE International Conference on Big Data under the 6th Special Session on Intelligent Data Mining track, is created to determine possible speculators and influencers in a stock market. Although we used both tweet data and companies' market data in our project, we thought that it is a better choice to split our datasets into two parts while sharing in Kaggle. This dataset is helpful for those interested in tweets that are written about Amazon, Apple, Google, Microsoft, and Tesla by using their appropriate share tickers.\n\nNote: For those interested in the process of evaluating speculators and influencers in a stock market, the dataset in the following link may be helpful.\nhttps://www.kaggle.com/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020\n\n### Content\n\nThis dataset contains over 3 million unique tweets with their information such as tweet id, author of the tweet, post date, the text body of the tweet, and the number of comments, likes, and retweets of tweets matched with the related company.\n\n### Acknowledgements\n\nTweets are collected from Twitter by a parsing script that is based on Selenium.\nNote 1: For those interested in the script, please visit the following link.\nhttps://github.com/omer-metin/TweetCollector\n\nNote 2: For those interested in our paper used this dataset, please visit the following link.\nhttps://ieeexplore.ieee.org/document/9378170\n\n### Inspiration\n\nSome of the interesting questions (tasks) which can be performed on this dataset -\n\n1) Determining the correlation between the market value of company respect to the public opinion of that company.\n2) Sentiment Analysis of the companies with a time series in a graph and reasoning the possible declines and rises.\n3) Evaluating troll users who try to occupy the social agenda.\n",
+  "datasetId": 999187,
+  "datasetSlug": "tweets-about-the-top-companies-from-2015-to-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "omermetinn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 117980,
+  "totalVotes": 247,
+  "totalDownloads": 12600,
+  "title": "Tweets about the Top Companies from 2015 to 2020",
+  "hasTitle": true,
+  "subtitle": "Tweets about the Top NASDAQ Companies from 2015 to 2020",
+  "hasSubtitle": true,
+  "description": "### Tweets about the Top Companies from 2015 to 2020\n\nThis dataset as a part of the paper published in the 2020 IEEE International Conference on Big Data under the 6th Special Session on Intelligent Data Mining track, is created to determine possible speculators and influencers in a stock market. Although we used both tweet data and companies' market data in our project, we thought that it is a better choice to split our datasets into two parts while sharing in Kaggle. This dataset is helpful for those interested in tweets that are written about Amazon, Apple, Google, Microsoft, and Tesla by using their appropriate share tickers.\n\nNote: For those interested in the process of evaluating speculators and influencers in a stock market, the dataset in the following link may be helpful.\nhttps://www.kaggle.com/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020\n\n### Content\n\nThis dataset contains over 3 million unique tweets with their information such as tweet id, author of the tweet, post date, the text body of the tweet, and the number of comments, likes, and retweets of tweets matched with the related company.\n\n### Acknowledgements\n\nTweets are collected from Twitter by a parsing script that is based on Selenium.\nNote 1: For those interested in the script, please visit the following link.\nhttps://github.com/omer-metin/TweetCollector\n\nNote 2: For those interested in our paper used this dataset, please visit the following link.\nhttps://ieeexplore.ieee.org/document/9378170\n\n### Inspiration\n\nSome of the interesting questions (tasks) which can be performed on this dataset -\n\n1) Determining the correlation between the market value of company respect to the public opinion of that company.\n2) Sentiment Analysis of the companies with a time series in a graph and reasoning the possible declines and rises.\n3) Evaluating troll users who try to occupy the social agenda.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "internet",
+    "investing",
+    "email and messaging",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "immustafad",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

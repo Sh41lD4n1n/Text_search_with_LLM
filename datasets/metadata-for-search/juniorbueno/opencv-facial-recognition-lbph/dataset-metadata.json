@@ -1,0 +1,44 @@
+{
+  "id": "juniorbueno/opencv-facial-recognition-lbph",
+  "id_no": 1760095,
+  "datasetSlugNullable": "opencv-facial-recognition-lbph",
+  "ownerUserNullable": "juniorbueno",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "OpenCV - Facial Recognition - LBPH",
+  "subtitleNullable": "OpenCV - Computer Vision ",
+  "descriptionNullable": "### Context\n\nThis database of faces was downloaded from YALE University in the United States.\n\n\n### Content\n\nThe Yale Face Database (size 6.4MB) contains 165 grayscale images in GIF format of 15 individuals. There are 11 images per subject, one per different facial expression or configuration: center-light, w/glasses, happy, left-light, w/no glasses, normal, right-light, sad, sleepy, surprised, and wink.\n\n### Acknowledgements\n\nhttp://vision.ucsd.edu/content/yale-face-database\n\n\n\n\n\n",
+  "datasetId": 1760095,
+  "datasetSlug": "opencv-facial-recognition-lbph",
+  "hasDatasetSlug": true,
+  "ownerUser": "juniorbueno",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 9977,
+  "totalVotes": 48,
+  "totalDownloads": 918,
+  "title": "OpenCV - Facial Recognition - LBPH",
+  "hasTitle": true,
+  "subtitle": "OpenCV - Computer Vision ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis database of faces was downloaded from YALE University in the United States.\n\n\n### Content\n\nThe Yale Face Database (size 6.4MB) contains 165 grayscale images in GIF format of 15 individuals. There are 11 images per subject, one per different facial expression or configuration: center-light, w/glasses, happy, left-light, w/no glasses, normal, right-light, sad, sleepy, surprised, and wink.\n\n### Acknowledgements\n\nhttp://vision.ucsd.edu/content/yale-face-database\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "computer science",
+    "programming",
+    "computer vision",
+    "image",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

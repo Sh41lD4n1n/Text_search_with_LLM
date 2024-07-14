@@ -1,0 +1,43 @@
+{
+  "id": "ishikajohari/best-books-10k-multi-genre-data",
+  "id_no": 3230801,
+  "datasetSlugNullable": "best-books-10k-multi-genre-data",
+  "ownerUserNullable": "ishikajohari",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Best Books (10k) Multi-Genre Data",
+  "subtitleNullable": "Data from the \"Books That Everyone Should Read At Least Once\" list on Goodreads",
+  "descriptionNullable": "# Context\nThis data was collected in a personal attempt to identify more books that one would like, based on ones they may have read in the past. It comprises 10k of the most recommended books of all time.\n\nThis data was collected in an attempt to aid my [**Movies/Shows dataset**](https://www.kaggle.com/datasets/ishikajohari/imdb-data-with-descriptions) to help with projects concerning cross-content analysis/recommendations for instance.\n\n### *Please Upvote if this helps you!*\n\n# Content\n1. **Book** - Name of the book. Soemtimes this includes the details of the Series it belongs to inside a parenthesis. This information can be further extracted to analyse only series.\n2. **Author** - Name of the book's Author\n3. **Description** - The book's description as mentioned on Goodreads\n4. **Genres** - Multiple Genres as classified on Goodreads. Could be useful for Multi-label classification or Content based recommendation and Clustering.\n5. **Average Rating** - The average rating (Out of 5) given on Goodreads\n6. **Number of Ratings** - The Number of users that have Ratings. (Not to be confused with reviews)\n7. **URL** - The Goodreads URL for the book's details' page\n\n# Inspiration\n- Cluster books/authors based on Description and Genre\n- Content based recomendation system using Genre, Description and Ratings\n- Genre prediction from Description data (Multi-label classification)\n- Can be used in conjunction with my [IMDb dataset with descriptions](https://www.kaggle.com/datasets/ishikajohari/imdb-data-with-descriptions) for certain use cases\n\n# Acknowledgements\nThe data was collected from Goodreads from the list - *Books That Everyone Should Read At Least Once*",
+  "datasetId": 3230801,
+  "datasetSlug": "best-books-10k-multi-genre-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ishikajohari",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16397,
+  "totalVotes": 72,
+  "totalDownloads": 2827,
+  "title": "Best Books (10k) Multi-Genre Data",
+  "hasTitle": true,
+  "subtitle": "Data from the \"Books That Everyone Should Read At Least Once\" list on Goodreads",
+  "hasSubtitle": true,
+  "description": "# Context\nThis data was collected in a personal attempt to identify more books that one would like, based on ones they may have read in the past. It comprises 10k of the most recommended books of all time.\n\nThis data was collected in an attempt to aid my [**Movies/Shows dataset**](https://www.kaggle.com/datasets/ishikajohari/imdb-data-with-descriptions) to help with projects concerning cross-content analysis/recommendations for instance.\n\n### *Please Upvote if this helps you!*\n\n# Content\n1. **Book** - Name of the book. Soemtimes this includes the details of the Series it belongs to inside a parenthesis. This information can be further extracted to analyse only series.\n2. **Author** - Name of the book's Author\n3. **Description** - The book's description as mentioned on Goodreads\n4. **Genres** - Multiple Genres as classified on Goodreads. Could be useful for Multi-label classification or Content based recommendation and Clustering.\n5. **Average Rating** - The average rating (Out of 5) given on Goodreads\n6. **Number of Ratings** - The Number of users that have Ratings. (Not to be confused with reviews)\n7. **URL** - The Goodreads URL for the book's details' page\n\n# Inspiration\n- Cluster books/authors based on Description and Genre\n- Content based recomendation system using Genre, Description and Ratings\n- Genre prediction from Description data (Multi-label classification)\n- Can be used in conjunction with my [IMDb dataset with descriptions](https://www.kaggle.com/datasets/ishikajohari/imdb-data-with-descriptions) for certain use cases\n\n# Acknowledgements\nThe data was collected from Goodreads from the list - *Books That Everyone Should Read At Least Once*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "recommender systems",
+    "multilabel classification",
+    "sentence similarity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "arunjangir245/retail-and-service-industries-dataset",
+  "id_no": 3622014,
+  "datasetSlugNullable": "retail-and-service-industries-dataset",
+  "ownerUserNullable": "arunjangir245",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Retail and Service Industries Dataset",
+  "subtitleNullable": "\"Analyzing Trends and Insights in the Retail and Service Industries",
+  "descriptionNullable": "**Description:**\nThis dataset captures a diverse range of economic sectors, encompassing retail and service industries. Each feature represents a specific category within these industries, providing insights into various consumer behavior patterns and market trends. Whether you're interested in analyzing consumer preferences, predicting market shifts, or studying sector-specific dynamics, this dataset offers a comprehensive view of these sectors.\n\n**Features:**\n\n1. **Month**: The month of data collection or reporting.\n\n2. **Cafes, Restaurants, and Catering Services**: Information related to establishments providing food and beverage services.\n\n3. **Cafes, Restaurants, and Takeaway Food Services**: Data concerning eateries offering both dine-in and takeaway food options.\n\n4. **Clothing Retailing**: Insights into retail establishments specializing in clothing merchandise.\n\n5. **Clothing, Footwear, and Personal Accessory Retailing**: Details about retail outlets offering clothing, footwear, and personal accessory items.\n\n6. **Department Stores**: Information about larger stores that carry a wide variety of product categories.\n\n7. **Electrical and Electronic Goods Retailing**: Data on retail businesses dealing in electrical and electronic products.\n\n8. **Food Retailing**: Information about retail establishments primarily focused on selling food items.\n\n9. **Footwear and Other Personal Accessory Retailing**: Insights into retail stores specializing in footwear and personal accessories.\n\n10. **Furniture, Floor Coverings, Houseware, and Textile Goods Retailing**: Details about retailers selling furniture, floor coverings, houseware, and textile goods.\n\n11. **Hardware, Building, and Garden Supplies Retailing**: Data on businesses retailing hardware, building materials, and garden supplies.\n\n12. **Household Goods Retailing**: Information about retail establishments specializing in household goods.\n\n13. **Liquor Retailing**: Insights into retailers specializing in alcoholic beverages.\n\n14. **Newspaper and Book Retailing**: Details about retail outlets selling newspapers and books.\n\n15. **Other Recreational Goods Retailing**: Data on retail businesses offering recreational and leisure products.\n\n16. **Other Retailing**: Information about various other retail establishments not covered by specific categories.\n\n17. **Other Specialised Food Retailing**: Insights into retail stores offering specialized food products.\n\n18. **Pharmaceutical, Cosmetic, and Toiletry Goods Retailing**: Details about retail outlets selling pharmaceutical, cosmetic, and toiletry goods.\n\n19. **Supermarket and Grocery Stores**: Data on supermarkets and stores primarily selling grocery items.\n\n20. **Takeaway Food Services**: Information about establishments providing takeaway food options.",
+  "datasetId": 3622014,
+  "datasetSlug": "retail-and-service-industries-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arunjangir245",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2412,
+  "totalVotes": 92,
+  "totalDownloads": 369,
+  "title": "Retail and Service Industries Dataset",
+  "hasTitle": true,
+  "subtitle": "\"Analyzing Trends and Insights in the Retail and Service Industries",
+  "hasSubtitle": true,
+  "description": "**Description:**\nThis dataset captures a diverse range of economic sectors, encompassing retail and service industries. Each feature represents a specific category within these industries, providing insights into various consumer behavior patterns and market trends. Whether you're interested in analyzing consumer preferences, predicting market shifts, or studying sector-specific dynamics, this dataset offers a comprehensive view of these sectors.\n\n**Features:**\n\n1. **Month**: The month of data collection or reporting.\n\n2. **Cafes, Restaurants, and Catering Services**: Information related to establishments providing food and beverage services.\n\n3. **Cafes, Restaurants, and Takeaway Food Services**: Data concerning eateries offering both dine-in and takeaway food options.\n\n4. **Clothing Retailing**: Insights into retail establishments specializing in clothing merchandise.\n\n5. **Clothing, Footwear, and Personal Accessory Retailing**: Details about retail outlets offering clothing, footwear, and personal accessory items.\n\n6. **Department Stores**: Information about larger stores that carry a wide variety of product categories.\n\n7. **Electrical and Electronic Goods Retailing**: Data on retail businesses dealing in electrical and electronic products.\n\n8. **Food Retailing**: Information about retail establishments primarily focused on selling food items.\n\n9. **Footwear and Other Personal Accessory Retailing**: Insights into retail stores specializing in footwear and personal accessories.\n\n10. **Furniture, Floor Coverings, Houseware, and Textile Goods Retailing**: Details about retailers selling furniture, floor coverings, houseware, and textile goods.\n\n11. **Hardware, Building, and Garden Supplies Retailing**: Data on businesses retailing hardware, building materials, and garden supplies.\n\n12. **Household Goods Retailing**: Information about retail establishments specializing in household goods.\n\n13. **Liquor Retailing**: Insights into retailers specializing in alcoholic beverages.\n\n14. **Newspaper and Book Retailing**: Details about retail outlets selling newspapers and books.\n\n15. **Other Recreational Goods Retailing**: Data on retail businesses offering recreational and leisure products.\n\n16. **Other Retailing**: Information about various other retail establishments not covered by specific categories.\n\n17. **Other Specialised Food Retailing**: Insights into retail stores offering specialized food products.\n\n18. **Pharmaceutical, Cosmetic, and Toiletry Goods Retailing**: Details about retail outlets selling pharmaceutical, cosmetic, and toiletry goods.\n\n19. **Supermarket and Grocery Stores**: Data on supermarkets and stores primarily selling grocery items.\n\n20. **Takeaway Food Services**: Information about establishments providing takeaway food options.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "intermediate",
+    "tabular",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

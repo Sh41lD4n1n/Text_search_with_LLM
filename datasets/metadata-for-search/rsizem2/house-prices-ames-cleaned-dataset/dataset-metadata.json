@@ -1,0 +1,44 @@
+{
+  "id": "rsizem2/house-prices-ames-cleaned-dataset",
+  "id_no": 2467636,
+  "datasetSlugNullable": "house-prices-ames-cleaned-dataset",
+  "ownerUserNullable": "rsizem2",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "House Prices - Processed Data",
+  "subtitleNullable": "A processed version of the Ames dataset from the House Prices competition.",
+  "descriptionNullable": "We provide a processed version of the Ames dataset (`processed_train.csv` and `processed_test.csv`) for the [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The goal of this dataset is to minimize repetitive preprocessing for quicker modeling and iterating.  For example code using this data and making a submission to the competition [see this notebook](https://www.kaggle.com/code/rsizem2/house-prices-simple-submission). The main changes are as follows:\n\n1. All ordinal categorical data has been encoded as consecutive integers. (e.g. poor = 1, ... , excellent = 5)\n2. When possible fill NAs with reasonable values (e.g. no basement implies 0 square footage)\n3. Remove the 4 outlier values as suggested in the original paper.\n4. Encode `MSSubClass` and `MoSold` as categorical variables.\n5. Manually fix some problem rows\n\nWe provide a second pair of datasets (`new_train.csv` and `new_test.csv`) which include the following changes on top of those previously mentioned:\n\n1. Columns `Alley` and `Street` are dropped for being extremely low variance.\n2. Columns `Exterior1st` and `Exterior2nd` have been combined and one-hot encoded.\n3. Columns `Condition1` and `Condition2` have been combined and one-hot encoded.",
+  "datasetId": 2467636,
+  "datasetSlug": "house-prices-ames-cleaned-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rsizem2",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 10014,
+  "totalVotes": 31,
+  "totalDownloads": 1188,
+  "title": "House Prices - Processed Data",
+  "hasTitle": true,
+  "subtitle": "A processed version of the Ames dataset from the House Prices competition.",
+  "hasSubtitle": true,
+  "description": "We provide a processed version of the Ames dataset (`processed_train.csv` and `processed_test.csv`) for the [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The goal of this dataset is to minimize repetitive preprocessing for quicker modeling and iterating.  For example code using this data and making a submission to the competition [see this notebook](https://www.kaggle.com/code/rsizem2/house-prices-simple-submission). The main changes are as follows:\n\n1. All ordinal categorical data has been encoded as consecutive integers. (e.g. poor = 1, ... , excellent = 5)\n2. When possible fill NAs with reasonable values (e.g. no basement implies 0 square footage)\n3. Remove the 4 outlier values as suggested in the original paper.\n4. Encode `MSSubClass` and `MoSold` as categorical variables.\n5. Manually fix some problem rows\n\nWe provide a second pair of datasets (`new_train.csv` and `new_test.csv`) which include the following changes on top of those previously mentioned:\n\n1. Columns `Alley` and `Street` are dropped for being extremely low variance.\n2. Columns `Exterior1st` and `Exterior2nd` have been combined and one-hot encoded.\n3. Columns `Condition1` and `Condition2` have been combined and one-hot encoded.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "north america",
+    "earth and nature",
+    "real estate",
+    "beginner",
+    "data cleaning",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

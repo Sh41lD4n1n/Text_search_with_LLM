@@ -1,0 +1,37 @@
+{
+  "id": "umairshahpirzada/traffic-net",
+  "id_no": 3264627,
+  "datasetSlugNullable": "traffic-net",
+  "ownerUserNullable": "umairshahpirzada",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Traffic-Net  dataset",
+  "subtitleNullable": "The Traffic-Net dataset, released in the version 1.0, contains 4,400 images ",
+  "descriptionNullable": "The Traffic-Net dataset, released in the version 1.0, contains 4,400 images of sparse traffic, dense traffic, accident, and fire. This dataset can be used for various computer vision tasks, including object detection, image classification, and segmentation.\n\nThe images in the dataset are of varying sizes and resolutions, and were collected from different sources, including Google Images, Bing Images, and Flickr. The dataset is divided into four classes, each with a distinct set of images and labels:\n\n1. Sparse traffic: This class contains images of traffic signs and signals in low-traffic areas, such as rural roads and small towns.\n\n2. Dense traffic: This class contains images of traffic signs and signals in high-traffic areas, such as urban roads and highways.\n\n3. Accident: This class contains images of traffic accidents and related objects, such as damaged cars and emergency services.\n\n4. Fire: This class contains images of fire-related objects, such as burning vehicles and buildings.\n\nResearchers and developers can use the Traffic-Net dataset to train and evaluate their own models for traffic sign recognition and related tasks. The dataset can also be used to benchmark existing models and compare their performance on this specific dataset.",
+  "datasetId": 3264627,
+  "datasetSlug": "traffic-net",
+  "hasDatasetSlug": true,
+  "ownerUser": "umairshahpirzada",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 1366,
+  "totalVotes": 2,
+  "totalDownloads": 211,
+  "title": "Traffic-Net  dataset",
+  "hasTitle": true,
+  "subtitle": "The Traffic-Net dataset, released in the version 1.0, contains 4,400 images ",
+  "hasSubtitle": true,
+  "description": "The Traffic-Net dataset, released in the version 1.0, contains 4,400 images of sparse traffic, dense traffic, accident, and fire. This dataset can be used for various computer vision tasks, including object detection, image classification, and segmentation.\n\nThe images in the dataset are of varying sizes and resolutions, and were collected from different sources, including Google Images, Bing Images, and Flickr. The dataset is divided into four classes, each with a distinct set of images and labels:\n\n1. Sparse traffic: This class contains images of traffic signs and signals in low-traffic areas, such as rural roads and small towns.\n\n2. Dense traffic: This class contains images of traffic signs and signals in high-traffic areas, such as urban roads and highways.\n\n3. Accident: This class contains images of traffic accidents and related objects, such as damaged cars and emergency services.\n\n4. Fire: This class contains images of fire-related objects, such as burning vehicles and buildings.\n\nResearchers and developers can use the Traffic-Net dataset to train and evaluate their own models for traffic sign recognition and related tasks. The dataset can also be used to benchmark existing models and compare their performance on this specific dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

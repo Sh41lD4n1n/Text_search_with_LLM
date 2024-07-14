@@ -1,0 +1,41 @@
+{
+  "id": "shivamsinghal1012/traffic-sign-data-set",
+  "id_no": 509616,
+  "datasetSlugNullable": "traffic-sign-data-set",
+  "ownerUserNullable": "shivamsinghal1012",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Traffic Sign Data set ",
+  "subtitleNullable": "Traffic Sign Labelled Image Data Set  ",
+  "descriptionNullable": "### Context\nThis dataset contains information about all the traffic signs used in day to day life and can be further used for the computer vision self driving car projects, it has classification of over 82 different types of traffic sign.\n\n### Content\nThis dataset contains information about all the traffic signs used.\n\n### Acknowledgements\nThis data set is scrapped from [Wikipedia](https://en.wikipedia.org/wiki/Road_signs_in_India)\n",
+  "datasetId": 509616,
+  "datasetSlug": "traffic-sign-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamsinghal1012",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 22728,
+  "totalVotes": 19,
+  "totalDownloads": 1144,
+  "title": "Traffic Sign Data set ",
+  "hasTitle": true,
+  "subtitle": "Traffic Sign Labelled Image Data Set  ",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset contains information about all the traffic signs used in day to day life and can be further used for the computer vision self driving car projects, it has classification of over 82 different types of traffic sign.\n\n### Content\nThis dataset contains information about all the traffic signs used.\n\n### Acknowledgements\nThis data set is scrapped from [Wikipedia](https://en.wikipedia.org/wiki/Road_signs_in_India)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "transportation",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

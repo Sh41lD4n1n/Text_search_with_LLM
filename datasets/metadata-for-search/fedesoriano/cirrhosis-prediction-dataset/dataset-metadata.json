@@ -1,0 +1,43 @@
+{
+  "id": "fedesoriano/cirrhosis-prediction-dataset",
+  "id_no": 1508604,
+  "datasetSlugNullable": "cirrhosis-prediction-dataset",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cirrhosis Prediction Dataset",
+  "subtitleNullable": "18 clinical features for predicting liver cirrhosis stage",
+  "descriptionNullable": "### Similar Datasets\n\n- Hepatitis C Dataset: [LINK](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset)\n- Body Fat Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset)\n- Stroke Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nCirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984.  A description of the clinical background for the trial and the covariates recorded here is in Chapter 0, especially Section 0.2 of Fleming and Harrington, Counting\nProcesses and Survival Analysis, Wiley, 1991.  A more extended discussion can be found in Dickson, et al., Hepatology 10:1-7 (1989) and in Markus, et al., N Eng J of Med 320:1709-13 (1989). \n\nA total of 424 PBC patients, referred to Mayo Clinic during that ten-year interval, met eligibility criteria for the randomized placebo-controlled trial of the drug D-penicillamine. The first 312 cases in the dataset participated in the randomized trial and contain largely complete data.  The additional 112 cases did not participate in the clinical trial but consented to have basic measurements recorded and to be followed for survival. Six of those cases were lost to follow-up shortly after diagnosis, so the data here are on an additional 106 cases as well as the 312 randomized participants.\n\n\n### Attribute Information\n\n1) ID: unique identifier\n2) N\\_Days: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986\n3) Status: status of the patient C (censored), CL (censored due to liver tx), or D (death)\n4) Drug: type of drug D-penicillamine or placebo\n5) Age: age in [days]\n6) Sex: M (male) or F (female)\n7) Ascites: presence of ascites N (No) or Y (Yes)\n8) Hepatomegaly: presence of hepatomegaly N (No) or Y (Yes)\n9) Spiders: presence of spiders N (No) or Y (Yes)\n10) Edema: presence of edema N (no edema and no diuretic therapy for edema), S (edema present without diuretics, or edema resolved by diuretics), or Y (edema despite diuretic therapy)\n11) Bilirubin: serum bilirubin in [mg/dl]\n12) Cholesterol: serum cholesterol in [mg/dl]\n13) Albumin: albumin in [gm/dl]\n14) Copper: urine copper in [ug/day]\n15) Alk\\_Phos: alkaline phosphatase in [U/liter]\n16) SGOT: SGOT in [U/ml]\n17) Triglycerides: triglicerides in [mg/dl]\n18) Platelets: platelets per cubic [ml/1000]\n19) Prothrombin: prothrombin time in seconds [s]\n20) Stage: histologic stage of disease (1, 2, 3, or 4)\n\n### Acknowledgements\n\nThe dataset can be found in appendix D of:\n&gt; Fleming, T.R. and Harrington, D.P. (1991) Counting Processes and Survival Analysis. Wiley Series in Probability and Mathematical Statistics: Applied Probability and Statistics, John Wiley and Sons Inc., New York.\n\nIf you want to cite this data:\n&gt; fedesoriano. (August 2021). Cirrhosis Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/cirrhosis-prediction-dataset.",
+  "datasetId": 1508604,
+  "datasetSlug": "cirrhosis-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 127863,
+  "totalVotes": 156,
+  "totalDownloads": 13034,
+  "title": "Cirrhosis Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "18 clinical features for predicting liver cirrhosis stage",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets\n\n- Hepatitis C Dataset: [LINK](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset)\n- Body Fat Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset)\n- Stroke Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nCirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984.  A description of the clinical background for the trial and the covariates recorded here is in Chapter 0, especially Section 0.2 of Fleming and Harrington, Counting\nProcesses and Survival Analysis, Wiley, 1991.  A more extended discussion can be found in Dickson, et al., Hepatology 10:1-7 (1989) and in Markus, et al., N Eng J of Med 320:1709-13 (1989). \n\nA total of 424 PBC patients, referred to Mayo Clinic during that ten-year interval, met eligibility criteria for the randomized placebo-controlled trial of the drug D-penicillamine. The first 312 cases in the dataset participated in the randomized trial and contain largely complete data.  The additional 112 cases did not participate in the clinical trial but consented to have basic measurements recorded and to be followed for survival. Six of those cases were lost to follow-up shortly after diagnosis, so the data here are on an additional 106 cases as well as the 312 randomized participants.\n\n\n### Attribute Information\n\n1) ID: unique identifier\n2) N\\_Days: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986\n3) Status: status of the patient C (censored), CL (censored due to liver tx), or D (death)\n4) Drug: type of drug D-penicillamine or placebo\n5) Age: age in [days]\n6) Sex: M (male) or F (female)\n7) Ascites: presence of ascites N (No) or Y (Yes)\n8) Hepatomegaly: presence of hepatomegaly N (No) or Y (Yes)\n9) Spiders: presence of spiders N (No) or Y (Yes)\n10) Edema: presence of edema N (no edema and no diuretic therapy for edema), S (edema present without diuretics, or edema resolved by diuretics), or Y (edema despite diuretic therapy)\n11) Bilirubin: serum bilirubin in [mg/dl]\n12) Cholesterol: serum cholesterol in [mg/dl]\n13) Albumin: albumin in [gm/dl]\n14) Copper: urine copper in [ug/day]\n15) Alk\\_Phos: alkaline phosphatase in [U/liter]\n16) SGOT: SGOT in [U/ml]\n17) Triglycerides: triglicerides in [mg/dl]\n18) Platelets: platelets per cubic [ml/1000]\n19) Prothrombin: prothrombin time in seconds [s]\n20) Stage: histologic stage of disease (1, 2, 3, or 4)\n\n### Acknowledgements\n\nThe dataset can be found in appendix D of:\n&gt; Fleming, T.R. and Harrington, D.P. (1991) Counting Processes and Survival Analysis. Wiley Series in Probability and Mathematical Statistics: Applied Probability and Statistics, John Wiley and Sons Inc., New York.\n\nIf you want to cite this data:\n&gt; fedesoriano. (August 2021). Cirrhosis Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/cirrhosis-prediction-dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "public health",
+    "health",
+    "multiclass classification",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

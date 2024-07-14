@@ -1,0 +1,43 @@
+{
+  "id": "vishalsubbiah/pokemon-images-and-types",
+  "id_no": 92703,
+  "datasetSlugNullable": "pokemon-images-and-types",
+  "ownerUserNullable": "vishalsubbiah",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Pokemon Image Dataset",
+  "subtitleNullable": "Pokemon image dataset",
+  "descriptionNullable": "### Context\n\nImages of all Pokemon from generation 1 to generation 7, along with their types (primary and secondary) as a csv. \n\n\n### Inspiration\nNew evolution forms from two different Pokemon. (Create new Pokemon) \n\nPredict Pokemon primary and secondary types from the images. Identify what types the evolution form will have based on the pre-evolved forms. Eg. from Pichu and Pikachu predict for Raichu. \n\n\n\n### Future work/Ideas: \nMerge with other information such as moves, generation, strong/weak against etc, and use the images to classify.\n\n### Acknowledgements\n\ndata scrapped from https://pokemondb.net/pokedex/national\n\ncover image from https://www.hjackets.com/blog/pikachu-costume-for-kids-and-adult/\n",
+  "datasetId": 92703,
+  "datasetSlug": "pokemon-images-and-types",
+  "hasDatasetSlug": true,
+  "ownerUser": "vishalsubbiah",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 226246,
+  "totalVotes": 517,
+  "totalDownloads": 32612,
+  "title": "Pokemon Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Pokemon image dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nImages of all Pokemon from generation 1 to generation 7, along with their types (primary and secondary) as a csv. \n\n\n### Inspiration\nNew evolution forms from two different Pokemon. (Create new Pokemon) \n\nPredict Pokemon primary and secondary types from the images. Identify what types the evolution form will have based on the pre-evolved forms. Eg. from Pichu and Pikachu predict for Raichu. \n\n\n\n### Future work/Ideas: \nMerge with other information such as moves, generation, strong/weak against etc, and use the images to classify.\n\n### Acknowledgements\n\ndata scrapped from https://pokemondb.net/pokedex/national\n\ncover image from https://www.hjackets.com/blog/pikachu-costume-for-kids-and-adult/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "deep learning",
+    "multiclass classification",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

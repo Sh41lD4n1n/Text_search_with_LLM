@@ -1,0 +1,44 @@
+{
+  "id": "iamsouravbanerjee/animated-television-show",
+  "id_no": 2491999,
+  "datasetSlugNullable": "animated-television-show",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Animated TV Shows Around the World (1948 - 2023)",
+  "subtitleNullable": "Global Animation Spectacle: A Timeless TV Show Dataset",
+  "descriptionNullable": "### Context\n\nAn animated series is a set of animated works with a common series title, usually related to one another. These episodes should typically share the same main characters, some different secondary characters, and a basic theme. Series can have either a finite number of episodes like a miniseries, a definite end or be open-ended, without a predetermined number of episodes. They can be broadcast on television, shown in movie theatres, released direct-to-video, or on the internet. Like other television series, films, including animated films, animated series can be of a wide variety of genres and can also have different demographic target audiences, from males to females ranging from children to adults.\n\n### Content\n\nIn this Dataset, we have Historical data for Animated Television Shows in the world by different parameters like Name of the Show, Number of Seasons, Number of Episodes, Country of Origin, Premiere Year, Final Year, Original Channel, Technique, etc. This Dataset consists of 2 CSV files. One CSV contains records from 1948 to 1986 and the other contains records from 1987 to 2022 and 2023.\n\n### Dataset Glossary (Column-Wise)\n\n* <b>Title</b>: Name of the Show.\n* <b>Seasons</b>: Total Number of Seasons.\n* <b>Episodes</b>: Total Number of Episodes.\n* <b>Country</b>: Country of Origin of the Show.\n* <b>Premiere Year</b>: Starting Year of the Show.\n* <b>Final Year</b>: Ending Year of the Show.\n* <b>Original Channel</b>: Origial Channel on which the Show first Aired.\n* <b>Technique</b>: Techniques used to create the Show.\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/pN3QsXo.png)\n\n### Acknowledgement\n\nThis Dataset is created from <b>[https://www.wikipedia.org/](https://www.wikipedia.org/)</b>. If you want to learn more, you can visit the Website.\n\nCover Photo by: Jeff Harris - thexbridge.com - thoughnami.tumblr.com",
+  "datasetId": 2491999,
+  "datasetSlug": "animated-television-show",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7982,
+  "totalVotes": 97,
+  "totalDownloads": 1034,
+  "title": "Animated TV Shows Around the World (1948 - 2023)",
+  "hasTitle": true,
+  "subtitle": "Global Animation Spectacle: A Timeless TV Show Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAn animated series is a set of animated works with a common series title, usually related to one another. These episodes should typically share the same main characters, some different secondary characters, and a basic theme. Series can have either a finite number of episodes like a miniseries, a definite end or be open-ended, without a predetermined number of episodes. They can be broadcast on television, shown in movie theatres, released direct-to-video, or on the internet. Like other television series, films, including animated films, animated series can be of a wide variety of genres and can also have different demographic target audiences, from males to females ranging from children to adults.\n\n### Content\n\nIn this Dataset, we have Historical data for Animated Television Shows in the world by different parameters like Name of the Show, Number of Seasons, Number of Episodes, Country of Origin, Premiere Year, Final Year, Original Channel, Technique, etc. This Dataset consists of 2 CSV files. One CSV contains records from 1948 to 1986 and the other contains records from 1987 to 2022 and 2023.\n\n### Dataset Glossary (Column-Wise)\n\n* <b>Title</b>: Name of the Show.\n* <b>Seasons</b>: Total Number of Seasons.\n* <b>Episodes</b>: Total Number of Episodes.\n* <b>Country</b>: Country of Origin of the Show.\n* <b>Premiere Year</b>: Starting Year of the Show.\n* <b>Final Year</b>: Ending Year of the Show.\n* <b>Original Channel</b>: Origial Channel on which the Show first Aired.\n* <b>Technique</b>: Techniques used to create the Show.\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/pN3QsXo.png)\n\n### Acknowledgement\n\nThis Dataset is created from <b>[https://www.wikipedia.org/](https://www.wikipedia.org/)</b>. If you want to learn more, you can visit the Website.\n\nCover Photo by: Jeff Harris - thexbridge.com - thoughnami.tumblr.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "beginner",
+    "data visualization",
+    "tabular",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

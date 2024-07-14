@@ -1,0 +1,40 @@
+{
+  "id": "timoboz/clevr-dataset",
+  "id_no": 500921,
+  "datasetSlugNullable": "clevr-dataset",
+  "ownerUserNullable": "timoboz",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "CLEVR Dataset",
+  "subtitleNullable": "A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+  "descriptionNullable": "### Context\n\nFrom the original source\n\n&gt; When building artificial intelligence systems that can reason and answer questions about visual data, we need diagnostic tests to analyze our progress and discover shortcomings. Existing benchmarks for visual question answering can help, but have strong biases that models can exploit to correctly answer questions without reasoning. They also conflate multiple sources of error, making it hard to pinpoint model weaknesses. We present a diagnostic dataset that tests a range of visual reasoning abilities. It contains minimal biases and has detailed annotations describing the kind of reasoning each question requires. We use this dataset to analyze a variety of modern visual reasoning systems, providing novel insights into their abilities and limitations.\n\n\n### Content\n\nThis is the main dataset used in the paper. It consists of:\n\n- A training set of 70,000 images and 699,989 questions\n- A validation set of 15,000 images and 149,991 questions\n- A test set of 15,000 images and 14,988 questions\n- Answers for all train and val questions\n- Scene graph annotations for train and val images giving ground-truth locations, attributes, and relationships for objects\n- Functional program representations for all training and validation images\n\n\n### Acknowledgements\n\nData from: https://cs.stanford.edu/people/jcjohns/clevr/\nOriginal paper: https://arxiv.org/pdf/1612.06890.pdf\n",
+  "datasetId": 500921,
+  "datasetSlug": "clevr-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "timoboz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 15501,
+  "totalVotes": 39,
+  "totalDownloads": 842,
+  "title": "CLEVR Dataset",
+  "hasTitle": true,
+  "subtitle": "A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFrom the original source\n\n&gt; When building artificial intelligence systems that can reason and answer questions about visual data, we need diagnostic tests to analyze our progress and discover shortcomings. Existing benchmarks for visual question answering can help, but have strong biases that models can exploit to correctly answer questions without reasoning. They also conflate multiple sources of error, making it hard to pinpoint model weaknesses. We present a diagnostic dataset that tests a range of visual reasoning abilities. It contains minimal biases and has detailed annotations describing the kind of reasoning each question requires. We use this dataset to analyze a variety of modern visual reasoning systems, providing novel insights into their abilities and limitations.\n\n\n### Content\n\nThis is the main dataset used in the paper. It consists of:\n\n- A training set of 70,000 images and 699,989 questions\n- A validation set of 15,000 images and 149,991 questions\n- A test set of 15,000 images and 14,988 questions\n- Answers for all train and val questions\n- Scene graph annotations for train and val images giving ground-truth locations, attributes, and relationships for objects\n- Functional program representations for all training and validation images\n\n\n### Acknowledgements\n\nData from: https://cs.stanford.edu/people/jcjohns/clevr/\nOriginal paper: https://arxiv.org/pdf/1612.06890.pdf\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

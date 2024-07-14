@@ -1,0 +1,43 @@
+{
+  "id": "devendrabhattal/emotion-key-facial-points-detection",
+  "id_no": 1481590,
+  "datasetSlugNullable": "emotion-key-facial-points-detection",
+  "ownerUserNullable": "devendrabhattal",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Emotion & Key Facial Points Detection ",
+  "subtitleNullable": "Facial points of six human emotions.",
+  "descriptionNullable": "",
+  "datasetId": 1481590,
+  "datasetSlug": "emotion-key-facial-points-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "devendrabhattal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 2646,
+  "totalVotes": 4,
+  "totalDownloads": 102,
+  "title": "Emotion & Key Facial Points Detection ",
+  "hasTitle": true,
+  "subtitle": "Facial points of six human emotions.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "image",
+    "transfer learning",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "rikato/booksi",
+  "id_no": 5188233,
+  "datasetSlugNullable": "booksi",
+  "ownerUserNullable": "rikato",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "booksi",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5188233,
+  "datasetSlug": "booksi",
+  "hasDatasetSlug": true,
+  "ownerUser": "rikato",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 2,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "booksi",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

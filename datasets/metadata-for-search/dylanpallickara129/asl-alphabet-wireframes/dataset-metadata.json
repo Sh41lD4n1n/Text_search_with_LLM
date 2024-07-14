@@ -1,0 +1,40 @@
+{
+  "id": "dylanpallickara129/asl-alphabet-wireframes",
+  "id_no": 3926569,
+  "datasetSlugNullable": "asl-alphabet-wireframes",
+  "ownerUserNullable": "dylanpallickara129",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "ASL Alphabet Wireframes",
+  "subtitleNullable": "A dataset of wireframe images pulled from ASL alphabet images. ",
+  "descriptionNullable": "The Hand Gesture Recognition Dataset is a comprehensive collection designed for training and evaluating machine learning models for hand gesture recognition tasks. This dataset comprises 24 distinct classes, representing each letter of the alphabet excluding 'J' and 'Z'. Each gesture is depicted against a consistent black background, enhancing the clarity of the hand signs. The visual representation of the gestures is presented as wireframes, providing a clear outline of the hand's position.\n\n\nKey Features:\n\n24 Distinct Classes: The dataset includes signs corresponding to all letters of the alphabet, except 'J' and 'Z'. These two classes require video input so they were removed from the still image dataset. \n\nConsistent Background: All gestures are set against a black background, ensuring uniformity across the dataset. This consistent background simplifies preprocessing tasks and ensures that models are trained on signs alone, without any background distractions.\n\nPrecise Hand Landmarks: The dataset's accuracy is enhanced by utilizing Google MediaPipe to extract detailed hand landmarks. These landmarks are essential for understanding the intricate movements of fingers, enabling the development of highly accurate gesture recognition models.\n",
+  "datasetId": 3926569,
+  "datasetSlug": "asl-alphabet-wireframes",
+  "hasDatasetSlug": true,
+  "ownerUser": "dylanpallickara129",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 129,
+  "totalVotes": 0,
+  "totalDownloads": 5,
+  "title": "ASL Alphabet Wireframes",
+  "hasTitle": true,
+  "subtitle": "A dataset of wireframe images pulled from ASL alphabet images. ",
+  "hasSubtitle": true,
+  "description": "The Hand Gesture Recognition Dataset is a comprehensive collection designed for training and evaluating machine learning models for hand gesture recognition tasks. This dataset comprises 24 distinct classes, representing each letter of the alphabet excluding 'J' and 'Z'. Each gesture is depicted against a consistent black background, enhancing the clarity of the hand signs. The visual representation of the gestures is presented as wireframes, providing a clear outline of the hand's position.\n\n\nKey Features:\n\n24 Distinct Classes: The dataset includes signs corresponding to all letters of the alphabet, except 'J' and 'Z'. These two classes require video input so they were removed from the still image dataset. \n\nConsistent Background: All gestures are set against a black background, ensuring uniformity across the dataset. This consistent background simplifies preprocessing tasks and ensures that models are trained on signs alone, without any background distractions.\n\nPrecise Hand Landmarks: The dataset's accuracy is enhanced by utilizing Google MediaPipe to extract detailed hand landmarks. These landmarks are essential for understanding the intricate movements of fingers, enabling the development of highly accurate gesture recognition models.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "saurabhbagchi/sarcasm-detection-through-nlp",
+  "id_no": 1222487,
+  "datasetSlugNullable": "sarcasm-detection-through-nlp",
+  "ownerUserNullable": "saurabhbagchi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sarcasm detection ",
+  "subtitleNullable": "Use NLP to detect Sarcasm in news headlines",
+  "descriptionNullable": "**Domain**\n\n- Journalism, Social media  \n\n**Business Context** \n\nElectronic journalism powered with Social media has become one of the major sources of information consumption lately. Many media houses are using creative ways in order to tap into increasing views on posts. One of the ways is using sarcastic headlines as click baits. A model that is able to predict whether a piece of headline is sarcastic or not can be useful for media houses in order to analyse their quarterly earnings by strategy. Also, from a reader's perspective, search engines can utilise this information of sarcasm and depending on the reader\u2019s preference, recommend similar articles to them.   \nThe goal is to build a model to detect whether a sentence is sarcastic or not, using Bidirectional LSTMs. \n\n**Dataset **\n\nNews Headlines dataset for Sarcasm Detection The dataset is collected from two news websites, theonion.com and huffingtonpost.com . Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets. This new dataset has the following advantages over the existing Twitter datasets:  \nSince news headlines are written by professionals in a formal manner, there are no spelling mistakes and informal usage. This reduces the sparsity and also increases the chance of finding pre-trained embeddings. \n  \nFurthermore, since the sole purpose of TheOnion is to publish sarcastic news, we get high-quality labels with much less noise as compared to Twitter datasets. Unlike tweets that reply to other tweets, the news headlines obtained are self-contained. This would help us in teasing apart the real sarcastic elements\n \nContent Each record consists of three attributes: \n\n- is_sarcastic: 1 if the record is sarcastic otherwise 0 \n- headline: the headline of the news article \n- article_link: link to the original news article. Useful in collecting supplementary data \n\nReference https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection \n",
+  "datasetId": 1222487,
+  "datasetSlug": "sarcasm-detection-through-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhbagchi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16754,
+  "totalVotes": 13,
+  "totalDownloads": 1309,
+  "title": "Sarcasm detection ",
+  "hasTitle": true,
+  "subtitle": "Use NLP to detect Sarcasm in news headlines",
+  "hasSubtitle": true,
+  "description": "**Domain**\n\n- Journalism, Social media  \n\n**Business Context** \n\nElectronic journalism powered with Social media has become one of the major sources of information consumption lately. Many media houses are using creative ways in order to tap into increasing views on posts. One of the ways is using sarcastic headlines as click baits. A model that is able to predict whether a piece of headline is sarcastic or not can be useful for media houses in order to analyse their quarterly earnings by strategy. Also, from a reader's perspective, search engines can utilise this information of sarcasm and depending on the reader\u2019s preference, recommend similar articles to them.   \nThe goal is to build a model to detect whether a sentence is sarcastic or not, using Bidirectional LSTMs. \n\n**Dataset **\n\nNews Headlines dataset for Sarcasm Detection The dataset is collected from two news websites, theonion.com and huffingtonpost.com . Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets. This new dataset has the following advantages over the existing Twitter datasets:  \nSince news headlines are written by professionals in a formal manner, there are no spelling mistakes and informal usage. This reduces the sparsity and also increases the chance of finding pre-trained embeddings. \n  \nFurthermore, since the sole purpose of TheOnion is to publish sarcastic news, we get high-quality labels with much less noise as compared to Twitter datasets. Unlike tweets that reply to other tweets, the news headlines obtained are self-contained. This would help us in teasing apart the real sarcastic elements\n \nContent Each record consists of three attributes: \n\n- is_sarcastic: 1 if the record is sarcastic otherwise 0 \n- headline: the headline of the news article \n- article_link: link to the original news article. Useful in collecting supplementary data \n\nReference https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "linguistics",
+    "nlp",
+    "lstm",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

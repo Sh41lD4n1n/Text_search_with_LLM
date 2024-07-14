@@ -1,0 +1,43 @@
+{
+  "id": "mohamedchahed/dog-breeds",
+  "id_no": 3077125,
+  "datasetSlugNullable": "dog-breeds",
+  "ownerUserNullable": "mohamedchahed",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Dog Breeds",
+  "subtitleNullable": "Dog images for multiclass classification",
+  "descriptionNullable": "The dataset you have consists of a collection of images of different dog breeds that were obtained from the web. The images showcase a variety of dog breeds with different physical characteristics such as size, shape, color, and fur type. The images were gathered from various online sources, and they may vary in quality, resolution, and orientation.\n\nThe dataset provides a valuable resource for researchers and developers interested in studying and developing computer vision and machine learning algorithms for image recognition, object detection, and classification. The images can be used to train and test machine learning models to accurately identify and classify different dog breeds.\n\nThe dataset includes a diverse range of dog breeds, including but not limited to Labrador Retriever, German Shepherd, Bulldog, Beagle, Rottweiler, and many more. Each breed is represented by multiple images, taken from different angles and in different poses, to capture as much information about the breed's physical features as possible.",
+  "datasetId": 3077125,
+  "datasetSlug": "dog-breeds",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedchahed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 7872,
+  "totalVotes": 26,
+  "totalDownloads": 1130,
+  "title": "Dog Breeds",
+  "hasTitle": true,
+  "subtitle": "Dog images for multiclass classification",
+  "hasSubtitle": true,
+  "description": "The dataset you have consists of a collection of images of different dog breeds that were obtained from the web. The images showcase a variety of dog breeds with different physical characteristics such as size, shape, color, and fur type. The images were gathered from various online sources, and they may vary in quality, resolution, and orientation.\n\nThe dataset provides a valuable resource for researchers and developers interested in studying and developing computer vision and machine learning algorithms for image recognition, object detection, and classification. The images can be used to train and test machine learning models to accurately identify and classify different dog breeds.\n\nThe dataset includes a diverse range of dog breeds, including but not limited to Labrador Retriever, German Shepherd, Bulldog, Beagle, Rottweiler, and many more. Each breed is represented by multiple images, taken from different angles and in different poses, to capture as much information about the breed's physical features as possible.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "image",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

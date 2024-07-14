@@ -1,0 +1,37 @@
+{
+  "id": "gioelefanelli/italian-sarcasm-detection",
+  "id_no": 1259088,
+  "datasetSlugNullable": "italian-sarcasm-detection",
+  "ownerUserNullable": "gioelefanelli",
+  "usabilityRatingNullable": 0.17647058823529413,
+  "titleNullable": "Italian Sarcasm_Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1259088,
+  "datasetSlug": "italian-sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "gioelefanelli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.17647058823529413,
+  "hasUsabilityRating": true,
+  "totalViews": 862,
+  "totalVotes": 3,
+  "totalDownloads": 28,
+  "title": "Italian Sarcasm_Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

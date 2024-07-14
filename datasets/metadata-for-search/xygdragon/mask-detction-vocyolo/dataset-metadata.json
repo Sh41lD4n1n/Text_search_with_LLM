@@ -1,0 +1,37 @@
+{
+  "id": "xygdragon/mask-detction-vocyolo",
+  "id_no": 5013322,
+  "datasetSlugNullable": "mask-detction-vocyolo",
+  "ownerUserNullable": "xygdragon",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "Mask Detection (VOC/YOLO)",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5013322,
+  "datasetSlug": "mask-detction-vocyolo",
+  "hasDatasetSlug": true,
+  "ownerUser": "xygdragon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Mask Detection (VOC/YOLO)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ashkhagan/smile-twitter-emotion-dataset",
+  "id_no": 773597,
+  "datasetSlugNullable": "smile-twitter-emotion-dataset",
+  "ownerUserNullable": "ashkhagan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "SMILE Twitter Emotion Dataset",
+  "subtitleNullable": "Useful for learning sentiment analysis",
+  "descriptionNullable": "## SMILE Twitter Emotion dataset\n\nThis dataset is collected and annotated for the SMILE project http://www.culturesmile.org. This collection of tweets mentioning 13 Twitter handles associated with British museums was gathered between May 2013 and June 2015. It was created for the purpose of classifying emotions, expressed on Twitter towards arts and cultural experiences in museums. \n\nIt contains 3,085 tweets, with 5 emotions namely anger, disgust, happiness, surprise and sadness. Please see our paper \"SMILE: Twitter Emotion Classification using Domain Adaptation\" for more details of the dataset.\n\nLicense: The annotations are provided under a CC-BY license, while Twitter retains the ownership and rights of the content of the tweets.",
+  "datasetId": 773597,
+  "datasetSlug": "smile-twitter-emotion-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashkhagan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 17248,
+  "totalVotes": 17,
+  "totalDownloads": 1848,
+  "title": "SMILE Twitter Emotion Dataset",
+  "hasTitle": true,
+  "subtitle": "Useful for learning sentiment analysis",
+  "hasSubtitle": true,
+  "description": "## SMILE Twitter Emotion dataset\n\nThis dataset is collected and annotated for the SMILE project http://www.culturesmile.org. This collection of tweets mentioning 13 Twitter handles associated with British museums was gathered between May 2013 and June 2015. It was created for the purpose of classifying emotions, expressed on Twitter towards arts and cultural experiences in museums. \n\nIt contains 3,085 tweets, with 5 emotions namely anger, disgust, happiness, surprise and sadness. Please see our paper \"SMILE: Twitter Emotion Classification using Domain Adaptation\" for more details of the dataset.\n\nLicense: The annotations are provided under a CC-BY license, while Twitter retains the ownership and rights of the content of the tweets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

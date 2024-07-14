@@ -1,0 +1,43 @@
+{
+  "id": "georgesaavedra/covid19-dataset",
+  "id_no": 1879288,
+  "datasetSlugNullable": "covid19-dataset",
+  "ownerUserNullable": "georgesaavedra",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "COVID-19 dataset",
+  "subtitleNullable": "Dataset coronavirus pandemic",
+  "descriptionNullable": "### Content:\n\n\"Our World in Data\" which in collaboration with The University of Oxford have developed a reliable repository of datasets about dozens of topics focusing on those big problems which affect the world. This is why since the beginning of COVID-19 outbreak several researchers have been collecting data from every country in the world about multiple indicators which can make us take better decisions, what is more amazing is the fact that this dataset offered is updated every day for all countries allowing people to keep track of it. In the following link you can find fascinating charts about the pandemic and obviously the World COVID-19 dataset (up to date) containing over 60 features which you can download for free:\n\nhttps://ourworldindata.org/covid-vaccinations\n\n\n### Important to consider:\n\nI will be updating this dataset every week according to the published data by the organization, if you found this dataset or the link given useful I would really appreciate your upvote!\n\n\n### Acknowledgements and Citation\n\nMathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021)\n",
+  "datasetId": 1879288,
+  "datasetSlug": "covid19-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "georgesaavedra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 80611,
+  "totalVotes": 205,
+  "totalDownloads": 15382,
+  "title": "COVID-19 dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset coronavirus pandemic",
+  "hasSubtitle": true,
+  "description": "### Content:\n\n\"Our World in Data\" which in collaboration with The University of Oxford have developed a reliable repository of datasets about dozens of topics focusing on those big problems which affect the world. This is why since the beginning of COVID-19 outbreak several researchers have been collecting data from every country in the world about multiple indicators which can make us take better decisions, what is more amazing is the fact that this dataset offered is updated every day for all countries allowing people to keep track of it. In the following link you can find fascinating charts about the pandemic and obviously the World COVID-19 dataset (up to date) containing over 60 features which you can download for free:\n\nhttps://ourworldindata.org/covid-vaccinations\n\n\n### Important to consider:\n\nI will be updating this dataset every week according to the published data by the organization, if you found this dataset or the link given useful I would really appreciate your upvote!\n\n\n### Acknowledgements and Citation\n\nMathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "deep learning",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

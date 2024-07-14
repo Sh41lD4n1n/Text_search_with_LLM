@@ -1,0 +1,45 @@
+{
+  "id": "jef1056/discord-data",
+  "id_no": 1128700,
+  "datasetSlugNullable": "discord-data",
+  "ownerUserNullable": "jef1056",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Discord-Data",
+  "subtitleNullable": "Long-context, anonymized, clean multi and single turn conversational dataset",
+  "descriptionNullable": "## Description\nThis is a long-context, anonymized, clean, multi-turn and single-turn conversational dataset based on discord data scraped from a large variety of severs, big and small.\n\nWant your server to be a part of the next release? Want access to the raw data?\nContact me at contact@j-fan.ml\n\n###Some statistics\nThe raw data for this version contained 51,826,268 messages\n[v1] 5103788 (regex) + 696161 (toxic)/51826268, or 0.11% of the messages were removed\n[v2] 6737000 (regex) + 946778 (toxic)/90841631, 0.08%of the messages were removed\n**The dataset's final size is 46,026,319 (v1) + 64,345,492 (v2) [110,371,811] messages across 456,810 (v1) + 750,416 (v2) [1,207,226] conversations**, which is reduced from 89.6 GB of raw json data to just under 2 GB\n\n###Inspiration\nThere is a wide variety of NLP datasets that cover a huge number of different interactions between users that can be used for pretraining; Google's C4 covers webtexts and a extremely diverse amount of data for the majority of language tasks. Reddit crawls cover strucutred, forum-style text.\nHowever, despite this abundance of data, there is a lack of clean long-context data for specifically conversation puproses.\nIn a search for potential sources of data, I discovered that discord has a long-standing history of having interesting and diverse conversations, and a realatively open API. With the collaboration of a large number of discord moderators, server owners, and members of the community, this data was sucessfully downloaded and cleaned.\n\n###Goal\nTo create a diverse, structured dataset of turn-by-tun conversation that can be used to pretrain a model oriented specifically for conversational purposes\n\n## Content\nFiles containing `-detox` are cleaned files that utilized a LSTM network to analyize each message and evaluate if the message is toxic,  obscene, threatening, insulting, or is identity hate\nAll files were cleaned using https://github.com/JEF1056/clean-discord, mostly using the default settings.\nThe repo takes an automated, heuristic approach to removing unwanted, non-NLP, or toxic comments.\n`context.txt` contains all data that has been cleaned using basic regex and some text replacement\n`context-pairs.txt` contains pairs of data using only discord's recent replies feature. As it is so new, its yeild is very low. It has also been cleaned using basic regex and some text replacement\n\n##Aknowledgements\nA massive thanks to https://github.com/codemicro for working on multithreading code for the clean-discord repo!\n\nCite this dataset:\n```\n @misc{discord-data,\n    author = {Jess Fan},\n    title = {Discord Dataset},\n    contact = {jeefan@ucsc.edu, contact@j-fan.ml},\n    year = {2021},\n    howpublished = {\\url{https://www.kaggle.com/jef1056/discord-data}},\n    note = {V5}\n }\n```",
+  "datasetId": 1128700,
+  "datasetSlug": "discord-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jef1056",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 20223,
+  "totalVotes": 50,
+  "totalDownloads": 1832,
+  "title": "Discord-Data",
+  "hasTitle": true,
+  "subtitle": "Long-context, anonymized, clean multi and single turn conversational dataset",
+  "hasSubtitle": true,
+  "description": "## Description\nThis is a long-context, anonymized, clean, multi-turn and single-turn conversational dataset based on discord data scraped from a large variety of severs, big and small.\n\nWant your server to be a part of the next release? Want access to the raw data?\nContact me at contact@j-fan.ml\n\n###Some statistics\nThe raw data for this version contained 51,826,268 messages\n[v1] 5103788 (regex) + 696161 (toxic)/51826268, or 0.11% of the messages were removed\n[v2] 6737000 (regex) + 946778 (toxic)/90841631, 0.08%of the messages were removed\n**The dataset's final size is 46,026,319 (v1) + 64,345,492 (v2) [110,371,811] messages across 456,810 (v1) + 750,416 (v2) [1,207,226] conversations**, which is reduced from 89.6 GB of raw json data to just under 2 GB\n\n###Inspiration\nThere is a wide variety of NLP datasets that cover a huge number of different interactions between users that can be used for pretraining; Google's C4 covers webtexts and a extremely diverse amount of data for the majority of language tasks. Reddit crawls cover strucutred, forum-style text.\nHowever, despite this abundance of data, there is a lack of clean long-context data for specifically conversation puproses.\nIn a search for potential sources of data, I discovered that discord has a long-standing history of having interesting and diverse conversations, and a realatively open API. With the collaboration of a large number of discord moderators, server owners, and members of the community, this data was sucessfully downloaded and cleaned.\n\n###Goal\nTo create a diverse, structured dataset of turn-by-tun conversation that can be used to pretrain a model oriented specifically for conversational purposes\n\n## Content\nFiles containing `-detox` are cleaned files that utilized a LSTM network to analyize each message and evaluate if the message is toxic,  obscene, threatening, insulting, or is identity hate\nAll files were cleaned using https://github.com/JEF1056/clean-discord, mostly using the default settings.\nThe repo takes an automated, heuristic approach to removing unwanted, non-NLP, or toxic comments.\n`context.txt` contains all data that has been cleaned using basic regex and some text replacement\n`context-pairs.txt` contains pairs of data using only discord's recent replies feature. As it is so new, its yeild is very low. It has also been cleaned using basic regex and some text replacement\n\n##Aknowledgements\nA massive thanks to https://github.com/codemicro for working on multithreading code for the clean-discord repo!\n\nCite this dataset:\n```\n @misc{discord-data,\n    author = {Jess Fan},\n    title = {Discord Dataset},\n    contact = {jeefan@ucsc.edu, contact@j-fan.ml},\n    year = {2021},\n    howpublished = {\\url{https://www.kaggle.com/jef1056/discord-data}},\n    note = {V5}\n }\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "popular culture",
+    "computer science",
+    "programming",
+    "text",
+    "anime and manga",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Affero General Public License 3.0",
+      "name": "GNU Affero General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "russellyates88/suicide-rates-overview-1985-to-2016",
+  "id_no": 85351,
+  "datasetSlugNullable": "suicide-rates-overview-1985-to-2016",
+  "ownerUserNullable": "russellyates88",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Suicide Rates Overview 1985 to 2016 ",
+  "subtitleNullable": "Compares socio-economic info with suicide rates by year and country",
+  "descriptionNullable": "### Content\n\nThis compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.\n\n### References\nUnited Nations Development Program. (2018). Human development index (HDI). Retrieved from http://hdr.undp.org/en/indicators/137506\n\nWorld Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#\n\n[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook\n\nWorld Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/ \n\n### Inspiration\n\nSuicide Prevention.",
+  "datasetId": 85351,
+  "datasetSlug": "suicide-rates-overview-1985-to-2016",
+  "hasDatasetSlug": true,
+  "ownerUser": "russellyates88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 844494,
+  "totalVotes": 3031,
+  "totalDownloads": 140641,
+  "title": "Suicide Rates Overview 1985 to 2016 ",
+  "hasTitle": true,
+  "subtitle": "Compares socio-economic info with suicide rates by year and country",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.\n\n### References\nUnited Nations Development Program. (2018). Human development index (HDI). Retrieved from http://hdr.undp.org/en/indicators/137506\n\nWorld Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#\n\n[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook\n\nWorld Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/ \n\n### Inspiration\n\nSuicide Prevention.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "demographics",
+    "economics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "world-bank",
+      "name": "world-bank",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

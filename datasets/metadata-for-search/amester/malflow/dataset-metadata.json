@@ -1,0 +1,48 @@
+{
+  "id": "amester/malflow",
+  "id_no": 5300505,
+  "datasetSlugNullable": "malflow",
+  "ownerUserNullable": "amester",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Malflow",
+  "subtitleNullable": "Radare2 disassembled callgraphs, instruction stats & images on Bodmas and MalImg",
+  "descriptionNullable": "## Objective\n\n* primary purpose of this dataset is to support the scientific paper submitted to NSS-SocialSec2024 with data, code, and auxiliary information\n* secondary purpose is to offer data to anyone interested in researching malware analysis and/or family classification domain\n\n## Details\n\n* this is a collection of various resources and metadata regarding 3 datasets:\n  * **MalImg**\n  * **Bodmas**\n  * **IBD** -- Internal Dataset, where we are restricted not to publish md5-family relation\n       * only 14556 MD5 hashes are published, these are public on VirusTotal as well\n       * the full dataset size used in our experiments: 18765 samples\n* each sample was scanned with Radare2 5.8.8 to obtain the static call graph object, saved in a pickle format\n* these call graphs were traversed to obtain instruction information\n* RGB images were generated based on the instruction list, by mapping one instruction into one pixel and shaping the list into fixed dimensions\n\n## Data augmentation -- automated metamorphic variant generation\n\n* https://hub.docker.com/repository/docker/attilamester/pymetangine/general\n\n## Call graph generation\n\n* https://hub.docker.com/repository/docker/attilamester/r2-5.8.8/general\n* https://github.com/attilamester/malflow\n\n\n## References\n\n* MalImg dataset: \n```\n@inproceedings{nataraj2011malware,\n  title={Malware images: visualization and automatic classification},\n  author={Nataraj, Lakshmanan and Karthikeyan, Sreejith and Jacob, Gregoire and Manjunath, Bangalore S},\n  booktitle={Proceedings of the 8th international symposium on visualization for cyber security},\n  pages={1--7},\n  year={2011}\n}\n```\n\n* Bodmas dataset:\n```\n@inproceedings{yang2021bodmas,\n  title={BODMAS: An open dataset for learning based temporal analysis of PE malware},\n  author={Yang, Limin and Ciptadi, Arridhana and Laziuk, Ihar and Ahmadzadeh, Ali and Wang, Gang},\n  booktitle={2021 IEEE Security and Privacy Workshops (SPW)},\n  pages={78--84},\n  year={2021},\n  organization={IEEE}\n}\n```",
+  "datasetId": 5300505,
+  "datasetSlug": "malflow",
+  "hasDatasetSlug": true,
+  "ownerUser": "amester",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 10,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Malflow",
+  "hasTitle": true,
+  "subtitle": "Radare2 disassembled callgraphs, instruction stats & images on Bodmas and MalImg",
+  "hasSubtitle": true,
+  "description": "## Objective\n\n* primary purpose of this dataset is to support the scientific paper submitted to NSS-SocialSec2024 with data, code, and auxiliary information\n* secondary purpose is to offer data to anyone interested in researching malware analysis and/or family classification domain\n\n## Details\n\n* this is a collection of various resources and metadata regarding 3 datasets:\n  * **MalImg**\n  * **Bodmas**\n  * **IBD** -- Internal Dataset, where we are restricted not to publish md5-family relation\n       * only 14556 MD5 hashes are published, these are public on VirusTotal as well\n       * the full dataset size used in our experiments: 18765 samples\n* each sample was scanned with Radare2 5.8.8 to obtain the static call graph object, saved in a pickle format\n* these call graphs were traversed to obtain instruction information\n* RGB images were generated based on the instruction list, by mapping one instruction into one pixel and shaping the list into fixed dimensions\n\n## Data augmentation -- automated metamorphic variant generation\n\n* https://hub.docker.com/repository/docker/attilamester/pymetangine/general\n\n## Call graph generation\n\n* https://hub.docker.com/repository/docker/attilamester/r2-5.8.8/general\n* https://github.com/attilamester/malflow\n\n\n## References\n\n* MalImg dataset: \n```\n@inproceedings{nataraj2011malware,\n  title={Malware images: visualization and automatic classification},\n  author={Nataraj, Lakshmanan and Karthikeyan, Sreejith and Jacob, Gregoire and Manjunath, Bangalore S},\n  booktitle={Proceedings of the 8th international symposium on visualization for cyber security},\n  pages={1--7},\n  year={2011}\n}\n```\n\n* Bodmas dataset:\n```\n@inproceedings{yang2021bodmas,\n  title={BODMAS: An open dataset for learning based temporal analysis of PE malware},\n  author={Yang, Limin and Ciptadi, Arridhana and Laziuk, Ihar and Ahmadzadeh, Ali and Wang, Gang},\n  booktitle={2021 IEEE Security and Privacy Workshops (SPW)},\n  pages={78--84},\n  year={2021},\n  organization={IEEE}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "python",
+    "image classification",
+    "graph",
+    "cyber security"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "miafranc",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

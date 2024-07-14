@@ -1,0 +1,43 @@
+{
+  "id": "alifrahman/covid19-chest-xray-image-dataset",
+  "id_no": 884964,
+  "datasetSlugNullable": "covid19-chest-xray-image-dataset",
+  "ownerUserNullable": "alifrahman",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "COVID-19 Chest X-ray Image Dataset",
+  "subtitleNullable": "normal and covid-19 affected chest x-ray images",
+  "descriptionNullable": "### Context\n\nTo identify COVID-19 patient..\n\n\n### Content\n\nThis dataset contains the chest X-ray images of C)VID-19 affected people and the Normal people.\n\n### Acknowledgements\n\nThis dataset is the combined and modified version of [COVID-19 chest xray](https://www.kaggle.com/bachrr/covid-chest-xray) and [chest-xray-dataset](https://www.kaggle.com/alifrahman/chestxraydataset) datasets.\n\n\n### Inspiration\n\nThe main inspiration behind creating this dataset is to identify COVID-19 affected patients efficiently. ",
+  "datasetId": 884964,
+  "datasetSlug": "covid19-chest-xray-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alifrahman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 31960,
+  "totalVotes": 72,
+  "totalDownloads": 4736,
+  "title": "COVID-19 Chest X-ray Image Dataset",
+  "hasTitle": true,
+  "subtitle": "normal and covid-19 affected chest x-ray images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTo identify COVID-19 patient..\n\n\n### Content\n\nThis dataset contains the chest X-ray images of C)VID-19 affected people and the Normal people.\n\n### Acknowledgements\n\nThis dataset is the combined and modified version of [COVID-19 chest xray](https://www.kaggle.com/bachrr/covid-chest-xray) and [chest-xray-dataset](https://www.kaggle.com/alifrahman/chestxraydataset) datasets.\n\n\n### Inspiration\n\nThe main inspiration behind creating this dataset is to identify COVID-19 affected patients efficiently. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "health",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

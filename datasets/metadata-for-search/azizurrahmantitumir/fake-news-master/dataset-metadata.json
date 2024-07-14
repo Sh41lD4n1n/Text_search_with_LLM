@@ -1,0 +1,39 @@
+{
+  "id": "azizurrahmantitumir/fake-news-master",
+  "id_no": 4457713,
+  "datasetSlugNullable": "fake-news-master",
+  "ownerUserNullable": "azizurrahmantitumir",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake news master",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4457713,
+  "datasetSlug": "fake-news-master",
+  "hasDatasetSlug": true,
+  "ownerUser": "azizurrahmantitumir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 24,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Fake news master",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

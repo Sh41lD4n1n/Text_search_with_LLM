@@ -1,0 +1,40 @@
+{
+  "id": "crawlfeeds/walmart-product-reviews-dataset",
+  "id_no": 1543862,
+  "datasetSlugNullable": "walmart-product-reviews-dataset",
+  "ownerUserNullable": "crawlfeeds",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Walmart Fashion product reviews dataset",
+  "subtitleNullable": "Download fashion product reviews from Walmart",
+  "descriptionNullable": "### Walmart fashion product reviews dataset\n\nDownload fashion products reviews extracted by crawl feeds. This is a sample dataset with 3K+ records and 14 fields.\n\n\n### Content\n\nThe large review datasets are ideal for machine learning and data science projects. Download complete dataset from  [**crawl feeds.**](https://crawlfeeds.com/datasets)",
+  "datasetId": 1543862,
+  "datasetSlug": "walmart-product-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawlfeeds",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2435,
+  "totalVotes": 1,
+  "totalDownloads": 209,
+  "title": "Walmart Fashion product reviews dataset",
+  "hasTitle": true,
+  "subtitle": "Download fashion product reviews from Walmart",
+  "hasSubtitle": true,
+  "description": "### Walmart fashion product reviews dataset\n\nDownload fashion products reviews extracted by crawl feeds. This is a sample dataset with 3K+ records and 14 fields.\n\n\n### Content\n\nThe large review datasets are ideal for machine learning and data science projects. Download complete dataset from  [**crawl feeds.**](https://crawlfeeds.com/datasets)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

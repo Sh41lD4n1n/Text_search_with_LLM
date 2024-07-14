@@ -1,0 +1,42 @@
+{
+  "id": "balraj98/cvcclinicdb",
+  "id_no": 930614,
+  "datasetSlugNullable": "cvcclinicdb",
+  "ownerUserNullable": "balraj98",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "CVC-ClinicDB",
+  "subtitleNullable": "Dataset of Endoscopic Colonoscopy Frames for Polyp Detection",
+  "descriptionNullable": "### Content\n\nCVC-ClinicDB is a database of frames extracted from colonoscopy videos. The dataset contains several examples of polyp frames & corresponding ground truth for them. The Ground Truth images consists of a mask corresponding to the region covered by the polyp in the image. \n\n\nCVC-ClinicDB database consists of two different types of images:\n- Original images: original/frame_number.tiff\n- Polyp mask: ground truth/frame_number.tiff\n\n\nThe correspondence between the number of frame and the video sequence is shown in the below table:\n<img src=\"https://grand-challenge-public.s3.amazonaws.com/f/challenge/57/afe5bde7-f8f9-4f51-9167-f7007363d1f8/cvc-clinicdbgt2.png\" width=\"600\" height=\"600\">\n\n\nCVC-ClinicDB was the official database used in the training stages of MICCAI 2015 Sub-Challenge on Automatic Polyp Detection Challenge in Colonoscopy Videos.\n\n### Copyright\n\n- Images from folder \u2018Original\u2019 are property of Hospital Clinic, Barcelona, Spain\n- Images from folder \u2018Ground Truth\u2019 are propery of Computer Vision Center, Barcelona, Spain\n\n\n### Referencing\n\nThis dataset was obtained from the official [CVC-ClinicDB Challenge's homepage](https://polyp.grand-challenge.org/CVCClinicDB/). The use of this database is completely restricted for research and educational purposes. The use of this database is forbidden for commercial purposes. If you use this database for your experiments please include the following reference:\n\nBernal, J., S\u00e1nchez, F. J., Fern\u00e1ndez-Esparrach, G., Gil, D., Rodr\u00edguez, C., & Vilari\u00f1o, F. (2015). *WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians*. **Computerized Medical Imaging and Graphics**, 43, 99-111 .",
+  "datasetId": 930614,
+  "datasetSlug": "cvcclinicdb",
+  "hasDatasetSlug": true,
+  "ownerUser": "balraj98",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 34221,
+  "totalVotes": 47,
+  "totalDownloads": 4638,
+  "title": "CVC-ClinicDB",
+  "hasTitle": true,
+  "subtitle": "Dataset of Endoscopic Colonoscopy Frames for Polyp Detection",
+  "hasSubtitle": true,
+  "description": "### Content\n\nCVC-ClinicDB is a database of frames extracted from colonoscopy videos. The dataset contains several examples of polyp frames & corresponding ground truth for them. The Ground Truth images consists of a mask corresponding to the region covered by the polyp in the image. \n\n\nCVC-ClinicDB database consists of two different types of images:\n- Original images: original/frame_number.tiff\n- Polyp mask: ground truth/frame_number.tiff\n\n\nThe correspondence between the number of frame and the video sequence is shown in the below table:\n<img src=\"https://grand-challenge-public.s3.amazonaws.com/f/challenge/57/afe5bde7-f8f9-4f51-9167-f7007363d1f8/cvc-clinicdbgt2.png\" width=\"600\" height=\"600\">\n\n\nCVC-ClinicDB was the official database used in the training stages of MICCAI 2015 Sub-Challenge on Automatic Polyp Detection Challenge in Colonoscopy Videos.\n\n### Copyright\n\n- Images from folder \u2018Original\u2019 are property of Hospital Clinic, Barcelona, Spain\n- Images from folder \u2018Ground Truth\u2019 are propery of Computer Vision Center, Barcelona, Spain\n\n\n### Referencing\n\nThis dataset was obtained from the official [CVC-ClinicDB Challenge's homepage](https://polyp.grand-challenge.org/CVCClinicDB/). The use of this database is completely restricted for research and educational purposes. The use of this database is forbidden for commercial purposes. If you use this database for your experiments please include the following reference:\n\nBernal, J., S\u00e1nchez, F. J., Fern\u00e1ndez-Esparrach, G., Gil, D., Rodr\u00edguez, C., & Vilari\u00f1o, F. (2015). *WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians*. **Computerized Medical Imaging and Graphics**, 43, 99-111 .",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "computer vision",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

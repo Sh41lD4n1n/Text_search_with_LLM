@@ -1,0 +1,45 @@
+{
+  "id": "infernape/fast-furious-and-insured",
+  "id_no": 1359909,
+  "datasetSlugNullable": "fast-furious-and-insured",
+  "ownerUserNullable": "infernape",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Fast, Furious and Insured ",
+  "subtitleNullable": "Fast, Furious and Insured- Hackerearth ML Challenge",
+  "descriptionNullable": "**Problem statement**\n\nRoad traffic accidents claim the lives of about 1.35 million people per year. For children and young adults aged 5 to 29, road traffic accidents are the leading cause of death.Therefore, in most countries, for the sake of safety and protection, the law has made it mandatory for all vehicle owners to have vehicle insurance.\n\nVehicle insurance safeguards an individual from financial liabilities that might occur as a result of an adverse incident involving your vehicle; such as a car crash, fire, theft, or natural disasters. It covers all medical bills, allowing you to concentrate on getting better rather than worrying about money.\n\n**Task**\n\nYou have been hired as a Machine Learning expert by a leading car insurance company. Your task is to predict the insurance claim of the cars that are provided in the dataset.\n**\u2022 Condition:** Predict if the vehicle provided in the image is damaged or not \n**\u2022 Amount:** Based on the condition of a vehicle, predict the insurance amount of the cars that are provided in the dataset \n\n\n**Dataset**\n\nThe dataset consists of parameters such as the images of damaged cars, the cost price of the cars and their insurance claim, and the like.\n\nThe benefits of practicing this problem by using Machine Learning techniques are as follows:\n\nThis challenge encourages you to apply your Machine Learning skills to build a model that predicts the insurance claim of the cars that are provided in the dataset.\nThis challenge will help you enhance your knowledge of regression. Regression is one of the basic building blocks of Machine Learning.\nWe challenge you to build a model that successfully predicts the insurance claim of the cars that are provided in the dataset.\n\nAll details here are added form the competitions webpage. \nSource :[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/)\n\nI am sharing it here to make it available for many.  ",
+  "datasetId": 1359909,
+  "datasetSlug": "fast-furious-and-insured",
+  "hasDatasetSlug": true,
+  "ownerUser": "infernape",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 12902,
+  "totalVotes": 32,
+  "totalDownloads": 918,
+  "title": "Fast, Furious and Insured ",
+  "hasTitle": true,
+  "subtitle": "Fast, Furious and Insured- Hackerearth ML Challenge",
+  "hasSubtitle": true,
+  "description": "**Problem statement**\n\nRoad traffic accidents claim the lives of about 1.35 million people per year. For children and young adults aged 5 to 29, road traffic accidents are the leading cause of death.Therefore, in most countries, for the sake of safety and protection, the law has made it mandatory for all vehicle owners to have vehicle insurance.\n\nVehicle insurance safeguards an individual from financial liabilities that might occur as a result of an adverse incident involving your vehicle; such as a car crash, fire, theft, or natural disasters. It covers all medical bills, allowing you to concentrate on getting better rather than worrying about money.\n\n**Task**\n\nYou have been hired as a Machine Learning expert by a leading car insurance company. Your task is to predict the insurance claim of the cars that are provided in the dataset.\n**\u2022 Condition:** Predict if the vehicle provided in the image is damaged or not \n**\u2022 Amount:** Based on the condition of a vehicle, predict the insurance amount of the cars that are provided in the dataset \n\n\n**Dataset**\n\nThe dataset consists of parameters such as the images of damaged cars, the cost price of the cars and their insurance claim, and the like.\n\nThe benefits of practicing this problem by using Machine Learning techniques are as follows:\n\nThis challenge encourages you to apply your Machine Learning skills to build a model that predicts the insurance claim of the cars that are provided in the dataset.\nThis challenge will help you enhance your knowledge of regression. Regression is one of the basic building blocks of Machine Learning.\nWe challenge you to build a model that successfully predicts the insurance claim of the cars that are provided in the dataset.\n\nAll details here are added form the competitions webpage. \nSource :[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/)\n\nI am sharing it here to make it available for many.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "law",
+    "advanced",
+    "deep learning",
+    "cnn",
+    "image",
+    "insurance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

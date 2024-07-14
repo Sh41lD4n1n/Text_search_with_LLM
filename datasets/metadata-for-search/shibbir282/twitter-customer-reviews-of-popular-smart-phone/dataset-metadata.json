@@ -1,0 +1,43 @@
+{
+  "id": "shibbir282/twitter-customer-reviews-of-popular-smart-phone",
+  "id_no": 5175803,
+  "datasetSlugNullable": "twitter-customer-reviews-of-popular-smart-phone",
+  "ownerUserNullable": "shibbir282",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Twitter Customer Reviews of Popular Smart Phone",
+  "subtitleNullable": "Building a predictive sentiment analysis model using machine learning",
+  "descriptionNullable": "**Context**\n\nThis dataset is a part of our research work titled \"Opinion Mining of Customer Reviews Using Supervised Learning Algorithms\". If you use this dataset then please cite our work.\nYou can find the article in https://ieeexplore.ieee.org/document/9733435\n\n**Content**\n\nNowadays, a lot of people express their opinions on various topics using social networking sites. Twitter has become a famous social networking site where people can express their opinions to the point and so it has become a great source for opinion mining. In this research, the goal was to train and build a model that can automatically and accurately categorize the opinion of customer tweet reviews about popular cell phone brands. We have used python TextBlob library for getting the polarity values of all the tweet reviews of the dataset. We have also used Support Vector Machine (SVM), Na\u00efve Bayes, Logistic Regression, Decision Tree and Random Forest algorithms along with Bag of Words and TF-IDF vectorizers separately to train and build the model. We have investigated the opinions using five classes which are Strongly Positive, Positive, Neutral, Negative and Strongly Negative.\n\n\n**When referencing this dataset please cite the below paper**\n\n**Bibtex**\n@inproceedings{arif2021opinion,\ntitle={Opinion Mining of Customer Reviews Using Supervised Learning Algorithms},\nauthor={Arif, Shibbir Ahmed and Hossain, Taslima Binte},\nbooktitle={2021 5th International Conference on Electrical Information and Communication Technology (EICT)},\npages={1--6},\nyear={2021},\norganization={IEEE}\n}",
+  "datasetId": 5175803,
+  "datasetSlug": "twitter-customer-reviews-of-popular-smart-phone",
+  "hasDatasetSlug": true,
+  "ownerUser": "shibbir282",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 38,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Twitter Customer Reviews of Popular Smart Phone",
+  "hasTitle": true,
+  "subtitle": "Building a predictive sentiment analysis model using machine learning",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nThis dataset is a part of our research work titled \"Opinion Mining of Customer Reviews Using Supervised Learning Algorithms\". If you use this dataset then please cite our work.\nYou can find the article in https://ieeexplore.ieee.org/document/9733435\n\n**Content**\n\nNowadays, a lot of people express their opinions on various topics using social networking sites. Twitter has become a famous social networking site where people can express their opinions to the point and so it has become a great source for opinion mining. In this research, the goal was to train and build a model that can automatically and accurately categorize the opinion of customer tweet reviews about popular cell phone brands. We have used python TextBlob library for getting the polarity values of all the tweet reviews of the dataset. We have also used Support Vector Machine (SVM), Na\u00efve Bayes, Logistic Regression, Decision Tree and Random Forest algorithms along with Bag of Words and TF-IDF vectorizers separately to train and build the model. We have investigated the opinions using five classes which are Strongly Positive, Positive, Neutral, Negative and Strongly Negative.\n\n\n**When referencing this dataset please cite the below paper**\n\n**Bibtex**\n@inproceedings{arif2021opinion,\ntitle={Opinion Mining of Customer Reviews Using Supervised Learning Algorithms},\nauthor={Arif, Shibbir Ahmed and Hossain, Taslima Binte},\nbooktitle={2021 5th International Conference on Electrical Information and Communication Technology (EICT)},\npages={1--6},\nyear={2021},\norganization={IEEE}\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mobile and wireless",
+    "exploratory data analysis",
+    "text mining",
+    "multiclass classification",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

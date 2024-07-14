@@ -1,0 +1,44 @@
+{
+  "id": "vivek468/superstore-dataset-final",
+  "id_no": 1940216,
+  "datasetSlugNullable": "superstore-dataset-final",
+  "ownerUserNullable": "vivek468",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Superstore Dataset",
+  "subtitleNullable": "Dataset containing Sales & Profits of a Superstore",
+  "descriptionNullable": "### Context\n\nWith growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.\n\nYou can even take this a step further and try and build a Regression model to predict Sales or Profit. \n\nGo crazy with the dataset, but also make sure to provide some business insights to improve. \n\n\n### Metadata\n\nRow ID =&gt; Unique ID for each row.\nOrder ID =&gt; Unique Order ID for each Customer.\nOrder Date =&gt; Order Date of the product.\nShip Date =&gt; Shipping Date of the Product.\nShip Mode=&gt; Shipping Mode specified by the Customer.\nCustomer ID =&gt; Unique ID to identify each Customer.\nCustomer Name =&gt; Name of the Customer.\nSegment =&gt; The segment where the Customer belongs.\nCountry =&gt; Country of residence of the Customer.\nCity =&gt; City of residence of of the Customer.\nState =&gt; State of residence of the Customer.\nPostal Code =&gt; Postal Code of every Customer.\nRegion =&gt; Region where the Customer belong.\nProduct ID =&gt; Unique ID of the Product.\nCategory =&gt; Category of the product ordered.\nSub-Category =&gt; Sub-Category of the product ordered.\nProduct Name =&gt; Name of the Product\nSales =&gt; Sales of the Product.\nQuantity =&gt; Quantity of the Product.\nDiscount =&gt; Discount provided.\nProfit =&gt; Profit/Loss incurred.\n\n### Acknowledgements\n\nI do not own this data. I merely found it from the <a href=\"https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls\">Tableau</a> website. All credits to the original authors/creators. For educational purposes only.",
+  "datasetId": 1940216,
+  "datasetSlug": "superstore-dataset-final",
+  "hasDatasetSlug": true,
+  "ownerUser": "vivek468",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 314957,
+  "totalVotes": 522,
+  "totalDownloads": 68527,
+  "title": "Superstore Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset containing Sales & Profits of a Superstore",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWith growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.\n\nYou can even take this a step further and try and build a Regression model to predict Sales or Profit. \n\nGo crazy with the dataset, but also make sure to provide some business insights to improve. \n\n\n### Metadata\n\nRow ID =&gt; Unique ID for each row.\nOrder ID =&gt; Unique Order ID for each Customer.\nOrder Date =&gt; Order Date of the product.\nShip Date =&gt; Shipping Date of the Product.\nShip Mode=&gt; Shipping Mode specified by the Customer.\nCustomer ID =&gt; Unique ID to identify each Customer.\nCustomer Name =&gt; Name of the Customer.\nSegment =&gt; The segment where the Customer belongs.\nCountry =&gt; Country of residence of the Customer.\nCity =&gt; City of residence of of the Customer.\nState =&gt; State of residence of the Customer.\nPostal Code =&gt; Postal Code of every Customer.\nRegion =&gt; Region where the Customer belong.\nProduct ID =&gt; Unique ID of the Product.\nCategory =&gt; Category of the product ordered.\nSub-Category =&gt; Sub-Category of the product ordered.\nProduct Name =&gt; Name of the Product\nSales =&gt; Sales of the Product.\nQuantity =&gt; Quantity of the Product.\nDiscount =&gt; Discount provided.\nProfit =&gt; Profit/Loss incurred.\n\n### Acknowledgements\n\nI do not own this data. I merely found it from the <a href=\"https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls\">Tableau</a> website. All credits to the original authors/creators. For educational purposes only.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "regression",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

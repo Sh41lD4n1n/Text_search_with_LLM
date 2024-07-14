@@ -1,0 +1,39 @@
+{
+  "id": "shivamgoyal1899/hand-gesture-recognition-database",
+  "id_no": 625998,
+  "datasetSlugNullable": "hand-gesture-recognition-database",
+  "ownerUserNullable": "shivamgoyal1899",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Hand Gesture Recognition Database",
+  "subtitleNullable": "Dataset of different hand gestures in grey scale.",
+  "descriptionNullable": "",
+  "datasetId": 625998,
+  "datasetSlug": "hand-gesture-recognition-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamgoyal1899",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 6421,
+  "totalVotes": 6,
+  "totalDownloads": 195,
+  "title": "Hand Gesture Recognition Database",
+  "hasTitle": true,
+  "subtitle": "Dataset of different hand gestures in grey scale.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "robotics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

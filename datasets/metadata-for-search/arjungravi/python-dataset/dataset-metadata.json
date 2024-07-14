@@ -1,0 +1,40 @@
+{
+  "id": "arjungravi/python-dataset",
+  "id_no": 4282068,
+  "datasetSlugNullable": "python-dataset",
+  "ownerUserNullable": "arjungravi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Python Dataset",
+  "subtitleNullable": "A dataset which matches natural language python questions, to python code.",
+  "descriptionNullable": "The dataset has two columns - Python question (asked in human understandable language) and the python code, answering that question. The dataset is intended to train a LLM on python code related stuff :)\n\nThe dataset contains 13K+ unique data points. ",
+  "datasetId": 4282068,
+  "datasetSlug": "python-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arjungravi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2143,
+  "totalVotes": 19,
+  "totalDownloads": 249,
+  "title": "Python Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset which matches natural language python questions, to python code.",
+  "hasSubtitle": true,
+  "description": "The dataset has two columns - Python question (asked in human understandable language) and the python code, answering that question. The dataset is intended to train a LLM on python code related stuff :)\n\nThe dataset contains 13K+ unique data points. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

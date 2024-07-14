@@ -1,0 +1,43 @@
+{
+  "id": "shibbir282/sentiment-analysis-of-tweet-reviews",
+  "id_no": 5175867,
+  "datasetSlugNullable": "sentiment-analysis-of-tweet-reviews",
+  "ownerUserNullable": "shibbir282",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Sentiment Analysis of Tweet Reviews",
+  "subtitleNullable": "Building a predictive model based on positive and negative tweets of twitter",
+  "descriptionNullable": "**Context**\nThe objective of this task is to build a model based on pre-processed tweets. For the sake of simplicity, we say a tweet contains a negative review if it has a racist or hate sentiment associated with it. So, the task is to predict the labels on the test dataset after building a model.\n\n**Content**\nIn the dataset, a labelled train data is given where label '0' denotes the tweet is positive \ud83d\ude0a and label '1' denotes the tweet is negative \u2639\ufe0f\n\n**Acknowledgements**\nDataset is provided by [Analytics Vidhya](http://https/datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)\n",
+  "datasetId": 5175867,
+  "datasetSlug": "sentiment-analysis-of-tweet-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "shibbir282",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 54,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Sentiment Analysis of Tweet Reviews",
+  "hasTitle": true,
+  "subtitle": "Building a predictive model based on positive and negative tweets of twitter",
+  "hasSubtitle": true,
+  "description": "**Context**\nThe objective of this task is to build a model based on pre-processed tweets. For the sake of simplicity, we say a tweet contains a negative review if it has a racist or hate sentiment associated with it. So, the task is to predict the labels on the test dataset after building a model.\n\n**Content**\nIn the dataset, a labelled train data is given where label '0' denotes the tweet is positive \ud83d\ude0a and label '1' denotes the tweet is negative \u2639\ufe0f\n\n**Acknowledgements**\nDataset is provided by [Analytics Vidhya](http://https/datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text mining",
+    "binary classification",
+    "social networks",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

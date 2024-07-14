@@ -1,0 +1,39 @@
+{
+  "id": "anitakataria/bengaluru-house-dataset",
+  "id_no": 5184027,
+  "datasetSlugNullable": "bengaluru-house-dataset",
+  "ownerUserNullable": "anitakataria",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Bengaluru House Dataset",
+  "subtitleNullable": "Bengaluru House Prediction",
+  "descriptionNullable": "The Bengaluru House Prediction project is a machine learning-based solution designed to help potential homebuyers in Bangalore predict home prices accurately. It addresses a common problem faced by homebuyers who struggle to make informed decisions due to the complexity of factors that influence property prices.\n\nOverall, the Bengaluru House Prediction project is a valuable tool that empowers users with the right information to make informed decisions and demonstrates the potential of machine learning in the real estate industry.",
+  "datasetId": 5184027,
+  "datasetSlug": "bengaluru-house-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anitakataria",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 43,
+  "totalVotes": 0,
+  "totalDownloads": 12,
+  "title": "Bengaluru House Dataset",
+  "hasTitle": true,
+  "subtitle": "Bengaluru House Prediction",
+  "hasSubtitle": true,
+  "description": "The Bengaluru House Prediction project is a machine learning-based solution designed to help potential homebuyers in Bangalore predict home prices accurately. It addresses a common problem faced by homebuyers who struggle to make informed decisions due to the complexity of factors that influence property prices.\n\nOverall, the Bengaluru House Prediction project is a valuable tool that empowers users with the right information to make informed decisions and demonstrates the potential of machine learning in the real estate industry.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

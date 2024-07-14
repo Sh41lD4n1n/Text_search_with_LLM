@@ -1,0 +1,43 @@
+{
+  "id": "saurabhbagchi/books-dataset",
+  "id_no": 912577,
+  "datasetSlugNullable": "books-dataset",
+  "ownerUserNullable": "saurabhbagchi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Books Dataset",
+  "subtitleNullable": "Subset of the books available in Amazon",
+  "descriptionNullable": "### Context\n\nBooks read by users and ratings provided by them on Amazon\n\n\n### Content\n\nOnline data for books from Amazon along with user ratings and users who bought them\n\n\n### Acknowledgements\n\nPrimarily for building recommender systems.\nThis dataset has been compiled by Cai-Nicolas Ziegler in 2004, and it comprises of three tables for users, books and ratings. \nExplicit ratings are expressed on a scale from 1-10 (higher values denoting higher appreciation) and implicit rating is expressed by 0\nhttp://www2.informatik.uni-freiburg.de/~cziegler/BX/\n\n\n### Inspiration\n\nCan we select and recommend the top 10 books for each user based on past purchase behavior?",
+  "datasetId": 912577,
+  "datasetSlug": "books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhbagchi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 87157,
+  "totalVotes": 86,
+  "totalDownloads": 12678,
+  "title": "Books Dataset",
+  "hasTitle": true,
+  "subtitle": "Subset of the books available in Amazon",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBooks read by users and ratings provided by them on Amazon\n\n\n### Content\n\nOnline data for books from Amazon along with user ratings and users who bought them\n\n\n### Acknowledgements\n\nPrimarily for building recommender systems.\nThis dataset has been compiled by Cai-Nicolas Ziegler in 2004, and it comprises of three tables for users, books and ratings. \nExplicit ratings are expressed on a scale from 1-10 (higher values denoting higher appreciation) and implicit rating is expressed by 0\nhttp://www2.informatik.uni-freiburg.de/~cziegler/BX/\n\n\n### Inspiration\n\nCan we select and recommend the top 10 books for each user based on past purchase behavior?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "marketing",
+    "recommender systems",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

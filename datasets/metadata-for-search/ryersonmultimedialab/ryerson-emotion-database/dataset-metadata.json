@@ -1,0 +1,39 @@
+{
+  "id": "ryersonmultimedialab/ryerson-emotion-database",
+  "id_no": 1399549,
+  "datasetSlugNullable": "ryerson-emotion-database",
+  "ownerUserNullable": "ryersonmultimedialab",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Ryerson Emotion Database",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nIn the RML emotion database, video samples are collected from eight subjects, speaking six languages (English, Mandarin, Urdu, Punjabi, Persian, and Italian). Different accents of English and Mandarin were also included. Some of the subjects have facial hair, which further increases the diversity of the database. To ensure the correct expression of human emotion, the experimental dataset was selected based on listening test by at least two participating human subjects who do not know the corresponding language. A video sample was added to the experimental dataset if and only if all testing subjects perceive the intended emotion. In the database, about 500 samples are provided for training and testing, each delivered with one of the six principal emotions (happiness (HA), sadness (SA), anger (AN), fear (FE), surprise (SU), and disgust (DI) ). The average duration of each sample is around 5 seconds. Since the samples were recorded in audio-visual format, the input to the audio and visual feature extraction channel has the same length in terms of time duration. The clips were recorded at a sampling rate of 22050 Hz and a frame rate of 30 frames per second (fps), using a single channel 16-bit digitization\n\n\n\n### Acknowledgements\n\nOur major publications using this database are listed below which may help understand the use of the database and state-of-the-art performance:\n\n#####**a. Multi-modal (audio-visual) Emotion Recognition:**\n[a.1] Y. Wang, and L. Guan. \"Recognizing human emotional state from audiovisual signals.\" IEEE Transactions on Multimedia, vol. 10, no. 5, pp. 936-946, 2008.\n[a.2] Y. Wang, L. Guan and A.N. Venetsanopoulos. \u201cKernel cross-modal factor analysis for information fusion with application to bimodal emotion recognition,\u201d IEEE Transactions on Multimedia, vol. 14, no. 3, pp. 597-607, Jun 2012.\n[a.3] L. Gao, L. Qi and L. Guan. \"Online behavioral analysis with application to emotion state identification.\" IEEE Intelligent Systems, vol. 31, no. 5, pp. 32-39, 2016. ( https://arxiv.org/abs/2103.00356)\n[a.4] L. Gao, L. Qi, E. Chen, and L. Guan. \"Discriminative multiple canonical correlation analysis for information fusion.\" IEEE Transactions on Image Processing, vol. 27, no. 4, pp. 1951-1965, 2018. (https://arxiv.org/abs/2103.00361)\n[a.5] L. Gao, R. Zhang, L. Qi, E. Chen and L. Guan. \u201cThe labeled multiple canonical correlation analysis for information fusion.\u201d IEEE Transactions on Multimedia, vol. 21, no. 2, pp. 375-387, 2019. (https://arxiv.org/abs/2103.00359)\n\n#####**b. Facial Expression Recognition:**\n[b.1] Y. Tie, and L. Guan. \"Automatic landmark point detection and tracking for human facial expressions.\" EURASIP Journal on Image and Video Processing, no. 1, pp. 1-15, 2013.\n[b.2] Y. Tie, and L. Guan. \"A deformable 3-D facial expression model for dynamic human emotional state recognition.\" IEEE Transactions on Circuits and Systems for Video Technology, vol. 23, no. 1, pp. 142-157, 2013\n",
+  "datasetId": 1399549,
+  "datasetSlug": "ryerson-emotion-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "ryersonmultimedialab",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 7558,
+  "totalVotes": 11,
+  "totalDownloads": 804,
+  "title": "Ryerson Emotion Database",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn the RML emotion database, video samples are collected from eight subjects, speaking six languages (English, Mandarin, Urdu, Punjabi, Persian, and Italian). Different accents of English and Mandarin were also included. Some of the subjects have facial hair, which further increases the diversity of the database. To ensure the correct expression of human emotion, the experimental dataset was selected based on listening test by at least two participating human subjects who do not know the corresponding language. A video sample was added to the experimental dataset if and only if all testing subjects perceive the intended emotion. In the database, about 500 samples are provided for training and testing, each delivered with one of the six principal emotions (happiness (HA), sadness (SA), anger (AN), fear (FE), surprise (SU), and disgust (DI) ). The average duration of each sample is around 5 seconds. Since the samples were recorded in audio-visual format, the input to the audio and visual feature extraction channel has the same length in terms of time duration. The clips were recorded at a sampling rate of 22050 Hz and a frame rate of 30 frames per second (fps), using a single channel 16-bit digitization\n\n\n\n### Acknowledgements\n\nOur major publications using this database are listed below which may help understand the use of the database and state-of-the-art performance:\n\n#####**a. Multi-modal (audio-visual) Emotion Recognition:**\n[a.1] Y. Wang, and L. Guan. \"Recognizing human emotional state from audiovisual signals.\" IEEE Transactions on Multimedia, vol. 10, no. 5, pp. 936-946, 2008.\n[a.2] Y. Wang, L. Guan and A.N. Venetsanopoulos. \u201cKernel cross-modal factor analysis for information fusion with application to bimodal emotion recognition,\u201d IEEE Transactions on Multimedia, vol. 14, no. 3, pp. 597-607, Jun 2012.\n[a.3] L. Gao, L. Qi and L. Guan. \"Online behavioral analysis with application to emotion state identification.\" IEEE Intelligent Systems, vol. 31, no. 5, pp. 32-39, 2016. ( https://arxiv.org/abs/2103.00356)\n[a.4] L. Gao, L. Qi, E. Chen, and L. Guan. \"Discriminative multiple canonical correlation analysis for information fusion.\" IEEE Transactions on Image Processing, vol. 27, no. 4, pp. 1951-1965, 2018. (https://arxiv.org/abs/2103.00361)\n[a.5] L. Gao, R. Zhang, L. Qi, E. Chen and L. Guan. \u201cThe labeled multiple canonical correlation analysis for information fusion.\u201d IEEE Transactions on Multimedia, vol. 21, no. 2, pp. 375-387, 2019. (https://arxiv.org/abs/2103.00359)\n\n#####**b. Facial Expression Recognition:**\n[b.1] Y. Tie, and L. Guan. \"Automatic landmark point detection and tracking for human facial expressions.\" EURASIP Journal on Image and Video Processing, no. 1, pp. 1-15, 2013.\n[b.2] Y. Tie, and L. Guan. \"A deformable 3-D facial expression model for dynamic human emotional state recognition.\" IEEE Transactions on Circuits and Systems for Video Technology, vol. 23, no. 1, pp. 142-157, 2013\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

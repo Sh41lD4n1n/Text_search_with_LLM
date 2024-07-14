@@ -1,0 +1,40 @@
+{
+  "id": "tunguz/drug-use-by-age",
+  "id_no": 1291647,
+  "datasetSlugNullable": "drug-use-by-age",
+  "ownerUserNullable": "tunguz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Drug Use By Age",
+  "subtitleNullable": "US Drug Use By Age Dataset",
+  "descriptionNullable": "# Drug Use By Age\n\nThis directory contains data behind the story [How Baby Boomers Get High](http://fivethirtyeight.com/datalab/how-baby-boomers-get-high/). It covers 13 drugs across 17 age groups.\n\nSource: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](http://www.icpsr.umich.edu/icpsrweb/content/SAMHDA/index.html).\n\nHeader | Definition\n---|---------\n`alcohol-use` | Percentage of those in an age group who used alcohol in the past 12 months\n`alcohol-frequency` | Median number of times a user in an age group used alcohol in the past 12 months\n`marijuana-use` | Percentage of those in an age group who used marijuana in the past 12 months\n`marijuana-frequency` | Median number of times a user in an age group used marijuana in the past 12 months\n`cocaine-use` | Percentage of those in an age group who used cocaine in the past 12 months\n`cocaine-frequency` | Median number of times a user in an age group used cocaine in the past 12 months\n`crack-use` | Percentage of those in an age group who used crack in the past 12 months\n`crack-frequency` | Median number of times a user in an age group used crack in the past 12 months\n`heroin-use` | Percentage of those in an age group who used heroin in the past 12 months\n`heroin-frequency` | Median number of times a user in an age group used heroin in the past 12 months\n`hallucinogen-use` | Percentage of those in an age group who used hallucinogens in the past 12 months\n`hallucinogen-frequency` | Median number of times a user in an age group used hallucinogens in the past 12 months\n`inhalant-use` | Percentage of those in an age group who used inhalants in the past 12 months\n`inhalant-frequency` | Median number of times a user in an age group used inhalants in the past 12 months\n`pain-releiver-use` | Percentage of those in an age group who used pain relievers in the past 12 months\n`pain-releiver-frequency` | Median number of times a user in an age group used pain relievers in the past 12 months\n`oxycontin-use` | Percentage of those in an age group who used oxycontin in the past 12 months\n`oxycontin-frequency` | Median number of times a user in an age group used oxycontin in the past 12 months\n`tranquilizer-use` | Percentage of those in an age group who used tranquilizer in the past 12 months\n`tranquilizer-frequency` | Median number of times a user in an age group used tranquilizer in the past 12 months\n`stimulant-use` | Percentage of those in an age group who used stimulants in the past 12 months\n`stimulant-frequency` | Median number of times a user in an age group used stimulants in the past 12 months\n`meth-use` | Percentage of those in an age group who used meth in the past 12 months\n`meth-frequency` | Median number of times a user in an age group used meth in the past 12 months\n`sedative-use` | Percentage of those in an age group who used sedatives in the past 12 months\n`sedative-frequency` | Median number of times a user in an age group used sedatives in the past 12 months\n",
+  "datasetId": 1291647,
+  "datasetSlug": "drug-use-by-age",
+  "hasDatasetSlug": true,
+  "ownerUser": "tunguz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 39049,
+  "totalVotes": 88,
+  "totalDownloads": 5468,
+  "title": "Drug Use By Age",
+  "hasTitle": true,
+  "subtitle": "US Drug Use By Age Dataset",
+  "hasSubtitle": true,
+  "description": "# Drug Use By Age\n\nThis directory contains data behind the story [How Baby Boomers Get High](http://fivethirtyeight.com/datalab/how-baby-boomers-get-high/). It covers 13 drugs across 17 age groups.\n\nSource: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](http://www.icpsr.umich.edu/icpsrweb/content/SAMHDA/index.html).\n\nHeader | Definition\n---|---------\n`alcohol-use` | Percentage of those in an age group who used alcohol in the past 12 months\n`alcohol-frequency` | Median number of times a user in an age group used alcohol in the past 12 months\n`marijuana-use` | Percentage of those in an age group who used marijuana in the past 12 months\n`marijuana-frequency` | Median number of times a user in an age group used marijuana in the past 12 months\n`cocaine-use` | Percentage of those in an age group who used cocaine in the past 12 months\n`cocaine-frequency` | Median number of times a user in an age group used cocaine in the past 12 months\n`crack-use` | Percentage of those in an age group who used crack in the past 12 months\n`crack-frequency` | Median number of times a user in an age group used crack in the past 12 months\n`heroin-use` | Percentage of those in an age group who used heroin in the past 12 months\n`heroin-frequency` | Median number of times a user in an age group used heroin in the past 12 months\n`hallucinogen-use` | Percentage of those in an age group who used hallucinogens in the past 12 months\n`hallucinogen-frequency` | Median number of times a user in an age group used hallucinogens in the past 12 months\n`inhalant-use` | Percentage of those in an age group who used inhalants in the past 12 months\n`inhalant-frequency` | Median number of times a user in an age group used inhalants in the past 12 months\n`pain-releiver-use` | Percentage of those in an age group who used pain relievers in the past 12 months\n`pain-releiver-frequency` | Median number of times a user in an age group used pain relievers in the past 12 months\n`oxycontin-use` | Percentage of those in an age group who used oxycontin in the past 12 months\n`oxycontin-frequency` | Median number of times a user in an age group used oxycontin in the past 12 months\n`tranquilizer-use` | Percentage of those in an age group who used tranquilizer in the past 12 months\n`tranquilizer-frequency` | Median number of times a user in an age group used tranquilizer in the past 12 months\n`stimulant-use` | Percentage of those in an age group who used stimulants in the past 12 months\n`stimulant-frequency` | Median number of times a user in an age group used stimulants in the past 12 months\n`meth-use` | Percentage of those in an age group who used meth in the past 12 months\n`meth-frequency` | Median number of times a user in an age group used meth in the past 12 months\n`sedative-use` | Percentage of those in an age group who used sedatives in the past 12 months\n`sedative-frequency` | Median number of times a user in an age group used sedatives in the past 12 months\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fatemehmehrparvar/obesity-levels",
+  "id_no": 4751341,
+  "datasetSlugNullable": "obesity-levels",
+  "ownerUserNullable": "fatemehmehrparvar",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Obesity Levels",
+  "subtitleNullable": "Prediction of Obesity Levels Based On Eating Habits and Physical Activites",
+  "descriptionNullable": "**Obesity**\n\nObesity, which causes physical and mental problems, is a global health problem with serious consequences. The prevalence of obesity is increasing steadily, and therefore, new research is needed that examines the influencing factors of obesity and how to predict the occurrence of the condition according to these factors. \n\n\" https://www.semanticscholar.org/paper/Estimation-of-Obesity-Levels-with-a-Trained-Neural-Ya%C4%9F%C4%B1n-G%C3%BCl%C3%BC/2c1eab51db154493d225c8b86ba885bbaf147a2c \"\n\n**Dataset Information**\n\nThis dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition. The data contains 17 attributes and 2111 records, the records are labeled with the class variable NObesity (Obesity Level), that allows classification of the data using the values of Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III. 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.\n\n\nGender:\tFeature,\tCategorical,\t\"Gender\"\nAge :\tFeature,\tContinuous,\t\"Age\"\t\t\t\nHeight:\tFeature,\tContinuous\t\t\t\t\nWeight:\tFeature\tContinuous\t\t\t\t\nfamily_history_with_overweight:\tFeature,\tBinary,\t\t\" Has a family member suffered or suffers from overweight?\t\"\n\t\nFAVC :\tFeature,\tBinary,\t\t\" Do you eat high caloric food frequently?\t\"\t\nFCVC :\tFeature,\tInteger,\t\t\" Do you usually eat vegetables in your meals?\t\"\t\nNCP :\tFeature,\tContinuous,\t\t\" How many main meals do you have daily? \"\t\t\nCAEC :\tFeature,\tCategorical,\t\t\" Do you eat any food between meals? \"\t\t\nSMOKE :\tFeature,\tBinary,\t\t\" Do you smoke?\t\"\t\nCH2O:\tFeature,\tContinuous,\t\t\" How much water do you drink daily?\t\"\t\nSCC:\tFeature,\tBinary,\t\t\" Do you monitor the calories you eat daily? \"\t\t\nFAF: \tFeature,\tContinuous,\t\t\" How often do you have physical activity? \"\t\t\nTUE :\tFeature,\tInteger,\t\t\" How much time do you use technological devices such as cell phone, videogames, television, computer and others?\t\"\n\t\nCALC :\tFeature,\tCategorical,\t\t\" How often do you drink alcohol? \"\t\t\nMTRANS : \tFeature,\tCategorical,\t\t\" Which transportation do you usually use?\t\"\t\nNObeyesdad :\tTarget,\tCategorical,\t\t\"Obesity level\"\t\t",
+  "datasetId": 4751341,
+  "datasetSlug": "obesity-levels",
+  "hasDatasetSlug": true,
+  "ownerUser": "fatemehmehrparvar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 54407,
+  "totalVotes": 129,
+  "totalDownloads": 11851,
+  "title": "Obesity Levels",
+  "hasTitle": true,
+  "subtitle": "Prediction of Obesity Levels Based On Eating Habits and Physical Activites",
+  "hasSubtitle": true,
+  "description": "**Obesity**\n\nObesity, which causes physical and mental problems, is a global health problem with serious consequences. The prevalence of obesity is increasing steadily, and therefore, new research is needed that examines the influencing factors of obesity and how to predict the occurrence of the condition according to these factors. \n\n\" https://www.semanticscholar.org/paper/Estimation-of-Obesity-Levels-with-a-Trained-Neural-Ya%C4%9F%C4%B1n-G%C3%BCl%C3%BC/2c1eab51db154493d225c8b86ba885bbaf147a2c \"\n\n**Dataset Information**\n\nThis dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition. The data contains 17 attributes and 2111 records, the records are labeled with the class variable NObesity (Obesity Level), that allows classification of the data using the values of Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III. 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.\n\n\nGender:\tFeature,\tCategorical,\t\"Gender\"\nAge :\tFeature,\tContinuous,\t\"Age\"\t\t\t\nHeight:\tFeature,\tContinuous\t\t\t\t\nWeight:\tFeature\tContinuous\t\t\t\t\nfamily_history_with_overweight:\tFeature,\tBinary,\t\t\" Has a family member suffered or suffers from overweight?\t\"\n\t\nFAVC :\tFeature,\tBinary,\t\t\" Do you eat high caloric food frequently?\t\"\t\nFCVC :\tFeature,\tInteger,\t\t\" Do you usually eat vegetables in your meals?\t\"\t\nNCP :\tFeature,\tContinuous,\t\t\" How many main meals do you have daily? \"\t\t\nCAEC :\tFeature,\tCategorical,\t\t\" Do you eat any food between meals? \"\t\t\nSMOKE :\tFeature,\tBinary,\t\t\" Do you smoke?\t\"\t\nCH2O:\tFeature,\tContinuous,\t\t\" How much water do you drink daily?\t\"\t\nSCC:\tFeature,\tBinary,\t\t\" Do you monitor the calories you eat daily? \"\t\t\nFAF: \tFeature,\tContinuous,\t\t\" How often do you have physical activity? \"\t\t\nTUE :\tFeature,\tInteger,\t\t\" How much time do you use technological devices such as cell phone, videogames, television, computer and others?\t\"\n\t\nCALC :\tFeature,\tCategorical,\t\t\" How often do you drink alcohol? \"\t\t\nMTRANS : \tFeature,\tCategorical,\t\t\" Which transportation do you usually use?\t\"\t\nNObeyesdad :\tTarget,\tCategorical,\t\t\"Obesity level\"\t\t",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "data visualization",
+    "classification",
+    "deep learning",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

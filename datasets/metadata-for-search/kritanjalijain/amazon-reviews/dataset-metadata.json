@@ -1,0 +1,45 @@
+{
+  "id": "kritanjalijain/amazon-reviews",
+  "id_no": 1340369,
+  "datasetSlugNullable": "amazon-reviews",
+  "ownerUserNullable": "kritanjalijain",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon reviews ",
+  "subtitleNullable": "34,686,770 Amazon reviews from 6,643,669 users on 2,441,053 products",
+  "descriptionNullable": "Amazon Review Polarity Dataset\n\n### OVERVIEW\nContains 34,686,770 Amazon reviews from 6,643,669 users on 2,441,053 products, from the Stanford Network Analysis Project (SNAP). This subset contains 1,800,000 training samples and 200,000 testing samples in each polarity sentiment.\n\n\n### ORIGIN\n\nThe Amazon reviews dataset consists of reviews from amazon. The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review. For more information, please refer to the following paper: J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.\n\n\n### DESCRIPTION\n\nThe Amazon reviews polarity dataset is constructed by taking review score 1 and 2 as negative, and 4 and 5 as positive. Samples of score 3 is ignored. In the dataset, class 1 is the negative and class 2 is the positive. Each class has 1,800,000 training samples and 200,000 testing samples.\n\nIf you need help extracting the `train.csv` and `test.csv` files check out the [starter code](https://www.kaggle.com/kritanjalijain/amazon-reviews-starter-nlp).\n\nThe files `train.csv` and `test.csv` contain all the training samples as comma-separated values. \n\nThe CSVs contain `polarity`, `title`, `text`. These 3 columns in them, correspond to class index (1 or 2), review title and review text.\n\n* polarity - 1 for negative and 2 for positive\n* title - review heading\n* text - review body\n\nThe review title and text are escaped using double quotes (\"), and any internal double quote is escaped by 2 double quotes (\"\"). New lines are escaped by a backslash followed with an \"n\" character, that is \"\\n\".\n\n### CITATION\nThe Amazon reviews polarity dataset is constructed by Xiang Zhang (xiang.zhang@nyu.edu). It is used as a text classification benchmark in the following paper: Xiang Zhang, Junbo Zhao, Yann LeCun. [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626). Advances in Neural Information Processing Systems 28 (NIPS 2015). \n",
+  "datasetId": 1340369,
+  "datasetSlug": "amazon-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "kritanjalijain",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 110162,
+  "totalVotes": 145,
+  "totalDownloads": 15010,
+  "title": "Amazon reviews ",
+  "hasTitle": true,
+  "subtitle": "34,686,770 Amazon reviews from 6,643,669 users on 2,441,053 products",
+  "hasSubtitle": true,
+  "description": "Amazon Review Polarity Dataset\n\n### OVERVIEW\nContains 34,686,770 Amazon reviews from 6,643,669 users on 2,441,053 products, from the Stanford Network Analysis Project (SNAP). This subset contains 1,800,000 training samples and 200,000 testing samples in each polarity sentiment.\n\n\n### ORIGIN\n\nThe Amazon reviews dataset consists of reviews from amazon. The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review. For more information, please refer to the following paper: J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.\n\n\n### DESCRIPTION\n\nThe Amazon reviews polarity dataset is constructed by taking review score 1 and 2 as negative, and 4 and 5 as positive. Samples of score 3 is ignored. In the dataset, class 1 is the negative and class 2 is the positive. Each class has 1,800,000 training samples and 200,000 testing samples.\n\nIf you need help extracting the `train.csv` and `test.csv` files check out the [starter code](https://www.kaggle.com/kritanjalijain/amazon-reviews-starter-nlp).\n\nThe files `train.csv` and `test.csv` contain all the training samples as comma-separated values. \n\nThe CSVs contain `polarity`, `title`, `text`. These 3 columns in them, correspond to class index (1 or 2), review title and review text.\n\n* polarity - 1 for negative and 2 for positive\n* title - review heading\n* text - review body\n\nThe review title and text are escaped using double quotes (\"), and any internal double quote is escaped by 2 double quotes (\"\"). New lines are escaped by a backslash followed with an \"n\" character, that is \"\\n\".\n\n### CITATION\nThe Amazon reviews polarity dataset is constructed by Xiang Zhang (xiang.zhang@nyu.edu). It is used as a text classification benchmark in the following paper: Xiang Zhang, Junbo Zhao, Yann LeCun. [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626). Advances in Neural Information Processing Systems 28 (NIPS 2015). \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "nlp",
+    "text",
+    "ratings and reviews",
+    "e-commerce services",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

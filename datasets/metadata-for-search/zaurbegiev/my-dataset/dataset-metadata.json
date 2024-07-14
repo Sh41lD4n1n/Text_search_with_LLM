@@ -1,0 +1,39 @@
+{
+  "id": "zaurbegiev/my-dataset",
+  "id_no": 1088,
+  "datasetSlugNullable": "my-dataset",
+  "ownerUserNullable": "zaurbegiev",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Bank Loan Status Dataset",
+  "subtitleNullable": "Future Loan Status prediction via classification models",
+  "descriptionNullable": "# Context \r\n\r\nThere's a story behind every dataset and here's your opportunity to share yours.\r\n\r\n\r\n# Content\r\n\r\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\r\n\r\n\r\n# Acknowledgements\r\n\r\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\r\n\r\n\r\n# Inspiration\r\n\r\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1088,
+  "datasetSlug": "my-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "zaurbegiev",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 155129,
+  "totalVotes": 232,
+  "totalDownloads": 23291,
+  "title": "Bank Loan Status Dataset",
+  "hasTitle": true,
+  "subtitle": "Future Loan Status prediction via classification models",
+  "hasSubtitle": true,
+  "description": "# Context \r\n\r\nThere's a story behind every dataset and here's your opportunity to share yours.\r\n\r\n\r\n# Content\r\n\r\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\r\n\r\n\r\n# Acknowledgements\r\n\r\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\r\n\r\n\r\n# Inspiration\r\n\r\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "banking"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

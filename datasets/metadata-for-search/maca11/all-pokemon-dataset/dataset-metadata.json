@@ -1,0 +1,42 @@
+{
+  "id": "maca11/all-pokemon-dataset",
+  "id_no": 1652793,
+  "datasetSlugNullable": "all-pokemon-dataset",
+  "ownerUserNullable": "maca11",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "All Pokemon Dataset",
+  "subtitleNullable": "Data from all Pokemons and their different forms from all 8 generations",
+  "descriptionNullable": "### Context\n\nThis Dataset contains data from all Pokemons and their forms from the eight generations. It includes their number, name, primary and secondary type, abilities, base stats, performance vs other types, etc. Data was scrapped from [serebii]( https://serebii.net/) [bulbapedia]( https://bulbapedia.bulbagarden.net/wiki/Main_Page) and  [pokemon database](https://pokemondb.net/) \n\n\n### Content\n\n- Number: Number of the Pokemon in the National Pokedex\n- Name: Name of the Pokemon\n- Type 1: Primary Type of the Pokemon\n- Type 2: Secondary Type of the Pokemon\n- Abilities: A list that contains the abilities of the Pokemon\n- HP: Base Hit Points stat of the Pokemon\n- Att: Base Attack stat of the Pokemon\n- Def: Base Defense stat of the Pokemon\n- Spa: Base Special Attack stat of the Pokemon\n- Spd: Base Special Defense stat of the Pokemon\n- Spe: Base Speed stat of the Pokemon\n- BST: Sum of all the base stats\n- Mean: Mean of the base stats\n- Standard Deviation: Standard deviation of the base stats\n- Generation: The Generation in which the Pokemon was introduced\n- Experience Type: The Experience Group to which the Pokemon belongs \n- Experience to level 100: Amount of experience the Pokemon needs to level up to 100\n- Final Evolution: Denotes if the Pokemon is a Final Evolution\n- Catch Rate: Catch Rate of the Pokemon\n- Legendary: Denotes if the Pokemon is Legendary\n- Mega Evolution: Denotes if the Pokemon is a Mega Evolution\n- Alolan Form: Denotes if the Pokemon is an Alolan Form\n- Galarian Form: Denotes if the Pokemon is a Galarian Form\n- Against { }: Effectiveness of certain type against the Pokemon\n\n## Update\n\nThree new columns have been added:\n\n- Height: The height of the Pokemon in metres\n- Weight: The weight of the Pokemon in kilograms\n- BMI: The Body mass index of the Pokemon (Weight /  Height^2)\n\n\n",
+  "datasetId": 1652793,
+  "datasetSlug": "all-pokemon-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "maca11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 15702,
+  "totalVotes": 59,
+  "totalDownloads": 2242,
+  "title": "All Pokemon Dataset",
+  "hasTitle": true,
+  "subtitle": "Data from all Pokemons and their different forms from all 8 generations",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis Dataset contains data from all Pokemons and their forms from the eight generations. It includes their number, name, primary and secondary type, abilities, base stats, performance vs other types, etc. Data was scrapped from [serebii]( https://serebii.net/) [bulbapedia]( https://bulbapedia.bulbagarden.net/wiki/Main_Page) and  [pokemon database](https://pokemondb.net/) \n\n\n### Content\n\n- Number: Number of the Pokemon in the National Pokedex\n- Name: Name of the Pokemon\n- Type 1: Primary Type of the Pokemon\n- Type 2: Secondary Type of the Pokemon\n- Abilities: A list that contains the abilities of the Pokemon\n- HP: Base Hit Points stat of the Pokemon\n- Att: Base Attack stat of the Pokemon\n- Def: Base Defense stat of the Pokemon\n- Spa: Base Special Attack stat of the Pokemon\n- Spd: Base Special Defense stat of the Pokemon\n- Spe: Base Speed stat of the Pokemon\n- BST: Sum of all the base stats\n- Mean: Mean of the base stats\n- Standard Deviation: Standard deviation of the base stats\n- Generation: The Generation in which the Pokemon was introduced\n- Experience Type: The Experience Group to which the Pokemon belongs \n- Experience to level 100: Amount of experience the Pokemon needs to level up to 100\n- Final Evolution: Denotes if the Pokemon is a Final Evolution\n- Catch Rate: Catch Rate of the Pokemon\n- Legendary: Denotes if the Pokemon is Legendary\n- Mega Evolution: Denotes if the Pokemon is a Mega Evolution\n- Alolan Form: Denotes if the Pokemon is an Alolan Form\n- Galarian Form: Denotes if the Pokemon is a Galarian Form\n- Against { }: Effectiveness of certain type against the Pokemon\n\n## Update\n\nThree new columns have been added:\n\n- Height: The height of the Pokemon in metres\n- Weight: The weight of the Pokemon in kilograms\n- BMI: The Body mass index of the Pokemon (Weight /  Height^2)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "games",
+    "video games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

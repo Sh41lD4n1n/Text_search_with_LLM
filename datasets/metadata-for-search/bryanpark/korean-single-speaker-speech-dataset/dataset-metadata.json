@@ -1,0 +1,41 @@
+{
+  "id": "bryanpark/korean-single-speaker-speech-dataset",
+  "id_no": 19829,
+  "datasetSlugNullable": "korean-single-speaker-speech-dataset",
+  "ownerUserNullable": "bryanpark",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Korean Single Speaker Speech Dataset",
+  "subtitleNullable": "KSS Dataset: Korean Single Speaker Speech Dataset",
+  "descriptionNullable": "# [Updated on September 28, 2019] KSS Dataset: Korean Single speaker Speech Dataset\n\nKSS Dataset is designed for the Korean text-to-speech task. It consists of audio files recorded by a professional female voice actoress and their aligned text extracted from my books. As a copyright holder, by courtesy of the publishers, I release this dataset to the public. To my best knowledge,  this is the first publicly available speech dataset for Korean.\n\n## File Format\nEach line in `transcript.v.1.3.txt` is delimited by | into six fields.\n\n* A. Audio file path\n* B. Original script\n* C. Expanded script\n* D. Decomposed script\n* E. Audio duration (seconds)\n* F. English translation\n\ne.g.,\n\n1/1_0470.wav|\uc800\ub294 \ubcf4\ud1b5 20\ubd84 \uc815\ub3c4 \ub0ae\uc7a0\uc744 \uc7a1\ub2c8\ub2e4.|\uc800\ub294 \ubcf4\ud1b5 \uc774\uc2ed \ubd84 \uc815\ub3c4 \ub0ae\uc7a0\uc744 \uc7a1\ub2c8\ub2e4.|\u110c\u1165\u1102\u1173\u11ab \u1107\u1169\u1110\u1169\u11bc \u110b\u1175\u1109\u1175\u11b8 \u1107\u116e\u11ab \u110c\u1165\u11bc\u1103\u1169 \u1102\u1161\u11bd\u110c\u1161\u11b7\u110b\u1173\u11af \u110c\u1161\u11b8\u1102\u1175\u1103\u1161.|4.1|I usually take a nap for 20 minutes.\n\n## Specification\n* Audio File Type: wav\n* Total Running Time: 12+ hours\n* Sample Rate: 44,100 KHZ\n* Number of Audio Files: 12,853\n* Sources\n  * |1|  [Kyubyong Park, 500 Basic Korean Verbs, Tuttle Publishing, 2015.](https://www.amazon.com/500-Basic-Korean-Verbs-Comprehensive/dp/0804846057/ref=sr_1_1?s=books&ie=UTF8&qid=1522911616&sr=1-1&keywords=kyubyong+park)|\n  * |2|\t[Kyubyong Park, 500 Basic Korean Adjectives 2nd Ed., Youkrak, 2015.](http://www.hanbooks.com/500bakoad.html)|\n  * |3|\t[Kyubyong Park, Essential Korean Vocabulary, Tuttle Publishing, 2015.](https://www.amazon.com/Essential-Korean-Vocabulary-Phrases-Fluently/dp/0804843252/ref=sr_1_3?s=books&ie=UTF8&qid=1522911806&sr=1-3&keywords=kyubyong+park)|\n  * |4|\t[Kyubyong Park, Tuttle Learner's Korean-English Dictionary, Tuttle Publishing, 2012.](https://www.amazon.com/Tuttle-Learners-Korean-English-Dictionary-Essential/dp/0804841500/ref=sr_1_8?s=books&ie=UTF8&qid=1522911806&sr=1-8&keywords=kyubyong+park)|\n\n## License\nNC-SA 4.0. You CANNOT use this dataset for ANY COMMERCIAL purpose. Otherwise, you can freely use this.\n\n## Citation\n\nIf you want to cite KSS Dataset, please refer to this:\n\nKyubyong Park, KSS Dataset: Korean Single speaker Speech Dataset, https://kaggle.com/bryanpark/korean-single-speaker-speech-dataset, 2018\n\n## Reference\n\nCheck out [this](https://github.com/Kyubyong/kss) for a project using this KSS Dataset.\n\n## Contact\n\nYou can contact me at kbpark.linguist@gmail.com.\n\nApril, 2018.\n\nKyubyong Park",
+  "datasetId": 19829,
+  "datasetSlug": "korean-single-speaker-speech-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bryanpark",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 142866,
+  "totalVotes": 164,
+  "totalDownloads": 12306,
+  "title": "Korean Single Speaker Speech Dataset",
+  "hasTitle": true,
+  "subtitle": "KSS Dataset: Korean Single Speaker Speech Dataset",
+  "hasSubtitle": true,
+  "description": "# [Updated on September 28, 2019] KSS Dataset: Korean Single speaker Speech Dataset\n\nKSS Dataset is designed for the Korean text-to-speech task. It consists of audio files recorded by a professional female voice actoress and their aligned text extracted from my books. As a copyright holder, by courtesy of the publishers, I release this dataset to the public. To my best knowledge,  this is the first publicly available speech dataset for Korean.\n\n## File Format\nEach line in `transcript.v.1.3.txt` is delimited by | into six fields.\n\n* A. Audio file path\n* B. Original script\n* C. Expanded script\n* D. Decomposed script\n* E. Audio duration (seconds)\n* F. English translation\n\ne.g.,\n\n1/1_0470.wav|\uc800\ub294 \ubcf4\ud1b5 20\ubd84 \uc815\ub3c4 \ub0ae\uc7a0\uc744 \uc7a1\ub2c8\ub2e4.|\uc800\ub294 \ubcf4\ud1b5 \uc774\uc2ed \ubd84 \uc815\ub3c4 \ub0ae\uc7a0\uc744 \uc7a1\ub2c8\ub2e4.|\u110c\u1165\u1102\u1173\u11ab \u1107\u1169\u1110\u1169\u11bc \u110b\u1175\u1109\u1175\u11b8 \u1107\u116e\u11ab \u110c\u1165\u11bc\u1103\u1169 \u1102\u1161\u11bd\u110c\u1161\u11b7\u110b\u1173\u11af \u110c\u1161\u11b8\u1102\u1175\u1103\u1161.|4.1|I usually take a nap for 20 minutes.\n\n## Specification\n* Audio File Type: wav\n* Total Running Time: 12+ hours\n* Sample Rate: 44,100 KHZ\n* Number of Audio Files: 12,853\n* Sources\n  * |1|  [Kyubyong Park, 500 Basic Korean Verbs, Tuttle Publishing, 2015.](https://www.amazon.com/500-Basic-Korean-Verbs-Comprehensive/dp/0804846057/ref=sr_1_1?s=books&ie=UTF8&qid=1522911616&sr=1-1&keywords=kyubyong+park)|\n  * |2|\t[Kyubyong Park, 500 Basic Korean Adjectives 2nd Ed., Youkrak, 2015.](http://www.hanbooks.com/500bakoad.html)|\n  * |3|\t[Kyubyong Park, Essential Korean Vocabulary, Tuttle Publishing, 2015.](https://www.amazon.com/Essential-Korean-Vocabulary-Phrases-Fluently/dp/0804843252/ref=sr_1_3?s=books&ie=UTF8&qid=1522911806&sr=1-3&keywords=kyubyong+park)|\n  * |4|\t[Kyubyong Park, Tuttle Learner's Korean-English Dictionary, Tuttle Publishing, 2012.](https://www.amazon.com/Tuttle-Learners-Korean-English-Dictionary-Essential/dp/0804841500/ref=sr_1_8?s=books&ie=UTF8&qid=1522911806&sr=1-8&keywords=kyubyong+park)|\n\n## License\nNC-SA 4.0. You CANNOT use this dataset for ANY COMMERCIAL purpose. Otherwise, you can freely use this.\n\n## Citation\n\nIf you want to cite KSS Dataset, please refer to this:\n\nKyubyong Park, KSS Dataset: Korean Single speaker Speech Dataset, https://kaggle.com/bryanpark/korean-single-speaker-speech-dataset, 2018\n\n## Reference\n\nCheck out [this](https://github.com/Kyubyong/kss) for a project using this KSS Dataset.\n\n## Contact\n\nYou can contact me at kbpark.linguist@gmail.com.\n\nApril, 2018.\n\nKyubyong Park",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "arts and entertainment",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

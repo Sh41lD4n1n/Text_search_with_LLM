@@ -1,0 +1,43 @@
+{
+  "id": "micscodes/dresden-image-database",
+  "id_no": 5293423,
+  "datasetSlugNullable": "dresden-image-database",
+  "ownerUserNullable": "micscodes",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Dresden Image Database",
+  "subtitleNullable": "",
+  "descriptionNullable": "The 'Dresden Image Database' comprises original JPEG images from 73 camera devices across 25 camera models. This dataset is primarily used for Source Camera Device and Model Identification, offering over 14,000 images captured under controlled conditions. \n\nCopyright: \"Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.\"\n\nOriginal Source (Now Working as on 28 June 2024): http://forensics.inf.tu-dresden.de/dresden_image_database/ \n\nPlease Cite the corresponding paper\n\"Gloe, T., & B\u00f6hme, R. (2010, March). The'Dresden Image Database'for benchmarking digital image forensics. In Proceedings of the 2010 ACM symposium on applied computing (pp. 1584-1590).\"",
+  "datasetId": 5293423,
+  "datasetSlug": "dresden-image-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "micscodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 27,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Dresden Image Database",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The 'Dresden Image Database' comprises original JPEG images from 73 camera devices across 25 camera models. This dataset is primarily used for Source Camera Device and Model Identification, offering over 14,000 images captured under controlled conditions. \n\nCopyright: \"Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.\"\n\nOriginal Source (Now Working as on 28 June 2024): http://forensics.inf.tu-dresden.de/dresden_image_database/ \n\nPlease Cite the corresponding paper\n\"Gloe, T., & B\u00f6hme, R. (2010, March). The'Dresden Image Database'for benchmarking digital image forensics. In Proceedings of the 2010 ACM symposium on applied computing (pp. 1584-1590).\"",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nexdatafrank/multi-races-human-body-semantic-segmentation-data",
+  "id_no": 5166742,
+  "datasetSlugNullable": "multi-races-human-body-semantic-segmentation-data",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Multi-Races Human Body Semantic Segmentation Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Multi-Races Human Body Semantic Segmentation Data\n\n\n## Description\n602 People \u20133,010 Images Multi-Races Human Body Semantic Segmentation Data,The data diversity includes headphones, body, background,and glasses.In terms of annotation, we adpoted segmentation annotations on headphones, body, background and glasses.The data can be used for tasks such as human body segmentation and the behavior detection of Video conference.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1181?source=Kaggle\n\n## Data size\n602 people, 5 images for each person\n## Collection environment\nOffice, coffee shop, supermarket, apartment\n## Race distribution\n151 Asian people, 151 black people, 150 Caucasians people, 150  brown people ,ranging from teenager to middle-aged people, (Aged between 16 and 60)\n## Gender distribution\n301 males, 301 females\n## Data diversity\ndifferent poses, different ages, different races, different collection backgrounds\n## Device\ncomputer, cellphone\n## Collecting angles\neye-level angle\n## Data format\nthe image data format is .jpg, the annotation file (mask) format is .png\n## Annotation content\nsegmentation annotation of headphones, body, background, glasses\n## Accuracy\nbased on the accuracy of the actions, the accuracy  is more than 97%; Accuracy of semantic segmentation annotation: for each object, the mask edge location errors in x and y directions are less than 5 pixels, and the category label was correctly labeled, which were considered as a qualified annotation; Annotation accuracy: each object is regarded as the unit, annotation accuracy is more than 97%\n# Licensing Information\nCommercial License\n",
+  "datasetId": 5166742,
+  "datasetSlug": "multi-races-human-body-semantic-segmentation-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 15,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Multi-Races Human Body Semantic Segmentation Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Multi-Races Human Body Semantic Segmentation Data\n\n\n## Description\n602 People \u20133,010 Images Multi-Races Human Body Semantic Segmentation Data,The data diversity includes headphones, body, background,and glasses.In terms of annotation, we adpoted segmentation annotations on headphones, body, background and glasses.The data can be used for tasks such as human body segmentation and the behavior detection of Video conference.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1181?source=Kaggle\n\n## Data size\n602 people, 5 images for each person\n## Collection environment\nOffice, coffee shop, supermarket, apartment\n## Race distribution\n151 Asian people, 151 black people, 150 Caucasians people, 150  brown people ,ranging from teenager to middle-aged people, (Aged between 16 and 60)\n## Gender distribution\n301 males, 301 females\n## Data diversity\ndifferent poses, different ages, different races, different collection backgrounds\n## Device\ncomputer, cellphone\n## Collecting angles\neye-level angle\n## Data format\nthe image data format is .jpg, the annotation file (mask) format is .png\n## Annotation content\nsegmentation annotation of headphones, body, background, glasses\n## Accuracy\nbased on the accuracy of the actions, the accuracy  is more than 97%; Accuracy of semantic segmentation annotation: for each object, the mask edge location errors in x and y directions are less than 5 pixels, and the category label was correctly labeled, which were considered as a qualified annotation; Annotation accuracy: each object is regarded as the unit, annotation accuracy is more than 97%\n# Licensing Information\nCommercial License\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

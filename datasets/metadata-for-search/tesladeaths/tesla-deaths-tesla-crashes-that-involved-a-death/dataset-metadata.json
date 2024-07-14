@@ -1,0 +1,39 @@
+{
+  "id": "tesladeaths/tesla-deaths-tesla-crashes-that-involved-a-death",
+  "id_no": 351753,
+  "datasetSlugNullable": "tesla-deaths-tesla-crashes-that-involved-a-death",
+  "ownerUserNullable": "tesladeaths",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Tesla Deaths",
+  "subtitleNullable": "Record of Tesla accidents that involved a death",
+  "descriptionNullable": "UPDATE: This dataset is static and outdated. Get the latest data at [https://www.kaggle.com/datasets/tesladeaths/tesla-deaths](https://www.kaggle.com/datasets/tesladeaths/tesla-deaths)\n\nTesla Deaths is a record of Tesla accidents that involved a driver, occupant, cyclist, motorcyclist, or pedestrian death. We record information about Tesla fatalities that have been reported and as much related crash data as possible such as location of crash, names of deceased. This dataset also tallies claimed and confirmed Tesla autopilot crashes, that is instances when Autopilot was activated during a Tesla crash that resulted in death.\n\nLatest version of dataset at [https://www.tesladeaths.com](https://www.tesladeaths.com).",
+  "datasetId": 351753,
+  "datasetSlug": "tesla-deaths-tesla-crashes-that-involved-a-death",
+  "hasDatasetSlug": true,
+  "ownerUser": "tesladeaths",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 14066,
+  "totalVotes": 8,
+  "totalDownloads": 402,
+  "title": "Tesla Deaths",
+  "hasTitle": true,
+  "subtitle": "Record of Tesla accidents that involved a death",
+  "hasSubtitle": true,
+  "description": "UPDATE: This dataset is static and outdated. Get the latest data at [https://www.kaggle.com/datasets/tesladeaths/tesla-deaths](https://www.kaggle.com/datasets/tesladeaths/tesla-deaths)\n\nTesla Deaths is a record of Tesla accidents that involved a driver, occupant, cyclist, motorcyclist, or pedestrian death. We record information about Tesla fatalities that have been reported and as much related crash data as possible such as location of crash, names of deceased. This dataset also tallies claimed and confirmed Tesla autopilot crashes, that is instances when Autopilot was activated during a Tesla crash that resulted in death.\n\nLatest version of dataset at [https://www.tesladeaths.com](https://www.tesladeaths.com).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mortality"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

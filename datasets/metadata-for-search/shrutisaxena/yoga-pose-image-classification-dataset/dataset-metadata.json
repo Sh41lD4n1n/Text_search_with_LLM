@@ -1,0 +1,43 @@
+{
+  "id": "shrutisaxena/yoga-pose-image-classification-dataset",
+  "id_no": 1249230,
+  "datasetSlugNullable": "yoga-pose-image-classification-dataset",
+  "ownerUserNullable": "shrutisaxena",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Yoga Pose Image classification dataset",
+  "subtitleNullable": "image dataset for yoga pose estimation",
+  "descriptionNullable": "### Context\n\n**Yoga Pose Image Classification**\n\nClassify the yoga pose being performed in the image.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1249230,
+  "datasetSlug": "yoga-pose-image-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shrutisaxena",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 47561,
+  "totalVotes": 121,
+  "totalDownloads": 4951,
+  "title": "Yoga Pose Image classification dataset",
+  "hasTitle": true,
+  "subtitle": "image dataset for yoga pose estimation",
+  "hasSubtitle": true,
+  "description": "### Context\n\n**Yoga Pose Image Classification**\n\nClassify the yoga pose being performed in the image.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exercise",
+    "healthcare",
+    "business",
+    "health",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "drahulsingh/best-selling-manga",
+  "id_no": 3520964,
+  "datasetSlugNullable": "best-selling-manga",
+  "ownerUserNullable": "drahulsingh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "best-selling-manga",
+  "subtitleNullable": "List of best-selling manga",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14601120%2F027aeee1e5c80a8164f545909f042098%2FManga-Wallpaper-Desktop.jpg?generation=1689440417013482&alt=media)\nThe following is a list of the **best-selling Japanese manga series** in terms of collected tankbon volumes sold to date. All of the series on this list have at least 20 million copies in print. This list only includes Japanese manga and excludes manhwa, manhua, and original English-language manga. Unless otherwise stated, the series are listed according to the largest circulation (copies in print) estimate of their collected tankbon volumes as recorded in credible sources. The series with the same total number of circulation or sales are organised alphabetically.",
+  "datasetId": 3520964,
+  "datasetSlug": "best-selling-manga",
+  "hasDatasetSlug": true,
+  "ownerUser": "drahulsingh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8486,
+  "totalVotes": 87,
+  "totalDownloads": 1598,
+  "title": "best-selling-manga",
+  "hasTitle": true,
+  "subtitle": "List of best-selling manga",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14601120%2F027aeee1e5c80a8164f545909f042098%2FManga-Wallpaper-Desktop.jpg?generation=1689440417013482&alt=media)\nThe following is a list of the **best-selling Japanese manga series** in terms of collected tankbon volumes sold to date. All of the series on this list have at least 20 million copies in print. This list only includes Japanese manga and excludes manhwa, manhua, and original English-language manga. Unless otherwise stated, the series are listed according to the largest circulation (copies in print) estimate of their collected tankbon volumes as recorded in credible sources. The series with the same total number of circulation or sales are organised alphabetically.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "finance",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

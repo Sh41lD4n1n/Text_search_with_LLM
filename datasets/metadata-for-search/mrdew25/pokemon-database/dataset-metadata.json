@@ -1,0 +1,42 @@
+{
+  "id": "mrdew25/pokemon-database",
+  "id_no": 342756,
+  "datasetSlugNullable": "pokemon-database",
+  "ownerUserNullable": "mrdew25",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Pokemon Database",
+  "subtitleNullable": "All Pokemon data from Red/Blue to Scarlet/Violet",
+  "descriptionNullable": "### Context\n\nThis database was originally created as a class project but I have since expanded greatly on the original purpose.\n\n### Content\nThis database contains all information regarding each pokemon, including typing, abilities, egg groups, evolutions, alternate forms and more!",
+  "datasetId": 342756,
+  "datasetSlug": "pokemon-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrdew25",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 24588,
+  "totalVotes": 59,
+  "totalDownloads": 2372,
+  "title": "Pokemon Database",
+  "hasTitle": true,
+  "subtitle": "All Pokemon data from Red/Blue to Scarlet/Violet",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis database was originally created as a class project but I have since expanded greatly on the original purpose.\n\n### Content\nThis database contains all information regarding each pokemon, including typing, abilities, egg groups, evolutions, alternate forms and more!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "video games",
+    "business",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "elvinagammed/chatbots-intent-recognition-dataset",
+  "id_no": 935560,
+  "datasetSlugNullable": "chatbots-intent-recognition-dataset",
+  "ownerUserNullable": "elvinagammed",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Chatbots: Intent Recognition Dataset ",
+  "subtitleNullable": "Intent Recognition for Chatbots",
+  "descriptionNullable": "### Context\nData for classification, recognition and chatbot development\n\n### Content\n\nFew different examples are included for different intents of the user.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. \n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 935560,
+  "datasetSlug": "chatbots-intent-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "elvinagammed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 92025,
+  "totalVotes": 150,
+  "totalDownloads": 11993,
+  "title": "Chatbots: Intent Recognition Dataset ",
+  "hasTitle": true,
+  "subtitle": "Intent Recognition for Chatbots",
+  "hasSubtitle": true,
+  "description": "### Context\nData for classification, recognition and chatbot development\n\n### Content\n\nFew different examples are included for different intents of the user.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. \n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "nlp",
+    "text mining",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

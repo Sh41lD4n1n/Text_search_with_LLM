@@ -1,0 +1,43 @@
+{
+  "id": "shilpikulshrestha/books-sold-dataset",
+  "id_no": 4216327,
+  "datasetSlugNullable": "books-sold-dataset",
+  "ownerUserNullable": "shilpikulshrestha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Books Sold Dataset",
+  "subtitleNullable": "Dataset of Books Sold in year 2018-19",
+  "descriptionNullable": "Dataset of Books Sold in year 2018-19. This dataset has three categories of books sold which are as follows:\n1. School\n2. College\n3. Competition\nDataset also provide information about Author, Publication of books. ",
+  "datasetId": 4216327,
+  "datasetSlug": "books-sold-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shilpikulshrestha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9551,
+  "totalVotes": 43,
+  "totalDownloads": 2068,
+  "title": "Books Sold Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of Books Sold in year 2018-19",
+  "hasSubtitle": true,
+  "description": "Dataset of Books Sold in year 2018-19. This dataset has three categories of books sold which are as follows:\n1. School\n2. College\n3. Competition\nDataset also provide information about Author, Publication of books. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "india",
+    "education",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

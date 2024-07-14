@@ -1,0 +1,41 @@
+{
+  "id": "dasmehdixtr/deneme-trafik",
+  "id_no": 1723354,
+  "datasetSlugNullable": "deneme-trafik",
+  "ownerUserNullable": "dasmehdixtr",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Basic Traffic Signs ",
+  "subtitleNullable": "Basic Traffic Signs For Image Processing ",
+  "descriptionNullable": "There are 5 basic signs. ",
+  "datasetId": 1723354,
+  "datasetSlug": "deneme-trafik",
+  "hasDatasetSlug": true,
+  "ownerUser": "dasmehdixtr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2418,
+  "totalVotes": 3,
+  "totalDownloads": 67,
+  "title": "Basic Traffic Signs ",
+  "hasTitle": true,
+  "subtitle": "Basic Traffic Signs For Image Processing ",
+  "hasSubtitle": true,
+  "description": "There are 5 basic signs. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

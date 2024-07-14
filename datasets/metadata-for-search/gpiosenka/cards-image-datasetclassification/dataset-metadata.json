@@ -1,0 +1,43 @@
+{
+  "id": "gpiosenka/cards-image-datasetclassification",
+  "id_no": 2579480,
+  "datasetSlugNullable": "cards-image-datasetclassification",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Cards Image Dataset-Classification",
+  "subtitleNullable": "53 classes 7624 train, 265 test, 265 validation images 224 X 224 X 3 jpg format",
+  "descriptionNullable": "This is a very high quality dataset of playing card images. All images are 224 X 224 X 3 in jpg format. All images in the dataset have been cropped so that only the image of a single card is present and the card occupies well over 50% of the pixels in the image. There are 7624 training images, 265 test images and 265 validation images. The train, test and validation directories are partitioned into 53 sub directories , one for each of the 53 types of cards. The dataset also includes a csv file which can be used to load the datasets.",
+  "datasetId": 2579480,
+  "datasetSlug": "cards-image-datasetclassification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 49198,
+  "totalVotes": 119,
+  "totalDownloads": 10365,
+  "title": "Cards Image Dataset-Classification",
+  "hasTitle": true,
+  "subtitle": "53 classes 7624 train, 265 test, 265 validation images 224 X 224 X 3 jpg format",
+  "hasSubtitle": true,
+  "description": "This is a very high quality dataset of playing card images. All images are 224 X 224 X 3 in jpg format. All images in the dataset have been cropped so that only the image of a single card is present and the card occupies well over 50% of the pixels in the image. There are 7624 training images, 265 test images and 265 validation images. The train, test and validation directories are partitioned into 53 sub directories , one for each of the 53 types of cards. The dataset also includes a csv file which can be used to load the datasets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer vision",
+    "classification",
+    "image",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

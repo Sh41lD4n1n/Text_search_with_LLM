@@ -1,0 +1,39 @@
+{
+  "id": "maxhorowitz/nflplaybyplay2009to2016",
+  "id_no": 1726,
+  "datasetSlugNullable": "nflplaybyplay2009to2016",
+  "ownerUserNullable": "maxhorowitz",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "Detailed NFL Play-by-Play Data 2009-2018",
+  "subtitleNullable": "nflscrapR generated NFL dataset wiith expected points and win probability",
+  "descriptionNullable": "### Introduction\n\nThe lack of publicly available National Football League (NFL) data sources has been a major obstacle in the creation of modern, reproducible research in football analytics.  While clean play-by-play data is available via open-source software packages in other sports (e.g. nhlscrapr for hockey; PitchF/x data in baseball; the Basketball Reference for basketball), the equivalent datasets are not freely available for researchers interested in the statistical analysis of the NFL.  To solve this issue, a group of [Carnegie Mellon University statistical researchers](http://www.stat.cmu.edu) including Maksim Horowitz, Ron Yurko, and Sam Ventura, built and released [nflscrapR](https://github.com/maksimhorowitz/nflscrapR) an R package which uses an API maintained by the NFL to scrape, clean, parse, and output clean datasets at the individual play, player, game, and season levels.  Using the data outputted by the package, the trio went on to develop reproducible methods for building expected point and win probability models for the NFL. The outputs of these models are included in this dataset and can be accessed using the nflscrapR package.\n\n### Content\n\nThe dataset made available on Kaggle contains all the regular season plays from the 2009-2016 NFL seasons. The dataset has 356,768 rows and 100 columns. Each play is broken down into great detail containing information on: game situation, players involved, results, and advanced metrics such as expected point and win probability values. Detailed information about the dataset can be found at the following web page, along with more NFL data: https://github.com/ryurko/nflscrapR-data.\n\n### Acknowledgements\n\nThis dataset was compiled by Ron Yurko, Sam Ventura, and myself. Special shout-out to Ron for improving our current expected points and win probability models and compiling this dataset. All three of us are proud founders of the [Carnegie Mellon Sports Analytics Club](http://www.cmusportsanalytics.com/).\n\n### Inspiration\n\nThis dataset is meant to both grow and bring together the community of sports analytics by providing clean and easily accessible NFL data that has never been availabe on this scale for free.",
+  "datasetId": 1726,
+  "datasetSlug": "nflplaybyplay2009to2016",
+  "hasDatasetSlug": true,
+  "ownerUser": "maxhorowitz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 233063,
+  "totalVotes": 722,
+  "totalDownloads": 43167,
+  "title": "Detailed NFL Play-by-Play Data 2009-2018",
+  "hasTitle": true,
+  "subtitle": "nflscrapR generated NFL dataset wiith expected points and win probability",
+  "hasSubtitle": true,
+  "description": "### Introduction\n\nThe lack of publicly available National Football League (NFL) data sources has been a major obstacle in the creation of modern, reproducible research in football analytics.  While clean play-by-play data is available via open-source software packages in other sports (e.g. nhlscrapr for hockey; PitchF/x data in baseball; the Basketball Reference for basketball), the equivalent datasets are not freely available for researchers interested in the statistical analysis of the NFL.  To solve this issue, a group of [Carnegie Mellon University statistical researchers](http://www.stat.cmu.edu) including Maksim Horowitz, Ron Yurko, and Sam Ventura, built and released [nflscrapR](https://github.com/maksimhorowitz/nflscrapR) an R package which uses an API maintained by the NFL to scrape, clean, parse, and output clean datasets at the individual play, player, game, and season levels.  Using the data outputted by the package, the trio went on to develop reproducible methods for building expected point and win probability models for the NFL. The outputs of these models are included in this dataset and can be accessed using the nflscrapR package.\n\n### Content\n\nThe dataset made available on Kaggle contains all the regular season plays from the 2009-2016 NFL seasons. The dataset has 356,768 rows and 100 columns. Each play is broken down into great detail containing information on: game situation, players involved, results, and advanced metrics such as expected point and win probability values. Detailed information about the dataset can be found at the following web page, along with more NFL data: https://github.com/ryurko/nflscrapR-data.\n\n### Acknowledgements\n\nThis dataset was compiled by Ron Yurko, Sam Ventura, and myself. Special shout-out to Ron for improving our current expected points and win probability models and compiling this dataset. All three of us are proud founders of the [Carnegie Mellon Sports Analytics Club](http://www.cmusportsanalytics.com/).\n\n### Inspiration\n\nThis dataset is meant to both grow and bring together the community of sports analytics by providing clean and easily accessible NFL data that has never been availabe on this scale for free.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

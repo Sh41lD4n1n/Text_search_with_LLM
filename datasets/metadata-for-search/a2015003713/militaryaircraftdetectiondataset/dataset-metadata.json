@@ -1,0 +1,45 @@
+{
+  "id": "a2015003713/militaryaircraftdetectiondataset",
+  "id_no": 821893,
+  "datasetSlugNullable": "militaryaircraftdetectiondataset",
+  "ownerUserNullable": "a2015003713",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Military Aircraft Detection Dataset",
+  "subtitleNullable": "military aircraft images with aircraft type and bounding box annotations",
+  "descriptionNullable": "## Overview \u2708 \nThis dataset is designed for object detection of military aircraft. The dataset encompasses 50 different military aircraft types, with some types merged as one class along with their variants.\n\n- A-10, A-400M, AG-600, AV-8B, B-1, B-2, B-52, Be-200, C-130, C-17, C-2, C-5, E-2, E-7, EF-2000, F-117, F-14, F-15, F-16, F/A-18, F-22, F-35, F-4, H-6, J-10, J-20, JAS-39, JF-17, KC-135, MQ-9, Mig-31, Mirage2000, P-3, RQ-4, Rafale, SR-71, Su-24, Su-25, Su-34, Su-57, Tornado, Tu-160, Tu-22M, Tu-95, U-2, US-2, V-22, Vulcan, XB-70, YF-23.\n\n## Dataset Structure \u2708 \nThe dataset is organized into three main folders: 'dataset', 'crop', and 'annotated_samples'.\n\n### `dataset` Folder\n- Contains JPEG images (.jpg) and corresponding annotation files in CSV format with matching filenames.\n- Each annotation CSV file details the objects within an image, using the PASCAL VOC format. The columns in the annotation CSV files are:\n  - `filename`: The identifier for both the image and its corresponding annotation file.\n  - `width` and `height`: The dimensions of the image in pixels.\n  - `class`: The aircraft type.\n  - `xmin`, `ymin`, `xmax`, `ymax`: The coordinates of the bounding box.\n\nBelow is a sample annotation:\n\n| filename                          | width | height | class | xmin | ymin | xmax | ymax |\n|-----------------------------------|-------|--------|-------|------|------|------|------|\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | F35   | 852  | 177  | 1998 | 503  |\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | JAS39 | 169  | 769  | 549  | 893  |\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | JAS39 | 125  | 908  | 440  | 1009 |\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | B52   | 277  | 901  | 1288 | 1177 |\n\n### `crop` Folder\n- Contains images cropped from the original images in the `dataset` folder, according to the bounding box annotations. This folder is specifically prepared to facilitate the easy training of classification models.\n- The cropped images are organized into folders named after their respective class names.\n\n### `annotated_samples` Folder\n- Contains a selection of sample images with visualized bounding boxes to provide quick visual references and examples of annotated images in the dataset.\n\nPlease let me know if you find any incorrect labels or duplicated images.",
+  "datasetId": 821893,
+  "datasetSlug": "militaryaircraftdetectiondataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "a2015003713",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 80774,
+  "totalVotes": 176,
+  "totalDownloads": 8537,
+  "title": "Military Aircraft Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "military aircraft images with aircraft type and bounding box annotations",
+  "hasSubtitle": true,
+  "description": "## Overview \u2708 \nThis dataset is designed for object detection of military aircraft. The dataset encompasses 50 different military aircraft types, with some types merged as one class along with their variants.\n\n- A-10, A-400M, AG-600, AV-8B, B-1, B-2, B-52, Be-200, C-130, C-17, C-2, C-5, E-2, E-7, EF-2000, F-117, F-14, F-15, F-16, F/A-18, F-22, F-35, F-4, H-6, J-10, J-20, JAS-39, JF-17, KC-135, MQ-9, Mig-31, Mirage2000, P-3, RQ-4, Rafale, SR-71, Su-24, Su-25, Su-34, Su-57, Tornado, Tu-160, Tu-22M, Tu-95, U-2, US-2, V-22, Vulcan, XB-70, YF-23.\n\n## Dataset Structure \u2708 \nThe dataset is organized into three main folders: 'dataset', 'crop', and 'annotated_samples'.\n\n### `dataset` Folder\n- Contains JPEG images (.jpg) and corresponding annotation files in CSV format with matching filenames.\n- Each annotation CSV file details the objects within an image, using the PASCAL VOC format. The columns in the annotation CSV files are:\n  - `filename`: The identifier for both the image and its corresponding annotation file.\n  - `width` and `height`: The dimensions of the image in pixels.\n  - `class`: The aircraft type.\n  - `xmin`, `ymin`, `xmax`, `ymax`: The coordinates of the bounding box.\n\nBelow is a sample annotation:\n\n| filename                          | width | height | class | xmin | ymin | xmax | ymax |\n|-----------------------------------|-------|--------|-------|------|------|------|------|\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | F35   | 852  | 177  | 1998 | 503  |\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | JAS39 | 169  | 769  | 549  | 893  |\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | JAS39 | 125  | 908  | 440  | 1009 |\n| 000aa01b25574f28b654718db0700f72   | 2048  | 1365   | B52   | 277  | 901  | 1288 | 1177 |\n\n### `crop` Folder\n- Contains images cropped from the original images in the `dataset` folder, according to the bounding box annotations. This folder is specifically prepared to facilitate the easy training of classification models.\n- The cropped images are organized into folders named after their respective class names.\n\n### `annotated_samples` Folder\n- Contains a selection of sample images with visualized bounding boxes to provide quick visual references and examples of annotated images in the dataset.\n\nPlease let me know if you find any incorrect labels or duplicated images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "military",
+    "aviation",
+    "computer vision",
+    "classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

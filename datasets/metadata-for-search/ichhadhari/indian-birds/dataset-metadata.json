@@ -1,0 +1,43 @@
+{
+  "id": "ichhadhari/indian-birds",
+  "id_no": 3027308,
+  "datasetSlugNullable": "indian-birds",
+  "ownerUserNullable": "ichhadhari",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Indian-Birds-Species-Image-Classification",
+  "subtitleNullable": "A dataset of 25 Indian bird species with 1500 images per class",
+  "descriptionNullable": "The ***\"Indian-Birds-Species-Image-Classification\"*** consists of **25** bird species found in India, including Asian Green Bee-eater, Brown-Headed Barbet, Cattle Egret, Common Kingfisher, Common Myna, Common Rosefinch, Common Tailorbird, Coppersmith Barbet, Forest Wagtail, Gray Wagtail, Hoopoe, House Crow, Indian Grey Hornbill, Indian Peacock, Indian Pitta, Indian Roller, Jungle Babbler, Northern Lapwing, Red-Wattled Lapwing, Ruddy Shelduck, Rufous Treepie, Sarus Crane, White-Breasted Kingfisher, White-Breasted Waterhen, and White Wagtail. \n\nThe dataset contains a total of **37,000**  images split into train and validation sets in an **80:20** ratio, with **30,000** images in the training set and **7,500** images in the validation set. Each species has **1,500** images in the dataset. This dataset can be used for image classification tasks and to develop machine learning models to recognize different species of birds found in India.\n\n\n*[Source]( https://media.ebird.org/)*\n*[Inspiration Of Dataset](https://www.kaggle.com/datasets/arjunbasandrai/25-indian-bird-species-with-226k-images)*\n\n[**Example notebook of Transfer Learning using Resnet50 and VGG16**](https://www.kaggle.com/code/ichhadhari/indian-birds-species-image-classification/notebook?scriptVersionId=123203610)",
+  "datasetId": 3027308,
+  "datasetSlug": "indian-birds",
+  "hasDatasetSlug": true,
+  "ownerUser": "ichhadhari",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9878,
+  "totalVotes": 77,
+  "totalDownloads": 1452,
+  "title": "Indian-Birds-Species-Image-Classification",
+  "hasTitle": true,
+  "subtitle": "A dataset of 25 Indian bird species with 1500 images per class",
+  "hasSubtitle": true,
+  "description": "The ***\"Indian-Birds-Species-Image-Classification\"*** consists of **25** bird species found in India, including Asian Green Bee-eater, Brown-Headed Barbet, Cattle Egret, Common Kingfisher, Common Myna, Common Rosefinch, Common Tailorbird, Coppersmith Barbet, Forest Wagtail, Gray Wagtail, Hoopoe, House Crow, Indian Grey Hornbill, Indian Peacock, Indian Pitta, Indian Roller, Jungle Babbler, Northern Lapwing, Red-Wattled Lapwing, Ruddy Shelduck, Rufous Treepie, Sarus Crane, White-Breasted Kingfisher, White-Breasted Waterhen, and White Wagtail. \n\nThe dataset contains a total of **37,000**  images split into train and validation sets in an **80:20** ratio, with **30,000** images in the training set and **7,500** images in the validation set. Each species has **1,500** images in the dataset. This dataset can be used for image classification tasks and to develop machine learning models to recognize different species of birds found in India.\n\n\n*[Source]( https://media.ebird.org/)*\n*[Inspiration Of Dataset](https://www.kaggle.com/datasets/arjunbasandrai/25-indian-bird-species-with-226k-images)*\n\n[**Example notebook of Transfer Learning using Resnet50 and VGG16**](https://www.kaggle.com/code/ichhadhari/indian-birds-species-image-classification/notebook?scriptVersionId=123203610)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "biology",
+    "beginner",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

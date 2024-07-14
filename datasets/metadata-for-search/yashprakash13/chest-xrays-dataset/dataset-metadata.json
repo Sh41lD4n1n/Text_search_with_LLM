@@ -1,0 +1,41 @@
+{
+  "id": "yashprakash13/chest-xrays-dataset",
+  "id_no": 11239,
+  "datasetSlugNullable": "chest-xrays-dataset",
+  "ownerUserNullable": "yashprakash13",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Chest X-Rays Dataset",
+  "subtitleNullable": "Contains folder wise arranged images for 5 diseases.",
+  "descriptionNullable": "**This Dataset is comprised of the Chest X-Rays of 5 Different diseases. \nThey are:**\nAtelectasis\nInfiltration\nEffusion\nCardiomegaly\nFibrosis\n\nAll of the training sets contain 150+ images. \nAll of the Validation/Test sets contain 30+ images.\nIt contains folder wise arranged images for all diseases in both the training and Validation sets.\n\nThe aim is to train  a Neural Network to classify a given Chest X-Ray image into one of these categories.\n\n\n",
+  "datasetId": 11239,
+  "datasetSlug": "chest-xrays-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yashprakash13",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 9801,
+  "totalVotes": 25,
+  "totalDownloads": 1087,
+  "title": "Chest X-Rays Dataset",
+  "hasTitle": true,
+  "subtitle": "Contains folder wise arranged images for 5 diseases.",
+  "hasSubtitle": true,
+  "description": "**This Dataset is comprised of the Chest X-Rays of 5 Different diseases. \nThey are:**\nAtelectasis\nInfiltration\nEffusion\nCardiomegaly\nFibrosis\n\nAll of the training sets contain 150+ images. \nAll of the Validation/Test sets contain 30+ images.\nIt contains folder wise arranged images for all diseases in both the training and Validation sets.\n\nThe aim is to train  a Neural Network to classify a given Chest X-Ray image into one of these categories.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "diseases",
+    "medicine"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

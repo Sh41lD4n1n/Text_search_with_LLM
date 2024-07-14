@@ -1,0 +1,39 @@
+{
+  "id": "hkhamnakhalid/wine-quality-prediction-pj",
+  "id_no": 1388192,
+  "datasetSlugNullable": "wine-quality-prediction-pj",
+  "ownerUserNullable": "hkhamnakhalid",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Wine quality prediction pj",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1388192,
+  "datasetSlug": "wine-quality-prediction-pj",
+  "hasDatasetSlug": true,
+  "ownerUser": "hkhamnakhalid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 597,
+  "totalVotes": 3,
+  "totalDownloads": 11,
+  "title": "Wine quality prediction pj",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "harrotuin/dutch-news-headlines",
+  "id_no": 1034330,
+  "datasetSlugNullable": "dutch-news-headlines",
+  "ownerUserNullable": "harrotuin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dutch news headlines for sarcasm detection",
+  "subtitleNullable": "Almost 25k headlines to classify!",
+  "descriptionNullable": "### Context\nThis dataset contains news headlines of two Dutch news websites. All sarcastic headlines were collected from the [Speld.nl](https://speld.nl/) (the Dutch equivalent of The Onion) whereas all \"normal\" headlines were collected from the news website [Nu.nl](https://www.nu.nl/). \n\n### Content\nNext to the news headlines the dataset contains a sarcasm label, the source, and the news subject. News on three different subjects was collected: politics, foreign, and domestic news. Some headlines appear multiple times because they are listed under multiple subjects. For some applications, it might be useful to delete duplicates. The following columns are available:\n\n* Headline: the original news headline\n* link: the URL to the original news article\n* source: either speld.nl or nu.nl\n* is_sarcastic: boolean (speld being sarcastic and nu.nl not)\n* is_binnenland: boolean for news category which translates to \"domestic news\"\n* is_buitenland: boolean for news category which translates to \"foreign news\"\n* is_politiek: boolean for news category which translates to \"political news\"\n\n\n### Acknowledgements\nThe idea for creating this dataset was sparked by [the dataset](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) from Rishabh Misra which contains English news headlines.\n\n\n### Inspiration\n\nCan you detect sarcastic news headlines? Is sarcasm harder to detect in certain subjects of news? ",
+  "datasetId": 1034330,
+  "datasetSlug": "dutch-news-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "harrotuin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2427,
+  "totalVotes": 4,
+  "totalDownloads": 130,
+  "title": "Dutch news headlines for sarcasm detection",
+  "hasTitle": true,
+  "subtitle": "Almost 25k headlines to classify!",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset contains news headlines of two Dutch news websites. All sarcastic headlines were collected from the [Speld.nl](https://speld.nl/) (the Dutch equivalent of The Onion) whereas all \"normal\" headlines were collected from the news website [Nu.nl](https://www.nu.nl/). \n\n### Content\nNext to the news headlines the dataset contains a sarcasm label, the source, and the news subject. News on three different subjects was collected: politics, foreign, and domestic news. Some headlines appear multiple times because they are listed under multiple subjects. For some applications, it might be useful to delete duplicates. The following columns are available:\n\n* Headline: the original news headline\n* link: the URL to the original news article\n* source: either speld.nl or nu.nl\n* is_sarcastic: boolean (speld being sarcastic and nu.nl not)\n* is_binnenland: boolean for news category which translates to \"domestic news\"\n* is_buitenland: boolean for news category which translates to \"foreign news\"\n* is_politiek: boolean for news category which translates to \"political news\"\n\n\n### Acknowledgements\nThe idea for creating this dataset was sparked by [the dataset](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) from Rishabh Misra which contains English news headlines.\n\n\n### Inspiration\n\nCan you detect sarcastic news headlines? Is sarcasm harder to detect in certain subjects of news? ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text mining",
+    "classification",
+    "tabular",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

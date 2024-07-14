@@ -1,0 +1,42 @@
+{
+  "id": "ahmedhamada0/brain-tumor-detection",
+  "id_no": 740566,
+  "datasetSlugNullable": "brain-tumor-detection",
+  "ownerUserNullable": "ahmedhamada0",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Br35H :: Brain Tumor Detection 2020",
+  "subtitleNullable": "Brain Tumor Detection",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4157774%2F006a6ae34db97aea4119ea98b12a3016%2Fdata-original.jpg?generation=1604988796186618&alt=media)\n\n# \u2714\ufe0f Abstract\nA Brain tumor is considered as one of the aggressive diseases, among children and adults. Brain tumors account for 85 to 90 percent of all primary Central Nervous System(CNS) tumors. Every year, around 11,700 people are diagnosed with a brain tumor. The 5-year survival rate for people with a cancerous brain or CNS tumor is approximately 34 percent for men and36 percent for women. Brain Tumors are classified as: Benign Tumor, Malignant Tumor, Pituitary Tumor, etc. Proper treatment, planning, and accurate diagnostics should be implemented to improve the life expectancy of the patients. The best technique to detect brain tumors is Magnetic Resonance Imaging (MRI). A huge amount of image data is generated through the scans. These images are examined by the radiologist. A manual examination can be error-prone due to the level of complexities involved in brain tumors and their properties.\nApplication of automated classification techniques using Machine Learning(ML) and Artificial Intelligence(AI)has consistently shown higher accuracy than manual classification. Hence, proposing a system performing detection and classification by using Deep Learning Algorithms using Convolution-Neural Network (CNN), Artificial Neural Network (ANN), and Transfer-Learning (TL) would be helpful to doctors all around the world.\n\n# \u2714\ufe0f Context\nBrain Tumors are complex. There are a lot of abnormalities in the sizes and location of the brain tumor(s). This makes it really difficult for complete understanding of the nature of the tumor. Also, a professional Neurosurgeon is required for MRI analysis. Often times in developing countries the lack of skillful doctors and lack of knowledge about tumors makes it really challenging and time-consuming to generate reports from MRI\u2019. So an automated system on Cloud can solve this problem.\n\n# \u2714\ufe0f Definition\nTo Detect and Classify Brain Tumor using, CNN and TL; as an asset of Deep Learning and to examine the tumor position(segmentation).\n\n# \u2714\ufe0f About the data:\nThe dataset contains 3 folders: yes, no and pred which contains 3060 Brain MRI Images.\n\n| Folder| Description |\n| --- | --- |\n| Yes | The folder yes contains 1500 Brain MRI Images that are tumorous |\n| No | The folder no contains 1500 Brain MRI Images that are non-tumorous |\n\n## By: Ahmed Hamada\n### Please, Upvote if you found it useful \ud83d\ude04\u2764\ufe0f  \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4157774%2Fdd183aa3b1e0aab5959a070da30e4323%2Fl.jpg?generation=1604989064208069&alt=media)",
+  "datasetId": 740566,
+  "datasetSlug": "brain-tumor-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedhamada0",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 161401,
+  "totalVotes": 288,
+  "totalDownloads": 19566,
+  "title": "Br35H :: Brain Tumor Detection 2020",
+  "hasTitle": true,
+  "subtitle": "Brain Tumor Detection",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4157774%2F006a6ae34db97aea4119ea98b12a3016%2Fdata-original.jpg?generation=1604988796186618&alt=media)\n\n# \u2714\ufe0f Abstract\nA Brain tumor is considered as one of the aggressive diseases, among children and adults. Brain tumors account for 85 to 90 percent of all primary Central Nervous System(CNS) tumors. Every year, around 11,700 people are diagnosed with a brain tumor. The 5-year survival rate for people with a cancerous brain or CNS tumor is approximately 34 percent for men and36 percent for women. Brain Tumors are classified as: Benign Tumor, Malignant Tumor, Pituitary Tumor, etc. Proper treatment, planning, and accurate diagnostics should be implemented to improve the life expectancy of the patients. The best technique to detect brain tumors is Magnetic Resonance Imaging (MRI). A huge amount of image data is generated through the scans. These images are examined by the radiologist. A manual examination can be error-prone due to the level of complexities involved in brain tumors and their properties.\nApplication of automated classification techniques using Machine Learning(ML) and Artificial Intelligence(AI)has consistently shown higher accuracy than manual classification. Hence, proposing a system performing detection and classification by using Deep Learning Algorithms using Convolution-Neural Network (CNN), Artificial Neural Network (ANN), and Transfer-Learning (TL) would be helpful to doctors all around the world.\n\n# \u2714\ufe0f Context\nBrain Tumors are complex. There are a lot of abnormalities in the sizes and location of the brain tumor(s). This makes it really difficult for complete understanding of the nature of the tumor. Also, a professional Neurosurgeon is required for MRI analysis. Often times in developing countries the lack of skillful doctors and lack of knowledge about tumors makes it really challenging and time-consuming to generate reports from MRI\u2019. So an automated system on Cloud can solve this problem.\n\n# \u2714\ufe0f Definition\nTo Detect and Classify Brain Tumor using, CNN and TL; as an asset of Deep Learning and to examine the tumor position(segmentation).\n\n# \u2714\ufe0f About the data:\nThe dataset contains 3 folders: yes, no and pred which contains 3060 Brain MRI Images.\n\n| Folder| Description |\n| --- | --- |\n| Yes | The folder yes contains 1500 Brain MRI Images that are tumorous |\n| No | The folder no contains 1500 Brain MRI Images that are non-tumorous |\n\n## By: Ahmed Hamada\n### Please, Upvote if you found it useful \ud83d\ude04\u2764\ufe0f  \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4157774%2Fdd183aa3b1e0aab5959a070da30e4323%2Fl.jpg?generation=1604989064208069&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "classification",
+    "binary classification",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

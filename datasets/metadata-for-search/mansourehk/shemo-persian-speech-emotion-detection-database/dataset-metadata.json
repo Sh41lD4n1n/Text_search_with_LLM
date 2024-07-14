@@ -1,0 +1,43 @@
+{
+  "id": "mansourehk/shemo-persian-speech-emotion-detection-database",
+  "id_no": 230869,
+  "datasetSlugNullable": "shemo-persian-speech-emotion-detection-database",
+  "ownerUserNullable": "mansourehk",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "ShEMO: Persian Speech Emotion Detection Database",
+  "subtitleNullable": "A semi-natural db which contains emotional speech samples of Persian speakers",
+  "descriptionNullable": "### Content\n- ShEMO is for academic purposes free of charge to provide a baseline for further research on Persian emotional speech\n- The database includes 3000 semi-natural utterances, equivalent to 3 h and 25 min of speech data extracted from online radio plays.\n- The ShEMO covers speech samples of 87 native-Persian speakers for five basic emotions including anger, fear, happiness, sadness, and surprise, as well as a neutral state along with the orthographic and phonetic transcriptions (according to the International Phonetic Alphabet).\n- Twelve annotators label the underlying emotional state of utterances and majority voting is used to decide on the final labels.\n- According to the kappa measure, the inter-annotator agreement is 64% which is interpreted as \u2018\u2018substantial agreement\u2019\u2019. We also present benchmark results based on common classification methods in speech emotion detection task. \n- According to the experiments, support vector machine achieves the best results for both gender-independent  (58.2%) and gender-dependent models (female = 59.4%, male = 57.6%).\n- The official website: [ShemoDB](http://shemodb.com/)\n- Github: [ShEMO](https://github.com/mansourehk/ShEMO)\n- If you use this dataset, please cite the following paper:\n&gt; @Article{MohamadNezami2019,\nauthor=\"Mohamad Nezami, Omid\nand Jamshid Lou, Paria\nand Karami, Mansoureh\",\ntitle=\"ShEMO: a large-scale validated database for Persian speech emotion detection\",\njournal=\"Language Resources and Evaluation\",\nyear=\"2019\",\nmonth=\"Mar\",\nday=\"01\",\nvolume=\"53\",\nnumber=\"1\",\npages=\"1--16\",\nissn=\"1574-0218\",\ndoi=\"10.1007/s10579-018-9427-x\",\nurl=\"https://doi.org/10.1007/s10579-018-9427-x\"\n}\n\n\n### Inspiration\n\n- You can extract proper features from the audios and use them for classification purposes.\n- You can use the audios as raw inputs for a deep learning system.\n\n### Description of Labels\nThe characters used in the labels and their corresponding meaning:\n\nM = male speaker\nF = female speaker\nS = sadness\nA = anger\nH = happiness\nW = surprise\nF = fear\nN = neutral\ne.g., F03S02 means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S), and this is the second utterance for this speaker in sad emotion.",
+  "datasetId": 230869,
+  "datasetSlug": "shemo-persian-speech-emotion-detection-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "mansourehk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 9731,
+  "totalVotes": 22,
+  "totalDownloads": 2292,
+  "title": "ShEMO: Persian Speech Emotion Detection Database",
+  "hasTitle": true,
+  "subtitle": "A semi-natural db which contains emotional speech samples of Persian speakers",
+  "hasSubtitle": true,
+  "description": "### Content\n- ShEMO is for academic purposes free of charge to provide a baseline for further research on Persian emotional speech\n- The database includes 3000 semi-natural utterances, equivalent to 3 h and 25 min of speech data extracted from online radio plays.\n- The ShEMO covers speech samples of 87 native-Persian speakers for five basic emotions including anger, fear, happiness, sadness, and surprise, as well as a neutral state along with the orthographic and phonetic transcriptions (according to the International Phonetic Alphabet).\n- Twelve annotators label the underlying emotional state of utterances and majority voting is used to decide on the final labels.\n- According to the kappa measure, the inter-annotator agreement is 64% which is interpreted as \u2018\u2018substantial agreement\u2019\u2019. We also present benchmark results based on common classification methods in speech emotion detection task. \n- According to the experiments, support vector machine achieves the best results for both gender-independent  (58.2%) and gender-dependent models (female = 59.4%, male = 57.6%).\n- The official website: [ShemoDB](http://shemodb.com/)\n- Github: [ShEMO](https://github.com/mansourehk/ShEMO)\n- If you use this dataset, please cite the following paper:\n&gt; @Article{MohamadNezami2019,\nauthor=\"Mohamad Nezami, Omid\nand Jamshid Lou, Paria\nand Karami, Mansoureh\",\ntitle=\"ShEMO: a large-scale validated database for Persian speech emotion detection\",\njournal=\"Language Resources and Evaluation\",\nyear=\"2019\",\nmonth=\"Mar\",\nday=\"01\",\nvolume=\"53\",\nnumber=\"1\",\npages=\"1--16\",\nissn=\"1574-0218\",\ndoi=\"10.1007/s10579-018-9427-x\",\nurl=\"https://doi.org/10.1007/s10579-018-9427-x\"\n}\n\n\n### Inspiration\n\n- You can extract proper features from the audios and use them for classification purposes.\n- You can use the audios as raw inputs for a deep learning system.\n\n### Description of Labels\nThe characters used in the labels and their corresponding meaning:\n\nM = male speaker\nF = female speaker\nS = sadness\nA = anger\nH = happiness\nW = surprise\nF = fear\nN = neutral\ne.g., F03S02 means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S), and this is the second utterance for this speaker in sad emotion.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "social science",
+    "signal processing",
+    "deep learning",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "amitpant7/nepali-celeb-localized-face-dataset",
+  "id_no": 3192379,
+  "datasetSlugNullable": "nepali-celeb-localized-face-dataset",
+  "ownerUserNullable": "amitpant7",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Nepali Celeb Localized Face Dataset",
+  "subtitleNullable": "Face images of 49 famous individuals from Nepal, including actors, singers",
+  "descriptionNullable": "The dataset contains images of 50 famous individuals from Nepal, including actors, actresses, singers, and social figures. \n\nThe individuals in the dataset vary in age, gender, and profession. The images were taken from different angles and forms, including front-facing, side-facing, and profile views, to capture each individual's facial features.\n\nHowever, it is possible that there could be some errors or inconsistencies in the dataset, such as variations in lighting or image quality. It is important to carefully review and preprocess the images before using them in any analysis or application.\n\nRegarding potential uses for this dataset, it could be used for tasks such as face recognition, face detection, and emotion recognition. Additionally, it could be used to train and evaluate machine learning models for tasks related to facial analysis. And Many more......\n",
+  "datasetId": 3192379,
+  "datasetSlug": "nepali-celeb-localized-face-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amitpant7",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2268,
+  "totalVotes": 32,
+  "totalDownloads": 215,
+  "title": "Nepali Celeb Localized Face Dataset",
+  "hasTitle": true,
+  "subtitle": "Face images of 49 famous individuals from Nepal, including actors, singers",
+  "hasSubtitle": true,
+  "description": "The dataset contains images of 50 famous individuals from Nepal, including actors, actresses, singers, and social figures. \n\nThe individuals in the dataset vary in age, gender, and profession. The images were taken from different angles and forms, including front-facing, side-facing, and profile views, to capture each individual's facial features.\n\nHowever, it is possible that there could be some errors or inconsistencies in the dataset, such as variations in lighting or image quality. It is important to carefully review and preprocess the images before using them in any analysis or application.\n\nRegarding potential uses for this dataset, it could be used for tasks such as face recognition, face detection, and emotion recognition. Additionally, it could be used to train and evaluate machine learning models for tasks related to facial analysis. And Many more......\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

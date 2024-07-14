@@ -1,0 +1,46 @@
+online dating matches
+Top 1000 Movies Dataset
+clothing reviews
+mental health
+dataset related to mental health
+predicting hiring decisions
+emotion detection and sentiment classification
+emotion detection
+twitter sentiment classification
+traffic congestion dataset
+traffic signs
+traffic signs detection
+animals detection
+dog cat classification
+image classification
+vehicle accidents dataset
+A Comprehensive Collection of Anime Information
+anime recommendation system
+anime
+stock market time series
+loan risk assessment
+Hand Gesture Recognition
+customer reviews
+time series analysis
+facial recognition
+news
+fake news detection
+sales dataset
+indonesian Spices Dataset
+Spices image Dataset
+food classification
+question answering
+Red Wine Quality
+house prices dataset
+chest X-Ray images
+books
+sarcasm detection
+easy dataset
+mask detection
+medical mask detection
+car object detection
+real or fake image
+football players dataset
+football match
+text classification
+classification

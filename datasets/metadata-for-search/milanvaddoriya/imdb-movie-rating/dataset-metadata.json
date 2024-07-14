@@ -1,0 +1,39 @@
+{
+  "id": "milanvaddoriya/imdb-movie-rating",
+  "id_no": 2776496,
+  "datasetSlugNullable": "imdb-movie-rating",
+  "ownerUserNullable": "milanvaddoriya",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "IMDB Movie rating",
+  "subtitleNullable": "Top 1000 movies ratings by IMDB",
+  "descriptionNullable": "IMDB Dataset of top 1000 movies and tv shows.\n\nDataset Credit - https://www.imdb.com/\nDataset cover image credit - https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/84/ab/f384ab02-12b9-1b26-4cff-5ea1457cf3b1/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+  "datasetId": 2776496,
+  "datasetSlug": "imdb-movie-rating",
+  "hasDatasetSlug": true,
+  "ownerUser": "milanvaddoriya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5292,
+  "totalVotes": 61,
+  "totalDownloads": 1104,
+  "title": "IMDB Movie rating",
+  "hasTitle": true,
+  "subtitle": "Top 1000 movies ratings by IMDB",
+  "hasSubtitle": true,
+  "description": "IMDB Dataset of top 1000 movies and tv shows.\n\nDataset Credit - https://www.imdb.com/\nDataset cover image credit - https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/84/ab/f384ab02-12b9-1b26-4cff-5ea1457cf3b1/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

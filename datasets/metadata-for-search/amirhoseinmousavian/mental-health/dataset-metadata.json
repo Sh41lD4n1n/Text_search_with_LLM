@@ -1,0 +1,39 @@
+{
+  "id": "amirhoseinmousavian/mental-health",
+  "id_no": 3937725,
+  "datasetSlugNullable": "mental-health",
+  "ownerUserNullable": "amirhoseinmousavian",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health",
+  "subtitleNullable": "Mental disorders by countries and Date",
+  "descriptionNullable": "Mental health is an essential part of people\u2019s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.\n\nMental health conditions are not uncommon. Hundreds of millions suffer from them yearly, and many more do over their lifetimes. It\u2019s estimated that 1 in 3 women and 1 in 5 men will experience major depression in their lives. Other conditions, such as schizophrenia and bipolar disorder, are less common but still have a large impact on people\u2019s lives.\n\nMental illnesses are treatable, and the impact they have can be reduced. Despite this, treatment is often lacking or poor quality, and many feel uncomfortable sharing their symptoms with healthcare professionals or people they know. This also makes it difficult to estimate the actual prevalence of mental illnesses.\n\nTo support them, it\u2019s essential to have good data to understand these conditions \u2013 how, when, and why they occur, how many people are affected by them, and how they can be treated effectively and safely.\n\nSaloni Dattani, Lucas Rod\u00e9s-Guirao, Hannah Ritchie and Max Roser (2023) - \"Mental Health\". Published online at OurWorldInData.org. [Retrieved from]('https://ourworldindata.org/mental-health') [Online Resource]",
+  "datasetId": 3937725,
+  "datasetSlug": "mental-health",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirhoseinmousavian",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9168,
+  "totalVotes": 49,
+  "totalDownloads": 1313,
+  "title": "Mental Health",
+  "hasTitle": true,
+  "subtitle": "Mental disorders by countries and Date",
+  "hasSubtitle": true,
+  "description": "Mental health is an essential part of people\u2019s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.\n\nMental health conditions are not uncommon. Hundreds of millions suffer from them yearly, and many more do over their lifetimes. It\u2019s estimated that 1 in 3 women and 1 in 5 men will experience major depression in their lives. Other conditions, such as schizophrenia and bipolar disorder, are less common but still have a large impact on people\u2019s lives.\n\nMental illnesses are treatable, and the impact they have can be reduced. Despite this, treatment is often lacking or poor quality, and many feel uncomfortable sharing their symptoms with healthcare professionals or people they know. This also makes it difficult to estimate the actual prevalence of mental illnesses.\n\nTo support them, it\u2019s essential to have good data to understand these conditions \u2013 how, when, and why they occur, how many people are affected by them, and how they can be treated effectively and safely.\n\nSaloni Dattani, Lucas Rod\u00e9s-Guirao, Hannah Ritchie and Max Roser (2023) - \"Mental Health\". Published online at OurWorldInData.org. [Retrieved from]('https://ourworldindata.org/mental-health') [Online Resource]",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rohanparekh/housing-price-prediction",
+  "id_no": 4900700,
+  "datasetSlugNullable": "housing-price-prediction",
+  "ownerUserNullable": "rohanparekh",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Housing Price Prediction",
+  "subtitleNullable": "",
+  "descriptionNullable": "Real Estate Prices Dataset\nThis dataset comprises information on 4,600 real estate transactions, providing a detailed snapshot of the housing market in various locations. Each record captures the characteristics of a house, its surroundings, and transaction details from transactions that occurred around May 2, 2014. The dataset includes the following fields:\n\ndate: The date of the transaction.\nprice: The sale price of the property (in USD).\nbedrooms: The number of bedrooms.\nbathrooms: The number of bathrooms, represented in half-baths (e.g., 1.5 indicates one full bath and one half bath).\nsqft_living: The square footage of the home's living area.\nsqft_lot: The square footage of the lot.\nfloors: The number of floors.\nwaterfront: A binary indicator for whether the property is on the waterfront (1) or not (0).\nview: An index from 0 to 4 indicating the quality of the view.\ncondition: An index from 1 to 5 on the condition of the property.\nsqft_above: The square footage of the house apart from the basement.\nsqft_basement: The square footage of the basement.\nyr_built: The year the property was built.\nyr_renovated: The year of the last renovation.\nstreet: The street address of the property.\ncity: The city in which the property is located.\nstatezip: The state and ZIP code.\ncountry: The country of the property.\n\n\nThis dataset can be particularly useful for projects involving real estate market analysis, price prediction models, and economic research related to housing trends. Researchers and enthusiasts can explore aspects such as the impact of property characteristics on price, trends over time, and geographical price variations.",
+  "datasetId": 4900700,
+  "datasetSlug": "housing-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohanparekh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 127,
+  "totalVotes": 2,
+  "totalDownloads": 33,
+  "title": "Housing Price Prediction",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Real Estate Prices Dataset\nThis dataset comprises information on 4,600 real estate transactions, providing a detailed snapshot of the housing market in various locations. Each record captures the characteristics of a house, its surroundings, and transaction details from transactions that occurred around May 2, 2014. The dataset includes the following fields:\n\ndate: The date of the transaction.\nprice: The sale price of the property (in USD).\nbedrooms: The number of bedrooms.\nbathrooms: The number of bathrooms, represented in half-baths (e.g., 1.5 indicates one full bath and one half bath).\nsqft_living: The square footage of the home's living area.\nsqft_lot: The square footage of the lot.\nfloors: The number of floors.\nwaterfront: A binary indicator for whether the property is on the waterfront (1) or not (0).\nview: An index from 0 to 4 indicating the quality of the view.\ncondition: An index from 1 to 5 on the condition of the property.\nsqft_above: The square footage of the house apart from the basement.\nsqft_basement: The square footage of the basement.\nyr_built: The year the property was built.\nyr_renovated: The year of the last renovation.\nstreet: The street address of the property.\ncity: The city in which the property is located.\nstatezip: The state and ZIP code.\ncountry: The country of the property.\n\n\nThis dataset can be particularly useful for projects involving real estate market analysis, price prediction models, and economic research related to housing trends. Researchers and enthusiasts can explore aspects such as the impact of property characteristics on price, trends over time, and geographical price variations.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "khanghunhnguyntrng/football-players-transfer-fee-prediction-dataset",
+  "id_no": 4084120,
+  "datasetSlugNullable": "football-players-transfer-fee-prediction-dataset",
+  "ownerUserNullable": "khanghunhnguyntrng",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football Players' Transfer Fee Prediction Dataset",
+  "subtitleNullable": "Use player's infomation and stats to predict their value on transfer market",
+  "descriptionNullable": "This dataset is undertaken to create a predictive model for the transfer values of football players. We will utilize data from football players and construct a model to predict transfer fees based on that data. Player data includes basic information such as age, height, playing position, as well as professional statistics like goal scoring, assists (in 2 season 2021-2022 and 2022-2023), injuries, along with total individual and team awards in their career.\n\nWe had gathered information on players competing in several top-tier global football leagues:\n\n11 European leagues, including the Premier League and Championship in England, Bundesliga in Germany, La Liga in Spain, Serie A in Italy, Ligue 1 in France, Eredivisie in the Netherlands, Liga NOS in Portugal, Premier Liga in Russia, Super Lig in Turkey, and Bundesliga in Austria.\n\n4 American leagues, including Brasileiro in Brazil, Major League Soccer in the United States, Primera Divisi\u00f3n in Argentina, and Liga MX in Mexico.\n\n1 African league, namely the DStv Premiership in South Africa.\n\n4 Asian leagues, comprising J-League in Japan, Saudi Pro League in Saudi Arabia, K-League 1 in South Korea, and A-League in Australia.\n\n\n\n\n",
+  "datasetId": 4084120,
+  "datasetSlug": "football-players-transfer-fee-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "khanghunhnguyntrng",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8445,
+  "totalVotes": 38,
+  "totalDownloads": 1721,
+  "title": "Football Players' Transfer Fee Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "Use player's infomation and stats to predict their value on transfer market",
+  "hasSubtitle": true,
+  "description": "This dataset is undertaken to create a predictive model for the transfer values of football players. We will utilize data from football players and construct a model to predict transfer fees based on that data. Player data includes basic information such as age, height, playing position, as well as professional statistics like goal scoring, assists (in 2 season 2021-2022 and 2022-2023), injuries, along with total individual and team awards in their career.\n\nWe had gathered information on players competing in several top-tier global football leagues:\n\n11 European leagues, including the Premier League and Championship in England, Bundesliga in Germany, La Liga in Spain, Serie A in Italy, Ligue 1 in France, Eredivisie in the Netherlands, Liga NOS in Portugal, Premier Liga in Russia, Super Lig in Turkey, and Bundesliga in Austria.\n\n4 American leagues, including Brasileiro in Brazil, Major League Soccer in the United States, Primera Divisi\u00f3n in Argentina, and Liga MX in Mexico.\n\n1 African league, namely the DStv Premiership in South Africa.\n\n4 Asian leagues, comprising J-League in Japan, Saudi Pro League in Saudi Arabia, K-League 1 in South Korea, and A-League in Australia.\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "chains229",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

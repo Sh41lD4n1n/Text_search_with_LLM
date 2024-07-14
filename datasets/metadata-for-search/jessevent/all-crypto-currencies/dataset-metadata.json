@@ -1,0 +1,45 @@
+{
+  "id": "jessevent/all-crypto-currencies",
+  "id_no": 1963,
+  "datasetSlugNullable": "all-crypto-currencies",
+  "ownerUserNullable": "jessevent",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Every Cryptocurrency Daily Market Price",
+  "subtitleNullable": "Daily crypto markets open, close, low, high data for every token ever",
+  "descriptionNullable": "# Cryptocurrency Market Data\n## Historical Cryptocurrency Prices For ALL Tokens!\n\n### **Summary**\n\t&gt; Observations: 758,534\n\t&gt; Variables: 13  \n\t&gt; Crypto Tokens: 1,584\n\t&gt; Start Date: 28/04/2017  \n\t&gt; End Date: 21/05/2018  \n  \n### **Description**\n   All historic open, high, low, close, trading volume and market cap info for all cryptocurrencies.  \n\n   I've had to go over the code with a fine tooth comb to get it compatible with CRAN so there have been significant enhancements to how some of the field conversions have been undertaken and the data being cleaned. This should eliminate a few issues around number formatting or unexpected handling of scientific notations.  \n  \n### **Data Structure**\n    Observations: 649,051    \n    Variables: 13    \n    $ slug        ",
+  "datasetId": 1963,
+  "datasetSlug": "all-crypto-currencies",
+  "hasDatasetSlug": true,
+  "ownerUser": "jessevent",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 176643,
+  "totalVotes": 529,
+  "totalDownloads": 19217,
+  "title": "Every Cryptocurrency Daily Market Price",
+  "hasTitle": true,
+  "subtitle": "Daily crypto markets open, close, low, high data for every token ever",
+  "hasSubtitle": true,
+  "description": "# Cryptocurrency Market Data\n## Historical Cryptocurrency Prices For ALL Tokens!\n\n### **Summary**\n\t&gt; Observations: 758,534\n\t&gt; Variables: 13  \n\t&gt; Crypto Tokens: 1,584\n\t&gt; Start Date: 28/04/2017  \n\t&gt; End Date: 21/05/2018  \n  \n### **Description**\n   All historic open, high, low, close, trading volume and market cap info for all cryptocurrencies.  \n\n   I've had to go over the code with a fine tooth comb to get it compatible with CRAN so there have been significant enhancements to how some of the field conversions have been undertaken and the data being cleaned. This should eliminate a few issues around number formatting or unexpected handling of scientific notations.  \n  \n### **Data Structure**\n    Observations: 649,051    \n    Variables: 13    \n    $ slug        ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "finance",
+    "internet",
+    "investing",
+    "currencies and foreign exchange",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

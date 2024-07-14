@@ -1,0 +1,41 @@
+{
+  "id": "pachriisk/great-britain-road-accidents",
+  "id_no": 902172,
+  "datasetSlugNullable": "great-britain-road-accidents",
+  "ownerUserNullable": "pachriisk",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Great Britain Road Accidents",
+  "subtitleNullable": "Road Accidents in the UK 2005 to ...",
+  "descriptionNullable": "### Context\n\nThese files were taken from the Great Britain Road Accidents 2005_2016 published by the Department for Transport. Licensed under Open Government Licence. The dataset is maintained by Teng Li and was last updated about 3 years ago. The initial dataset is quite large so this sample was created to facilitate the completion of a course project via an open-source web application. \n\nThe files provide detailed data about the circumstances of personal injury road accidents in Great Britain from 2005 onwards, the make of vehicles involved, and the consequential casualties. The statistics relate only to personal injury accidents on public roads that are reported to the police and subsequently recorded, using the STATS19 accident reporting form. Information on damage-only accidents, with no human casualties or accidents on private roads or car parks, are not included in this data.\n\n### Content\n\nThe complete dataset can be found at: \n\nhttps://www.kaggle.com/nichaoku/gbaccident0516  \n\nThe rows and columns of the dataset provide details of the date, time, number of accidents by severity, casualties, and conditions that may have contributed to the accidents that occured.  Details in the casualty and vehicle files can be linked to the relevant accident by the \u201cAccident_Index\u201d field.\n\nA list of the variables contained in the files is provided along with the dataset. \n\n### Acknowledgements\n\nSource: https://data.gov.uk/dataset/road-accidents-safety-data \n",
+  "datasetId": 902172,
+  "datasetSlug": "great-britain-road-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "pachriisk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2109,
+  "totalVotes": 1,
+  "totalDownloads": 119,
+  "title": "Great Britain Road Accidents",
+  "hasTitle": true,
+  "subtitle": "Road Accidents in the UK 2005 to ...",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThese files were taken from the Great Britain Road Accidents 2005_2016 published by the Department for Transport. Licensed under Open Government Licence. The dataset is maintained by Teng Li and was last updated about 3 years ago. The initial dataset is quite large so this sample was created to facilitate the completion of a course project via an open-source web application. \n\nThe files provide detailed data about the circumstances of personal injury road accidents in Great Britain from 2005 onwards, the make of vehicles involved, and the consequential casualties. The statistics relate only to personal injury accidents on public roads that are reported to the police and subsequently recorded, using the STATS19 accident reporting form. Information on damage-only accidents, with no human casualties or accidents on private roads or car parks, are not included in this data.\n\n### Content\n\nThe complete dataset can be found at: \n\nhttps://www.kaggle.com/nichaoku/gbaccident0516  \n\nThe rows and columns of the dataset provide details of the date, time, number of accidents by severity, casualties, and conditions that may have contributed to the accidents that occured.  Details in the casualty and vehicle files can be linked to the relevant accident by the \u201cAccident_Index\u201d field.\n\nA list of the variables contained in the files is provided along with the dataset. \n\n### Acknowledgements\n\nSource: https://data.gov.uk/dataset/road-accidents-safety-data \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "government",
+    "law",
+    "transportation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

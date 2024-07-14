@@ -1,0 +1,39 @@
+{
+  "id": "/hacker-news-posts",
+  "id_no": 197,
+  "datasetSlugNullable": "hacker-news-posts",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Hacker News Posts",
+  "subtitleNullable": "Hacker News posts from the past 12 months (including # of votes and comments)",
+  "descriptionNullable": "This data set is Hacker News posts from the last 12 months (up to September 26 2016). \n\nIt includes the following columns:\n\n - title: title of the post (self explanatory)\n\n - url: the url of the item being linked to\n\n - num_points: the number of upvotes the post received\n\n - num_comments: the number of comments the post received\n\n - author: the name of the account that made the post\n\n - created_at: the date and time the post was made (the time zone is Eastern Time in the US)\n\nOne fun project suggestion is a model to predict the number of votes a post will attract.\n \nThe scraper is written, so I can keep this up-to-date and add more historical data. I can also scrape the comments. Just make the request in this dataset's forum.\n\nThe is a fork of minimaxir's HN scraper (thanks minimaxir):\n[https://github.com/minimaxir/get-all-hacker-news-submissions-comments][1]\n\n\n  [1]: https://github.com/minimaxir/get-all-hacker-news-submissions-comments",
+  "datasetId": 197,
+  "datasetSlug": "hacker-news-posts",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 66593,
+  "totalVotes": 204,
+  "totalDownloads": 9290,
+  "title": "Hacker News Posts",
+  "hasTitle": true,
+  "subtitle": "Hacker News posts from the past 12 months (including # of votes and comments)",
+  "hasSubtitle": true,
+  "description": "This data set is Hacker News posts from the last 12 months (up to September 26 2016). \n\nIt includes the following columns:\n\n - title: title of the post (self explanatory)\n\n - url: the url of the item being linked to\n\n - num_points: the number of upvotes the post received\n\n - num_comments: the number of comments the post received\n\n - author: the name of the account that made the post\n\n - created_at: the date and time the post was made (the time zone is Eastern Time in the US)\n\nOne fun project suggestion is a model to predict the number of votes a post will attract.\n \nThe scraper is written, so I can keep this up-to-date and add more historical data. I can also scrape the comments. Just make the request in this dataset's forum.\n\nThe is a fork of minimaxir's HN scraper (thanks minimaxir):\n[https://github.com/minimaxir/get-all-hacker-news-submissions-comments][1]\n\n\n  [1]: https://github.com/minimaxir/get-all-hacker-news-submissions-comments",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

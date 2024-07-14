@@ -1,0 +1,47 @@
+{
+  "id": "a13x10/basic-arabic-vocal-emotions-dataset",
+  "id_no": 345828,
+  "datasetSlugNullable": "basic-arabic-vocal-emotions-dataset",
+  "ownerUserNullable": "a13x10",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Basic Arabic Vocal Emotions Dataset",
+  "subtitleNullable": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0639\u0648\u0627\u0637\u0641 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+  "descriptionNullable": "Don't forget to upvote the dataset. Thank you.\ud83d\ude0a \n---\n# Basic Arabic Vocal Emotions Dataset \nBasic Arabic Vocal Emotions Dataset (BAVED) is a datasetthat contains an arabic words spelled in diffrent levels of emotions recorded in an audio/wav format.\n## About the dataset\nThis data set contains a 7 arabic words identified and named as the following:\n\n 0- \u0627\u0639\u062c\u0628\u0646\u064a\n \n 1- \u0644\u0645 \u064a\u0639\u062c\u0628\u0646\u064a\n \n 2- \u0647\u0630\u0627\n \n 3- \u0627\u0644\u0641\u064a\u0644\u0645\n \n 4- \u0631\u0627\u0626\u0639\n \n 5- \u0645\u0642\u0648\u0644\n \n 6- \u0633\u064a\u0626\n\nEach of the previous words is recorded in three levels of emotions. Level 0 is when the speaker is expressing a low level of emotion, this is similar to feeling tired or feeling down. Level 1 is the the standered level, it is the way the speaker speaks daily where he/she is expressing a neutral emotions,finally the level 2 emotion, its when the speaker is expressing a high level of positive or negative emotions (happiness, joy, sadness, anger, etc...).\n\n* **Number of records:** 1935\n* **NUmber of speakers:** 61\n* **NUmber of male speakers:** 45\n* **NUmber of female speakers:** 16\n* **Data-set size:** 97.8 MB\n\n## Files meta-data\n**Note:** the samples were recorded in diffrent stats, then they were normalized and formated into the following parameters:\n\n- **type:** audio/wav (original: video/mp4 or audio/wav)\n- **Sample rate:** 16 kHz (original: 48 kHz or higher frequencies)\n- **Number of channels:** 1 (original: 2 channels)\n- **Bitrate:** 256 kbit/s (original: 512 kbit/s)\n\n## Naming\nthe samples in this dataset are named as the following:\n\nspeaker_id(int) - speaker_gender(m or f) - speaker_age(int) - spoken_word(int between 0 and 6) - spoken_emotion(int between 0 and 2) - record_id(int)\n\n\n## Usage instructions\nThis dataset is mainly for a basic arabic speech recognition, and arabic vocal emotions detection,it shall give good results if trainned and tested for one of the previous purposes. Keep in mind that this dataset in its first version is limited to 7 wordes and three levels of emotions, so a commercial use won't probably be a good idea.\n\nEven though this data-set includes the information about the age and gender of each speaker it is not very recommanded to build a model upon that, since the number of male speakers is almost 3 times more than the number of female speakers,and since the ages of the speakers are between 18 and 23 with some exceptions.\n",
+  "datasetId": 345828,
+  "datasetSlug": "basic-arabic-vocal-emotions-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "a13x10",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 15318,
+  "totalVotes": 27,
+  "totalDownloads": 969,
+  "title": "Basic Arabic Vocal Emotions Dataset",
+  "hasTitle": true,
+  "subtitle": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0639\u0648\u0627\u0637\u0641 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+  "hasSubtitle": true,
+  "description": "Don't forget to upvote the dataset. Thank you.\ud83d\ude0a \n---\n# Basic Arabic Vocal Emotions Dataset \nBasic Arabic Vocal Emotions Dataset (BAVED) is a datasetthat contains an arabic words spelled in diffrent levels of emotions recorded in an audio/wav format.\n## About the dataset\nThis data set contains a 7 arabic words identified and named as the following:\n\n 0- \u0627\u0639\u062c\u0628\u0646\u064a\n \n 1- \u0644\u0645 \u064a\u0639\u062c\u0628\u0646\u064a\n \n 2- \u0647\u0630\u0627\n \n 3- \u0627\u0644\u0641\u064a\u0644\u0645\n \n 4- \u0631\u0627\u0626\u0639\n \n 5- \u0645\u0642\u0648\u0644\n \n 6- \u0633\u064a\u0626\n\nEach of the previous words is recorded in three levels of emotions. Level 0 is when the speaker is expressing a low level of emotion, this is similar to feeling tired or feeling down. Level 1 is the the standered level, it is the way the speaker speaks daily where he/she is expressing a neutral emotions,finally the level 2 emotion, its when the speaker is expressing a high level of positive or negative emotions (happiness, joy, sadness, anger, etc...).\n\n* **Number of records:** 1935\n* **NUmber of speakers:** 61\n* **NUmber of male speakers:** 45\n* **NUmber of female speakers:** 16\n* **Data-set size:** 97.8 MB\n\n## Files meta-data\n**Note:** the samples were recorded in diffrent stats, then they were normalized and formated into the following parameters:\n\n- **type:** audio/wav (original: video/mp4 or audio/wav)\n- **Sample rate:** 16 kHz (original: 48 kHz or higher frequencies)\n- **Number of channels:** 1 (original: 2 channels)\n- **Bitrate:** 256 kbit/s (original: 512 kbit/s)\n\n## Naming\nthe samples in this dataset are named as the following:\n\nspeaker_id(int) - speaker_gender(m or f) - speaker_age(int) - spoken_word(int between 0 and 6) - spoken_emotion(int between 0 and 2) - record_id(int)\n\n\n## Usage instructions\nThis dataset is mainly for a basic arabic speech recognition, and arabic vocal emotions detection,it shall give good results if trainned and tested for one of the previous purposes. Keep in mind that this dataset in its first version is limited to 7 wordes and three levels of emotions, so a commercial use won't probably be a good idea.\n\nEven though this data-set includes the information about the age and gender of each speaker it is not very recommanded to build a model upon that, since the number of male speakers is almost 3 times more than the number of female speakers,and since the ages of the speakers are between 18 and 23 with some exceptions.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "education",
+    "audio",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "a0uf411",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

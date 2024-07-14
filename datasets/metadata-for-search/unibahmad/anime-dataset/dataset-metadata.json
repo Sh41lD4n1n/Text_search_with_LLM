@@ -1,0 +1,39 @@
+{
+  "id": "unibahmad/anime-dataset",
+  "id_no": 3940292,
+  "datasetSlugNullable": "anime-dataset",
+  "ownerUserNullable": "unibahmad",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Anime Dataset",
+  "subtitleNullable": "\"Anime Series Statistics and Metadata\"",
+  "descriptionNullable": "The \"Anime TV Shows Database\" is a comprehensive collection of data related to various anime TV shows. This dataset provides a wealth of information about anime series, including details about their production, ratings, related shows, genres, and more.\n\n\nKey Features and Attributes:\n\nBasic Information: Includes the title of the show, its type (e.g., TV, OVA, Movie), the year of release, and the season it premiered.\n\nProduction and Studios: Contains information about the studios responsible for producing the anime series, along with studio locations.\n\nRanking and Ratings: Provides details on the ranking of each show, user ratings, and any available reviews.\n\nRelated Shows and Franchises: Lists related shows and provides information about any franchises to which the show belongs.",
+  "datasetId": 3940292,
+  "datasetSlug": "anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "unibahmad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4748,
+  "totalVotes": 25,
+  "totalDownloads": 1075,
+  "title": "Anime Dataset",
+  "hasTitle": true,
+  "subtitle": "\"Anime Series Statistics and Metadata\"",
+  "hasSubtitle": true,
+  "description": "The \"Anime TV Shows Database\" is a comprehensive collection of data related to various anime TV shows. This dataset provides a wealth of information about anime series, including details about their production, ratings, related shows, genres, and more.\n\n\nKey Features and Attributes:\n\nBasic Information: Includes the title of the show, its type (e.g., TV, OVA, Movie), the year of release, and the season it premiered.\n\nProduction and Studios: Contains information about the studios responsible for producing the anime series, along with studio locations.\n\nRanking and Ratings: Provides details on the ranking of each show, user ratings, and any available reviews.\n\nRelated Shows and Franchises: Lists related shows and provides information about any franchises to which the show belongs.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

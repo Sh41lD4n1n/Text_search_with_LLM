@@ -1,0 +1,40 @@
+{
+  "id": "sudalairajkumar/undata-country-profiles",
+  "id_no": 14446,
+  "datasetSlugNullable": "undata-country-profiles",
+  "ownerUserNullable": "sudalairajkumar",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Country Statistics - UNData",
+  "subtitleNullable": "Dataset of economic, social, infra and environmental indicators",
+  "descriptionNullable": "### Context\n\nAs part of [Data Science for Good : Kiva Crowdfunding][1], when I was on the lookout for various economic indicators / statistics of specific countries / regions, I came across [UNData][2] (a data access system to UN databases). \n\nThe United Nations Statistics Division (UNSD) of the Department of Economic and Social Affairs (DESA) launched a new internet based data service for the global user community. It brings UN statistical databases within easy reach of users through a single entry point (http://data.un.org/). Users can search and download a variety of statistical resources of the UN system.\n\n### Content\nThis dataset contains key statistical indicators of the countries. It covers 4 major sections\n\n 1. General Information\n 2. Economic Indicators\n 3. Social Indicators\n 4. Environmental & Infrastructure Indicators\n\nThe data is from 2017 when available or the most recent data previous to the year. \n\nI have added two files in this dataset. \n\n 1. country_profile_variables.csv - contains the indicator variables of all the countries present in UNData.\n 2. kiva_country_profile_variables.csv - contains the indicator variables of the countries present in the Kiva Crowdfunding dataset. (Apart from country Kosovo, all the other countries are present in UNData and hence it is in this dataset as well)\n \nWill be adding a new file which has the data dictionary of all the variables in the data. \n\n### Acknowledgements\n\nData is extracted from [UNData][3] website which in turn is collected from more than 20 international statistical sources compiled regularly by the Statistics Division and the Population Division of the United Nations, the statistical services of the United Nations, specialized agencies and other international organizations and institutions. Please read about the terms of use and policies [here][4].\n\nPhoto Credits : Andrew Neel on Unsplash\n\n### Inspiration\n\nSome interesting analysis which could be done using the dataset are\n\n 1. Visual representation of different indicators at different countries of the world\n 2. How Kiva loans are distributed based on the economic / social / other indicators.?\n\n  [1]: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding\n  [2]: http://data.un.org/Host.aspx?Content=About\n  [3]: http://data.un.org/Host.aspx?Content=About\n  [4]: http://data.un.org/Host.aspx?Content=UNdataUse",
+  "datasetId": 14446,
+  "datasetSlug": "undata-country-profiles",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudalairajkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 60692,
+  "totalVotes": 125,
+  "totalDownloads": 10235,
+  "title": "Country Statistics - UNData",
+  "hasTitle": true,
+  "subtitle": "Dataset of economic, social, infra and environmental indicators",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAs part of [Data Science for Good : Kiva Crowdfunding][1], when I was on the lookout for various economic indicators / statistics of specific countries / regions, I came across [UNData][2] (a data access system to UN databases). \n\nThe United Nations Statistics Division (UNSD) of the Department of Economic and Social Affairs (DESA) launched a new internet based data service for the global user community. It brings UN statistical databases within easy reach of users through a single entry point (http://data.un.org/). Users can search and download a variety of statistical resources of the UN system.\n\n### Content\nThis dataset contains key statistical indicators of the countries. It covers 4 major sections\n\n 1. General Information\n 2. Economic Indicators\n 3. Social Indicators\n 4. Environmental & Infrastructure Indicators\n\nThe data is from 2017 when available or the most recent data previous to the year. \n\nI have added two files in this dataset. \n\n 1. country_profile_variables.csv - contains the indicator variables of all the countries present in UNData.\n 2. kiva_country_profile_variables.csv - contains the indicator variables of the countries present in the Kiva Crowdfunding dataset. (Apart from country Kosovo, all the other countries are present in UNData and hence it is in this dataset as well)\n \nWill be adding a new file which has the data dictionary of all the variables in the data. \n\n### Acknowledgements\n\nData is extracted from [UNData][3] website which in turn is collected from more than 20 international statistical sources compiled regularly by the Statistics Division and the Population Division of the United Nations, the statistical services of the United Nations, specialized agencies and other international organizations and institutions. Please read about the terms of use and policies [here][4].\n\nPhoto Credits : Andrew Neel on Unsplash\n\n### Inspiration\n\nSome interesting analysis which could be done using the dataset are\n\n 1. Visual representation of different indicators at different countries of the world\n 2. How Kiva loans are distributed based on the economic / social / other indicators.?\n\n  [1]: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding\n  [2]: http://data.un.org/Host.aspx?Content=About\n  [3]: http://data.un.org/Host.aspx?Content=About\n  [4]: http://data.un.org/Host.aspx?Content=UNdataUse",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

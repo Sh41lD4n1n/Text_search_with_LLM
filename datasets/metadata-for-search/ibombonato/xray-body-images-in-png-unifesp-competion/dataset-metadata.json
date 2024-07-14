@@ -1,0 +1,41 @@
+{
+  "id": "ibombonato/xray-body-images-in-png-unifesp-competion",
+  "id_no": 2074397,
+  "datasetSlugNullable": "xray-body-images-in-png-unifesp-competion",
+  "ownerUserNullable": "ibombonato",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Body Parts X-Ray Images in PNG",
+  "subtitleNullable": "Classify Body Parts from X-Ray images - Unifesp competition",
+  "descriptionNullable": "**In this competition/dataset, you will create a model to CLASSIFY BODY PARTS using X-RAYS as input.**\n\nThis is a multi-classification problem!\n\nClassifying a body part from an x-ray image might seem silly, but having it automated can be a key for all the world around deep learning in medical imaging. In many hospitals, when a physician orders multiple imaging exams one accession number is created for each body part (eg. knee, ankle, and leg), but the registration for the correspondent images are often incorrect within each accession number.\n\nThe algorithm you are challenged to create should be able to automate the identification of the body part in the image, making it possible to create more datasets and deploy pipelines.\n\nImages are and metadata was extracted from source DICOM Images and are in PNG in this dataset.\n\nAlso the metadata from DICOM images are in .csv\n\n**Train** files are in `train` folder and `train_df.csv`\n**Test** files are in `test` folder and `test_df.csv`\n\n***********\n### Text from the original dataset:\nhttps://www.kaggle.com/competitions/unifesp-x-ray-body-part-classifier/data\n\n**What should I expect the data format to be?**\n\nThe training data is provided as a set of SOPInstanceUIDs and their labels in csv. The labels are defined as one Target column that contains integers that map to different body parts and one SOPInstanceUIDs can have more than one label.\n\n**What am I predicting?**\n\nIn this challenge, competitors are predicting the body part from a given x-ray.\n\nWhen making predictions, competitors should predict as many body parts per image as they judge necessary\n\nThere should be 1 predicted column per image - and the labels are represented as integers that map each to one body part contained in the dataset.\n\nA properly formatted row may look like any of the following.\n\nSOPInstanceUID, 0 12\n\n**The labels are represented as integers that map to the following:**\n\n    Abdomen = 0\n    Ankle = 1\n    Cervical Spine = 2\n    Chest = 3\n    Clavicles = 4\n    Elbow = 5\n    Feet = 6\n    Finger = 7\n    Forearm = 8\n    Hand = 9\n    Hip = 10\n    Knee = 11\n    Lower Leg = 12\n    Lumbar Spine = 13\n    Others = 14\n    Pelvis = 15\n    Shoulder = 16\n    Sinus = 17\n    Skull = 18\n    Thigh = 19\n    Thoracic Spine = 20\n    Wrist = 21\n\nNote - Others indicates whether the sample contains image of non X-ray images that sometimes are misplaced in the PACS system as X-Ray (eg. esophagogram, densitometry).\nFiles\n\n***********\n`train_df.csv` - the training set. Contains SOPInstanceUID and target information, and also the metadata from the image.\n\n`test_df.csv` - the test set. Contains SOPInstanceUID for the test set and also metadata from the image.\n\n`sample_submission.csv` - The test set whitout the metadata. Contains SOPInstanceUID and a fake Target.\n\nColumns mapping:\n\nSOPInstanceUID - Each SOPInstanceUID corresponds to a unique image.\n\nTarget - In the training data, this represents the labels assigned to each sample.\n\n\n***********\n\n### **Acknowledgements**\n\nWe thank Sarah Lustosa Haiek, Julia Tagliaferri, Lucas Diniz, and Rogerio Jadjiski for annotating this dataset. We thank the PI Nitamar Abdala, MD, PhD, for supporting this work.\n\nWe thank Ernandez, our PACS admin, and Jefferson, our IT manager.\n\nWe thank MD.ai for providing the annotation platform.",
+  "datasetId": 2074397,
+  "datasetSlug": "xray-body-images-in-png-unifesp-competion",
+  "hasDatasetSlug": true,
+  "ownerUser": "ibombonato",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 8406,
+  "totalVotes": 24,
+  "totalDownloads": 1177,
+  "title": "Body Parts X-Ray Images in PNG",
+  "hasTitle": true,
+  "subtitle": "Classify Body Parts from X-Ray images - Unifesp competition",
+  "hasSubtitle": true,
+  "description": "**In this competition/dataset, you will create a model to CLASSIFY BODY PARTS using X-RAYS as input.**\n\nThis is a multi-classification problem!\n\nClassifying a body part from an x-ray image might seem silly, but having it automated can be a key for all the world around deep learning in medical imaging. In many hospitals, when a physician orders multiple imaging exams one accession number is created for each body part (eg. knee, ankle, and leg), but the registration for the correspondent images are often incorrect within each accession number.\n\nThe algorithm you are challenged to create should be able to automate the identification of the body part in the image, making it possible to create more datasets and deploy pipelines.\n\nImages are and metadata was extracted from source DICOM Images and are in PNG in this dataset.\n\nAlso the metadata from DICOM images are in .csv\n\n**Train** files are in `train` folder and `train_df.csv`\n**Test** files are in `test` folder and `test_df.csv`\n\n***********\n### Text from the original dataset:\nhttps://www.kaggle.com/competitions/unifesp-x-ray-body-part-classifier/data\n\n**What should I expect the data format to be?**\n\nThe training data is provided as a set of SOPInstanceUIDs and their labels in csv. The labels are defined as one Target column that contains integers that map to different body parts and one SOPInstanceUIDs can have more than one label.\n\n**What am I predicting?**\n\nIn this challenge, competitors are predicting the body part from a given x-ray.\n\nWhen making predictions, competitors should predict as many body parts per image as they judge necessary\n\nThere should be 1 predicted column per image - and the labels are represented as integers that map each to one body part contained in the dataset.\n\nA properly formatted row may look like any of the following.\n\nSOPInstanceUID, 0 12\n\n**The labels are represented as integers that map to the following:**\n\n    Abdomen = 0\n    Ankle = 1\n    Cervical Spine = 2\n    Chest = 3\n    Clavicles = 4\n    Elbow = 5\n    Feet = 6\n    Finger = 7\n    Forearm = 8\n    Hand = 9\n    Hip = 10\n    Knee = 11\n    Lower Leg = 12\n    Lumbar Spine = 13\n    Others = 14\n    Pelvis = 15\n    Shoulder = 16\n    Sinus = 17\n    Skull = 18\n    Thigh = 19\n    Thoracic Spine = 20\n    Wrist = 21\n\nNote - Others indicates whether the sample contains image of non X-ray images that sometimes are misplaced in the PACS system as X-Ray (eg. esophagogram, densitometry).\nFiles\n\n***********\n`train_df.csv` - the training set. Contains SOPInstanceUID and target information, and also the metadata from the image.\n\n`test_df.csv` - the test set. Contains SOPInstanceUID for the test set and also metadata from the image.\n\n`sample_submission.csv` - The test set whitout the metadata. Contains SOPInstanceUID and a fake Target.\n\nColumns mapping:\n\nSOPInstanceUID - Each SOPInstanceUID corresponds to a unique image.\n\nTarget - In the training data, this represents the labels assigned to each sample.\n\n\n***********\n\n### **Acknowledgements**\n\nWe thank Sarah Lustosa Haiek, Julia Tagliaferri, Lucas Diniz, and Rogerio Jadjiski for annotating this dataset. We thank the PI Nitamar Abdala, MD, PhD, for supporting this work.\n\nWe thank Ernandez, our PACS admin, and Jefferson, our IT manager.\n\nWe thank MD.ai for providing the annotation platform.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

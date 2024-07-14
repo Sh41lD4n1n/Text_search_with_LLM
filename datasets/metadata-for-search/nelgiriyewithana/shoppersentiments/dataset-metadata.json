@@ -1,0 +1,44 @@
+{
+  "id": "nelgiriyewithana/shoppersentiments",
+  "id_no": 4145649,
+  "datasetSlugNullable": "shoppersentiments",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ShopperSentiments",
+  "subtitleNullable": " Fashion Unveiled: Reviews, Trends, Perspectives.",
+  "descriptionNullable": "# Description:\n\n&gt; This extensive dataset, comprised of over **250,000 customer reviews,** offers a detailed exploration of customer experiences on TeePublic, an online platform renowned for its diverse collection of fashion items. The dataset spans crucial information, including reviewer_id, store_location, latitude, longitude, date, month, year, title, review, and the review-label indicating a rating on a scale of 1 to 5.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7174394.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt; - **reviewer_id**: *A unique identifier for each reviewer, ensuring anonymity and privacy.*\n- **store_location**: *Geographic information specifying the location of the TeePublic fashion store.*\n- **latitude**: *The latitude coordinate of the store's location, providing precise geospatial data.*\n- **longitude**: *The longitude coordinate of the store's location, offering detailed geographic insights.*\n- **date**: *The specific date when the review was posted, enabling temporal analysis.*\n- **month**: *The month in which the review was posted, facilitating monthly trends exploration.*\n- **year**: *The year of the review, allowing for yearly analysis and trend identification.*\n- **title**: *The title associated with each review, capturing succinct sentiments or key points.*\n- **review**: *The textual content of the review, presenting detailed feedback from customers.*\n- **review-label**: *The reviewer's rating on a scale from 1 to 5, providing a quantitative measure of satisfaction.*\n\n# TeePublic and Fashion Store Context:\n\n&gt; TeePublic is a prominent online platform celebrated for its extensive collection of fashion items, including apparel, accessories, and more. This dataset, comprising reviews from the fashion store, serves as a valuable resource to understand customer sentiments and preferences within the dynamic landscape of online fashion retail.\n\n# Potential Use Cases:\n\n&gt; - **Sentiment analysis:** Dive deep into the reviews to understand the sentiment expressed by customers, aiding in gauging overall satisfaction levels and pinpointing areas for improvement.\n- **Geospatial analysis:** Explore geographic patterns to identify high-performing or underperforming store locations, allowing for targeted business strategies.\n- **Temporal analysis:** Investigate temporal trends to discern any shifts in customer opinions or preferences over time, aiding in adapting to changing market dynamics.\n- **Review categorization:** Analyze review titles and content to categorize feedback, uncovering patterns that contribute to overall ratings and customer satisfaction.\n\n# Data Source:\n\n*The dataset was meticulously curated from TeePublic fashion store customer reviews. All personally identifiable information (PII) has been carefully anonymized to uphold user privacy and adhere to ethical guidelines.*\n\nIf you find this helpful, a vote is appreciated \u2764\ufe0f\ud83d\ude42\nLet's uncover insightful trends in the world of TeePublic fashion!\n",
+  "datasetId": 4145649,
+  "datasetSlug": "shoppersentiments",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6274,
+  "totalVotes": 52,
+  "totalDownloads": 1049,
+  "title": "ShopperSentiments",
+  "hasTitle": true,
+  "subtitle": " Fashion Unveiled: Reviews, Trends, Perspectives.",
+  "hasSubtitle": true,
+  "description": "# Description:\n\n&gt; This extensive dataset, comprised of over **250,000 customer reviews,** offers a detailed exploration of customer experiences on TeePublic, an online platform renowned for its diverse collection of fashion items. The dataset spans crucial information, including reviewer_id, store_location, latitude, longitude, date, month, year, title, review, and the review-label indicating a rating on a scale of 1 to 5.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7174394.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt; - **reviewer_id**: *A unique identifier for each reviewer, ensuring anonymity and privacy.*\n- **store_location**: *Geographic information specifying the location of the TeePublic fashion store.*\n- **latitude**: *The latitude coordinate of the store's location, providing precise geospatial data.*\n- **longitude**: *The longitude coordinate of the store's location, offering detailed geographic insights.*\n- **date**: *The specific date when the review was posted, enabling temporal analysis.*\n- **month**: *The month in which the review was posted, facilitating monthly trends exploration.*\n- **year**: *The year of the review, allowing for yearly analysis and trend identification.*\n- **title**: *The title associated with each review, capturing succinct sentiments or key points.*\n- **review**: *The textual content of the review, presenting detailed feedback from customers.*\n- **review-label**: *The reviewer's rating on a scale from 1 to 5, providing a quantitative measure of satisfaction.*\n\n# TeePublic and Fashion Store Context:\n\n&gt; TeePublic is a prominent online platform celebrated for its extensive collection of fashion items, including apparel, accessories, and more. This dataset, comprising reviews from the fashion store, serves as a valuable resource to understand customer sentiments and preferences within the dynamic landscape of online fashion retail.\n\n# Potential Use Cases:\n\n&gt; - **Sentiment analysis:** Dive deep into the reviews to understand the sentiment expressed by customers, aiding in gauging overall satisfaction levels and pinpointing areas for improvement.\n- **Geospatial analysis:** Explore geographic patterns to identify high-performing or underperforming store locations, allowing for targeted business strategies.\n- **Temporal analysis:** Investigate temporal trends to discern any shifts in customer opinions or preferences over time, aiding in adapting to changing market dynamics.\n- **Review categorization:** Analyze review titles and content to categorize feedback, uncovering patterns that contribute to overall ratings and customer satisfaction.\n\n# Data Source:\n\n*The dataset was meticulously curated from TeePublic fashion store customer reviews. All personally identifiable information (PII) has been carefully anonymized to uphold user privacy and adhere to ethical guidelines.*\n\nIf you find this helpful, a vote is appreciated \u2764\ufe0f\ud83d\ude42\nLet's uncover insightful trends in the world of TeePublic fashion!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "computer science",
+    "exploratory data analysis",
+    "nlp",
+    "data visualization",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

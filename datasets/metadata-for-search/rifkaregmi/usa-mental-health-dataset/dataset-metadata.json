@@ -1,0 +1,39 @@
+{
+  "id": "rifkaregmi/usa-mental-health-dataset",
+  "id_no": 4391247,
+  "datasetSlugNullable": "usa-mental-health-dataset",
+  "ownerUserNullable": "rifkaregmi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "USA Mental Health Dataset",
+  "subtitleNullable": "A Comprehensive Exploration of Mental Health Statistics and Trends",
+  "descriptionNullable": "In the contemporary world, mental health stands out as a significant and increasingly discussed issue. Recognizing its importance, efforts have been made to delve deeper into understanding mental health by collecting relevant data. This dataset, obtained from data.gov, has undergone a meticulous cleaning process, with a specific emphasis on extracting information related to mental health. The curated dataset presents key details, including the location, date, and confidence level associated with individuals' mental health records.\n\nIt is essential to acknowledge data.gov for providing this dataset, as it serves as a valuable resource in our quest to unravel more about mental health. The commitment to focusing on mental health-related information within the dataset enhances its relevance and utility in addressing the ongoing challenges and concerns related to mental well-being.\n\n",
+  "datasetId": 4391247,
+  "datasetSlug": "usa-mental-health-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rifkaregmi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7244,
+  "totalVotes": 32,
+  "totalDownloads": 1109,
+  "title": "USA Mental Health Dataset",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Exploration of Mental Health Statistics and Trends",
+  "hasSubtitle": true,
+  "description": "In the contemporary world, mental health stands out as a significant and increasingly discussed issue. Recognizing its importance, efforts have been made to delve deeper into understanding mental health by collecting relevant data. This dataset, obtained from data.gov, has undergone a meticulous cleaning process, with a specific emphasis on extracting information related to mental health. The curated dataset presents key details, including the location, date, and confidence level associated with individuals' mental health records.\n\nIt is essential to acknowledge data.gov for providing this dataset, as it serves as a valuable resource in our quest to unravel more about mental health. The commitment to focusing on mental health-related information within the dataset enhances its relevance and utility in addressing the ongoing challenges and concerns related to mental well-being.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

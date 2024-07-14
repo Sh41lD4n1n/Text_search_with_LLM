@@ -1,0 +1,44 @@
+{
+  "id": "nareshbhat/wine-quality-binary-classification",
+  "id_no": 794161,
+  "datasetSlugNullable": "wine-quality-binary-classification",
+  "ownerUserNullable": "nareshbhat",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Wine Quality Classification",
+  "subtitleNullable": "Data set for Binary Classification",
+  "descriptionNullable": "This Data set contains the information related red wine , Various factors affecting the quality. This data set was prepossessed and downloaded from the UCI Machine Learning Repository. This data set was simple, cleaned, practice data set for classification modelling. Source of this Dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality\n\n**Attribute Information:**\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality ('good' and 'bad' based on score &gt;5 and &lt;5)",
+  "datasetId": 794161,
+  "datasetSlug": "wine-quality-binary-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "nareshbhat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 35959,
+  "totalVotes": 48,
+  "totalDownloads": 5189,
+  "title": "Wine Quality Classification",
+  "hasTitle": true,
+  "subtitle": "Data set for Binary Classification",
+  "hasSubtitle": true,
+  "description": "This Data set contains the information related red wine , Various factors affecting the quality. This data set was prepossessed and downloaded from the UCI Machine Learning Repository. This data set was simple, cleaned, practice data set for classification modelling. Source of this Dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality\n\n**Attribute Information:**\nInput variables (based on physicochemical tests):\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\nOutput variable (based on sensory data):\n12 - quality ('good' and 'bad' based on score &gt;5 and &lt;5)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "health",
+    "beginner",
+    "exploratory data analysis",
+    "logistic regression",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

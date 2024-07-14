@@ -1,0 +1,41 @@
+{
+  "id": "mahmudulhaqueshawon/catcat",
+  "id_no": 4499580,
+  "datasetSlugNullable": "catcat",
+  "ownerUserNullable": "mahmudulhaqueshawon",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cats and Dogs Classification",
+  "subtitleNullable": "\"Meow or Woof? A Journey into Cats and Dogs Classification",
+  "descriptionNullable": "**About the Dataset:**\n\nThe Cats and Dogs Classification dataset is a widely used benchmark dataset in the field of computer vision. It consists of thousands of images of cats and dogs, with each image labeled as either a cat or a dog. This dataset serves as a fundamental resource for training and evaluating machine learning models for image classification tasks. Researchers and practitioners leverage this dataset to develop and test algorithms that can accurately distinguish between images of cats and dogs, contributing to advancements in computer vision technology.",
+  "datasetId": 4499580,
+  "datasetSlug": "catcat",
+  "hasDatasetSlug": true,
+  "ownerUser": "mahmudulhaqueshawon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1448,
+  "totalVotes": 94,
+  "totalDownloads": 363,
+  "title": "Cats and Dogs Classification",
+  "hasTitle": true,
+  "subtitle": "\"Meow or Woof? A Journey into Cats and Dogs Classification",
+  "hasSubtitle": true,
+  "description": "**About the Dataset:**\n\nThe Cats and Dogs Classification dataset is a widely used benchmark dataset in the field of computer vision. It consists of thousands of images of cats and dogs, with each image labeled as either a cat or a dog. This dataset serves as a fundamental resource for training and evaluating machine learning models for image classification tasks. Researchers and practitioners leverage this dataset to develop and test algorithms that can accurately distinguish between images of cats and dogs, contributing to advancements in computer vision technology.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

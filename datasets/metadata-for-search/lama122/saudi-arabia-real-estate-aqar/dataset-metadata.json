@@ -1,0 +1,39 @@
+{
+  "id": "lama122/saudi-arabia-real-estate-aqar",
+  "id_no": 1124657,
+  "datasetSlugNullable": "saudi-arabia-real-estate-aqar",
+  "ownerUserNullable": "lama122",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Saudi Arabia Real Estate (AQAR)",
+  "subtitleNullable": "Rental house dataset for Riyadh, Jeddah, Dammam, and Alkhobar",
+  "descriptionNullable": "### Context\n\nThe goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict the house price.\n\nThe chosen cities are Riyadh, Jeddah, Dammam, and Al-Khobar\n\n- Riyadh is the capital and largest city in Saudi Arabia, with the largest municipal population in the Middle East. Riyadh has a diverse range of people and cultures, it is still growing day by day. \n\n- Jeddah which located in the middle of the eastern coast of the red sea and is considered the economic and tourism capital of the country.\n\n- Dammam it lies on the Persian Gulf northwest of Bahrain Island and forms a larger metropolitan and industrial complex with Khobar, Qatif, and Dhahran.\n\n- Al-Khobar city is one of the three main cities in the Eastern Province, the others being Dammam and Dhahran. It is developing into an important industrial city, with factories turning out industrial gas, dairy products, carbonated water, tissue paper and ready-made garments. \n\n\nThis dataset will only focused on the rental houses.\n\n### Content\n-city: city where house locate in\n-district: district where house locate in\n-front: What is the house front is north, west .. etc\n-size: size in m^2\n-property_age: property age for the house\n-bedrooms: number of bedrooms\n-bathrooms: number of bathrooms\n-livingrooms: number of livingrooms\n-kitchen: show whether the house have a kitchen or not\n-garage: show whether the house have a garage or not\n-driver_room: show whether the house have a driver_room or not\n-maid_room: show whether the house have a maid_room or not\n-furnished: show whether the house is furnished or not\n-ac: show whether the house have a ac or not\n-roof: show whether the house have a space for roof on top or not\n-pool: show whether the house have a pool or not\n-frontyard: show whether the house have a frontyard or not\n-basement: show whether the house have a basement or not\n-duplex: show whether the house is a duplex or not\n-stairs: show whether the house have a stairs or not\n-elevator: show whether the house have an elevator or not\n-fireplace: show whether the house have a fireplace or not\n-price: show the price of the house\n-details: shows any additional details from the house owner about the house\n\n\n### Aims\n\nThis dataset aims to help analyzing the real estate of those cities to investigate the relationships of prices with other features. The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm).",
+  "datasetId": 1124657,
+  "datasetSlug": "saudi-arabia-real-estate-aqar",
+  "hasDatasetSlug": true,
+  "ownerUser": "lama122",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15229,
+  "totalVotes": 46,
+  "totalDownloads": 1919,
+  "title": "Saudi Arabia Real Estate (AQAR)",
+  "hasTitle": true,
+  "subtitle": "Rental house dataset for Riyadh, Jeddah, Dammam, and Alkhobar",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict the house price.\n\nThe chosen cities are Riyadh, Jeddah, Dammam, and Al-Khobar\n\n- Riyadh is the capital and largest city in Saudi Arabia, with the largest municipal population in the Middle East. Riyadh has a diverse range of people and cultures, it is still growing day by day. \n\n- Jeddah which located in the middle of the eastern coast of the red sea and is considered the economic and tourism capital of the country.\n\n- Dammam it lies on the Persian Gulf northwest of Bahrain Island and forms a larger metropolitan and industrial complex with Khobar, Qatif, and Dhahran.\n\n- Al-Khobar city is one of the three main cities in the Eastern Province, the others being Dammam and Dhahran. It is developing into an important industrial city, with factories turning out industrial gas, dairy products, carbonated water, tissue paper and ready-made garments. \n\n\nThis dataset will only focused on the rental houses.\n\n### Content\n-city: city where house locate in\n-district: district where house locate in\n-front: What is the house front is north, west .. etc\n-size: size in m^2\n-property_age: property age for the house\n-bedrooms: number of bedrooms\n-bathrooms: number of bathrooms\n-livingrooms: number of livingrooms\n-kitchen: show whether the house have a kitchen or not\n-garage: show whether the house have a garage or not\n-driver_room: show whether the house have a driver_room or not\n-maid_room: show whether the house have a maid_room or not\n-furnished: show whether the house is furnished or not\n-ac: show whether the house have a ac or not\n-roof: show whether the house have a space for roof on top or not\n-pool: show whether the house have a pool or not\n-frontyard: show whether the house have a frontyard or not\n-basement: show whether the house have a basement or not\n-duplex: show whether the house is a duplex or not\n-stairs: show whether the house have a stairs or not\n-elevator: show whether the house have an elevator or not\n-fireplace: show whether the house have a fireplace or not\n-price: show the price of the house\n-details: shows any additional details from the house owner about the house\n\n\n### Aims\n\nThis dataset aims to help analyzing the real estate of those cities to investigate the relationships of prices with other features. The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

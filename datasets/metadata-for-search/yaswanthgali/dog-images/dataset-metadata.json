@@ -1,0 +1,43 @@
+{
+  "id": "yaswanthgali/dog-images",
+  "id_no": 1767097,
+  "datasetSlugNullable": "dog-images",
+  "ownerUserNullable": "yaswanthgali",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Dog Images",
+  "subtitleNullable": "Detect the Dog images faces",
+  "descriptionNullable": "#### If you like the dataset then give it a \ud83d\udc4d.\n\n### Context\n\nIf you are a dog lover then this dataset is for you. I love playing with pets and especially dogs are my favorite.\ud83d\udc15\ud83d\udc29\ud83d\udc15\u200d\ud83e\uddba\ud83d\udc36\ud83d\udc36\ud83d\udc36 I hope you enjoy using this dataset.\n\n\n\n### Content\n\nThere are different types of dog breed photos are you can play with the image data. There is a folder for annotation in case if you want to do object detection. All the images are in JPG Format. Play with the data and build your models\n\n\n",
+  "datasetId": 1767097,
+  "datasetSlug": "dog-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "yaswanthgali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 8824,
+  "totalVotes": 41,
+  "totalDownloads": 1055,
+  "title": "Dog Images",
+  "hasTitle": true,
+  "subtitle": "Detect the Dog images faces",
+  "hasSubtitle": true,
+  "description": "#### If you like the dataset then give it a \ud83d\udc4d.\n\n### Context\n\nIf you are a dog lover then this dataset is for you. I love playing with pets and especially dogs are my favorite.\ud83d\udc15\ud83d\udc29\ud83d\udc15\u200d\ud83e\uddba\ud83d\udc36\ud83d\udc36\ud83d\udc36 I hope you enjoy using this dataset.\n\n\n\n### Content\n\nThere are different types of dog breed photos are you can play with the image data. There is a folder for annotation in case if you want to do object detection. All the images are in JPG Format. Play with the data and build your models\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "intermediate",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

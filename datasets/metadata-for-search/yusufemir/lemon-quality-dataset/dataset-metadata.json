@@ -1,0 +1,43 @@
+{
+  "id": "yusufemir/lemon-quality-dataset",
+  "id_no": 2502063,
+  "datasetSlugNullable": "lemon-quality-dataset",
+  "ownerUserNullable": "yusufemir",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Lemon Quality Dataset",
+  "subtitleNullable": "Easy to use lemon quality dataset with over 2000 300x300 images",
+  "descriptionNullable": "# Lemons quality control dataset :lemon:\n[![version](https://img.shields.io/badge/version-1.0.0-yellow.svg)](https://semver.org)\n\n---\n\nLemon dataset has been prepared to investigate the possibilities to tackle the issue of fruit quality control. It contains 2.533 images (300 x 300 pixels). Lemon images are taken on a concrete surface. Dataset also includes empty images of this surface.\n\nDataset contains images of both bad and good quality lemons under slightly different lighting conditions (all under daylight) and sizes. \n\n---\n\n## Some samples\n![Examples](https://i.im.ge/2022/09/25/1j8iSL.combine-images.jpg)\n",
+  "datasetId": 2502063,
+  "datasetSlug": "lemon-quality-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yusufemir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 27462,
+  "totalVotes": 55,
+  "totalDownloads": 4807,
+  "title": "Lemon Quality Dataset",
+  "hasTitle": true,
+  "subtitle": "Easy to use lemon quality dataset with over 2000 300x300 images",
+  "hasSubtitle": true,
+  "description": "# Lemons quality control dataset :lemon:\n[![version](https://img.shields.io/badge/version-1.0.0-yellow.svg)](https://semver.org)\n\n---\n\nLemon dataset has been prepared to investigate the possibilities to tackle the issue of fruit quality control. It contains 2.533 images (300 x 300 pixels). Lemon images are taken on a concrete surface. Dataset also includes empty images of this surface.\n\nDataset contains images of both bad and good quality lemons under slightly different lighting conditions (all under daylight) and sizes. \n\n---\n\n## Some samples\n![Examples](https://i.im.ge/2022/09/25/1j8iSL.combine-images.jpg)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "agriculture",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "jaidalmotra/covid19-pneumonia-symptoms-from-low-dose-ct",
+  "id_no": 4506059,
+  "datasetSlugNullable": "covid19-pneumonia-symptoms-from-low-dose-ct",
+  "ownerUserNullable": "jaidalmotra",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID19 Pneumonia Symptoms from Low-Dose CT",
+  "subtitleNullable": "DETECTION OF COVID-19 PNEUMONIA SYMPTOMS BY EMPLOYING STACKED AUTOENCODERS ",
+  "descriptionNullable": "\nThis dataset leverages advanced AI (artificial intelligence) technology for the analysis of low-dose HRCT (High-resolution chest radiography) data, aiming to identify symptoms indicative of COVID-19 pneumonia. Introducing a novel model architecture, this approach integrates the segmentation of anatomical structures using DNNs-based (deep learning neural network) methods, relying on a substantial volume of labeled data for effective training.\n\nThe proposed model enhances current techniques employed in the inspection of low-dose HRCT images by incorporating Stacked Autoencoders (SAEs) structures within the segmentation function of the Mask-RCNN for area object detection. This integration enables swift analysis of X-ray images, enabling the early detection of abnormalities in patients with laboratory-confirmed coronavirus, even preceding the manifestation of clinical symptoms.\n\nBeyond the early detection of abnormalities, the area object detection model uncovers findings not previously observed in recent cases of COVID-19. Notably, this study reveals a consistent presence of bilateral pleural effusion in all COVID-19 patients. Furthermore, additional features are integrated into the model to enhance detection quality and expedite the examination period. This dataset serves as a valuable resource for researchers and practitioners involved in the development and validation of AI models for the early identification of COVID-19-related symptoms in chest radiography.",
+  "datasetId": 4506059,
+  "datasetSlug": "covid19-pneumonia-symptoms-from-low-dose-ct",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaidalmotra",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1532,
+  "totalVotes": 47,
+  "totalDownloads": 184,
+  "title": "COVID19 Pneumonia Symptoms from Low-Dose CT",
+  "hasTitle": true,
+  "subtitle": "DETECTION OF COVID-19 PNEUMONIA SYMPTOMS BY EMPLOYING STACKED AUTOENCODERS ",
+  "hasSubtitle": true,
+  "description": "\nThis dataset leverages advanced AI (artificial intelligence) technology for the analysis of low-dose HRCT (High-resolution chest radiography) data, aiming to identify symptoms indicative of COVID-19 pneumonia. Introducing a novel model architecture, this approach integrates the segmentation of anatomical structures using DNNs-based (deep learning neural network) methods, relying on a substantial volume of labeled data for effective training.\n\nThe proposed model enhances current techniques employed in the inspection of low-dose HRCT images by incorporating Stacked Autoencoders (SAEs) structures within the segmentation function of the Mask-RCNN for area object detection. This integration enables swift analysis of X-ray images, enabling the early detection of abnormalities in patients with laboratory-confirmed coronavirus, even preceding the manifestation of clinical symptoms.\n\nBeyond the early detection of abnormalities, the area object detection model uncovers findings not previously observed in recent cases of COVID-19. Notably, this study reveals a consistent presence of bilateral pleural effusion in all COVID-19 patients. Furthermore, additional features are integrated into the model to enhance detection quality and expedite the examination period. This dataset serves as a valuable resource for researchers and practitioners involved in the development and validation of AI models for the early identification of COVID-19-related symptoms in chest radiography.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "health",
+    "beginner",
+    "intermediate",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

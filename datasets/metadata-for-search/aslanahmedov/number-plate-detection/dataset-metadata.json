@@ -1,0 +1,43 @@
+{
+  "id": "aslanahmedov/number-plate-detection",
+  "id_no": 2224491,
+  "datasetSlugNullable": "number-plate-detection",
+  "ownerUserNullable": "aslanahmedov",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Automatic Number Plate Recognition",
+  "subtitleNullable": "Detect License Plates With Inception-Resnet-V2  & Yolo Algorithm",
+  "descriptionNullable": "This dataset contains **453 files** - images in JPEG format with bounding box annotations of the car license plates within the image. Annotations are provided in the **PASCAL VOC** format. Pascal VOC(Visual Object Classes) is a format to store annotations for localizer or Object Detection datasets and is used by different annotation editors and tools to annotate, modify and train Machine Learning models. In PASCAL VOC format, for each image there is a xml annotation file containing image details, bounding box details, classes, rotation and other data. \n\n*All files you can find as well on my [GITHUB](https://github.com/Asikpalysik/Automatic-License-Plate-Detection)\nIf you find this post useful please __UPVOTE__, and if you have any question feel free to [CONTACT ME.](http://aslanahmedov.com)*",
+  "datasetId": 2224491,
+  "datasetSlug": "number-plate-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "aslanahmedov",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20448,
+  "totalVotes": 41,
+  "totalDownloads": 4267,
+  "title": "Automatic Number Plate Recognition",
+  "hasTitle": true,
+  "subtitle": "Detect License Plates With Inception-Resnet-V2  & Yolo Algorithm",
+  "hasSubtitle": true,
+  "description": "This dataset contains **453 files** - images in JPEG format with bounding box annotations of the car license plates within the image. Annotations are provided in the **PASCAL VOC** format. Pascal VOC(Visual Object Classes) is a format to store annotations for localizer or Object Detection datasets and is used by different annotation editors and tools to annotate, modify and train Machine Learning models. In PASCAL VOC format, for each image there is a xml annotation file containing image details, bounding box details, classes, rotation and other data. \n\n*All files you can find as well on my [GITHUB](https://github.com/Asikpalysik/Automatic-License-Plate-Detection)\nIf you find this post useful please __UPVOTE__, and if you have any question feel free to [CONTACT ME.](http://aslanahmedov.com)*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "intermediate",
+    "deep learning",
+    "dnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arnavvvvv/netflix-movies-and-tv-shows",
+  "id_no": 4538199,
+  "datasetSlugNullable": "netflix-movies-and-tv-shows",
+  "ownerUserNullable": "arnavvvvv",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Netflix Movies and TV Shows",
+  "subtitleNullable": "Dataset of Netflix Movies and TV Shows",
+  "descriptionNullable": "**Context**\n\n**Netflix Movies and TV Shows**\nNetflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more \u2013 on thousands of internet-connected devices.\n\nYou can watch as much as you want, whenever you want, without a single ad \u2013 all for one low monthly price. There's always something new to discover, and new TV shows and movies are added every week!\n\nEnjoy your favourite Movies and TV Shows",
+  "datasetId": 4538199,
+  "datasetSlug": "netflix-movies-and-tv-shows",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnavvvvv",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24828,
+  "totalVotes": 77,
+  "totalDownloads": 5572,
+  "title": "Netflix Movies and TV Shows",
+  "hasTitle": true,
+  "subtitle": "Dataset of Netflix Movies and TV Shows",
+  "hasSubtitle": true,
+  "description": "**Context**\n\n**Netflix Movies and TV Shows**\nNetflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more \u2013 on thousands of internet-connected devices.\n\nYou can watch as much as you want, whenever you want, without a single ad \u2013 all for one low monthly price. There's always something new to discover, and new TV shows and movies are added every week!\n\nEnjoy your favourite Movies and TV Shows",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

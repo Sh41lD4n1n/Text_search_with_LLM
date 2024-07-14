@@ -1,0 +1,39 @@
+{
+  "id": "axondata/liveness-detection-dataset-cutout-2d-attacks",
+  "id_no": 4926885,
+  "datasetSlugNullable": "liveness-detection-dataset-cutout-2d-attacks",
+  "ownerUserNullable": "axondata",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Liveness detection dataset: Cutout 2D attacks",
+  "subtitleNullable": "Face Spoofing dataset Cutout Mask: 1,5K+ participants ",
+  "descriptionNullable": "## Cutout Photo Print attack dataset (1,5K individuals+) for Presentation Attack Detection level 1 (PAD)\n## Contact us and share your feedback - recieve additional samples for free!\ud83d\ude0a\n\n\nThis dataset focuses on cutout photo print attacks which might be used by iBeta and NIST FATE to assess liveness detection algorithms. This dataset is tailored for training AI models to identify a variation of cutout 2D print attack. \n\n\n**Dataset Description**\n- 1,500+ Participants: Engaged in the project\n- Diverse Representation: Balanced mix of genders and ethnicities\n- 1,500+ Cutout Mask Attacks on the participants\n\n**Photo Print attack description**\n- Each attack comprises of 10-15 sec. video \n- High-quality cutout photos with realistic colors\n- Paper attacks conducted on flat photos with a straight view on the camera (not bent or skewed)\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n## Potential Use Cases:\n\nLiveness detection: This dataset is ideal for training and evaluating liveness detection models, enabling researchers to distinguish between selfies and photo cutout print mask with high accuracy\n\nKeywords: \nCutout Print photo attack dataset, Antispoofing for AI, Liveness Detection dataset for AI, Spoof Detection dataset, Facial Recognition dataset, Biometric Authentication dataset, AI Dataset, PAD Attack Dataset, Anti-Spoofing Technology, Facial Biometrics, Machine Learning Dataset, Deep Learning\n\n",
+  "datasetId": 4926885,
+  "datasetSlug": "liveness-detection-dataset-cutout-2d-attacks",
+  "hasDatasetSlug": true,
+  "ownerUser": "axondata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 170,
+  "totalVotes": 4,
+  "totalDownloads": 30,
+  "title": "Liveness detection dataset: Cutout 2D attacks",
+  "hasTitle": true,
+  "subtitle": "Face Spoofing dataset Cutout Mask: 1,5K+ participants ",
+  "hasSubtitle": true,
+  "description": "## Cutout Photo Print attack dataset (1,5K individuals+) for Presentation Attack Detection level 1 (PAD)\n## Contact us and share your feedback - recieve additional samples for free!\ud83d\ude0a\n\n\nThis dataset focuses on cutout photo print attacks which might be used by iBeta and NIST FATE to assess liveness detection algorithms. This dataset is tailored for training AI models to identify a variation of cutout 2D print attack. \n\n\n**Dataset Description**\n- 1,500+ Participants: Engaged in the project\n- Diverse Representation: Balanced mix of genders and ethnicities\n- 1,500+ Cutout Mask Attacks on the participants\n\n**Photo Print attack description**\n- Each attack comprises of 10-15 sec. video \n- High-quality cutout photos with realistic colors\n- Paper attacks conducted on flat photos with a straight view on the camera (not bent or skewed)\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n## Potential Use Cases:\n\nLiveness detection: This dataset is ideal for training and evaluating liveness detection models, enabling researchers to distinguish between selfies and photo cutout print mask with high accuracy\n\nKeywords: \nCutout Print photo attack dataset, Antispoofing for AI, Liveness Detection dataset for AI, Spoof Detection dataset, Facial Recognition dataset, Biometric Authentication dataset, AI Dataset, PAD Attack Dataset, Anti-Spoofing Technology, Facial Biometrics, Machine Learning Dataset, Deep Learning\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

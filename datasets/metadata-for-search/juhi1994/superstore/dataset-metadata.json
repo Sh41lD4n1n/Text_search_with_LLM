@@ -1,0 +1,43 @@
+{
+  "id": "juhi1994/superstore",
+  "id_no": 422303,
+  "datasetSlugNullable": "superstore",
+  "ownerUserNullable": "juhi1994",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "US Superstore data",
+  "subtitleNullable": "This dataset gives insights on online orders of a superstore in US",
+  "descriptionNullable": "**CONTEXT**\n\nThe online sector, referred to as \u201cclicks,\u201d has been slowly eating up market share in the past two decades. \n\nE-commerce platform allows people to buy products from books, toys, clothes, and shoes to food, furniture, and other household items.\n\n**CONTENT**\n\nThis is simple data set of US superstore from 2014-2018.\n\n**INSPIRATION**\n\n So,what questions can be answered looking at this data?\n\n- How much profit is gained for each product?\n- People from city/state shop the most?\n-Which customer is regular/loyal over the years?\n- Products having high discount rate?\n\nWould love to see your kernels too. Happy Kaggling !",
+  "datasetId": 422303,
+  "datasetSlug": "superstore",
+  "hasDatasetSlug": true,
+  "ownerUser": "juhi1994",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 81739,
+  "totalVotes": 89,
+  "totalDownloads": 13103,
+  "title": "US Superstore data",
+  "hasTitle": true,
+  "subtitle": "This dataset gives insights on online orders of a superstore in US",
+  "hasSubtitle": true,
+  "description": "**CONTEXT**\n\nThe online sector, referred to as \u201cclicks,\u201d has been slowly eating up market share in the past two decades. \n\nE-commerce platform allows people to buy products from books, toys, clothes, and shoes to food, furniture, and other household items.\n\n**CONTENT**\n\nThis is simple data set of US superstore from 2014-2018.\n\n**INSPIRATION**\n\n So,what questions can be answered looking at this data?\n\n- How much profit is gained for each product?\n- People from city/state shop the most?\n-Which customer is regular/loyal over the years?\n- Products having high discount rate?\n\nWould love to see your kernels too. Happy Kaggling !",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

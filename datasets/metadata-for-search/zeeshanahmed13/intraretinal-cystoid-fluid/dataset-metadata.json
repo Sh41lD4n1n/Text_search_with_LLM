@@ -1,0 +1,43 @@
+{
+  "id": "zeeshanahmed13/intraretinal-cystoid-fluid",
+  "id_no": 2277068,
+  "datasetSlugNullable": "intraretinal-cystoid-fluid",
+  "ownerUserNullable": "zeeshanahmed13",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Intraretinal Cystoid Fluid",
+  "subtitleNullable": "The diversified ocular disorder",
+  "descriptionNullable": "The dataset contains the Optical Coherence Tomography (OCT) images and their masks of Cystoid Macular Edema (CME) ocular disease for image segmentation purposes.\n\nAcquiring OCT data from Diabetic Macular Edema (DME) patients is difficult due to the lack of an open database from any ophthalmic hospital. Therefore, we obtained a database of retinal images available at [Retinal OCT Images](https://www.kaggle.com/datasets/paultimothymooney/kermany2018) in which we took a dataset of only DME subjects. From this dataset, only 1000 images were chosen by the medical experts at Liaquat University of Medical and Health Sciences (LUMHS) Jamshoro, that are trained to identify Cystoid Macular Edema (CME) and its progression and provide a confirmatory diagnosis of CME. Whereas 200 OCT images are taken with the consent of patients from the Institute of Ophthalmology, Jamshoro for the testing set. These OCT images were explicitly selected to contain several CME regions and a wide variety in their shapes and sizes which is utilized for both training and test sets to get better results.\n\nIn OCT images, the approach of semantic segmentation is that each pixel of an image is labeled with a corresponding clinical class representing a particular disease. The manual binary image masking was performed accordingly using the Image Segmentation application in MATLAB software offers a variety of tools (flood fill/draw freehand) for manually selecting an image region of interest (ROI). This was necessary for the training of our model to identify and isolate the CME and to validate the accuracy of digitally picked ROIs (CME). The pixels whose value is \u201c1\u201d in the mask image indicate the foreground, that is CME, and the pixels whose value is \u201c0\u201d in the mask image indicate the background.\nThese are the actual ground truth label image and for the given input DME image, the model must predict the labels.\n\nThis dataset has been arranged and categorized under the supervision of the medical experts at Liaquat University of Medical and Health Sciences (LUMHS) Jamshoro, Pakistan, that are trained to identify CME and its progression and provide a confirmatory diagnosis of CME.\n\n\n## **Cite Our Work as:** <br>\n#### **Research Paper**\n* Ahmed Z, Panhwar SQ, Baqai A, Umrani FA, Ahmed M, Khan A. Deep learning based automated detection of intraretinal cystoid fluid. Int J Imaging Syst Technol. 2021;1-16. https://doi.org/10.1002/ima.22662 \n\n#### **Dataset**\n* Zeeshan Ahmed, Munawar Ahmed, Attiya Baqai, & Fahim Aziz Umrani. (2022). <i>Intraretinal Cystoid Fluid</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2277068",
+  "datasetId": 2277068,
+  "datasetSlug": "intraretinal-cystoid-fluid",
+  "hasDatasetSlug": true,
+  "ownerUser": "zeeshanahmed13",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2929,
+  "totalVotes": 13,
+  "totalDownloads": 339,
+  "title": "Intraretinal Cystoid Fluid",
+  "hasTitle": true,
+  "subtitle": "The diversified ocular disorder",
+  "hasSubtitle": true,
+  "description": "The dataset contains the Optical Coherence Tomography (OCT) images and their masks of Cystoid Macular Edema (CME) ocular disease for image segmentation purposes.\n\nAcquiring OCT data from Diabetic Macular Edema (DME) patients is difficult due to the lack of an open database from any ophthalmic hospital. Therefore, we obtained a database of retinal images available at [Retinal OCT Images](https://www.kaggle.com/datasets/paultimothymooney/kermany2018) in which we took a dataset of only DME subjects. From this dataset, only 1000 images were chosen by the medical experts at Liaquat University of Medical and Health Sciences (LUMHS) Jamshoro, that are trained to identify Cystoid Macular Edema (CME) and its progression and provide a confirmatory diagnosis of CME. Whereas 200 OCT images are taken with the consent of patients from the Institute of Ophthalmology, Jamshoro for the testing set. These OCT images were explicitly selected to contain several CME regions and a wide variety in their shapes and sizes which is utilized for both training and test sets to get better results.\n\nIn OCT images, the approach of semantic segmentation is that each pixel of an image is labeled with a corresponding clinical class representing a particular disease. The manual binary image masking was performed accordingly using the Image Segmentation application in MATLAB software offers a variety of tools (flood fill/draw freehand) for manually selecting an image region of interest (ROI). This was necessary for the training of our model to identify and isolate the CME and to validate the accuracy of digitally picked ROIs (CME). The pixels whose value is \u201c1\u201d in the mask image indicate the foreground, that is CME, and the pixels whose value is \u201c0\u201d in the mask image indicate the background.\nThese are the actual ground truth label image and for the given input DME image, the model must predict the labels.\n\nThis dataset has been arranged and categorized under the supervision of the medical experts at Liaquat University of Medical and Health Sciences (LUMHS) Jamshoro, Pakistan, that are trained to identify CME and its progression and provide a confirmatory diagnosis of CME.\n\n\n## **Cite Our Work as:** <br>\n#### **Research Paper**\n* Ahmed Z, Panhwar SQ, Baqai A, Umrani FA, Ahmed M, Khan A. Deep learning based automated detection of intraretinal cystoid fluid. Int J Imaging Syst Technol. 2021;1-16. https://doi.org/10.1002/ima.22662 \n\n#### **Dataset**\n* Zeeshan Ahmed, Munawar Ahmed, Attiya Baqai, & Fahim Aziz Umrani. (2022). <i>Intraretinal Cystoid Fluid</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2277068",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "exploratory data analysis",
+    "data visualization",
+    "deep learning",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

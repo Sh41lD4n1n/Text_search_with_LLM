@@ -1,0 +1,42 @@
+{
+  "id": "fhabibimoghaddam/road-sign-recognition",
+  "id_no": 4425719,
+  "datasetSlugNullable": "road-sign-recognition",
+  "ownerUserNullable": "fhabibimoghaddam",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Road Sign Recognition",
+  "subtitleNullable": "Annotated Dataset for Traffic Sign Recognition",
+  "descriptionNullable": "Traffic sign recognition remains a critical component of autonomous driving systems, and datasets like this play a crucial role in advancing the field. \n\n**The Road Sign Recognition dataset** consists of **2863** open-source road sign images along with corresponding annotations. The dataset comprises three main folders: train, test, and valid. Each of these folders contains two subfolders: images and labels.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13064939%2F33061d77a80d4f92a54d5e0c84294b72%2FScreenshot%202024-02-10%20212947.png?generation=1707589276455069&alt=media)\n\n**The dataset covers nine essential road sign classes including:**\n\n1. SPEED LIMIT 20\n2. SPEED LIMIT 30\n3. SPEED LIMIT 50\n4. SPEED-LIMIT-60\n5. SPEED LIMIT 70\n6. SPEED-LIMIT-80\n7. SPEED LIMIT 100\n8. SPEED LIMIT 120\n9. STOP\n\nThe dataset is suitable for object detection tasks, particularly for training computer vision models to recognize and localize road signs.\ud83d\udea6\ud83d\uded1\ud83d\udeb8\n\n",
+  "datasetId": 4425719,
+  "datasetSlug": "road-sign-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "fhabibimoghaddam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3039,
+  "totalVotes": 34,
+  "totalDownloads": 395,
+  "title": "Road Sign Recognition",
+  "hasTitle": true,
+  "subtitle": "Annotated Dataset for Traffic Sign Recognition",
+  "hasSubtitle": true,
+  "description": "Traffic sign recognition remains a critical component of autonomous driving systems, and datasets like this play a crucial role in advancing the field. \n\n**The Road Sign Recognition dataset** consists of **2863** open-source road sign images along with corresponding annotations. The dataset comprises three main folders: train, test, and valid. Each of these folders contains two subfolders: images and labels.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13064939%2F33061d77a80d4f92a54d5e0c84294b72%2FScreenshot%202024-02-10%20212947.png?generation=1707589276455069&alt=media)\n\n**The dataset covers nine essential road sign classes including:**\n\n1. SPEED LIMIT 20\n2. SPEED LIMIT 30\n3. SPEED LIMIT 50\n4. SPEED-LIMIT-60\n5. SPEED LIMIT 70\n6. SPEED-LIMIT-80\n7. SPEED LIMIT 100\n8. SPEED LIMIT 120\n9. STOP\n\nThe dataset is suitable for object detection tasks, particularly for training computer vision models to recognize and localize road signs.\ud83d\udea6\ud83d\uded1\ud83d\udeb8\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

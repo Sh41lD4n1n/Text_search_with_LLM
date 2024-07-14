@@ -1,0 +1,41 @@
+{
+  "id": "arashnic/7-nlp-tasks-with-tweets",
+  "id_no": 1037725,
+  "datasetSlugNullable": "7-nlp-tasks-with-tweets",
+  "ownerUserNullable": "arashnic",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Seven NLP Tasks With Twitter Datasets ",
+  "subtitleNullable": "Multi-class tweet classification",
+  "descriptionNullable": "### Context \n\nThe experimental landscape in natural language processing for social media is too fragmented. Each year, new shared tasks and datasets are proposed, ranging from classics like sentiment analysis to irony detection or emoji prediction. Therefore, it is unclear what the current state of the art is, as there is\nno standardized evaluation protocol, neither a strong set of baselines trained on such domainspecific data. The propose of this dataset is presenting  evaluation  consisting of seven heterogeneous Twitter-specific classification tasks. \n# \n\n\n### Content\n\nThis dattaset consists of seven heterogenous tasks in Twitter, all framed as multi-class tweet classification. Each dataset presented in the same format and with fixed training, validation and test splits.\n\n\n### Acknowledgements\n\n[Unified Benchmark and Comparative Evaluation for Tweet Classification](https://arxiv.org/pdf/2010.12421.pdf)\nFrancesco Barbieri\u2663 Jose Camacho-Collados\u2020\nLeonardo Neves\u2663 Luis Espinosa-Anke\u2020\n\n\n### Inspiration\n\n- Emotion Recognition, \n- Emoji Prediction,\n- Irony Detection,\n- Hate Speech Detection,\n- Offensive Language Identification,\n- Sentiment Analysis, \n- Stance Detection.\n\n#  <hr style=\"border: 2px solid gray\"> \n#### *If you find the data useful your **upvote** is an explicit feedback for future works, Have fun exploring data!*",
+  "datasetId": 1037725,
+  "datasetSlug": "7-nlp-tasks-with-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "arashnic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7508,
+  "totalVotes": 14,
+  "totalDownloads": 504,
+  "title": "Seven NLP Tasks With Twitter Datasets ",
+  "hasTitle": true,
+  "subtitle": "Multi-class tweet classification",
+  "hasSubtitle": true,
+  "description": "### Context \n\nThe experimental landscape in natural language processing for social media is too fragmented. Each year, new shared tasks and datasets are proposed, ranging from classics like sentiment analysis to irony detection or emoji prediction. Therefore, it is unclear what the current state of the art is, as there is\nno standardized evaluation protocol, neither a strong set of baselines trained on such domainspecific data. The propose of this dataset is presenting  evaluation  consisting of seven heterogeneous Twitter-specific classification tasks. \n# \n\n\n### Content\n\nThis dattaset consists of seven heterogenous tasks in Twitter, all framed as multi-class tweet classification. Each dataset presented in the same format and with fixed training, validation and test splits.\n\n\n### Acknowledgements\n\n[Unified Benchmark and Comparative Evaluation for Tweet Classification](https://arxiv.org/pdf/2010.12421.pdf)\nFrancesco Barbieri\u2663 Jose Camacho-Collados\u2020\nLeonardo Neves\u2663 Luis Espinosa-Anke\u2020\n\n\n### Inspiration\n\n- Emotion Recognition, \n- Emoji Prediction,\n- Irony Detection,\n- Hate Speech Detection,\n- Offensive Language Identification,\n- Sentiment Analysis, \n- Stance Detection.\n\n#  <hr style=\"border: 2px solid gray\"> \n#### *If you find the data useful your **upvote** is an explicit feedback for future works, Have fun exploring data!*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

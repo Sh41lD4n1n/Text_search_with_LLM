@@ -1,0 +1,43 @@
+{
+  "id": "tapakah68/anti-spoofing",
+  "id_no": 2298829,
+  "datasetSlugNullable": "anti-spoofing",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anti-Spoofing Dataset, 30,000 sets",
+  "subtitleNullable": "Biometric Attack dataset for the anti-spoofing task",
+  "descriptionNullable": "# Anti-Spoofing dataset: live, replay, printouts - large-scale face anti spoofing\nThe dataset consists of 98,000 videos and selfies with unique people. 30,000+ attack replays from 4,000+ unique devices. 10,000+ attacks with A4 printouts and 10,000+ attacks with cut-out printouts.\n\nThe videos were gathered by capturing faces of genuine individuals presenting spoofs, using facial presentations for face anti spoofing. Our dataset proposes a novel approach that learns and detects spoofing techniques, extracting features from the genuine facial images to prevent the capturing of such information by fake users.\n\nThe dataset contains images and videos of real humans with various **resolutions, views, and colors**, making it a comprehensive resource for researchers working on anti-spoofing technologies.\n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 98,000+ files, leave a request on **[TrainingData](https://trainingdata.pro/datasets/anti-spoofing-real?utm_source=kaggle&utm_medium=cpc&utm_campaign=anti-spoofing)** to buy the dataset\n\n# Content\n\nThe dataset includes 4 folders:\n\n- cut-out printouts - videos with cut-out printouts \n- live_selfie -  selfies with unique people\n- live_video - videos with unique people\n- printouts - videos with A4 printouts\n- replay - videos of videos in replay\n\nThe dataset provides data to combine and apply different techniques, approaches, and models to address the challenging task of distinguishing between genuine and spoofed inputs, providing effective anti-spoofing solutions in active authentication systems. These solutions are crucial as newer devices, such as phones, have become vulnerable to spoofing attacks due to the availability of technologies that can create replays, reflections, and depths, making them susceptible to spoofing and generalization.\n\nOur dataset also explores the use of neural architectures, such as deep neural networks, to facilitate the identification of distinguishing patterns and textures in different regions of the face, increasing the accuracy and generalizability of the anti-spoofing models.\n\n![](https://sun9-86.userapi.com/impg/QAf1WkODGdeieXN8IWT0VAmsX0IusL6ToxjGTw/7Elubi9TsAs.jpg?size=2560x926&quality=95&sign=d6a86575c8547c769894c0bb7521dcba&type=album)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/anti-spoofing-real?utm_source=kaggle&utm_medium=cpc&utm_campaign=anti-spoofing)** to discuss your requirements, learn about the price and buy the dataset.\n\n# **[TrainingData](https://trainingdata.pro/datasets/anti-spoofing-real?utm_source=kaggle&utm_medium=cpc&utm_campaign=anti-spoofing)** provides high-quality data annotation tailored to your needs.\n\n*keywords: ibeta level 1, ibeta level 2, liveness detection systems, liveness detection dataset, biometric dataset, biometric data dataset, biometric system attacks, anti-spoofing dataset, face liveness detection, deep learning dataset, face spoofing database, face anti-spoofing, face detection, face identification, face recognition, human video dataset, video dataset, video replay attack, replay attack dataset, replay attack database, replay mobile dataset, video attack attempts, face recognition, computer vision, machine learning, presentation attack detection, presentation attack dataset, 2d print attacks, print 2d attacks dataset, rich annotations anti spoofing dataset*",
+  "datasetId": 2298829,
+  "datasetSlug": "anti-spoofing",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12099,
+  "totalVotes": 32,
+  "totalDownloads": 1539,
+  "title": "Anti-Spoofing Dataset, 30,000 sets",
+  "hasTitle": true,
+  "subtitle": "Biometric Attack dataset for the anti-spoofing task",
+  "hasSubtitle": true,
+  "description": "# Anti-Spoofing dataset: live, replay, printouts - large-scale face anti spoofing\nThe dataset consists of 98,000 videos and selfies with unique people. 30,000+ attack replays from 4,000+ unique devices. 10,000+ attacks with A4 printouts and 10,000+ attacks with cut-out printouts.\n\nThe videos were gathered by capturing faces of genuine individuals presenting spoofs, using facial presentations for face anti spoofing. Our dataset proposes a novel approach that learns and detects spoofing techniques, extracting features from the genuine facial images to prevent the capturing of such information by fake users.\n\nThe dataset contains images and videos of real humans with various **resolutions, views, and colors**, making it a comprehensive resource for researchers working on anti-spoofing technologies.\n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 98,000+ files, leave a request on **[TrainingData](https://trainingdata.pro/datasets/anti-spoofing-real?utm_source=kaggle&utm_medium=cpc&utm_campaign=anti-spoofing)** to buy the dataset\n\n# Content\n\nThe dataset includes 4 folders:\n\n- cut-out printouts - videos with cut-out printouts \n- live_selfie -  selfies with unique people\n- live_video - videos with unique people\n- printouts - videos with A4 printouts\n- replay - videos of videos in replay\n\nThe dataset provides data to combine and apply different techniques, approaches, and models to address the challenging task of distinguishing between genuine and spoofed inputs, providing effective anti-spoofing solutions in active authentication systems. These solutions are crucial as newer devices, such as phones, have become vulnerable to spoofing attacks due to the availability of technologies that can create replays, reflections, and depths, making them susceptible to spoofing and generalization.\n\nOur dataset also explores the use of neural architectures, such as deep neural networks, to facilitate the identification of distinguishing patterns and textures in different regions of the face, increasing the accuracy and generalizability of the anti-spoofing models.\n\n![](https://sun9-86.userapi.com/impg/QAf1WkODGdeieXN8IWT0VAmsX0IusL6ToxjGTw/7Elubi9TsAs.jpg?size=2560x926&quality=95&sign=d6a86575c8547c769894c0bb7521dcba&type=album)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/anti-spoofing-real?utm_source=kaggle&utm_medium=cpc&utm_campaign=anti-spoofing)** to discuss your requirements, learn about the price and buy the dataset.\n\n# **[TrainingData](https://trainingdata.pro/datasets/anti-spoofing-real?utm_source=kaggle&utm_medium=cpc&utm_campaign=anti-spoofing)** provides high-quality data annotation tailored to your needs.\n\n*keywords: ibeta level 1, ibeta level 2, liveness detection systems, liveness detection dataset, biometric dataset, biometric data dataset, biometric system attacks, anti-spoofing dataset, face liveness detection, deep learning dataset, face spoofing database, face anti-spoofing, face detection, face identification, face recognition, human video dataset, video dataset, video replay attack, replay attack dataset, replay attack database, replay mobile dataset, video attack attempts, face recognition, computer vision, machine learning, presentation attack detection, presentation attack dataset, 2d print attacks, print 2d attacks dataset, rich annotations anti spoofing dataset*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "deep learning",
+    "image",
+    "video"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

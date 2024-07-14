@@ -1,0 +1,42 @@
+{
+  "id": "tharindumadhusanka9/derana-news",
+  "id_no": 5248280,
+  "datasetSlugNullable": "derana-news",
+  "ownerUserNullable": "tharindumadhusanka9",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Derana News",
+  "subtitleNullable": "Sinhala Ada Derana News Articles Dataset (2008-2024) over 200,000 articles",
+  "descriptionNullable": "# Sinhala Ada Derana News Articles Dataset (2008-2024)\n\nThis dataset is a comprehensive collection of news articles from [Sinhala Ada Derana](https://sinhala.adaderana.lk/), spanning from 2008 to 2024. It includes **over 200,000** articles, offering a rich resource for a variety of applications in both machine learning and non-machine learning domains.\n\n## Dataset Features:\n- **ID:** Unique identifier for each news article from the website.\n- **Title:** The title of the news article.\n- **Description:** The full text of the news article.\n- **Date:** The publication date of the news article.\n- **URL:** The URL of the image associated with the news article.\n\n## Potential Uses:\n1. **Natural Language Processing (NLP):**\n   - Sentiment analysis\n   - Topic modeling\n   - Named entity recognition\n   - Language translation\n   - Text summarization\n\n2. **Machine Learning:**\n   - Embedding generation\n   - News classification\n   - Fake news detection\n\n3. **Non-Machine Learning Applications:**\n   - Historical analysis\n   - Media studies\n   - Sociopolitical research\n\n## Additional Information:\n- **Historical Context:** This dataset provides a detailed view of the historical news landscape in Sri Lanka, capturing the socio-political and cultural narratives over a significant period.\n- **Data Format:** The dataset is structured in a user-friendly format, making it easy to parse and analyze.\n\nThis dataset serves as a valuable resource for researchers, data scientists, and anyone interested in the evolution of news media in Sri Lanka. It provides insights into the past events, public sentiment, and media trends in the country, offering a broad range of possibilities for analysis and application.\n\nFeel free to explore, analyze, and build upon this dataset to uncover interesting patterns and insights.\n",
+  "datasetId": 5248280,
+  "datasetSlug": "derana-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "tharindumadhusanka9",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 66,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Derana News",
+  "hasTitle": true,
+  "subtitle": "Sinhala Ada Derana News Articles Dataset (2008-2024) over 200,000 articles",
+  "hasSubtitle": true,
+  "description": "# Sinhala Ada Derana News Articles Dataset (2008-2024)\n\nThis dataset is a comprehensive collection of news articles from [Sinhala Ada Derana](https://sinhala.adaderana.lk/), spanning from 2008 to 2024. It includes **over 200,000** articles, offering a rich resource for a variety of applications in both machine learning and non-machine learning domains.\n\n## Dataset Features:\n- **ID:** Unique identifier for each news article from the website.\n- **Title:** The title of the news article.\n- **Description:** The full text of the news article.\n- **Date:** The publication date of the news article.\n- **URL:** The URL of the image associated with the news article.\n\n## Potential Uses:\n1. **Natural Language Processing (NLP):**\n   - Sentiment analysis\n   - Topic modeling\n   - Named entity recognition\n   - Language translation\n   - Text summarization\n\n2. **Machine Learning:**\n   - Embedding generation\n   - News classification\n   - Fake news detection\n\n3. **Non-Machine Learning Applications:**\n   - Historical analysis\n   - Media studies\n   - Sociopolitical research\n\n## Additional Information:\n- **Historical Context:** This dataset provides a detailed view of the historical news landscape in Sri Lanka, capturing the socio-political and cultural narratives over a significant period.\n- **Data Format:** The dataset is structured in a user-friendly format, making it easy to parse and analyze.\n\nThis dataset serves as a valuable resource for researchers, data scientists, and anyone interested in the evolution of news media in Sri Lanka. It provides insights into the past events, public sentiment, and media trends in the country, offering a broad range of possibilities for analysis and application.\n\nFeel free to explore, analyze, and build upon this dataset to uncover interesting patterns and insights.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "news",
+    "sinhalese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

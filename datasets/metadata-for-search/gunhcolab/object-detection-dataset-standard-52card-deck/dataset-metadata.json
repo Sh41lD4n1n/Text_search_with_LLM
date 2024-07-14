@@ -1,0 +1,48 @@
+{
+  "id": "gunhcolab/object-detection-dataset-standard-52card-deck",
+  "id_no": 912793,
+  "datasetSlugNullable": "object-detection-dataset-standard-52card-deck",
+  "ownerUserNullable": "gunhcolab",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Playing Cards Images - Object Detection Dataset ",
+  "subtitleNullable": "Data of \"Standard 52-Card Deck\". (Labelled Images, XML files, train/test CSVs)",
+  "descriptionNullable": "### Context\nThis project is our venture to create an **object detection dataset** from the scratch \ud83d\ude04 \n\n\n### Content\n\nThe rows contain the various entries and their respective attributes.\n**Features:**\nThere are columns which represent the Filename, Width, Height, Class, Xmin, Ymin, Xmax and Ymax as the Features\n**Targets**\n'[ace, jack, king, queen, two, three, four, five, six, seven, eight, nine, ten] of [diamonds, spades, clubs, hearts]'\n(52 targets in total)\n\n### Acknowledgements\n\nWe used deep file and downloaded the required set from Google.\nAfter that, the data was debugged, the unimportant ones were eliminated and the noise was basically reduced. The same sized images were kept in folders, arranged class wise.\nFor the next step, we chose **LableImg** for the labelling and annotation. Once the labelling was complete, the corresponding .xml files were generated for the data.\n\n### Inspiration\n\n",
+  "datasetId": 912793,
+  "datasetSlug": "object-detection-dataset-standard-52card-deck",
+  "hasDatasetSlug": true,
+  "ownerUser": "gunhcolab",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 11010,
+  "totalVotes": 20,
+  "totalDownloads": 1244,
+  "title": "Playing Cards Images - Object Detection Dataset ",
+  "hasTitle": true,
+  "subtitle": "Data of \"Standard 52-Card Deck\". (Labelled Images, XML files, train/test CSVs)",
+  "hasSubtitle": true,
+  "description": "### Context\nThis project is our venture to create an **object detection dataset** from the scratch \ud83d\ude04 \n\n\n### Content\n\nThe rows contain the various entries and their respective attributes.\n**Features:**\nThere are columns which represent the Filename, Width, Height, Class, Xmin, Ymin, Xmax and Ymax as the Features\n**Targets**\n'[ace, jack, king, queen, two, three, four, five, six, seven, eight, nine, ten] of [diamonds, spades, clubs, hearts]'\n(52 targets in total)\n\n### Acknowledgements\n\nWe used deep file and downloaded the required set from Google.\nAfter that, the data was debugged, the unimportant ones were eliminated and the noise was basically reduced. The same sized images were kept in folders, arranged class wise.\nFor the next step, we chose **LableImg** for the labelling and annotation. Once the labelling was complete, the corresponding .xml files were generated for the data.\n\n### Inspiration\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "education",
+    "internet",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "bsmeghma",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

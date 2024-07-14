@@ -1,0 +1,40 @@
+{
+  "id": "fusicfenta/cat-and-dog",
+  "id_no": 704426,
+  "datasetSlugNullable": "cat-and-dog",
+  "ownerUserNullable": "fusicfenta",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Cat and Dog",
+  "subtitleNullable": "Classification of Dog or Cat",
+  "descriptionNullable": "",
+  "datasetId": 704426,
+  "datasetSlug": "cat-and-dog",
+  "hasDatasetSlug": true,
+  "ownerUser": "fusicfenta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 4445,
+  "totalVotes": 4,
+  "totalDownloads": 588,
+  "title": "Cat and Dog",
+  "hasTitle": true,
+  "subtitle": "Classification of Dog or Cat",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

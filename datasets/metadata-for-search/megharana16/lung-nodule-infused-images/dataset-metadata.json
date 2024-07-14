@@ -1,0 +1,40 @@
+{
+  "id": "megharana16/lung-nodule-infused-images",
+  "id_no": 4928136,
+  "datasetSlugNullable": "lung-nodule-infused-images",
+  "ownerUserNullable": "megharana16",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Lung nodule infused images",
+  "subtitleNullable": "Infusing Tumor Masks for Enhanced Classification",
+  "descriptionNullable": "It provides a brief overview of the recent developments in tumor classification approaches, tumor shape and size detection techniques. The aim is to generate imposed images for future classification by fusing the tumor mask with image pixels.\n\n**Refer:** M. Rana and M. Bhushan, \"Effective Tumor Diagnosis based on Shape and Size of Tumor,\" 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-6, doi: [10.1109/ICCCNT56998.2023.10308022](url).",
+  "datasetId": 4928136,
+  "datasetSlug": "lung-nodule-infused-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "megharana16",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 36,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Lung nodule infused images",
+  "hasTitle": true,
+  "subtitle": "Infusing Tumor Masks for Enhanced Classification",
+  "hasSubtitle": true,
+  "description": "It provides a brief overview of the recent developments in tumor classification approaches, tumor shape and size detection techniques. The aim is to generate imposed images for future classification by fusing the tumor mask with image pixels.\n\n**Refer:** M. Rana and M. Bhushan, \"Effective Tumor Diagnosis based on Shape and Size of Tumor,\" 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-6, doi: [10.1109/ICCCNT56998.2023.10308022](url).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

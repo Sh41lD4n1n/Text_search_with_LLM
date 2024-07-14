@@ -1,0 +1,43 @@
+{
+  "id": "robikscube/ubiquant-parquet",
+  "id_no": 1875082,
+  "datasetSlugNullable": "ubiquant-parquet",
+  "ownerUserNullable": "robikscube",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Ubiquant Competition Data in Parquet Format",
+  "subtitleNullable": "Parquet and split files for the Ubiquant competition",
+  "descriptionNullable": "# Parquet format of the Ubiquant dataset\n\nUse parquet instead of csv for fast data loading and low memory use!",
+  "datasetId": 1875082,
+  "datasetSlug": "ubiquant-parquet",
+  "hasDatasetSlug": true,
+  "ownerUser": "robikscube",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 24337,
+  "totalVotes": 308,
+  "totalDownloads": 5218,
+  "title": "Ubiquant Competition Data in Parquet Format",
+  "hasTitle": true,
+  "subtitle": "Parquet and split files for the Ubiquant competition",
+  "hasSubtitle": true,
+  "description": "# Parquet format of the Ubiquant dataset\n\nUse parquet instead of csv for fast data loading and low memory use!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "banking",
+    "time series analysis",
+    "investing",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

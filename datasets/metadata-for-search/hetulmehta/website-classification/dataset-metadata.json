@@ -1,0 +1,43 @@
+{
+  "id": "hetulmehta/website-classification",
+  "id_no": 1317934,
+  "datasetSlugNullable": "website-classification",
+  "ownerUserNullable": "hetulmehta",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Website Classification",
+  "subtitleNullable": "classify website URLs to different categories",
+  "descriptionNullable": "### Context\n\nThis dataset was created by scraping different websites and then classifying them into different categories based on the extracted text.\n\n\n### Content\n\nBelow are the values each column has. The column names are pretty self-explanatory.\nwebsite_url: URL link of the website.\ncleaned_website_text: the cleaned text content extracted from the ",
+  "datasetId": 1317934,
+  "datasetSlug": "website-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "hetulmehta",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 46800,
+  "totalVotes": 85,
+  "totalDownloads": 4437,
+  "title": "Website Classification",
+  "hasTitle": true,
+  "subtitle": "classify website URLs to different categories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created by scraping different websites and then classifying them into different categories based on the extracted text.\n\n\n### Content\n\nBelow are the values each column has. The column names are pretty self-explanatory.\nwebsite_url: URL link of the website.\ncleaned_website_text: the cleaned text content extracted from the ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "data visualization",
+    "classification",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

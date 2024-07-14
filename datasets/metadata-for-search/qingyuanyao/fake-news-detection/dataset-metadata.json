@@ -1,0 +1,37 @@
+{
+  "id": "qingyuanyao/fake-news-detection",
+  "id_no": 5037251,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "qingyuanyao",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Fake_News_Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5037251,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "qingyuanyao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 47,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Fake_News_Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

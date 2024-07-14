@@ -1,0 +1,37 @@
+{
+  "id": "tatuldanielyan/armenian-news",
+  "id_no": 5274202,
+  "datasetSlugNullable": "armenian-news",
+  "ownerUserNullable": "tatuldanielyan",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "armenian_news",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5274202,
+  "datasetSlug": "armenian-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "tatuldanielyan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "armenian_news",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

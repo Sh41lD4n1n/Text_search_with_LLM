@@ -1,0 +1,39 @@
+{
+  "id": "ananthu017/squad-csv-format",
+  "id_no": 60333,
+  "datasetSlugNullable": "squad-csv-format",
+  "ownerUserNullable": "ananthu017",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Question Answering Dataset",
+  "subtitleNullable": "SQuAD2.0 train data (CSV)",
+  "descriptionNullable": "SQuAD 2.0 train dataset converted from JSON to CSV data. The dataset can be used to built complex open QA systems.\n\nSource - https://rajpurkar.github.io/SQuAD-explorer/",
+  "datasetId": 60333,
+  "datasetSlug": "squad-csv-format",
+  "hasDatasetSlug": true,
+  "ownerUser": "ananthu017",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20707,
+  "totalVotes": 21,
+  "totalDownloads": 2241,
+  "title": "Question Answering Dataset",
+  "hasTitle": true,
+  "subtitle": "SQuAD2.0 train data (CSV)",
+  "hasSubtitle": true,
+  "description": "SQuAD 2.0 train dataset converted from JSON to CSV data. The dataset can be used to built complex open QA systems.\n\nSource - https://rajpurkar.github.io/SQuAD-explorer/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

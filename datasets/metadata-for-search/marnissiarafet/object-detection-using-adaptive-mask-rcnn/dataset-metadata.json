@@ -1,0 +1,37 @@
+{
+  "id": "marnissiarafet/object-detection-using-adaptive-mask-rcnn",
+  "id_no": 5108688,
+  "datasetSlugNullable": "object-detection-using-adaptive-mask-rcnn",
+  "ownerUserNullable": "marnissiarafet",
+  "usabilityRatingNullable": 0.0,
+  "titleNullable": "Object Detection Using Adaptive Mask RCNN",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5108688,
+  "datasetSlug": "object-detection-using-adaptive-mask-rcnn",
+  "hasDatasetSlug": true,
+  "ownerUser": "marnissiarafet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Object Detection Using Adaptive Mask RCNN",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

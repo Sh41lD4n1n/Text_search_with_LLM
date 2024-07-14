@@ -1,0 +1,40 @@
+{
+  "id": "marquis03/cats-and-dogs",
+  "id_no": 3917177,
+  "datasetSlugNullable": "cats-and-dogs",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cats and Dogs",
+  "subtitleNullable": "Simple Cats and Dogs Binary Classification Dataset",
+  "descriptionNullable": "This dataset is a simple cat and dog binary classification dataset with 2 categories, where the training set contains 275 annotated images and the validation set contains 70 annotated images. The whole dataset is 10.3MB in total, which can be used for fast model validation, performance evaluation, small dataset training and so on.",
+  "datasetId": 3917177,
+  "datasetSlug": "cats-and-dogs",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16837,
+  "totalVotes": 47,
+  "totalDownloads": 3278,
+  "title": "Cats and Dogs",
+  "hasTitle": true,
+  "subtitle": "Simple Cats and Dogs Binary Classification Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset is a simple cat and dog binary classification dataset with 2 categories, where the training set contains 275 annotated images and the validation set contains 70 annotated images. The whole dataset is 10.3MB in total, which can be used for fast model validation, performance evaluation, small dataset training and so on.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pulavendranselvaraj/multiclass-hand-gesture-recognition",
+  "id_no": 2831761,
+  "datasetSlugNullable": "multiclass-hand-gesture-recognition",
+  "ownerUserNullable": "pulavendranselvaraj",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Multiclass hand gesture recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2831761,
+  "datasetSlug": "multiclass-hand-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "pulavendranselvaraj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 511,
+  "totalVotes": 13,
+  "totalDownloads": 65,
+  "title": "Multiclass hand gesture recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

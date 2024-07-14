@@ -1,0 +1,40 @@
+{
+  "id": "suraj520/carla-object-detection-dataset",
+  "id_no": 4092187,
+  "datasetSlugNullable": "carla-object-detection-dataset",
+  "ownerUserNullable": "suraj520",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Carla Object Detection Dataset",
+  "subtitleNullable": "object detection dataset scraped using carla simulator",
+  "descriptionNullable": "### About the Dataset\n\n**Carla Object Detection Dataset**\n\n**Description:**\n\nThe Carla Object Detection Dataset is a labeled dataset designed for object detection tasks within the Carla Simulator environment. The images were captured using the autopilot mode in Carla Simulator across various environments, including Town01, Town02, Town03, Town04, and Town05. Frames were saved at regular intervals during simulation, providing diverse scenes for training and evaluation.\n\n**Labels:**\n\nEach image in the dataset is accompanied by annotation files in three different formats:\n\n1. Pascal VOC Format: XML files containing labels are stored in the `labels` folder.\n2. YOLO Format: YOLO-formatted label files can be found in the `labels_yolo_format` folder.\n3. MS COCO Format: JSON files with annotations in MS COCO format are located in the `annotations` folder.\n\n**Available Classes:**\n\nThe dataset includes the following object classes:\n\n1. Vehicle (Car, Truck)\n2. Bike\n3. Motorbike\n4. Traffic Light\n5. Traffic Sign\n\nThe Carla Object Detection Dataset is tailored for training and evaluating object detection models, specifically designed for the Carla Simulator environment. It finds relevance in various applications, including:\n\n1. **Autonomous Vehicle Development:** Use the dataset to train object detection models for autonomous vehicles navigating simulated environments.\n\n2. **Computer Vision Research:** Leverage the labeled data to advance research in computer vision, object detection, and semantic segmentation.\n\n3. **Algorithm Testing and Benchmarking:** Evaluate and benchmark your object detection algorithms in a controlled and dynamic simulation setting.\n\n4. **Education and Learning:** Use the dataset for educational purposes to teach and learn about object detection techniques in the context of self-driving simulations.",
+  "datasetId": 4092187,
+  "datasetSlug": "carla-object-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "suraj520",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 844,
+  "totalVotes": 5,
+  "totalDownloads": 82,
+  "title": "Carla Object Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "object detection dataset scraped using carla simulator",
+  "hasSubtitle": true,
+  "description": "### About the Dataset\n\n**Carla Object Detection Dataset**\n\n**Description:**\n\nThe Carla Object Detection Dataset is a labeled dataset designed for object detection tasks within the Carla Simulator environment. The images were captured using the autopilot mode in Carla Simulator across various environments, including Town01, Town02, Town03, Town04, and Town05. Frames were saved at regular intervals during simulation, providing diverse scenes for training and evaluation.\n\n**Labels:**\n\nEach image in the dataset is accompanied by annotation files in three different formats:\n\n1. Pascal VOC Format: XML files containing labels are stored in the `labels` folder.\n2. YOLO Format: YOLO-formatted label files can be found in the `labels_yolo_format` folder.\n3. MS COCO Format: JSON files with annotations in MS COCO format are located in the `annotations` folder.\n\n**Available Classes:**\n\nThe dataset includes the following object classes:\n\n1. Vehicle (Car, Truck)\n2. Bike\n3. Motorbike\n4. Traffic Light\n5. Traffic Sign\n\nThe Carla Object Detection Dataset is tailored for training and evaluating object detection models, specifically designed for the Carla Simulator environment. It finds relevance in various applications, including:\n\n1. **Autonomous Vehicle Development:** Use the dataset to train object detection models for autonomous vehicles navigating simulated environments.\n\n2. **Computer Vision Research:** Leverage the labeled data to advance research in computer vision, object detection, and semantic segmentation.\n\n3. **Algorithm Testing and Benchmarking:** Evaluate and benchmark your object detection algorithms in a controlled and dynamic simulation setting.\n\n4. **Education and Learning:** Use the dataset for educational purposes to teach and learn about object detection techniques in the context of self-driving simulations.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

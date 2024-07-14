@@ -1,0 +1,44 @@
+{
+  "id": "saumyapatel/traffic-vehicles-object-detection",
+  "id_no": 1615118,
+  "datasetSlugNullable": "traffic-vehicles-object-detection",
+  "ownerUserNullable": "saumyapatel",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Traffic vehicles Object Detection",
+  "subtitleNullable": "Labelled Images of transport vehicles and number plates ",
+  "descriptionNullable": "### Content\n\nThe dataset contains labeled images of transport vehicles and number plates using LabelImg in YOLOv5 format. \n\nI first collected some 1000 training images of traffic, vehicles and number plates, and CCTV footage videos. Then I extracted frames from videos using OpenCV. Drew a box around each object that we want the detector to see and label each box with the object class that we would like the detector to predict.\n\nThere are many labeling tools available online, the one used by us was LabelImg. It is a free, open-source tool for graphically labeling images. It\u2019s written in Python and uses QT for its graphical interface. \n\nThe images were labeled under 7 classes \u2013 Car, Number Plate, Blur Number Plate, Two Wheeler, Auto, Bus, and Truck in YOLOv5 format\n\n\n### Inspiration\n\nUse the given dataset in classification problems \nUse CNN and YOLOv5 model to detect the objects labeled in the given dataset",
+  "datasetId": 1615118,
+  "datasetSlug": "traffic-vehicles-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "saumyapatel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 16251,
+  "totalVotes": 20,
+  "totalDownloads": 1819,
+  "title": "Traffic vehicles Object Detection",
+  "hasTitle": true,
+  "subtitle": "Labelled Images of transport vehicles and number plates ",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe dataset contains labeled images of transport vehicles and number plates using LabelImg in YOLOv5 format. \n\nI first collected some 1000 training images of traffic, vehicles and number plates, and CCTV footage videos. Then I extracted frames from videos using OpenCV. Drew a box around each object that we want the detector to see and label each box with the object class that we would like the detector to predict.\n\nThere are many labeling tools available online, the one used by us was LabelImg. It is a free, open-source tool for graphically labeling images. It\u2019s written in Python and uses QT for its graphical interface. \n\nThe images were labeled under 7 classes \u2013 Car, Number Plate, Blur Number Plate, Two Wheeler, Auto, Bus, and Truck in YOLOv5 format\n\n\n### Inspiration\n\nUse the given dataset in classification problems \nUse CNN and YOLOv5 model to detect the objects labeled in the given dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "automobiles and vehicles",
+    "intermediate",
+    "computer vision",
+    "image",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

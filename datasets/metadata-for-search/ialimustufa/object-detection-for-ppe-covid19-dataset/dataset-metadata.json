@@ -1,0 +1,51 @@
+{
+  "id": "ialimustufa/object-detection-for-ppe-covid19-dataset",
+  "id_no": 794587,
+  "datasetSlugNullable": "object-detection-for-ppe-covid19-dataset",
+  "ownerUserNullable": "ialimustufa",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "COVID-19 PPE Dataset for Object Detection",
+  "subtitleNullable": "We have curated and labeled the dataset for object detection for PPE for COVID19",
+  "descriptionNullable": "### Our Paper is out here: https://arxiv.org/abs/2112.09569\n\n### We have launched a new version of the dataset so please refer it here: https://github.com/Rishit-dagli/CPPE-Dataset/\n\n### COVID-19 Personal Protective Equipment (PPE) Detection Dataset for Our COVID-19 Warriors\n\nWe wanted to do something for our COVID Warriors and hence decided to detect the PPE kit(Mask, Face Sheild, Full Cover, Gloves, Goggles) which they wear before entering a Ward using Machine Learning so that anyone without a PPE can be detected and doesn't incidentally get into a COVID ward. The Dataset didn't exist so we decided to create one.\n\n### About Data\n\nWe have collected data from Google Image Search and Images extracted using Youtube Video (Tutorials showing how to wear PPE). It was then labeled for 5 Classes(Mask, Face Sheild, Full Cover, Gloves, Goggles) using LabelImage.\n\nWe have included a sample trained model and TensorFlow record files.\n\n### Acknowledgements\n\nWe thank all these Youtube Videos, Newspaper cuttings with PPE kits, and public images available on Google Search.\n1. https://youtu.be/eCcX1oIIXPE\n2. https://youtu.be/R8lmIdLHEgI\n3. https://youtu.be/FrauHnD9pPU\n4. https://youtu.be/H4jQUBAlBrI\n\n### Inspiration\n\nWe would love to see how the Kaggle community would utilize this dataset! We have trained a model which gives us good results (find it in the model folder)",
+  "datasetId": 794587,
+  "datasetSlug": "object-detection-for-ppe-covid19-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ialimustufa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 24396,
+  "totalVotes": 25,
+  "totalDownloads": 1928,
+  "title": "COVID-19 PPE Dataset for Object Detection",
+  "hasTitle": true,
+  "subtitle": "We have curated and labeled the dataset for object detection for PPE for COVID19",
+  "hasSubtitle": true,
+  "description": "### Our Paper is out here: https://arxiv.org/abs/2112.09569\n\n### We have launched a new version of the dataset so please refer it here: https://github.com/Rishit-dagli/CPPE-Dataset/\n\n### COVID-19 Personal Protective Equipment (PPE) Detection Dataset for Our COVID-19 Warriors\n\nWe wanted to do something for our COVID Warriors and hence decided to detect the PPE kit(Mask, Face Sheild, Full Cover, Gloves, Goggles) which they wear before entering a Ward using Machine Learning so that anyone without a PPE can be detected and doesn't incidentally get into a COVID ward. The Dataset didn't exist so we decided to create one.\n\n### About Data\n\nWe have collected data from Google Image Search and Images extracted using Youtube Video (Tutorials showing how to wear PPE). It was then labeled for 5 Classes(Mask, Face Sheild, Full Cover, Gloves, Goggles) using LabelImage.\n\nWe have included a sample trained model and TensorFlow record files.\n\n### Acknowledgements\n\nWe thank all these Youtube Videos, Newspaper cuttings with PPE kits, and public images available on Google Search.\n1. https://youtu.be/eCcX1oIIXPE\n2. https://youtu.be/R8lmIdLHEgI\n3. https://youtu.be/FrauHnD9pPU\n4. https://youtu.be/H4jQUBAlBrI\n\n### Inspiration\n\nWe would love to see how the Kaggle community would utilize this dataset! We have trained a model which gives us good results (find it in the model folder)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "health",
+    "computer science",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "deepak16ee007",
+      "role": "writer"
+    },
+    {
+      "username": "manishag22",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "shivamb/vehicle-claim-fraud-detection",
+  "id_no": 1807255,
+  "datasetSlugNullable": "vehicle-claim-fraud-detection",
+  "ownerUserNullable": "shivamb",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Vehicle Insurance Claim Fraud Detection",
+  "subtitleNullable": "Fraud detection use-case for vehicle insurance industry",
+  "descriptionNullable": "### Vehicle Insurance Fraud Detection\n\nVehicle insurance fraud involves conspiring to make false or exaggerated claims involving property damage or personal injuries following an accident. Some common examples include staged accidents where fraudsters deliberately \u201carrange\u201d for accidents to occur; the use of phantom passengers where people who were not even at the scene of the accident claim to have suffered grievous injury, and make false personal injury claims where personal injuries are grossly exaggerated.\n\n\n### About this dataset\n\nThis dataset contains vehicle dataset - attribute, model, accident details, etc along with policy details - policy type, tenure etc. The target is to detect if a claim application is fraudulent or not - FraudFound_P\n",
+  "datasetId": 1807255,
+  "datasetSlug": "vehicle-claim-fraud-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 82101,
+  "totalVotes": 140,
+  "totalDownloads": 10949,
+  "title": "Vehicle Insurance Claim Fraud Detection",
+  "hasTitle": true,
+  "subtitle": "Fraud detection use-case for vehicle insurance industry",
+  "hasSubtitle": true,
+  "description": "### Vehicle Insurance Fraud Detection\n\nVehicle insurance fraud involves conspiring to make false or exaggerated claims involving property damage or personal injuries following an accident. Some common examples include staged accidents where fraudsters deliberately \u201carrange\u201d for accidents to occur; the use of phantom passengers where people who were not even at the scene of the accident claim to have suffered grievous injury, and make false personal injury claims where personal injuries are grossly exaggerated.\n\n\n### About this dataset\n\nThis dataset contains vehicle dataset - attribute, model, accident details, etc along with policy details - policy type, tenure etc. The target is to detect if a claim application is fraudulent or not - FraudFound_P\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "law",
+    "automobiles and vehicles",
+    "insurance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

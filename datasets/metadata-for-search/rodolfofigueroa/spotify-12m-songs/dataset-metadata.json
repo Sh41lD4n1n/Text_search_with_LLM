@@ -1,0 +1,40 @@
+{
+  "id": "rodolfofigueroa/spotify-12m-songs",
+  "id_no": 1052176,
+  "datasetSlugNullable": "spotify-12m-songs",
+  "ownerUserNullable": "rodolfofigueroa",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Spotify 1.2M+ Songs",
+  "subtitleNullable": "Audio features of over 1.2 million songs obtained with the Spotify API",
+  "descriptionNullable": "### Context\n\nInspired by the [160k Spotify Dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks), I decided to make my own.\n\n### Content\n\nThe file `tracks_features.csv` contains audio features for over 1.2 million songs, obtained with the Spotify API. Reference for these audio features can be found [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/). \n\n### Acknowledgements\n\n- [Yama\u00e7 Eren Ay ](https://www.kaggle.com/yamaerenay) and other creators for the inspiration for this dataset.\n- Spotify and the Spotipy team for making an easy to use API.\n- MusicBrainz for keeping an extremely complete catalog of music.",
+  "datasetId": 1052176,
+  "datasetSlug": "spotify-12m-songs",
+  "hasDatasetSlug": true,
+  "ownerUser": "rodolfofigueroa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 50464,
+  "totalVotes": 116,
+  "totalDownloads": 6944,
+  "title": "Spotify 1.2M+ Songs",
+  "hasTitle": true,
+  "subtitle": "Audio features of over 1.2 million songs obtained with the Spotify API",
+  "hasSubtitle": true,
+  "description": "### Context\n\nInspired by the [160k Spotify Dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks), I decided to make my own.\n\n### Content\n\nThe file `tracks_features.csv` contains audio features for over 1.2 million songs, obtained with the Spotify API. Reference for these audio features can be found [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/). \n\n### Acknowledgements\n\n- [Yama\u00e7 Eren Ay ](https://www.kaggle.com/yamaerenay) and other creators for the inspiration for this dataset.\n- Spotify and the Spotipy team for making an easy to use API.\n- MusicBrainz for keeping an extremely complete catalog of music.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

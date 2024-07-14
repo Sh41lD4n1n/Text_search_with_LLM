@@ -1,0 +1,44 @@
+{
+  "id": "benroshan/factors-affecting-campus-placement",
+  "id_no": 596958,
+  "datasetSlugNullable": "factors-affecting-campus-placement",
+  "ownerUserNullable": "benroshan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Campus Recruitment",
+  "subtitleNullable": "Academic and Employability Factors influencing placement",
+  "descriptionNullable": "# Hello \n\nMy name is Ben Roshan D, doing MBA in Business Analytics at Jain University Bangalore . We have practical sessions in Python,R as subjects. Faculties provide us with such data sets to work on with it, So here is one of the data set which our class worked on\n\n\n# What is in it?\n\nThis data set consists of Placement data of students in a XYZ campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students\n\n\n# Acknowledgement\n\nI would like to thank Dr. Dhimant Ganatara, Professor Jain University for helping the students by providing this data for us to train R programming \n\n\n# Questions\n\n1. Which factor influenced a candidate in getting placed?\n2. Does  percentage matters for one to get placed?\n3. Which degree specialization is much demanded by corporate?\n4. Play with the data conducting all statistical tests.",
+  "datasetId": 596958,
+  "datasetSlug": "factors-affecting-campus-placement",
+  "hasDatasetSlug": true,
+  "ownerUser": "benroshan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 439207,
+  "totalVotes": 977,
+  "totalDownloads": 60566,
+  "title": "Campus Recruitment",
+  "hasTitle": true,
+  "subtitle": "Academic and Employability Factors influencing placement",
+  "hasSubtitle": true,
+  "description": "# Hello \n\nMy name is Ben Roshan D, doing MBA in Business Analytics at Jain University Bangalore . We have practical sessions in Python,R as subjects. Faculties provide us with such data sets to work on with it, So here is one of the data set which our class worked on\n\n\n# What is in it?\n\nThis data set consists of Placement data of students in a XYZ campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students\n\n\n# Acknowledgement\n\nI would like to thank Dr. Dhimant Ganatara, Professor Jain University for helping the students by providing this data for us to train R programming \n\n\n# Questions\n\n1. Which factor influenced a candidate in getting placed?\n2. Does  percentage matters for one to get placed?\n3. Which degree specialization is much demanded by corporate?\n4. Play with the data conducting all statistical tests.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "business",
+    "education",
+    "classification",
+    "deep learning",
+    "standardized testing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

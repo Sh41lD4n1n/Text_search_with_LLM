@@ -1,0 +1,44 @@
+{
+  "id": "nelgiriyewithana/emotions",
+  "id_no": 4403839,
+  "datasetSlugNullable": "emotions",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Emotions",
+  "subtitleNullable": "Where Words Paint the Colors of Feelings",
+  "descriptionNullable": "# Introduction:\n\n&gt;Welcome to the \"Emotions\" dataset \u2013 a collection of English Twitter messages meticulously annotated with six fundamental emotions: anger, fear, joy, love, sadness, and surprise. This dataset serves as a valuable resource for understanding and analyzing the diverse spectrum of emotions expressed in short-form text on social media.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7563141.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# About the Dataset:\n\n&gt;Each entry in this dataset consists of a text segment representing a Twitter message and a corresponding label indicating the predominant emotion conveyed. The emotions are classified into six categories: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5). Whether you're interested in sentiment analysis, emotion classification, or text mining, this dataset provides a rich foundation for exploring the nuanced emotional landscape within the realm of social media.\n\n# Key Features:\n\n&gt;- **text**: A string feature representing the content of the Twitter message.\n- **label**: A classification label indicating the primary emotion, with values ranging from 0 to 5.\n\n# Potential Use Cases:\n\n&gt;- **Sentiment Analysis:** Uncover the prevailing sentiments in English Twitter messages across various emotions.\n- **Emotion Classification:** Develop models to accurately classify tweets into the six specified emotion categories.\n- **Textual Analysis:** Explore linguistic patterns and expressions associated with different emotional states.\n\n# Sample Data:\n\nHere's a glimpse of the dataset with a few examples:\n\n| text                                                  | label |\n|-------------------------------------------------------|-------|\n| that was what i felt when i was finally accept...      | 1     |\n| i take every day as it comes i'm just focussin...      | 4     |\n| i give you plenty of attention even when i fee...      | 0     |\n\n<br>\nIf you find this dataset useful consider giving it a vote! \ud83d\ude0a\u2764\ufe0f \n",
+  "datasetId": 4403839,
+  "datasetSlug": "emotions",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 79360,
+  "totalVotes": 279,
+  "totalDownloads": 12459,
+  "title": "Emotions",
+  "hasTitle": true,
+  "subtitle": "Where Words Paint the Colors of Feelings",
+  "hasSubtitle": true,
+  "description": "# Introduction:\n\n&gt;Welcome to the \"Emotions\" dataset \u2013 a collection of English Twitter messages meticulously annotated with six fundamental emotions: anger, fear, joy, love, sadness, and surprise. This dataset serves as a valuable resource for understanding and analyzing the diverse spectrum of emotions expressed in short-form text on social media.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7563141.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# About the Dataset:\n\n&gt;Each entry in this dataset consists of a text segment representing a Twitter message and a corresponding label indicating the predominant emotion conveyed. The emotions are classified into six categories: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5). Whether you're interested in sentiment analysis, emotion classification, or text mining, this dataset provides a rich foundation for exploring the nuanced emotional landscape within the realm of social media.\n\n# Key Features:\n\n&gt;- **text**: A string feature representing the content of the Twitter message.\n- **label**: A classification label indicating the primary emotion, with values ranging from 0 to 5.\n\n# Potential Use Cases:\n\n&gt;- **Sentiment Analysis:** Uncover the prevailing sentiments in English Twitter messages across various emotions.\n- **Emotion Classification:** Develop models to accurately classify tweets into the six specified emotion categories.\n- **Textual Analysis:** Explore linguistic patterns and expressions associated with different emotional states.\n\n# Sample Data:\n\nHere's a glimpse of the dataset with a few examples:\n\n| text                                                  | label |\n|-------------------------------------------------------|-------|\n| that was what i felt when i was finally accept...      | 1     |\n| i take every day as it comes i'm just focussin...      | 4     |\n| i give you plenty of attention even when i fee...      | 0     |\n\n<br>\nIf you find this dataset useful consider giving it a vote! \ud83d\ude0a\u2764\ufe0f \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "people and society",
+    "education",
+    "computer science",
+    "nlp",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

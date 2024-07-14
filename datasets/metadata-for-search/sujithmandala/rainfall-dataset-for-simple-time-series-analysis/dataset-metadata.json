@@ -1,0 +1,39 @@
+{
+  "id": "sujithmandala/rainfall-dataset-for-simple-time-series-analysis",
+  "id_no": 4839342,
+  "datasetSlugNullable": "rainfall-dataset-for-simple-time-series-analysis",
+  "ownerUserNullable": "sujithmandala",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Rainfall Dataset for Simple Time Series Analysis",
+  "subtitleNullable": "Time Series Analysis",
+  "descriptionNullable": "This dataset contains daily rainfall measurements (in millimeters) for the year 2022. The data spans from January 1, 2022, to July 3, 2022, covering a total of 184 days. The dataset can be used for various machine learning tasks, such as time series forecasting, pattern recognition, or anomaly detection related to rainfall patterns.\n\nColumn Descriptors:\n\n**date (date):**\nDescription: The date of the rainfall measurement in the format YYYY-MM-DD.\nExample: 2022-01-01\n**rainfall (float):**\nDescription: The amount of rainfall recorded on the corresponding date, measured in millimeters (mm).\nExample: 12.5\nRange: The rainfall values range from 0.0 mm (no rainfall) to 22.4 mm (the maximum recorded value in the dataset).\nMissing values: There are no missing values in this column.\n",
+  "datasetId": 4839342,
+  "datasetSlug": "rainfall-dataset-for-simple-time-series-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujithmandala",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1042,
+  "totalVotes": 37,
+  "totalDownloads": 204,
+  "title": "Rainfall Dataset for Simple Time Series Analysis",
+  "hasTitle": true,
+  "subtitle": "Time Series Analysis",
+  "hasSubtitle": true,
+  "description": "This dataset contains daily rainfall measurements (in millimeters) for the year 2022. The data spans from January 1, 2022, to July 3, 2022, covering a total of 184 days. The dataset can be used for various machine learning tasks, such as time series forecasting, pattern recognition, or anomaly detection related to rainfall patterns.\n\nColumn Descriptors:\n\n**date (date):**\nDescription: The date of the rainfall measurement in the format YYYY-MM-DD.\nExample: 2022-01-01\n**rainfall (float):**\nDescription: The amount of rainfall recorded on the corresponding date, measured in millimeters (mm).\nExample: 12.5\nRange: The rainfall values range from 0.0 mm (no rainfall) to 22.4 mm (the maximum recorded value in the dataset).\nMissing values: There are no missing values in this column.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "shashwatwork/clinical-dataset-of-the-cypguides-trial",
+  "id_no": 1169634,
+  "datasetSlugNullable": "clinical-dataset-of-the-cypguides-trial",
+  "ownerUserNullable": "shashwatwork",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Clinical Dataset of the CYP-GUIDES Trial",
+  "subtitleNullable": "Cytochrome Psychotropic Genotyping Under Investigation for Decision Support Data",
+  "descriptionNullable": "### Context\n\nCYP-GUIDES (Cytochrome Psychotropic Genotyping Under Investigation for Decision Support) is a randomized controlled trial (RCT) comparing 2 outcomes in hospitalized patients with severe depressive disorders treated according to the patient's CYP2D6 genotype and functional status versus standard psychotropic therapy. The primary outcome was hospital Length of Stay (LOS) and the secondary outcome was the Re-Admission Rate (RAR) 30 days after discharge.\n\nThe trial setting was the Institute of Living at Hartford Hospital. CYP2D6 genotyping was implemented to characterize the functional status of the CYP2D6 enzyme with sub-normal, normal, or supra-normal function. The electronic medical record (EMR) was utilized to transmit clinically actionable drug prescribing guidance based on the patient's CYP2D6 function to the physician.\n\n### Content\n\nThe RCT recruited 1500 patients, genotyped CYP2D6 in 1459, and randomized 477 to standard therapy (Group S), for whom treatment-as-usual guidance was delivered without consideration of patient CYP2D6 genotype, and 982 to genetically-guided therapy (Group G) where CYP2D6-based treatment recommendations were provided via EMR to physicians. For inpatients in Group G whose CYP2D6 function was sub- or supra-normal, medications primarily metabolized by the CYP2D6 enzyme were proscribed.\n\nThe RCT developed a database of potential benefits to the field. The pharmacologic, clinical course, and pharmacogenetic therapeutic guidance is being published in a related article. These data should enable various investigators to assess effeeffects of clinical decision support on resource utilization and psychotropic therapy during psychiatric hospitalizations. \n\n\n### Acknowledgements\n\nTortora, Joseph; Robinson, Saskia; Baker, Seth; Rua\u00f1o, Gualberto (2020), \u201cClinical Dataset of the CYP-GUIDES Trial\u201d, Mendeley Data, V1, doi: 10.17632/25yjwbphn4.1 [Source](https://data.mendeley.com/datasets/25yjwbphn4/1)\n",
+  "datasetId": 1169634,
+  "datasetSlug": "clinical-dataset-of-the-cypguides-trial",
+  "hasDatasetSlug": true,
+  "ownerUser": "shashwatwork",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 7560,
+  "totalVotes": 17,
+  "totalDownloads": 760,
+  "title": "Clinical Dataset of the CYP-GUIDES Trial",
+  "hasTitle": true,
+  "subtitle": "Cytochrome Psychotropic Genotyping Under Investigation for Decision Support Data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCYP-GUIDES (Cytochrome Psychotropic Genotyping Under Investigation for Decision Support) is a randomized controlled trial (RCT) comparing 2 outcomes in hospitalized patients with severe depressive disorders treated according to the patient's CYP2D6 genotype and functional status versus standard psychotropic therapy. The primary outcome was hospital Length of Stay (LOS) and the secondary outcome was the Re-Admission Rate (RAR) 30 days after discharge.\n\nThe trial setting was the Institute of Living at Hartford Hospital. CYP2D6 genotyping was implemented to characterize the functional status of the CYP2D6 enzyme with sub-normal, normal, or supra-normal function. The electronic medical record (EMR) was utilized to transmit clinically actionable drug prescribing guidance based on the patient's CYP2D6 function to the physician.\n\n### Content\n\nThe RCT recruited 1500 patients, genotyped CYP2D6 in 1459, and randomized 477 to standard therapy (Group S), for whom treatment-as-usual guidance was delivered without consideration of patient CYP2D6 genotype, and 982 to genetically-guided therapy (Group G) where CYP2D6-based treatment recommendations were provided via EMR to physicians. For inpatients in Group G whose CYP2D6 function was sub- or supra-normal, medications primarily metabolized by the CYP2D6 enzyme were proscribed.\n\nThe RCT developed a database of potential benefits to the field. The pharmacologic, clinical course, and pharmacogenetic therapeutic guidance is being published in a related article. These data should enable various investigators to assess effeeffects of clinical decision support on resource utilization and psychotropic therapy during psychiatric hospitalizations. \n\n\n### Acknowledgements\n\nTortora, Joseph; Robinson, Saskia; Baker, Seth; Rua\u00f1o, Gualberto (2020), \u201cClinical Dataset of the CYP-GUIDES Trial\u201d, Mendeley Data, V1, doi: 10.17632/25yjwbphn4.1 [Source](https://data.mendeley.com/datasets/25yjwbphn4/1)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "genetics",
+    "biology",
+    "health",
+    "exploratory data analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

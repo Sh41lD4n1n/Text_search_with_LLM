@@ -1,0 +1,39 @@
+{
+  "id": "vandittyagi0909/emotiom",
+  "id_no": 2308026,
+  "datasetSlugNullable": "emotiom",
+  "ownerUserNullable": "vandittyagi0909",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "emotion_video",
+  "subtitleNullable": "A video can be used for emotion detection.",
+  "descriptionNullable": "",
+  "datasetId": 2308026,
+  "datasetSlug": "emotiom",
+  "hasDatasetSlug": true,
+  "ownerUser": "vandittyagi0909",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 430,
+  "totalVotes": 11,
+  "totalDownloads": 41,
+  "title": "emotion_video",
+  "hasTitle": true,
+  "subtitle": "A video can be used for emotion detection.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

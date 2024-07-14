@@ -1,0 +1,45 @@
+{
+  "id": "alsaniipe/cebradata",
+  "id_no": 4085397,
+  "datasetSlugNullable": "cebradata",
+  "ownerUserNullable": "alsaniipe",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cebradata for GAN training",
+  "subtitleNullable": "This datasets(205k images) will be used for GAN models training",
+  "descriptionNullable": "This datasets(205k images) will be used for GAN models training.\n\nGenerative Adversarial Networks, or GANs for short, are an approach to generative modeling using deep learning methods, such as convolutional neural networks.\n\nGenerative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.\n\nGANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated). The two models are trained together in a zero-sum game, adversarial, until the discriminator model is fooled about half the time, meaning the generator model is generating plausible examples.",
+  "datasetId": 4085397,
+  "datasetSlug": "cebradata",
+  "hasDatasetSlug": true,
+  "ownerUser": "alsaniipe",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 167,
+  "totalVotes": 33,
+  "totalDownloads": 16,
+  "title": "Cebradata for GAN training",
+  "hasTitle": true,
+  "subtitle": "This datasets(205k images) will be used for GAN models training",
+  "hasSubtitle": true,
+  "description": "This datasets(205k images) will be used for GAN models training.\n\nGenerative Adversarial Networks, or GANs for short, are an approach to generative modeling using deep learning methods, such as convolutional neural networks.\n\nGenerative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.\n\nGANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated). The two models are trained together in a zero-sum game, adversarial, until the discriminator model is fooled about half the time, meaning the generator model is generating plausible examples.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "deep learning",
+    "image",
+    "adversarial learning",
+    "cv2",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

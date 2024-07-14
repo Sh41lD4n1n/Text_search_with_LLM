@@ -1,0 +1,42 @@
+{
+  "id": "piterfm/football-soccer-uefa-euro-1960-2024",
+  "id_no": 5097235,
+  "datasetSlugNullable": "football-soccer-uefa-euro-1960-2024",
+  "ownerUserNullable": "piterfm",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football - Soccer - UEFA EURO, 1960 - 2024",
+  "subtitleNullable": "Football matches, players & events for EURO 1960-2024 & Nations League 2019-2023",
+  "descriptionNullable": "**Dataset will be updated during EURO 2024**<br>\n**You may support this project via the upvotes button**\n\n## Description \nThe dataset contains all players & coaches, all matches & results, and main match events in Football/Soccer UEFA European Championship/EURO (1960-2024), and Nations League (2019-2023).\n\n* `matches`:\n * `euro`: `1960.csv` ...  `2024.csv` -  all EURO matches.\n * `nations`: `2019.csv`, `2021.csv`, `2023.csv` - all Nations League matches.\n * `friendly_2021-2024.csv` - all friendly matches from 2021 to 2024.\n * `qualifying_1960-2024.csv` - all qualifying matches from 1960 to 2024.\n* `logos` - contains flags of associations\n*  `euro_coaches.csv` - all coaches from 1960 to 2024\n* `euro_lineups.csv` - all players from 1960 to 2024\n* `euro_summary.csv` - table includes basic information about each EURO.\n\n## Related Datasets\n- [Football - FIFA Men's World Cup, 1930 - 2022](https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup)\n- [Football - FIFA Women's World Cup, 1991 - 2023](https://www.kaggle.com/datasets/piterfm/football-fifa-womens-world-cup-1991-2023)\n\n## Table columns\n\n## Updates\n2024-06-16 - add lineups & coaches; add associans flags folder.<br>\n2024-06-09 - add friendly, qualifying & Nations League matches.",
+  "datasetId": 5097235,
+  "datasetSlug": "football-soccer-uefa-euro-1960-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "piterfm",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9197,
+  "totalVotes": 59,
+  "totalDownloads": 2316,
+  "title": "Football - Soccer - UEFA EURO, 1960 - 2024",
+  "hasTitle": true,
+  "subtitle": "Football matches, players & events for EURO 1960-2024 & Nations League 2019-2023",
+  "hasSubtitle": true,
+  "description": "**Dataset will be updated during EURO 2024**<br>\n**You may support this project via the upvotes button**\n\n## Description \nThe dataset contains all players & coaches, all matches & results, and main match events in Football/Soccer UEFA European Championship/EURO (1960-2024), and Nations League (2019-2023).\n\n* `matches`:\n * `euro`: `1960.csv` ...  `2024.csv` -  all EURO matches.\n * `nations`: `2019.csv`, `2021.csv`, `2023.csv` - all Nations League matches.\n * `friendly_2021-2024.csv` - all friendly matches from 2021 to 2024.\n * `qualifying_1960-2024.csv` - all qualifying matches from 1960 to 2024.\n* `logos` - contains flags of associations\n*  `euro_coaches.csv` - all coaches from 1960 to 2024\n* `euro_lineups.csv` - all players from 1960 to 2024\n* `euro_summary.csv` - table includes basic information about each EURO.\n\n## Related Datasets\n- [Football - FIFA Men's World Cup, 1930 - 2022](https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup)\n- [Football - FIFA Women's World Cup, 1991 - 2023](https://www.kaggle.com/datasets/piterfm/football-fifa-womens-world-cup-1991-2023)\n\n## Table columns\n\n## Updates\n2024-06-16 - add lineups & coaches; add associans flags folder.<br>\n2024-06-09 - add friendly, qualifying & Nations League matches.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

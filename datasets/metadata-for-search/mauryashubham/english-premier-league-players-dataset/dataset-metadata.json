@@ -1,0 +1,44 @@
+{
+  "id": "mauryashubham/english-premier-league-players-dataset",
+  "id_no": 1808,
+  "datasetSlugNullable": "english-premier-league-players-dataset",
+  "ownerUserNullable": "mauryashubham",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "English Premier League Players Dataset, 2017/18",
+  "subtitleNullable": "A unique dataset containing FPL data, popularity and market values",
+  "descriptionNullable": "### Context\n\nFor most football fans, May - July represents a lull period due to the lack of club football. What makes up for it, is the intense transfer speculation that surrounds all major player transfers today. Their market valuations also lead to a few raised eyebrows, lately more than ever.  I was curious to see how good a proxy **popularity** could be for **ability**, and the predictive power it would have in a model estimating a player's market value. \n\n\n### Content\n\n**name**: Name of the player\n   \n**club**: Club of the player\n  \n**age** : Age of the player\n  \n**position** : The usual position on the pitch  \n\n**position_cat** :  \n   \n+ 1 for attackers  \n\n+ 2 for midfielders  \n\n+ 3 for defenders  \n\n+ 4 for goalkeepers   \n\n**market_value** : As on transfermrkt.com on July 20th, 2017  \n\n**page_views** : Average daily Wikipedia page views from September 1, 2016 to May 1, 2017  \n\n**fpl_value** : Value in Fantasy Premier League as on July 20th, 2017  \n\n**fpl_sel** : % of FPL players who have selected that player in their team  \n\n**fpl_points** : FPL points accumulated over the previous season  \n\n**region**:  \n \n+ 1 for England  \n\n+ 2 for EU  \n\n+ 3 for Americas  \n\n+ 4 for Rest of World   \n\n**nationality**   \n\n**new_foreign** : Whether a new signing from a different league, for 2017/18 (till 20th July)  \n\n**age_cat**  \n\n**club_id**  \n\n**big_club**: Whether one of the Top 6 clubs  \n\n**new_signing**: Whether a new signing for 2017/18 (till 20th July)  \n\n\n\n### Inspiration\n\nTo statistically analyse the beautiful game.",
+  "datasetId": 1808,
+  "datasetSlug": "english-premier-league-players-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mauryashubham",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 62473,
+  "totalVotes": 117,
+  "totalDownloads": 8645,
+  "title": "English Premier League Players Dataset, 2017/18",
+  "hasTitle": true,
+  "subtitle": "A unique dataset containing FPL data, popularity and market values",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFor most football fans, May - July represents a lull period due to the lack of club football. What makes up for it, is the intense transfer speculation that surrounds all major player transfers today. Their market valuations also lead to a few raised eyebrows, lately more than ever.  I was curious to see how good a proxy **popularity** could be for **ability**, and the predictive power it would have in a model estimating a player's market value. \n\n\n### Content\n\n**name**: Name of the player\n   \n**club**: Club of the player\n  \n**age** : Age of the player\n  \n**position** : The usual position on the pitch  \n\n**position_cat** :  \n   \n+ 1 for attackers  \n\n+ 2 for midfielders  \n\n+ 3 for defenders  \n\n+ 4 for goalkeepers   \n\n**market_value** : As on transfermrkt.com on July 20th, 2017  \n\n**page_views** : Average daily Wikipedia page views from September 1, 2016 to May 1, 2017  \n\n**fpl_value** : Value in Fantasy Premier League as on July 20th, 2017  \n\n**fpl_sel** : % of FPL players who have selected that player in their team  \n\n**fpl_points** : FPL points accumulated over the previous season  \n\n**region**:  \n \n+ 1 for England  \n\n+ 2 for EU  \n\n+ 3 for Americas  \n\n+ 4 for Rest of World   \n\n**nationality**   \n\n**new_foreign** : Whether a new signing from a different league, for 2017/18 (till 20th July)  \n\n**age_cat**  \n\n**club_id**  \n\n**big_club**: Whether one of the Top 6 clubs  \n\n**new_signing**: Whether a new signing for 2017/18 (till 20th July)  \n\n\n\n### Inspiration\n\nTo statistically analyse the beautiful game.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "arts and entertainment",
+    "games",
+    "football",
+    "sports",
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

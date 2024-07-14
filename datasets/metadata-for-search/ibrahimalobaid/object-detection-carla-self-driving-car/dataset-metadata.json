@@ -1,0 +1,43 @@
+{
+  "id": "ibrahimalobaid/object-detection-carla-self-driving-car",
+  "id_no": 4292345,
+  "datasetSlugNullable": "object-detection-carla-self-driving-car",
+  "ownerUserNullable": "ibrahimalobaid",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Object Detection Carla self-driving Car",
+  "subtitleNullable": "",
+  "descriptionNullable": "CLASSES =10 \nbike, \nmotobike,\n person,\n traffic_light_green, \ntraffic_light_orange, \ntraffic_light_red, \ntraffic_sign_30,\n traffic_sign_60, \ntraffic_sign_90,\n vehicle\n\nCarla Self-Driving Car Simulator\n",
+  "datasetId": 4292345,
+  "datasetSlug": "object-detection-carla-self-driving-car",
+  "hasDatasetSlug": true,
+  "ownerUser": "ibrahimalobaid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 687,
+  "totalVotes": 13,
+  "totalDownloads": 57,
+  "title": "Object Detection Carla self-driving Car",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "CLASSES =10 \nbike, \nmotobike,\n person,\n traffic_light_green, \ntraffic_light_orange, \ntraffic_light_red, \ntraffic_sign_30,\n traffic_sign_60, \ntraffic_sign_90,\n vehicle\n\nCarla Self-Driving Car Simulator\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "deep learning",
+    "gpu",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ahmedkhairy11/signclusive-mediapipe",
+  "id_no": 5273235,
+  "datasetSlugNullable": "signclusive-mediapipe",
+  "ownerUserNullable": "ahmedkhairy11",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Signclusive Mediapipe",
+  "subtitleNullable": "Blacked Out Background Using Mediapipe Dataset",
+  "descriptionNullable": "This dataset includes images of all 26 letters of the alphabet and the \"space\" sign, totaling 27 classes. The dataset includes images from five different signers, with each signer providing 100 samples for each letter. This effort resulted in a total of 500 samples per letter, amounting to 13,500 images.\n\n**Dataset Collection Process:**\n\u2022\tSigners: 5 different signers\n\u2022\tSamples per Letter: 500\n\u2022\tTotal Images: 13,500\n\u2022\tImage Size: 640x480 pixels (resized to 224x224 pixels for training)\n\n**Data Preprocessing**\nAfter collecting the images, we resized them to 224x224 pixels to standardize the input size for the model. This resizing ensures that all images are compatible with the input requirements of the neural network. We then drew the hand landmarks on all the images and blacked out the background in order for the model to focus only on the landmarks when it came to training a CNN model using images.",
+  "datasetId": 5273235,
+  "datasetSlug": "signclusive-mediapipe",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedkhairy11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 41,
+  "totalVotes": 5,
+  "totalDownloads": 0,
+  "title": "Signclusive Mediapipe",
+  "hasTitle": true,
+  "subtitle": "Blacked Out Background Using Mediapipe Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset includes images of all 26 letters of the alphabet and the \"space\" sign, totaling 27 classes. The dataset includes images from five different signers, with each signer providing 100 samples for each letter. This effort resulted in a total of 500 samples per letter, amounting to 13,500 images.\n\n**Dataset Collection Process:**\n\u2022\tSigners: 5 different signers\n\u2022\tSamples per Letter: 500\n\u2022\tTotal Images: 13,500\n\u2022\tImage Size: 640x480 pixels (resized to 224x224 pixels for training)\n\n**Data Preprocessing**\nAfter collecting the images, we resized them to 224x224 pixels to standardize the input size for the model. This resizing ensures that all images are compatible with the input requirements of the neural network. We then drew the hand landmarks on all the images and blacked out the background in order for the model to focus only on the landmarks when it came to training a CNN model using images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "classification",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

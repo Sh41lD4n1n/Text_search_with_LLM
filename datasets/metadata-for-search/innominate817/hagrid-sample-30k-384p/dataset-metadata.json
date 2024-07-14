@@ -1,0 +1,41 @@
+{
+  "id": "innominate817/hagrid-sample-30k-384p",
+  "id_no": 2363172,
+  "datasetSlugNullable": "hagrid-sample-30k-384p",
+  "ownerUserNullable": "innominate817",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "HaGRID Sample 30k 384p",
+  "subtitleNullable": "A lower resolution sample of HaGRID (HAnd Gesture Recognition Image Dataset)",
+  "descriptionNullable": "This dataset contains 31,833 images from [HaGRID](https://github.com/hukenovs/hagrid) (HAnd Gesture Recognition Image Dataset) downscaled to 384p. The original dataset is 716GB and contains 552,992 1080p images. I created this sample for a tutorial so readers can use the dataset in the free tiers of Google Colab and Kaggle Notebooks.\n\n### Original Authors:\n*  [Alexander Kapitanov](https://www.linkedin.com/in/hukenovs)\n* [Andrey Makhlyarchuk](https://www.linkedin.com/in/makhliarchuk)\n* [Karina Kvanchiani](https://www.linkedin.com/in/kvanchiani)\n\n### Original Dataset Links\n* [GitHub](https://github.com/hukenovs/hagrid)\n* [Kaggle Datasets Page](https://www.kaggle.com/datasets/kapitanov/hagrid)\n\n### Kaggle Notebooks\n* [Training](https://www.kaggle.com/innominate817/icevision-yolox-to-openvino-tutorial-hagrid-kaggle): \n   * The free GPU tier for Kaggle Notebooks takes around 15 minutes per epoch.\n   * A screen recording walking through the setup steps is available on Youtube ([link](https://www.youtube.com/watch?v=coWNQcqZf2M)). Timestamps are in the video description.\n* [Inference](https://www.kaggle.com/code/innominate817/yolox-openvino-inference)\n\n### Initial IceVision YOLOX Tiny Results:\n* **30K 384p:** 76.2509% COCOMetric after 20 epochs\n* **60K 384p:** 78.4270% COCOMetric after 20 epochs\n* **120K 384p:** 81.3696% COCOMetric after 20 epochs\n* **500K 384p:** 81.5283% COCOMetric after 10 epochs\n\n### Object Classes\n```text\n['call',\n 'no_gesture',\n 'dislike',\n 'fist',\n 'four',\n 'like',\n 'mute',\n 'ok',\n 'one',\n 'palm',\n 'peace',\n 'peace_inverted',\n 'rock',\n 'stop',\n 'stop_inverted',\n 'three',\n 'three2',\n 'two_up',\n 'two_up_inverted']\n```\n\n### Annotations\n* `bboxes`: `[top-left-X-position, top-left-Y-position, width, height]`\n* Multiply `top-left-X-position` and `width` values by the image width and multiply `top-left-Y-position` and `height` values by the image height.\n<div style=\"overflow-x: auto; overflow-y: auto\">\n<table>\n  <thead>\n    <tr style=\"text-align: right\">\n      <th></th>\n      <th>00005c9c-3548-4a8f-9d0b-2dd4aff37fc9</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>bboxes</th>\n      <td>[[0.23925175, 0.28595301, 0.25055143, 0.20777627]]</td>\n    </tr>\n    <tr>\n      <th>labels</th>\n      <td>[call]</td>\n    </tr>\n    <tr>\n      <th>leading_hand</th>\n      <td>right</td>\n    </tr>\n    <tr>\n      <th>leading_conf</th>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>user_id</th>\n      <td>5a389ffe1bed6660a59f4586c7d8fe2770785e5bf79b09334aa951f6f119c024</td>\n    </tr>\n  </tbody>\n</table>\n</div>\n",
+  "datasetId": 2363172,
+  "datasetSlug": "hagrid-sample-30k-384p",
+  "hasDatasetSlug": true,
+  "ownerUser": "innominate817",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10298,
+  "totalVotes": 19,
+  "totalDownloads": 834,
+  "title": "HaGRID Sample 30k 384p",
+  "hasTitle": true,
+  "subtitle": "A lower resolution sample of HaGRID (HAnd Gesture Recognition Image Dataset)",
+  "hasSubtitle": true,
+  "description": "This dataset contains 31,833 images from [HaGRID](https://github.com/hukenovs/hagrid) (HAnd Gesture Recognition Image Dataset) downscaled to 384p. The original dataset is 716GB and contains 552,992 1080p images. I created this sample for a tutorial so readers can use the dataset in the free tiers of Google Colab and Kaggle Notebooks.\n\n### Original Authors:\n*  [Alexander Kapitanov](https://www.linkedin.com/in/hukenovs)\n* [Andrey Makhlyarchuk](https://www.linkedin.com/in/makhliarchuk)\n* [Karina Kvanchiani](https://www.linkedin.com/in/kvanchiani)\n\n### Original Dataset Links\n* [GitHub](https://github.com/hukenovs/hagrid)\n* [Kaggle Datasets Page](https://www.kaggle.com/datasets/kapitanov/hagrid)\n\n### Kaggle Notebooks\n* [Training](https://www.kaggle.com/innominate817/icevision-yolox-to-openvino-tutorial-hagrid-kaggle): \n   * The free GPU tier for Kaggle Notebooks takes around 15 minutes per epoch.\n   * A screen recording walking through the setup steps is available on Youtube ([link](https://www.youtube.com/watch?v=coWNQcqZf2M)). Timestamps are in the video description.\n* [Inference](https://www.kaggle.com/code/innominate817/yolox-openvino-inference)\n\n### Initial IceVision YOLOX Tiny Results:\n* **30K 384p:** 76.2509% COCOMetric after 20 epochs\n* **60K 384p:** 78.4270% COCOMetric after 20 epochs\n* **120K 384p:** 81.3696% COCOMetric after 20 epochs\n* **500K 384p:** 81.5283% COCOMetric after 10 epochs\n\n### Object Classes\n```text\n['call',\n 'no_gesture',\n 'dislike',\n 'fist',\n 'four',\n 'like',\n 'mute',\n 'ok',\n 'one',\n 'palm',\n 'peace',\n 'peace_inverted',\n 'rock',\n 'stop',\n 'stop_inverted',\n 'three',\n 'three2',\n 'two_up',\n 'two_up_inverted']\n```\n\n### Annotations\n* `bboxes`: `[top-left-X-position, top-left-Y-position, width, height]`\n* Multiply `top-left-X-position` and `width` values by the image width and multiply `top-left-Y-position` and `height` values by the image height.\n<div style=\"overflow-x: auto; overflow-y: auto\">\n<table>\n  <thead>\n    <tr style=\"text-align: right\">\n      <th></th>\n      <th>00005c9c-3548-4a8f-9d0b-2dd4aff37fc9</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>bboxes</th>\n      <td>[[0.23925175, 0.28595301, 0.25055143, 0.20777627]]</td>\n    </tr>\n    <tr>\n      <th>labels</th>\n      <td>[call]</td>\n    </tr>\n    <tr>\n      <th>leading_hand</th>\n      <td>right</td>\n    </tr>\n    <tr>\n      <th>leading_conf</th>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>user_id</th>\n      <td>5a389ffe1bed6660a59f4586c7d8fe2770785e5bf79b09334aa951f6f119c024</td>\n    </tr>\n  </tbody>\n</table>\n</div>\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

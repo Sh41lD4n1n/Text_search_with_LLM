@@ -1,0 +1,44 @@
+{
+  "id": "rahimanshu/cardiomegaly-disease-prediction-using-cnn",
+  "id_no": 1837618,
+  "datasetSlugNullable": "cardiomegaly-disease-prediction-using-cnn",
+  "ownerUserNullable": "rahimanshu",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Cardiomegaly Disease Prediction Using CNN",
+  "subtitleNullable": "Cardiomegaly Disease",
+  "descriptionNullable": "### Context\n\nI want to predict images of Cardiomegaly disease, I did not find specific dataset so create this from original NIH Chest X-ray Dataset.\nThis data is processed data of original data.\n\n\n### Content\n\nThis dataset is processed and taken form [Original Dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC).\nUsing CSV information I separate images of Cardiomegaly and process with CLAHE and resize it into 128*128 height and width.\nThe training and testing images are in equal portion in ratio of 1:1.\n\n### Acknowledgements\n\nI would like to thanks to **NIH Clinical Center**, provides one of the largest publicly available chest x-ray datasets to scientific community\n\n\n### Inspiration\n\nAnyone can access this data and make Notebook over How to Calculate **Cardiomegaly Ratio Measurement (CTR)** using following information,\nchest X-ray images, radiologists employ CTR as one of the most important indicators of cardiomegaly due to the simplicity of the calculation. CTR of a chest X-ray image is calculated as cardiac diameter (the diameter of the heart) divided by the thoracic diameter (the diameter of the chest). Speci\ufb01cally, CTR can be calculated from three measurements, MRD, the midline-to-right heart diameter, MLD, the midline-to-left heart diameter, and ID, the internal diameter of chest as\n                                                                                                     **CTR = (MRD + MLD)/ID**\nWhere, MRD and MLD is measured from the greatest perpendicular diameter from midline to right and left heart border, respectively. Figure 1 visualizes the details of CTR calculation. A CTR value of 0.5 is generally considered to indicate the upper limit of normal.\n",
+  "datasetId": 1837618,
+  "datasetSlug": "cardiomegaly-disease-prediction-using-cnn",
+  "hasDatasetSlug": true,
+  "ownerUser": "rahimanshu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 9001,
+  "totalVotes": 21,
+  "totalDownloads": 1936,
+  "title": "Cardiomegaly Disease Prediction Using CNN",
+  "hasTitle": true,
+  "subtitle": "Cardiomegaly Disease",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI want to predict images of Cardiomegaly disease, I did not find specific dataset so create this from original NIH Chest X-ray Dataset.\nThis data is processed data of original data.\n\n\n### Content\n\nThis dataset is processed and taken form [Original Dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC).\nUsing CSV information I separate images of Cardiomegaly and process with CLAHE and resize it into 128*128 height and width.\nThe training and testing images are in equal portion in ratio of 1:1.\n\n### Acknowledgements\n\nI would like to thanks to **NIH Clinical Center**, provides one of the largest publicly available chest x-ray datasets to scientific community\n\n\n### Inspiration\n\nAnyone can access this data and make Notebook over How to Calculate **Cardiomegaly Ratio Measurement (CTR)** using following information,\nchest X-ray images, radiologists employ CTR as one of the most important indicators of cardiomegaly due to the simplicity of the calculation. CTR of a chest X-ray image is calculated as cardiac diameter (the diameter of the heart) divided by the thoracic diameter (the diameter of the chest). Speci\ufb01cally, CTR can be calculated from three measurements, MRD, the midline-to-right heart diameter, MLD, the midline-to-left heart diameter, and ID, the internal diameter of chest as\n                                                                                                     **CTR = (MRD + MLD)/ID**\nWhere, MRD and MLD is measured from the greatest perpendicular diameter from midline to right and left heart border, respectively. Figure 1 visualizes the details of CTR calculation. A CTR value of 0.5 is generally considered to indicate the upper limit of normal.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cnn",
+    "image",
+    "binary classification",
+    "health conditions",
+    "news",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

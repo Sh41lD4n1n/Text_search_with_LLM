@@ -1,0 +1,44 @@
+{
+  "id": "alpesh98/serbian-sign-language-dataset",
+  "id_no": 3924817,
+  "datasetSlugNullable": "serbian-sign-language-dataset",
+  "ownerUserNullable": "alpesh98",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Serbian Sign Language Dataset",
+  "subtitleNullable": "From Hands to Words: A Dataset for Sign Language Translation and Recognition",
+  "descriptionNullable": "The dataset is a collection of hand gesture and expression videos captured using a webcam and processed using the OpenCV and Mediapipe libraries. It consists of 33 classes, each representing a different hand gesture or expression. For each class, there are 30 videos, and each video contains 75 frames. The dataset is organized into directories, with each class having its own directory. Within each class directory, there are 30 subdirectories numbered from 0 to 29, each containing 75 frames as numpy arrays.\n\nThe keypoints of the hand in each frame were detected using the Mediapipe library, resulting in numpy arrays that represent the coordinates of these keypoints. These keypoints are crucial for understanding the hand's pose and movement in each frame. The dataset is intended to support various applications, such as gesture recognition and machine learning model development, offering a substantial resource for research and development in these domains.",
+  "datasetId": 3924817,
+  "datasetSlug": "serbian-sign-language-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alpesh98",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 150,
+  "totalVotes": 1,
+  "totalDownloads": 4,
+  "title": "Serbian Sign Language Dataset",
+  "hasTitle": true,
+  "subtitle": "From Hands to Words: A Dataset for Sign Language Translation and Recognition",
+  "hasSubtitle": true,
+  "description": "The dataset is a collection of hand gesture and expression videos captured using a webcam and processed using the OpenCV and Mediapipe libraries. It consists of 33 classes, each representing a different hand gesture or expression. For each class, there are 30 videos, and each video contains 75 frames. The dataset is organized into directories, with each class having its own directory. Within each class directory, there are 30 subdirectories numbered from 0 to 29, each containing 75 frames as numpy arrays.\n\nThe keypoints of the hand in each frame were detected using the Mediapipe library, resulting in numpy arrays that represent the coordinates of these keypoints. These keypoints are crucial for understanding the hand's pose and movement in each frame. The dataset is intended to support various applications, such as gesture recognition and machine learning model development, offering a substantial resource for research and development in these domains.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "random forest",
+    "numpy",
+    "serbian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

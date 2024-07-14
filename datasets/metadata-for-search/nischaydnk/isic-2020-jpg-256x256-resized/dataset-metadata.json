@@ -1,0 +1,41 @@
+{
+  "id": "nischaydnk/isic-2020-jpg-256x256-resized",
+  "id_no": 5295545,
+  "datasetSlugNullable": "isic-2020-jpg-256x256-resized",
+  "ownerUserNullable": "nischaydnk",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "ISIC 2020 JPG 256x256 RESIZED",
+  "subtitleNullable": "",
+  "descriptionNullable": "**ISIC 2020 Competition training dataset. Images resized to 256x256 for Melanoma Skin Cancer Detection.**\n## Files\n- **train-image/** - image files for the training set (provided for train only)\n- **train-metadata.csv** - metadata for the training set\n\n## Columns included only in train-metadata.csv\n| Field Name | Description |\n| --- | --- |\n| `target` | Binary class {0: benign, 1: malignant}. |\n| `patient_id` | Randomly generated for formatting |\n| `isic_id` | Unique identifier for images |",
+  "datasetId": 5295545,
+  "datasetSlug": "isic-2020-jpg-256x256-resized",
+  "hasDatasetSlug": true,
+  "ownerUser": "nischaydnk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 55,
+  "totalVotes": 9,
+  "totalDownloads": 14,
+  "title": "ISIC 2020 JPG 256x256 RESIZED",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**ISIC 2020 Competition training dataset. Images resized to 256x256 for Melanoma Skin Cancer Detection.**\n## Files\n- **train-image/** - image files for the training set (provided for train only)\n- **train-metadata.csv** - metadata for the training set\n\n## Columns included only in train-metadata.csv\n| Field Name | Description |\n| --- | --- |\n| `target` | Binary class {0: benign, 1: malignant}. |\n| `patient_id` | Randomly generated for formatting |\n| `isic_id` | Unique identifier for images |",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "cancer",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

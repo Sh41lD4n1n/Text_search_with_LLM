@@ -1,0 +1,44 @@
+{
+  "id": "waqarahmad101/amazon-best-seller-product-data",
+  "id_no": 860282,
+  "datasetSlugNullable": "amazon-best-seller-product-data",
+  "ownerUserNullable": "waqarahmad101",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Amazon best seller products data",
+  "subtitleNullable": "Amazon products data",
+  "descriptionNullable": "### Context\n\nI designed my scraper for production use in my company and scraped amazon data with that, so i thought it would be good to upload it here so other people can use it too.\n\n\n### Content\nthe most required data is in there, you can see it for yourself\n\n",
+  "datasetId": 860282,
+  "datasetSlug": "amazon-best-seller-product-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "waqarahmad101",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 13044,
+  "totalVotes": 31,
+  "totalDownloads": 1344,
+  "title": "Amazon best seller products data",
+  "hasTitle": true,
+  "subtitle": "Amazon products data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI designed my scraper for production use in my company and scraped amazon data with that, so i thought it would be good to upload it here so other people can use it too.\n\n\n### Content\nthe most required data is in there, you can see it for yourself\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "computer science",
+    "internet",
+    "software",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

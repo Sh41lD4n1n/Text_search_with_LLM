@@ -1,0 +1,39 @@
+{
+  "id": "rohitdnath/dark-pattern-dataset",
+  "id_no": 5300583,
+  "datasetSlugNullable": "dark-pattern-dataset",
+  "ownerUserNullable": "rohitdnath",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Dark Pattern Dataset",
+  "subtitleNullable": "Custom Dark Pattern Dataset - IIT(BHU)",
+  "descriptionNullable": "This Dataset is a collection of popular dark patterns from different E-Commerce and Online store sites. It can be utilized by creating accurate ML Model to detect Dark Patterns in Online Stores and E-Commerces.",
+  "datasetId": 5300583,
+  "datasetSlug": "dark-pattern-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohitdnath",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Dark Pattern Dataset",
+  "hasTitle": true,
+  "subtitle": "Custom Dark Pattern Dataset - IIT(BHU)",
+  "hasSubtitle": true,
+  "description": "This Dataset is a collection of popular dark patterns from different E-Commerce and Online store sites. It can be utilized by creating accurate ML Model to detect Dark Patterns in Online Stores and E-Commerces.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "omgits0mar/signature-verification-and-identification",
+  "id_no": 3191679,
+  "datasetSlugNullable": "signature-verification-and-identification",
+  "ownerUserNullable": "omgits0mar",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Handwritten Signature Identification",
+  "subtitleNullable": "Simplified version of handwritten signatures dataset in only 1MB by FCIS-ASU",
+  "descriptionNullable": "Simplified version of Handwritten Signature datasets where it has 5 classes (PersonA...PersonE) splited into training/ testing folders. and a `CSV files` folder containing whether its real or forged for each class in training / test.\nThe goal here is to train 2 models (1 for identifying the person sig. and 2 for validating that it is a real one).\nThis dataset is part of the Computer Vision course by FCIS-ASU divided into 2 main tasks :\n&gt; 1. Signature Identification : Building a classical vision or DL techniques to identify the person of this signature.\n&gt; 2. Signature Verification : Build a 5 different models to identify for each class if it is a real or fake OR build a 1 siamese network that verifies the signature of the person whether it is a real one or fake one.",
+  "datasetId": 3191679,
+  "datasetSlug": "signature-verification-and-identification",
+  "hasDatasetSlug": true,
+  "ownerUser": "omgits0mar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1607,
+  "totalVotes": 6,
+  "totalDownloads": 276,
+  "title": "Handwritten Signature Identification",
+  "hasTitle": true,
+  "subtitle": "Simplified version of handwritten signatures dataset in only 1MB by FCIS-ASU",
+  "hasSubtitle": true,
+  "description": "Simplified version of Handwritten Signature datasets where it has 5 classes (PersonA...PersonE) splited into training/ testing folders. and a `CSV files` folder containing whether its real or forged for each class in training / test.\nThe goal here is to train 2 models (1 for identifying the person sig. and 2 for validating that it is a real one).\nThis dataset is part of the Computer Vision course by FCIS-ASU divided into 2 main tasks :\n&gt; 1. Signature Identification : Building a classical vision or DL techniques to identify the person of this signature.\n&gt; 2. Signature Verification : Build a 5 different models to identify for each class if it is a real or fake OR build a 1 siamese network that verifies the signature of the person whether it is a real one or fake one.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning",
+    "multiclass classification",
+    "image classification",
+    "image feature vector"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

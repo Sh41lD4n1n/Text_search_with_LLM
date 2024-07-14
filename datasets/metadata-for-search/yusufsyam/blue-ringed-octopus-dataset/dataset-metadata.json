@@ -1,0 +1,48 @@
+{
+  "id": "yusufsyam/blue-ringed-octopus-dataset",
+  "id_no": 2749658,
+  "datasetSlugNullable": "blue-ringed-octopus-dataset",
+  "ownerUserNullable": "yusufsyam",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Blue-Ringed Octopus",
+  "subtitleNullable": "Blue-ringed octopus object detection dataset",
+  "descriptionNullable": "This dataset is for object detection task of the [blue-ringed octopus](https://en.wikipedia.org/wiki/Blue-ringed_octopus) (one of the most venomous animals in the world). With this dataset, I hope people can become more familiar with the blue ringed octopus and be aware of its dangers\n\nI collected the images and labeled them myself (for a competition). I have less experience in collecting datasets, so I cannot guarantee the quality of this dataset. I trained a yolov7 object detection model with this data and got a mean average precision of 0.987 (with an IoU threshold of 0.5) .\n\n####About Datasets:\n- Consists of 316 images with each label in the Pascal Voc format\n- No pre-processing or image augmentation\n- Not separated into train and test\n- To use as an image classification, just delete its xml/label file\n- Made in August-September 2022\n\n####How I Collect the Data:\n\nI didn't go into the field to take these images, instead I took them from Google, some also from screenshots of some Youtube videos:\n- https://www.youtube.com/watch?v=MBHjo6UaHzk&t=62s\n- https://www.youtube.com/watch?v=c4BoYORmgSM\n- https://www.youtube.com/watch?v=DSdq8XFQdKo\n- https://www.youtube.com/watch?v=64mY1klkf4I&t=215s\n- https://www.youtube.com/watch?v=C0DOusbGWbU\n- https://www.youtube.com/watch?v=mTnmw5o4vRI\n- https://www.youtube.com/watch?v=bejKAB2Eazw&t=317s\n- https://www.youtube.com/watch?v=emisZUHJAEA\n- https://www.youtube.com/watch?v=6b_UYwyWI6E\n- https://www.youtube.com/watch?v=vVamzP52qwA\n- https://www.youtube.com/watch?v=3Bt1LvpZ1Oo\n\nI also played around with the ai text to image generator to create multiple images and manually choose which one is acceptable (`r_blue_ringed_octopus_100` `-` `r_blue_ringed_octopus_110` , you can remove it if you want). After collecting the images, I do the labeling my self.",
+  "datasetId": 2749658,
+  "datasetSlug": "blue-ringed-octopus-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yusufsyam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 843,
+  "totalVotes": 9,
+  "totalDownloads": 69,
+  "title": "Blue-Ringed Octopus",
+  "hasTitle": true,
+  "subtitle": "Blue-ringed octopus object detection dataset",
+  "hasSubtitle": true,
+  "description": "This dataset is for object detection task of the [blue-ringed octopus](https://en.wikipedia.org/wiki/Blue-ringed_octopus) (one of the most venomous animals in the world). With this dataset, I hope people can become more familiar with the blue ringed octopus and be aware of its dangers\n\nI collected the images and labeled them myself (for a competition). I have less experience in collecting datasets, so I cannot guarantee the quality of this dataset. I trained a yolov7 object detection model with this data and got a mean average precision of 0.987 (with an IoU threshold of 0.5) .\n\n####About Datasets:\n- Consists of 316 images with each label in the Pascal Voc format\n- No pre-processing or image augmentation\n- Not separated into train and test\n- To use as an image classification, just delete its xml/label file\n- Made in August-September 2022\n\n####How I Collect the Data:\n\nI didn't go into the field to take these images, instead I took them from Google, some also from screenshots of some Youtube videos:\n- https://www.youtube.com/watch?v=MBHjo6UaHzk&t=62s\n- https://www.youtube.com/watch?v=c4BoYORmgSM\n- https://www.youtube.com/watch?v=DSdq8XFQdKo\n- https://www.youtube.com/watch?v=64mY1klkf4I&t=215s\n- https://www.youtube.com/watch?v=C0DOusbGWbU\n- https://www.youtube.com/watch?v=mTnmw5o4vRI\n- https://www.youtube.com/watch?v=bejKAB2Eazw&t=317s\n- https://www.youtube.com/watch?v=emisZUHJAEA\n- https://www.youtube.com/watch?v=6b_UYwyWI6E\n- https://www.youtube.com/watch?v=vVamzP52qwA\n- https://www.youtube.com/watch?v=3Bt1LvpZ1Oo\n\nI also played around with the ai text to image generator to create multiple images and manually choose which one is acceptable (`r_blue_ringed_octopus_100` `-` `r_blue_ringed_octopus_110` , you can remove it if you want). After collecting the images, I do the labeling my self.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "image",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "toku404",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

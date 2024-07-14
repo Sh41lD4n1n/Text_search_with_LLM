@@ -1,0 +1,43 @@
+{
+  "id": "tuanai/traffic-signs-dataset",
+  "id_no": 4775089,
+  "datasetSlugNullable": "traffic-signs-dataset",
+  "ownerUserNullable": "tuanai",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Traffic-Signs-Dataset",
+  "subtitleNullable": "Unlock Road Safety: Explore 52 Types of Traffic Signs in High-Resolution Imagery",
+  "descriptionNullable": "The Traffic-Signs-Dataset is a comprehensive collection of images used for computer vision tasks, particularly in traffic sign detection and recognition. It comprises a diverse range of images showcasing 52 different types of traffic signs commonly encountered in urban and rural settings. Each image is labeled, enabling supervised learning algorithms to be trained effectively. This dataset is instrumental for researchers, developers, and practitioners in the field, facilitating the development and evaluation of machine learning models and computer vision algorithms for accurate interpretation of traffic signs in various real-world conditions.",
+  "datasetId": 4775089,
+  "datasetSlug": "traffic-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tuanai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1900,
+  "totalVotes": 29,
+  "totalDownloads": 329,
+  "title": "Traffic-Signs-Dataset",
+  "hasTitle": true,
+  "subtitle": "Unlock Road Safety: Explore 52 Types of Traffic Signs in High-Resolution Imagery",
+  "hasSubtitle": true,
+  "description": "The Traffic-Signs-Dataset is a comprehensive collection of images used for computer vision tasks, particularly in traffic sign detection and recognition. It comprises a diverse range of images showcasing 52 different types of traffic signs commonly encountered in urban and rural settings. Each image is labeled, enabling supervised learning algorithms to be trained effectively. This dataset is instrumental for researchers, developers, and practitioners in the field, facilitating the development and evaluation of machine learning models and computer vision algorithms for accurate interpretation of traffic signs in various real-world conditions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "image",
+    "image classification",
+    "image augmentation",
+    "image generator"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

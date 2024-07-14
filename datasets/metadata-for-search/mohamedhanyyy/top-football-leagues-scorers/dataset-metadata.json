@@ -1,0 +1,44 @@
+{
+  "id": "mohamedhanyyy/top-football-leagues-scorers",
+  "id_no": 1015903,
+  "datasetSlugNullable": "top-football-leagues-scorers",
+  "ownerUserNullable": "mohamedhanyyy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top Football Leagues Scorers",
+  "subtitleNullable": "All Leagues Dataset (2016-2020) ",
+  "descriptionNullable": "Context\nThe dataset is scraped from many resources and edited by me  the top website is Infogol\nInfogol has league tables and statistics from some of the top competitions from all around the world, including the English Premier League, English Championship, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, US MLS and Brazilian S\u00e9rie A, . Choose the competition you are interested in to get the actual league table, plus expected and forecast positions based on the Infogol model, along with top scorers and betting odds.\nContent\nThis dataset includes top football leagues scorers their goals ,Country, Club, matches played ,substitution, min ,Goals, xG,...\nNote : xG & xG Per Avg Match is a statistical value that is supported by the website I scraped the data from (Infogol)\nAcknowledgements\nThe data in this dataset has been scraped using Selenium from Infogol website\nSome leagues in some seasons ate not forund right now because the website not supporting it so in the next update all the seasons will be found\n",
+  "datasetId": 1015903,
+  "datasetSlug": "top-football-leagues-scorers",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedhanyyy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 45814,
+  "totalVotes": 108,
+  "totalDownloads": 8493,
+  "title": "Top Football Leagues Scorers",
+  "hasTitle": true,
+  "subtitle": "All Leagues Dataset (2016-2020) ",
+  "hasSubtitle": true,
+  "description": "Context\nThe dataset is scraped from many resources and edited by me  the top website is Infogol\nInfogol has league tables and statistics from some of the top competitions from all around the world, including the English Premier League, English Championship, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, US MLS and Brazilian S\u00e9rie A, . Choose the competition you are interested in to get the actual league table, plus expected and forecast positions based on the Infogol model, along with top scorers and betting odds.\nContent\nThis dataset includes top football leagues scorers their goals ,Country, Club, matches played ,substitution, min ,Goals, xG,...\nNote : xG & xG Per Avg Match is a statistical value that is supported by the website I scraped the data from (Infogol)\nAcknowledgements\nThe data in this dataset has been scraped using Selenium from Infogol website\nSome leagues in some seasons ate not forund right now because the website not supporting it so in the next update all the seasons will be found\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "football",
+    "sports",
+    "business",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

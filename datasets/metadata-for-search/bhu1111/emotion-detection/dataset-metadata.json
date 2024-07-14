@@ -1,0 +1,39 @@
+{
+  "id": "bhu1111/emotion-detection",
+  "id_no": 2625417,
+  "datasetSlugNullable": "emotion-detection",
+  "ownerUserNullable": "bhu1111",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Emotion Detection Text Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2625417,
+  "datasetSlug": "emotion-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhu1111",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 843,
+  "totalVotes": 3,
+  "totalDownloads": 164,
+  "title": "Emotion Detection Text Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

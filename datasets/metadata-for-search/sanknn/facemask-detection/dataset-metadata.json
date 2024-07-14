@@ -1,0 +1,49 @@
+{
+  "id": "sanknn/facemask-detection",
+  "id_no": 2315497,
+  "datasetSlugNullable": "facemask-detection",
+  "ownerUserNullable": "sanknn",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Face-mask detection",
+  "subtitleNullable": "Dataset for detecting masks on faces.",
+  "descriptionNullable": "Handcrafted dataset which contains a total of 11.8k (11,751) images are categorized into train, validation and test splits.\nFormat: 'png', 'jpg', 'jpeg'\nResolution: 'rgb', 'rgba'\nThe image size ranges from height:25-1041, width:25-1600 pixels. All augmented images are rescaled to have 256*256 pixels.\n\n## Sources - \n-Kaggle datasets\n-RMFD dataset (https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)\n-Self created images\n\n## Files - \nTrain - It contains 8118 images, divided into Withmask: 4086 images and Withoutmask: 4032 images.\nVal - It contains 1824 images, divided into Withmask: 922 images and Withoutmask: 902 images.\nTest - It contains 1809 images, divided into Withmask: 849 images and Withoutmask: 960 images.",
+  "datasetId": 2315497,
+  "datasetSlug": "facemask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanknn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1636,
+  "totalVotes": 9,
+  "totalDownloads": 246,
+  "title": "Face-mask detection",
+  "hasTitle": true,
+  "subtitle": "Dataset for detecting masks on faces.",
+  "hasSubtitle": true,
+  "description": "Handcrafted dataset which contains a total of 11.8k (11,751) images are categorized into train, validation and test splits.\nFormat: 'png', 'jpg', 'jpeg'\nResolution: 'rgb', 'rgba'\nThe image size ranges from height:25-1041, width:25-1600 pixels. All augmented images are rescaled to have 256*256 pixels.\n\n## Sources - \n-Kaggle datasets\n-RMFD dataset (https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)\n-Self created images\n\n## Files - \nTrain - It contains 8118 images, divided into Withmask: 4086 images and Withoutmask: 4032 images.\nVal - It contains 1824 images, divided into Withmask: 922 images and Withoutmask: 902 images.\nTest - It contains 1809 images, divided into Withmask: 849 images and Withoutmask: 960 images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "cnn",
+    "image",
+    "cv2",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nupurchoudhury",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

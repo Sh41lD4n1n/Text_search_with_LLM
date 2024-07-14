@@ -1,0 +1,46 @@
+{
+  "id": "jsphyg/weather-dataset-rattle-package",
+  "id_no": 6012,
+  "datasetSlugNullable": "weather-dataset-rattle-package",
+  "ownerUserNullable": "jsphyg",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Rain in Australia",
+  "subtitleNullable": "Predict next-day rain in Australia",
+  "descriptionNullable": "### Context\nEver wondered if you should carry an umbrella tomorrow? With this dataset, you can predict **next-day rain** by training classification models on the target variable **RainTomorrow**. \n\n### Content\nThis dataset comprises about 10 years of daily weather observations from numerous locations across Australia. \n\n**RainTomorrow is the target variable to predict. It answers the crucial question: will it rain the next day? (Yes or No).**\n- This column is marked 'Yes' if the rain for that day was 1mm or more. \n\n### Source & Acknowledgements\nThe observations were gathered from a multitude of weather stations. You can access daily observations from http://www.bom.gov.au/climate/data.\nFor example, you can check the latest weather observations in Canberra here: [Canberra Weather](http://www.bom.gov.au/climate/dwo/IDCJDW2801.latest.shtml).\n\nDefinitions have been adapted from the Bureau of Meteorology's [Climate Data Online](http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml).\nData source: [Climate Data](http://www.bom.gov.au/climate/dwo/) and [Climate Data Online](http://www.bom.gov.au/climate/data).\n\nCopyright Commonwealth of Australia 2010, Bureau of Meteorology.",
+  "datasetId": 6012,
+  "datasetSlug": "weather-dataset-rattle-package",
+  "hasDatasetSlug": true,
+  "ownerUser": "jsphyg",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 742227,
+  "totalVotes": 1722,
+  "totalDownloads": 130354,
+  "title": "Rain in Australia",
+  "hasTitle": true,
+  "subtitle": "Predict next-day rain in Australia",
+  "hasSubtitle": true,
+  "description": "### Context\nEver wondered if you should carry an umbrella tomorrow? With this dataset, you can predict **next-day rain** by training classification models on the target variable **RainTomorrow**. \n\n### Content\nThis dataset comprises about 10 years of daily weather observations from numerous locations across Australia. \n\n**RainTomorrow is the target variable to predict. It answers the crucial question: will it rain the next day? (Yes or No).**\n- This column is marked 'Yes' if the rain for that day was 1mm or more. \n\n### Source & Acknowledgements\nThe observations were gathered from a multitude of weather stations. You can access daily observations from http://www.bom.gov.au/climate/data.\nFor example, you can check the latest weather observations in Canberra here: [Canberra Weather](http://www.bom.gov.au/climate/dwo/IDCJDW2801.latest.shtml).\n\nDefinitions have been adapted from the Bureau of Meteorology's [Climate Data Online](http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml).\nData source: [Climate Data](http://www.bom.gov.au/climate/dwo/) and [Climate Data Online](http://www.bom.gov.au/climate/data).\n\nCopyright Commonwealth of Australia 2010, Bureau of Meteorology.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "classification",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "adamyoung32",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

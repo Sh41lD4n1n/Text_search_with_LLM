@@ -1,0 +1,48 @@
+{
+  "id": "jorritvenema/affine",
+  "id_no": 2166873,
+  "datasetSlugNullable": "affine",
+  "ownerUserNullable": "jorritvenema",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "AFFiNe - Angling Freshwater Fish Netherlands",
+  "subtitleNullable": "7.000 images of 30 fish species annotated for classification and OD",
+  "descriptionNullable": "### AFFiNe | Angling Freshwater Fish Netherlands\n\n30 common freshwater fish species of The Netherlands, photographed by anglers\n\n### Summary\nThis dataset contains images of freshwater fish in The Netherlands:\n\n- 7.000+ images in total\n- 30 different species\n- 100-500 images per species\n- images grouped in a folder per species, for classification training\n- one YOLO-file included per image, for object detection training\n\n### License and purpose\nYou are permitted to use this dataset for non-commercial purposes.\nWe supply friendly licenses and support for commercial purposes (making money using this dataset).\nPlease contact us at https://vaartsoftware.nl for this.\n\n### Origin and privacy\nImages come from the digital angling platform https://www.vangstenregistratie.nl.\nUsers have agreed to have their images included.\nWe have applied the following to minimize risk of including privacy sensitive information:\n\n1. face blurring\n2. subject cropping \n\n### Quality and validation\nThe dataset is gathered and validated using citizen science efforts.\nTherefor, it can and probably will contain some wrongly classified images.\nIf you have expert feedback on certain images, we would like to hear from you.\nPlease contact us at https://vaartsoftware.nl.\n",
+  "datasetId": 2166873,
+  "datasetSlug": "affine",
+  "hasDatasetSlug": true,
+  "ownerUser": "jorritvenema",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2623,
+  "totalVotes": 8,
+  "totalDownloads": 200,
+  "title": "AFFiNe - Angling Freshwater Fish Netherlands",
+  "hasTitle": true,
+  "subtitle": "7.000 images of 30 fish species annotated for classification and OD",
+  "hasSubtitle": true,
+  "description": "### AFFiNe | Angling Freshwater Fish Netherlands\n\n30 common freshwater fish species of The Netherlands, photographed by anglers\n\n### Summary\nThis dataset contains images of freshwater fish in The Netherlands:\n\n- 7.000+ images in total\n- 30 different species\n- 100-500 images per species\n- images grouped in a folder per species, for classification training\n- one YOLO-file included per image, for object detection training\n\n### License and purpose\nYou are permitted to use this dataset for non-commercial purposes.\nWe supply friendly licenses and support for commercial purposes (making money using this dataset).\nPlease contact us at https://vaartsoftware.nl for this.\n\n### Origin and privacy\nImages come from the digital angling platform https://www.vangstenregistratie.nl.\nUsers have agreed to have their images included.\nWe have applied the following to minimize risk of including privacy sensitive information:\n\n1. face blurring\n2. subject cropping \n\n### Quality and validation\nThe dataset is gathered and validated using citizen science efforts.\nTherefor, it can and probably will contain some wrongly classified images.\nIf you have expert feedback on certain images, we would like to hear from you.\nPlease contact us at https://vaartsoftware.nl.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "earth science",
+    "animals",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "jaspervaart",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

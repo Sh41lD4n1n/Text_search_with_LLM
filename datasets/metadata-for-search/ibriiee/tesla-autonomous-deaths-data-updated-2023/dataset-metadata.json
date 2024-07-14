@@ -1,0 +1,43 @@
+{
+  "id": "ibriiee/tesla-autonomous-deaths-data-updated-2023",
+  "id_no": 2823646,
+  "datasetSlugNullable": "tesla-autonomous-deaths-data-updated-2023",
+  "ownerUserNullable": "ibriiee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tesla Autonomous Deaths Updated 2023",
+  "subtitleNullable": "Tesla Autopilot Impact on Road Safety and Prevention Opportunities",
+  "descriptionNullable": "### Tesla Deaths: A dataset of Fatal Incidents Involving Tesla Vehicles\n\n\n#####***Description of the Tesla Accidents dataset***\n&gt; The Tesla Accidents dataset contains information on accidents involving Tesla vehicles that have resulted in the death of at least one person, including the location, date, and name of the deceased, as well as the presence of Autopilot at the time of the crash. This dataset is intended for use by researchers, policymakers, and anyone interested in understanding the relationship between Tesla vehicles and road safety. \n\n#####***More Datasets***\n&gt; For more datasets, click [here](https://www.kaggle.com/ibriiee/datasets).\n\n\n#####***Data can be used for: Investigating Autopilot's Impact on Safety***\n&gt; The dataset also includes data on reported and confirmed incidents involving Autopilot. This information can be used to identify patterns and trends in Autopilot usage and its effect on road safety.\n\n\n#####***Regularly Updated and Available for Download***\n&gt; The dataset is updated regularly and can be downloaded from the [source](https://www.tesladeaths.com/). It includes a variety of information related to each fatal incident, including the date and location of the crash, the model of the vehicle involved, and whether Autopilot was engaged at the time. Each incident is assigned a unique identifier for easy reference and detailed examination.\n\n\n#####***\"Research Idea\" - Improving Road Safety with the Help of this dataset***\n&gt; The dataset serves as a valuable resource for understanding the complex relationship between Tesla vehicles and road safety. By providing detailed information on fatal accidents, Autopilot usage, and other relevant data, it can help inform policies and research aimed at reducing the number of deaths on our roads.\n\n#####***Acknowledgements***\n&gt;*if this dataset helped you in your work or studies, please credit the original [source](https://www.tesladeaths.com/)\n**Please Credit \u2191** \n",
+  "datasetId": 2823646,
+  "datasetSlug": "tesla-autonomous-deaths-data-updated-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "ibriiee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7624,
+  "totalVotes": 36,
+  "totalDownloads": 1353,
+  "title": "Tesla Autonomous Deaths Updated 2023",
+  "hasTitle": true,
+  "subtitle": "Tesla Autopilot Impact on Road Safety and Prevention Opportunities",
+  "hasSubtitle": true,
+  "description": "### Tesla Deaths: A dataset of Fatal Incidents Involving Tesla Vehicles\n\n\n#####***Description of the Tesla Accidents dataset***\n&gt; The Tesla Accidents dataset contains information on accidents involving Tesla vehicles that have resulted in the death of at least one person, including the location, date, and name of the deceased, as well as the presence of Autopilot at the time of the crash. This dataset is intended for use by researchers, policymakers, and anyone interested in understanding the relationship between Tesla vehicles and road safety. \n\n#####***More Datasets***\n&gt; For more datasets, click [here](https://www.kaggle.com/ibriiee/datasets).\n\n\n#####***Data can be used for: Investigating Autopilot's Impact on Safety***\n&gt; The dataset also includes data on reported and confirmed incidents involving Autopilot. This information can be used to identify patterns and trends in Autopilot usage and its effect on road safety.\n\n\n#####***Regularly Updated and Available for Download***\n&gt; The dataset is updated regularly and can be downloaded from the [source](https://www.tesladeaths.com/). It includes a variety of information related to each fatal incident, including the date and location of the crash, the model of the vehicle involved, and whether Autopilot was engaged at the time. Each incident is assigned a unique identifier for easy reference and detailed examination.\n\n\n#####***\"Research Idea\" - Improving Road Safety with the Help of this dataset***\n&gt; The dataset serves as a valuable resource for understanding the complex relationship between Tesla vehicles and road safety. By providing detailed information on fatal accidents, Autopilot usage, and other relevant data, it can help inform policies and research aimed at reducing the number of deaths on our roads.\n\n#####***Acknowledgements***\n&gt;*if this dataset helped you in your work or studies, please credit the original [source](https://www.tesladeaths.com/)\n**Please Credit \u2191** \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "mortality",
+    "electronics",
+    "transportation",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

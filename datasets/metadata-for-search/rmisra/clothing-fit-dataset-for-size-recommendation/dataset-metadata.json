@@ -1,0 +1,44 @@
+{
+  "id": "rmisra/clothing-fit-dataset-for-size-recommendation",
+  "id_no": 45560,
+  "datasetSlugNullable": "clothing-fit-dataset-for-size-recommendation",
+  "ownerUserNullable": "rmisra",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Clothing Fit Dataset for Size Recommendation",
+  "subtitleNullable": "Clothing purchase data with fit feedback, review and rating information",
+  "descriptionNullable": "### Context\n\nProduct size recommendation and fit prediction are critical in order to improve customers\u2019 shopping experiences and to reduce product return rates. However, modeling customers\u2019 fit feedback is challenging due to its subtle semantics, arising from the subjective evaluation of products and imbalanced label distribution (most of the feedbacks are \"Fit\"). These datasets, which are the only fit related datasets available publically at this time, collected from [ModCloth](https://www.modcloth.com/) and [RentTheRunWay](https://www.renttherunway.com/) could be used to address these challenges to improve the recommendation process.\n\n### Content\n\nFollowing type of information is available in the datasets:\n\n* ```ratings and reviews```\n* ```fit feedback``` (small/fit/large)\n* ```customer/product measurements```\n* ```category information```\n\nPlease refer to file description for more granular details. These datasets are highly sparse, with most products and customers having only a single transaction. Note that, here a \u2018product\u2019 refers to a specific size of a product, as our goal is to predict fitness for associated catalog sizes. Also, since different clothing products use different sizing conventions, we standardize sizes into a single numerical scale preserving the order. Please read the paper for further details.\n\n### Citation\n\nIf you're using this dataset for your work, please cite the following articles:\n\nCitation in text format:\n```\n1. Misra, Rishabh, Mengting Wan, and Julian McAuley. \"Decomposing fit semantics for product size recommendation in metric spaces.\" In Proceedings of the 12th ACM Conference on Recommender Systems, pp. 422-426. 2018.\n2. Misra, Rishabh and Jigyasa Grover. \"Sculpting Data for ML: The first act of Machine Learning.\" ISBN 9798585463570 (2021).\n```\nCitation in BibTex format:\n```\n@inproceedings{misra2018decomposing,\n  title={Decomposing fit semantics for product size recommendation in metric spaces},\n  author={Misra, Rishabh and Wan, Mengting and McAuley, Julian},\n  booktitle={Proceedings of the 12th ACM Conference on Recommender Systems},\n  pages={422--426},\n  year={2018},\n  organization={ACM}\n}\n@book{misra2021sculpting,\n  author = {Misra, Rishabh and Grover, Jigyasa},\n  year = {2021},\n  month = {01},\n  pages = {},\n  title = {Sculpting Data for ML: The first act of Machine Learning},\n  isbn = {9798585463570}\n}\n```\n\nPlease link to [rishabhmisra.github.io/publications](https://rishabhmisra.github.io/publications/) as the source of this dataset. Thanks!\n\n### Inspiration\n\nThese datasets obtained for [ModCloth](https://www.modcloth.com/) and [RentTheRunWay](https://www.renttherunway.com/) could be used:\n\n* To tackle the catalog size recommendation problem.\n\n* To tackle the review or rating prediction problems.\n\n* To generate a summary of reviews (given both full review text and summary are provided).\n\n### Want to contribute your own datasets?\n\nIf you are interested in learning how to collect high-quality datasets for various ML tasks and the overall importance of data in the ML ecosystem, consider reading my book [Sculpting Data for ML](https://www.amazon.com/dp/B08RN47C5T).\n\n### Other datasets\nPlease also checkout the following datasets collected by me:\n\n* [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)\n\n* [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)\n\n* [IMDB Spoiler Dataset](https://www.kaggle.com/rmisra/imdb-spoiler-dataset)\n\n* [Politifact Fact Check Dataset](https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset)",
+  "datasetId": 45560,
+  "datasetSlug": "clothing-fit-dataset-for-size-recommendation",
+  "hasDatasetSlug": true,
+  "ownerUser": "rmisra",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 120391,
+  "totalVotes": 181,
+  "totalDownloads": 10847,
+  "title": "Clothing Fit Dataset for Size Recommendation",
+  "hasTitle": true,
+  "subtitle": "Clothing purchase data with fit feedback, review and rating information",
+  "hasSubtitle": true,
+  "description": "### Context\n\nProduct size recommendation and fit prediction are critical in order to improve customers\u2019 shopping experiences and to reduce product return rates. However, modeling customers\u2019 fit feedback is challenging due to its subtle semantics, arising from the subjective evaluation of products and imbalanced label distribution (most of the feedbacks are \"Fit\"). These datasets, which are the only fit related datasets available publically at this time, collected from [ModCloth](https://www.modcloth.com/) and [RentTheRunWay](https://www.renttherunway.com/) could be used to address these challenges to improve the recommendation process.\n\n### Content\n\nFollowing type of information is available in the datasets:\n\n* ```ratings and reviews```\n* ```fit feedback``` (small/fit/large)\n* ```customer/product measurements```\n* ```category information```\n\nPlease refer to file description for more granular details. These datasets are highly sparse, with most products and customers having only a single transaction. Note that, here a \u2018product\u2019 refers to a specific size of a product, as our goal is to predict fitness for associated catalog sizes. Also, since different clothing products use different sizing conventions, we standardize sizes into a single numerical scale preserving the order. Please read the paper for further details.\n\n### Citation\n\nIf you're using this dataset for your work, please cite the following articles:\n\nCitation in text format:\n```\n1. Misra, Rishabh, Mengting Wan, and Julian McAuley. \"Decomposing fit semantics for product size recommendation in metric spaces.\" In Proceedings of the 12th ACM Conference on Recommender Systems, pp. 422-426. 2018.\n2. Misra, Rishabh and Jigyasa Grover. \"Sculpting Data for ML: The first act of Machine Learning.\" ISBN 9798585463570 (2021).\n```\nCitation in BibTex format:\n```\n@inproceedings{misra2018decomposing,\n  title={Decomposing fit semantics for product size recommendation in metric spaces},\n  author={Misra, Rishabh and Wan, Mengting and McAuley, Julian},\n  booktitle={Proceedings of the 12th ACM Conference on Recommender Systems},\n  pages={422--426},\n  year={2018},\n  organization={ACM}\n}\n@book{misra2021sculpting,\n  author = {Misra, Rishabh and Grover, Jigyasa},\n  year = {2021},\n  month = {01},\n  pages = {},\n  title = {Sculpting Data for ML: The first act of Machine Learning},\n  isbn = {9798585463570}\n}\n```\n\nPlease link to [rishabhmisra.github.io/publications](https://rishabhmisra.github.io/publications/) as the source of this dataset. Thanks!\n\n### Inspiration\n\nThese datasets obtained for [ModCloth](https://www.modcloth.com/) and [RentTheRunWay](https://www.renttherunway.com/) could be used:\n\n* To tackle the catalog size recommendation problem.\n\n* To tackle the review or rating prediction problems.\n\n* To generate a summary of reviews (given both full review text and summary are provided).\n\n### Want to contribute your own datasets?\n\nIf you are interested in learning how to collect high-quality datasets for various ML tasks and the overall importance of data in the ML ecosystem, consider reading my book [Sculpting Data for ML](https://www.amazon.com/dp/B08RN47C5T).\n\n### Other datasets\nPlease also checkout the following datasets collected by me:\n\n* [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)\n\n* [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)\n\n* [IMDB Spoiler Dataset](https://www.kaggle.com/rmisra/imdb-spoiler-dataset)\n\n* [Politifact Fact Check Dataset](https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "feature engineering",
+    "recommender systems",
+    "ratings and reviews",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

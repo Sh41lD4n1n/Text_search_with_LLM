@@ -1,0 +1,39 @@
+{
+  "id": "aishikai/asl-alphabets",
+  "id_no": 1544748,
+  "datasetSlugNullable": "asl-alphabets",
+  "ownerUserNullable": "aishikai",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "ASL Alphabets",
+  "subtitleNullable": "Data Sprint #45: Sign Language Hand Gesture Recognition",
+  "descriptionNullable": "New technologies are emerging that can assist those with hearing disabilities, but there is still plenty of work to be done. Computer vision applications, for example, could improve communication with the deaf and hard-of-hearing even more due to advancements in machine learning algorithms.\n\n \n\nYou are required to build a machine learning model that is capable of identifying American Sign Language (ASL) hand gestures. ",
+  "datasetId": 1544748,
+  "datasetSlug": "asl-alphabets",
+  "hasDatasetSlug": true,
+  "ownerUser": "aishikai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1454,
+  "totalVotes": 4,
+  "totalDownloads": 71,
+  "title": "ASL Alphabets",
+  "hasTitle": true,
+  "subtitle": "Data Sprint #45: Sign Language Hand Gesture Recognition",
+  "hasSubtitle": true,
+  "description": "New technologies are emerging that can assist those with hearing disabilities, but there is still plenty of work to be done. Computer vision applications, for example, could improve communication with the deaf and hard-of-hearing even more due to advancements in machine learning algorithms.\n\n \n\nYou are required to build a machine learning model that is capable of identifying American Sign Language (ASL) hand gestures. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

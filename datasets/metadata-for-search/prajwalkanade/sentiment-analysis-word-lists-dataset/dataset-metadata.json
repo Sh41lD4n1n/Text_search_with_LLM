@@ -1,0 +1,42 @@
+{
+  "id": "prajwalkanade/sentiment-analysis-word-lists-dataset",
+  "id_no": 3896092,
+  "datasetSlugNullable": "sentiment-analysis-word-lists-dataset",
+  "ownerUserNullable": "prajwalkanade",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Sentiment Analysis Word Lists Dataset",
+  "subtitleNullable": "Words that Define Emotions: A Sentiment Lexicon",
+  "descriptionNullable": "**Dataset Description:**\n\nThis dataset comprises two text files, one containing a list of positive words and the other a list of negative words. These files are intended to serve as essential resources for sentiment analysis and natural language processing tasks.\n\n- **Positive Words File:** This file contains a collection of words and terms that typically convey positive sentiment or emotions. These words are often associated with happiness, satisfaction, approval, or positive experiences.\n\n- **Negative Words File:** The second file includes a compilation of words and phrases that commonly express negative sentiments or emotions. These words are often related to displeasure, disappointment, criticism, or negative experiences.\n\n**Use Cases:**\n\nThe dataset can be used in various applications and research areas, including:\n\n1. **Sentiment Analysis:** Researchers and developers can employ these word lists to help assess the sentiment of text data and categorize it as positive, negative, or neutral.\n\n2. **Text Classification:** These datasets can be utilized in text classification tasks, such as determining the sentiment of product reviews, social media posts, or customer feedback.\n\n3. **Emotion Detection:** The words in these lists can aid in emotion detection and understanding the emotional tone of text.\n\n4. **NLP Research:** Linguists and researchers in the field of natural language processing (NLP) may use these datasets to analyze language patterns and emotional expression in texts.\n\n5. **Content Analysis:** Businesses and organizations can leverage this data to gain insights into public opinion, brand perception, and content analysis.\n\nThese lists of positive and negative words serve as valuable references for sentiment-related analyses, enabling automated assessment of the emotional content of textual data in a wide range of applications.",
+  "datasetId": 3896092,
+  "datasetSlug": "sentiment-analysis-word-lists-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "prajwalkanade",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2842,
+  "totalVotes": 16,
+  "totalDownloads": 547,
+  "title": "Sentiment Analysis Word Lists Dataset",
+  "hasTitle": true,
+  "subtitle": "Words that Define Emotions: A Sentiment Lexicon",
+  "hasSubtitle": true,
+  "description": "**Dataset Description:**\n\nThis dataset comprises two text files, one containing a list of positive words and the other a list of negative words. These files are intended to serve as essential resources for sentiment analysis and natural language processing tasks.\n\n- **Positive Words File:** This file contains a collection of words and terms that typically convey positive sentiment or emotions. These words are often associated with happiness, satisfaction, approval, or positive experiences.\n\n- **Negative Words File:** The second file includes a compilation of words and phrases that commonly express negative sentiments or emotions. These words are often related to displeasure, disappointment, criticism, or negative experiences.\n\n**Use Cases:**\n\nThe dataset can be used in various applications and research areas, including:\n\n1. **Sentiment Analysis:** Researchers and developers can employ these word lists to help assess the sentiment of text data and categorize it as positive, negative, or neutral.\n\n2. **Text Classification:** These datasets can be utilized in text classification tasks, such as determining the sentiment of product reviews, social media posts, or customer feedback.\n\n3. **Emotion Detection:** The words in these lists can aid in emotion detection and understanding the emotional tone of text.\n\n4. **NLP Research:** Linguists and researchers in the field of natural language processing (NLP) may use these datasets to analyze language patterns and emotional expression in texts.\n\n5. **Content Analysis:** Businesses and organizations can leverage this data to gain insights into public opinion, brand perception, and content analysis.\n\nThese lists of positive and negative words serve as valuable references for sentiment-related analyses, enabling automated assessment of the emotional content of textual data in a wide range of applications.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "lstm",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

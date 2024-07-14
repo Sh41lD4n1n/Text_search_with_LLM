@@ -1,0 +1,42 @@
+{
+  "id": "mbkinaci/fruit-images-for-object-detection",
+  "id_no": 34662,
+  "datasetSlugNullable": "fruit-images-for-object-detection",
+  "ownerUserNullable": "mbkinaci",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Fruit Images for Object Detection",
+  "subtitleNullable": "Containing labelled fruit images to train object detection systems.",
+  "descriptionNullable": "### Project\nThis dataset is the data used in [this project](https://github.com/MuhammedBuyukkinaci/Fruit-Detector).\n\n### Context\n\nA different dataset for object detection. 240 images in train folder. 60 images in test folder.\n\n### Content\n\n3 different fruits:\n\nApple\n\nBanana\n\nOrange\n\n### Acknowledgements\n\n.xml files were created with [LabelImg][1]. It is super easy to label objects in images.\n\n\n### Inspiration\n\nI inspired from [EdjeElectronics][2] to make my project. \n\n\n  [1]: https://github.com/tzutalin/labelImg\n  [2]: https://github.com/EdjeElectronics",
+  "datasetId": 34662,
+  "datasetSlug": "fruit-images-for-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "mbkinaci",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 177360,
+  "totalVotes": 348,
+  "totalDownloads": 32200,
+  "title": "Fruit Images for Object Detection",
+  "hasTitle": true,
+  "subtitle": "Containing labelled fruit images to train object detection systems.",
+  "hasSubtitle": true,
+  "description": "### Project\nThis dataset is the data used in [this project](https://github.com/MuhammedBuyukkinaci/Fruit-Detector).\n\n### Context\n\nA different dataset for object detection. 240 images in train folder. 60 images in test folder.\n\n### Content\n\n3 different fruits:\n\nApple\n\nBanana\n\nOrange\n\n### Acknowledgements\n\n.xml files were created with [LabelImg][1]. It is super easy to label objects in images.\n\n\n### Inspiration\n\nI inspired from [EdjeElectronics][2] to make my project. \n\n\n  [1]: https://github.com/tzutalin/labelImg\n  [2]: https://github.com/EdjeElectronics",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

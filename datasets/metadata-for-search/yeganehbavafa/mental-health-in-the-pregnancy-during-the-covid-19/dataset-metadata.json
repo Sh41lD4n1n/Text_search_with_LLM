@@ -1,0 +1,43 @@
+{
+  "id": "yeganehbavafa/mental-health-in-the-pregnancy-during-the-covid-19",
+  "id_no": 4390603,
+  "datasetSlugNullable": "mental-health-in-the-pregnancy-during-the-covid-19",
+  "ownerUserNullable": "yeganehbavafa",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Mental health in the pregnancy during the COVID-19",
+  "subtitleNullable": "Prenatal mental health data and birth outcomes in the pregnancy during the COVID",
+  "descriptionNullable": "**The COVID-19 pandemic was a substantial stressor, especially for pregnant individuals.**\n\n- \n-  This Dataset aimed to understand the impact of COVID-19-related stresses on pregnant individuals and their infants and collected survey-based data across Canada as part of the Pregnancy during the COVID-19 Pandemic (PdP) project. \n\n- Here are some information about the data:\n1. Maternal_Age: Maternal age (years) at intake\n2. Household_Income: What is the total household income, before taxes and deductions, of all the household members from all sources in 2019\n3. Maternal_Education: Maternal education\n1- Less than high school\n2- diploma\n3- High school diploma\n4- College/trade school\n5- Undergraduate degree\n6- Master's degree\n7- Doctoral Degree\n4. EPDS: Edinburgh Postnatal Depression Scale (you can find the survey on the internet)\n5. PROMIS_Anxiety: Score from 7 to 35 with higher scores indicating greater severity of anxiety.\n6. GAbirth: Gestational age at birth (in weeks)\n7. Delivery_Date: Delivery Date (Dates converted to month/year of birth)\n8. Birth_Length: Birth length in cm\n9. Birth_Weight: Birth weight in grams\n10. Delivery_Mode: Vaginally or Caesarean-section (c-section)\n11. NICU_stay: Was your infant admitted to the NICU?\n12. Language: Survey language\n13. Threaten_Life: How much do (did) you think your life is (was) in danger during the COVID-19 pandemic? (0-100)\n14. Threaten_Baby_Danger: How much do (did) you think your unborn baby's life is (was) in danger at any time during the COVID-19 pandemic? (0-100)\n15. Threaten_Baby_Harm: How much are you worried that exposure to the COVID-19 virus will harm your unborn baby? (0-100)\n\n**I hope you find it useful**",
+  "datasetId": 4390603,
+  "datasetSlug": "mental-health-in-the-pregnancy-during-the-covid-19",
+  "hasDatasetSlug": true,
+  "ownerUser": "yeganehbavafa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6482,
+  "totalVotes": 54,
+  "totalDownloads": 945,
+  "title": "Mental health in the pregnancy during the COVID-19",
+  "hasTitle": true,
+  "subtitle": "Prenatal mental health data and birth outcomes in the pregnancy during the COVID",
+  "hasSubtitle": true,
+  "description": "**The COVID-19 pandemic was a substantial stressor, especially for pregnant individuals.**\n\n- \n-  This Dataset aimed to understand the impact of COVID-19-related stresses on pregnant individuals and their infants and collected survey-based data across Canada as part of the Pregnancy during the COVID-19 Pandemic (PdP) project. \n\n- Here are some information about the data:\n1. Maternal_Age: Maternal age (years) at intake\n2. Household_Income: What is the total household income, before taxes and deductions, of all the household members from all sources in 2019\n3. Maternal_Education: Maternal education\n1- Less than high school\n2- diploma\n3- High school diploma\n4- College/trade school\n5- Undergraduate degree\n6- Master's degree\n7- Doctoral Degree\n4. EPDS: Edinburgh Postnatal Depression Scale (you can find the survey on the internet)\n5. PROMIS_Anxiety: Score from 7 to 35 with higher scores indicating greater severity of anxiety.\n6. GAbirth: Gestational age at birth (in weeks)\n7. Delivery_Date: Delivery Date (Dates converted to month/year of birth)\n8. Birth_Length: Birth length in cm\n9. Birth_Weight: Birth weight in grams\n10. Delivery_Mode: Vaginally or Caesarean-section (c-section)\n11. NICU_stay: Was your infant admitted to the NICU?\n12. Language: Survey language\n13. Threaten_Life: How much do (did) you think your life is (was) in danger during the COVID-19 pandemic? (0-100)\n14. Threaten_Baby_Danger: How much do (did) you think your unborn baby's life is (was) in danger at any time during the COVID-19 pandemic? (0-100)\n15. Threaten_Baby_Harm: How much are you worried that exposure to the COVID-19 virus will harm your unborn baby? (0-100)\n\n**I hope you find it useful**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "health",
+    "covid19",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

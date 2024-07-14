@@ -1,0 +1,45 @@
+{
+  "id": "skooch/ddsm-mammography",
+  "id_no": 27069,
+  "datasetSlugNullable": "ddsm-mammography",
+  "ownerUserNullable": "skooch",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "DDSM Mammography",
+  "subtitleNullable": "tfrecords files of scans from the DDSM dataset",
+  "descriptionNullable": "### Summary\nThis dataset consists of images from the DDSM [1] and CBIS-DDSM [3] datasets. The images have been pre-processed and converted to 299x299 images by extracting the ROIs. The data is stored as tfrecords files for TensorFlow. \n\nThe dataset contains 55,890 training examples, of which 14% are positive and the remaining 86% negative, divided into 5 tfrecords files.\n\n**Note** - The data has been separated into training and test as per the division in the CBIS-DDSM dataset. The test files have been divided equally into test and validation data. However the split between test and validation data was done incorrectly, resulted in the test numpy files containing only masses and the validation files containing only calcifications. These files should be combined in order to have balanced and complete test data.\n\n### Pre-processing\nThe dataset consists of negative images from the DDSM dataset and positive images from the CBIS-DDSM dataset. The data was pre-processed to convert it into 299x299 images.\n\nThe negative (DDSM) images were tiled into 598x598 tiles, which were then resized to 299x299.\n\nThe positive (CBIS-DDSM) images had their ROIs extracted using the masks with a small amount of padding to provide context. Each ROI was then randomly cropped three times into 598x598 images, with random flips and rotations, and then the images were resized down to 299x299.\n\nThe images are labeled with two labels:\n\n 1. label_normal - 0 for negative and 1 for positive\n 2. label - full multi-class labels, 0 is negative, 1 is benign calcification, 2 is benign mass, 3 is malignant calcification, 4 is malignant mass\n\nThe following Python code will decode the training examples:\n\n       features = tf.parse_single_example(\n            serialized_example,\n            features={\n                'label': tf.FixedLenFeature([], tf.int64),\n                'label_normal': tf.FixedLenFeature([], tf.int64),\n                'image': tf.FixedLenFeature([], tf.string)\n            })\n\n        # extract the data\n        label = features['label_normal']\n        image = tf.decode_raw(features['image'], tf.uint8)\n\n        # reshape and scale the image\n        image = tf.reshape(image, [299, 299, 1])\n\nThe training examples do include images which contain content other than breast tissue, such as black background and occasionally overlay text. \n\n### Inspiration\nPrevious work [5] has already dealt with classifying pre-identified lesions, this dataset was created with the intention of classifying raw scans as positive or negative by detecting abnormalities. The ability to automatically detect lesions could save many lives.\n\n### Acknowledgements\n[1] The Digital Database for Screening Mammography, Michael Heath, Kevin Bowyer, Daniel Kopans, Richard Moore and W. Philip Kegelmeyer, in Proceedings of the Fifth International Workshop on Digital Mammography, M.J. Yaffe, ed., 212-218, Medical Physics Publishing, 2001. ISBN 1-930524-00-5.\n\n[2] Current status of the Digital Database for Screening Mammography, Michael Heath, Kevin Bowyer, Daniel Kopans, W. Philip Kegelmeyer, Richard Moore, Kyong Chang, and S. Munish Kumaran, in Digital Mammography, 457-460, Kluwer Academic Publishers, 1998; Proceedings of the Fourth International Workshop on Digital Mammography.\n\n[3] Rebecca Sawyer Lee, Francisco Gimenez, Assaf Hoogi , Daniel Rubin  (2016). Curated Breast Imaging Subset of DDSM. The Cancer Imaging Archive.\n\n[4] Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, Maffitt D, Pringle M, Tarbox L, Prior F. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057.\n\n[5] D. Levy, A. Jain, Breast Mass Classification from Mammograms using Deep Convolutional Neural Networks, arXiv:1612.00542v1, 2016",
+  "datasetId": 27069,
+  "datasetSlug": "ddsm-mammography",
+  "hasDatasetSlug": true,
+  "ownerUser": "skooch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 98270,
+  "totalVotes": 190,
+  "totalDownloads": 8966,
+  "title": "DDSM Mammography",
+  "hasTitle": true,
+  "subtitle": "tfrecords files of scans from the DDSM dataset",
+  "hasSubtitle": true,
+  "description": "### Summary\nThis dataset consists of images from the DDSM [1] and CBIS-DDSM [3] datasets. The images have been pre-processed and converted to 299x299 images by extracting the ROIs. The data is stored as tfrecords files for TensorFlow. \n\nThe dataset contains 55,890 training examples, of which 14% are positive and the remaining 86% negative, divided into 5 tfrecords files.\n\n**Note** - The data has been separated into training and test as per the division in the CBIS-DDSM dataset. The test files have been divided equally into test and validation data. However the split between test and validation data was done incorrectly, resulted in the test numpy files containing only masses and the validation files containing only calcifications. These files should be combined in order to have balanced and complete test data.\n\n### Pre-processing\nThe dataset consists of negative images from the DDSM dataset and positive images from the CBIS-DDSM dataset. The data was pre-processed to convert it into 299x299 images.\n\nThe negative (DDSM) images were tiled into 598x598 tiles, which were then resized to 299x299.\n\nThe positive (CBIS-DDSM) images had their ROIs extracted using the masks with a small amount of padding to provide context. Each ROI was then randomly cropped three times into 598x598 images, with random flips and rotations, and then the images were resized down to 299x299.\n\nThe images are labeled with two labels:\n\n 1. label_normal - 0 for negative and 1 for positive\n 2. label - full multi-class labels, 0 is negative, 1 is benign calcification, 2 is benign mass, 3 is malignant calcification, 4 is malignant mass\n\nThe following Python code will decode the training examples:\n\n       features = tf.parse_single_example(\n            serialized_example,\n            features={\n                'label': tf.FixedLenFeature([], tf.int64),\n                'label_normal': tf.FixedLenFeature([], tf.int64),\n                'image': tf.FixedLenFeature([], tf.string)\n            })\n\n        # extract the data\n        label = features['label_normal']\n        image = tf.decode_raw(features['image'], tf.uint8)\n\n        # reshape and scale the image\n        image = tf.reshape(image, [299, 299, 1])\n\nThe training examples do include images which contain content other than breast tissue, such as black background and occasionally overlay text. \n\n### Inspiration\nPrevious work [5] has already dealt with classifying pre-identified lesions, this dataset was created with the intention of classifying raw scans as positive or negative by detecting abnormalities. The ability to automatically detect lesions could save many lives.\n\n### Acknowledgements\n[1] The Digital Database for Screening Mammography, Michael Heath, Kevin Bowyer, Daniel Kopans, Richard Moore and W. Philip Kegelmeyer, in Proceedings of the Fifth International Workshop on Digital Mammography, M.J. Yaffe, ed., 212-218, Medical Physics Publishing, 2001. ISBN 1-930524-00-5.\n\n[2] Current status of the Digital Database for Screening Mammography, Michael Heath, Kevin Bowyer, Daniel Kopans, W. Philip Kegelmeyer, Richard Moore, Kyong Chang, and S. Munish Kumaran, in Digital Mammography, 457-460, Kluwer Academic Publishers, 1998; Proceedings of the Fourth International Workshop on Digital Mammography.\n\n[3] Rebecca Sawyer Lee, Francisco Gimenez, Assaf Hoogi , Daniel Rubin  (2016). Curated Breast Imaging Subset of DDSM. The Cancer Imaging Archive.\n\n[4] Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, Maffitt D, Pringle M, Tarbox L, Prior F. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057.\n\n[5] D. Levy, A. Jain, Breast Mass Classification from Mammograms using Deep Convolutional Neural Networks, arXiv:1612.00542v1, 2016",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "healthcare",
+    "biology",
+    "health",
+    "medicine",
+    "image",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

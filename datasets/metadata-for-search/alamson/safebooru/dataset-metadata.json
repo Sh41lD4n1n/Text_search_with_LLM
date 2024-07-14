@@ -1,0 +1,41 @@
+{
+  "id": "alamson/safebooru",
+  "id_no": 10844,
+  "datasetSlugNullable": "safebooru",
+  "ownerUserNullable": "alamson",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Safebooru - Anime Image Metadata",
+  "subtitleNullable": "3 million rows of tag-based anime image metadata",
+  "descriptionNullable": "### Context\n\n[Safebooru][1] is a tag-based image archive maintained by anime enthusiasts. It allows users to post images and add tags, annotations, translations and comments. It's derived from Danbooru, and differs from it in that it disallows explicit content. \n\n### Content\n\nThe data was scraped via Safebooru's online API, then converted from XML to CSV (some attributes were discarded during the conversion to make the whole csv a little smaller).\nThere are 2,736,037 rows of the metadata.\nThe data contains images uploaded to safebooru.org in the time range of 2010-01-29 through 2019-06-07.\n\n\n### Acknowledgements\n\nBanner image taken from https://safebooru.org/index.php?page=post&s=view&id=1514244\n\nData collected by [Alex Lamson](https://alexlamson.com) using scripts from [safebooru-predict](https://github.com/AlexLamson/safebooru-predict) (there are some other useful scripts there as well)\n\n### Inspiration\n\nWhat tags are highly correlated?\n\nCan you predict missing tags?\n\nCan you predict the score of an image based on its tags?\n\nSome tags are dependent on each other (eg. the presence of \"striped socks\" implies the existence of \"socks\"). Can you build trees which visualize these dependencies?\n\n\n  [1]: http://safebooru.org",
+  "datasetId": 10844,
+  "datasetSlug": "safebooru",
+  "hasDatasetSlug": true,
+  "ownerUser": "alamson",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 154198,
+  "totalVotes": 116,
+  "totalDownloads": 3825,
+  "title": "Safebooru - Anime Image Metadata",
+  "hasTitle": true,
+  "subtitle": "3 million rows of tag-based anime image metadata",
+  "hasSubtitle": true,
+  "description": "### Context\n\n[Safebooru][1] is a tag-based image archive maintained by anime enthusiasts. It allows users to post images and add tags, annotations, translations and comments. It's derived from Danbooru, and differs from it in that it disallows explicit content. \n\n### Content\n\nThe data was scraped via Safebooru's online API, then converted from XML to CSV (some attributes were discarded during the conversion to make the whole csv a little smaller).\nThere are 2,736,037 rows of the metadata.\nThe data contains images uploaded to safebooru.org in the time range of 2010-01-29 through 2019-06-07.\n\n\n### Acknowledgements\n\nBanner image taken from https://safebooru.org/index.php?page=post&s=view&id=1514244\n\nData collected by [Alex Lamson](https://alexlamson.com) using scripts from [safebooru-predict](https://github.com/AlexLamson/safebooru-predict) (there are some other useful scripts there as well)\n\n### Inspiration\n\nWhat tags are highly correlated?\n\nCan you predict missing tags?\n\nCan you predict the score of an image based on its tags?\n\nSome tags are dependent on each other (eg. the presence of \"striped socks\" implies the existence of \"socks\"). Can you build trees which visualize these dependencies?\n\n\n  [1]: http://safebooru.org",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "art",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

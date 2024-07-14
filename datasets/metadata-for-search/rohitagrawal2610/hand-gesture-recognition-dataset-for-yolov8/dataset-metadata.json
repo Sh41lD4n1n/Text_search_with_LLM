@@ -1,0 +1,43 @@
+{
+  "id": "rohitagrawal2610/hand-gesture-recognition-dataset-for-yolov8",
+  "id_no": 4675565,
+  "datasetSlugNullable": "hand-gesture-recognition-dataset-for-yolov8",
+  "ownerUserNullable": "rohitagrawal2610",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Hand Gesture Recognition Dataset for YOLOv8",
+  "subtitleNullable": "Diverse Hand Gestures: A collection of 20,000 images featuring a variety of hand",
+  "descriptionNullable": "This dataset comprises 20,000 images of hand gestures, divided into 10 distinct classes. Each class represents a specific hand gesture commonly used in gesture recognition tasks. The dataset is organized into \"train\" and \"val\" folders, adhering to the structure recommended for YOLOv8 data preparation.\n\nThe hand gestures included in the dataset are meticulously labeled to facilitate training and evaluation of YOLOv8-based models for hand gesture recognition applications. Researchers, developers, and enthusiasts interested in exploring deep learning-based approaches for gesture recognition tasks can utilize this dataset to train and validate their models effectively.\n\nPlease note that the dataset is provided solely for research and educational purposes. Any commercial use or redistribution of this dataset should be done with appropriate permissions and acknowledgments. We hope this dataset contributes to advancements in gesture recognition technology and encourages further exploration in this field.",
+  "datasetId": 4675565,
+  "datasetSlug": "hand-gesture-recognition-dataset-for-yolov8",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohitagrawal2610",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 238,
+  "totalVotes": 2,
+  "totalDownloads": 28,
+  "title": "Hand Gesture Recognition Dataset for YOLOv8",
+  "hasTitle": true,
+  "subtitle": "Diverse Hand Gestures: A collection of 20,000 images featuring a variety of hand",
+  "hasSubtitle": true,
+  "description": "This dataset comprises 20,000 images of hand gestures, divided into 10 distinct classes. Each class represents a specific hand gesture commonly used in gesture recognition tasks. The dataset is organized into \"train\" and \"val\" folders, adhering to the structure recommended for YOLOv8 data preparation.\n\nThe hand gestures included in the dataset are meticulously labeled to facilitate training and evaluation of YOLOv8-based models for hand gesture recognition applications. Researchers, developers, and enthusiasts interested in exploring deep learning-based approaches for gesture recognition tasks can utilize this dataset to train and validate their models effectively.\n\nPlease note that the dataset is provided solely for research and educational purposes. Any commercial use or redistribution of this dataset should be done with appropriate permissions and acknowledgments. We hope this dataset contributes to advancements in gesture recognition technology and encourages further exploration in this field.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "computer vision",
+    "classification",
+    "cv2",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

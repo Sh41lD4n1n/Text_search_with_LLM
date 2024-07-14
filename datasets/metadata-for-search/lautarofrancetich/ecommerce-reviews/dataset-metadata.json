@@ -1,0 +1,39 @@
+{
+  "id": "lautarofrancetich/ecommerce-reviews",
+  "id_no": 2222443,
+  "datasetSlugNullable": "ecommerce-reviews",
+  "ownerUserNullable": "lautarofrancetich",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "ecommerce-reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2222443,
+  "datasetSlug": "ecommerce-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "lautarofrancetich",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 439,
+  "totalVotes": 1,
+  "totalDownloads": 44,
+  "title": "ecommerce-reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "muhammadkhalid/sign-language-for-numbers",
+  "id_no": 415667,
+  "datasetSlugNullable": "sign-language-for-numbers",
+  "ownerUserNullable": "muhammadkhalid",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Sign Language for Numbers",
+  "subtitleNullable": "Hand Gesture Recognition Datasets for Numbers",
+  "descriptionNullable": "- Sign language datasets for hand gesture recognition for numbers.\n- Following gestures can be detected using this datasets\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3501914%2F7b0dad7ab22042627bb4a82b1c217d5d%2FNumbers.JPG?generation=1573758431577149&alt=media)",
+  "datasetId": 415667,
+  "datasetSlug": "sign-language-for-numbers",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadkhalid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 18347,
+  "totalVotes": 30,
+  "totalDownloads": 2267,
+  "title": "Sign Language for Numbers",
+  "hasTitle": true,
+  "subtitle": "Hand Gesture Recognition Datasets for Numbers",
+  "hasSubtitle": true,
+  "description": "- Sign language datasets for hand gesture recognition for numbers.\n- Following gestures can be detected using this datasets\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3501914%2F7b0dad7ab22042627bb4a82b1c217d5d%2FNumbers.JPG?generation=1573758431577149&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

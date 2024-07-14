@@ -1,0 +1,39 @@
+{
+  "id": "keremkarayaz/real-madrid-currently-schedule",
+  "id_no": 4860545,
+  "datasetSlugNullable": "real-madrid-currently-schedule",
+  "ownerUserNullable": "keremkarayaz",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Real Madrid Currently Schedule In 2023/2024 Season",
+  "subtitleNullable": "This fixture includes all of Real Madrid's opponents this season.",
+  "descriptionNullable": "# Information about all matches of Real Madrid this season (2023/2024) is included.\n\n**Thanks to this data, you can create any bar chart, line chart or pie chart you want and analyze everything from Real Madrid's winning rate to how many spectators came to which matches.**\n\n**Match dates are placed in different columns as month, day, year and time.**\n\n**Information about whether the matches are league or European matches is included in the data set.**\n\n**The formations of the match and information on which player was on the field as the captain of Real Madrid in that match are also available in the data set.**\n\n## Hala Madrid !\ud83e\udd0d\ud83d\udc99",
+  "datasetId": 4860545,
+  "datasetSlug": "real-madrid-currently-schedule",
+  "hasDatasetSlug": true,
+  "ownerUser": "keremkarayaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 385,
+  "totalVotes": 87,
+  "totalDownloads": 41,
+  "title": "Real Madrid Currently Schedule In 2023/2024 Season",
+  "hasTitle": true,
+  "subtitle": "This fixture includes all of Real Madrid's opponents this season.",
+  "hasSubtitle": true,
+  "description": "# Information about all matches of Real Madrid this season (2023/2024) is included.\n\n**Thanks to this data, you can create any bar chart, line chart or pie chart you want and analyze everything from Real Madrid's winning rate to how many spectators came to which matches.**\n\n**Match dates are placed in different columns as month, day, year and time.**\n\n**Information about whether the matches are league or European matches is included in the data set.**\n\n**The formations of the match and information on which player was on the field as the captain of Real Madrid in that match are also available in the data set.**\n\n## Hala Madrid !\ud83e\udd0d\ud83d\udc99",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

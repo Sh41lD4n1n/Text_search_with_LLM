@@ -1,0 +1,37 @@
+{
+  "id": "chandrug/textemotiondetection",
+  "id_no": 2048791,
+  "datasetSlugNullable": "textemotiondetection",
+  "ownerUserNullable": "chandrug",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Text-Emotion-detection",
+  "subtitleNullable": "Text data sentiment analysis. ",
+  "descriptionNullable": "",
+  "datasetId": 2048791,
+  "datasetSlug": "textemotiondetection",
+  "hasDatasetSlug": true,
+  "ownerUser": "chandrug",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 2316,
+  "totalVotes": 2,
+  "totalDownloads": 431,
+  "title": "Text-Emotion-detection",
+  "hasTitle": true,
+  "subtitle": "Text data sentiment analysis. ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

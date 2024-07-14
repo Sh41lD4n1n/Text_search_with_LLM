@@ -1,0 +1,43 @@
+{
+  "id": "maulipatel18/anime-content-based-recommendation-system-datasets",
+  "id_no": 4659411,
+  "datasetSlugNullable": "anime-content-based-recommendation-system-datasets",
+  "ownerUserNullable": "maulipatel18",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Anime Content Based Recommendation System Datasets",
+  "subtitleNullable": "Dive into Dynamic Datasets for Tailored Recommendations!",
+  "descriptionNullable": "# Description\n\nOur dataset comprises comprehensive user preference data gathered from 73,516 avid anime enthusiasts, spanning across 12,294 diverse anime titles. Each individual user has the autonomy to curate their own completed anime list, supplemented with personal ratings reflecting their viewing experience. This rich compilation of user-generated ratings forms the backbone of our dataset, offering invaluable insights into the nuanced preferences and tastes of anime enthusiasts worldwide.\n\n# Key Features\n\n##### User Profiles:-\nExplore the preferences and behaviors of over 73,000 users, each with their unique anime consumption habits and rating patterns.\n\n##### Anime Titles:-\nDive into a vast collection of 12,000+ anime titles, ranging from timeless classics to contemporary releases across various genres and themes.\n\n##### Completed Lists:-\nGain access to users' completed anime lists, providing a glimpse into the breadth and depth of their viewing history.\n\n##### Ratings:-\nUncover users' subjective evaluations of anime titles, quantified through personalized ratings, offering a granular understanding of viewer satisfaction and engagement.\n\n# Content\n\n##### Anime.csv\n\nanime_id - unique id identifying an anime.\nname - full name of anime.\ngenre - comma separated list of genres for this anime.\ntype - movie, TV, OVA, etc.\nepisodes - how many episodes in this show. (1 if movie).\nrating - average rating out of 10 for this anime.\nmembers - number of community members that are in this anime's\n\"group\".\n\n##### Rating.csv\n\nuser_id - non identifiable randomly generated user id.\nanime_id - the anime that this user has rated.\nrating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).\n",
+  "datasetId": 4659411,
+  "datasetSlug": "anime-content-based-recommendation-system-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "maulipatel18",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 191,
+  "totalVotes": 1,
+  "totalDownloads": 30,
+  "title": "Anime Content Based Recommendation System Datasets",
+  "hasTitle": true,
+  "subtitle": "Dive into Dynamic Datasets for Tailored Recommendations!",
+  "hasSubtitle": true,
+  "description": "# Description\n\nOur dataset comprises comprehensive user preference data gathered from 73,516 avid anime enthusiasts, spanning across 12,294 diverse anime titles. Each individual user has the autonomy to curate their own completed anime list, supplemented with personal ratings reflecting their viewing experience. This rich compilation of user-generated ratings forms the backbone of our dataset, offering invaluable insights into the nuanced preferences and tastes of anime enthusiasts worldwide.\n\n# Key Features\n\n##### User Profiles:-\nExplore the preferences and behaviors of over 73,000 users, each with their unique anime consumption habits and rating patterns.\n\n##### Anime Titles:-\nDive into a vast collection of 12,000+ anime titles, ranging from timeless classics to contemporary releases across various genres and themes.\n\n##### Completed Lists:-\nGain access to users' completed anime lists, providing a glimpse into the breadth and depth of their viewing history.\n\n##### Ratings:-\nUncover users' subjective evaluations of anime titles, quantified through personalized ratings, offering a granular understanding of viewer satisfaction and engagement.\n\n# Content\n\n##### Anime.csv\n\nanime_id - unique id identifying an anime.\nname - full name of anime.\ngenre - comma separated list of genres for this anime.\ntype - movie, TV, OVA, etc.\nepisodes - how many episodes in this show. (1 if movie).\nrating - average rating out of 10 for this anime.\nmembers - number of community members that are in this anime's\n\"group\".\n\n##### Rating.csv\n\nuser_id - non identifiable randomly generated user id.\nanime_id - the anime that this user has rated.\nrating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "feature engineering",
+    "recommender systems",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

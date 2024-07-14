@@ -1,0 +1,40 @@
+{
+  "id": "grikomsn/amazon-cell-phones-reviews",
+  "id_no": 363619,
+  "datasetSlugNullable": "amazon-cell-phones-reviews",
+  "ownerUserNullable": "grikomsn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Cell Phones Reviews",
+  "subtitleNullable": "(Un)locked cell phone ratings and reviews on Amazon",
+  "descriptionNullable": "### Context\n\nI am currently working on my undergraduate thesis about sentiment analysis, and I am planning to use Amazon customer reviews on cell phones. There are other existing datasets on Amazon mobile/cell phones, but this dataset focuses on both unlocked and locked carriers, and scoped on ten brands: ASUS, Apple, Google, HUAWEI, Motorola, Nokia, OnePlus, Samsung, Sony, and Xiaomi.\n\n### Content\n\nPublished here are two files, `items.csv` and `reviews.csv` with a date prefixed which indicates when the data is retrieved.\n\n`items.csv` contains retrieved (read: scraped) items from Amazon.com search results using generated URL and specific query string to search only specific brands and has minimal 1 star review.\n\n`reviews.csv` contains reviews for previously retrieved items at `items.csv` but not with columns from `items.csv`.\n\n### Versions\n\n- Version 1, retrieved on 2019-09-28: https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews/version/1\n- Version 2, retrieved on 2019-12-26: https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews/version/2\n\n### Acknowledgements\n\nDatasets are retrieved using [Puppeteer](https://pptr.dev), which I also publish the [project for this dataset on GitHub](https://github.com/grikomsn/amazon-cell-phones-reviews).",
+  "datasetId": 363619,
+  "datasetSlug": "amazon-cell-phones-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "grikomsn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 132300,
+  "totalVotes": 224,
+  "totalDownloads": 18966,
+  "title": "Amazon Cell Phones Reviews",
+  "hasTitle": true,
+  "subtitle": "(Un)locked cell phone ratings and reviews on Amazon",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI am currently working on my undergraduate thesis about sentiment analysis, and I am planning to use Amazon customer reviews on cell phones. There are other existing datasets on Amazon mobile/cell phones, but this dataset focuses on both unlocked and locked carriers, and scoped on ten brands: ASUS, Apple, Google, HUAWEI, Motorola, Nokia, OnePlus, Samsung, Sony, and Xiaomi.\n\n### Content\n\nPublished here are two files, `items.csv` and `reviews.csv` with a date prefixed which indicates when the data is retrieved.\n\n`items.csv` contains retrieved (read: scraped) items from Amazon.com search results using generated URL and specific query string to search only specific brands and has minimal 1 star review.\n\n`reviews.csv` contains reviews for previously retrieved items at `items.csv` but not with columns from `items.csv`.\n\n### Versions\n\n- Version 1, retrieved on 2019-09-28: https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews/version/1\n- Version 2, retrieved on 2019-12-26: https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews/version/2\n\n### Acknowledgements\n\nDatasets are retrieved using [Puppeteer](https://pptr.dev), which I also publish the [project for this dataset on GitHub](https://github.com/grikomsn/amazon-cell-phones-reviews).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

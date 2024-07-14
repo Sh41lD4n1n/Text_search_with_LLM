@@ -1,0 +1,40 @@
+{
+  "id": "nitirajkulkarni/treehouse-ns-stock-performance",
+  "id_no": 5119653,
+  "datasetSlugNullable": "treehouse-ns-stock-performance",
+  "ownerUserNullable": "nitirajkulkarni",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Dataset: Tree House Education & Accessories Lim...",
+  "subtitleNullable": "Dr. Jagadish Tawade & Nitiraj Kulkarni",
+  "descriptionNullable": "This dataset provides historical stock market performance data for specific companies. It enables users to analyze and understand the past trends and fluctuations in stock prices over time. This information can be utilized for various purposes such as investment analysis, financial research, and market trend forecasting.",
+  "datasetId": 5119653,
+  "datasetSlug": "treehouse-ns-stock-performance",
+  "hasDatasetSlug": true,
+  "ownerUser": "nitirajkulkarni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 6,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Dataset: Tree House Education & Accessories Lim...",
+  "hasTitle": true,
+  "subtitle": "Dr. Jagadish Tawade & Nitiraj Kulkarni",
+  "hasSubtitle": true,
+  "description": "This dataset provides historical stock market performance data for specific companies. It enables users to analyze and understand the past trends and fluctuations in stock prices over time. This information can be utilized for various purposes such as investment analysis, financial research, and market trend forecasting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

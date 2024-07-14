@@ -1,0 +1,39 @@
+{
+  "id": "ashishsaxena2209/animal-image-datasetdog-cat-and-panda",
+  "id_no": 205087,
+  "datasetSlugNullable": "animal-image-datasetdog-cat-and-panda",
+  "ownerUserNullable": "ashishsaxena2209",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Animal Image Dataset(DOG, CAT and PANDA)",
+  "subtitleNullable": "Dataset for Image Classification Practice",
+  "descriptionNullable": "",
+  "datasetId": 205087,
+  "datasetSlug": "animal-image-datasetdog-cat-and-panda",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashishsaxena2209",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 69663,
+  "totalVotes": 208,
+  "totalDownloads": 16168,
+  "title": "Animal Image Dataset(DOG, CAT and PANDA)",
+  "hasTitle": true,
+  "subtitle": "Dataset for Image Classification Practice",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

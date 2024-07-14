@@ -1,0 +1,44 @@
+{
+  "id": "fedesoriano/the-boston-houseprice-data",
+  "id_no": 1381830,
+  "datasetSlugNullable": "the-boston-houseprice-data",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Boston House Prices-Advanced Regression Techniques",
+  "subtitleNullable": "The Boston House-Price Data",
+  "descriptionNullable": "### Similar Datasets\n\n- Gender Pay Gap Dataset: [LINK](https://www.kaggle.com/fedesoriano/gender-pay-gap-dataset)\n- California Housing Prices Data (5 new features!): [LINK](https://www.kaggle.com/fedesoriano/california-housing-prices-data-extra-features)\n- Company Bankruptcy Prediction: [LINK](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nThe Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.   \n\n\n### Attribute Information\n\nInput features in order:\n1) CRIM: per capita crime rate by town\n2) ZN: proportion of residential land zoned for lots over 25,000 sq.ft.\n3) INDUS: proportion of non-retail business acres per town\n4) CHAS: Charles River dummy variable (1 if tract bounds river; 0 otherwise)\n5) NOX: nitric oxides concentration (parts per 10 million) [parts/10M]\n6) RM: average number of rooms per dwelling\n7) AGE: proportion of owner-occupied units built prior to 1940\n8) DIS: weighted distances to five Boston employment centres\n9) RAD: index of accessibility to radial highways\n10) TAX: full-value property-tax rate per $10,000 [$/10k]\n11) PTRATIO: pupil-teacher ratio by town\n12) B: The result of the equation B=1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town\n13) LSTAT: % lower status of the population\n\nOutput variable:\n1) MEDV: Median value of owner-occupied homes in $1000's [k$]\n\n\n### Source\n\nStatLib - Carnegie Mellon University\n\n\n### Relevant Papers\n\nHarrison, David & Rubinfeld, Daniel. (1978). Hedonic housing prices and the demand for clean air. Journal of Environmental Economics and Management. 5. 81-102. 10.1016/0095-0696(78)90006-2. [LINK](https://www.researchgate.net/profile/Daniel-Rubinfeld/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air/links/5c38ce85458515a4c71e3a64/Hedonic-housing-prices-and-the-demand-for-clean-air.pdf)\n\nBelsley, David A. & Kuh, Edwin. & Welsch, Roy E. (1980). Regression diagnostics: identifying influential data and sources of collinearity. New York: Wiley [LINK](https://www.wiley.com/en-us/Regression+Diagnostics%3A+Identifying+Influential+Data+and+Sources+of+Collinearity-p-9780471691174)",
+  "datasetId": 1381830,
+  "datasetSlug": "the-boston-houseprice-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 115250,
+  "totalVotes": 215,
+  "totalDownloads": 22354,
+  "title": "Boston House Prices-Advanced Regression Techniques",
+  "hasTitle": true,
+  "subtitle": "The Boston House-Price Data",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets\n\n- Gender Pay Gap Dataset: [LINK](https://www.kaggle.com/fedesoriano/gender-pay-gap-dataset)\n- California Housing Prices Data (5 new features!): [LINK](https://www.kaggle.com/fedesoriano/california-housing-prices-data-extra-features)\n- Company Bankruptcy Prediction: [LINK](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nThe Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.   \n\n\n### Attribute Information\n\nInput features in order:\n1) CRIM: per capita crime rate by town\n2) ZN: proportion of residential land zoned for lots over 25,000 sq.ft.\n3) INDUS: proportion of non-retail business acres per town\n4) CHAS: Charles River dummy variable (1 if tract bounds river; 0 otherwise)\n5) NOX: nitric oxides concentration (parts per 10 million) [parts/10M]\n6) RM: average number of rooms per dwelling\n7) AGE: proportion of owner-occupied units built prior to 1940\n8) DIS: weighted distances to five Boston employment centres\n9) RAD: index of accessibility to radial highways\n10) TAX: full-value property-tax rate per $10,000 [$/10k]\n11) PTRATIO: pupil-teacher ratio by town\n12) B: The result of the equation B=1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town\n13) LSTAT: % lower status of the population\n\nOutput variable:\n1) MEDV: Median value of owner-occupied homes in $1000's [k$]\n\n\n### Source\n\nStatLib - Carnegie Mellon University\n\n\n### Relevant Papers\n\nHarrison, David & Rubinfeld, Daniel. (1978). Hedonic housing prices and the demand for clean air. Journal of Environmental Economics and Management. 5. 81-102. 10.1016/0095-0696(78)90006-2. [LINK](https://www.researchgate.net/profile/Daniel-Rubinfeld/publication/4974606_Hedonic_housing_prices_and_the_demand_for_clean_air/links/5c38ce85458515a4c71e3a64/Hedonic-housing-prices-and-the-demand-for-clean-air.pdf)\n\nBelsley, David A. & Kuh, Edwin. & Welsch, Roy E. (1980). Regression diagnostics: identifying influential data and sources of collinearity. New York: Wiley [LINK](https://www.wiley.com/en-us/Regression+Diagnostics%3A+Identifying+Influential+Data+and+Sources+of+Collinearity-p-9780471691174)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "cities and urban areas",
+    "united states",
+    "housing",
+    "regression",
+    "urban planning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

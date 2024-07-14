@@ -1,0 +1,49 @@
+{
+  "id": "mathew11111/nepcov19tweets",
+  "id_no": 1660323,
+  "datasetSlugNullable": "nepcov19tweets",
+  "ownerUserNullable": "mathew11111",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "NepCOV19Tweets",
+  "subtitleNullable": "Nepali COVID related tweets dataset",
+  "descriptionNullable": "Abstract:\n\nCOVID-19 has claimed several human lives to this date. People are dying not only because of physical infection of the virus but also because of mental illness, which is linked to people\u2019s sentiments and psychologies. People\u2019s written texts/posts scattered on the web could help understand their psychology and the state they are in during this pandemic. In this paper, we analyze people\u2019s sentiment based on the classification of tweets collected from the social media platform, Twitter, in Nepal. For this, we, first, propose to use three different feature extraction methods\u2014fastText-based (ft), domain-specific (ds), and domain-agnostic (da)\u2014for the representation of tweets. Among these three methods, two methods (\u201cds\u201d and \u201cda\u201d) are the novel methods used in this study. Second, we propose three different convolution neural networks (CNNs) to implement the proposed features. Last, we ensemble such three CNNs models using ensemble CNN, which works in an end-to-end manner, to achieve the end results. For the evaluation of the proposed feature extraction methods and CNN models, we prepare a Nepali Twitter sentiment dataset, called NepCOV19Tweets, with 3 classes (positive, neutral, and negative). The experimental results on such dataset show that our proposed feature extraction methods possess the discriminating characteristics for the sentiment classification. Moreover, the proposed CNN models impart robust and stable performance on the proposed features. Also, our dataset can be used as a benchmark to study the COVID-19-related sentiment analysis in the Nepali language.\n\nIf you want to use the NepCOV19Tweets dataset, please cite the paper as,\n\nC Sitaula, A Basnet, A Mainali and TB Shahi, \"Deep Learning-based Methods for Sentiment Analysis on Nepali COVID-19-related Tweets\", Computational Intelligence and Neuroscience, 2021.",
+  "datasetId": 1660323,
+  "datasetSlug": "nepcov19tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathew11111",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3393,
+  "totalVotes": 5,
+  "totalDownloads": 120,
+  "title": "NepCOV19Tweets",
+  "hasTitle": true,
+  "subtitle": "Nepali COVID related tweets dataset",
+  "hasSubtitle": true,
+  "description": "Abstract:\n\nCOVID-19 has claimed several human lives to this date. People are dying not only because of physical infection of the virus but also because of mental illness, which is linked to people\u2019s sentiments and psychologies. People\u2019s written texts/posts scattered on the web could help understand their psychology and the state they are in during this pandemic. In this paper, we analyze people\u2019s sentiment based on the classification of tweets collected from the social media platform, Twitter, in Nepal. For this, we, first, propose to use three different feature extraction methods\u2014fastText-based (ft), domain-specific (ds), and domain-agnostic (da)\u2014for the representation of tweets. Among these three methods, two methods (\u201cds\u201d and \u201cda\u201d) are the novel methods used in this study. Second, we propose three different convolution neural networks (CNNs) to implement the proposed features. Last, we ensemble such three CNNs models using ensemble CNN, which works in an end-to-end manner, to achieve the end results. For the evaluation of the proposed feature extraction methods and CNN models, we prepare a Nepali Twitter sentiment dataset, called NepCOV19Tweets, with 3 classes (positive, neutral, and negative). The experimental results on such dataset show that our proposed feature extraction methods possess the discriminating characteristics for the sentiment classification. Moreover, the proposed CNN models impart robust and stable performance on the proposed features. Also, our dataset can be used as a benchmark to study the COVID-19-related sentiment analysis in the Nepali language.\n\nIf you want to use the NepCOV19Tweets dataset, please cite the paper as,\n\nC Sitaula, A Basnet, A Mainali and TB Shahi, \"Deep Learning-based Methods for Sentiment Analysis on Nepali COVID-19-related Tweets\", Computational Intelligence and Neuroscience, 2021.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "intermediate",
+    "classification",
+    "cnn",
+    "text",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "tejshahi",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

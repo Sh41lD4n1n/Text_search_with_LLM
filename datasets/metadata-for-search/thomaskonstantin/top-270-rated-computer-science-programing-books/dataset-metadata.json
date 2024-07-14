@@ -1,0 +1,41 @@
+{
+  "id": "thomaskonstantin/top-270-rated-computer-science-programing-books",
+  "id_no": 897783,
+  "datasetSlugNullable": "top-270-rated-computer-science-programing-books",
+  "ownerUserNullable": "thomaskonstantin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 270 Computer Science / Programing Books ",
+  "subtitleNullable": "High rated book information in the field of computer science and programing",
+  "descriptionNullable": "### Context\n\nThis dataset holds a list of 270 books in the field of computer science and programming related topics.\nThe list of books was constructed using many popular websites which provide information on book ratings an of all the book in those websites the 270 most popular were selected.\n\n\n### Content\n\nInside that dataset, you will find general information about the book including the number of pages in the book, the book types, the book descriptions, and the book prices.\n\n",
+  "datasetId": 897783,
+  "datasetSlug": "top-270-rated-computer-science-programing-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomaskonstantin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 26788,
+  "totalVotes": 91,
+  "totalDownloads": 3688,
+  "title": "Top 270 Computer Science / Programing Books ",
+  "hasTitle": true,
+  "subtitle": "High rated book information in the field of computer science and programing",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset holds a list of 270 books in the field of computer science and programming related topics.\nThe list of books was constructed using many popular websites which provide information on book ratings an of all the book in those websites the 270 most popular were selected.\n\n\n### Content\n\nInside that dataset, you will find general information about the book including the number of pages in the book, the book types, the book descriptions, and the book prices.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

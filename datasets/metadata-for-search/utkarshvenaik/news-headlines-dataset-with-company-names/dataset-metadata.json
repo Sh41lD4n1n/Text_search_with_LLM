@@ -1,0 +1,39 @@
+{
+  "id": "utkarshvenaik/news-headlines-dataset-with-company-names",
+  "id_no": 5284572,
+  "datasetSlugNullable": "news-headlines-dataset-with-company-names",
+  "ownerUserNullable": "utkarshvenaik",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "News headlines dataset with company names",
+  "subtitleNullable": "News headlines, company names, top headlines date wise ",
+  "descriptionNullable": "Dataset Overview\nThis dataset comprises a collection of 324 news headlines from various leading companies, structured over several months in 2024. Each entry in the dataset is associated with a specific company and date, along with the primary news headline of that day and the headline from the previous day.\n\nContent\nCompany Name: Indicates the company to which the news is related.\nDate: The publication date of the news.\nNews Headlines: The headline of the news corresponding to the company and date.\nPrevious Day Headlines: News headline from the day before, for the same company.\nPotential Uses\nThis dataset is ideal for temporal text analysis, news trend monitoring, and sentiment analysis. Researchers and data scientists can explore changes in news coverage over time, analyze the impact of news on stock prices, or use the dataset for training machine learning models for text classification or summarization.\n\nAcknowledgements\nThis data was compiled and curated with the intent to provide a rich source for news headline analysis related to major companies. It is presented here for educational and informational purposes.\n\nInspiration\nSome questions and tasks this dataset could inspire include:\n\nHow do headlines about a company change over time?\nCan the impact of news on a company's public perception be quantified?\nDeveloping models that predict the sentiment conveyed in the headlines.\nComparing news coverage between companies within the same time frame.",
+  "datasetId": 5284572,
+  "datasetSlug": "news-headlines-dataset-with-company-names",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshvenaik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "News headlines dataset with company names",
+  "hasTitle": true,
+  "subtitle": "News headlines, company names, top headlines date wise ",
+  "hasSubtitle": true,
+  "description": "Dataset Overview\nThis dataset comprises a collection of 324 news headlines from various leading companies, structured over several months in 2024. Each entry in the dataset is associated with a specific company and date, along with the primary news headline of that day and the headline from the previous day.\n\nContent\nCompany Name: Indicates the company to which the news is related.\nDate: The publication date of the news.\nNews Headlines: The headline of the news corresponding to the company and date.\nPrevious Day Headlines: News headline from the day before, for the same company.\nPotential Uses\nThis dataset is ideal for temporal text analysis, news trend monitoring, and sentiment analysis. Researchers and data scientists can explore changes in news coverage over time, analyze the impact of news on stock prices, or use the dataset for training machine learning models for text classification or summarization.\n\nAcknowledgements\nThis data was compiled and curated with the intent to provide a rich source for news headline analysis related to major companies. It is presented here for educational and informational purposes.\n\nInspiration\nSome questions and tasks this dataset could inspire include:\n\nHow do headlines about a company change over time?\nCan the impact of news on a company's public perception be quantified?\nDeveloping models that predict the sentiment conveyed in the headlines.\nComparing news coverage between companies within the same time frame.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

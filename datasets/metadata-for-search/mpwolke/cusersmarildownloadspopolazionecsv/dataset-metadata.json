@@ -1,0 +1,40 @@
+{
+  "id": "mpwolke/cusersmarildownloadspopolazionecsv",
+  "id_no": 371603,
+  "datasetSlugNullable": "cusersmarildownloadspopolazionecsv",
+  "ownerUserNullable": "mpwolke",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Population by labour status - Italy",
+  "subtitleNullable": "Statiscal back recalculation  - geographical areas.",
+  "descriptionNullable": "### Context\n\nLabour force survey: from the labour force survey Istat derives its official estimates of the number of employed persons and job-seekers, as well as information about the main labour supply aggregates, such as occupation, economic activity area, hours worked, contract types and duration and training. The statistical documentation and analysis of the employment situation in Italy has proven to be an indispensable instrument of knowledge for public decision-makers, the media and citizens alike. \nLabour force survey: http://dati.istat.it/Index.aspx?lang=it&SubSessionId=fab81bf1-8c9f-49ff-a52e-e3948b27eb04\n\n### Content\n\nIstat has reconstructed the time series since the fourth quarter of 1992. The Istituto Nazionale di Statistica (Istat) collects the information each quarter by interviewing a sample of nearly 77,000 households, representing 175,000 individuals who are resident in Italy, even if they are temporarily abroad. \n\ndati.istat.it\n\n\n### Acknowledgements\n\nhttps://www.istat.it\n\nhttp://dati.istat.it/Index.aspx?lang=it&SubSessionId=fab81bf1-8c9f-49ff-a52e-e3948b27eb04\n\nPhoto by Nuno Silva on Unsplash\n\n\n### Inspiration\n\nPeople that work (employed or unemployed) no matter what class, gender or nationality and their struggle for labour rights and social movements all over the world.",
+  "datasetId": 371603,
+  "datasetSlug": "cusersmarildownloadspopolazionecsv",
+  "hasDatasetSlug": true,
+  "ownerUser": "mpwolke",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12824,
+  "totalVotes": 116,
+  "totalDownloads": 696,
+  "title": "Population by labour status - Italy",
+  "hasTitle": true,
+  "subtitle": "Statiscal back recalculation  - geographical areas.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nLabour force survey: from the labour force survey Istat derives its official estimates of the number of employed persons and job-seekers, as well as information about the main labour supply aggregates, such as occupation, economic activity area, hours worked, contract types and duration and training. The statistical documentation and analysis of the employment situation in Italy has proven to be an indispensable instrument of knowledge for public decision-makers, the media and citizens alike. \nLabour force survey: http://dati.istat.it/Index.aspx?lang=it&SubSessionId=fab81bf1-8c9f-49ff-a52e-e3948b27eb04\n\n### Content\n\nIstat has reconstructed the time series since the fourth quarter of 1992. The Istituto Nazionale di Statistica (Istat) collects the information each quarter by interviewing a sample of nearly 77,000 households, representing 175,000 individuals who are resident in Italy, even if they are temporarily abroad. \n\ndati.istat.it\n\n\n### Acknowledgements\n\nhttps://www.istat.it\n\nhttp://dati.istat.it/Index.aspx?lang=it&SubSessionId=fab81bf1-8c9f-49ff-a52e-e3948b27eb04\n\nPhoto by Nuno Silva on Unsplash\n\n\n### Inspiration\n\nPeople that work (employed or unemployed) no matter what class, gender or nationality and their struggle for labour rights and social movements all over the world.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

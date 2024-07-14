@@ -1,0 +1,43 @@
+{
+  "id": "iasadpanwhar/parking-lot-detection-counter",
+  "id_no": 5055547,
+  "datasetSlugNullable": "parking-lot-detection-counter",
+  "ownerUserNullable": "iasadpanwhar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Parking_Lot_Detection_Counter",
+  "subtitleNullable": "Computer Vision Project. ",
+  "descriptionNullable": "Overview\nThis dataset is designed for the task of detecting and counting empty and occupied parking spots in a parking area. It includes images, a mask image, a video, and a utility file (util.py) that provides functions to process these images and video frames.\n\nContents\nImages: The dataset includes images of a parking area under different conditions (e.g., various times of the day). Each image captures the entire parking area and shows the status of each parking spot (empty or occupied).\n\nMask Image: A mask image is provided to identify and locate the parking spots within the parking area. This mask is a binary image where the white regions correspond to the parking spots.\n\nVideo: A video file is included to facilitate real-time detection of parking spot occupancy. The video captures the parking area over a period, showing changes in parking spot status.\n\nUtility File: The util.py file contains helper functions:\n\nempty_or_not: Determines if a given parking spot is empty or occupied.\nget_parking_spots_bboxes: Extracts bounding boxes for each parking spot based on the mask image.\nFiles\nImages Directory:\n\nContains images of the parking area.\nExamples:\nimage_001.jpg\nimage_002.jpg\n...\nMask Image:\n\nmask_1920_1080.png: A binary mask image of size 1920x1080 pixels. The white regions indicate the parking spots.\nVideo File:\n\nparking_1920_1080_loop.mp4: A video file capturing the parking area over a period. This video is used for detecting changes in the occupancy status of parking spots in real-time.\nModel File:\n\nmodel.p: A pre-trained machine learning model used by the empty_or_not function to classify parking spots as empty or occupied.\nUtility File:\n\nutil.py: Contains the utility functions for processing the images and detecting parking spots.\nUsage\nThis dataset can be used for training and testing machine learning models aimed at automating the detection of empty and occupied parking spots. The provided utility functions and pre-trained model facilitate quick experimentation and validation of results.\n\nExample Workflow\nLoad Images: Read the images and the mask image.\nExtract Parking Spots: Use the mask image and get_parking_spots_bboxes function to locate and extract parking spots from each image.\nClassify Spots: Use the empty_or_not function to classify each parking spot as empty or occupied.\nCount Available Spots: Count the number of empty parking spots and display the result.\n\nPotential Applications\nAutomated parking management systems.\nSmart city infrastructure to monitor parking lot occupancy.\nReal-time parking guidance systems for drivers.\n\nInstructions for Kaggle\nTo run the provided code on Kaggle, ensure that all necessary files (images, mask, model, and utility file) are correctly uploaded and paths are set appropriately. Use the provided functions and example code snippets to implement the parking spot detection and counting logic.\n\nBy using this dataset, researchers and developers can develop and test sophisticated parking lot detection algorithms, contributing to more efficient and automated parking management solutions.",
+  "datasetId": 5055547,
+  "datasetSlug": "parking-lot-detection-counter",
+  "hasDatasetSlug": true,
+  "ownerUser": "iasadpanwhar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2176,
+  "totalVotes": 13,
+  "totalDownloads": 138,
+  "title": "Parking_Lot_Detection_Counter",
+  "hasTitle": true,
+  "subtitle": "Computer Vision Project. ",
+  "hasSubtitle": true,
+  "description": "Overview\nThis dataset is designed for the task of detecting and counting empty and occupied parking spots in a parking area. It includes images, a mask image, a video, and a utility file (util.py) that provides functions to process these images and video frames.\n\nContents\nImages: The dataset includes images of a parking area under different conditions (e.g., various times of the day). Each image captures the entire parking area and shows the status of each parking spot (empty or occupied).\n\nMask Image: A mask image is provided to identify and locate the parking spots within the parking area. This mask is a binary image where the white regions correspond to the parking spots.\n\nVideo: A video file is included to facilitate real-time detection of parking spot occupancy. The video captures the parking area over a period, showing changes in parking spot status.\n\nUtility File: The util.py file contains helper functions:\n\nempty_or_not: Determines if a given parking spot is empty or occupied.\nget_parking_spots_bboxes: Extracts bounding boxes for each parking spot based on the mask image.\nFiles\nImages Directory:\n\nContains images of the parking area.\nExamples:\nimage_001.jpg\nimage_002.jpg\n...\nMask Image:\n\nmask_1920_1080.png: A binary mask image of size 1920x1080 pixels. The white regions indicate the parking spots.\nVideo File:\n\nparking_1920_1080_loop.mp4: A video file capturing the parking area over a period. This video is used for detecting changes in the occupancy status of parking spots in real-time.\nModel File:\n\nmodel.p: A pre-trained machine learning model used by the empty_or_not function to classify parking spots as empty or occupied.\nUtility File:\n\nutil.py: Contains the utility functions for processing the images and detecting parking spots.\nUsage\nThis dataset can be used for training and testing machine learning models aimed at automating the detection of empty and occupied parking spots. The provided utility functions and pre-trained model facilitate quick experimentation and validation of results.\n\nExample Workflow\nLoad Images: Read the images and the mask image.\nExtract Parking Spots: Use the mask image and get_parking_spots_bboxes function to locate and extract parking spots from each image.\nClassify Spots: Use the empty_or_not function to classify each parking spot as empty or occupied.\nCount Available Spots: Count the number of empty parking spots and display the result.\n\nPotential Applications\nAutomated parking management systems.\nSmart city infrastructure to monitor parking lot occupancy.\nReal-time parking guidance systems for drivers.\n\nInstructions for Kaggle\nTo run the provided code on Kaggle, ensure that all necessary files (images, mask, model, and utility file) are correctly uploaded and paths are set appropriately. Use the provided functions and example code snippets to implement the parking spot detection and counting logic.\n\nBy using this dataset, researchers and developers can develop and test sophisticated parking lot detection algorithms, contributing to more efficient and automated parking management solutions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "automobiles and vehicles",
+    "intermediate",
+    "computer vision",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

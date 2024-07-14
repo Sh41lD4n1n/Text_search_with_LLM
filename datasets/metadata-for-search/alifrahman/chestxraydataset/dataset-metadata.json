@@ -1,0 +1,42 @@
+{
+  "id": "alifrahman/chestxraydataset",
+  "id_no": 852810,
+  "datasetSlugNullable": "chestxraydataset",
+  "ownerUserNullable": "alifrahman",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "chest-xray-dataset",
+  "subtitleNullable": "This dataset contains chest X-ray images.",
+  "descriptionNullable": "### Context\n\nThis dataset was used to perform the Pneumonia detection using Convolutional Neural Network.\n\n\n### Content\n\nThis dataset mainly consists of the chest X-ray images of Normal and Pneumonia affected patients. There is a total of 5840 chest X-ray images. It has two folders named train and test. Each of them has two sub-folders labeled as NORMAL and PNEUMONIA. This dataset can be used to detect pneumonia by training a convolutional neural network. A sample of the dataset content is given below:\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4298011%2F092cd8598575c60c27fedad4d7998e66%2FjZqpV51.png?generation=1600531874588151&alt=media)\n\n\n### Acknowledgements\n\nThis dataset was collected from [Chest X-ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). \n\n",
+  "datasetId": 852810,
+  "datasetSlug": "chestxraydataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alifrahman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 16642,
+  "totalVotes": 29,
+  "totalDownloads": 2611,
+  "title": "chest-xray-dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains chest X-ray images.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was used to perform the Pneumonia detection using Convolutional Neural Network.\n\n\n### Content\n\nThis dataset mainly consists of the chest X-ray images of Normal and Pneumonia affected patients. There is a total of 5840 chest X-ray images. It has two folders named train and test. Each of them has two sub-folders labeled as NORMAL and PNEUMONIA. This dataset can be used to detect pneumonia by training a convolutional neural network. A sample of the dataset content is given below:\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4298011%2F092cd8598575c60c27fedad4d7998e66%2FjZqpV51.png?generation=1600531874588151&alt=media)\n\n\n### Acknowledgements\n\nThis dataset was collected from [Chest X-ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "health",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kritanjalijain/gestures-hand",
+  "id_no": 1006866,
+  "datasetSlugNullable": "gestures-hand",
+  "ownerUserNullable": "kritanjalijain",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "gestures (hand)",
+  "subtitleNullable": "A collection of preprocessed hand gesture images of 7 types of gestures.",
+  "descriptionNullable": "Contains 16,000 preprocessed images of 7 hand gestures i.e. fist, five, rad, peace, thumbs, straight, okay. Additionally, contains a none directory with images without any gestures for background initialization. The data can be augmented to enlarge the dataset like in the notebook [Hand Gesture Recognition CNN](https://www.kaggle.com/kritanjalijain/hand-gesture-recognition-cnn)",
+  "datasetId": 1006866,
+  "datasetSlug": "gestures-hand",
+  "hasDatasetSlug": true,
+  "ownerUser": "kritanjalijain",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3256,
+  "totalVotes": 8,
+  "totalDownloads": 270,
+  "title": "gestures (hand)",
+  "hasTitle": true,
+  "subtitle": "A collection of preprocessed hand gesture images of 7 types of gestures.",
+  "hasSubtitle": true,
+  "description": "Contains 16,000 preprocessed images of 7 hand gestures i.e. fist, five, rad, peace, thumbs, straight, okay. Additionally, contains a none directory with images without any gestures for background initialization. The data can be augmented to enlarge the dataset like in the notebook [Hand Gesture Recognition CNN](https://www.kaggle.com/kritanjalijain/hand-gesture-recognition-cnn)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "image",
+    "online communities",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "howisusmanali/house-prices-2023-dataset",
+  "id_no": 3528638,
+  "datasetSlugNullable": "house-prices-2023-dataset",
+  "ownerUserNullable": "howisusmanali",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "House Prices 2023 Dataset",
+  "subtitleNullable": "This dataset is about Pakistan Houses. The dataset is from Zameen.com website.",
+  "descriptionNullable": "**Property id**  The unique value of each Property.\n**Location id**  The unique value of each location is based on the subcategory of the city.\n**Page URL** The URL of the page where the property was published.\n**Property type**   In this section we have six different types: \n1. House\n2. FarmHouse\n3. Upper Portion\n4. Lower Portion\n5. Flat\n6. Room\n\n**Price**   Price is a dependent feature/parameter in this dataset.\n**City** In this dataset the total number of cities is five:\n1. Lahore\n2. Karachi\n3. Faisalabad\n4. Rawalpindi\n5. Islamabad\n\n\n**Province** Province parameter is about the state of the city\n**Location** It is about the different kinds of locations in each city.\nLastly, the Latitude and Longitude of the Cities.",
+  "datasetId": 3528638,
+  "datasetSlug": "house-prices-2023-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "howisusmanali",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11267,
+  "totalVotes": 42,
+  "totalDownloads": 2039,
+  "title": "House Prices 2023 Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset is about Pakistan Houses. The dataset is from Zameen.com website.",
+  "hasSubtitle": true,
+  "description": "**Property id**  The unique value of each Property.\n**Location id**  The unique value of each location is based on the subcategory of the city.\n**Page URL** The URL of the page where the property was published.\n**Property type**   In this section we have six different types: \n1. House\n2. FarmHouse\n3. Upper Portion\n4. Lower Portion\n5. Flat\n6. Room\n\n**Price**   Price is a dependent feature/parameter in this dataset.\n**City** In this dataset the total number of cities is five:\n1. Lahore\n2. Karachi\n3. Faisalabad\n4. Rawalpindi\n5. Islamabad\n\n\n**Province** Province parameter is about the state of the city\n**Location** It is about the different kinds of locations in each city.\nLastly, the Latitude and Longitude of the Cities.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

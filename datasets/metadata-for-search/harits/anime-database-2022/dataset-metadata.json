@@ -1,0 +1,43 @@
+{
+  "id": "harits/anime-database-2022",
+  "id_no": 2503859,
+  "datasetSlugNullable": "anime-database-2022",
+  "ownerUserNullable": "harits",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Database 2022",
+  "subtitleNullable": "21460 Anime Data at MyAnimeList.net",
+  "descriptionNullable": "# Context\nAnime is one of the world's most popular types of entertainment, which is an animation made in Japan in the form of television videos, films, fan fiction, and others. Examples of anime are Attack on Titan, Death Note, Fullmetal Alchemist Brotherhood, One Punch Man, Sword Art Online, etc.\n\nThis content was obtained by using web scraping sourced by [MyAnimeList.net](https://myanimelist.net). Web scraping was implemented precisely on September 20, 2022, and 21460 data anime were obtained. In detail, this dataset contains:\n- Backgrounds, such as synopsis and background.\n- Title and alternative titles, such as title, synonyms, Japanese, and English.\n- Detailed information, such as genres, themes, demographics, and status.\n- Statistics, such as score, rank, and popularity.\n\nSources:\n1. [MyAnimeList.net](https://myanimelist.net)\n2. [Anime Background](https://images6.alphacoders.com/833/833321.jpg)\n\n# Content\n| Column | Description |\n| --- | --- |\n| ID | ID anime at MyAnimeList.net |\n| Title | The original name of the anime |\n| Synonyms | The synonym name of the anime |\n| Japanese | The title of the anime in Japanese |\n| English | The title of the anime in English |\n| Synopsis | The overview of the anime |\n| Type | Anime type |\n| Episodes | Number of episodes in anime |\n| Status | The status of whether the anime has not, is currently, or has been aired |\n| Start_Aired | The date or year when the anime started airing |\n| End_Aired | The date or year when the anime ended airing |\n| Premiered | Season premiered |\n| Broadcast | Anime broadcast schedule |\n| Producers | List of producers |\n| Licensors | List of licensors |\n| Studios | List of studios |\n| Source | The source of the anime |\n| Genres | List of genres |\n| Themes | List of themes |\n| Demographics | List of demographics |\n| Duration_Minutes | Total duration per minute on each episode |\n| Rating | Age rate |\n| Score | Average score of the anime given from users in MyAnimeList.net |\n| Scored_Users | Number of users giving scores to the anime |\n| Ranked | Ranking based on the score |\n| Popularity | Ranking based on the popularity in which users have added the anime to their list |\n| Members | Number of users who have added the anime to their list |\n| Favorites | Number of users who have marked the anime as their favorite anime |\n\n# Ideas\nHere are some ideas that can be used on this dataset.\n1. Explore recommended anime based on certain criteria, such as age, genre, theme, or demographic.\n2. Find out how active producers, licensors, and studios are from year to year.\n3. Analyze the synopsis and background on anime.\n4. Find out the number of anime currently airing by date or year.\n\nI'd love to see and learn great ideas from your work. For those of you who love anime, of course, it will be very interesting to explore this dataset.",
+  "datasetId": 2503859,
+  "datasetSlug": "anime-database-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "harits",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13001,
+  "totalVotes": 44,
+  "totalDownloads": 1832,
+  "title": "Anime Database 2022",
+  "hasTitle": true,
+  "subtitle": "21460 Anime Data at MyAnimeList.net",
+  "hasSubtitle": true,
+  "description": "# Context\nAnime is one of the world's most popular types of entertainment, which is an animation made in Japan in the form of television videos, films, fan fiction, and others. Examples of anime are Attack on Titan, Death Note, Fullmetal Alchemist Brotherhood, One Punch Man, Sword Art Online, etc.\n\nThis content was obtained by using web scraping sourced by [MyAnimeList.net](https://myanimelist.net). Web scraping was implemented precisely on September 20, 2022, and 21460 data anime were obtained. In detail, this dataset contains:\n- Backgrounds, such as synopsis and background.\n- Title and alternative titles, such as title, synonyms, Japanese, and English.\n- Detailed information, such as genres, themes, demographics, and status.\n- Statistics, such as score, rank, and popularity.\n\nSources:\n1. [MyAnimeList.net](https://myanimelist.net)\n2. [Anime Background](https://images6.alphacoders.com/833/833321.jpg)\n\n# Content\n| Column | Description |\n| --- | --- |\n| ID | ID anime at MyAnimeList.net |\n| Title | The original name of the anime |\n| Synonyms | The synonym name of the anime |\n| Japanese | The title of the anime in Japanese |\n| English | The title of the anime in English |\n| Synopsis | The overview of the anime |\n| Type | Anime type |\n| Episodes | Number of episodes in anime |\n| Status | The status of whether the anime has not, is currently, or has been aired |\n| Start_Aired | The date or year when the anime started airing |\n| End_Aired | The date or year when the anime ended airing |\n| Premiered | Season premiered |\n| Broadcast | Anime broadcast schedule |\n| Producers | List of producers |\n| Licensors | List of licensors |\n| Studios | List of studios |\n| Source | The source of the anime |\n| Genres | List of genres |\n| Themes | List of themes |\n| Demographics | List of demographics |\n| Duration_Minutes | Total duration per minute on each episode |\n| Rating | Age rate |\n| Score | Average score of the anime given from users in MyAnimeList.net |\n| Scored_Users | Number of users giving scores to the anime |\n| Ranked | Ranking based on the score |\n| Popularity | Ranking based on the popularity in which users have added the anime to their list |\n| Members | Number of users who have added the anime to their list |\n| Favorites | Number of users who have marked the anime as their favorite anime |\n\n# Ideas\nHere are some ideas that can be used on this dataset.\n1. Explore recommended anime based on certain criteria, such as age, genre, theme, or demographic.\n2. Find out how active producers, licensors, and studios are from year to year.\n3. Analyze the synopsis and background on anime.\n4. Find out the number of anime currently airing by date or year.\n\nI'd love to see and learn great ideas from your work. For those of you who love anime, of course, it will be very interesting to explore this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "tabular",
+    "japan",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

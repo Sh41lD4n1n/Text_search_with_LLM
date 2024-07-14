@@ -1,0 +1,43 @@
+{
+  "id": "stealthtechnologies/rock-classification",
+  "id_no": 5279378,
+  "datasetSlugNullable": "rock-classification",
+  "ownerUserNullable": "stealthtechnologies",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Rock Classification Dataset",
+  "subtitleNullable": "Classify Different Types of Rocks (Stones)",
+  "descriptionNullable": "The dataset includes 4212 images.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Stretch)\n\nThe following augmentation was applied to create 3 versions of each source image:\n* 50% probability of horizontal flip\n* Randomly crop between 0 and 20 percent of the image\n* Random shear of between -10\u00b0 to +10\u00b0 horizontally and -10\u00b0 to +10\u00b0 vertically\n* Random brigthness adjustment of between -15 and +15 percent\n* Random exposure adjustment of between -10 and +10 percent\n* Salt and pepper noise was applied to 0.1 percent of pixels\n\n**Types OF Rocks**\n\n* Basalt\n* chert\n* Clay\n* Conglomerate\n* Diatomite\n* gypsum\n* olivine-basalt\n* Shale-(Mudstone)\n* Siliceous-sinter",
+  "datasetId": 5279378,
+  "datasetSlug": "rock-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "stealthtechnologies",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 23,
+  "totalVotes": 1,
+  "totalDownloads": 1,
+  "title": "Rock Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Classify Different Types of Rocks (Stones)",
+  "hasSubtitle": true,
+  "description": "The dataset includes 4212 images.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Stretch)\n\nThe following augmentation was applied to create 3 versions of each source image:\n* 50% probability of horizontal flip\n* Randomly crop between 0 and 20 percent of the image\n* Random shear of between -10\u00b0 to +10\u00b0 horizontally and -10\u00b0 to +10\u00b0 vertically\n* Random brigthness adjustment of between -15 and +15 percent\n* Random exposure adjustment of between -10 and +10 percent\n* Salt and pepper noise was applied to 0.1 percent of pixels\n\n**Types OF Rocks**\n\n* Basalt\n* chert\n* Clay\n* Conglomerate\n* Diatomite\n* gypsum\n* olivine-basalt\n* Shale-(Mudstone)\n* Siliceous-sinter",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "geology",
+    "intermediate",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

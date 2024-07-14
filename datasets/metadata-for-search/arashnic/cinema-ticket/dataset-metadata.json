@@ -1,0 +1,44 @@
+{
+  "id": "arashnic/cinema-ticket",
+  "id_no": 108707,
+  "datasetSlugNullable": "cinema-ticket",
+  "ownerUserNullable": "arashnic",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cinema Tickets",
+  "subtitleNullable": "Time series analysis and forecasting",
+  "descriptionNullable": "## Context\nCinema industry is not excluded of getting advantage of predictive modeling. Like other industry e.g. retail , banking and restaurants , sale forecast \ncan help cinemas for cost reduction and better ROI. By forecasting sale,  screening in different location could be optimized as well as effective market targeting and pricing. \n\nAlso historical data of sale and movies details e.g. cost, cast and crews, and other project details like schedule,  could help producers to select high performance cast and crews and planning for better projects  ROI . Also it helps to assign  screening location  on hot spots and areas.  \n###     \n###   \n![image](https://cdn.cnn.com/cnnnext/dam/assets/200820103238-movie-theater-covid-19-gfx-exlarge-169.jpg)\n#   \n## Content\n\nAbout eight months sales  history of different cinemas with detailed data of screening , during 2018  with encoded annonymized locations .  \n\n### Starter Kernels \n\n-  [EDA , Temporal Feat Eng and XGBoost](https://www.kaggle.com/arashnic/agile-eda-base-models) \n\n\n## Inspiration\n\n- Time series analysis\n- Cinema Clustering\n- Forecast sales for each cinema\n- Recommendation:\n     - Movie genre recommendation for cinemas\n     - Cinema location recommendation\n     - Cast and crew ratings \n[Recommendations required more detailed data about movies which will be added to dataset during next versions] \n\n ",
+  "datasetId": 108707,
+  "datasetSlug": "cinema-ticket",
+  "hasDatasetSlug": true,
+  "ownerUser": "arashnic",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 84876,
+  "totalVotes": 97,
+  "totalDownloads": 10217,
+  "title": "Cinema Tickets",
+  "hasTitle": true,
+  "subtitle": "Time series analysis and forecasting",
+  "hasSubtitle": true,
+  "description": "## Context\nCinema industry is not excluded of getting advantage of predictive modeling. Like other industry e.g. retail , banking and restaurants , sale forecast \ncan help cinemas for cost reduction and better ROI. By forecasting sale,  screening in different location could be optimized as well as effective market targeting and pricing. \n\nAlso historical data of sale and movies details e.g. cost, cast and crews, and other project details like schedule,  could help producers to select high performance cast and crews and planning for better projects  ROI . Also it helps to assign  screening location  on hot spots and areas.  \n###     \n###   \n![image](https://cdn.cnn.com/cnnnext/dam/assets/200820103238-movie-theater-covid-19-gfx-exlarge-169.jpg)\n#   \n## Content\n\nAbout eight months sales  history of different cinemas with detailed data of screening , during 2018  with encoded annonymized locations .  \n\n### Starter Kernels \n\n-  [EDA , Temporal Feat Eng and XGBoost](https://www.kaggle.com/arashnic/agile-eda-base-models) \n\n\n## Inspiration\n\n- Time series analysis\n- Cinema Clustering\n- Forecast sales for each cinema\n- Recommendation:\n     - Movie genre recommendation for cinemas\n     - Cinema location recommendation\n     - Cast and crew ratings \n[Recommendations required more detailed data about movies which will be added to dataset during next versions] \n\n ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "music",
+    "marketing",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

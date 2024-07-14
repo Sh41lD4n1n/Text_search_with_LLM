@@ -1,0 +1,37 @@
+{
+  "id": "soohj0/vizwiz-dataset",
+  "id_no": 4884402,
+  "datasetSlugNullable": "vizwiz-dataset",
+  "ownerUserNullable": "soohj0",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "VizWiz_QA",
+  "subtitleNullable": "VizWiz Question Answering dataset which answer type is \"other\".",
+  "descriptionNullable": "",
+  "datasetId": 4884402,
+  "datasetSlug": "vizwiz-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "soohj0",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 33,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "VizWiz_QA",
+  "hasTitle": true,
+  "subtitle": "VizWiz Question Answering dataset which answer type is \"other\".",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

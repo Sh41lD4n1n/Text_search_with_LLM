@@ -1,0 +1,42 @@
+{
+  "id": "brunobacelardc/myanimelist-top-1000-anime",
+  "id_no": 2118927,
+  "datasetSlugNullable": "myanimelist-top-1000-anime",
+  "ownerUserNullable": "brunobacelardc",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MyAnimeList Top 2000 Anime",
+  "subtitleNullable": "Data regarding the top 2000 anime in the MyAnimeList website.",
+  "descriptionNullable": "This dataset contains data concerning the top 2000 anime in the [MyAnimeList] (https://myanimelist.net/) website. It aims to help answer questions with regards to popularity of anime, given their scores, popularity ranks, studios, etcetera.\n\nI think this dataset might be helpful for a plethora of uses, such as making recommendation systems, visualizing trends in anime popularity and score, predicting scores and popularity, and such. \n\nIt is the first dataset I publish on Kaggle (also the first dataset I ever make, beginner Kaggler here!) so any feedback, criticism and suggestions are highly appreciated!\n\n# Contents\nThere are 11 features present in the dataset:\n- Name: the name of the anime.\n- Type: the entry's type, e.g. TV for television anime, Movie for anime movies, Music for anime music videos, etc.\n- Score: the anime's score. Info on how the score is calculated can be found [here](https://myanimelist.net/info.php?go=topanime)\n- Rank: the ranking of the anime based on it's score.\n- Popularity rank: the anime's ranking based on it's popularity.\n- Air Date: The time period for which the anime aired. Entries that have values ending in '?' refer to an anime that is still airing.\n- Studio: the names of the studio(s) that worked on the anime.\n- Num. of episodes: How many episodes the anime has. Do note that some anime are movies or special episodes, and therefore they'll have only a few episodes (usually 1 to 3). For anime that have 'Unknown' number of episodes, the value will be 0.\n- Genres: the anime's genres, formatted as a list. Entries with no registered genres in the website will have a list with a single string 'None' as value.\n- Theme(s): the anime's themes, formatted as a list.\n- Demographic: the target audience of the anime. Entries with no registered demographics will have the value 'None'.\n\n# Acknowledgements \nAll of the information in this dataset has been gathered by scraping the MyAnimeList website, and is available under the Creative Commons License.",
+  "datasetId": 2118927,
+  "datasetSlug": "myanimelist-top-1000-anime",
+  "hasDatasetSlug": true,
+  "ownerUser": "brunobacelardc",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6823,
+  "totalVotes": 43,
+  "totalDownloads": 1208,
+  "title": "MyAnimeList Top 2000 Anime",
+  "hasTitle": true,
+  "subtitle": "Data regarding the top 2000 anime in the MyAnimeList website.",
+  "hasSubtitle": true,
+  "description": "This dataset contains data concerning the top 2000 anime in the [MyAnimeList] (https://myanimelist.net/) website. It aims to help answer questions with regards to popularity of anime, given their scores, popularity ranks, studios, etcetera.\n\nI think this dataset might be helpful for a plethora of uses, such as making recommendation systems, visualizing trends in anime popularity and score, predicting scores and popularity, and such. \n\nIt is the first dataset I publish on Kaggle (also the first dataset I ever make, beginner Kaggler here!) so any feedback, criticism and suggestions are highly appreciated!\n\n# Contents\nThere are 11 features present in the dataset:\n- Name: the name of the anime.\n- Type: the entry's type, e.g. TV for television anime, Movie for anime movies, Music for anime music videos, etc.\n- Score: the anime's score. Info on how the score is calculated can be found [here](https://myanimelist.net/info.php?go=topanime)\n- Rank: the ranking of the anime based on it's score.\n- Popularity rank: the anime's ranking based on it's popularity.\n- Air Date: The time period for which the anime aired. Entries that have values ending in '?' refer to an anime that is still airing.\n- Studio: the names of the studio(s) that worked on the anime.\n- Num. of episodes: How many episodes the anime has. Do note that some anime are movies or special episodes, and therefore they'll have only a few episodes (usually 1 to 3). For anime that have 'Unknown' number of episodes, the value will be 0.\n- Genres: the anime's genres, formatted as a list. Entries with no registered genres in the website will have a list with a single string 'None' as value.\n- Theme(s): the anime's themes, formatted as a list.\n- Demographic: the target audience of the anime. Entries with no registered demographics will have the value 'None'.\n\n# Acknowledgements \nAll of the information in this dataset has been gathered by scraping the MyAnimeList website, and is available under the Creative Commons License.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "recommender systems",
+    "regression",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

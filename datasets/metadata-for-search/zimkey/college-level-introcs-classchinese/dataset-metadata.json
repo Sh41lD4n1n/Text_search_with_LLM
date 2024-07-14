@@ -1,0 +1,43 @@
+{
+  "id": "zimkey/college-level-introcs-classchinese",
+  "id_no": 5278073,
+  "datasetSlugNullable": "college-level-introcs-classchinese",
+  "ownerUserNullable": "zimkey",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "college_level_IntroCS_class_dataset|chinese",
+  "subtitleNullable": "Json format with (instruction input output)",
+  "descriptionNullable": "The dataset roughly include 750 question answering pairs in json format. With three name component (instruction , input and output).Data set was collected via college level intro cs class in China.",
+  "datasetId": 5278073,
+  "datasetSlug": "college-level-introcs-classchinese",
+  "hasDatasetSlug": true,
+  "ownerUser": "zimkey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "college_level_IntroCS_class_dataset|chinese",
+  "hasTitle": true,
+  "subtitle": "Json format with (instruction input output)",
+  "hasSubtitle": true,
+  "description": "The dataset roughly include 750 question answering pairs in json format. With three name component (instruction , input and output).Data set was collected via college level intro cs class in China.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "intermediate",
+    "text",
+    "chinese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

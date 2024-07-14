@@ -1,0 +1,44 @@
+{
+  "id": "shiekhburhan/face-mask-dataset",
+  "id_no": 2269875,
+  "datasetSlugNullable": "face-mask-dataset",
+  "ownerUserNullable": "shiekhburhan",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Face Mask Dataset",
+  "subtitleNullable": "COVID-19 Dataset  for  training Face mask Classifier",
+  "descriptionNullable": "The dataset has a total of 14535 images. It can be primarily used to train face mask classifiers.\n It consists of 3 classes. \na) Incorrect mask  b)With mask  C) without mask.\n\n**incorrect masked**  class consists of 5000 images, of which 2500 are Mask_on_Chin  and 2500 are Mask_on _Mouth_Chin. \n\n****With mask**** class has 4789 images, of which 4000 are simple with mask and 789 are complex \n   with mask images.\n\n**without mask**  has 4746 images, of which 4000 are simple and 746 are complex images.\n\nThe primary purpose of creating such a dataset is to help a researcher to develop a face mask detection system that can detect almost all types of face masks with different orientations.\n\nThe various types of images used in the dataset are as follows:\n\n\u2022\t\"MaskOnChin\"  images: These are the images in which masks are put on a chin only. The mouth and the nose of a person are visible.\n\u2022\t\"MaskOnChinMouth\" images: In this, the mask is covering the chin and the mouth area. The nose of a person is not covered.\n\u2022\t\"Simple WithMask\" images:- It consists of data samples of face masks without any texture, logos, etc.\n\u2022\t\"Complex WithMask\" images: It includes the images of the sophisticated face masks with textures, logos, or designs printed on them.\n\u2022\t\"Simple WithoutMask images: These are images without any occlusion.\n\u2022\t\"complex WithoutMask\" images: It consists of faces with occlusion, such as beard, hair, and hands covering the face.\n",
+  "datasetId": 2269875,
+  "datasetSlug": "face-mask-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shiekhburhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 14582,
+  "totalVotes": 44,
+  "totalDownloads": 1795,
+  "title": "Face Mask Dataset",
+  "hasTitle": true,
+  "subtitle": "COVID-19 Dataset  for  training Face mask Classifier",
+  "hasSubtitle": true,
+  "description": "The dataset has a total of 14535 images. It can be primarily used to train face mask classifiers.\n It consists of 3 classes. \na) Incorrect mask  b)With mask  C) without mask.\n\n**incorrect masked**  class consists of 5000 images, of which 2500 are Mask_on_Chin  and 2500 are Mask_on _Mouth_Chin. \n\n****With mask**** class has 4789 images, of which 4000 are simple with mask and 789 are complex \n   with mask images.\n\n**without mask**  has 4746 images, of which 4000 are simple and 746 are complex images.\n\nThe primary purpose of creating such a dataset is to help a researcher to develop a face mask detection system that can detect almost all types of face masks with different orientations.\n\nThe various types of images used in the dataset are as follows:\n\n\u2022\t\"MaskOnChin\"  images: These are the images in which masks are put on a chin only. The mouth and the nose of a person are visible.\n\u2022\t\"MaskOnChinMouth\" images: In this, the mask is covering the chin and the mouth area. The nose of a person is not covered.\n\u2022\t\"Simple WithMask\" images:- It consists of data samples of face masks without any texture, logos, etc.\n\u2022\t\"Complex WithMask\" images: It includes the images of the sophisticated face masks with textures, logos, or designs printed on them.\n\u2022\t\"Simple WithoutMask images: These are images without any occlusion.\n\u2022\t\"complex WithoutMask\" images: It consists of faces with occlusion, such as beard, hair, and hands covering the face.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "marcvelmer/barcelona-accidents",
+  "id_no": 2510,
+  "datasetSlugNullable": "barcelona-accidents",
+  "ownerUserNullable": "marcvelmer",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Barcelona Accidents",
+  "subtitleNullable": "List of people who have been involved in an accident in Barcelona (2010 - 2016)",
+  "descriptionNullable": "### Context\n\nThis dataset is a list of people who have been involved in an accident in the city of Barcelona (Spain) from year 2010 till 2016. This data is managed by the Police in the city of Barcelona and includes several information described below.\n\n### Content\n\nThis dataset is composed by 7 files, each one containing between 10k-12k lines.\n\nEvery row contains several information, like the type of injury (slightly wounded, serious injuries or death). It includes a description of the person (driver, passenger or pedestrian), sex, age, location, etc...\n\n**Important**: This dataset is uploaded as it is, so it's possible that some data in some rows is missing/not correct.\n\nDescription of each column:\n\n - *N\u00famero d'expedient*: Case File Number\n - *Codi districte*: District code where the accident was. Barcelona is divided in several districts\n - *Nom districte*: Name of the district\n - *Codi barri*: Hood code where the accident was. Every district in Barcelona has several hoods\n - *Nom barri*: Name of the hood\n - *Codi carrer*: Street code (Every street has a code)\n - *Nom carrer*: Name of the street\n - *Num postal caption*: Postal number of the street\n - *Descripci\u00f3 dia setmana*: Day of the week in text (written in Catalan)\n - *Dia setmana*: Shortcode of the previous field (also in Catalan)\n - *Descripci\u00f3 tipus dia*: Description of the type of the day, it can be \"labor\" or \"festive\" (also in Catalan)\n - *NK Any*: Number of the year\n - *Mes de any*: Number of the month (1-12)\n - *Nom mes*: Name of the month (in Catalan)\n - *Dia de mes*: Day of the month\n - *Descripci\u00f3 torn*: Type of round of the police. It can be \"Mat\u00ed\" (Morning), \"Tarda\" (Evening) or \"Nit\" (Night)\n - *Hora de dia*: Hour of the day (0-23)\n - *Descripci\u00f3 causa vianant*: Text in catalan. Describes the accident in case the victim is a pedestrian. If not, it says \"No \u00e9s causa del vianant\"\n - *Desc. Tipus vehicle implicat*: Type of vehicle in the accident. Also in Catalan.\n - *Descripci\u00f3 sexe*: Sex of the victim. \"Home\" means man, \"Dona\" means woman.\n - *Descripci\u00f3 tipus persona*: Type of role in the accident. It describes if the victim is the pilot (Conductor\n), passenger (Passatger), pedestrian (Vianant)\n - *Edat*: Age of the victim\n - *Descripci\u00f3 victimitzaci\u00f3*: Type of injury in Catalan (slightly wounded (Ferit lleu), serious injuries (Ferit greu) or death (Mort))\n - *Coordenada UTM (Y)*: UTM coordinate Y\n - *Coordenada UTM (X)*: UTM coordinate X\n\nAs you can see, some columns could be removed and we wouldn't loose information. My experience working with these files tells me that some rows have no correct data or no data at all. So, be careful!\n \n### Acknowledgements\n\nThis data can be found in \"[Open Data BCN - Barcelona's City Hall Open Data Service][1]\", which is the owner of the CSV files.\n\n### Inspiration\n\nI have uploaded this information here because I believe that data should be shared with everybody! So, do your own \"research\" and share it also! I'm always happy to get some feedback and help each other!\n\n\n  [1]: http://opendata-ajuntament.barcelona.cat/en/",
+  "datasetId": 2510,
+  "datasetSlug": "barcelona-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "marcvelmer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 15760,
+  "totalVotes": 36,
+  "totalDownloads": 2456,
+  "title": "Barcelona Accidents",
+  "hasTitle": true,
+  "subtitle": "List of people who have been involved in an accident in Barcelona (2010 - 2016)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is a list of people who have been involved in an accident in the city of Barcelona (Spain) from year 2010 till 2016. This data is managed by the Police in the city of Barcelona and includes several information described below.\n\n### Content\n\nThis dataset is composed by 7 files, each one containing between 10k-12k lines.\n\nEvery row contains several information, like the type of injury (slightly wounded, serious injuries or death). It includes a description of the person (driver, passenger or pedestrian), sex, age, location, etc...\n\n**Important**: This dataset is uploaded as it is, so it's possible that some data in some rows is missing/not correct.\n\nDescription of each column:\n\n - *N\u00famero d'expedient*: Case File Number\n - *Codi districte*: District code where the accident was. Barcelona is divided in several districts\n - *Nom districte*: Name of the district\n - *Codi barri*: Hood code where the accident was. Every district in Barcelona has several hoods\n - *Nom barri*: Name of the hood\n - *Codi carrer*: Street code (Every street has a code)\n - *Nom carrer*: Name of the street\n - *Num postal caption*: Postal number of the street\n - *Descripci\u00f3 dia setmana*: Day of the week in text (written in Catalan)\n - *Dia setmana*: Shortcode of the previous field (also in Catalan)\n - *Descripci\u00f3 tipus dia*: Description of the type of the day, it can be \"labor\" or \"festive\" (also in Catalan)\n - *NK Any*: Number of the year\n - *Mes de any*: Number of the month (1-12)\n - *Nom mes*: Name of the month (in Catalan)\n - *Dia de mes*: Day of the month\n - *Descripci\u00f3 torn*: Type of round of the police. It can be \"Mat\u00ed\" (Morning), \"Tarda\" (Evening) or \"Nit\" (Night)\n - *Hora de dia*: Hour of the day (0-23)\n - *Descripci\u00f3 causa vianant*: Text in catalan. Describes the accident in case the victim is a pedestrian. If not, it says \"No \u00e9s causa del vianant\"\n - *Desc. Tipus vehicle implicat*: Type of vehicle in the accident. Also in Catalan.\n - *Descripci\u00f3 sexe*: Sex of the victim. \"Home\" means man, \"Dona\" means woman.\n - *Descripci\u00f3 tipus persona*: Type of role in the accident. It describes if the victim is the pilot (Conductor\n), passenger (Passatger), pedestrian (Vianant)\n - *Edat*: Age of the victim\n - *Descripci\u00f3 victimitzaci\u00f3*: Type of injury in Catalan (slightly wounded (Ferit lleu), serious injuries (Ferit greu) or death (Mort))\n - *Coordenada UTM (Y)*: UTM coordinate Y\n - *Coordenada UTM (X)*: UTM coordinate X\n\nAs you can see, some columns could be removed and we wouldn't loose information. My experience working with these files tells me that some rows have no correct data or no data at all. So, be careful!\n \n### Acknowledgements\n\nThis data can be found in \"[Open Data BCN - Barcelona's City Hall Open Data Service][1]\", which is the owner of the CSV files.\n\n### Inspiration\n\nI have uploaded this information here because I believe that data should be shared with everybody! So, do your own \"research\" and share it also! I'm always happy to get some feedback and help each other!\n\n\n  [1]: http://opendata-ajuntament.barcelona.cat/en/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

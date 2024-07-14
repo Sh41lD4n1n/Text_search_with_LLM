@@ -1,0 +1,39 @@
+{
+  "id": "emanchauhdary/imdb-top-1000-dataset",
+  "id_no": 5149588,
+  "datasetSlugNullable": "imdb-top-1000-dataset",
+  "ownerUserNullable": "emanchauhdary",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "IMDB top 1000 dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5149588,
+  "datasetSlug": "imdb-top-1000-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "emanchauhdary",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 47,
+  "totalVotes": 14,
+  "totalDownloads": 9,
+  "title": "IMDB top 1000 dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "muhammadbinimran/housing-price-prediction-data",
+  "id_no": 4037188,
+  "datasetSlugNullable": "housing-price-prediction-data",
+  "ownerUserNullable": "muhammadbinimran",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Housing Price Prediction Data",
+  "subtitleNullable": "Unleash Your Data Science Skills with a Diverse Dataset",
+  "descriptionNullable": "Explore the fascinating world of housing price prediction with this synthetic dataset. Perfect for data science enthusiasts, machine learning practitioners, and Kaggle learners, this dataset offers a diverse collection of features, including square footage, bedrooms, bathrooms, neighborhood types, and the year of construction. Immerse yourself in the challenge of predicting house prices and enhance your skills in regression analysis.",
+  "datasetId": 4037188,
+  "datasetSlug": "housing-price-prediction-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadbinimran",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 76665,
+  "totalVotes": 293,
+  "totalDownloads": 18773,
+  "title": "Housing Price Prediction Data",
+  "hasTitle": true,
+  "subtitle": "Unleash Your Data Science Skills with a Diverse Dataset",
+  "hasSubtitle": true,
+  "description": "Explore the fascinating world of housing price prediction with this synthetic dataset. Perfect for data science enthusiasts, machine learning practitioners, and Kaggle learners, this dataset offers a diverse collection of features, including square footage, bedrooms, bathrooms, neighborhood types, and the year of construction. Immerse yourself in the challenge of predicting house prices and enhance your skills in regression analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "computer science",
+    "classification",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

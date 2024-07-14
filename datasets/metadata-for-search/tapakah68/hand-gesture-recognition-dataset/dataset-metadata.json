@@ -1,0 +1,41 @@
+{
+  "id": "tapakah68/hand-gesture-recognition-dataset",
+  "id_no": 3527005,
+  "datasetSlugNullable": "hand-gesture-recognition-dataset",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Hand Gesture Recognition Dataset",
+  "subtitleNullable": "Videos of people showing 5 different hand gestures, object detection dataset",
+  "descriptionNullable": "# Hand Gesture Recognition Object Detection dataset\nThe dataset consists of videos showcasing individuals demonstrating 5 different hand gestures (*\"one\", \"four\", \"small\", \"fist\", and \"me\"*). Each video captures a person prominently displaying a single hand gesture, allowing for accurate identification and differentiation of the gestures.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=hand-gesture-recognition-dataset)** to buy the dataset\n\nThe dataset offers a diverse range of individuals performing the gestures, enabling the exploration of variations in hand shapes, sizes, and movements across different individuals. \n\nThe videos in the dataset are recorded in reasonable lighting conditions and with adequate resolution, to ensure that the hand gestures can be easily observed and studied.\n\n### The dataset's possible applications:\n- hand gesture recognition\n- gesture-based control systems\n- virtual reality interactions\n- sign language analysis\n- human pose estimation and action analysis\n- security and authentication systems\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F618942%2F02149459e1fc1f76e2575dcdba6ec406%2FMacBook%20Air%20-%201.png?generation=1689667735287012&alt=media)\n\n# Content\n\n- **files**: includes folders corresponding to people and containing videos with 5 different shown gestures, each file is named according to the captured gesture\n- **.csv** file: contains information about files in the dataset\n\n### Hand gestures in the dataset:\n- \"one\" \n- \"four\"\n- \"small\"\n- \"clenched fist\" \n- \"me\"\n\n### File with the extension .csv\n\nincludes the following information:\n\n- **set_id**: id of the set of videos,\n- **one**: link to the video with \"one\" gesture, \n- **four**: link to the video with \"four\" gesture,\n- **small**: link to the video with \"small\" gesture,\n- **fist**: link to the video with \"fist\" gesture,\n- **me**: link to the video with \"me\" gesture\n\n# Videos with hand gestures might be collected in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=hand-gesture-recognition-dataset)** to discuss your requirements, learn about the price and buy the dataset.\n\n## **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=hand-gesture-recognition-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human video dataset, human faces dataset, machine learning, human hand video, dorsal, palmar sides, hand gesture symbols, gesture labels, home automation systems, gesture recognizer, single-hand gestures, dynamic gestures, hand features*",
+  "datasetId": 3527005,
+  "datasetSlug": "hand-gesture-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2557,
+  "totalVotes": 4,
+  "totalDownloads": 306,
+  "title": "Hand Gesture Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "Videos of people showing 5 different hand gestures, object detection dataset",
+  "hasSubtitle": true,
+  "description": "# Hand Gesture Recognition Object Detection dataset\nThe dataset consists of videos showcasing individuals demonstrating 5 different hand gestures (*\"one\", \"four\", \"small\", \"fist\", and \"me\"*). Each video captures a person prominently displaying a single hand gesture, allowing for accurate identification and differentiation of the gestures.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=hand-gesture-recognition-dataset)** to buy the dataset\n\nThe dataset offers a diverse range of individuals performing the gestures, enabling the exploration of variations in hand shapes, sizes, and movements across different individuals. \n\nThe videos in the dataset are recorded in reasonable lighting conditions and with adequate resolution, to ensure that the hand gestures can be easily observed and studied.\n\n### The dataset's possible applications:\n- hand gesture recognition\n- gesture-based control systems\n- virtual reality interactions\n- sign language analysis\n- human pose estimation and action analysis\n- security and authentication systems\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F618942%2F02149459e1fc1f76e2575dcdba6ec406%2FMacBook%20Air%20-%201.png?generation=1689667735287012&alt=media)\n\n# Content\n\n- **files**: includes folders corresponding to people and containing videos with 5 different shown gestures, each file is named according to the captured gesture\n- **.csv** file: contains information about files in the dataset\n\n### Hand gestures in the dataset:\n- \"one\" \n- \"four\"\n- \"small\"\n- \"clenched fist\" \n- \"me\"\n\n### File with the extension .csv\n\nincludes the following information:\n\n- **set_id**: id of the set of videos,\n- **one**: link to the video with \"one\" gesture, \n- **four**: link to the video with \"four\" gesture,\n- **small**: link to the video with \"small\" gesture,\n- **fist**: link to the video with \"fist\" gesture,\n- **me**: link to the video with \"me\" gesture\n\n# Videos with hand gestures might be collected in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=hand-gesture-recognition-dataset)** to discuss your requirements, learn about the price and buy the dataset.\n\n## **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=hand-gesture-recognition-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human video dataset, human faces dataset, machine learning, human hand video, dorsal, palmar sides, hand gesture symbols, gesture labels, home automation systems, gesture recognizer, single-hand gestures, dynamic gestures, hand features*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "video"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

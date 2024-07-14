@@ -1,0 +1,43 @@
+{
+  "id": "marcodiomedi/teams-and-players-stats-from-fbref",
+  "id_no": 5263344,
+  "datasetSlugNullable": "teams-and-players-stats-from-fbref",
+  "ownerUserNullable": "marcodiomedi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Teams and players stats from FBRef",
+  "subtitleNullable": "Data from FBRef about top leagues and relative teams and players",
+  "descriptionNullable": "This dataset contains detailed statistics on soccer players for the 2023-2024 season, sourced from FBRef. FBRef is a renowned source for soccer statistics and analysis, providing comprehensive and accurate data on players and teams from various leagues and international competitions. The data was extracted using web scraping techniques. \nFor more information, please refer to the GitHub [repository](https://github.com/dyomed93/Scraping-Analysis-FbRef).",
+  "datasetId": 5263344,
+  "datasetSlug": "teams-and-players-stats-from-fbref",
+  "hasDatasetSlug": true,
+  "ownerUser": "marcodiomedi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 42,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Teams and players stats from FBRef",
+  "hasTitle": true,
+  "subtitle": "Data from FBRef about top leagues and relative teams and players",
+  "hasSubtitle": true,
+  "description": "This dataset contains detailed statistics on soccer players for the 2023-2024 season, sourced from FBRef. FBRef is a renowned source for soccer statistics and analysis, providing comprehensive and accurate data on players and teams from various leagues and international competitions. The data was extracted using web scraping techniques. \nFor more information, please refer to the GitHub [repository](https://github.com/dyomed93/Scraping-Analysis-FbRef).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "beginner",
+    "data analytics",
+    "text",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/brazilian-stock-market",
+  "id_no": 2510758,
+  "datasetSlugNullable": "brazilian-stock-market",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Brazilian Stock Market (daily updated)",
+  "subtitleNullable": "Data on more than 400 Brazilian Stocks",
+  "descriptionNullable": "&gt; Brazil's B3 Stock Exchange is the one and only public financial market of the 13th largest economy in the world with a 2021 market cap of R$ 5.2 trillion BRL.\n\n&gt; With the goal of improving financial literacy, this dataset contains more than 400 stock listings that are updated daily for the purposes of providing data for quantitative analysis.\n\n\n# How to use this dataset\n&gt; - Create a time series regression model to predict ^IBOV value and/or stock prices.\n- Explore the yield and volatility of the stocks listed.\n- Identify high and low performance stocks among the list.\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\n\n&gt; ### License\nCC0: Public Domain\n\n\n&gt; ### Splash banner\nStonks by unknown memer.\n\n",
+  "datasetId": 2510758,
+  "datasetSlug": "brazilian-stock-market",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7442,
+  "totalVotes": 73,
+  "totalDownloads": 1051,
+  "title": "Brazilian Stock Market (daily updated)",
+  "hasTitle": true,
+  "subtitle": "Data on more than 400 Brazilian Stocks",
+  "hasSubtitle": true,
+  "description": "&gt; Brazil's B3 Stock Exchange is the one and only public financial market of the 13th largest economy in the world with a 2021 market cap of R$ 5.2 trillion BRL.\n\n&gt; With the goal of improving financial literacy, this dataset contains more than 400 stock listings that are updated daily for the purposes of providing data for quantitative analysis.\n\n\n# How to use this dataset\n&gt; - Create a time series regression model to predict ^IBOV value and/or stock prices.\n- Explore the yield and volatility of the stocks listed.\n- Identify high and low performance stocks among the list.\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\n\n&gt; ### License\nCC0: Public Domain\n\n\n&gt; ### Splash banner\nStonks by unknown memer.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

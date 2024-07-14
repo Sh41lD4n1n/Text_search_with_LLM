@@ -1,0 +1,39 @@
+{
+  "id": "programmerrdai/find-the-car-object-detection",
+  "id_no": 2179630,
+  "datasetSlugNullable": "find-the-car-object-detection",
+  "ownerUserNullable": "programmerrdai",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Find the Car (Object Detection)",
+  "subtitleNullable": "Find the car in the image using Object detection.",
+  "descriptionNullable": "I have used alot of Kaggle Datasets and I want to help the community also. So I hope this helps at least one person.\n:)\n**Please Leave a upvote thanks :)**\nThe data has been taken from Open Images V6\nSubset of Cars.\nThis is a subset of Open Images.\nI will update as frequently as possible.",
+  "datasetId": 2179630,
+  "datasetSlug": "find-the-car-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "programmerrdai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2049,
+  "totalVotes": 17,
+  "totalDownloads": 191,
+  "title": "Find the Car (Object Detection)",
+  "hasTitle": true,
+  "subtitle": "Find the car in the image using Object detection.",
+  "hasSubtitle": true,
+  "description": "I have used alot of Kaggle Datasets and I want to help the community also. So I hope this helps at least one person.\n:)\n**Please Leave a upvote thanks :)**\nThe data has been taken from Open Images V6\nSubset of Cars.\nThis is a subset of Open Images.\nI will update as frequently as possible.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

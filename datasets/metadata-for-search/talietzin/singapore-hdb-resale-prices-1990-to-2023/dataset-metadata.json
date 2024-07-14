@@ -1,0 +1,43 @@
+{
+  "id": "talietzin/singapore-hdb-resale-prices-1990-to-2023",
+  "id_no": 4837364,
+  "datasetSlugNullable": "singapore-hdb-resale-prices-1990-to-2023",
+  "ownerUserNullable": "talietzin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Singapore Home Resale Prices (HDB)",
+  "subtitleNullable": "Transacted resale flat prices w/ distance to MRT & CBD. Official SG Gov data.",
+  "descriptionNullable": "# General Information and License\n- HDB Resale Price data made available by SG government through the Open Data License.\n    1. https://beta.data.gov.sg/open-data-license\n    2. https://beta.data.gov.sg/collections/189/datasets/d_ebc5ab87086db484f88045b47411ebc5/view\n- Geodata made available by SG government through the OneMap\n    1. https://www.onemap.gov.sg/apidocs/apidocs\n- I claim NO rights whatsoever to this data. This data has been uploaded here for educational purposes.\n- There is no personally identifiable information in this data.\n\n# Data Availability\n- 1990 - 02-2012 (based on registration date)\n- 03-2012 - 2023-09 (based on approval date)\n\nContains resale prices only because most of Singapore's population lives in (very well-made and maintained!) public housing. \n\nDoes not contain condo/landed house prices.\n\n# Special Notes\n- Public housing in Singapore is generally sold on a leasehold (typically 99-year) basis.\n- Prices tend to decrease as the remaining lease period decreases (see Bala's Curve).\n\n# Data Representation\nEach row represents 1 transaction.\n\n# Data Dictionary\n\n| Column | Description  |\n| --- | --- |\n| latitude | Latitude coordinate.  |\n| longitude | Longitude coordinate. |\n| postal_code | 6-digit postal code. |\n| address | Street address. |\n| closest_mrt | Name of closest Mass Rapid Transit (MRT) station. |\n| closest_mrt_dist| Distance (metres) to closest MRT station. |\n| cbd_dist | Distance (metres) to Central Business District (1.2830, 103.8513 -- Raffles Place Station) | \n| month| YYYY-MM representation of the transaction date. |\n| town | Name of the neighbourhood in which the flat is located. |\n| flat_type | Generic type of flat, e.g. \"3 ROOM\", \"4 ROOM\". |\n| block | Block number. |\n| street name | Street name. |\n| storey_range | Height of the flat. Specific floors are never given (as of 2024). |\n| floor_area | Floor area in Square Metres. |\n| flat_model | Model/subtype of flat. Each flat type has certain specifications and configurations. |\n| lease_commence_date | The year that the leasehold contract of the flat began. Most (not all) flats have 99-year leases.|\n| remaining_lease| Remaining lease of the contract in years and months. Not all files have this column. It only starts appearing in the file with data from Jan 2015 to Dec 2016.|\n| resale_price| Target column. This is the ***transacted*** resale price as agreed between buyer and seller. |\n|years remaining| Years remaining on the lease. |\n\n# Update Frequency\n- This dataset may be updated every year or so as new transaction data becomes available.",
+  "datasetId": 4837364,
+  "datasetSlug": "singapore-hdb-resale-prices-1990-to-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "talietzin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 626,
+  "totalVotes": 5,
+  "totalDownloads": 92,
+  "title": "Singapore Home Resale Prices (HDB)",
+  "hasTitle": true,
+  "subtitle": "Transacted resale flat prices w/ distance to MRT & CBD. Official SG Gov data.",
+  "hasSubtitle": true,
+  "description": "# General Information and License\n- HDB Resale Price data made available by SG government through the Open Data License.\n    1. https://beta.data.gov.sg/open-data-license\n    2. https://beta.data.gov.sg/collections/189/datasets/d_ebc5ab87086db484f88045b47411ebc5/view\n- Geodata made available by SG government through the OneMap\n    1. https://www.onemap.gov.sg/apidocs/apidocs\n- I claim NO rights whatsoever to this data. This data has been uploaded here for educational purposes.\n- There is no personally identifiable information in this data.\n\n# Data Availability\n- 1990 - 02-2012 (based on registration date)\n- 03-2012 - 2023-09 (based on approval date)\n\nContains resale prices only because most of Singapore's population lives in (very well-made and maintained!) public housing. \n\nDoes not contain condo/landed house prices.\n\n# Special Notes\n- Public housing in Singapore is generally sold on a leasehold (typically 99-year) basis.\n- Prices tend to decrease as the remaining lease period decreases (see Bala's Curve).\n\n# Data Representation\nEach row represents 1 transaction.\n\n# Data Dictionary\n\n| Column | Description  |\n| --- | --- |\n| latitude | Latitude coordinate.  |\n| longitude | Longitude coordinate. |\n| postal_code | 6-digit postal code. |\n| address | Street address. |\n| closest_mrt | Name of closest Mass Rapid Transit (MRT) station. |\n| closest_mrt_dist| Distance (metres) to closest MRT station. |\n| cbd_dist | Distance (metres) to Central Business District (1.2830, 103.8513 -- Raffles Place Station) | \n| month| YYYY-MM representation of the transaction date. |\n| town | Name of the neighbourhood in which the flat is located. |\n| flat_type | Generic type of flat, e.g. \"3 ROOM\", \"4 ROOM\". |\n| block | Block number. |\n| street name | Street name. |\n| storey_range | Height of the flat. Specific floors are never given (as of 2024). |\n| floor_area | Floor area in Square Metres. |\n| flat_model | Model/subtype of flat. Each flat type has certain specifications and configurations. |\n| lease_commence_date | The year that the leasehold contract of the flat began. Most (not all) flats have 99-year leases.|\n| remaining_lease| Remaining lease of the contract in years and months. Not all files have this column. It only starts appearing in the file with data from Jan 2015 to Dec 2016.|\n| resale_price| Target column. This is the ***transacted*** resale price as agreed between buyer and seller. |\n|years remaining| Years remaining on the lease. |\n\n# Update Frequency\n- This dataset may be updated every year or so as new transaction data becomes available.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "housing",
+    "lending",
+    "tabular",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

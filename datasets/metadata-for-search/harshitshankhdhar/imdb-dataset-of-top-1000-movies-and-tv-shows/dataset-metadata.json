@@ -1,0 +1,40 @@
+{
+  "id": "harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows",
+  "id_no": 1131493,
+  "datasetSlugNullable": "imdb-dataset-of-top-1000-movies-and-tv-shows",
+  "ownerUserNullable": "harshitshankhdhar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB Movies Dataset",
+  "subtitleNullable": "Top 1000 Movies by IMDB Rating",
+  "descriptionNullable": "### Context\n\nIMDB Dataset of top 1000 movies and tv shows.\nYou can find the **EDA Process** on - https://www.kaggle.com/harshitshankhdhar/eda-on-imdb-movies-dataset\n\nPlease consider **UPVOTE** if you found it useful. \n\n### Content\n\nData:-\n- **Poster_Link** - Link of the poster that imdb using\n- **Series_Title** = Name of the movie \n- **Released_Year** - Year at which that movie released\n- **Certificate** - Certificate earned by that movie\n- **Runtime** - Total runtime of the movie\n- **Genre** - Genre of the movie\n- **IMDB_Rating** - Rating of the movie at IMDB site\n- **Overview** - mini story/ summary\n- **Meta_score** - Score earned by the movie\n- **Director** - Name of the Director\n- **Star1,Star2,Star3,Star4** - Name of the Stars\n- **No_of_votes** - Total number of votes\n- **Gross** - Money earned by that movie\n\n### Inspiration\n\n- Analysis of the gross of a movie vs directors.\n- Analysis of the gross of a movie vs different - different stars.\n- Analysis of the No_of_votes of a movie vs directors.\n- Analysis of the No_of_votes of a movie vs different - different stars.\n- Which actor prefer which Genre more?\n- Which combination of actors are getting good IMDB_Rating maximum time?\n- Which combination of actors are getting good gross?",
+  "datasetId": 1131493,
+  "datasetSlug": "imdb-dataset-of-top-1000-movies-and-tv-shows",
+  "hasDatasetSlug": true,
+  "ownerUser": "harshitshankhdhar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 277247,
+  "totalVotes": 468,
+  "totalDownloads": 57537,
+  "title": "IMDB Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Top 1000 Movies by IMDB Rating",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIMDB Dataset of top 1000 movies and tv shows.\nYou can find the **EDA Process** on - https://www.kaggle.com/harshitshankhdhar/eda-on-imdb-movies-dataset\n\nPlease consider **UPVOTE** if you found it useful. \n\n### Content\n\nData:-\n- **Poster_Link** - Link of the poster that imdb using\n- **Series_Title** = Name of the movie \n- **Released_Year** - Year at which that movie released\n- **Certificate** - Certificate earned by that movie\n- **Runtime** - Total runtime of the movie\n- **Genre** - Genre of the movie\n- **IMDB_Rating** - Rating of the movie at IMDB site\n- **Overview** - mini story/ summary\n- **Meta_score** - Score earned by the movie\n- **Director** - Name of the Director\n- **Star1,Star2,Star3,Star4** - Name of the Stars\n- **No_of_votes** - Total number of votes\n- **Gross** - Money earned by that movie\n\n### Inspiration\n\n- Analysis of the gross of a movie vs directors.\n- Analysis of the gross of a movie vs different - different stars.\n- Analysis of the No_of_votes of a movie vs directors.\n- Analysis of the No_of_votes of a movie vs different - different stars.\n- Which actor prefer which Genre more?\n- Which combination of actors are getting good IMDB_Rating maximum time?\n- Which combination of actors are getting good gross?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

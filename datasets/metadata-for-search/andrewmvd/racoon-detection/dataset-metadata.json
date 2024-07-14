@@ -1,0 +1,39 @@
+{
+  "id": "andrewmvd/racoon-detection",
+  "id_no": 702682,
+  "datasetSlugNullable": "racoon-detection",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Trash Panda Detection",
+  "subtitleNullable": "196 images containing 213 racoons!",
+  "descriptionNullable": "![Raccoon Example](https://i.imgur.com/cRQJ1PB.png)\n\n# About this dataset\n&gt; This dataset contains **196 images of raccoons and 213 bounding boxes** (some images have two raccoons).\nThis is a single class problem, and annotations are provided in COCO format. It's a great first dataset for getting started with object detection.\n\n# How to use this dataset\n&gt; Find racoons!\n&gt; [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# Acknowledgements\nThis dataset was originally collected by [Dat Tran](https://github.com/datitran/raccoon_dataset).\n\n&gt; ### License\nMIT\n\n&gt; ### Splash banner\nPhoto by [Quinten de Graaf](https://unsplash.com/@quinten149) on [Unsplash](https://unsplash.com/photos/Pa2xXa7tlFk)",
+  "datasetId": 702682,
+  "datasetSlug": "racoon-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 7524,
+  "totalVotes": 10,
+  "totalDownloads": 244,
+  "title": "Trash Panda Detection",
+  "hasTitle": true,
+  "subtitle": "196 images containing 213 racoons!",
+  "hasSubtitle": true,
+  "description": "![Raccoon Example](https://i.imgur.com/cRQJ1PB.png)\n\n# About this dataset\n&gt; This dataset contains **196 images of raccoons and 213 bounding boxes** (some images have two raccoons).\nThis is a single class problem, and annotations are provided in COCO format. It's a great first dataset for getting started with object detection.\n\n# How to use this dataset\n&gt; Find racoons!\n&gt; [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# Acknowledgements\nThis dataset was originally collected by [Dat Tran](https://github.com/datitran/raccoon_dataset).\n\n&gt; ### License\nMIT\n\n&gt; ### Splash banner\nPhoto by [Quinten de Graaf](https://unsplash.com/@quinten149) on [Unsplash](https://unsplash.com/photos/Pa2xXa7tlFk)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

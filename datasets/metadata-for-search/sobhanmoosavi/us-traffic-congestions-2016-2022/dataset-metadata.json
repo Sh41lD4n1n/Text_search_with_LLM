@@ -1,0 +1,43 @@
+{
+  "id": "sobhanmoosavi/us-traffic-congestions-2016-2022",
+  "id_no": 4110846,
+  "datasetSlugNullable": "us-traffic-congestions-2016-2022",
+  "ownerUserNullable": "sobhanmoosavi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "US Traffic Congestions (2016-2022)",
+  "subtitleNullable": "Comprehensive Dataset of 33 Million U.S. Traffic Congestion Events",
+  "descriptionNullable": "### Description\nThis is a countrywide traffic congestion dataset that covers __49 states of the USA__. The congestion events data were collected from __February 2016 to September 2022__, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by various entities, including the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road networks. The dataset contains approximately __33 million congestion records__. We also provide a __sampled version__ of data that includes 2 million events for easier processing and handling for those who prefer to work with a smaller amount of data.\n\n### Acknowledgements\nIf you use this dataset, please kindly cite the following paper:\n\n- Moosavi, Sobhan, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, and Rajiv Ramnath. [\"Short and long-term pattern discovery over large-scale geo-spatiotemporal data.\"](https://dl.acm.org/doi/abs/10.1145/3292500.3330755) In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, pp. 2905-2913. 2019.\n\n### Inspiration\nThe US Traffic Congestion dataset can be used for numerous applications, such as traffic modeling, simulated routing, identifying traffic hotspot locations, and exploring intrinsic traffic patterns and how they evolve over time. \n\n### Missing Data and Update Policy\nPlease note that the dataset may be missing data for certain days, which could be due to network connectivity issues during data collection. The dataset will not be updated, and this version should be considered the latest.\n\n### Usage Policy and Legal Disclaimer\nThis dataset is being distributed solely for research purposes under the Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By downloading the dataset, you agree to use it only for non-commercial, research, or academic applications. If you use this dataset, it is necessary to cite the paper mentioned above.\n\n### Inquiries or need help?\nFor any inquiries or assistance, please contact Sobhan Moosavi at sobhan.mehr84@gmail.com",
+  "datasetId": 4110846,
+  "datasetSlug": "us-traffic-congestions-2016-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "sobhanmoosavi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2639,
+  "totalVotes": 14,
+  "totalDownloads": 380,
+  "title": "US Traffic Congestions (2016-2022)",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset of 33 Million U.S. Traffic Congestion Events",
+  "hasSubtitle": true,
+  "description": "### Description\nThis is a countrywide traffic congestion dataset that covers __49 states of the USA__. The congestion events data were collected from __February 2016 to September 2022__, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by various entities, including the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road networks. The dataset contains approximately __33 million congestion records__. We also provide a __sampled version__ of data that includes 2 million events for easier processing and handling for those who prefer to work with a smaller amount of data.\n\n### Acknowledgements\nIf you use this dataset, please kindly cite the following paper:\n\n- Moosavi, Sobhan, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, and Rajiv Ramnath. [\"Short and long-term pattern discovery over large-scale geo-spatiotemporal data.\"](https://dl.acm.org/doi/abs/10.1145/3292500.3330755) In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, pp. 2905-2913. 2019.\n\n### Inspiration\nThe US Traffic Congestion dataset can be used for numerous applications, such as traffic modeling, simulated routing, identifying traffic hotspot locations, and exploring intrinsic traffic patterns and how they evolve over time. \n\n### Missing Data and Update Policy\nPlease note that the dataset may be missing data for certain days, which could be due to network connectivity issues during data collection. The dataset will not be updated, and this version should be considered the latest.\n\n### Usage Policy and Legal Disclaimer\nThis dataset is being distributed solely for research purposes under the Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By downloading the dataset, you agree to use it only for non-commercial, research, or academic applications. If you use this dataset, it is necessary to cite the paper mentioned above.\n\n### Inquiries or need help?\nFor any inquiries or assistance, please contact Sobhan Moosavi at sobhan.mehr84@gmail.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "categorical",
+    "transportation",
+    "tabular",
+    "urban planning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sudalairajkumar/daily-temperature-of-major-cities",
+  "id_no": 694560,
+  "datasetSlugNullable": "daily-temperature-of-major-cities",
+  "ownerUserNullable": "sudalairajkumar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Daily Temperature of Major Cities ",
+  "subtitleNullable": "Daily average temperature values recorded in major cities of the world",
+  "descriptionNullable": "### Context\nGlobal warming is the ongoing rise of the average temperature of the Earth's climate system and has been demonstrated by direct temperature measurements and by measurements of various effects of the warming - Wikipedia\n\nSo a dataset on the temperature of major cities of the world will help analyze the same. Also weather information is helpful for a lot of data science tasks like sales forecasting, logistics etc. \n\nThanks to University of Dayton, the dataset is available as separate txt files for each city [here](http://academic.udayton.edu/kissock/http/Weather/default.htm). The data is available for research and non-commercial purposes only.. Please refer to [this page](http://academic.udayton.edu/kissock/http/Weather/default.htm) for license.\n\n### Content\n\nDaily level average temperature values is present in `city_temperature.csv` file\n\n\n### Acknowledgements\n\nUniversity of Dayton for making this dataset available in the first place!\n\nPhoto credits: [James Day](https://unsplash.com/@jamesday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash\n\n\n### Inspiration\n\nSome ideas are:\n1. How is the average temperature of the world changing over time?\n2. Is the temperature information helpful for other forecasting tasks? \n",
+  "datasetId": 694560,
+  "datasetSlug": "daily-temperature-of-major-cities",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudalairajkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 227574,
+  "totalVotes": 455,
+  "totalDownloads": 35142,
+  "title": "Daily Temperature of Major Cities ",
+  "hasTitle": true,
+  "subtitle": "Daily average temperature values recorded in major cities of the world",
+  "hasSubtitle": true,
+  "description": "### Context\nGlobal warming is the ongoing rise of the average temperature of the Earth's climate system and has been demonstrated by direct temperature measurements and by measurements of various effects of the warming - Wikipedia\n\nSo a dataset on the temperature of major cities of the world will help analyze the same. Also weather information is helpful for a lot of data science tasks like sales forecasting, logistics etc. \n\nThanks to University of Dayton, the dataset is available as separate txt files for each city [here](http://academic.udayton.edu/kissock/http/Weather/default.htm). The data is available for research and non-commercial purposes only.. Please refer to [this page](http://academic.udayton.edu/kissock/http/Weather/default.htm) for license.\n\n### Content\n\nDaily level average temperature values is present in `city_temperature.csv` file\n\n\n### Acknowledgements\n\nUniversity of Dayton for making this dataset available in the first place!\n\nPhoto credits: [James Day](https://unsplash.com/@jamesday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash\n\n\n### Inspiration\n\nSome ideas are:\n1. How is the average temperature of the world changing over time?\n2. Is the temperature information helpful for other forecasting tasks? \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "weather and climate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

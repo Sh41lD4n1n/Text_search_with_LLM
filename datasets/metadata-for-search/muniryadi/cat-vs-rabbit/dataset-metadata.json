@@ -1,0 +1,43 @@
+{
+  "id": "muniryadi/cat-vs-rabbit",
+  "id_no": 1496720,
+  "datasetSlugNullable": "cat-vs-rabbit",
+  "ownerUserNullable": "muniryadi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "cat vs rabbit",
+  "subtitleNullable": "datasets for binary classification",
+  "descriptionNullable": "### Context\n\nThere are enough animals image-datasets for classifications like, cat and dog. I realized that cats and rabbits sometimes look very similarly. So, I decided to gather some images of cats and rabbits to create a dataset for a classification.\n\n### Content\n\nThere are two sets of data. The first dataset, 'train-cat-rabbit', has two subsets: cat and rabbit, and each sub-file contains about 800 images. The second dataset is a validation dataset, and it has similar directory as train-cat-rabbit file and each sub folder contain about 200 images. This can be used to validate the model.\u2028Both datasets are relatively small, and all images are reshaped to (300,300). You can use ImageGenerator of TensorFlow to generate more augmented images and label these images.\n\n\n### Acknowledgements\n\nCat images are downloaded from&nbsp;https://www.kaggle.com/muniryadi/cat-and-rabbit-datasets-for-binary-classification.\u2028Rabbit images are scraped from google.com\n\n### Inspiration\n\nI wonder if you can create a model that can classify a cat and rabbit with these small datasets.",
+  "datasetId": 1496720,
+  "datasetSlug": "cat-vs-rabbit",
+  "hasDatasetSlug": true,
+  "ownerUser": "muniryadi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 16026,
+  "totalVotes": 22,
+  "totalDownloads": 3221,
+  "title": "cat vs rabbit",
+  "hasTitle": true,
+  "subtitle": "datasets for binary classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThere are enough animals image-datasets for classifications like, cat and dog. I realized that cats and rabbits sometimes look very similarly. So, I decided to gather some images of cats and rabbits to create a dataset for a classification.\n\n### Content\n\nThere are two sets of data. The first dataset, 'train-cat-rabbit', has two subsets: cat and rabbit, and each sub-file contains about 800 images. The second dataset is a validation dataset, and it has similar directory as train-cat-rabbit file and each sub folder contain about 200 images. This can be used to validate the model.\u2028Both datasets are relatively small, and all images are reshaped to (300,300). You can use ImageGenerator of TensorFlow to generate more augmented images and label these images.\n\n\n### Acknowledgements\n\nCat images are downloaded from&nbsp;https://www.kaggle.com/muniryadi/cat-and-rabbit-datasets-for-binary-classification.\u2028Rabbit images are scraped from google.com\n\n### Inspiration\n\nI wonder if you can create a model that can classify a cat and rabbit with these small datasets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "deep learning",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

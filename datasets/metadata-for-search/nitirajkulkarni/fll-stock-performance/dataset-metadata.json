@@ -1,0 +1,40 @@
+{
+  "id": "nitirajkulkarni/fll-stock-performance",
+  "id_no": 5253234,
+  "datasetSlugNullable": "fll-stock-performance",
+  "ownerUserNullable": "nitirajkulkarni",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Dataset: Full House Resorts, Inc. (FLL) Stock P...",
+  "subtitleNullable": "Stock Performance Dataset",
+  "descriptionNullable": "This dataset provides historical stock market performance data for specific companies. It enables users to analyze and understand the past trends and fluctuations in stock prices over time. This information can be utilized for various purposes such as investment analysis, financial research, and market trend forecasting.",
+  "datasetId": 5253234,
+  "datasetSlug": "fll-stock-performance",
+  "hasDatasetSlug": true,
+  "ownerUser": "nitirajkulkarni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 6,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Dataset: Full House Resorts, Inc. (FLL) Stock P...",
+  "hasTitle": true,
+  "subtitle": "Stock Performance Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset provides historical stock market performance data for specific companies. It enables users to analyze and understand the past trends and fluctuations in stock prices over time. This information can be utilized for various purposes such as investment analysis, financial research, and market trend forecasting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

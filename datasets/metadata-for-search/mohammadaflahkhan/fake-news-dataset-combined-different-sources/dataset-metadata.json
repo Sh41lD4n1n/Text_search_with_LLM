@@ -1,0 +1,44 @@
+{
+  "id": "mohammadaflahkhan/fake-news-dataset-combined-different-sources",
+  "id_no": 1593821,
+  "datasetSlugNullable": "fake-news-dataset-combined-different-sources",
+  "ownerUserNullable": "mohammadaflahkhan",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake News Dataset Combined Different Sources",
+  "subtitleNullable": "Fake News Detection Task",
+  "descriptionNullable": "",
+  "datasetId": 1593821,
+  "datasetSlug": "fake-news-dataset-combined-different-sources",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohammadaflahkhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 2744,
+  "totalVotes": 8,
+  "totalDownloads": 327,
+  "title": "Fake News Dataset Combined Different Sources",
+  "hasTitle": true,
+  "subtitle": "Fake News Detection Task",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "classification",
+    "binary classification",
+    "multiclass classification",
+    "news",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

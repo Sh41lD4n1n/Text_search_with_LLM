@@ -1,0 +1,42 @@
+{
+  "id": "jocelyndumlao/consumer-review-of-clothing-product",
+  "id_no": 3879117,
+  "datasetSlugNullable": "consumer-review-of-clothing-product",
+  "ownerUserNullable": "jocelyndumlao",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Consumer Review of Clothing Product",
+  "subtitleNullable": "Fit, Feel, and Fashion: A Deep Dive into Clothing Reviews 2023",
+  "descriptionNullable": "# Description\n\nThe dataset is collected on our own from various sources. This dataset comprises a comprehensive collection of reviews pertaining to clothing products and serves as a valuable resource for multilabel classification research. Each data entry is meticulously annotated with relevant labels, allowing researchers to explore various dimensions of the clothing products being reviewed. The dataset offers a rich diversity of perspectives and opinions, enabling the development and evaluation of robust classification models that can accurately predict multiple aspects of a clothing item. With its focus on multilabel classification, this data contributes significantly to advancing the understanding and application of machine learning algorithms in the fashion industry.\n\n# Categories\n\nClothing Industry\n\n# Acknowledgements & Source\n\n### Nadhif Girawan\n\nInstitutions: Telkom University\n\n[Data Source](https://data.mendeley.com/datasets/pg3s4hw68k/2)\n\n[View Details](https://plu.mx/plum/a?mendeley_data_id=pg3s4hw68k&theme=plum-bigben-theme)\n\nImage source: [Clothing & Fast Fashion \u2014 The Conscious Challenge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theconsciouschallenge.org%2Fecologicalfootprintbibleoverview%2Fclothing-fast-fashion&psig=AOvVaw3i7rex2TGsEzmBhwS8R7hw&ust=1697777817860000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCn76-pgYIDFQAAAAAdAAAAABAQ)\n\n## Please don't forget to upvote if you find this useful.\n\n",
+  "datasetId": 3879117,
+  "datasetSlug": "consumer-review-of-clothing-product",
+  "hasDatasetSlug": true,
+  "ownerUser": "jocelyndumlao",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11879,
+  "totalVotes": 67,
+  "totalDownloads": 2361,
+  "title": "Consumer Review of Clothing Product",
+  "hasTitle": true,
+  "subtitle": "Fit, Feel, and Fashion: A Deep Dive into Clothing Reviews 2023",
+  "hasSubtitle": true,
+  "description": "# Description\n\nThe dataset is collected on our own from various sources. This dataset comprises a comprehensive collection of reviews pertaining to clothing products and serves as a valuable resource for multilabel classification research. Each data entry is meticulously annotated with relevant labels, allowing researchers to explore various dimensions of the clothing products being reviewed. The dataset offers a rich diversity of perspectives and opinions, enabling the development and evaluation of robust classification models that can accurately predict multiple aspects of a clothing item. With its focus on multilabel classification, this data contributes significantly to advancing the understanding and application of machine learning algorithms in the fashion industry.\n\n# Categories\n\nClothing Industry\n\n# Acknowledgements & Source\n\n### Nadhif Girawan\n\nInstitutions: Telkom University\n\n[Data Source](https://data.mendeley.com/datasets/pg3s4hw68k/2)\n\n[View Details](https://plu.mx/plum/a?mendeley_data_id=pg3s4hw68k&theme=plum-bigben-theme)\n\nImage source: [Clothing & Fast Fashion \u2014 The Conscious Challenge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theconsciouschallenge.org%2Fecologicalfootprintbibleoverview%2Fclothing-fast-fashion&psig=AOvVaw3i7rex2TGsEzmBhwS8R7hw&ust=1697777817860000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCn76-pgYIDFQAAAAAdAAAAABAQ)\n\n## Please don't forget to upvote if you find this useful.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "nlp",
+    "data visualization",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

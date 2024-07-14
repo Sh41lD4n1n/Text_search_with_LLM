@@ -1,0 +1,53 @@
+{
+  "id": "cryptexcode/banfakenews",
+  "id_no": 618408,
+  "datasetSlugNullable": "banfakenews",
+  "ownerUserNullable": "cryptexcode",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "BanFakeNews",
+  "subtitleNullable": "A Dataset for Detecting Fake News in Bangla",
+  "descriptionNullable": "## BanFakeNews: A Dataset for Detecting Fake News in Bangla \n\nThis work is accepted at LREC 2020. Paper is available at https://arxiv.org/pdf/2004.08789.pdf\n\n\n### Abstract\nObserving the damages that can be done by the rapid propagation of fake news in various sectors like politics and finance, automatic identification of fake news using linguistic analysis has drawn the attention of the research community. However, such methods are largely being developed for English where low resource languages remain out of the focus. But the risks spawned by fake and manipulative news are not confined by languages. In this work, we propose an annotated dataset of ~50K news that can be used for building automated fake news detection systems for a low resource language like Bangla. Additionally, we provide an analysis of the dataset and develop a benchmark system with state of the art NLP techniques to identify Bangla fake news. To create this system, we explore traditional linguistic features and neural network based methods. We expect this dataset will be a valuable resource for building technologies to prevent the spreading of fake news and contribute in research with low resource languages.\n\n\n#### List of files\n* Authentic-48K.csv\n* Fake-1K.csv\n* LabeledAuthentic-7K.csv\n* LabeledFake-1K.csv\n\n**File Format**\nAuthentic-48K.csv and Fake-1K.csv\n\n| Column Title   | Description |\n| ------------- |------------- |\n| articleID      | ID of the news |\n| domain      | News publisher's site name      |\n| date | Category of the news|\n| category | Category of the news|\n| headline | Headline of the news|\n| content | Article or body of the news|\n| label | 1 or 0 . '1' for authentic '0' for fake|\n\nLabeledAuthentic-7K.csv, LabeledFake-1K.csv\n\n|Column Title   |Description |\n|------------- |------------- |\n| articleID | ID of the news |\n| domain | News publisher's site name |\n| date | Published Date |\n| category | Category of the news |\n| source | Source of the news. (One who can verify the claim of the news) |\n| relation | Related or Unrelated. Related if headline matches with content's claim otherwise it is labeled as Unrelated |\n| headline | Headline of the news |\n| content | Article or body of the news |\n| label | 1 or 0 . '1' for authentic '0' for fake |\n| F-type | Type of fake news (Clickbait, Satire, Fake(Misleading or False Context))\n\n**F-type** is only present in LabeledFake-1K.csv\n\n### Bibtex for citation\n```\n@InProceedings{Hossain20.1084,\n author = {Md Zobaer Hossain, Md Ashraful Rahman, Md Saiful Islam, Sudipta Kar},\n title = \"{BanFakeNews: A Dataset for Detecting Fake News in Bangla}\",\n booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)},\n year = {2020},\n publisher = {European Language Resources Association (ELRA)},\nlanguage = {english}\n}\n```",
+  "datasetId": 618408,
+  "datasetSlug": "banfakenews",
+  "hasDatasetSlug": true,
+  "ownerUser": "cryptexcode",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 23350,
+  "totalVotes": 61,
+  "totalDownloads": 3016,
+  "title": "BanFakeNews",
+  "hasTitle": true,
+  "subtitle": "A Dataset for Detecting Fake News in Bangla",
+  "hasSubtitle": true,
+  "description": "## BanFakeNews: A Dataset for Detecting Fake News in Bangla \n\nThis work is accepted at LREC 2020. Paper is available at https://arxiv.org/pdf/2004.08789.pdf\n\n\n### Abstract\nObserving the damages that can be done by the rapid propagation of fake news in various sectors like politics and finance, automatic identification of fake news using linguistic analysis has drawn the attention of the research community. However, such methods are largely being developed for English where low resource languages remain out of the focus. But the risks spawned by fake and manipulative news are not confined by languages. In this work, we propose an annotated dataset of ~50K news that can be used for building automated fake news detection systems for a low resource language like Bangla. Additionally, we provide an analysis of the dataset and develop a benchmark system with state of the art NLP techniques to identify Bangla fake news. To create this system, we explore traditional linguistic features and neural network based methods. We expect this dataset will be a valuable resource for building technologies to prevent the spreading of fake news and contribute in research with low resource languages.\n\n\n#### List of files\n* Authentic-48K.csv\n* Fake-1K.csv\n* LabeledAuthentic-7K.csv\n* LabeledFake-1K.csv\n\n**File Format**\nAuthentic-48K.csv and Fake-1K.csv\n\n| Column Title   | Description |\n| ------------- |------------- |\n| articleID      | ID of the news |\n| domain      | News publisher's site name      |\n| date | Category of the news|\n| category | Category of the news|\n| headline | Headline of the news|\n| content | Article or body of the news|\n| label | 1 or 0 . '1' for authentic '0' for fake|\n\nLabeledAuthentic-7K.csv, LabeledFake-1K.csv\n\n|Column Title   |Description |\n|------------- |------------- |\n| articleID | ID of the news |\n| domain | News publisher's site name |\n| date | Published Date |\n| category | Category of the news |\n| source | Source of the news. (One who can verify the claim of the news) |\n| relation | Related or Unrelated. Related if headline matches with content's claim otherwise it is labeled as Unrelated |\n| headline | Headline of the news |\n| content | Article or body of the news |\n| label | 1 or 0 . '1' for authentic '0' for fake |\n| F-type | Type of fake news (Clickbait, Satire, Fake(Misleading or False Context))\n\n**F-type** is only present in LabeledFake-1K.csv\n\n### Bibtex for citation\n```\n@InProceedings{Hossain20.1084,\n author = {Md Zobaer Hossain, Md Ashraful Rahman, Md Saiful Islam, Sudipta Kar},\n title = \"{BanFakeNews: A Dataset for Detecting Fake News in Bangla}\",\n booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)},\n year = {2020},\n publisher = {European Language Resources Association (ELRA)},\nlanguage = {english}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "computer science",
+    "nlp",
+    "classification",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "saifsust",
+      "role": "writer"
+    },
+    {
+      "username": "rowan1697",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

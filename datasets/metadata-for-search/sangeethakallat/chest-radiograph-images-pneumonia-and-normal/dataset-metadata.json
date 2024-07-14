@@ -1,0 +1,39 @@
+{
+  "id": "sangeethakallat/chest-radiograph-images-pneumonia-and-normal",
+  "id_no": 4737544,
+  "datasetSlugNullable": "chest-radiograph-images-pneumonia-and-normal",
+  "ownerUserNullable": "sangeethakallat",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Chest Radiograph Images (Pneumonia & Normal)",
+  "subtitleNullable": "11,236 Images, 2 Categories",
+  "descriptionNullable": "This dataset is what I used to train my model. I made this dataset by combining two different datasets which are available for use in Kaggle. So I would like to cite them here. I am also thanking them for this. \n\nThis dataset combines chest X-ray images from two sources for pneumonia detection. The primary dataset, sourced from Kaggle Chest X-Ray Images (Pneumonia) [1], includes 5,863 images (1,583 normal, 4,273 pneumonia). Supplementary data from the COVID-19 Radiography Database [2], contributes 1,345 pneumonia images and 4,053 normal images. Thus making the number of pneumonia and the normal images the same that is 5618 images and in total, the dataset comprises 11,236 images. \n\nThe two sources from which I took the images are trust worthy as you can see in the source dataset pages.\n\n[1]. Chest X-Ray Images (Pneumonia) :\n https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia\n[2]. COVID-19 Radiography Database\nhttps://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database?rvi=1",
+  "datasetId": 4737544,
+  "datasetSlug": "chest-radiograph-images-pneumonia-and-normal",
+  "hasDatasetSlug": true,
+  "ownerUser": "sangeethakallat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 86,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Chest Radiograph Images (Pneumonia & Normal)",
+  "hasTitle": true,
+  "subtitle": "11,236 Images, 2 Categories",
+  "hasSubtitle": true,
+  "description": "This dataset is what I used to train my model. I made this dataset by combining two different datasets which are available for use in Kaggle. So I would like to cite them here. I am also thanking them for this. \n\nThis dataset combines chest X-ray images from two sources for pneumonia detection. The primary dataset, sourced from Kaggle Chest X-Ray Images (Pneumonia) [1], includes 5,863 images (1,583 normal, 4,273 pneumonia). Supplementary data from the COVID-19 Radiography Database [2], contributes 1,345 pneumonia images and 4,053 normal images. Thus making the number of pneumonia and the normal images the same that is 5618 images and in total, the dataset comprises 11,236 images. \n\nThe two sources from which I took the images are trust worthy as you can see in the source dataset pages.\n\n[1]. Chest X-Ray Images (Pneumonia) :\n https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia\n[2]. COVID-19 Radiography Database\nhttps://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database?rvi=1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

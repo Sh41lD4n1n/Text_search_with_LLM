@@ -1,0 +1,41 @@
+{
+  "id": "mdhamani/goodreads-books-100k",
+  "id_no": 1390469,
+  "datasetSlugNullable": "goodreads-books-100k",
+  "ownerUserNullable": "mdhamani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "GoodReads 100k books",
+  "subtitleNullable": "An Extensive GoodReads Dataset containing 100k books ",
+  "descriptionNullable": "## Context\n\nThis is a dataset was created as a personal project to learn scraping and to provide a usable and extensive dataset to the community. It lead me to one of my favorite books website [goodreads](www.goodreads.com). And then i just wrote the code for scraping (which BTW i'll upload soon on my [github] (https://github.com/MDhamani)). And then it was just hours of scraping and at last this is the result.\n\n\n## Content\n\nThis dataset contains contains some of the generally required columns needed to express a book. If you have any questions or comments about this please feel free put them in discussions. I'll be happy to answer them \ud83d\ude04\ud83d\ude04.\n\n## Acknowledgements\n\nThis dataset was gathered from [goodreads](www.goodreads.com), so a humble thanks to them. \nDataset image:- https://freebiesupply.com/logos/goodreads-logo/",
+  "datasetId": 1390469,
+  "datasetSlug": "goodreads-books-100k",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdhamani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15901,
+  "totalVotes": 49,
+  "totalDownloads": 2356,
+  "title": "GoodReads 100k books",
+  "hasTitle": true,
+  "subtitle": "An Extensive GoodReads Dataset containing 100k books ",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThis is a dataset was created as a personal project to learn scraping and to provide a usable and extensive dataset to the community. It lead me to one of my favorite books website [goodreads](www.goodreads.com). And then i just wrote the code for scraping (which BTW i'll upload soon on my [github] (https://github.com/MDhamani)). And then it was just hours of scraping and at last this is the result.\n\n\n## Content\n\nThis dataset contains contains some of the generally required columns needed to express a book. If you have any questions or comments about this please feel free put them in discussions. I'll be happy to answer them \ud83d\ude04\ud83d\ude04.\n\n## Acknowledgements\n\nThis dataset was gathered from [goodreads](www.goodreads.com), so a humble thanks to them. \nDataset image:- https://freebiesupply.com/logos/goodreads-logo/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "text mining",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

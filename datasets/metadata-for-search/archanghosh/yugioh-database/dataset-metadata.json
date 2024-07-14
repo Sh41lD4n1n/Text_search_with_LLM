@@ -1,0 +1,48 @@
+{
+  "id": "archanghosh/yugioh-database",
+  "id_no": 2391653,
+  "datasetSlugNullable": "yugioh-database",
+  "ownerUserNullable": "archanghosh",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Yu-Gi-Oh Database",
+  "subtitleNullable": "All your childhood memories of Yu-Gi-Oh TCG in one place ",
+  "descriptionNullable": "### The Idea Behind the creation?\nWe made this dataset with only one thing in mind to revive the memories we all had with Yu-Gi-Oh during our childhood from shouting ***\"Go Blue Eyes White Dragon\"*** to ***\"Attackkk Dark Magician\"***. Currently, we have added cards from around 80 booster packs which mainly constitute the core booster packs. \n\n### What's Inside?\n\nThe CSV contains details that we were able to capture from each card. Along with that, we have also added duplicate cards that belong to other sets and their rarity beside their file name. We have also made sure that we preserve as much as original card art for each iteration.\n\nFor a guide on rarity, you can check out the YuGiOh fandom.\n\nThere are some more rarities that are a mixture of these and we have also included those.\n\n*\u00a9Belong to Konami and their distribution of Yu-Gi-Oh Card game and TCG. We do not own any rights to the content. We wanted to share data that was already available in congregated manner.*",
+  "datasetId": 2391653,
+  "datasetSlug": "yugioh-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "archanghosh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 7947,
+  "totalVotes": 47,
+  "totalDownloads": 629,
+  "title": "Yu-Gi-Oh Database",
+  "hasTitle": true,
+  "subtitle": "All your childhood memories of Yu-Gi-Oh TCG in one place ",
+  "hasSubtitle": true,
+  "description": "### The Idea Behind the creation?\nWe made this dataset with only one thing in mind to revive the memories we all had with Yu-Gi-Oh during our childhood from shouting ***\"Go Blue Eyes White Dragon\"*** to ***\"Attackkk Dark Magician\"***. Currently, we have added cards from around 80 booster packs which mainly constitute the core booster packs. \n\n### What's Inside?\n\nThe CSV contains details that we were able to capture from each card. Along with that, we have also added duplicate cards that belong to other sets and their rarity beside their file name. We have also made sure that we preserve as much as original card art for each iteration.\n\nFor a guide on rarity, you can check out the YuGiOh fandom.\n\nThere are some more rarities that are a mixture of these and we have also included those.\n\n*\u00a9Belong to Konami and their distribution of Yu-Gi-Oh Card game and TCG. We do not own any rights to the content. We wanted to share data that was already available in congregated manner.*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "board games",
+    "card games",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "madhurimamaji",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

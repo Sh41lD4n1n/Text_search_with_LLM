@@ -1,0 +1,37 @@
+{
+  "id": "ibrahimalobaid/facial-keypoint-detection",
+  "id_no": 4753250,
+  "datasetSlugNullable": "facial-keypoint-detection",
+  "ownerUserNullable": "ibrahimalobaid",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Facial Keypoint Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "Facial keypoints (also called facial landmarks) are the small magenta dots shown on each of the faces in the image above. In each training and test image, there is a single face and **68 keypoints, with coordinates (x, y), for that face**.  These keypoints mark important areas of the face: the eyes, corners of the mouth, the nose, etc. These keypoints are relevant for a variety of tasks, such as face filters, emotion recognition, pose recognition, and so on. Here they are, numbered, and you can see that specific ranges of points match different portions of the face.\n\n",
+  "datasetId": 4753250,
+  "datasetSlug": "facial-keypoint-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "ibrahimalobaid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 63,
+  "totalVotes": 2,
+  "totalDownloads": 3,
+  "title": "Facial Keypoint Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Facial keypoints (also called facial landmarks) are the small magenta dots shown on each of the faces in the image above. In each training and test image, there is a single face and **68 keypoints, with coordinates (x, y), for that face**.  These keypoints mark important areas of the face: the eyes, corners of the mouth, the nose, etc. These keypoints are relevant for a variety of tasks, such as face filters, emotion recognition, pose recognition, and so on. Here they are, numbered, and you can see that specific ranges of points match different portions of the face.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

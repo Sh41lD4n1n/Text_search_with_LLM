@@ -1,0 +1,40 @@
+{
+  "id": "ricardomoya/football-matches-of-spanish-league",
+  "id_no": 1391,
+  "datasetSlugNullable": "football-matches-of-spanish-league",
+  "ownerUserNullable": "ricardomoya",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Football Matches of Spanish League",
+  "subtitleNullable": "Soccer matches of 1st and 2nd division from season 1970-71 to 2016-17",
+  "descriptionNullable": "### Context\n\nData Set with the football matches of the Spanish league of the 1st and 2nd division from the 1970-71 to 2016-17 season, has been created with the aim of opening a line of research in the Machine Learning, for the prediction of results (1X2) of football matches.\n\n\n### Content\n\nThis file contains information about a football matches with the follow features:\n\n```\n4808,1977-78,1,8,Rayo Vallecano,Real Madrid,3,2,30/10/1977,247014000\n```\n\n- id (4808): Unique identifier of football match\n- season (1977-78): Season in which the match was played\n- division (1): Divisi\u00f3n in which the match was played (1st '1', 2nd '2')\n- round (8): round in which the match was played\n- localTeam (Rayo Vallecano): Local Team name\n- visitorTeam (Real Madrid): Visitor Team name\n- localGoals (3): Goals scored by the local team\n- visitorGoals (2): Goals scored by the visitor team\n- fecha (30/10/1977): Date in which the match was played\n- date (247014000): Timestamp in which the match was played\n\n### Acknowledgements\n\nScraping made from:\n\n 1. http://www.bdfutbol.com\n 2. http://www.resultados-futbol.com",
+  "datasetId": 1391,
+  "datasetSlug": "football-matches-of-spanish-league",
+  "hasDatasetSlug": true,
+  "ownerUser": "ricardomoya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 26770,
+  "totalVotes": 64,
+  "totalDownloads": 3108,
+  "title": "Football Matches of Spanish League",
+  "hasTitle": true,
+  "subtitle": "Soccer matches of 1st and 2nd division from season 1970-71 to 2016-17",
+  "hasSubtitle": true,
+  "description": "### Context\n\nData Set with the football matches of the Spanish league of the 1st and 2nd division from the 1970-71 to 2016-17 season, has been created with the aim of opening a line of research in the Machine Learning, for the prediction of results (1X2) of football matches.\n\n\n### Content\n\nThis file contains information about a football matches with the follow features:\n\n```\n4808,1977-78,1,8,Rayo Vallecano,Real Madrid,3,2,30/10/1977,247014000\n```\n\n- id (4808): Unique identifier of football match\n- season (1977-78): Season in which the match was played\n- division (1): Divisi\u00f3n in which the match was played (1st '1', 2nd '2')\n- round (8): round in which the match was played\n- localTeam (Rayo Vallecano): Local Team name\n- visitorTeam (Real Madrid): Visitor Team name\n- localGoals (3): Goals scored by the local team\n- visitorGoals (2): Goals scored by the visitor team\n- fecha (30/10/1977): Date in which the match was played\n- date (247014000): Timestamp in which the match was played\n\n### Acknowledgements\n\nScraping made from:\n\n 1. http://www.bdfutbol.com\n 2. http://www.resultados-futbol.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "joelbaptista/hand-gestures-for-human-robot-interaction",
+  "id_no": 2962327,
+  "datasetSlugNullable": "hand-gestures-for-human-robot-interaction",
+  "ownerUserNullable": "joelbaptista",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Hand Gestures For Human-Robot Interaction",
+  "subtitleNullable": "RGB images with uncontrolled background for hand gesture recognition",
+  "descriptionNullable": "This dataset was specifically developed to aid in the study of human-robot interaction. Recognizing the importance of quality training data for effective machine learning models, we designed a dataset featuring 4 static hand gestures against complex backgrounds. By doing so, we aimed to produce models with a high degree of accuracy that would be effective in real-world applications.\n\nTo ensure the dataset's robustness, we split it into two distinct sections. The first part, known as the \"train\" dataset, consists of approximately 6,000 images captured by a single user. Meanwhile, the \"multi_user_test\" dataset was recorded by three additional users and features roughly 4,000 images.\n\nThe four gestures included in the dataset are inspired by the static \"A,\" \"L,\" \"F,\" and \"Y\" signs of American Sign Language. In total, the dataset contains close to 30,000 images captured at 11 FPS using a Kinect-v1 with size 100x100 pixels. ",
+  "datasetId": 2962327,
+  "datasetSlug": "hand-gestures-for-human-robot-interaction",
+  "hasDatasetSlug": true,
+  "ownerUser": "joelbaptista",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1114,
+  "totalVotes": 5,
+  "totalDownloads": 98,
+  "title": "Hand Gestures For Human-Robot Interaction",
+  "hasTitle": true,
+  "subtitle": "RGB images with uncontrolled background for hand gesture recognition",
+  "hasSubtitle": true,
+  "description": "This dataset was specifically developed to aid in the study of human-robot interaction. Recognizing the importance of quality training data for effective machine learning models, we designed a dataset featuring 4 static hand gestures against complex backgrounds. By doing so, we aimed to produce models with a high degree of accuracy that would be effective in real-world applications.\n\nTo ensure the dataset's robustness, we split it into two distinct sections. The first part, known as the \"train\" dataset, consists of approximately 6,000 images captured by a single user. Meanwhile, the \"multi_user_test\" dataset was recorded by three additional users and features roughly 4,000 images.\n\nThe four gestures included in the dataset are inspired by the static \"A,\" \"L,\" \"F,\" and \"Y\" signs of American Sign Language. In total, the dataset contains close to 30,000 images captured at 11 FPS using a Kinect-v1 with size 100x100 pixels. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "robotics",
+    "computer vision",
+    "deep learning",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

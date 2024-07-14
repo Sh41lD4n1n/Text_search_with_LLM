@@ -1,0 +1,42 @@
+{
+  "id": "yichengs/captioned-moving-mnist-dataset-easy-version",
+  "id_no": 4888242,
+  "datasetSlugNullable": "captioned-moving-mnist-dataset-easy-version",
+  "ownerUserNullable": "yichengs",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Captioned Moving MNIST Dataset - Easy Version",
+  "subtitleNullable": "Videos of moving digits used to train diffusion models for video generation",
+  "descriptionNullable": "Note: This dataset comes with 4 different levels of difficulty. This is the **Easy Version**. In this version, only linear affine transformations in one direction are applied to the digits. Digits can move out of the frame.\n\nThis dataset contains videos of moving digits. Each video has a corresponding text file containing captions for each frame to describe the movement of the digits.\n\nThis dataset can be used to train diffusion models for video generation.\n\n\n## Three other versions of this dataset:\n1. [Medium Version](https://www.kaggle.com/datasets/yichengs/captioned-moving-mnist-dataset-medium-version)\n2. [Hard Version](https://www.kaggle.com/datasets/yichengs/captioned-moving-mnist-dataset-hard-version)\n3. [Random Version](https://www.kaggle.com/datasets/yichengs/captioned-moving-mnist-dataset-random-version)",
+  "datasetId": 4888242,
+  "datasetSlug": "captioned-moving-mnist-dataset-easy-version",
+  "hasDatasetSlug": true,
+  "ownerUser": "yichengs",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 269,
+  "totalVotes": 52,
+  "totalDownloads": 3,
+  "title": "Captioned Moving MNIST Dataset - Easy Version",
+  "hasTitle": true,
+  "subtitle": "Videos of moving digits used to train diffusion models for video generation",
+  "hasSubtitle": true,
+  "description": "Note: This dataset comes with 4 different levels of difficulty. This is the **Easy Version**. In this version, only linear affine transformations in one direction are applied to the digits. Digits can move out of the frame.\n\nThis dataset contains videos of moving digits. Each video has a corresponding text file containing captions for each frame to describe the movement of the digits.\n\nThis dataset can be used to train diffusion models for video generation.\n\n\n## Three other versions of this dataset:\n1. [Medium Version](https://www.kaggle.com/datasets/yichengs/captioned-moving-mnist-dataset-medium-version)\n2. [Hard Version](https://www.kaggle.com/datasets/yichengs/captioned-moving-mnist-dataset-hard-version)\n3. [Random Version](https://www.kaggle.com/datasets/yichengs/captioned-moving-mnist-dataset-random-version)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text",
+    "video",
+    "video generation",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

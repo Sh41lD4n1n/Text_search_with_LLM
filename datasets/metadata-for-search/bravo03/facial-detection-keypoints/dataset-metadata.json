@@ -1,0 +1,40 @@
+{
+  "id": "bravo03/facial-detection-keypoints",
+  "id_no": 4379376,
+  "datasetSlugNullable": "facial-detection-keypoints",
+  "ownerUserNullable": "bravo03",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Facial Detection Keypoints",
+  "subtitleNullable": "Precision Unleashed: Navigating Faces with Facial Detection Keypoints",
+  "descriptionNullable": "Explore the nuances of facial analysis and witness the precision unleashed through the meticulous annotation of keypoints, paving the way for innovations in biometrics, emotion recognition, and beyond. Embark on a journey into the realm of facial recognition with the Facial Detection Keypoints dataset. This comprehensive resource unveils the intricate details of facial features, providing a roadmap for accurate detection and keypoint localization. ",
+  "datasetId": 4379376,
+  "datasetSlug": "facial-detection-keypoints",
+  "hasDatasetSlug": true,
+  "ownerUser": "bravo03",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1891,
+  "totalVotes": 116,
+  "totalDownloads": 232,
+  "title": "Facial Detection Keypoints",
+  "hasTitle": true,
+  "subtitle": "Precision Unleashed: Navigating Faces with Facial Detection Keypoints",
+  "hasSubtitle": true,
+  "description": "Explore the nuances of facial analysis and witness the precision unleashed through the meticulous annotation of keypoints, paving the way for innovations in biometrics, emotion recognition, and beyond. Embark on a journey into the realm of facial recognition with the Facial Detection Keypoints dataset. This comprehensive resource unveils the intricate details of facial features, providing a roadmap for accurate detection and keypoint localization. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

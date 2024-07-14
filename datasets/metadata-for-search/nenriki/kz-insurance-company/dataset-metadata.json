@@ -1,0 +1,43 @@
+{
+  "id": "nenriki/kz-insurance-company",
+  "id_no": 1978428,
+  "datasetSlugNullable": "kz-insurance-company",
+  "ownerUserNullable": "nenriki",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Kazakhstan insurance company",
+  "subtitleNullable": "Kazakhstan insurance company dataset",
+  "descriptionNullable": "# Programming for Data Analysis and Databases\n## The goal: \nThe goal of the assignment is to understand basics of Pandas and Numpy libraries in Python by practicing with the real dataset.\n\n## Questions: Answer following questions\n1. What is the average age and percentage of road accidents for all drivers based on genders?\n2. What is the difference between average driving experience and mean bonus-malus class for males and females?\n3. In which year the most significant number of vehicles were built? Please provide the list of top-10 years sorting based on the number of vehicles (descending).\n4. How much customers pay for the contract in average and how this number is correlated with the bonus- malus class?\n5. What is the most popular vehicle-make company in any 5 cities? (choose the cities you like most)\n6. What kind of vehicle colors people prefer most, dark ones or light ones? Group all colors to dark and light as you like.\n7. What is the most popular vehicle-make company for females in Almaty, Shymkent and Nur-Sultan (Astana) respectively?\n8. What is the distribution of car road accidents for different cities? Which city is in the first place for road accidents? From the top-10 cities, is there any countrysides?\n9. How many people had more than 1 car in one year? Is there any driver who had more than 1 car accident in one year?\n10. What is the distribution of road accidents based on the bonus-malus class?",
+  "datasetId": 1978428,
+  "datasetSlug": "kz-insurance-company",
+  "hasDatasetSlug": true,
+  "ownerUser": "nenriki",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 1640,
+  "totalVotes": 4,
+  "totalDownloads": 212,
+  "title": "Kazakhstan insurance company",
+  "hasTitle": true,
+  "subtitle": "Kazakhstan insurance company dataset",
+  "hasSubtitle": true,
+  "description": "# Programming for Data Analysis and Databases\n## The goal: \nThe goal of the assignment is to understand basics of Pandas and Numpy libraries in Python by practicing with the real dataset.\n\n## Questions: Answer following questions\n1. What is the average age and percentage of road accidents for all drivers based on genders?\n2. What is the difference between average driving experience and mean bonus-malus class for males and females?\n3. In which year the most significant number of vehicles were built? Please provide the list of top-10 years sorting based on the number of vehicles (descending).\n4. How much customers pay for the contract in average and how this number is correlated with the bonus- malus class?\n5. What is the most popular vehicle-make company in any 5 cities? (choose the cities you like most)\n6. What kind of vehicle colors people prefer most, dark ones or light ones? Group all colors to dark and light as you like.\n7. What is the most popular vehicle-make company for females in Almaty, Shymkent and Nur-Sultan (Astana) respectively?\n8. What is the distribution of car road accidents for different cities? Which city is in the first place for road accidents? From the top-10 cities, is there any countrysides?\n9. How many people had more than 1 car in one year? Is there any driver who had more than 1 car accident in one year?\n10. What is the distribution of road accidents based on the bonus-malus class?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "insurance",
+    "numpy",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

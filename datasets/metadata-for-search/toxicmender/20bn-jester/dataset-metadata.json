@@ -1,0 +1,40 @@
+{
+  "id": "toxicmender/20bn-jester",
+  "id_no": 476471,
+  "datasetSlugNullable": "20bn-jester",
+  "ownerUserNullable": "toxicmender",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "20bn-jester",
+  "subtitleNullable": "Jester Dataset V1 for Hand Gesture Recognition",
+  "descriptionNullable": "This is a subset of the full JESTER dataset, which is a large collection of densely-labeled video clips that show humans performing pre-definded hand gestures in front of a laptop camera or webcam. The dataset was created by a large number of crowd workers. It allows for training robust machine learning models to recognize human hand gestures. For the complete dataset go [here](https://20bn.com/datasets/jester/v1). [Reference](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf)",
+  "datasetId": 476471,
+  "datasetSlug": "20bn-jester",
+  "hasDatasetSlug": true,
+  "ownerUser": "toxicmender",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 22648,
+  "totalVotes": 43,
+  "totalDownloads": 2903,
+  "title": "20bn-jester",
+  "hasTitle": true,
+  "subtitle": "Jester Dataset V1 for Hand Gesture Recognition",
+  "hasSubtitle": true,
+  "description": "This is a subset of the full JESTER dataset, which is a large collection of densely-labeled video clips that show humans performing pre-definded hand gestures in front of a laptop camera or webcam. The dataset was created by a large number of crowd workers. It allows for training robust machine learning models to recognize human hand gestures. For the complete dataset go [here](https://20bn.com/datasets/jester/v1). [Reference](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

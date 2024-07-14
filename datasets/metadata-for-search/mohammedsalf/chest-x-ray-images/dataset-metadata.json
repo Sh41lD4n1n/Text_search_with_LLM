@@ -1,0 +1,39 @@
+{
+  "id": "mohammedsalf/chest-x-ray-images",
+  "id_no": 4700725,
+  "datasetSlugNullable": "chest-x-ray-images",
+  "ownerUserNullable": "mohammedsalf",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Chest X-ray Images",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4700725,
+  "datasetSlug": "chest-x-ray-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohammedsalf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 23,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Chest X-ray Images",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tentotheminus9/religious-and-philosophical-texts",
+  "id_no": 150,
+  "datasetSlugNullable": "religious-and-philosophical-texts",
+  "ownerUserNullable": "tentotheminus9",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Religious and philosophical texts",
+  "subtitleNullable": "5 texts from Project Gutenberg to encourage text-mining, sentiment analysis, etc",
+  "descriptionNullable": "These are 5 texts taken from Project Gutenberg, uploaded to Kaggle to encourage things like text-mining and sentiment analysis. These are fun skills to develop and many existing datasets on Kaggle don't lend themselves to these sorts of analyses.\n\nThe 5 books are,\n\n - The King James Bible \n - The Quran \n - The Book Of Mormon \n - The Gospel of Buddha \n - Meditations, by Marcus Aurelius\n\nProject Gutenberg is an online archive of books that are free to download and distribute. These files are taken without alteration (filenames or contents) from the [Project Gutenberg website][1]\n\n\n  [1]: https://www.gutenberg.org/",
+  "datasetId": 150,
+  "datasetSlug": "religious-and-philosophical-texts",
+  "hasDatasetSlug": true,
+  "ownerUser": "tentotheminus9",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 34134,
+  "totalVotes": 81,
+  "totalDownloads": 4115,
+  "title": "Religious and philosophical texts",
+  "hasTitle": true,
+  "subtitle": "5 texts from Project Gutenberg to encourage text-mining, sentiment analysis, etc",
+  "hasSubtitle": true,
+  "description": "These are 5 texts taken from Project Gutenberg, uploaded to Kaggle to encourage things like text-mining and sentiment analysis. These are fun skills to develop and many existing datasets on Kaggle don't lend themselves to these sorts of analyses.\n\nThe 5 books are,\n\n - The King James Bible \n - The Quran \n - The Book Of Mormon \n - The Gospel of Buddha \n - Meditations, by Marcus Aurelius\n\nProject Gutenberg is an online archive of books that are free to download and distribute. These files are taken without alteration (filenames or contents) from the [Project Gutenberg website][1]\n\n\n  [1]: https://www.gutenberg.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "philosophy",
+    "religion and belief systems",
+    "linguistics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

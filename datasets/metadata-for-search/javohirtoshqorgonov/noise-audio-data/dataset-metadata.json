@@ -1,0 +1,39 @@
+{
+  "id": "javohirtoshqorgonov/noise-audio-data",
+  "id_no": 3248896,
+  "datasetSlugNullable": "noise-audio-data",
+  "ownerUserNullable": "javohirtoshqorgonov",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "noise audio data",
+  "subtitleNullable": "",
+  "descriptionNullable": "The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification.\n\nThe dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class) loosely arranged into 5 major categories:\n\nAnimalsNatural soundscapes & water sounds\tHuman, non-speech sounds\tInterior/domestic sounds\tExterior/urban noises\n\n\nDog\tRain\tCrying baby\tDoor knock\tHelicopter\nRooster\tSea waves\tSneezing\tMouse click\tChainsaw\nPig\tCrackling fire\tClapping\tKeyboard typing\tSiren\nCow\tCrickets\tBreathing\tDoor, wood creaks\tCar horn\nFrog\tChirping birds\tCoughing\tCan opening\tEngine\nCat\tWater drops\tFootsteps\tWashing machine\tTrain\nHen\tWind\tLaughing\tVacuum cleaner\tChurch bells\nInsects (flying)\tPouring water\tBrushing teeth\tClock alarm\tAirplane\nSheep\tToilet flush\tSnoring\tClock tick\tFireworks\nCrow\tThunderstorm\tDrinking, sipping\tGlass breaking\tHand saw",
+  "datasetId": 3248896,
+  "datasetSlug": "noise-audio-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "javohirtoshqorgonov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1586,
+  "totalVotes": 20,
+  "totalDownloads": 191,
+  "title": "noise audio data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification.\n\nThe dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class) loosely arranged into 5 major categories:\n\nAnimalsNatural soundscapes & water sounds\tHuman, non-speech sounds\tInterior/domestic sounds\tExterior/urban noises\n\n\nDog\tRain\tCrying baby\tDoor knock\tHelicopter\nRooster\tSea waves\tSneezing\tMouse click\tChainsaw\nPig\tCrackling fire\tClapping\tKeyboard typing\tSiren\nCow\tCrickets\tBreathing\tDoor, wood creaks\tCar horn\nFrog\tChirping birds\tCoughing\tCan opening\tEngine\nCat\tWater drops\tFootsteps\tWashing machine\tTrain\nHen\tWind\tLaughing\tVacuum cleaner\tChurch bells\nInsects (flying)\tPouring water\tBrushing teeth\tClock alarm\tAirplane\nSheep\tToilet flush\tSnoring\tClock tick\tFireworks\nCrow\tThunderstorm\tDrinking, sipping\tGlass breaking\tHand saw",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

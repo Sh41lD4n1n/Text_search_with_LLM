@@ -1,0 +1,45 @@
+{
+  "id": "nizamuddinmaitlo/hgr-dataset",
+  "id_no": 4417162,
+  "datasetSlugNullable": "hgr-dataset",
+  "ownerUserNullable": "nizamuddinmaitlo",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "HGR-Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Hand Gesture Recognition Dataset\n\n## Overview\n\nThis dataset contains images for hand gesture recognition, supporting research and development in the field of human-computer interaction, particularly in augmented reality (AR) and virtual reality (VR) applications.\n\n## Dataset Description\n\nThe dataset consists of hand images captured using a standard camera, with corresponding labels for hand gestures. The text input method is based on hand-gesture recognition using a trained neural network. The process involves hand segmentation, gesture recognition, and hand movement tracking using a convex hull algorithm.\n\n## License\n\nThis dataset is provided under the license of Nizamuddin and Nooruddin. Please refer to the LICENSE.md file for detailed licensing information.\n\n## Usage\n\nResearchers and developers are encouraged to use this dataset for various applications, including but not limited to:\n\n- Human-Computer Interaction\n- Augmented Reality (AR) Systems\n- Virtual Reality (VR) Systems\n\n## Dataset Structure\n\nThe dataset is organized into folders containing hand images and corresponding labels. The file structure is as follows:\n\n- `images/`: Directory containing hand images.\n- `labels.csv`: CSV file containing labels for each hand image.\n\n## Citation\n\nIf you use this dataset in your work, please cite the following paper:\n\nN. Nooruddin, R. Dembani and N. Maitlo, \"HGR: Hand-Gesture-Recognition Based Text Input Method for AR/VR Wearable Devices,\" 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, Canada, 2020, pp. 744-751, doi: 10.1109/SMC42975.2020.9283348.\n\n**Keywords:** Human computer interaction; Solid modeling; Image segmentation; Computational modeling; Neural networks; Gesture recognition; Computer architecture; Augmented Reality; Virtual Reality; Hand Segmentation; Hand Gesture Recognition; Text-Based Input; CNN.\n\n@InProceedings{Nooruddin_2020_SMC,\n    author    = {Nooruddin, N. and Dembani, R. and Maitlo, N.},\n    title     = {HGR: Hand-Gesture-Recognition Based Text Input Method for AR/VR Wearable Devices},\n    booktitle = {2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},\n    month     = {October},\n    year      = {2020},\n    pages  &nbsp;&nbsp;&nbsp;=&nbsp;{744-751}\n}\n\nPlease visit our linkedin for further details:\n- [Mr. Nizamuddin Maitlo](https://www.linkedin.com/in/nizamuddin-maitlo-b27417a0/)\n- [Dr. Nooruddin Noonari](https://www.linkedin.com/in/noonari/)\n",
+  "datasetId": 4417162,
+  "datasetSlug": "hgr-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nizamuddinmaitlo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 239,
+  "totalVotes": 3,
+  "totalDownloads": 20,
+  "title": "HGR-Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Hand Gesture Recognition Dataset\n\n## Overview\n\nThis dataset contains images for hand gesture recognition, supporting research and development in the field of human-computer interaction, particularly in augmented reality (AR) and virtual reality (VR) applications.\n\n## Dataset Description\n\nThe dataset consists of hand images captured using a standard camera, with corresponding labels for hand gestures. The text input method is based on hand-gesture recognition using a trained neural network. The process involves hand segmentation, gesture recognition, and hand movement tracking using a convex hull algorithm.\n\n## License\n\nThis dataset is provided under the license of Nizamuddin and Nooruddin. Please refer to the LICENSE.md file for detailed licensing information.\n\n## Usage\n\nResearchers and developers are encouraged to use this dataset for various applications, including but not limited to:\n\n- Human-Computer Interaction\n- Augmented Reality (AR) Systems\n- Virtual Reality (VR) Systems\n\n## Dataset Structure\n\nThe dataset is organized into folders containing hand images and corresponding labels. The file structure is as follows:\n\n- `images/`: Directory containing hand images.\n- `labels.csv`: CSV file containing labels for each hand image.\n\n## Citation\n\nIf you use this dataset in your work, please cite the following paper:\n\nN. Nooruddin, R. Dembani and N. Maitlo, \"HGR: Hand-Gesture-Recognition Based Text Input Method for AR/VR Wearable Devices,\" 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, Canada, 2020, pp. 744-751, doi: 10.1109/SMC42975.2020.9283348.\n\n**Keywords:** Human computer interaction; Solid modeling; Image segmentation; Computational modeling; Neural networks; Gesture recognition; Computer architecture; Augmented Reality; Virtual Reality; Hand Segmentation; Hand Gesture Recognition; Text-Based Input; CNN.\n\n@InProceedings{Nooruddin_2020_SMC,\n    author    = {Nooruddin, N. and Dembani, R. and Maitlo, N.},\n    title     = {HGR: Hand-Gesture-Recognition Based Text Input Method for AR/VR Wearable Devices},\n    booktitle = {2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},\n    month     = {October},\n    year      = {2020},\n    pages  &nbsp;&nbsp;&nbsp;=&nbsp;{744-751}\n}\n\nPlease visit our linkedin for further details:\n- [Mr. Nizamuddin Maitlo](https://www.linkedin.com/in/nizamuddin-maitlo-b27417a0/)\n- [Dr. Nooruddin Noonari](https://www.linkedin.com/in/noonari/)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "science and technology",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

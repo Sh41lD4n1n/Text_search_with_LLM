@@ -1,0 +1,43 @@
+{
+  "id": "mdwaquarazam/agricultural-crops-image-classification",
+  "id_no": 2436336,
+  "datasetSlugNullable": "agricultural-crops-image-classification",
+  "ownerUserNullable": "mdwaquarazam",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Agricultural crops image classification",
+  "subtitleNullable": "30  type of Agriculture Product Crop images of maize,rice(Paddy),sugarcane, etc",
+  "descriptionNullable": "\n**Dataset contains 30 different types of crop images in separate folders**\n\n\n\n**Task**\nTo classify all types of agriculture crop images ( rice, sugarcane, maize ,lemon, banana,coconut , jute etc..) with better accuracy.\n\n**Inspiration**\nThe question to be answered to classify crops in each type.",
+  "datasetId": 2436336,
+  "datasetSlug": "agricultural-crops-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdwaquarazam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 42956,
+  "totalVotes": 92,
+  "totalDownloads": 6567,
+  "title": "Agricultural crops image classification",
+  "hasTitle": true,
+  "subtitle": "30  type of Agriculture Product Crop images of maize,rice(Paddy),sugarcane, etc",
+  "hasSubtitle": true,
+  "description": "\n**Dataset contains 30 different types of crop images in separate folders**\n\n\n\n**Task**\nTo classify all types of agriculture crop images ( rice, sugarcane, maize ,lemon, banana,coconut , jute etc..) with better accuracy.\n\n**Inspiration**\nThe question to be answered to classify crops in each type.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "computer vision",
+    "classification",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

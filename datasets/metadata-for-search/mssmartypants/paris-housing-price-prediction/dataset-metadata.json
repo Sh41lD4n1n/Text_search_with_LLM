@@ -1,0 +1,44 @@
+{
+  "id": "mssmartypants/paris-housing-price-prediction",
+  "id_no": 1440281,
+  "datasetSlugNullable": "paris-housing-price-prediction",
+  "ownerUserNullable": "mssmartypants",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Paris Housing Price Prediction",
+  "subtitleNullable": "Dataset for house price prediction (regression)",
+  "descriptionNullable": "# Context\n\nThis is a set of data created from imaginary data of house prices in an urban environment - Paris. I recommend using this dataset for educational purposes, for practice and to acquire the necessary knowledge. What I'm trying to do next is to create a classification dataset with same data from this dataset, I'll add a new column for class attribute ofc. Here is a classification dataset ---&gt; [classification dataset](https://www.kaggle.com/mssmartypants/paris-housing-classification) &lt;---\n\n# Content\n\nWhat's inside is more than just rows and columns. You can see house details listed as column names. \n\n# Description\nAll attributes are numeric variables and they are listed bellow:\n\n- squareMeters\t\n- numberOfRooms\t\n- hasYard\t\n- hasPool\t\n- floors\t- number of floors\n- cityCode\t- zip code\n- cityPartRange\t- the higher the range, the more exclusive the neighbourhood is\n- numPrevOwners\t- number of prevoious owners\n- made\t- year \n- isNewBuilt\t\n- hasStormProtector\t\n- basement\t- basement square meters\n- attic\t- attic square meteres\n- garage\t- garage size\n- hasStorageRoom \n- hasGuestRoom\t- number of guest rooms\n- price - predicted value\n\n\n### Inspiration\n\nIdea was to create dataset that is good for regression and that gives adequate results. ",
+  "datasetId": 1440281,
+  "datasetSlug": "paris-housing-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "mssmartypants",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 53221,
+  "totalVotes": 75,
+  "totalDownloads": 9268,
+  "title": "Paris Housing Price Prediction",
+  "hasTitle": true,
+  "subtitle": "Dataset for house price prediction (regression)",
+  "hasSubtitle": true,
+  "description": "# Context\n\nThis is a set of data created from imaginary data of house prices in an urban environment - Paris. I recommend using this dataset for educational purposes, for practice and to acquire the necessary knowledge. What I'm trying to do next is to create a classification dataset with same data from this dataset, I'll add a new column for class attribute ofc. Here is a classification dataset ---&gt; [classification dataset](https://www.kaggle.com/mssmartypants/paris-housing-classification) &lt;---\n\n# Content\n\nWhat's inside is more than just rows and columns. You can see house details listed as column names. \n\n# Description\nAll attributes are numeric variables and they are listed bellow:\n\n- squareMeters\t\n- numberOfRooms\t\n- hasYard\t\n- hasPool\t\n- floors\t- number of floors\n- cityCode\t- zip code\n- cityPartRange\t- the higher the range, the more exclusive the neighbourhood is\n- numPrevOwners\t- number of prevoious owners\n- made\t- year \n- isNewBuilt\t\n- hasStormProtector\t\n- basement\t- basement square meters\n- attic\t- attic square meteres\n- garage\t- garage size\n- hasStorageRoom \n- hasGuestRoom\t- number of guest rooms\n- price - predicted value\n\n\n### Inspiration\n\nIdea was to create dataset that is good for regression and that gives adequate results. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "housing",
+    "real estate",
+    "linear regression",
+    "regression",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

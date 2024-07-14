@@ -1,0 +1,39 @@
+{
+  "id": "pranavkasela/se-pqa-personalized-community-question-answering",
+  "id_no": 5090097,
+  "datasetSlugNullable": "se-pqa-personalized-community-question-answering",
+  "ownerUserNullable": "pranavkasela",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "SE-PQA: Personalized Community Question Answering",
+  "subtitleNullable": "",
+  "descriptionNullable": "Personalization in Information Retrieval is a topic studied for a long time. Nevertheless, there is still a lack of high-quality, real-world datasets to conduct large-scale experiments and evaluate models for personalized search. This paper contributes to fill this gap by introducing SE-PQA (StackExchange - Personalized Question Answering), a new resource to design and evaluate personalized models related to the two tasks of community Question Answering (cQA). The contributed dataset includes more than 1 million queries and 2 million answers, annotated with a rich set of features modeling the social interactions among the users of a popular cQA platform. We describe the characteristics of SE-PQA and detail the features associated with both questions and answers. We also provide reproducible baseline methods for the cQA task based on the resource, including deep learning models and personalization approaches. The results of the preliminary experiments conducted show the appropriateness of SE-PQA to train effective cQA models; they also show that personalization improves remarkably the effectiveness of all the methods tested. Furthermore, we show the benefits in terms of robustness and generalization of combining data from multiple communities for personalization purposes.\n\nMore details can be found here: https://github.com/pkasela/SE-PQA\n\n```\n@inproceedings{10.1145/3589335.3651445,\nauthor = {Kasela, Pranav and Braga, Marco and Pasi, Gabriella and Perego, Raffaele},\ntitle = {SE-PQA: Personalized Community Question Answering},\nyear = {2024},\nisbn = {9798400701726},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3589335.3651445},\ndoi = {10.1145/3589335.3651445},\nbooktitle = {Companion Proceedings of the ACM on Web Conference 2024},\npages = {1095\u20131098},\nnumpages = {4},\nkeywords = {personalization, question answering, user model},\nlocation = {},\nseries = {WWW '24}\n}\n```",
+  "datasetId": 5090097,
+  "datasetSlug": "se-pqa-personalized-community-question-answering",
+  "hasDatasetSlug": true,
+  "ownerUser": "pranavkasela",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "SE-PQA: Personalized Community Question Answering",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Personalization in Information Retrieval is a topic studied for a long time. Nevertheless, there is still a lack of high-quality, real-world datasets to conduct large-scale experiments and evaluate models for personalized search. This paper contributes to fill this gap by introducing SE-PQA (StackExchange - Personalized Question Answering), a new resource to design and evaluate personalized models related to the two tasks of community Question Answering (cQA). The contributed dataset includes more than 1 million queries and 2 million answers, annotated with a rich set of features modeling the social interactions among the users of a popular cQA platform. We describe the characteristics of SE-PQA and detail the features associated with both questions and answers. We also provide reproducible baseline methods for the cQA task based on the resource, including deep learning models and personalization approaches. The results of the preliminary experiments conducted show the appropriateness of SE-PQA to train effective cQA models; they also show that personalization improves remarkably the effectiveness of all the methods tested. Furthermore, we show the benefits in terms of robustness and generalization of combining data from multiple communities for personalization purposes.\n\nMore details can be found here: https://github.com/pkasela/SE-PQA\n\n```\n@inproceedings{10.1145/3589335.3651445,\nauthor = {Kasela, Pranav and Braga, Marco and Pasi, Gabriella and Perego, Raffaele},\ntitle = {SE-PQA: Personalized Community Question Answering},\nyear = {2024},\nisbn = {9798400701726},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3589335.3651445},\ndoi = {10.1145/3589335.3651445},\nbooktitle = {Companion Proceedings of the ACM on Web Conference 2024},\npages = {1095\u20131098},\nnumpages = {4},\nkeywords = {personalization, question answering, user model},\nlocation = {},\nseries = {WWW '24}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

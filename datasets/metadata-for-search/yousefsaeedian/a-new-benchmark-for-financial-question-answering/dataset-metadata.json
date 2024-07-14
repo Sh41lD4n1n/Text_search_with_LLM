@@ -1,0 +1,40 @@
+{
+  "id": "yousefsaeedian/a-new-benchmark-for-financial-question-answering",
+  "id_no": 4995566,
+  "datasetSlugNullable": "a-new-benchmark-for-financial-question-answering",
+  "ownerUserNullable": "yousefsaeedian",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "A New Benchmark for Financial Question Answering",
+  "subtitleNullable": "Financial Question Answering",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8442057%2Ff7c62f9d14b5620b8452f39690a24568%2Ffig1.png?generation=1715577026848120&alt=media)\n\nAbstract: FinanceBench is a first-of-its-kind test suite for evaluating the performance of LLMs on open book financial question answering (QA). This repository contains an open source sample of 150 annotated examples used in the evaluation and analysis of models assessed in the FinanceBench paper. FinanceBench comprises 10,231 questions about publicly traded companies, with corresponding answers and evidence strings. The questions in FinanceBench are ecologically valid and cover a diverse set of scenarios. They are intended to be clear-cut and straightforward to answer to serve as a minimum performance standard. We test 16 state of the art model configurations (including GPT-4-Turbo, Llama2 and Claude2, with vector stores and long context prompts) on a sample of 150 cases from FinanceBench, and manually review their answers (n=2,400). The cases are available open-source. We show that existing LLMs have clear limitations for financial QA. Notably, GPT-4-Turbo used with a retrieval system incorrectly answered or refused to answer 81% of questions. While augmentation techniques such as using longer context window to feed in relevant evidence improve performance, they are unrealistic for enterprise settings due to increased latency and cannot support larger financial documents. We find that all models examined exhibit weaknesses, such as hallucinations, that limit their suitability for use by enterprises.\n\n**Contact:** To evaluate your models on the full FinanceBench dataset, or if you have questions about this work, you can email us at contact@patronus.ai\n\n**Dataset Overview:** The provided open-source dataset (n=150) consists of the following attributes:\n\n```python\n- financebench_id:  unique question identifier  \n    - question:         question of interest\n    - answer:           gold answer\n    - question_type:    type of the question {domain-relevant, metrics-generated, novel-generated}\n    - doc_name:         name of the relevant financial document to answer the question\n    - doc_link:         url to retrieve the relevant financial document\n    - doc_period:       period of the relevant financial document\n    - evidence_text:    extracted evidence text\n    - page_number       page number(s) of evidence text\n```\n\n**Citation:** If you use our open-source dataset or refer to our result, please use the following citation:\n\n```python\n@misc{islam2023financebench,\n      title={FinanceBench: A New Benchmark for Financial Question Answering}, \n      author={Pranab Islam and Anand Kannappan and Douwe Kiela and Rebecca Qian and Nino Scherrer and Bertie Vidgen},\n      year={2023},\n      eprint={2311.11944},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}\n```\n",
+  "datasetId": 4995566,
+  "datasetSlug": "a-new-benchmark-for-financial-question-answering",
+  "hasDatasetSlug": true,
+  "ownerUser": "yousefsaeedian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 384,
+  "totalVotes": 40,
+  "totalDownloads": 50,
+  "title": "A New Benchmark for Financial Question Answering",
+  "hasTitle": true,
+  "subtitle": "Financial Question Answering",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8442057%2Ff7c62f9d14b5620b8452f39690a24568%2Ffig1.png?generation=1715577026848120&alt=media)\n\nAbstract: FinanceBench is a first-of-its-kind test suite for evaluating the performance of LLMs on open book financial question answering (QA). This repository contains an open source sample of 150 annotated examples used in the evaluation and analysis of models assessed in the FinanceBench paper. FinanceBench comprises 10,231 questions about publicly traded companies, with corresponding answers and evidence strings. The questions in FinanceBench are ecologically valid and cover a diverse set of scenarios. They are intended to be clear-cut and straightforward to answer to serve as a minimum performance standard. We test 16 state of the art model configurations (including GPT-4-Turbo, Llama2 and Claude2, with vector stores and long context prompts) on a sample of 150 cases from FinanceBench, and manually review their answers (n=2,400). The cases are available open-source. We show that existing LLMs have clear limitations for financial QA. Notably, GPT-4-Turbo used with a retrieval system incorrectly answered or refused to answer 81% of questions. While augmentation techniques such as using longer context window to feed in relevant evidence improve performance, they are unrealistic for enterprise settings due to increased latency and cannot support larger financial documents. We find that all models examined exhibit weaknesses, such as hallucinations, that limit their suitability for use by enterprises.\n\n**Contact:** To evaluate your models on the full FinanceBench dataset, or if you have questions about this work, you can email us at contact@patronus.ai\n\n**Dataset Overview:** The provided open-source dataset (n=150) consists of the following attributes:\n\n```python\n- financebench_id:  unique question identifier  \n    - question:         question of interest\n    - answer:           gold answer\n    - question_type:    type of the question {domain-relevant, metrics-generated, novel-generated}\n    - doc_name:         name of the relevant financial document to answer the question\n    - doc_link:         url to retrieve the relevant financial document\n    - doc_period:       period of the relevant financial document\n    - evidence_text:    extracted evidence text\n    - page_number       page number(s) of evidence text\n```\n\n**Citation:** If you use our open-source dataset or refer to our result, please use the following citation:\n\n```python\n@misc{islam2023financebench,\n      title={FinanceBench: A New Benchmark for Financial Question Answering}, \n      author={Pranab Islam and Anand Kannappan and Douwe Kiela and Rebecca Qian and Nino Scherrer and Bertie Vidgen},\n      year={2023},\n      eprint={2311.11944},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

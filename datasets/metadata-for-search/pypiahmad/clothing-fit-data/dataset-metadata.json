@@ -1,0 +1,43 @@
+{
+  "id": "pypiahmad/clothing-fit-data",
+  "id_no": 3928968,
+  "datasetSlugNullable": "clothing-fit-data",
+  "ownerUserNullable": "pypiahmad",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Clothing Fit Data",
+  "subtitleNullable": "Clothing Fit Dataset",
+  "descriptionNullable": "Title: Clothing Fit Dataset\n\nDescription:\nThe Clothing Fit Dataset is derived from ModCloth and RentTheRunway, containing measurements related to clothing fit. This dataset provides an opportunity to develop and evaluate models targeting product size recommendations, understanding user preferences, and analyzing customer feedback regarding the fit of clothing items.\n\nBasic Statistics:\n- ModCloth:\n  - Users: 47,958\n  - Items: 1,378\n  - Transactions: 82,790\n- RentTheRunway:\n  - Users: 105,508\n  - Items: 5,850\n  - Transactions: 192,544\n\nMetadata:\n- Ratings and Reviews: Customer ratings and textual reviews for the clothing items.\n- Fit Feedback: Feedback regarding the fit of the clothing items (e.g., small, fit, large, etc.).\n- User/Item Measurements: Physical measurements of users and items.\n- Category Information: Information regarding the category of clothing items.\n\nExample (RentTheRunway):\nEach entry in the dataset contains detailed information about a user's experience with a clothing item, including the fit, user and item measurements, rating, review text, and category.\n```json\n{\n  \"fit\": \"fit\",\n  \"user_id\": \"420272\",\n  \"bust size\": \"34d\",\n  \"item_id\": \"2260466\",\n  \"weight\": \"137lbs\",\n  \"rating\": \"10\",\n  \"rented for\": \"vacation\",\n  \"review_text\": \"An adorable romper! Belt and zipper were a little hard to navigate in a full day of wear/bathroom use, but that's to be expected. Wish it had pockets, but other than that-- absolutely perfect! I got a million compliments.\",\n  \"body type\": \"hourglass\",\n  \"review_summary\": \"So many compliments!\",\n  \"category\": \"romper\",\n  \"height\": \"5' 8\\\"\",\n  \"size\": 14,\n  \"age\": \"28\",\n  \"review_date\": \"April 20, 2016\"\n}\n```\n\nDownload Links:\n- Modcloth: [Download Link (8.5mb)](https://datarepo.eng.ucsd.edu/mcauley_group/data/modcloth/modcloth_final_data.json.gz)\n- Renttherunway: [Download Link (31mb)](https://datarepo.eng.ucsd.edu/mcauley_group/data/renttherunway/renttherunway_final_data.json.gz)\n\nCitation:\nIf you utilize this dataset, please cite the following paper:\nTitle: Decomposing fit semantics for product size recommendation in metric spaces\nAuthors: Rishabh Misra, Mengting Wan, Julian McAuley\nPublished in: RecSys, 2018\n[Link to paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18e.pdf)\n\nThis dataset is valuable for researchers and practitioners in the domain of e-commerce, fashion retail, and recommender systems.",
+  "datasetId": 3928968,
+  "datasetSlug": "clothing-fit-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "pypiahmad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 471,
+  "totalVotes": 2,
+  "totalDownloads": 47,
+  "title": "Clothing Fit Data",
+  "hasTitle": true,
+  "subtitle": "Clothing Fit Dataset",
+  "hasSubtitle": true,
+  "description": "Title: Clothing Fit Dataset\n\nDescription:\nThe Clothing Fit Dataset is derived from ModCloth and RentTheRunway, containing measurements related to clothing fit. This dataset provides an opportunity to develop and evaluate models targeting product size recommendations, understanding user preferences, and analyzing customer feedback regarding the fit of clothing items.\n\nBasic Statistics:\n- ModCloth:\n  - Users: 47,958\n  - Items: 1,378\n  - Transactions: 82,790\n- RentTheRunway:\n  - Users: 105,508\n  - Items: 5,850\n  - Transactions: 192,544\n\nMetadata:\n- Ratings and Reviews: Customer ratings and textual reviews for the clothing items.\n- Fit Feedback: Feedback regarding the fit of the clothing items (e.g., small, fit, large, etc.).\n- User/Item Measurements: Physical measurements of users and items.\n- Category Information: Information regarding the category of clothing items.\n\nExample (RentTheRunway):\nEach entry in the dataset contains detailed information about a user's experience with a clothing item, including the fit, user and item measurements, rating, review text, and category.\n```json\n{\n  \"fit\": \"fit\",\n  \"user_id\": \"420272\",\n  \"bust size\": \"34d\",\n  \"item_id\": \"2260466\",\n  \"weight\": \"137lbs\",\n  \"rating\": \"10\",\n  \"rented for\": \"vacation\",\n  \"review_text\": \"An adorable romper! Belt and zipper were a little hard to navigate in a full day of wear/bathroom use, but that's to be expected. Wish it had pockets, but other than that-- absolutely perfect! I got a million compliments.\",\n  \"body type\": \"hourglass\",\n  \"review_summary\": \"So many compliments!\",\n  \"category\": \"romper\",\n  \"height\": \"5' 8\\\"\",\n  \"size\": 14,\n  \"age\": \"28\",\n  \"review_date\": \"April 20, 2016\"\n}\n```\n\nDownload Links:\n- Modcloth: [Download Link (8.5mb)](https://datarepo.eng.ucsd.edu/mcauley_group/data/modcloth/modcloth_final_data.json.gz)\n- Renttherunway: [Download Link (31mb)](https://datarepo.eng.ucsd.edu/mcauley_group/data/renttherunway/renttherunway_final_data.json.gz)\n\nCitation:\nIf you utilize this dataset, please cite the following paper:\nTitle: Decomposing fit semantics for product size recommendation in metric spaces\nAuthors: Rishabh Misra, Mengting Wan, Julian McAuley\nPublished in: RecSys, 2018\n[Link to paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18e.pdf)\n\nThis dataset is valuable for researchers and practitioners in the domain of e-commerce, fashion retail, and recommender systems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

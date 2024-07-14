@@ -1,0 +1,44 @@
+{
+  "id": "tanjimtaharataurpa/uddipok-rc-based-qa-dataset-in-bangla-language",
+  "id_no": 4360630,
+  "datasetSlugNullable": "uddipok-rc-based-qa-dataset-in-bangla-language",
+  "ownerUserNullable": "tanjimtaharataurpa",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "UDDIPOK:RC Based Question Answer Dataset in Bangla",
+  "subtitleNullable": "UDDIPOK: Reading Comprehension Based Question Answering Dataset in Bangla ",
+  "descriptionNullable": "The urgency of the online education system can be understood during the COVID-19 pandemic. The entire world, including Bangladesh, moved to online education and focused on developing automated systems. This dataset is created for developing automatic reading comprehension systems in the Bangla language. The dataset contains the following parameters:\n\n1. A real-time and long passage (context) in the Bengali language is collected from different Bangla articles, novels, biography, etc.\n2. Questions are generated based on the given passages.\n3. Answers' text of the given passage and question.\n4. The start index of the answer in the passage\n\nIf you use this dataset in your research please cite our following works:\n\n1. Tanjim Taharat Aurpa, Md Shoaib Ahmed, Richita Khandakar Rifat, Md. Musfique Anwar, A.B.M. Shawkat Ali,\nUDDIPOK: A reading comprehension based question answering dataset in Bangla language,\nData in Brief,\nVolume 47,\n2023,\n108933,\nISSN 2352-3409,\nhttps://doi.org/10.1016/j.dib.2023.108933.\n(https://www.sciencedirect.com/science/article/pii/S2352340923000513)\n\n\n2. Tanjim Taharat Aurpa, Richita Khandakar Rifat, Md Shoaib Ahmed, Md. Musfique Anwar, A. B. M. Shawkat Ali,\nReading comprehension based question answering system in Bangla language with transformer-based learning,\nHeliyon,\nVolume 8, Issue 10,\n2022,\ne11052,\nISSN 2405-8440,\nhttps://doi.org/10.1016/j.heliyon.2022.e11052.\n(https://www.sciencedirect.com/science/article/pii/S2405844022023404)",
+  "datasetId": 4360630,
+  "datasetSlug": "uddipok-rc-based-qa-dataset-in-bangla-language",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanjimtaharataurpa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 322,
+  "totalVotes": 22,
+  "totalDownloads": 35,
+  "title": "UDDIPOK:RC Based Question Answer Dataset in Bangla",
+  "hasTitle": true,
+  "subtitle": "UDDIPOK: Reading Comprehension Based Question Answering Dataset in Bangla ",
+  "hasSubtitle": true,
+  "description": "The urgency of the online education system can be understood during the COVID-19 pandemic. The entire world, including Bangladesh, moved to online education and focused on developing automated systems. This dataset is created for developing automatic reading comprehension systems in the Bangla language. The dataset contains the following parameters:\n\n1. A real-time and long passage (context) in the Bengali language is collected from different Bangla articles, novels, biography, etc.\n2. Questions are generated based on the given passages.\n3. Answers' text of the given passage and question.\n4. The start index of the answer in the passage\n\nIf you use this dataset in your research please cite our following works:\n\n1. Tanjim Taharat Aurpa, Md Shoaib Ahmed, Richita Khandakar Rifat, Md. Musfique Anwar, A.B.M. Shawkat Ali,\nUDDIPOK: A reading comprehension based question answering dataset in Bangla language,\nData in Brief,\nVolume 47,\n2023,\n108933,\nISSN 2352-3409,\nhttps://doi.org/10.1016/j.dib.2023.108933.\n(https://www.sciencedirect.com/science/article/pii/S2352340923000513)\n\n\n2. Tanjim Taharat Aurpa, Richita Khandakar Rifat, Md Shoaib Ahmed, Md. Musfique Anwar, A. B. M. Shawkat Ali,\nReading comprehension based question answering system in Bangla language with transformer-based learning,\nHeliyon,\nVolume 8, Issue 10,\n2022,\ne11052,\nISSN 2405-8440,\nhttps://doi.org/10.1016/j.heliyon.2022.e11052.\n(https://www.sciencedirect.com/science/article/pii/S2405844022023404)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "nlp",
+    "deep learning",
+    "question answering",
+    "bert",
+    "bengali"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

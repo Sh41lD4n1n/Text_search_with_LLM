@@ -1,0 +1,45 @@
+{
+  "id": "kaushiksuresh147/data-visualization-cheat-cheats-and-resources",
+  "id_no": 894059,
+  "datasetSlugNullable": "data-visualization-cheat-cheats-and-resources",
+  "ownerUserNullable": "kaushiksuresh147",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Data Visualization Cheat sheets and Resources",
+  "subtitleNullable": "Corpus of 32 DV cheat sheets, 32 DV charts and 7 recommended DV books",
+  "descriptionNullable": "### The Data Visualization Corpus\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1430847%2F29f7950c3b7daf11175aab404725542c%2FGettyImages-1187621904-600x360.jpg?generation=1601115151722854&alt=media)\n\n### Data Visualization\n\nData visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.\n\nIn the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions\n\n### The Data Visualizaion Copus\n\n### The Data Visualization corpus consists:\n- **32 cheat sheets**: This includes A-Z about the techniques and tricks that can be used for visualization, Python and R visualization cheat sheets, Types of charts, and their significance, Storytelling with data, etc..\n\n- **32 Charts:** The corpus also consists of a significant amount of data visualization charts information along with their python code, d3.js codes, and presentations relation to the respective charts explaining in a clear manner!\n\n- **Some recommended books for data visualization every data scientist's should read:**\n   1. Beautiful Visualization by Julie Steele and Noah Iliinsky\n   2. Information Dashboard Design by Stephen Few  \n   3. Knowledge is beautiful by David McCandless (Short abstract)\n   4. The Functional Art: An Introduction to Information Graphics and Visualization by Alberto Cairo \n   5. The Visual Display of Quantitative Information by Edward R. Tufte \n   6. storytelling with data: a data visualization guide for business professionals by cole Nussbaumer knaflic\n   7. **Research paper** - Cheat Sheets for Data Visualization Techniques by Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach\n\n\n### Suggestions:\n\nIn case, if you find any books, cheat sheets, or charts missing and if you would like to suggest some new documents please let me know in the discussion sections! \n\n### Resources:\n\n- Charts: I personally recommend [data viz catalogue](https://datavizcatalogue.com/), it's easy to understand with their explanation!\n- Python codes: [Plotly for python](https://plotly.com/python/) and [Python graph gallery](https://python-graph-gallery.com/)\n- R codes for charts:[Plotly for R](https://plotly.com/r/)\n- d3 codes: [Visualization codes using d3](https://www.d3-graph-gallery.com/)\n\n### Request to kaggle users:\n\n- A kind request to kaggle users to create notebooks on different visualization charts as per their interest by choosing a dataset of their own as many beginners and other experts could find it useful!\n\n- To create interactive EDA using animation with a combination of data visualization charts to give an idea about how to tackle data and extract the insights from the data \n\n### Suggestion and queries:\n\nFeel free to use the discussion platform of this data set to ask questions or any queries related to the data visualization corpus\nand data visualization techniques\n\n### Kindly upvote the dataset if you find it useful or if you wish to appreciate the effort taken to gather this corpus! Thank you and have a great day!",
+  "datasetId": 894059,
+  "datasetSlug": "data-visualization-cheat-cheats-and-resources",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushiksuresh147",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 33983,
+  "totalVotes": 238,
+  "totalDownloads": 3086,
+  "title": "Data Visualization Cheat sheets and Resources",
+  "hasTitle": true,
+  "subtitle": "Corpus of 32 DV cheat sheets, 32 DV charts and 7 recommended DV books",
+  "hasSubtitle": true,
+  "description": "### The Data Visualization Corpus\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1430847%2F29f7950c3b7daf11175aab404725542c%2FGettyImages-1187621904-600x360.jpg?generation=1601115151722854&alt=media)\n\n### Data Visualization\n\nData visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.\n\nIn the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions\n\n### The Data Visualizaion Copus\n\n### The Data Visualization corpus consists:\n- **32 cheat sheets**: This includes A-Z about the techniques and tricks that can be used for visualization, Python and R visualization cheat sheets, Types of charts, and their significance, Storytelling with data, etc..\n\n- **32 Charts:** The corpus also consists of a significant amount of data visualization charts information along with their python code, d3.js codes, and presentations relation to the respective charts explaining in a clear manner!\n\n- **Some recommended books for data visualization every data scientist's should read:**\n   1. Beautiful Visualization by Julie Steele and Noah Iliinsky\n   2. Information Dashboard Design by Stephen Few  \n   3. Knowledge is beautiful by David McCandless (Short abstract)\n   4. The Functional Art: An Introduction to Information Graphics and Visualization by Alberto Cairo \n   5. The Visual Display of Quantitative Information by Edward R. Tufte \n   6. storytelling with data: a data visualization guide for business professionals by cole Nussbaumer knaflic\n   7. **Research paper** - Cheat Sheets for Data Visualization Techniques by Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach\n\n\n### Suggestions:\n\nIn case, if you find any books, cheat sheets, or charts missing and if you would like to suggest some new documents please let me know in the discussion sections! \n\n### Resources:\n\n- Charts: I personally recommend [data viz catalogue](https://datavizcatalogue.com/), it's easy to understand with their explanation!\n- Python codes: [Plotly for python](https://plotly.com/python/) and [Python graph gallery](https://python-graph-gallery.com/)\n- R codes for charts:[Plotly for R](https://plotly.com/r/)\n- d3 codes: [Visualization codes using d3](https://www.d3-graph-gallery.com/)\n\n### Request to kaggle users:\n\n- A kind request to kaggle users to create notebooks on different visualization charts as per their interest by choosing a dataset of their own as many beginners and other experts could find it useful!\n\n- To create interactive EDA using animation with a combination of data visualization charts to give an idea about how to tackle data and extract the insights from the data \n\n### Suggestion and queries:\n\nFeel free to use the discussion platform of this data set to ask questions or any queries related to the data visualization corpus\nand data visualization techniques\n\n### Kindly upvote the dataset if you find it useful or if you wish to appreciate the effort taken to gather this corpus! Thank you and have a great day!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "software",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "antoreepjana/animals-detection-images-dataset",
+  "id_no": 1316317,
+  "datasetSlugNullable": "animals-detection-images-dataset",
+  "ownerUserNullable": "antoreepjana",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Animals Detection Images Dataset",
+  "subtitleNullable": "Collection of wild animal species with annotations",
+  "descriptionNullable": "Animals (Object) Detection dataset extracted using Google Open Images V6+. \n\nClasses of animals added -&gt; \n1. Dog\n2. Cat\n3. Zebra\n4. Lion\n5. Leopard\n6. Cheetah\n7. Tiger \n8. Bear\n9. Brown Bear\n10. Butterfly\n11. Canary\n12. Crocodile\n13. Polar Bear\n14. Bull\n15. Camel\n16. Crab \n17. Chicken\n18. Centipede\n19. Cattle\n20. Caterpillar\n21. Duck",
+  "datasetId": 1316317,
+  "datasetSlug": "animals-detection-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "antoreepjana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 66866,
+  "totalVotes": 141,
+  "totalDownloads": 9079,
+  "title": "Animals Detection Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of wild animal species with annotations",
+  "hasSubtitle": true,
+  "description": "Animals (Object) Detection dataset extracted using Google Open Images V6+. \n\nClasses of animals added -&gt; \n1. Dog\n2. Cat\n3. Zebra\n4. Lion\n5. Leopard\n6. Cheetah\n7. Tiger \n8. Bear\n9. Brown Bear\n10. Butterfly\n11. Canary\n12. Crocodile\n13. Polar Bear\n14. Bull\n15. Camel\n16. Crab \n17. Chicken\n18. Centipede\n19. Cattle\n20. Caterpillar\n21. Duck",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

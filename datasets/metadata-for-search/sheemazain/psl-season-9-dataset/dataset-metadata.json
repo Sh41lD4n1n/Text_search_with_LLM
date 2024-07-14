@@ -1,0 +1,39 @@
+{
+  "id": "sheemazain/psl-season-9-dataset",
+  "id_no": 5088766,
+  "datasetSlugNullable": "psl-season-9-dataset",
+  "ownerUserNullable": "sheemazain",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "PSL Season 9 Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "For the Pakistan Super League (PSL) Season 9 dataset, you have a couple of good options:\n\n1. Kaggle: You can find a comprehensive dataset for PSL Season 9 on Kaggle. This dataset includes detailed information on matches, players, scores, and other relevant statistics. It's a great resource for analysis and research related to the 2024 season of the PSL. You can access it [here](https://www.kaggle.com/datasets/umerhaddii/psl-season-9-complete-dataset-2024)\u30105\u2020source\u3011.\n\n2. Open Data Pakistan: Another source for PSL data, including historical data from previous seasons, is available on Open Data Pakistan. This dataset contains extensive records collected from various seasons, including detailed performance metrics. It's available [here](https://opendata.com.pk/dataset/pakistan-super-league-datasets)\u30106\u2020source\u3011\u30107\u2020source\u3011.\n\n",
+  "datasetId": 5088766,
+  "datasetSlug": "psl-season-9-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sheemazain",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 14,
+  "totalVotes": 3,
+  "totalDownloads": 1,
+  "title": "PSL Season 9 Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "For the Pakistan Super League (PSL) Season 9 dataset, you have a couple of good options:\n\n1. Kaggle: You can find a comprehensive dataset for PSL Season 9 on Kaggle. This dataset includes detailed information on matches, players, scores, and other relevant statistics. It's a great resource for analysis and research related to the 2024 season of the PSL. You can access it [here](https://www.kaggle.com/datasets/umerhaddii/psl-season-9-complete-dataset-2024)\u30105\u2020source\u3011.\n\n2. Open Data Pakistan: Another source for PSL data, including historical data from previous seasons, is available on Open Data Pakistan. This dataset contains extensive records collected from various seasons, including detailed performance metrics. It's available [here](https://opendata.com.pk/dataset/pakistan-super-league-datasets)\u30106\u2020source\u3011\u30107\u2020source\u3011.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

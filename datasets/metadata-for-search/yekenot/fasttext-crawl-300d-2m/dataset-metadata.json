@@ -1,0 +1,43 @@
+{
+  "id": "yekenot/fasttext-crawl-300d-2m",
+  "id_no": 14154,
+  "datasetSlugNullable": "fasttext-crawl-300d-2m",
+  "ownerUserNullable": "yekenot",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FastText Crawl 300d 2M",
+  "subtitleNullable": "2 million word vectors trained on Common Crawl (600B tokens)",
+  "descriptionNullable": "300-dimensional pretrained FastText English word vectors released by Facebook.\n\nThe first line of the file contains the number of words in the vocabulary and the size of the vectors. Each line contains a word followed by its vectors, like in the default fastText text format. Each value is space separated. Words are ordered by descending frequency.\n\n**Methodology:**\n\nhttps://arxiv.org/abs/1712.09405",
+  "datasetId": 14154,
+  "datasetSlug": "fasttext-crawl-300d-2m",
+  "hasDatasetSlug": true,
+  "ownerUser": "yekenot",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 34299,
+  "totalVotes": 153,
+  "totalDownloads": 10317,
+  "title": "FastText Crawl 300d 2M",
+  "hasTitle": true,
+  "subtitle": "2 million word vectors trained on Common Crawl (600B tokens)",
+  "hasSubtitle": true,
+  "description": "300-dimensional pretrained FastText English word vectors released by Facebook.\n\nThe first line of the file contains the number of words in the vocabulary and the size of the vectors. Each line contains a word followed by its vectors, like in the default fastText text format. Each value is space separated. Words are ordered by descending frequency.\n\n**Methodology:**\n\nhttps://arxiv.org/abs/1712.09405",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "nlp",
+    "text classification",
+    "sentence similarity",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

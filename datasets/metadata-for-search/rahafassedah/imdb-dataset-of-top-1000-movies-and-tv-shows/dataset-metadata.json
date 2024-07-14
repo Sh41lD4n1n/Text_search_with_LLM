@@ -1,0 +1,39 @@
+{
+  "id": "rahafassedah/imdb-dataset-of-top-1000-movies-and-tv-shows",
+  "id_no": 3378230,
+  "datasetSlugNullable": "imdb-dataset-of-top-1000-movies-and-tv-shows",
+  "ownerUserNullable": "rahafassedah",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": " IMDB Dataset of Top 1000 Movies and TV Shows",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3378230,
+  "datasetSlug": "imdb-dataset-of-top-1000-movies-and-tv-shows",
+  "hasDatasetSlug": true,
+  "ownerUser": "rahafassedah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 119,
+  "totalVotes": 0,
+  "totalDownloads": 12,
+  "title": " IMDB Dataset of Top 1000 Movies and TV Shows",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hkhamnakhalid/wine-quality-pre",
+  "id_no": 1386167,
+  "datasetSlugNullable": "wine-quality-pre",
+  "ownerUserNullable": "hkhamnakhalid",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "wine quality pre",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1386167,
+  "datasetSlug": "wine-quality-pre",
+  "hasDatasetSlug": true,
+  "ownerUser": "hkhamnakhalid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 1064,
+  "totalVotes": 1,
+  "totalDownloads": 10,
+  "title": "wine quality pre",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

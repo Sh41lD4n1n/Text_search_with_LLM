@@ -1,0 +1,41 @@
+{
+  "id": "stoney71/new-york-city-transport-statistics",
+  "id_no": 1625,
+  "datasetSlugNullable": "new-york-city-transport-statistics",
+  "ownerUserNullable": "stoney71",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "New York City Bus Data",
+  "subtitleNullable": "Live data recorded from NYC Buses - Location, Time, Schedule & more",
+  "descriptionNullable": "### Context\n\nI wanted to find a better way to provide live traffic updates. We dont all have access to the data from traffic monitoring sensors or whatever gets uploaded from people's smart phones to Apple, Google etc plus I question how accurate the traffic congestion is on Google Maps or other apps. So I figured that since buses are also in the same traffic and many buses stream their GPS location and other data live, that would be an ideal source for traffic data. I investigated the data streams available from many bus companies around the world and found MTA in NYC to be very reliable. \n\n\n### Content\n\nThis dataset is from the NYC MTA buses data stream service. In roughly 10 minute increments the bus location, route, bus stop and more is included in each row. The scheduled arrival time from the bus schedule is also included, to give an indication of where the bus should be (how much behind schedule, or on time, or even ahead of schedule).\n\n\n\n### Acknowledgements\n\nData is recorded from the MTA SIRI Real Time data feed and the MTA GTFS Schedule data.\n\n\n### Inspiration\n\nI want to see what exploratory & discovery people come up with from this data. Feel free to download this dataset for your own use however I would appreciate as many Kernals included on Kaggle as we can get. \n\nBased on the interest this generates I plan to collect more data for subsequent months down the track.",
+  "datasetId": 1625,
+  "datasetSlug": "new-york-city-transport-statistics",
+  "hasDatasetSlug": true,
+  "ownerUser": "stoney71",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 71631,
+  "totalVotes": 127,
+  "totalDownloads": 6102,
+  "title": "New York City Bus Data",
+  "hasTitle": true,
+  "subtitle": "Live data recorded from NYC Buses - Location, Time, Schedule & more",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI wanted to find a better way to provide live traffic updates. We dont all have access to the data from traffic monitoring sensors or whatever gets uploaded from people's smart phones to Apple, Google etc plus I question how accurate the traffic congestion is on Google Maps or other apps. So I figured that since buses are also in the same traffic and many buses stream their GPS location and other data live, that would be an ideal source for traffic data. I investigated the data streams available from many bus companies around the world and found MTA in NYC to be very reliable. \n\n\n### Content\n\nThis dataset is from the NYC MTA buses data stream service. In roughly 10 minute increments the bus location, route, bus stop and more is included in each row. The scheduled arrival time from the bus schedule is also included, to give an indication of where the bus should be (how much behind schedule, or on time, or even ahead of schedule).\n\n\n\n### Acknowledgements\n\nData is recorded from the MTA SIRI Real Time data feed and the MTA GTFS Schedule data.\n\n\n### Inspiration\n\nI want to see what exploratory & discovery people come up with from this data. Feel free to download this dataset for your own use however I would appreciate as many Kernals included on Kaggle as we can get. \n\nBased on the interest this generates I plan to collect more data for subsequent months down the track.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "transportation",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

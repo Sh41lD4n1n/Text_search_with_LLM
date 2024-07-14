@@ -1,0 +1,47 @@
+{
+  "id": "egorovalexeyd/animals-with-skelet-key-points-and-action-mark",
+  "id_no": 1950182,
+  "datasetSlugNullable": "animals-with-skelet-key-points-and-action-mark",
+  "ownerUserNullable": "egorovalexeyd",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "Animals with skelet key points and action mark",
+  "subtitleNullable": "to predict animal behavior",
+  "descriptionNullable": "### Context\nThis dataset can be used to solve the problem of animal behavior recognition based on its image.\n\n### Content\n\nFor each of the 967 animal images (6 types of animals), three sets of key points of the skeleton (20 different positions) can be found, as well as a mark about the action class.\n\n### Acknowledgements\n\nThis dataset is the result of using the developed augmentation methods \n\n(described in the article AD Egorov and MS Reznik, \"Selection of Hyperparameters and Data Augmentation Method for Diverse Backbone Models Mask R-CNN,\" 2021 IV International Conference on Control in Technical Systems (CTS), 2021 , pp. 249-251, doi: 10.1109/CTS53513.2021.9562845.) \n\nto the dataset from \n\nCao J. et al. Cross-domain adaptation for animal pose estimation // Proceedings of the IEEE/CVF International Conference on Computer Vision. - 2019. - S. 9498-9507.\n\nDataset is created in National Research Nuclear University and Samsung IT Academy AI course.\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1950182,
+  "datasetSlug": "animals-with-skelet-key-points-and-action-mark",
+  "hasDatasetSlug": true,
+  "ownerUser": "egorovalexeyd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 3133,
+  "totalVotes": 13,
+  "totalDownloads": 142,
+  "title": "Animals with skelet key points and action mark",
+  "hasTitle": true,
+  "subtitle": "to predict animal behavior",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset can be used to solve the problem of animal behavior recognition based on its image.\n\n### Content\n\nFor each of the 967 animal images (6 types of animals), three sets of key points of the skeleton (20 different positions) can be found, as well as a mark about the action class.\n\n### Acknowledgements\n\nThis dataset is the result of using the developed augmentation methods \n\n(described in the article AD Egorov and MS Reznik, \"Selection of Hyperparameters and Data Augmentation Method for Diverse Backbone Models Mask R-CNN,\" 2021 IV International Conference on Control in Technical Systems (CTS), 2021 , pp. 249-251, doi: 10.1109/CTS53513.2021.9562845.) \n\nto the dataset from \n\nCao J. et al. Cross-domain adaptation for animal pose estimation // Proceedings of the IEEE/CVF International Conference on Computer Vision. - 2019. - S. 9498-9507.\n\nDataset is created in National Research Nuclear University and Samsung IT Academy AI course.\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "classification",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "maximreznik",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

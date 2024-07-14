@@ -1,0 +1,58 @@
+{
+  "id": "stephenabed/evjvqa",
+  "id_no": 5101753,
+  "datasetSlugNullable": "evjvqa",
+  "ownerUserNullable": "stephenabed",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "EVJVQA",
+  "subtitleNullable": "",
+  "descriptionNullable": "EVJVQA, the first multilingual Visual Question Answering dataset with three languages: English, Vietnamese, and Japanese, is released in this task. UIT-EVJVQA includes question-answer pairs created by humans on a set of images taken in Vietnam, with the answer created from the input question and the corresponding image. EVJVQA consists of 33,000+ question-answer pairs for evaluating the mQA models.",
+  "datasetId": 5101753,
+  "datasetSlug": "evjvqa",
+  "hasDatasetSlug": true,
+  "ownerUser": "stephenabed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 14,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "EVJVQA",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "EVJVQA, the first multilingual Visual Question Answering dataset with three languages: English, Vietnamese, and Japanese, is released in this task. UIT-EVJVQA includes question-answer pairs created by humans on a set of images taken in Vietnam, with the answer created from the input question and the corresponding image. EVJVQA consists of 33,000+ question-answer pairs for evaluating the mQA models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "stephenabednego",
+      "role": "writer"
+    },
+    {
+      "username": "sekremoza",
+      "role": "writer"
+    },
+    {
+      "username": "narutoman",
+      "role": "writer"
+    },
+    {
+      "username": "kaggle1steph",
+      "role": "writer"
+    },
+    {
+      "username": "kaggle2steph",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "muhammadasifwazir/pizza-sales-excel-mastersheet",
+  "id_no": 5289216,
+  "datasetSlugNullable": "pizza-sales-excel-mastersheet",
+  "ownerUserNullable": "muhammadasifwazir",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Pizza Sales - Excel Mastersheet",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5289216,
+  "datasetSlug": "pizza-sales-excel-mastersheet",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadasifwazir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 12,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "Pizza Sales - Excel Mastersheet",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

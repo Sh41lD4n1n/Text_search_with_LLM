@@ -1,0 +1,41 @@
+{
+  "id": "oddrationale/mnist-in-csv",
+  "id_no": 27352,
+  "datasetSlugNullable": "mnist-in-csv",
+  "ownerUserNullable": "oddrationale",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "MNIST in CSV",
+  "subtitleNullable": "The MNIST dataset provided in a easy-to-use CSV format",
+  "descriptionNullable": "# The MNIST dataset provided in a easy-to-use CSV format\nThe [original dataset](http://yann.lecun.com/exdb/mnist/) is in a format that is difficult for beginners to use. This dataset uses the work of [Joseph Redmon](https://pjreddie.com/) to provide the [MNIST dataset in a CSV format](https://pjreddie.com/projects/mnist-in-csv/).\n\nThe dataset consists of two files:\n\n1. `mnist_train.csv`\n2. `mnist_test.csv`\n\nThe `mnist_train.csv` file contains the 60,000 training examples and labels. The `mnist_test.csv` contains 10,000 test examples and labels. Each row consists of 785 values: the first value is the label (a number from 0 to 9) and the remaining 784 values are the pixel values (a number from 0 to 255).",
+  "datasetId": 27352,
+  "datasetSlug": "mnist-in-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "oddrationale",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 517343,
+  "totalVotes": 774,
+  "totalDownloads": 140911,
+  "title": "MNIST in CSV",
+  "hasTitle": true,
+  "subtitle": "The MNIST dataset provided in a easy-to-use CSV format",
+  "hasSubtitle": true,
+  "description": "# The MNIST dataset provided in a easy-to-use CSV format\nThe [original dataset](http://yann.lecun.com/exdb/mnist/) is in a format that is difficult for beginners to use. This dataset uses the work of [Joseph Redmon](https://pjreddie.com/) to provide the [MNIST dataset in a CSV format](https://pjreddie.com/projects/mnist-in-csv/).\n\nThe dataset consists of two files:\n\n1. `mnist_train.csv`\n2. `mnist_test.csv`\n\nThe `mnist_train.csv` file contains the 60,000 training examples and labels. The `mnist_test.csv` contains 10,000 test examples and labels. Each row consists of 785 values: the first value is the label (a number from 0 to 9) and the remaining 784 values are the pixel values (a number from 0 to 255).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

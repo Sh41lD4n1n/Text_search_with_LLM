@@ -1,0 +1,39 @@
+{
+  "id": "moazeldsokyx/chest-x-ray-images-pneumonia-dataset",
+  "id_no": 4657882,
+  "datasetSlugNullable": "chest-x-ray-images-pneumonia-dataset",
+  "ownerUserNullable": "moazeldsokyx",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "chest x-ray images pneumonia dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4657882,
+  "datasetSlug": "chest-x-ray-images-pneumonia-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "moazeldsokyx",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 46,
+  "totalVotes": 2,
+  "totalDownloads": 7,
+  "title": "chest x-ray images pneumonia dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

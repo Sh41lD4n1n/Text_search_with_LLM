@@ -1,0 +1,43 @@
+{
+  "id": "omkargurav/face-mask-dataset",
+  "id_no": 809358,
+  "datasetSlugNullable": "face-mask-dataset",
+  "ownerUserNullable": "omkargurav",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Face Mask Detection Dataset",
+  "subtitleNullable": "Face Mask Detection Dataset 7553 Images",
+  "descriptionNullable": "**Face Mask Detection Data set**\nIn recent trend in world wide Lockdowns due to COVID19 outbreak, as Face Mask is became mandatory for everyone while roaming outside, approach of Deep Learning for Detecting Faces With and Without mask were a good trendy practice. Here I have created a model that detects face mask trained on 7553 images with 3 color channels (RGB).\nOn Custom CNN architecture Model training accuracy reached 94% and Validation accuracy 96%.\n\n\n### Content\n\nData set consists of 7553 RGB images in 2 folders as with_mask and without_mask. Images are named as label with_mask and without_mask. Images of faces with mask are 3725 and images of faces without mask are 3828. \n\n### Acknowledgements\n\nI have taken 1776 images including both With and Without Face Mask images from Prajna Bhandary's Github account\nhttps://github.com/prajnasb/observations\n\nRemaining 5777 images are collected and filtered from Google search engine.\n\n3725 Images of Face with Mask\n\n3828 Images of Face without Mask.\n\n### Inspiration\n\nInspired by Adrian Rosebrock, PhD.  With the help of his guidance on his website https://www.pyimagesearch.com/ it was easy to understand the basics of Image processing and Deep Learning.",
+  "datasetId": 809358,
+  "datasetSlug": "face-mask-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "omkargurav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 115692,
+  "totalVotes": 192,
+  "totalDownloads": 32081,
+  "title": "Face Mask Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Face Mask Detection Dataset 7553 Images",
+  "hasSubtitle": true,
+  "description": "**Face Mask Detection Data set**\nIn recent trend in world wide Lockdowns due to COVID19 outbreak, as Face Mask is became mandatory for everyone while roaming outside, approach of Deep Learning for Detecting Faces With and Without mask were a good trendy practice. Here I have created a model that detects face mask trained on 7553 images with 3 color channels (RGB).\nOn Custom CNN architecture Model training accuracy reached 94% and Validation accuracy 96%.\n\n\n### Content\n\nData set consists of 7553 RGB images in 2 folders as with_mask and without_mask. Images are named as label with_mask and without_mask. Images of faces with mask are 3725 and images of faces without mask are 3828. \n\n### Acknowledgements\n\nI have taken 1776 images including both With and Without Face Mask images from Prajna Bhandary's Github account\nhttps://github.com/prajnasb/observations\n\nRemaining 5777 images are collected and filtered from Google search engine.\n\n3725 Images of Face with Mask\n\n3828 Images of Face without Mask.\n\n### Inspiration\n\nInspired by Adrian Rosebrock, PhD.  With the help of his guidance on his website https://www.pyimagesearch.com/ it was easy to understand the basics of Image processing and Deep Learning.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "clothing and accessories",
+    "health",
+    "computer science",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

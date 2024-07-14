@@ -1,0 +1,43 @@
+{
+  "id": "stoicstatic/mal-top-10k-anime-details",
+  "id_no": 973681,
+  "datasetSlugNullable": "mal-top-10k-anime-details",
+  "ownerUserNullable": "stoicstatic",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MAL Top 10k Anime, Reviews and Recommendations",
+  "subtitleNullable": "Details about the top 10k Anime, 45k Recommendations and 85k Reviews from MAL.",
+  "descriptionNullable": "### Context\n\nMyAnimeList, often abbreviated as MAL, is an anime and manga social networking and social cataloging application website. The site provides its users with a list-like system to organize and score anime and manga. It facilitates finding users who share similar tastes and provides a large database of anime and manga.\n\nMAL stores information about over 17.5k anime and manga and has a vibrant community passionate about the same. It has multiple reviews and ranking for anime and is the go-to for Otakus worldwide for anime information.\n\n### Content\n\nThis Dataset contains many different data attributes of the anime, such as:\n- Rating, Popularity, and Score of the anime in MAL.\n- It also contains information such as how many episodes have been aired, is it currently being aired or finished, and the genre of the anime.\n- It also contains a summary of the Anime.\n- 85k Reviews with ratings on different criteria.\n- 45k Recommendations of anime from users.\n\nAll the animes have been scraped as of 15/10/2020.\n\n### Acknowledgements\n\nData has been scraped from the publicly available website https://myanimelist.net/\n\n### Inspiration\n\nTo provide further information in regards to the aspects that make an anime successful from a user or profit perspective, and it can be analyzed to understand how to improve the popularity of an anime.\nThe Review data can be used to build a classification or sentiment analysis algorithm.\nThe Recommendation data can be used to make a recommender model for anime.",
+  "datasetId": 973681,
+  "datasetSlug": "mal-top-10k-anime-details",
+  "hasDatasetSlug": true,
+  "ownerUser": "stoicstatic",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6410,
+  "totalVotes": 20,
+  "totalDownloads": 414,
+  "title": "MAL Top 10k Anime, Reviews and Recommendations",
+  "hasTitle": true,
+  "subtitle": "Details about the top 10k Anime, 45k Recommendations and 85k Reviews from MAL.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMyAnimeList, often abbreviated as MAL, is an anime and manga social networking and social cataloging application website. The site provides its users with a list-like system to organize and score anime and manga. It facilitates finding users who share similar tastes and provides a large database of anime and manga.\n\nMAL stores information about over 17.5k anime and manga and has a vibrant community passionate about the same. It has multiple reviews and ranking for anime and is the go-to for Otakus worldwide for anime information.\n\n### Content\n\nThis Dataset contains many different data attributes of the anime, such as:\n- Rating, Popularity, and Score of the anime in MAL.\n- It also contains information such as how many episodes have been aired, is it currently being aired or finished, and the genre of the anime.\n- It also contains a summary of the Anime.\n- 85k Reviews with ratings on different criteria.\n- 45k Recommendations of anime from users.\n\nAll the animes have been scraped as of 15/10/2020.\n\n### Acknowledgements\n\nData has been scraped from the publicly available website https://myanimelist.net/\n\n### Inspiration\n\nTo provide further information in regards to the aspects that make an anime successful from a user or profit perspective, and it can be analyzed to understand how to improve the popularity of an anime.\nThe Review data can be used to build a classification or sentiment analysis algorithm.\nThe Recommendation data can be used to make a recommender model for anime.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "data analytics",
+    "recommender systems",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ashfakyeafi/cat-dog-images-for-classification",
+  "id_no": 1840863,
+  "datasetSlugNullable": "cat-dog-images-for-classification",
+  "ownerUserNullable": "ashfakyeafi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cat & Dog images for Classification",
+  "subtitleNullable": "Cat and Dogs images with proper labeling for classification problems.",
+  "descriptionNullable": "This dataset encompasses a collection of images specifically curated for the purpose of classifying between cats and dogs. It likely includes a variety of pictures featuring both cats and dogs, designed to aid in training machine learning models or algorithms for image classification tasks. These images may vary in terms of breeds, poses, backgrounds, and other characteristics relevant to distinguishing between cats and dogs. Researchers, developers, or data scientists could utilize this dataset to create and enhance classification algorithms intended to accurately identify and differentiate between images of cats and dogs.",
+  "datasetId": 1840863,
+  "datasetSlug": "cat-dog-images-for-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashfakyeafi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12640,
+  "totalVotes": 103,
+  "totalDownloads": 3120,
+  "title": "Cat & Dog images for Classification",
+  "hasTitle": true,
+  "subtitle": "Cat and Dogs images with proper labeling for classification problems.",
+  "hasSubtitle": true,
+  "description": "This dataset encompasses a collection of images specifically curated for the purpose of classifying between cats and dogs. It likely includes a variety of pictures featuring both cats and dogs, designed to aid in training machine learning models or algorithms for image classification tasks. These images may vary in terms of breeds, poses, backgrounds, and other characteristics relevant to distinguishing between cats and dogs. Researchers, developers, or data scientists could utilize this dataset to create and enhance classification algorithms intended to accurately identify and differentiate between images of cats and dogs.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

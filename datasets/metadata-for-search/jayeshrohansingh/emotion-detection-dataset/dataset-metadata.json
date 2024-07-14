@@ -1,0 +1,39 @@
+{
+  "id": "jayeshrohansingh/emotion-detection-dataset",
+  "id_no": 745694,
+  "datasetSlugNullable": "emotion-detection-dataset",
+  "ownerUserNullable": "jayeshrohansingh",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Emotion Detection Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### License\n\n@MISC{Goodfeli-et-al-2013,\n       author = {Goodfellow, Ian and Erhan, Dumitru and Carrier, Pierre-Luc and Courville, Aaron and Mirza, Mehdi and Hamner, Ben and Cukierski, Will and Tang, Yichuan and Thaler, David and Lee, Dong-Hyun and Zhou, Yingbo and Ramaiah, Chetan and Feng, Fangxiang and Li, Ruifan and Wang, Xiaojie and Athanasakis, Dimitris and Shawe-Taylor, John and Milakov, Maxim and Park, John and Ionescu, Radu and Popescu, Marius and Grozea, Cristian and Bergstra, James and Xie, Jingjing and Romaszko, Lukasz and Xu, Bing and Chuang, Zhang and Bengio, Yoshua},\n     keywords = {competition, dataset, representation learning},\n        title = {Challenges in Representation Learning: A report on three machine learning contests},\n         year = {2013},\n  institution = {Unicer},\n          url = {http://arxiv.org/abs/1307.0414},\n     abstract = {The ICML 2013 Workshop on Challenges in Representation\nLearning focused on three challenges: the black box learning challenge,\nthe facial expression recognition challenge, and the multimodal learn-\ning challenge. We describe the datasets created for these challenges and\nsummarize the results of the competitions. We provide suggestions for or-\nganizers of future challenges and some comments on what kind of knowl-\nedge can be gained from machine learning competitions.\n\nhttp://deeplearning.net/icml2013-workshop-competition}\n}\nmunity. What questions do you want to see answered?",
+  "datasetId": 745694,
+  "datasetSlug": "emotion-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jayeshrohansingh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 7958,
+  "totalVotes": 19,
+  "totalDownloads": 1136,
+  "title": "Emotion Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### License\n\n@MISC{Goodfeli-et-al-2013,\n       author = {Goodfellow, Ian and Erhan, Dumitru and Carrier, Pierre-Luc and Courville, Aaron and Mirza, Mehdi and Hamner, Ben and Cukierski, Will and Tang, Yichuan and Thaler, David and Lee, Dong-Hyun and Zhou, Yingbo and Ramaiah, Chetan and Feng, Fangxiang and Li, Ruifan and Wang, Xiaojie and Athanasakis, Dimitris and Shawe-Taylor, John and Milakov, Maxim and Park, John and Ionescu, Radu and Popescu, Marius and Grozea, Cristian and Bergstra, James and Xie, Jingjing and Romaszko, Lukasz and Xu, Bing and Chuang, Zhang and Bengio, Yoshua},\n     keywords = {competition, dataset, representation learning},\n        title = {Challenges in Representation Learning: A report on three machine learning contests},\n         year = {2013},\n  institution = {Unicer},\n          url = {http://arxiv.org/abs/1307.0414},\n     abstract = {The ICML 2013 Workshop on Challenges in Representation\nLearning focused on three challenges: the black box learning challenge,\nthe facial expression recognition challenge, and the multimodal learn-\ning challenge. We describe the datasets created for these challenges and\nsummarize the results of the competitions. We provide suggestions for or-\nganizers of future challenges and some comments on what kind of knowl-\nedge can be gained from machine learning competitions.\n\nhttp://deeplearning.net/icml2013-workshop-competition}\n}\nmunity. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

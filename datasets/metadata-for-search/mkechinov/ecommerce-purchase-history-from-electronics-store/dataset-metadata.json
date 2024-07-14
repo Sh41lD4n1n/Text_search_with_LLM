@@ -1,0 +1,41 @@
+{
+  "id": "mkechinov/ecommerce-purchase-history-from-electronics-store",
+  "id_no": 974374,
+  "datasetSlugNullable": "ecommerce-purchase-history-from-electronics-store",
+  "ownerUserNullable": "mkechinov",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "eCommerce purchase history from electronics store",
+  "subtitleNullable": "This dataset contains 2.6M purchased products from online store",
+  "descriptionNullable": "### About\n\nThis file contains purchase  data from April 2020 to November 2020 from a large home appliances and electronics online store. \n\nEach row in the file represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.\n\nData collected by [Open CDP](https://rees46.com/en/open-cdp) project. Feel free to use open source customer data platform.\n\n### More datasets\n\nCheckout another datasets:\n\n1. https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store\n2. https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store - you're reading it right now\n3. https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop\n4. https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-jewelry-store\n5. https://www.kaggle.com/mkechinov/ecommerce-events-history-in-electronics-store\n6. [NEW] https://www.kaggle.com/datasets/mkechinov/direct-messaging\n\n### Multiple purchases per session\n\nA session can have multiple **purchase** events. It's ok, because it's a single order.\n\n### Many thanks\n\nThanks to [REES46 Marketing Platform](https://rees46.com) for this dataset.\n\n### Using datasets in your works, books, education materials\n\nYou can use this dataset for free. Just mention the source of it: link to this page and link to [REES46 Marketing Platform](https://rees46.com).",
+  "datasetId": 974374,
+  "datasetSlug": "ecommerce-purchase-history-from-electronics-store",
+  "hasDatasetSlug": true,
+  "ownerUser": "mkechinov",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 73508,
+  "totalVotes": 82,
+  "totalDownloads": 8328,
+  "title": "eCommerce purchase history from electronics store",
+  "hasTitle": true,
+  "subtitle": "This dataset contains 2.6M purchased products from online store",
+  "hasSubtitle": true,
+  "description": "### About\n\nThis file contains purchase  data from April 2020 to November 2020 from a large home appliances and electronics online store. \n\nEach row in the file represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.\n\nData collected by [Open CDP](https://rees46.com/en/open-cdp) project. Feel free to use open source customer data platform.\n\n### More datasets\n\nCheckout another datasets:\n\n1. https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store\n2. https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store - you're reading it right now\n3. https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop\n4. https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-jewelry-store\n5. https://www.kaggle.com/mkechinov/ecommerce-events-history-in-electronics-store\n6. [NEW] https://www.kaggle.com/datasets/mkechinov/direct-messaging\n\n### Multiple purchases per session\n\nA session can have multiple **purchase** events. It's ok, because it's a single order.\n\n### Many thanks\n\nThanks to [REES46 Marketing Platform](https://rees46.com) for this dataset.\n\n### Using datasets in your works, books, education materials\n\nYou can use this dataset for free. Just mention the source of it: link to this page and link to [REES46 Marketing Platform](https://rees46.com).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "recommender systems",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

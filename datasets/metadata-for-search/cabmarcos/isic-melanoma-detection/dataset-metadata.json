@@ -1,0 +1,39 @@
+{
+  "id": "cabmarcos/isic-melanoma-detection",
+  "id_no": 5198033,
+  "datasetSlugNullable": "isic-melanoma-detection",
+  "ownerUserNullable": "cabmarcos",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "ISIC melanoma detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "Three classes of lesions:\n\n- Malignant Melanoma: Melanoma, also known as malignant melanoma, is the most common type of skin cancer and arises from pigment-producing cells known as melanocytes. Melanomas typically appear on the skin and rarely in other locations such as the mouth, intestines, or eye.\n\n- Seborrheic Keratosis: Seborrheic keratosis is a non-cancerous (benign) skin tumor that originates in the cells of the outer layer of the skin (keratinocytes), making it a non-melanocytic lesion.\n\n- Benign Nevus (Mole): A benign skin tumor originating from melanocytes (melanocytic).\n\n# Dataset Description\nThe dataset has been obtained from the 'International Skin Imaging Collaboration' (ISIC) archive. It contains 2750 images divided into 3 sets:\n\nTraining Set: 2000 images\n\nValidation Set: 150 images\n\nTest Set: 600 images\n\nFor each clinical case, we have two images available:\n\nDermoscopic image of the lesion (in the 'images' folder).\n\nBinary mask with segmentation between lesion (mole) and skin (in the 'masks' folder).\n\nAdditionally, there is a CSV file for each dataset (training, validation, and test), where each row corresponds to a clinical case, defined with two fields separated by commas:\n\nThe numeric id of the lesion: which allows defining the paths to the files containing the image and the mask.\n\nThe label of the lesion: available only for training and validation, being an integer between 0 and 2: 0: benign nevus, 1: malignant melanoma, 2: seborrheic keratosis. In the case of the test set, labels are not available (their value is -1).",
+  "datasetId": 5198033,
+  "datasetSlug": "isic-melanoma-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "cabmarcos",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 43,
+  "totalVotes": 0,
+  "totalDownloads": 9,
+  "title": "ISIC melanoma detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Three classes of lesions:\n\n- Malignant Melanoma: Melanoma, also known as malignant melanoma, is the most common type of skin cancer and arises from pigment-producing cells known as melanocytes. Melanomas typically appear on the skin and rarely in other locations such as the mouth, intestines, or eye.\n\n- Seborrheic Keratosis: Seborrheic keratosis is a non-cancerous (benign) skin tumor that originates in the cells of the outer layer of the skin (keratinocytes), making it a non-melanocytic lesion.\n\n- Benign Nevus (Mole): A benign skin tumor originating from melanocytes (melanocytic).\n\n# Dataset Description\nThe dataset has been obtained from the 'International Skin Imaging Collaboration' (ISIC) archive. It contains 2750 images divided into 3 sets:\n\nTraining Set: 2000 images\n\nValidation Set: 150 images\n\nTest Set: 600 images\n\nFor each clinical case, we have two images available:\n\nDermoscopic image of the lesion (in the 'images' folder).\n\nBinary mask with segmentation between lesion (mole) and skin (in the 'masks' folder).\n\nAdditionally, there is a CSV file for each dataset (training, validation, and test), where each row corresponds to a clinical case, defined with two fields separated by commas:\n\nThe numeric id of the lesion: which allows defining the paths to the files containing the image and the mask.\n\nThe label of the lesion: available only for training and validation, being an integer between 0 and 2: 0: benign nevus, 1: malignant melanoma, 2: seborrheic keratosis. In the case of the test set, labels are not available (their value is -1).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

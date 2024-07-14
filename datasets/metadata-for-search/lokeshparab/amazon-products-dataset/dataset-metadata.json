@@ -1,0 +1,42 @@
+{
+  "id": "lokeshparab/amazon-products-dataset",
+  "id_no": 3020336,
+  "datasetSlugNullable": "amazon-products-dataset",
+  "ownerUserNullable": "lokeshparab",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Products Sales Dataset 2023",
+  "subtitleNullable": "This dataset has 142 Categories and 300K+ Products Details",
+  "descriptionNullable": "# About\n## This is a Product Sales Dataset scraped from the [Amazon website](https://www.amazon.com/) \n* Its product data are separated by 142 categories in csv format, along with the full dataset name **Amazon-Products.csv**. \n* Each csv files are consist of 10 columns and each row has products details accordingly\n\n# Features\n| name                 |  description                      |\n|-----------------|--------------------------|\n|  *name*                |  The name of the product |\n|  *main_category* |   The main category of the product belong |\n|  *sub_category*   |  The main category of the product belong  |\n|  *image*                |   The image of the product look like          |\n|  *link*                    |  The amazon website reference link of the product   |\n|  *ratings*              |  The ratings given by amazon customers of the product           |\n|  *no of ratings*    |  The number of ratings given to this product in amazon shopping   |\n|  *discount_price* |   The discount prices of the product  |\n|  *actual_price*     |  The actual MRP of the product  |\n\n# Inspiration\nAmazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n* Dataset Walkthrough\n* Data Preprocessing\n* Understanding Dataset Hierarchy\n* Exploratory Data Analysis\n* Data Visualization *Using matlabplot and searborn*\n* Data Visualization *Using BI Tools such as **Tableau, PowerBI ,Kibana ,Grafana, Splunk***\n* **Making Recommendation System**\n* **Webscraping content of each products in detail**\n\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.",
+  "datasetId": 3020336,
+  "datasetSlug": "amazon-products-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "lokeshparab",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 187487,
+  "totalVotes": 368,
+  "totalDownloads": 34564,
+  "title": "Amazon Products Sales Dataset 2023",
+  "hasTitle": true,
+  "subtitle": "This dataset has 142 Categories and 300K+ Products Details",
+  "hasSubtitle": true,
+  "description": "# About\n## This is a Product Sales Dataset scraped from the [Amazon website](https://www.amazon.com/) \n* Its product data are separated by 142 categories in csv format, along with the full dataset name **Amazon-Products.csv**. \n* Each csv files are consist of 10 columns and each row has products details accordingly\n\n# Features\n| name                 |  description                      |\n|-----------------|--------------------------|\n|  *name*                |  The name of the product |\n|  *main_category* |   The main category of the product belong |\n|  *sub_category*   |  The main category of the product belong  |\n|  *image*                |   The image of the product look like          |\n|  *link*                    |  The amazon website reference link of the product   |\n|  *ratings*              |  The ratings given by amazon customers of the product           |\n|  *no of ratings*    |  The number of ratings given to this product in amazon shopping   |\n|  *discount_price* |   The discount prices of the product  |\n|  *actual_price*     |  The actual MRP of the product  |\n\n# Inspiration\nAmazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n* Dataset Walkthrough\n* Data Preprocessing\n* Understanding Dataset Hierarchy\n* Exploratory Data Analysis\n* Data Visualization *Using matlabplot and searborn*\n* Data Visualization *Using BI Tools such as **Tableau, PowerBI ,Kibana ,Grafana, Splunk***\n* **Making Recommendation System**\n* **Webscraping content of each products in detail**\n\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data visualization",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ashitosh100/image-classification",
+  "id_no": 5291466,
+  "datasetSlugNullable": "image-classification",
+  "ownerUserNullable": "ashitosh100",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "IMAGE CLASSIFICATION",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5291466,
+  "datasetSlug": "image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashitosh100",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "IMAGE CLASSIFICATION",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

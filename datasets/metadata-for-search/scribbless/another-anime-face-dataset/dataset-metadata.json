@@ -1,0 +1,40 @@
+{
+  "id": "scribbless/another-anime-face-dataset",
+  "id_no": 923624,
+  "datasetSlugNullable": "another-anime-face-dataset",
+  "ownerUserNullable": "scribbless",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "another anime face dataset",
+  "subtitleNullable": "92k anime faces sourced from safebooru then resized to 256x256",
+  "descriptionNullable": "Image data is sourced from safebooru.\n\nUsed some scuffed code and https://github.com/nagadomi/lbpcascade_animeface to extract faces from images, then resized to 256x256 and converted to jpg.\n\nI think its fairly clean, if you want a very clean dataset I'd recommend sorting by size only only working with the largest files, as they tend to be faces more often than not.\n\nIt's just pure images without metadata",
+  "datasetId": 923624,
+  "datasetSlug": "another-anime-face-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "scribbless",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 13080,
+  "totalVotes": 55,
+  "totalDownloads": 2834,
+  "title": "another anime face dataset",
+  "hasTitle": true,
+  "subtitle": "92k anime faces sourced from safebooru then resized to 256x256",
+  "hasSubtitle": true,
+  "description": "Image data is sourced from safebooru.\n\nUsed some scuffed code and https://github.com/nagadomi/lbpcascade_animeface to extract faces from images, then resized to 256x256 and converted to jpg.\n\nI think its fairly clean, if you want a very clean dataset I'd recommend sorting by size only only working with the largest files, as they tend to be faces more often than not.\n\nIt's just pure images without metadata",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

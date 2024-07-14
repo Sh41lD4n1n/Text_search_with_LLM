@@ -1,0 +1,41 @@
+{
+  "id": "imadmoussa/traffic-signs",
+  "id_no": 170309,
+  "datasetSlugNullable": "traffic-signs",
+  "ownerUserNullable": "imadmoussa",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "traffic signs",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThis data of traffic signs image\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 170309,
+  "datasetSlug": "traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "imadmoussa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 6708,
+  "totalVotes": 11,
+  "totalDownloads": 1174,
+  "title": "traffic signs",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data of traffic signs image\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "law",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

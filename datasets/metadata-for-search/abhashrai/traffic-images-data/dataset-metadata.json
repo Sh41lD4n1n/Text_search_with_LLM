@@ -1,0 +1,37 @@
+{
+  "id": "abhashrai/traffic-images-data",
+  "id_no": 3297136,
+  "datasetSlugNullable": "traffic-images-data",
+  "ownerUserNullable": "abhashrai",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "traffic-images-data",
+  "subtitleNullable": "Congestion Classification: Analyzing Traffic Patterns through Image Recognition",
+  "descriptionNullable": "The dataset consists of 5750 image data rows, with each image having a resolution of 296 by 222 pixels. Each row in the dataset has 65713 columns, where the first column represents the labeling feature. The labeling feature is binary, with a value of 1 indicating congestion and a value of 0 representing uncongested conditions.\n\nThe remaining 65712 columns correspond to the pixel-values of the associated image. Each pixel has a single pixel-value associated with it, ranging from 0 to 255. The pixel-values represent the lightness or darkness of the pixel, with higher values indicating darker shades.\n\nTo locate a specific pixel in the image, you can decompose the column index using the formula x = i * 222 + j, where i and j are integers ranging from 0 to 295 and 0 to 221, respectively. This will help you determine the position of a particular pixel within the 296 by 222 image matrix.",
+  "datasetId": 3297136,
+  "datasetSlug": "traffic-images-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhashrai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 467,
+  "totalVotes": 4,
+  "totalDownloads": 104,
+  "title": "traffic-images-data",
+  "hasTitle": true,
+  "subtitle": "Congestion Classification: Analyzing Traffic Patterns through Image Recognition",
+  "hasSubtitle": true,
+  "description": "The dataset consists of 5750 image data rows, with each image having a resolution of 296 by 222 pixels. Each row in the dataset has 65713 columns, where the first column represents the labeling feature. The labeling feature is binary, with a value of 1 indicating congestion and a value of 0 representing uncongested conditions.\n\nThe remaining 65712 columns correspond to the pixel-values of the associated image. Each pixel has a single pixel-value associated with it, ranging from 0 to 255. The pixel-values represent the lightness or darkness of the pixel, with higher values indicating darker shades.\n\nTo locate a specific pixel in the image, you can decompose the column index using the formula x = i * 222 + j, where i and j are integers ranging from 0 to 295 and 0 to 221, respectively. This will help you determine the position of a particular pixel within the 296 by 222 image matrix.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

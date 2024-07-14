@@ -1,0 +1,41 @@
+{
+  "id": "grassknoted/asl-alphabet",
+  "id_no": 23079,
+  "datasetSlugNullable": "asl-alphabet",
+  "ownerUserNullable": "grassknoted",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "ASL Alphabet",
+  "subtitleNullable": "Image data set for alphabets in the American Sign Language ",
+  "descriptionNullable": "## GitHub Repository for **Sign Language to Speech**: Unvoiced [https://github.com/grassknoted/Unvoiced]\n**If you find this dataset useful, please upvote to make sure it is recommended to others! Thanks!** \ud83d\ude03 \n\n### About\n\nThe data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes.\n\n### Content\n\nThe training data set contains 87,000 images which are 200x200 pixels. There are 29 classes, of which 26 are for the letters A-Z and 3 classes for *SPACE*, *DELETE* and *NOTHING*.\nThese 3 classes are very helpful in real-time applications, and classification.\nThe test data set contains a mere 29 images, to encourage the use of real-world test images.\n\n![enter image description here][1]\nhttps://www.nidcd.nih.gov/sites/default/files/Content%20Images/NIDCD-ASL-hands-2014.jpg\n\n### Acknowledgements\n\nPLEASE CITE THE DATASET AS:\n\n @misc{https://www.kaggle.com/grassknoted/aslalphabet_akash nagaraj_2018,\n\ttitle={ASL Alphabet},\n\turl={https://www.kaggle.com/dsv/29550},\n\tDOI={10.34740/KAGGLE/DSV/29550},\n\n  [1]: https://www.nidcd.nih.gov/sites/default/files/Content%20Images/NIDCD-ASL-hands-2014.jpg",
+  "datasetId": 23079,
+  "datasetSlug": "asl-alphabet",
+  "hasDatasetSlug": true,
+  "ownerUser": "grassknoted",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 387811,
+  "totalVotes": 964,
+  "totalDownloads": 60427,
+  "title": "ASL Alphabet",
+  "hasTitle": true,
+  "subtitle": "Image data set for alphabets in the American Sign Language ",
+  "hasSubtitle": true,
+  "description": "## GitHub Repository for **Sign Language to Speech**: Unvoiced [https://github.com/grassknoted/Unvoiced]\n**If you find this dataset useful, please upvote to make sure it is recommended to others! Thanks!** \ud83d\ude03 \n\n### About\n\nThe data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes.\n\n### Content\n\nThe training data set contains 87,000 images which are 200x200 pixels. There are 29 classes, of which 26 are for the letters A-Z and 3 classes for *SPACE*, *DELETE* and *NOTHING*.\nThese 3 classes are very helpful in real-time applications, and classification.\nThe test data set contains a mere 29 images, to encourage the use of real-world test images.\n\n![enter image description here][1]\nhttps://www.nidcd.nih.gov/sites/default/files/Content%20Images/NIDCD-ASL-hands-2014.jpg\n\n### Acknowledgements\n\nPLEASE CITE THE DATASET AS:\n\n @misc{https://www.kaggle.com/grassknoted/aslalphabet_akash nagaraj_2018,\n\ttitle={ASL Alphabet},\n\turl={https://www.kaggle.com/dsv/29550},\n\tDOI={10.34740/KAGGLE/DSV/29550},\n\n  [1]: https://www.nidcd.nih.gov/sites/default/files/Content%20Images/NIDCD-ASL-hands-2014.jpg",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

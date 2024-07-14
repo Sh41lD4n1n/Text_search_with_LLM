@@ -1,0 +1,44 @@
+{
+  "id": "danielmadmon/nih-xray-dataset-tfrec-with-labels",
+  "id_no": 2320545,
+  "datasetSlugNullable": "nih-xray-dataset-tfrec-with-labels",
+  "ownerUserNullable": "danielmadmon",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "NIH xray dataset tfrec with labels",
+  "subtitleNullable": "this dataset contains 120,100 images of chest xray scans and labels in tfrecord ",
+  "descriptionNullable": "this dataset was collected and pre-processed from the NIH chest x-ray dataset, which contains about 120,100 images.\n\ndue to difficulties with processing such a large amount of data, on conventional GPU's, and CPU's, I've decided to convert all the images to tfrecords with their corresponding labels (835 unique values).\nwhich means we can now use TPU's to analyse the data, and build better classification models. \n\nyou can decode the images, by looking for 'image' and 'label' in the images.tfrecords files. \nhopefully this would make a better use of the dataset.\nalso, the dictionary txt file contains every unique label and it's corresponding number in the data.\n\nplease put to good use:)\n\nrefrences:\nXiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, MohammadhadiBagheri, Ronald M. Summers.ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases, IEEE CVPR, pp. 3462-3471,2017\n",
+  "datasetId": 2320545,
+  "datasetSlug": "nih-xray-dataset-tfrec-with-labels",
+  "hasDatasetSlug": true,
+  "ownerUser": "danielmadmon",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4023,
+  "totalVotes": 22,
+  "totalDownloads": 244,
+  "title": "NIH xray dataset tfrec with labels",
+  "hasTitle": true,
+  "subtitle": "this dataset contains 120,100 images of chest xray scans and labels in tfrecord ",
+  "hasSubtitle": true,
+  "description": "this dataset was collected and pre-processed from the NIH chest x-ray dataset, which contains about 120,100 images.\n\ndue to difficulties with processing such a large amount of data, on conventional GPU's, and CPU's, I've decided to convert all the images to tfrecords with their corresponding labels (835 unique values).\nwhich means we can now use TPU's to analyse the data, and build better classification models. \n\nyou can decode the images, by looking for 'image' and 'label' in the images.tfrecords files. \nhopefully this would make a better use of the dataset.\nalso, the dictionary txt file contains every unique label and it's corresponding number in the data.\n\nplease put to good use:)\n\nrefrences:\nXiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, MohammadhadiBagheri, Ronald M. Summers.ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases, IEEE CVPR, pp. 3462-3471,2017\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "diseases",
+    "biology",
+    "health",
+    "health conditions",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

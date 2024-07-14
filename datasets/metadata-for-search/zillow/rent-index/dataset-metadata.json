@@ -1,0 +1,40 @@
+{
+  "id": "/rent-index",
+  "id_no": 913,
+  "datasetSlugNullable": "rent-index",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Zillow Rent Index, 2010-Present",
+  "subtitleNullable": "Which city has the highest median price or price per square foot?",
+  "descriptionNullable": "# Context\n\nZillow operates an industry-leading economics and analytics bureau led by Zillow\u2019s Chief Economist, Dr. Stan Humphries. At Zillow, Dr. Humphries and his team of economists and data analysts produce extensive housing data and analysis covering more than 500 markets nationwide. Zillow Research produces various real estate, rental and mortgage-related metrics and publishes unique analyses on current topics and trends affecting the housing market.\n\nAt Zillow\u2019s core is our living database of more than 100 million U.S. homes, featuring both public and user-generated information including number of bedrooms and bathrooms, tax assessments, home sales and listing data of homes for sale and for rent. This data allows us to calculate, among other indicators, the Zestimate, a highly accurate, automated, estimated value of almost every home in the country as well as the Zillow Home Value Index and Zillow Rent Index, leading measures of median home values and rents. \n\n\n# Content\n\nThe Zillow Rent Index is the median estimated monthly rental price for a given area, and covers multifamily, single family, condominium, and cooperative homes in Zillow\u2019s database, regardless of whether they are currently listed for rent. It is expressed in dollars and is seasonally adjusted. The Zillow Rent Index is published at the national, state, metro, county, city, neighborhood, and zip code levels.\n\nZillow produces rent estimates (Rent Zestimates) based on proprietary statistical and machine learning models. Within each county or state, the models observe recent rental listings and learn the relative contribution of various home attributes in predicting prevailing rents. These home attributes include physical facts about the home, prior sale transactions, tax assessment information and geographic location as well as the estimated market value of the home (Zestimate). Based on the patterns learned, these models estimate rental prices on all homes, including those not presently for rent. Because of the availability of Zillow rental listing data used to train the models, Rent Zestimates are only available back to November 2010; therefore, each ZRI time series starts on the same date.\n\n\n# Acknowledgements\n\nThe rent index data was calculated from Zillow's proprietary Rent Zestimates and published on its website.\n\n\n# Inspiration\n\nWhat city has the highest and lowest rental prices in the country? Which metropolitan area is the most expensive to live in? Where have rental prices increased in the past five years and where have they remained the same? What city or state has the lowest cost per square foot?",
+  "datasetId": 913,
+  "datasetSlug": "rent-index",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 57569,
+  "totalVotes": 125,
+  "totalDownloads": 6531,
+  "title": "Zillow Rent Index, 2010-Present",
+  "hasTitle": true,
+  "subtitle": "Which city has the highest median price or price per square foot?",
+  "hasSubtitle": true,
+  "description": "# Context\n\nZillow operates an industry-leading economics and analytics bureau led by Zillow\u2019s Chief Economist, Dr. Stan Humphries. At Zillow, Dr. Humphries and his team of economists and data analysts produce extensive housing data and analysis covering more than 500 markets nationwide. Zillow Research produces various real estate, rental and mortgage-related metrics and publishes unique analyses on current topics and trends affecting the housing market.\n\nAt Zillow\u2019s core is our living database of more than 100 million U.S. homes, featuring both public and user-generated information including number of bedrooms and bathrooms, tax assessments, home sales and listing data of homes for sale and for rent. This data allows us to calculate, among other indicators, the Zestimate, a highly accurate, automated, estimated value of almost every home in the country as well as the Zillow Home Value Index and Zillow Rent Index, leading measures of median home values and rents. \n\n\n# Content\n\nThe Zillow Rent Index is the median estimated monthly rental price for a given area, and covers multifamily, single family, condominium, and cooperative homes in Zillow\u2019s database, regardless of whether they are currently listed for rent. It is expressed in dollars and is seasonally adjusted. The Zillow Rent Index is published at the national, state, metro, county, city, neighborhood, and zip code levels.\n\nZillow produces rent estimates (Rent Zestimates) based on proprietary statistical and machine learning models. Within each county or state, the models observe recent rental listings and learn the relative contribution of various home attributes in predicting prevailing rents. These home attributes include physical facts about the home, prior sale transactions, tax assessment information and geographic location as well as the estimated market value of the home (Zestimate). Based on the patterns learned, these models estimate rental prices on all homes, including those not presently for rent. Because of the availability of Zillow rental listing data used to train the models, Rent Zestimates are only available back to November 2010; therefore, each ZRI time series starts on the same date.\n\n\n# Acknowledgements\n\nThe rent index data was calculated from Zillow's proprietary Rent Zestimates and published on its website.\n\n\n# Inspiration\n\nWhat city has the highest and lowest rental prices in the country? Which metropolitan area is the most expensive to live in? Where have rental prices increased in the past five years and where have they remained the same? What city or state has the lowest cost per square foot?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

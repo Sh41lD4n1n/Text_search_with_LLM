@@ -1,0 +1,42 @@
+{
+  "id": "xhlulu/cpc-codes",
+  "id_no": 2015496,
+  "datasetSlugNullable": "cpc-codes",
+  "ownerUserNullable": "xhlulu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cooperative Patent Classification Codes Meaning",
+  "subtitleNullable": "For the US Patent competition. Source: cooperativepatentclassification.org",
+  "descriptionNullable": "### Context\n\nThis dataset is provided for the [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching) competition. It adds additional information by providing the meaning of each code in the `context` column.\n\nFor more info, check out the [discussion thread](https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching/discussion/314306), and take a look at this [starter notebook](https://www.kaggle.com/code/xhlulu/us-patent-phrase-matching-adding-meaning-of-code) to see how to incorporate the data into the competition.\n\n\n### Content\n\nPreprocessing script here: https://www.kaggle.com/code/xhlulu/download-and-process-cpc\n\n### Licensing\n\nThis data can be found on the USPTO website, where you can find the copyright information:\n\n&gt; Pursuant to federal law, most government-produced materials appearing on this website are not subject to copyright restrictions within the United States and are therefore in the public domain. Public domain information may be freely distributed and copied, but it is requested that in any subsequent use the United States Patent and Trademark Office (USPTO) be given appropriate acknowledgement (e.g., \u201cSource: United States Patent and Trademark Office, www.uspto.gov\u201d). The USPTO reserves the right to assert copyright protection internationally.\n\n### Acknowledgements\n\nPhoto by <a href=\"https://unsplash.com/@2hmedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">2H Media</a> on <a href=\"https://unsplash.com/s/photos/paperwork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  ",
+  "datasetId": 2015496,
+  "datasetSlug": "cpc-codes",
+  "hasDatasetSlug": true,
+  "ownerUser": "xhlulu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20729,
+  "totalVotes": 227,
+  "totalDownloads": 5376,
+  "title": "Cooperative Patent Classification Codes Meaning",
+  "hasTitle": true,
+  "subtitle": "For the US Patent competition. Source: cooperativepatentclassification.org",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is provided for the [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching) competition. It adds additional information by providing the meaning of each code in the `context` column.\n\nFor more info, check out the [discussion thread](https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching/discussion/314306), and take a look at this [starter notebook](https://www.kaggle.com/code/xhlulu/us-patent-phrase-matching-adding-meaning-of-code) to see how to incorporate the data into the competition.\n\n\n### Content\n\nPreprocessing script here: https://www.kaggle.com/code/xhlulu/download-and-process-cpc\n\n### Licensing\n\nThis data can be found on the USPTO website, where you can find the copyright information:\n\n&gt; Pursuant to federal law, most government-produced materials appearing on this website are not subject to copyright restrictions within the United States and are therefore in the public domain. Public domain information may be freely distributed and copied, but it is requested that in any subsequent use the United States Patent and Trademark Office (USPTO) be given appropriate acknowledgement (e.g., \u201cSource: United States Patent and Trademark Office, www.uspto.gov\u201d). The USPTO reserves the right to assert copyright protection internationally.\n\n### Acknowledgements\n\nPhoto by <a href=\"https://unsplash.com/@2hmedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">2H Media</a> on <a href=\"https://unsplash.com/s/photos/paperwork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "beginner",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "/kepler-exoplanet-search-results",
+  "id_no": 2894,
+  "datasetSlugNullable": "kepler-exoplanet-search-results",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Kepler Exoplanet Search Results",
+  "subtitleNullable": "10000 exoplanet candidates examined by the Kepler Space Observatory",
+  "descriptionNullable": "### Context\n\nThe Kepler Space Observatory is a NASA-build satellite that was launched in 2009. The telescope is dedicated to searching for exoplanets in star systems besides our own, with the ultimate goal of possibly finding other habitable planets besides our own. The original mission ended in 2013 due to mechanical failures, but the telescope has nevertheless been functional since 2014 on a \"K2\" extended mission.\n\nKepler had verified 1284 new exoplanets as of May 2016. As of October 2017 there are over 3000 confirmed exoplanets total (using all detection methods, including ground-based ones). The telescope is still active and continues to collect new data on its extended mission.\n\n### Content\n\nThis dataset is a cumulative record of all observed Kepler \"objects of interest\" &mdash; basically, all of the approximately 10,000 exoplanet candidates Kepler has taken observations on.\n\nThis dataset has an extensive data dictionary, which can be accessed [here](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). Highlightable columns of note are:\n\n* `kepoi_name`: A KOI is a target identified by the Kepler Project that displays at least one transit-like sequence within Kepler time-series photometry that appears to be of astrophysical origin and initially consistent with a planetary transit hypothesis\n* `kepler_name`: [These names] are intended to clearly indicate a class of objects that have been confirmed or validated as planets\u2014a step up from the planet candidate designation.\n* `koi_disposition`: The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED.\n* `koi_pdisposition`: The disposition Kepler data analysis has towards this exoplanet candidate. One of FALSE POSITIVE, NOT DISPOSITIONED, and CANDIDATE.\n* `koi_score `: A value between 0 and 1 that indicates the confidence in the KOI disposition. For CANDIDATEs, a higher value indicates more confidence in its disposition, while for FALSE POSITIVEs, a higher value indicates less confidence in that disposition.\n\n### Acknowledgements\n\nThis dataset was published as-is by NASA. You can access the original table [here](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi). More data from the Kepler mission is available from the same source [here](https://exoplanetarchive.ipac.caltech.edu/docs/data.html).\n\n### Inspiration\n\n* How often are exoplanets confirmed in the existing literature disconfirmed by measurements from Kepler? How about the other way round?\n* What general characteristics about exoplanets (that we can find) can you derive from this dataset?\n* What exoplanets get assigned names in the literature? What is the distribution of confidence scores?\n\nSee also: the [Kepler Labeled Time Series](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data) and [Open Exoplanets Catalogue](https://www.kaggle.com/mrisdal/open-exoplanet-catalogue) datasets.",
+  "datasetId": 2894,
+  "datasetSlug": "kepler-exoplanet-search-results",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 177936,
+  "totalVotes": 783,
+  "totalDownloads": 14956,
+  "title": "Kepler Exoplanet Search Results",
+  "hasTitle": true,
+  "subtitle": "10000 exoplanet candidates examined by the Kepler Space Observatory",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Kepler Space Observatory is a NASA-build satellite that was launched in 2009. The telescope is dedicated to searching for exoplanets in star systems besides our own, with the ultimate goal of possibly finding other habitable planets besides our own. The original mission ended in 2013 due to mechanical failures, but the telescope has nevertheless been functional since 2014 on a \"K2\" extended mission.\n\nKepler had verified 1284 new exoplanets as of May 2016. As of October 2017 there are over 3000 confirmed exoplanets total (using all detection methods, including ground-based ones). The telescope is still active and continues to collect new data on its extended mission.\n\n### Content\n\nThis dataset is a cumulative record of all observed Kepler \"objects of interest\" &mdash; basically, all of the approximately 10,000 exoplanet candidates Kepler has taken observations on.\n\nThis dataset has an extensive data dictionary, which can be accessed [here](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). Highlightable columns of note are:\n\n* `kepoi_name`: A KOI is a target identified by the Kepler Project that displays at least one transit-like sequence within Kepler time-series photometry that appears to be of astrophysical origin and initially consistent with a planetary transit hypothesis\n* `kepler_name`: [These names] are intended to clearly indicate a class of objects that have been confirmed or validated as planets\u2014a step up from the planet candidate designation.\n* `koi_disposition`: The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED.\n* `koi_pdisposition`: The disposition Kepler data analysis has towards this exoplanet candidate. One of FALSE POSITIVE, NOT DISPOSITIONED, and CANDIDATE.\n* `koi_score `: A value between 0 and 1 that indicates the confidence in the KOI disposition. For CANDIDATEs, a higher value indicates more confidence in its disposition, while for FALSE POSITIVEs, a higher value indicates less confidence in that disposition.\n\n### Acknowledgements\n\nThis dataset was published as-is by NASA. You can access the original table [here](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi). More data from the Kepler mission is available from the same source [here](https://exoplanetarchive.ipac.caltech.edu/docs/data.html).\n\n### Inspiration\n\n* How often are exoplanets confirmed in the existing literature disconfirmed by measurements from Kepler? How about the other way round?\n* What general characteristics about exoplanets (that we can find) can you derive from this dataset?\n* What exoplanets get assigned names in the literature? What is the distribution of confidence scores?\n\nSee also: the [Kepler Labeled Time Series](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data) and [Open Exoplanets Catalogue](https://www.kaggle.com/mrisdal/open-exoplanet-catalogue) datasets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "astronomy",
+    "business",
+    "science and technology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

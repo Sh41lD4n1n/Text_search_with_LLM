@@ -1,0 +1,43 @@
+{
+  "id": "crowww/a-large-scale-fish-dataset",
+  "id_no": 1165452,
+  "datasetSlugNullable": "a-large-scale-fish-dataset",
+  "ownerUserNullable": "crowww",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "A Large Scale Fish Dataset",
+  "subtitleNullable": "A Large-Scale Dataset for Fish Segmentation and Classification",
+  "descriptionNullable": "***A Large-Scale Dataset for Segmentation and Classification***\n\nAuthors: O. Ulucan, D. Karakaya, M. Turkan\nDepartment of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey\nCorresponding author: M. Turkan\nContact Information: mehmet.turkan@ieu.edu.tr\n\n- Paper : [A Large-Scale Dataset for Fish Segmentation and Classification](https://ieeexplore.ieee.org/abstract/document/9259867)\n\n***General Introduction***\n\nThis dataset contains 9 different seafood types collected from a supermarket in Izmir, Turkey\nfor a university-industry collaboration project at Izmir University of Economics, and this work\nwas published in ASYU 2020.\nThe dataset includes gilt head bream, red sea bream, sea bass, red mullet, horse mackerel, \nblack sea sprat, striped red mullet, trout, shrimp image samples. \n\nIf you use this dataset in your work, please consider to cite:\n\n@inproceedings{ulucan2020large,\n  title={A Large-Scale Dataset for Fish Segmentation and Classification},\n  author={Ulucan, Oguzhan and Karakaya, Diclehan and Turkan, Mehmet},\n  booktitle={2020 Innovations in Intelligent Systems and Applications Conference (ASYU)},\n  pages={1--5},\n  year={2020},\n  organization={IEEE}\n}\n\n* O.Ulucan, D.Karakaya, and M.Turkan.(2020) A large-scale dataset for fish segmentation and classification.\nIn Conf. Innovations Intell. Syst. Appli. (ASYU)\n\n***Purpose of the work***\n\nThis dataset was collected in order to carry out segmentation, feature extraction, and classification tasks\nand compare the common segmentation, feature extraction, and classification algorithms (Semantic Segmentation, Convolutional Neural Networks, Bag of Features).\nAll of the experiment results prove the usability of our dataset for purposes mentioned above.\n\n\n***Data Gathering Equipment and Data Augmentation***\n\nImages were collected via 2 different cameras, Kodak Easyshare Z650 and Samsung ST60. \nTherefore, the resolution of the images are 2832 x 2128, 1024 x 768, respectively.\n\nBefore the segmentation, feature extraction, and classification process, the dataset was resized to 590 x 445\nby preserving the aspect ratio. After resizing the images, all labels in the dataset were augmented (by flipping and rotating). \n\nAt the end of the augmentation process, the number of total images for each class became 2000; 1000 for the RGB fish images\nand 1000 for their pair-wise ground truth labels. \n\n\n***Description of the dataset***\n\nThe dataset contains 9 different seafood types. For each class, there are 1000 augmented images and their pair-wise augmented ground truths.\nEach class can be found in the \"Fish_Dataset\" file with their ground truth labels. All images for each class are ordered from \"00000.png\" to \"01000.png\".\n \nFor example, if you want to access the ground truth images of the shrimp in the dataset, the order should be followed is \"Fish-&gt;Shrimp-&gt;Shrimp GT\". \n ",
+  "datasetId": 1165452,
+  "datasetSlug": "a-large-scale-fish-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "crowww",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 248252,
+  "totalVotes": 981,
+  "totalDownloads": 23506,
+  "title": "A Large Scale Fish Dataset",
+  "hasTitle": true,
+  "subtitle": "A Large-Scale Dataset for Fish Segmentation and Classification",
+  "hasSubtitle": true,
+  "description": "***A Large-Scale Dataset for Segmentation and Classification***\n\nAuthors: O. Ulucan, D. Karakaya, M. Turkan\nDepartment of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey\nCorresponding author: M. Turkan\nContact Information: mehmet.turkan@ieu.edu.tr\n\n- Paper : [A Large-Scale Dataset for Fish Segmentation and Classification](https://ieeexplore.ieee.org/abstract/document/9259867)\n\n***General Introduction***\n\nThis dataset contains 9 different seafood types collected from a supermarket in Izmir, Turkey\nfor a university-industry collaboration project at Izmir University of Economics, and this work\nwas published in ASYU 2020.\nThe dataset includes gilt head bream, red sea bream, sea bass, red mullet, horse mackerel, \nblack sea sprat, striped red mullet, trout, shrimp image samples. \n\nIf you use this dataset in your work, please consider to cite:\n\n@inproceedings{ulucan2020large,\n  title={A Large-Scale Dataset for Fish Segmentation and Classification},\n  author={Ulucan, Oguzhan and Karakaya, Diclehan and Turkan, Mehmet},\n  booktitle={2020 Innovations in Intelligent Systems and Applications Conference (ASYU)},\n  pages={1--5},\n  year={2020},\n  organization={IEEE}\n}\n\n* O.Ulucan, D.Karakaya, and M.Turkan.(2020) A large-scale dataset for fish segmentation and classification.\nIn Conf. Innovations Intell. Syst. Appli. (ASYU)\n\n***Purpose of the work***\n\nThis dataset was collected in order to carry out segmentation, feature extraction, and classification tasks\nand compare the common segmentation, feature extraction, and classification algorithms (Semantic Segmentation, Convolutional Neural Networks, Bag of Features).\nAll of the experiment results prove the usability of our dataset for purposes mentioned above.\n\n\n***Data Gathering Equipment and Data Augmentation***\n\nImages were collected via 2 different cameras, Kodak Easyshare Z650 and Samsung ST60. \nTherefore, the resolution of the images are 2832 x 2128, 1024 x 768, respectively.\n\nBefore the segmentation, feature extraction, and classification process, the dataset was resized to 590 x 445\nby preserving the aspect ratio. After resizing the images, all labels in the dataset were augmented (by flipping and rotating). \n\nAt the end of the augmentation process, the number of total images for each class became 2000; 1000 for the RGB fish images\nand 1000 for their pair-wise ground truth labels. \n\n\n***Description of the dataset***\n\nThe dataset contains 9 different seafood types. For each class, there are 1000 augmented images and their pair-wise augmented ground truths.\nEach class can be found in the \"Fish_Dataset\" file with their ground truth labels. All images for each class are ordered from \"00000.png\" to \"01000.png\".\n \nFor example, if you want to access the ground truth images of the shrimp in the dataset, the order should be followed is \"Fish-&gt;Shrimp-&gt;Shrimp GT\". \n ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "image",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

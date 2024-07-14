@@ -1,0 +1,40 @@
+{
+  "id": "tush32/motor-vehicle-collisions-crashes",
+  "id_no": 3762389,
+  "datasetSlugNullable": "motor-vehicle-collisions-crashes",
+  "ownerUserNullable": "tush32",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Motor Vehicle Collisions - Crashes",
+  "subtitleNullable": "New York Motor vehicles Collision Dataset",
+  "descriptionNullable": "The Motor Vehicle Collisions crash table contains information about car accidents in New York City. Each row in this table represents a single accident. This data is collected by the police whenever there is an accident involving injuries, fatalities, or significant property damage (more than $1000).\n\nTo better understand and improve traffic safety, the New York City Police Department (NYPD) created a program called TrafficStat in 1998. This program is inspired by another successful program called CompStat, which was originally used to reduce homicides. TrafficStat applies similar principles to reduce fatal traffic accidents.\n\nWhen there is a car accident, the police fill out a form called MV-104AN, which contains all the details about the accident. This form is required for any accident involving injuries or deaths. Before TrafficStat, there was no consistent way to collect and analyze traffic safety data across all NYPD precincts.\n\nIn 1999, the NYPD introduced the Traffic Accident Management System (TAMS), which required precincts to manually enter some basic information from the MV-104AN forms. This information included the number of accidents, injuries, and fatalities at intersections.\n\nAs the years went by, there was a need for more detailed traffic data to better understand and address traffic safety issues. In 2014, a citywide traffic safety initiative called Vision Zero began. Its goal is to eliminate traffic-related fatalities.\n\nIn March 2016, the NYPD replaced TAMS with a new system called the Finest Online Records Management System (FORMS). FORMS allows police officers to electronically enter all the information from MV-104AN forms using department cellphones or computers. This data is stored in a centralized database.\n\nWith FORMS in place, all the details from MV-104AN forms are stored for every traffic accident. This means that analysts can conduct more detailed and thorough studies of traffic safety to help achieve the Vision Zero goal of eliminating traffic fatalities in New York City.",
+  "datasetId": 3762389,
+  "datasetSlug": "motor-vehicle-collisions-crashes",
+  "hasDatasetSlug": true,
+  "ownerUser": "tush32",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5599,
+  "totalVotes": 33,
+  "totalDownloads": 985,
+  "title": "Motor Vehicle Collisions - Crashes",
+  "hasTitle": true,
+  "subtitle": "New York Motor vehicles Collision Dataset",
+  "hasSubtitle": true,
+  "description": "The Motor Vehicle Collisions crash table contains information about car accidents in New York City. Each row in this table represents a single accident. This data is collected by the police whenever there is an accident involving injuries, fatalities, or significant property damage (more than $1000).\n\nTo better understand and improve traffic safety, the New York City Police Department (NYPD) created a program called TrafficStat in 1998. This program is inspired by another successful program called CompStat, which was originally used to reduce homicides. TrafficStat applies similar principles to reduce fatal traffic accidents.\n\nWhen there is a car accident, the police fill out a form called MV-104AN, which contains all the details about the accident. This form is required for any accident involving injuries or deaths. Before TrafficStat, there was no consistent way to collect and analyze traffic safety data across all NYPD precincts.\n\nIn 1999, the NYPD introduced the Traffic Accident Management System (TAMS), which required precincts to manually enter some basic information from the MV-104AN forms. This information included the number of accidents, injuries, and fatalities at intersections.\n\nAs the years went by, there was a need for more detailed traffic data to better understand and address traffic safety issues. In 2014, a citywide traffic safety initiative called Vision Zero began. Its goal is to eliminate traffic-related fatalities.\n\nIn March 2016, the NYPD replaced TAMS with a new system called the Finest Online Records Management System (FORMS). FORMS allows police officers to electronically enter all the information from MV-104AN forms using department cellphones or computers. This data is stored in a centralized database.\n\nWith FORMS in place, all the details from MV-104AN forms are stored for every traffic accident. This means that analysts can conduct more detailed and thorough studies of traffic safety to help achieve the Vision Zero goal of eliminating traffic fatalities in New York City.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

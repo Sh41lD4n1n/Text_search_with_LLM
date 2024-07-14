@@ -1,0 +1,44 @@
+{
+  "id": "gilraitses/whaletagdata",
+  "id_no": 4906811,
+  "datasetSlugNullable": "whaletagdata",
+  "ownerUserNullable": "gilraitses",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "whaleTagData",
+  "subtitleNullable": "Automated behavioral classification using multisensor data collected from whales",
+  "descriptionNullable": "These datasets contain the multisensor data from three distinct whales. \n\nThe multisensor data contains signal characteristics that are known to be indicators of unique animal behaviors.\n\nFor a behavior to be detected and analyzed using automated detection methods, a proxy must exist from which the behavior can be identified. Humpback whales feed by lunging towards their intended prey while simultaneously opening their mouths, thus generating peaks in the norm-jerk signal due to produced and incurred changes in acceleration.\n\nThese events were logged and stored in an annotation tabel that links to an event key table, one for each whale dataset. \n\nAn automated detection method to detect the times of the fin whale (Balaenoptera physalus) and humpback whale (Megaptera novaeangliae) foraging events can be derived from the norm-jerk signal.",
+  "datasetId": 4906811,
+  "datasetSlug": "whaletagdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "gilraitses",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 65,
+  "totalVotes": 0,
+  "totalDownloads": 5,
+  "title": "whaleTagData",
+  "hasTitle": true,
+  "subtitle": "Automated behavioral classification using multisensor data collected from whales",
+  "hasSubtitle": true,
+  "description": "These datasets contain the multisensor data from three distinct whales. \n\nThe multisensor data contains signal characteristics that are known to be indicators of unique animal behaviors.\n\nFor a behavior to be detected and analyzed using automated detection methods, a proxy must exist from which the behavior can be identified. Humpback whales feed by lunging towards their intended prey while simultaneously opening their mouths, thus generating peaks in the norm-jerk signal due to produced and incurred changes in acceleration.\n\nThese events were logged and stored in an annotation tabel that links to an event key table, one for each whale dataset. \n\nAn automated detection method to detect the times of the fin whale (Balaenoptera physalus) and humpback whale (Megaptera novaeangliae) foraging events can be derived from the norm-jerk signal.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "earth science",
+    "animals",
+    "science and technology",
+    "artificial intelligence",
+    "r"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

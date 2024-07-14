@@ -1,0 +1,41 @@
+{
+  "id": "hmchuong/xray-bone-shadow-supression",
+  "id_no": 68239,
+  "datasetSlugNullable": "xray-bone-shadow-supression",
+  "ownerUserNullable": "hmchuong",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "X-ray Bone Shadow Supression",
+  "subtitleNullable": "Chest X-ray for the project https://github.com/hmchuong/ML-BoneSuppression",
+  "descriptionNullable": "### Context\n\nBone suppression is an autoencoder-like model for eliminating bone shadow from Chest X-ray images. The model require two types of dataset: normal and bone-suppression X-ray images. The target model can suppress bone shadow from Chest X-ray images, help Radiologists diagnose better lung related diseases. Although there are some softwares supporting bone suppression (ClearRead, CareStream), this project is a practical open source in computer vision and deep learning.\n\n### Content\n\nThis dataset includes 3 part: Normal Chest X-ray images, Bone Shadow Exclusion Chest X-ray images, and augmented images of the first two parts.",
+  "datasetId": 68239,
+  "datasetSlug": "xray-bone-shadow-supression",
+  "hasDatasetSlug": true,
+  "ownerUser": "hmchuong",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 25612,
+  "totalVotes": 52,
+  "totalDownloads": 2159,
+  "title": "X-ray Bone Shadow Supression",
+  "hasTitle": true,
+  "subtitle": "Chest X-ray for the project https://github.com/hmchuong/ML-BoneSuppression",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBone suppression is an autoencoder-like model for eliminating bone shadow from Chest X-ray images. The model require two types of dataset: normal and bone-suppression X-ray images. The target model can suppress bone shadow from Chest X-ray images, help Radiologists diagnose better lung related diseases. Although there are some softwares supporting bone suppression (ClearRead, CareStream), this project is a practical open source in computer vision and deep learning.\n\n### Content\n\nThis dataset includes 3 part: Normal Chest X-ray images, Bone Shadow Exclusion Chest X-ray images, and augmented images of the first two parts.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

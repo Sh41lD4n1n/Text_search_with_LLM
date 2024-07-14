@@ -1,0 +1,43 @@
+{
+  "id": "kunalgupta2616/dog-vs-cat-images-data",
+  "id_no": 853363,
+  "datasetSlugNullable": "dog-vs-cat-images-data",
+  "ownerUserNullable": "kunalgupta2616",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Dog vs Cat Images Data",
+  "subtitleNullable": "Dogs and Cats Images divided in Train, Test and Validation Data.",
+  "descriptionNullable": "### Brief \n\nThe data consist of 45.5K images of dogs and cats well distributed into 3 different sets. This is the first Dataset uploaded by me at Kaggle.\n\n### Download Api\n**&gt; ` kaggle datasets download -d kunalgupta2616/dog-vs-cat-images-data`**\n\n### Content\n\n### Train Data - consist of 25000 images divided into equal half (12500 * 2) of cats and dogs images in separate directories.\n### Validation Data - consist of 8000 images divided into equal half (4000 * 2) of cats and dogs images in separate directories.\n### Test Data - consist of 12500 images of cats and dogs images.\n### sampleSubmission.csv - The submission file for the test data which can be found at link given under Acknowledgements.\n\n### Acknowledgements\n\nThis is an improvement to the dataset from the competition that can be found at [this link.](https://www.kaggle.com/c/dogs-vs-cats/overview) in terms of addition of more data and hierarchical distribution.",
+  "datasetId": 853363,
+  "datasetSlug": "dog-vs-cat-images-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "kunalgupta2616",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 9491,
+  "totalVotes": 22,
+  "totalDownloads": 1512,
+  "title": "Dog vs Cat Images Data",
+  "hasTitle": true,
+  "subtitle": "Dogs and Cats Images divided in Train, Test and Validation Data.",
+  "hasSubtitle": true,
+  "description": "### Brief \n\nThe data consist of 45.5K images of dogs and cats well distributed into 3 different sets. This is the first Dataset uploaded by me at Kaggle.\n\n### Download Api\n**&gt; ` kaggle datasets download -d kunalgupta2616/dog-vs-cat-images-data`**\n\n### Content\n\n### Train Data - consist of 25000 images divided into equal half (12500 * 2) of cats and dogs images in separate directories.\n### Validation Data - consist of 8000 images divided into equal half (4000 * 2) of cats and dogs images in separate directories.\n### Test Data - consist of 12500 images of cats and dogs images.\n### sampleSubmission.csv - The submission file for the test data which can be found at link given under Acknowledgements.\n\n### Acknowledgements\n\nThis is an improvement to the dataset from the competition that can be found at [this link.](https://www.kaggle.com/c/dogs-vs-cats/overview) in terms of addition of more data and hierarchical distribution.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "deep learning",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

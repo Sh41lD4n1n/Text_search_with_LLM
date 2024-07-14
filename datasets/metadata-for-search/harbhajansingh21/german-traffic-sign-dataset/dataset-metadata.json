@@ -1,0 +1,43 @@
+{
+  "id": "harbhajansingh21/german-traffic-sign-dataset",
+  "id_no": 3504673,
+  "datasetSlugNullable": "german-traffic-sign-dataset",
+  "ownerUserNullable": "harbhajansingh21",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "German Traffic Sign Dataset",
+  "subtitleNullable": "GTSRB Dataset: Comprehensive Resource for Autonomous Vehicle Visual Recognition",
+  "descriptionNullable": "The historical development of road infrastructure has relied on the human visual system as the primary method for perceiving and controlling vehicles. In order for an autonomous driving system to operate safely in existing road environments, it is crucial for it to possess visual recognition capabilities equivalent to those of humans. Visual classification, which includes tasks like object detection and semantic segmentation, plays a critical role in the visual perception of autonomous vehicles, particularly for accurately identifying road signs.\n\nTo facilitate research in this area, the German Traffic Sign Recognition Benchmark (GTSRB) dataset has been created. This dataset consists of images of traffic signs captured from German roads, with each image labeled according to its corresponding class. The dataset focuses on single-image, multi-class classification challenges and does not include any temporal information from the original video footage.\n\nHere are some details about the GTSRB dataset:\n\n1.Each image in the dataset has a resolution of 32 x 32 pixels and is represented in RGB format with three color channels. The pixel values are stored as unsigned 8-bit integers, providing a total of 256 possible values for each pixel.\n\n2.The dataset comprises a total of 43 distinct classes or labels, based on the design or meaning of the traffic signs.\n\n3.The training set consists of 34,799 images, each associated with its corresponding label.\n\n4.The validation set contains 4,410 images, also accompanied by their respective labels.\n\n5.Lastly, the test set comprises 12,630 images, each labeled with its corresponding class.\n\nIn CSV file,there are two columns. One is ClassID (represents the class ID of traffic signs) and another is SignName (represents the name of traffic sign).",
+  "datasetId": 3504673,
+  "datasetSlug": "german-traffic-sign-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harbhajansingh21",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5846,
+  "totalVotes": 31,
+  "totalDownloads": 953,
+  "title": "German Traffic Sign Dataset",
+  "hasTitle": true,
+  "subtitle": "GTSRB Dataset: Comprehensive Resource for Autonomous Vehicle Visual Recognition",
+  "hasSubtitle": true,
+  "description": "The historical development of road infrastructure has relied on the human visual system as the primary method for perceiving and controlling vehicles. In order for an autonomous driving system to operate safely in existing road environments, it is crucial for it to possess visual recognition capabilities equivalent to those of humans. Visual classification, which includes tasks like object detection and semantic segmentation, plays a critical role in the visual perception of autonomous vehicles, particularly for accurately identifying road signs.\n\nTo facilitate research in this area, the German Traffic Sign Recognition Benchmark (GTSRB) dataset has been created. This dataset consists of images of traffic signs captured from German roads, with each image labeled according to its corresponding class. The dataset focuses on single-image, multi-class classification challenges and does not include any temporal information from the original video footage.\n\nHere are some details about the GTSRB dataset:\n\n1.Each image in the dataset has a resolution of 32 x 32 pixels and is represented in RGB format with three color channels. The pixel values are stored as unsigned 8-bit integers, providing a total of 256 possible values for each pixel.\n\n2.The dataset comprises a total of 43 distinct classes or labels, based on the design or meaning of the traffic signs.\n\n3.The training set consists of 34,799 images, each associated with its corresponding label.\n\n4.The validation set contains 4,410 images, also accompanied by their respective labels.\n\n5.Lastly, the test set comprises 12,630 images, each labeled with its corresponding class.\n\nIn CSV file,there are two columns. One is ClassID (represents the class ID of traffic signs) and another is SignName (represents the name of traffic sign).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "automobiles and vehicles",
+    "deep learning",
+    "image classification",
+    "image text recognition"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

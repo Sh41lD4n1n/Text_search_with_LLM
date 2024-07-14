@@ -1,0 +1,43 @@
+{
+  "id": "sprakash08/hand-gestures-recognition",
+  "id_no": 453238,
+  "datasetSlugNullable": "hand-gestures-recognition",
+  "ownerUserNullable": "sprakash08",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Hand Gestures Recognition",
+  "subtitleNullable": "detecting customized hand gestures under noise",
+  "descriptionNullable": "### Context\n\nIn the era of Alexa and Cortana listening to voice commands, yet there is a wide scope for gestures and recognizing them can benefit older people who have no knowledge about the latest speech technologies and also assistance in medical human interaction domain. With these aspects in the mind, I have come up with a custom hand gestures dataset. The challenge of this dataset is that it there is a lot of noise and image size is small. \n\n### Content\nI have created data with train and test. The training set contains images of some of the selected hand gestures and background. The test set contains the test images. The goal is to perform real-time recognition of these gestures in realtime to perform some actions. Here, are some of the images:\n![Four Gesture](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1395159%2F953c9300e27c94164fea7f3c07415957%2Ffour_gesture143.png?generation=1577053163094582&alt=media)\n![L gesture](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1395159%2Fd1b2e48904648942f3d92bf89eb86e75%2Fl_gesture463.png?generation=1577053202202497&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1395159%2F86f4e0dbcfc50948e8d3bb7fb6de1893%2Fthumb_gesture62.png?generation=1577053509488099&alt=media)\n\n\n\n### Acknowledgements\nI would like to acknowledge open source technologies that helped in created such a dataset.\n\n\n### Inspiration\nThe inspiration for this dataset was to control the functions of the keyboard to reduce volume, play music, shutdown computer and lock the computer. A simple CNN was utilized and with OpenCV a real-time recognition is applied.\nI want to share the dataset to the community so that many of the other interested people can apply such data to various fields such as emergency alerts, automatic home automation etc.. ",
+  "datasetId": 453238,
+  "datasetSlug": "hand-gestures-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "sprakash08",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 7840,
+  "totalVotes": 8,
+  "totalDownloads": 483,
+  "title": "Hand Gestures Recognition",
+  "hasTitle": true,
+  "subtitle": "detecting customized hand gestures under noise",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn the era of Alexa and Cortana listening to voice commands, yet there is a wide scope for gestures and recognizing them can benefit older people who have no knowledge about the latest speech technologies and also assistance in medical human interaction domain. With these aspects in the mind, I have come up with a custom hand gestures dataset. The challenge of this dataset is that it there is a lot of noise and image size is small. \n\n### Content\nI have created data with train and test. The training set contains images of some of the selected hand gestures and background. The test set contains the test images. The goal is to perform real-time recognition of these gestures in realtime to perform some actions. Here, are some of the images:\n![Four Gesture](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1395159%2F953c9300e27c94164fea7f3c07415957%2Ffour_gesture143.png?generation=1577053163094582&alt=media)\n![L gesture](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1395159%2Fd1b2e48904648942f3d92bf89eb86e75%2Fl_gesture463.png?generation=1577053202202497&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1395159%2F86f4e0dbcfc50948e8d3bb7fb6de1893%2Fthumb_gesture62.png?generation=1577053509488099&alt=media)\n\n\n\n### Acknowledgements\nI would like to acknowledge open source technologies that helped in created such a dataset.\n\n\n### Inspiration\nThe inspiration for this dataset was to control the functions of the keyboard to reduce volume, play music, shutdown computer and lock the computer. A simple CNN was utilized and with OpenCV a real-time recognition is applied.\nI want to share the dataset to the community so that many of the other interested people can apply such data to various fields such as emergency alerts, automatic home automation etc.. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "software",
+    "classification",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

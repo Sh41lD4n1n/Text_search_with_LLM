@@ -1,0 +1,41 @@
+{
+  "id": "secareanualin/football-events",
+  "id_no": 712,
+  "datasetSlugNullable": "football-events",
+  "ownerUserNullable": "secareanualin",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Football Events",
+  "subtitleNullable": "More than 900,000 events from 9,074 football games across Europe",
+  "descriptionNullable": "Context\n-------------\nMost publicly available football (soccer) statistics are limited to aggregated data such as Goals, Shots, Fouls, Cards. When assessing performance or building predictive models, this simple aggregation, without any context, can be misleading. For example, a team that produced 10 shots on target from long range has a lower chance of scoring than a club that produced the same amount of shots from inside the box. However, metrics derived from this simple count of shots will similarly asses the two teams.\n\nA football game generates much more events and it is very important and interesting to take into account the context in which those events were generated. This dataset should keep sports analytics enthusiasts awake for long hours as the number of questions that can be asked is huge.\n\nContent\n-------\nThis dataset is a result of a very tiresome effort of webscraping and integrating different data sources. The central element is the text commentary. All the events were derived by reverse engineering the text commentary, using regex. Using this, I was able to derive 11 types of events, as well as the main player and secondary player involved in those events and many other statistics. In case I've missed extracting some useful information, you are gladly invited to do so and share your findings. The dataset provides a granular view of 9,074 games, totaling 941,009 events from the biggest 5 European football (soccer) leagues: England, Spain, Germany, Italy, France from 2011/2012 season to 2016/2017 season as of 25.01.2017.\nThere are games that have been played during these seasons for which I could not collect detailed data. Overall, over 90% of the played games during these seasons have event data.\n\n\nThe dataset is organized in 3 files:\n\n - **events.csv** contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com\n -   **ginf.csv** - contains metadata and market odds about each game. odds were collected from oddsportal.com\n - **dictionary.txt** contains a dictionary with the textual description of each categorical variable coded with integers\n\n\nPast Research\n-------------\nI have used this data to:\n\n - create predictive models for football games in order to bet on football outcomes.\n - make visualizations about upcoming games\n - build expected goals models and compare players\n\nInspiration\n-----------\nThere are tons of interesting questions a sports enthusiast can answer with this dataset. For example:\n\n - What is the value of a shot? Or what is the probability of a shot being a goal given it's location, shooter, league, assist method, gamestate, number of players on the pitch, time - known as expected goals (xG) models\n - When are teams more likely to score?\n - Which teams are the best or sloppiest at holding the lead?\n - Which teams or players make the best use of set pieces?\n - In which leagues is the referee more likely to give a card?\n - How do players compare when they shoot with their week foot versus strong foot? Or which players are ambidextrous?\n - Identify different styles of plays (shooting from long range vs shooting from the box, crossing the ball vs passing the ball, use of headers)\n - Which teams have a bias for attacking on a particular flank?\n\nAnd many many more...",
+  "datasetId": 712,
+  "datasetSlug": "football-events",
+  "hasDatasetSlug": true,
+  "ownerUser": "secareanualin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 216487,
+  "totalVotes": 695,
+  "totalDownloads": 30453,
+  "title": "Football Events",
+  "hasTitle": true,
+  "subtitle": "More than 900,000 events from 9,074 football games across Europe",
+  "hasSubtitle": true,
+  "description": "Context\n-------------\nMost publicly available football (soccer) statistics are limited to aggregated data such as Goals, Shots, Fouls, Cards. When assessing performance or building predictive models, this simple aggregation, without any context, can be misleading. For example, a team that produced 10 shots on target from long range has a lower chance of scoring than a club that produced the same amount of shots from inside the box. However, metrics derived from this simple count of shots will similarly asses the two teams.\n\nA football game generates much more events and it is very important and interesting to take into account the context in which those events were generated. This dataset should keep sports analytics enthusiasts awake for long hours as the number of questions that can be asked is huge.\n\nContent\n-------\nThis dataset is a result of a very tiresome effort of webscraping and integrating different data sources. The central element is the text commentary. All the events were derived by reverse engineering the text commentary, using regex. Using this, I was able to derive 11 types of events, as well as the main player and secondary player involved in those events and many other statistics. In case I've missed extracting some useful information, you are gladly invited to do so and share your findings. The dataset provides a granular view of 9,074 games, totaling 941,009 events from the biggest 5 European football (soccer) leagues: England, Spain, Germany, Italy, France from 2011/2012 season to 2016/2017 season as of 25.01.2017.\nThere are games that have been played during these seasons for which I could not collect detailed data. Overall, over 90% of the played games during these seasons have event data.\n\n\nThe dataset is organized in 3 files:\n\n - **events.csv** contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com\n -   **ginf.csv** - contains metadata and market odds about each game. odds were collected from oddsportal.com\n - **dictionary.txt** contains a dictionary with the textual description of each categorical variable coded with integers\n\n\nPast Research\n-------------\nI have used this data to:\n\n - create predictive models for football games in order to bet on football outcomes.\n - make visualizations about upcoming games\n - build expected goals models and compare players\n\nInspiration\n-----------\nThere are tons of interesting questions a sports enthusiast can answer with this dataset. For example:\n\n - What is the value of a shot? Or what is the probability of a shot being a goal given it's location, shooter, league, assist method, gamestate, number of players on the pitch, time - known as expected goals (xG) models\n - When are teams more likely to score?\n - Which teams are the best or sloppiest at holding the lead?\n - Which teams or players make the best use of set pieces?\n - In which leagues is the referee more likely to give a card?\n - How do players compare when they shoot with their week foot versus strong foot? Or which players are ambidextrous?\n - Identify different styles of plays (shooting from long range vs shooting from the box, crossing the ball vs passing the ball, use of headers)\n - Which teams have a bias for attacking on a particular flank?\n\nAnd many many more...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

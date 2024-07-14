@@ -1,0 +1,50 @@
+{
+  "id": "wildlifedatasets/seaturtleidheads",
+  "id_no": 2616381,
+  "datasetSlugNullable": "seaturtleidheads",
+  "ownerUserNullable": "wildlifedatasets",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "SeaTurtleIDHeads",
+  "subtitleNullable": "Dataset with 400 different sea turtle individuals. Can you recognize them?",
+  "descriptionNullable": "The goal of this dataset is to design numerical methods to recognize individual sea turtles using their unique scale patterns. You may want to check our other work:\n\n- [wildlife-datasets](https://github.com/WildlifeDatasets/wildlife-datasets): Python library summarizing public re-identification datasets.\n- [wildlife-tools](https://github.com/WildlifeDatasets/wildlife-tools): Python library providing tools for training re-identification model.\n- [Paper 1](https://openaccess.thecvf.com/content/WACV2024/html/Adam_SeaTurtleID2022_A_Long-Span_Dataset_for_Reliable_Sea_Turtle_Re-Identification_WACV_2024_paper.html): Paper associated with this dataset.\n- [Paper 2](https://openaccess.thecvf.com/content/WACV2024/html/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.html): Paper associated with the Python packages mentioned above.\n\n### **Dataset description:**\n\nThis dataset is part of a family of the following datasets:\n- [SeaTurtleID2022](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022):  Public datasets of images rescaled to the maximum size 2000 pixels. This dataset is recommended for tasks related to segmentation masks.\n- SeaTurtleIDHeads (this dataset): Public datasets of images of cropped heads. This dataset is recommended for tasks related to re-identification and turtle detection. The resolution of the heads are higher than in SeaTurtleID2022.\n\nThese datasets contain 7582 photos of 400 unique individuals collected within 12 years in 1081 encounters. A basic overview is of the dataset is provided in [an associated notebook](https://www.kaggle.com/code/wildlifedatasets/seaturtleidheads-overview).\n\n### **The dataset may be used under the following requirements:**\n- All the photographs in the dataset SeaTurtleID and associated documentation files (henceforth \"the Dataset\") are the property of Kostas Papafitsoros (henceforth \"the Owner\"). The Owner retains the full copyright of the photographs of the Dataset.\n- The Dataset can be used to develop, test, analyse existing and future algorithms in machine learning, imaging science and computer vision. Reproduction of reasonable number of photographs of the Dataset in relevant scientific publications, preprints, posters, presentations from these disciplines is allowed, provided that the present paper is properly cited. No other reproduction of the photographs of the Dataset (printed or digital, including for personal use) is allowed.\n- No commercial use of the photographs of the Dataset is allowed whatsoever. This includes commercial use of algorithms that were \"trained'' using the dataset.\n- The Dataset cannot be used in studies that focus on biological, ecological, and/or conservation aspects of marine turtles. For such use, the Owner must be contacted in advance and must give his explicit permission.",
+  "datasetId": 2616381,
+  "datasetSlug": "seaturtleidheads",
+  "hasDatasetSlug": true,
+  "ownerUser": "wildlifedatasets",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1797,
+  "totalVotes": 14,
+  "totalDownloads": 295,
+  "title": "SeaTurtleIDHeads",
+  "hasTitle": true,
+  "subtitle": "Dataset with 400 different sea turtle individuals. Can you recognize them?",
+  "hasSubtitle": true,
+  "description": "The goal of this dataset is to design numerical methods to recognize individual sea turtles using their unique scale patterns. You may want to check our other work:\n\n- [wildlife-datasets](https://github.com/WildlifeDatasets/wildlife-datasets): Python library summarizing public re-identification datasets.\n- [wildlife-tools](https://github.com/WildlifeDatasets/wildlife-tools): Python library providing tools for training re-identification model.\n- [Paper 1](https://openaccess.thecvf.com/content/WACV2024/html/Adam_SeaTurtleID2022_A_Long-Span_Dataset_for_Reliable_Sea_Turtle_Re-Identification_WACV_2024_paper.html): Paper associated with this dataset.\n- [Paper 2](https://openaccess.thecvf.com/content/WACV2024/html/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.html): Paper associated with the Python packages mentioned above.\n\n### **Dataset description:**\n\nThis dataset is part of a family of the following datasets:\n- [SeaTurtleID2022](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022):  Public datasets of images rescaled to the maximum size 2000 pixels. This dataset is recommended for tasks related to segmentation masks.\n- SeaTurtleIDHeads (this dataset): Public datasets of images of cropped heads. This dataset is recommended for tasks related to re-identification and turtle detection. The resolution of the heads are higher than in SeaTurtleID2022.\n\nThese datasets contain 7582 photos of 400 unique individuals collected within 12 years in 1081 encounters. A basic overview is of the dataset is provided in [an associated notebook](https://www.kaggle.com/code/wildlifedatasets/seaturtleidheads-overview).\n\n### **The dataset may be used under the following requirements:**\n- All the photographs in the dataset SeaTurtleID and associated documentation files (henceforth \"the Dataset\") are the property of Kostas Papafitsoros (henceforth \"the Owner\"). The Owner retains the full copyright of the photographs of the Dataset.\n- The Dataset can be used to develop, test, analyse existing and future algorithms in machine learning, imaging science and computer vision. Reproduction of reasonable number of photographs of the Dataset in relevant scientific publications, preprints, posters, presentations from these disciplines is allowed, provided that the present paper is properly cited. No other reproduction of the photographs of the Dataset (printed or digital, including for personal use) is allowed.\n- No commercial use of the photographs of the Dataset is allowed whatsoever. This includes commercial use of algorithms that were \"trained'' using the dataset.\n- The Dataset cannot be used in studies that focus on biological, ecological, and/or conservation aspects of marine turtles. For such use, the Owner must be contacted in advance and must give his explicit permission.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "vojtacermak",
+      "role": "writer"
+    },
+    {
+      "username": "kpapafitsoros",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

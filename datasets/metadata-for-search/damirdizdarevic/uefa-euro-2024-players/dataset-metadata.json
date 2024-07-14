@@ -1,0 +1,43 @@
+{
+  "id": "damirdizdarevic/uefa-euro-2024-players",
+  "id_no": 5175679,
+  "datasetSlugNullable": "uefa-euro-2024-players",
+  "ownerUserNullable": "damirdizdarevic",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "UEFA EURO 2024 - Players",
+  "subtitleNullable": "Basic info of players from UEFA EURO 2024, collected on Transfermarkt",
+  "descriptionNullable": "Dataset of all the players that are in the squad of the teams participating in the UEFA EURO 2024. Contains info about clubs, age, height, market value etc. which can be very good for EDA and Data Visualizations.",
+  "datasetId": 5175679,
+  "datasetSlug": "uefa-euro-2024-players",
+  "hasDatasetSlug": true,
+  "ownerUser": "damirdizdarevic",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11253,
+  "totalVotes": 63,
+  "totalDownloads": 3036,
+  "title": "UEFA EURO 2024 - Players",
+  "hasTitle": true,
+  "subtitle": "Basic info of players from UEFA EURO 2024, collected on Transfermarkt",
+  "hasSubtitle": true,
+  "description": "Dataset of all the players that are in the squad of the teams participating in the UEFA EURO 2024. Contains info about clubs, age, height, market value etc. which can be very good for EDA and Data Visualizations.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "data visualization",
+    "data analytics",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sharansmenon/aquarium-dataset",
+  "id_no": 1849949,
+  "datasetSlugNullable": "aquarium-dataset",
+  "ownerUserNullable": "sharansmenon",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Aquarium Dataset",
+  "subtitleNullable": "Dataset of 6 types of Aquatic Animals, from Roboflow",
+  "descriptionNullable": "# Aquarium Dataset\n\nThis dataset is an object detection dataset. It has 7 classes listed down below\n\n- fish\n- stingray\n- jellyfish\n- penguin\n- shark\n- puffin\n- starfish\n\nThese are common animals that are seen at an aquarium and are more of a toy dataset. Check out the faster-rcnn training notebook to get started. \n\nData obtained from roboflow: [https://public.roboflow.com/object-detection/aquarium](https://public.roboflow.com/object-detection/aquarium)",
+  "datasetId": 1849949,
+  "datasetSlug": "aquarium-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sharansmenon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 12887,
+  "totalVotes": 17,
+  "totalDownloads": 1963,
+  "title": "Aquarium Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 6 types of Aquatic Animals, from Roboflow",
+  "hasSubtitle": true,
+  "description": "# Aquarium Dataset\n\nThis dataset is an object detection dataset. It has 7 classes listed down below\n\n- fish\n- stingray\n- jellyfish\n- penguin\n- shark\n- puffin\n- starfish\n\nThese are common animals that are seen at an aquarium and are more of a toy dataset. Check out the faster-rcnn training notebook to get started. \n\nData obtained from roboflow: [https://public.roboflow.com/object-detection/aquarium](https://public.roboflow.com/object-detection/aquarium)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

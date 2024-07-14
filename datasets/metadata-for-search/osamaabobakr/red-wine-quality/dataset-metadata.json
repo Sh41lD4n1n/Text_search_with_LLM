@@ -1,0 +1,39 @@
+{
+  "id": "osamaabobakr/red-wine-quality",
+  "id_no": 5272901,
+  "datasetSlugNullable": "red-wine-quality",
+  "ownerUserNullable": "osamaabobakr",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Red Wine Quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5272901,
+  "datasetSlug": "red-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "osamaabobakr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 5,
+  "totalVotes": 4,
+  "totalDownloads": 0,
+  "title": "Red Wine Quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

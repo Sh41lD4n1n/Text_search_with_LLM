@@ -1,0 +1,43 @@
+{
+  "id": "anirudhg15/mammals-classification",
+  "id_no": 1624737,
+  "datasetSlugNullable": "mammals-classification",
+  "ownerUserNullable": "anirudhg15",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Mammals classification",
+  "subtitleNullable": "Animals (mammals) classification",
+  "descriptionNullable": "### About\n\nThis is a compilation of the various animal images such as bear, cat, dog, elephant, lion, goat, horse, lion, tiger and wolf\n\n\n### Content\n This dataset has been compiled and arranged in the imagenet style:\n-- mammals\n    -- bear\n        -- 00000.jpg\n             ....\n    -- cat\n         -- 00000.jpg\n              .....\n     \n\n### Acknowledgements\n\nCompilation of this dataset is through the DuckDuckGo image download functionality, part of the fastback chapter 2. I would like to thank everyone associated with fast.ai, including but not limited to its contributor/developers, reading groups and community",
+  "datasetId": 1624737,
+  "datasetSlug": "mammals-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "anirudhg15",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 15042,
+  "totalVotes": 37,
+  "totalDownloads": 1657,
+  "title": "Mammals classification",
+  "hasTitle": true,
+  "subtitle": "Animals (mammals) classification",
+  "hasSubtitle": true,
+  "description": "### About\n\nThis is a compilation of the various animal images such as bear, cat, dog, elephant, lion, goat, horse, lion, tiger and wolf\n\n\n### Content\n This dataset has been compiled and arranged in the imagenet style:\n-- mammals\n    -- bear\n        -- 00000.jpg\n             ....\n    -- cat\n         -- 00000.jpg\n              .....\n     \n\n### Acknowledgements\n\nCompilation of this dataset is through the DuckDuckGo image download functionality, part of the fastback chapter 2. I would like to thank everyone associated with fast.ai, including but not limited to its contributor/developers, reading groups and community",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

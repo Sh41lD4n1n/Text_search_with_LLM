@@ -1,0 +1,41 @@
+{
+  "id": "jensenbaxter/10dataset-text-document-classification",
+  "id_no": 701505,
+  "datasetSlugNullable": "10dataset-text-document-classification",
+  "ownerUserNullable": "jensenbaxter",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "(10)Dataset Text Document Classification",
+  "subtitleNullable": "A collection of ~1000 newsgroup documents from 10 different newsgroups",
+  "descriptionNullable": "### Context\n\nThis dataset is a collection newsgroup documents. The 10 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.\n\n\n### Content\nThere is file (class.txt) that contains a reference to the document_id number and the newsgroup it is associated with.\nThere are also 10 files that contain all of the documents, one document per newsgroup.\n\nIn this dataset, duplicate messages have been removed and the original messages only contain \"From\" and \"Subject\" headers (1000 messages total).\n\nEach new message in the bundled file begins with these four headers:\n\nThe Newsgroup and Document_id can be referenced against class.txt\n\nOrganization\n\nEach newsgroup file in the bundle represents a single newsgroup\nEach message in a file is the text of some newsgroup document that was posted to that newsgroup.\nThis is a list of the 10 newsgroups:\nbusiness\nentertainment\nfood\ngraphics\nhistorical\nmedical\npolitics\nspace\nsport\ntechnologie\n\n### Acknowledgements\n\nKen Lang is credited by the source for collecting this data. The source of the data files is here:\nhttp://qwone.com/~jason/20Newsgroups/\n\n\n### Inspiration\n\nThis dataset text can be used to classify text documents",
+  "datasetId": 701505,
+  "datasetSlug": "10dataset-text-document-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "jensenbaxter",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 35283,
+  "totalVotes": 39,
+  "totalDownloads": 5165,
+  "title": "(10)Dataset Text Document Classification",
+  "hasTitle": true,
+  "subtitle": "A collection of ~1000 newsgroup documents from 10 different newsgroups",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is a collection newsgroup documents. The 10 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.\n\n\n### Content\nThere is file (class.txt) that contains a reference to the document_id number and the newsgroup it is associated with.\nThere are also 10 files that contain all of the documents, one document per newsgroup.\n\nIn this dataset, duplicate messages have been removed and the original messages only contain \"From\" and \"Subject\" headers (1000 messages total).\n\nEach new message in the bundled file begins with these four headers:\n\nThe Newsgroup and Document_id can be referenced against class.txt\n\nOrganization\n\nEach newsgroup file in the bundle represents a single newsgroup\nEach message in a file is the text of some newsgroup document that was posted to that newsgroup.\nThis is a list of the 10 newsgroups:\nbusiness\nentertainment\nfood\ngraphics\nhistorical\nmedical\npolitics\nspace\nsport\ntechnologie\n\n### Acknowledgements\n\nKen Lang is credited by the source for collecting this data. The source of the data files is here:\nhttp://qwone.com/~jason/20Newsgroups/\n\n\n### Inspiration\n\nThis dataset text can be used to classify text documents",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "anokas/kuzushiji",
+  "id_no": 89887,
+  "datasetSlugNullable": "kuzushiji",
+  "ownerUserNullable": "anokas",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Kuzushiji-MNIST",
+  "subtitleNullable": "Classify handwritten characters in ancient Japanese manuscripts",
+  "descriptionNullable": "## Background ##\n\n![scroll][1]\n\nRecorded historical documents give us a peek into the past. We are able to glimpse the world before our time; and see its culture, norms, and values to reflect on our own. Japan has very unique historical pathway. Historically, Japan and its culture was relatively isolated from the West, until the Meiji restoration in 1868 where Japanese leaders reformed its education system to modernize its culture. This caused drastic changes in the Japanese language, writing and printing systems. Due to the modernization of Japanese language in this era, cursive Kuzushiji (\u304f\u305a\u3057\u5b57) script is no longer taught in the official school curriculum. Even though Kuzushiji had been used for over 1000 years, most Japanese natives today cannot read books written or published over 150 years ago.\n\nThe result is that there are hundreds of thousands of Kuzushiji texts that have been digitised but have never been transcribed, and can only currently be read by a few experts. We've built Kuzushiji-MNIST and sister datasets by taking handwritten characters from these texts and preprocessing them in a format similar to the MNIST dataset, to create easy to use benchmark datasets that are more modern and difficult to classify than the original MNIST dataset.\n\nBy releasing these datasets, we're also hoping to bring together the fields of Japanese literature and ML \ud83d\ude0a\n\n\ud83d\udcda [Read the paper](https://arxiv.org/abs/1812.01718) to learn more about Kuzushiji, the datasets and our motivations for making them!\n\n## The datasets ##\n\n 1. **Kuzushiji-MNIST** is a drop-in replacement for the MNIST dataset (28x28 grayscale, 70,000 images), provided in the original MNIST format as well as a NumPy format. Since MNIST restricts us to 10 classes, we chose one character to represent each of the 10 rows of Hiragana when creating Kuzushiji-MNIST.\n\n - `kmnist-[train/test]-[images/labels].npz`: These files contain the\n   Kuzushiji-MNIST as compressed numpy arrays, and can be read with:\n   `arr = np.load(filename)['arr_0']`. We recommend using these files to\n   load the dataset. \n - `[train/t10k]-[images/labels]-idx[1/3]-ubyte.gz`:\n   These files contain `Kuzushiji-MNIST` with the same file format and\n   filenames as the original MNIST for drop-in compatibility.\n - `kmnist-classmap.csv`: A mapping from class IDs to unicode characters\n   for Kuzushiji-MNIST\n\nSome examples of Kuzushiji-MNIST with the first column being the modern Hiragana counterpart:\n![Kuzushiji-MNIST examples][2]\n\n2. **Kuzushiji-49**, as the name suggests, has 49 classes (28x28 grayscale, 270,912 images), is a much larger, but imbalanced dataset containing 48 Hiragana characters and one Hiragana iteration mark.\n\n - `k49-[train/test]-[images/labels].npz`: These files contain the Kuzushiji-49 as compressed numpy arrays    \n - `k49-classmap.csv`: A mapping from class IDs to unicode characters for Kuzushiji-49\n\n3. **Kuzushiji-Kanji** is an imbalanced dataset of total 3832 Kanji characters (64x64 grayscale, 140,426 images), ranging from 1,766 examples to only a single example per class. *We're also planning to release a train-test split for this dataset soon.*\n\n - `kkanji2/`: This folder contains subfolders of images, with each subfolder corresponding to one Kanji character class.\n\n![Kuzushiji-Kanji examples][3]\n\n## License ##\nThe dataset is licensed under a permissive CC BY-SA 4.0 license, which requires attribution, and we would suggest to use the following attribution to the KMNIST dataset:\n\n\"KMNIST Dataset\" (created by CODH), adapted from \"Kuzushiji Dataset\" (created by NIJL and others), doi:10.20676/00000341\n\n  [1]: https://i.imgur.com/dhBM3BG.jpg\n  [2]: https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png\n  [3]: https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png",
+  "datasetId": 89887,
+  "datasetSlug": "kuzushiji",
+  "hasDatasetSlug": true,
+  "ownerUser": "anokas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 63057,
+  "totalVotes": 219,
+  "totalDownloads": 9453,
+  "title": "Kuzushiji-MNIST",
+  "hasTitle": true,
+  "subtitle": "Classify handwritten characters in ancient Japanese manuscripts",
+  "hasSubtitle": true,
+  "description": "## Background ##\n\n![scroll][1]\n\nRecorded historical documents give us a peek into the past. We are able to glimpse the world before our time; and see its culture, norms, and values to reflect on our own. Japan has very unique historical pathway. Historically, Japan and its culture was relatively isolated from the West, until the Meiji restoration in 1868 where Japanese leaders reformed its education system to modernize its culture. This caused drastic changes in the Japanese language, writing and printing systems. Due to the modernization of Japanese language in this era, cursive Kuzushiji (\u304f\u305a\u3057\u5b57) script is no longer taught in the official school curriculum. Even though Kuzushiji had been used for over 1000 years, most Japanese natives today cannot read books written or published over 150 years ago.\n\nThe result is that there are hundreds of thousands of Kuzushiji texts that have been digitised but have never been transcribed, and can only currently be read by a few experts. We've built Kuzushiji-MNIST and sister datasets by taking handwritten characters from these texts and preprocessing them in a format similar to the MNIST dataset, to create easy to use benchmark datasets that are more modern and difficult to classify than the original MNIST dataset.\n\nBy releasing these datasets, we're also hoping to bring together the fields of Japanese literature and ML \ud83d\ude0a\n\n\ud83d\udcda [Read the paper](https://arxiv.org/abs/1812.01718) to learn more about Kuzushiji, the datasets and our motivations for making them!\n\n## The datasets ##\n\n 1. **Kuzushiji-MNIST** is a drop-in replacement for the MNIST dataset (28x28 grayscale, 70,000 images), provided in the original MNIST format as well as a NumPy format. Since MNIST restricts us to 10 classes, we chose one character to represent each of the 10 rows of Hiragana when creating Kuzushiji-MNIST.\n\n - `kmnist-[train/test]-[images/labels].npz`: These files contain the\n   Kuzushiji-MNIST as compressed numpy arrays, and can be read with:\n   `arr = np.load(filename)['arr_0']`. We recommend using these files to\n   load the dataset. \n - `[train/t10k]-[images/labels]-idx[1/3]-ubyte.gz`:\n   These files contain `Kuzushiji-MNIST` with the same file format and\n   filenames as the original MNIST for drop-in compatibility.\n - `kmnist-classmap.csv`: A mapping from class IDs to unicode characters\n   for Kuzushiji-MNIST\n\nSome examples of Kuzushiji-MNIST with the first column being the modern Hiragana counterpart:\n![Kuzushiji-MNIST examples][2]\n\n2. **Kuzushiji-49**, as the name suggests, has 49 classes (28x28 grayscale, 270,912 images), is a much larger, but imbalanced dataset containing 48 Hiragana characters and one Hiragana iteration mark.\n\n - `k49-[train/test]-[images/labels].npz`: These files contain the Kuzushiji-49 as compressed numpy arrays    \n - `k49-classmap.csv`: A mapping from class IDs to unicode characters for Kuzushiji-49\n\n3. **Kuzushiji-Kanji** is an imbalanced dataset of total 3832 Kanji characters (64x64 grayscale, 140,426 images), ranging from 1,766 examples to only a single example per class. *We're also planning to release a train-test split for this dataset soon.*\n\n - `kkanji2/`: This folder contains subfolders of images, with each subfolder corresponding to one Kanji character class.\n\n![Kuzushiji-Kanji examples][3]\n\n## License ##\nThe dataset is licensed under a permissive CC BY-SA 4.0 license, which requires attribution, and we would suggest to use the following attribution to the KMNIST dataset:\n\n\"KMNIST Dataset\" (created by CODH), adapted from \"Kuzushiji Dataset\" (created by NIJL and others), doi:10.20676/00000341\n\n  [1]: https://i.imgur.com/dhBM3BG.jpg\n  [2]: https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kmnist_examples.png\n  [3]: https://raw.githubusercontent.com/rois-codh/kmnist/master/images/kkanji_examples.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "culture and humanities",
+    "literature",
+    "computer science",
+    "classification",
+    "image",
+    "multiclass classification",
+    "japan"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mrisdal",
+      "role": "writer"
+    },
+    {
+      "username": "tkasasagi",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

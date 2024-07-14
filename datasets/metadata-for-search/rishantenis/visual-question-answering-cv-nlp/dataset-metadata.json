@@ -1,0 +1,39 @@
+{
+  "id": "rishantenis/visual-question-answering-cv-nlp",
+  "id_no": 4986874,
+  "datasetSlugNullable": "visual-question-answering-cv-nlp",
+  "ownerUserNullable": "rishantenis",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Visual_Question_Answering-CV-NLP",
+  "subtitleNullable": "",
+  "descriptionNullable": "VQA, or Visual Question Answering, is a multifaceted challenge that tasks models with providing coherent responses to natural language questions posed about images. This intricate task demands a deep understanding of both the visual content and the semantic nuances embedded within the questions. By bridging the realms of Computer Vision and Natural Language Processing, VQA addresses a plethora of sub-problems, including object detection, scene classification, and more, rendering it a quintessential benchmark in the realm of AI",
+  "datasetId": 4986874,
+  "datasetSlug": "visual-question-answering-cv-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishantenis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 24,
+  "totalVotes": 5,
+  "totalDownloads": 21,
+  "title": "Visual_Question_Answering-CV-NLP",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "VQA, or Visual Question Answering, is a multifaceted challenge that tasks models with providing coherent responses to natural language questions posed about images. This intricate task demands a deep understanding of both the visual content and the semantic nuances embedded within the questions. By bridging the realms of Computer Vision and Natural Language Processing, VQA addresses a plethora of sub-problems, including object detection, scene classification, and more, rendering it a quintessential benchmark in the realm of AI",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "jobs and career"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

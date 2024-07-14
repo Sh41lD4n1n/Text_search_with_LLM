@@ -1,0 +1,41 @@
+{
+  "id": "laibaanwer/superstore-sales-dataset",
+  "id_no": 2711538,
+  "datasetSlugNullable": "superstore-sales-dataset",
+  "ownerUserNullable": "laibaanwer",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "SuperStore Sales Dataset",
+  "subtitleNullable": "Dataset for the Global Superstore",
+  "descriptionNullable": "By Superstore Dataset, I thought I could learn and experiment with different offerings and functionalities available in Python, Matplotlib, Seaborn and Numpy. The vast dataset provides a base to interact with visualizations, drill down into the specifics of Data handling and provide samples for performing Data transformations.\nThe sample Dataset includes data for the Sales of multiple products sold by the store along with subsequent information related to geography, Product categories, and subcategories, sales, and profits, segmentation amongst the consumers, etc. This sample Dataset presents a common use case, from which I could gather useful insights from the Sales data in order to improve the Marketing and Sales strategies. I can learn about various operations and elements using this sample Dataset and come up with better strategies to improve and grow the business more.\n \nThe Dataset:\nLink of the Dataset: https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset\n\nThe dataset has 51,291 rows and 21 columns.\n",
+  "datasetId": 2711538,
+  "datasetSlug": "superstore-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "laibaanwer",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 35766,
+  "totalVotes": 65,
+  "totalDownloads": 7308,
+  "title": "SuperStore Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for the Global Superstore",
+  "hasSubtitle": true,
+  "description": "By Superstore Dataset, I thought I could learn and experiment with different offerings and functionalities available in Python, Matplotlib, Seaborn and Numpy. The vast dataset provides a base to interact with visualizations, drill down into the specifics of Data handling and provide samples for performing Data transformations.\nThe sample Dataset includes data for the Sales of multiple products sold by the store along with subsequent information related to geography, Product categories, and subcategories, sales, and profits, segmentation amongst the consumers, etc. This sample Dataset presents a common use case, from which I could gather useful insights from the Sales data in order to improve the Marketing and Sales strategies. I can learn about various operations and elements using this sample Dataset and come up with better strategies to improve and grow the business more.\n \nThe Dataset:\nLink of the Dataset: https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset\n\nThe dataset has 51,291 rows and 21 columns.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "programming"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

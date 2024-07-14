@@ -1,0 +1,40 @@
+{
+  "id": "saurabhshahane/statsbomb-football-data",
+  "id_no": 1731043,
+  "datasetSlugNullable": "statsbomb-football-data",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Stats-Bomb Football Data",
+  "subtitleNullable": "Stats-Bomb Football Analytics Data",
+  "descriptionNullable": "StatsBomb Open Data\n\nStatsBomb are committed to sharing new data and research publicly to enhance understanding of the game of Football. We want to actively encourage new research and analysis at all levels. Therefore we have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics.\n\nStatsBomb are hoping that by making data freely available, we will extend the wider football analytics community and attract new talent to the industry. We would like to collect some basic personal information about users of our data. By giving us your email address, it means we will let you know when we make more data, tutorials and research available. We will store the information in accordance with our Privacy Policy and the GDPR.\n\nWhilst we are keen to share data and facilitate research, we also urge you to be responsible with the data. Please register your details on https://www.statsbomb.com/resource-centre and read our User Agreement carefully.\n\nTerms & Conditions\nBy using this repository, you are agreeing to the user agreement.\n\nIf you publish, share or distribute any research, analysis or insights based on this data, please state the data source as StatsBomb and use our logo, available in our Media Pack.\n\nGetting Started\nThe data is provided as JSON files exported from the StatsBomb Data API, in the following structure:\n\nCompetition and seasons stored in competitions.json.\nMatches for each competition and season, stored in matches. Each folder within is named for a competition ID, each file is named for a season ID within that competition.\nEvents and lineups for each match, stored in events and lineups respectively. Each file is named for a match ID.\nStatsBomb 360 data for selected matches, stored in three-sixty. Each file is named for a match ID.\nSome documentation about the meaning of different events and the format of the JSON can be found in the doc directory.\n\n",
+  "datasetId": 1731043,
+  "datasetSlug": "statsbomb-football-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 15669,
+  "totalVotes": 76,
+  "totalDownloads": 1380,
+  "title": "Stats-Bomb Football Data",
+  "hasTitle": true,
+  "subtitle": "Stats-Bomb Football Analytics Data",
+  "hasSubtitle": true,
+  "description": "StatsBomb Open Data\n\nStatsBomb are committed to sharing new data and research publicly to enhance understanding of the game of Football. We want to actively encourage new research and analysis at all levels. Therefore we have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics.\n\nStatsBomb are hoping that by making data freely available, we will extend the wider football analytics community and attract new talent to the industry. We would like to collect some basic personal information about users of our data. By giving us your email address, it means we will let you know when we make more data, tutorials and research available. We will store the information in accordance with our Privacy Policy and the GDPR.\n\nWhilst we are keen to share data and facilitate research, we also urge you to be responsible with the data. Please register your details on https://www.statsbomb.com/resource-centre and read our User Agreement carefully.\n\nTerms & Conditions\nBy using this repository, you are agreeing to the user agreement.\n\nIf you publish, share or distribute any research, analysis or insights based on this data, please state the data source as StatsBomb and use our logo, available in our Media Pack.\n\nGetting Started\nThe data is provided as JSON files exported from the StatsBomb Data API, in the following structure:\n\nCompetition and seasons stored in competitions.json.\nMatches for each competition and season, stored in matches. Each folder within is named for a competition ID, each file is named for a season ID within that competition.\nEvents and lineups for each match, stored in events and lineups respectively. Each file is named for a match ID.\nStatsBomb 360 data for selected matches, stored in three-sixty. Each file is named for a match ID.\nSome documentation about the meaning of different events and the format of the JSON can be found in the doc directory.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

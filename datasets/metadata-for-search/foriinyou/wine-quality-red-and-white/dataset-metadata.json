@@ -1,0 +1,39 @@
+{
+  "id": "foriinyou/wine-quality-red-and-white",
+  "id_no": 1772512,
+  "datasetSlugNullable": "wine-quality-red-and-white",
+  "ownerUserNullable": "foriinyou",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Wine Quality Red and White",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1772512,
+  "datasetSlug": "wine-quality-red-and-white",
+  "hasDatasetSlug": true,
+  "ownerUser": "foriinyou",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 610,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "Wine Quality Red and White",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

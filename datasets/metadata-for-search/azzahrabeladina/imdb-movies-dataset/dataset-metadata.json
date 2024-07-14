@@ -1,0 +1,45 @@
+{
+  "id": "azzahrabeladina/imdb-movies-dataset",
+  "id_no": 3373880,
+  "datasetSlugNullable": "imdb-movies-dataset",
+  "ownerUserNullable": "azzahrabeladina",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "IMDB Movies Dataset",
+  "subtitleNullable": "Top 1000 Movies by IMDB rating",
+  "descriptionNullable": "",
+  "datasetId": 3373880,
+  "datasetSlug": "imdb-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "azzahrabeladina",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 74,
+  "totalVotes": 0,
+  "totalDownloads": 10,
+  "title": "IMDB Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Top 1000 Movies by IMDB rating",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nabilahazzahraa",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

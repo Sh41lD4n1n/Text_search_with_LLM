@@ -1,0 +1,60 @@
+{
+  "id": "debeshjha1/endotect-dataset",
+  "id_no": 1316980,
+  "datasetSlugNullable": "endotect-dataset",
+  "ownerUserNullable": "debeshjha1",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "EndoTect Dataset",
+  "subtitleNullable": " polyp segmentation  and GI classification dataset (https://endotect.com/)",
+  "descriptionNullable": "Dataset Details\nLabeled Images. In total, the dataset contains 10,662 labeled images stored using the JPEG format. The images can be found in the images folder. The classes, which each of the images belongto, correspond to the folder they are stored in (e.g., the \"polyp\" folder contains all polyp images, the \"barretts\" folder contains all images of Barrett\u2019s esophagus, etc.). The number of images per class are not balanced, which is a general challenge in the medical field due to the fact that some findings occur more often than others. This adds an additional challenge for researchers, since methods applied to the data should also be able to learn from a small amount of training data. The labeled images represent 23 different classes of findings.\n\nUnlabeled Images. In total, the dataset contains 99,417 unlabeled images. The unlabeled images can be found in the unlabeled folder which is a subfolder in the image folder, together with the other labeled image folders. In addition to the unlabeled image files, we also provide the extracted global features and cluster assignments in the Hyper-Kvasir Github repository as Attribute-Relation File Format (ARFF) files. ARFF files can be opened and processed using, for example, the WEKA machine learning library, or they can easily be converted into comma-separated values (CSV) files.\n\nSegmented Images. We provide the original image, a segmentation mask and a bounding box for 1,000 images from the polyp class. In the mask, the pixels depicting polyp tissue, the region of interest, are represented by the foreground (white mask), while the background (in black) does not contain polyp pixels. The bounding box is defined as the outermost pixels of the found polyp. For this segmentation set, we have two folders, one for images and one for masks, each containing 1,000 JPEG-compressed images. The bounding boxes for the corresponding images are stored in a JavaScript Object Notation (JSON) file. The image and its corresponding mask have the same filename. The images and files are stored in the segmented images folder. It is important to point out that the segmented images have duplicates in the images folder of polyps since the images were taken from there.\n\nAnnotated Videos. The dataset contains a total of 373 videos containing different findings and landmarks. This corresponds to approximately 11.62 hours of videos and 1,059,519 video frames that can be converted to images if needed. Each video has been manually assessed by a medical professional working in the field of gastroenterology and resulted in a total of 171 annotated findings.\n\nDevelopment Dataset\nThe dataset can be split into four distinct parts; Labeled image data, unlabeled image data, segmented image data, and annotated video data. Each part is further described below. In total, the dataset contains 110,079 images and 373 videos where it captures anatomical landmarks and pathological and normal findings. The results is more than 1.1 million images and video frames all together.\n\nTest Dataset\nThe dataset is split into two distinct parts; the classification dataset and segmentation dataset. The classification dataset should be used to perform the detection and speed tasks, while the segmentation part should be used for the segmentation task.\n\nMore details can be found here:\nhttps://endotect.com/\n",
+  "datasetId": 1316980,
+  "datasetSlug": "endotect-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "debeshjha1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1914,
+  "totalVotes": 10,
+  "totalDownloads": 126,
+  "title": "EndoTect Dataset",
+  "hasTitle": true,
+  "subtitle": " polyp segmentation  and GI classification dataset (https://endotect.com/)",
+  "hasSubtitle": true,
+  "description": "Dataset Details\nLabeled Images. In total, the dataset contains 10,662 labeled images stored using the JPEG format. The images can be found in the images folder. The classes, which each of the images belongto, correspond to the folder they are stored in (e.g., the \"polyp\" folder contains all polyp images, the \"barretts\" folder contains all images of Barrett\u2019s esophagus, etc.). The number of images per class are not balanced, which is a general challenge in the medical field due to the fact that some findings occur more often than others. This adds an additional challenge for researchers, since methods applied to the data should also be able to learn from a small amount of training data. The labeled images represent 23 different classes of findings.\n\nUnlabeled Images. In total, the dataset contains 99,417 unlabeled images. The unlabeled images can be found in the unlabeled folder which is a subfolder in the image folder, together with the other labeled image folders. In addition to the unlabeled image files, we also provide the extracted global features and cluster assignments in the Hyper-Kvasir Github repository as Attribute-Relation File Format (ARFF) files. ARFF files can be opened and processed using, for example, the WEKA machine learning library, or they can easily be converted into comma-separated values (CSV) files.\n\nSegmented Images. We provide the original image, a segmentation mask and a bounding box for 1,000 images from the polyp class. In the mask, the pixels depicting polyp tissue, the region of interest, are represented by the foreground (white mask), while the background (in black) does not contain polyp pixels. The bounding box is defined as the outermost pixels of the found polyp. For this segmentation set, we have two folders, one for images and one for masks, each containing 1,000 JPEG-compressed images. The bounding boxes for the corresponding images are stored in a JavaScript Object Notation (JSON) file. The image and its corresponding mask have the same filename. The images and files are stored in the segmented images folder. It is important to point out that the segmented images have duplicates in the images folder of polyps since the images were taken from there.\n\nAnnotated Videos. The dataset contains a total of 373 videos containing different findings and landmarks. This corresponds to approximately 11.62 hours of videos and 1,059,519 video frames that can be converted to images if needed. Each video has been manually assessed by a medical professional working in the field of gastroenterology and resulted in a total of 171 annotated findings.\n\nDevelopment Dataset\nThe dataset can be split into four distinct parts; Labeled image data, unlabeled image data, segmented image data, and annotated video data. Each part is further described below. In total, the dataset contains 110,079 images and 373 videos where it captures anatomical landmarks and pathological and normal findings. The results is more than 1.1 million images and video frames all together.\n\nTest Dataset\nThe dataset is split into two distinct parts; the classification dataset and segmentation dataset. The classification dataset should be used to perform the detection and speed tasks, while the segmentation part should be used for the segmentation task.\n\nMore details can be found here:\nhttps://endotect.com/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "vlbthambawita",
+      "role": "writer"
+    },
+    {
+      "username": "hugohammer",
+      "role": "writer"
+    },
+    {
+      "username": "kelkalot",
+      "role": "writer"
+    },
+    {
+      "username": "stevenhicks",
+      "role": "writer"
+    },
+    {
+      "username": "plhalvorsen",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

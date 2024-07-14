@@ -1,0 +1,37 @@
+{
+  "id": "gabandsof/womens-clothing-ecommerce-reviews",
+  "id_no": 2225916,
+  "datasetSlugNullable": "womens-clothing-ecommerce-reviews",
+  "ownerUserNullable": "gabandsof",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Womens Clothing E-Commerce Reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2225916,
+  "datasetSlug": "womens-clothing-ecommerce-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "gabandsof",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 255,
+  "totalVotes": 1,
+  "totalDownloads": 23,
+  "title": "Womens Clothing E-Commerce Reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

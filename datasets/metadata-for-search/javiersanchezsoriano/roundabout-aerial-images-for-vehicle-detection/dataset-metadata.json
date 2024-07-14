@@ -1,0 +1,49 @@
+{
+  "id": "javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection",
+  "id_no": 2519121,
+  "datasetSlugNullable": "roundabout-aerial-images-for-vehicle-detection",
+  "ownerUserNullable": "javiersanchezsoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Roundabout Aerial Images for Vehicle Detection",
+  "subtitleNullable": "Dataset of Spanish roundabouts annotated aerial traffic images taken from UAVs",
+  "descriptionNullable": "**If you use this dataset, please cite this paper: \"Puertas, E.; De-Las-Heras, G.; Fern\u00e1ndez-Andr\u00e9s, J.; S\u00e1nchez-Soriano, J. Dataset: Roundabout Aerial Images for Vehicle Detection. Data 2022, 7, 47.** https://doi.org/10.3390/data7040047 \"\n\nThis publication presents a dataset of Spanish roundabouts aerial images taken from an UAV, along with annotations in PASCAL VOC XML files that indicate the position of vehicles within them. Additionally, a CSV file is attached containing information related to the location and characteristics of the captured roundabouts. This work details the process followed to obtain them: image capture, processing and labeling. The dataset consists of 985,260 total instances: 236,850 cars, 4,899 cycles, 2,262 trucks, 1,752 buses and 552 empty roundabouts, in 15,474 1920x1080px JPG images. These are extracted from 8 roundabouts with different traffic flows (and 46,422 images created using data augmentation techniques available in the first version of the dataset).\n\nThe purpose of this dataset is to help research on computer vision on the road, as such labeled images are not abundant. It can be used to train supervised learning models, such as convolutional neural networks, which are very popular in object detection.\n\nRelevant data about the dataset:\n|**Roundabout (scenes)**|**Frames**|**Car**|**Truck**|**Cycle**|**Bus**|**Empty**|\n|---: |:---:|:---:|:---:|:---:|:---:|:--- |\n|1 (00001)|1,996|34,558|0|4229|0|0|\n|2 (00002)|514|743|0|0|0|157|\n|3 (00003-00017)|1,795|4822|58|0|0|0|\n|4 (00018-00033)|1,027|6615|0|0|0|0|\n|5 (00034-00049)|1,261|2248|0|550|0|81|\n|6 (00050-00052)|5,501|180,342|1420|120|1376|0|\n|7 (00053)|2,036|5,789|562|0|226|92|\n|8 (00054)|1,344|1,733|222|0|150|222|\n|**Total**|**15,474**|**236,850**|**2,262**|**4,899**|**1,752**|**552**|\n|Data augmentation (*) |x4|x4|x4|x4|x4|x4|\n|**Total**|**61,896**|**947,400**|**9,048**|**19,596**|**7,008**|**2,208**|\n\n(*) Data augmentation: Augmented data available in the first version of the dataset.\n\n**Funding:** This publication is part of the I+D+i projects with reference PID2019-104793RB-C32, PIDC2021-121517-C33, funded by MCIN/AEI/10.13039/501100011033/, S2018/EMT-4362/\"SEGVAUTO4.0-CM\" funded by Regional Government of Madrid and \"ESF and ERDF A way of making Europe\".\n\n**If you use this dataset, please cite this paper:** \"Puertas, E.; De-Las-Heras, G.; Fern\u00e1ndez-Andr\u00e9s, J.; S\u00e1nchez-Soriano, J. Dataset: Roundabout Aerial Images for Vehicle Detection. Data 2022, 7, 47. [https://doi.org/10.3390/data7040047](https://doi.org/10.3390/data7040047) \"",
+  "datasetId": 2519121,
+  "datasetSlug": "roundabout-aerial-images-for-vehicle-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "javiersanchezsoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4782,
+  "totalVotes": 18,
+  "totalDownloads": 667,
+  "title": "Roundabout Aerial Images for Vehicle Detection",
+  "hasTitle": true,
+  "subtitle": "Dataset of Spanish roundabouts annotated aerial traffic images taken from UAVs",
+  "hasSubtitle": true,
+  "description": "**If you use this dataset, please cite this paper: \"Puertas, E.; De-Las-Heras, G.; Fern\u00e1ndez-Andr\u00e9s, J.; S\u00e1nchez-Soriano, J. Dataset: Roundabout Aerial Images for Vehicle Detection. Data 2022, 7, 47.** https://doi.org/10.3390/data7040047 \"\n\nThis publication presents a dataset of Spanish roundabouts aerial images taken from an UAV, along with annotations in PASCAL VOC XML files that indicate the position of vehicles within them. Additionally, a CSV file is attached containing information related to the location and characteristics of the captured roundabouts. This work details the process followed to obtain them: image capture, processing and labeling. The dataset consists of 985,260 total instances: 236,850 cars, 4,899 cycles, 2,262 trucks, 1,752 buses and 552 empty roundabouts, in 15,474 1920x1080px JPG images. These are extracted from 8 roundabouts with different traffic flows (and 46,422 images created using data augmentation techniques available in the first version of the dataset).\n\nThe purpose of this dataset is to help research on computer vision on the road, as such labeled images are not abundant. It can be used to train supervised learning models, such as convolutional neural networks, which are very popular in object detection.\n\nRelevant data about the dataset:\n|**Roundabout (scenes)**|**Frames**|**Car**|**Truck**|**Cycle**|**Bus**|**Empty**|\n|---: |:---:|:---:|:---:|:---:|:---:|:--- |\n|1 (00001)|1,996|34,558|0|4229|0|0|\n|2 (00002)|514|743|0|0|0|157|\n|3 (00003-00017)|1,795|4822|58|0|0|0|\n|4 (00018-00033)|1,027|6615|0|0|0|0|\n|5 (00034-00049)|1,261|2248|0|550|0|81|\n|6 (00050-00052)|5,501|180,342|1420|120|1376|0|\n|7 (00053)|2,036|5,789|562|0|226|92|\n|8 (00054)|1,344|1,733|222|0|150|222|\n|**Total**|**15,474**|**236,850**|**2,262**|**4,899**|**1,752**|**552**|\n|Data augmentation (*) |x4|x4|x4|x4|x4|x4|\n|**Total**|**61,896**|**947,400**|**9,048**|**19,596**|**7,008**|**2,208**|\n\n(*) Data augmentation: Augmented data available in the first version of the dataset.\n\n**Funding:** This publication is part of the I+D+i projects with reference PID2019-104793RB-C32, PIDC2021-121517-C33, funded by MCIN/AEI/10.13039/501100011033/, S2018/EMT-4362/\"SEGVAUTO4.0-CM\" funded by Regional Government of Madrid and \"ESF and ERDF A way of making Europe\".\n\n**If you use this dataset, please cite this paper:** \"Puertas, E.; De-Las-Heras, G.; Fern\u00e1ndez-Andr\u00e9s, J.; S\u00e1nchez-Soriano, J. Dataset: Roundabout Aerial Images for Vehicle Detection. Data 2022, 7, 47. [https://doi.org/10.3390/data7040047](https://doi.org/10.3390/data7040047) \"",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "law",
+    "artificial intelligence",
+    "automobiles and vehicles",
+    "deep learning",
+    "neural networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "epuertas",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

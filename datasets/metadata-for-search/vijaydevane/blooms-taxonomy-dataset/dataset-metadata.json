@@ -1,0 +1,41 @@
+{
+  "id": "vijaydevane/blooms-taxonomy-dataset",
+  "id_no": 4919044,
+  "datasetSlugNullable": "blooms-taxonomy-dataset",
+  "ownerUserNullable": "vijaydevane",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "blooms-taxonomy-dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4919044,
+  "datasetSlug": "blooms-taxonomy-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijaydevane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 36,
+  "totalVotes": 0,
+  "totalDownloads": 5,
+  "title": "blooms-taxonomy-dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "tabular",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

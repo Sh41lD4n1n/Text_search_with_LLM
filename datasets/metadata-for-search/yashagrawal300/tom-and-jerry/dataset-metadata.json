@@ -1,0 +1,43 @@
+{
+  "id": "yashagrawal300/tom-and-jerry",
+  "id_no": 561916,
+  "datasetSlugNullable": "tom-and-jerry",
+  "ownerUserNullable": "yashagrawal300",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Tom and Jerry",
+  "subtitleNullable": "Detect Emotion of tom and jerry",
+  "descriptionNullable": "**Problem statement**\nThe International Day of Happiness is celebrated globally on March 20 every year with an objective to promote happiness and well-being as a fundamental human right for all. On this International Day of Happiness, we are bringing back all the joy and happiness for you. This fun challenge requires you to build a model that detects emotions of your favorite characters of the iconic toon show\u2014Tom and Jerry.\n\n**Task**\nYou are required to extract frames from a video clip that is provided in the dataset and classify the primary character\u2019s emotion into one of the following five classes:\n\n1. Angry\n2. Happy\n3. Sad\n4. Surprised\n5. Unknown\n\n**Note**\n\nThe character prioritization is Tom &gt; Jerry &gt; Others.\nIn case a frame does not contain Tom or Jerry\u2019s faces for emotion detection, it is classified as \u2018Unknown\u2019,",
+  "datasetId": 561916,
+  "datasetSlug": "tom-and-jerry",
+  "hasDatasetSlug": true,
+  "ownerUser": "yashagrawal300",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 8895,
+  "totalVotes": 7,
+  "totalDownloads": 303,
+  "title": "Tom and Jerry",
+  "hasTitle": true,
+  "subtitle": "Detect Emotion of tom and jerry",
+  "hasSubtitle": true,
+  "description": "**Problem statement**\nThe International Day of Happiness is celebrated globally on March 20 every year with an objective to promote happiness and well-being as a fundamental human right for all. On this International Day of Happiness, we are bringing back all the joy and happiness for you. This fun challenge requires you to build a model that detects emotions of your favorite characters of the iconic toon show\u2014Tom and Jerry.\n\n**Task**\nYou are required to extract frames from a video clip that is provided in the dataset and classify the primary character\u2019s emotion into one of the following five classes:\n\n1. Angry\n2. Happy\n3. Sad\n4. Surprised\n5. Unknown\n\n**Note**\n\nThe character prioritization is Tom &gt; Jerry &gt; Others.\nIn case a frame does not contain Tom or Jerry\u2019s faces for emotion detection, it is classified as \u2018Unknown\u2019,",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "deep learning",
+    "video",
+    "holidays and cultural events"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

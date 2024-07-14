@@ -1,0 +1,44 @@
+{
+  "id": "atulanandjha/lfwpeople",
+  "id_no": 19136,
+  "datasetSlugNullable": "lfwpeople",
+  "ownerUserNullable": "atulanandjha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "LFW - People (Face Recognition)",
+  "subtitleNullable": "The Labeled Faces in the Wild face recognition dataset.",
+  "descriptionNullable": "Welcome to Labeled Faces in the Wild, a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than **13,000 images** of faces *collected from the web*. Each face has been labeled with the name of the person pictured. **1680** of the people pictured have *two or more distinct photos in the data set*. The only constraint on these faces is that they were detected by the **Viola-Jones face detector**.\n\n![LFW-PEOPLE](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1746215%2F92752ca2b0bbecdd3fd154b88495558d%2F1_RaupR7k7NrrTJZvop7sH-A.png?generation=1573849119616339&alt=media)\n\n\nThis dataset is a collection of **JPEG pictures** of famous people collected on the internet. All details are available on the official **website**: http://vis-www.cs.umass.edu/lfw/\n\nEach picture is centered on a single face. Each pixel of each channel (color in RGB) is encoded by a float in **range 0.0 - 1.0**. \n\nThe task is called Face Recognition (or Identification): given the picture of a face, find the name of the person given a training set (gallery). \n\nThe original images are **250 x 250 pixels**, but the default slice and resize arguments reduce them to **62 x 47** pixels.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. I would like to thank **Computer Vision Laboratory, university of Massachusetts** for providing us with such an excellent database.\n\n### Inspiration\n\nI had an activity in my college for facial recognition. I came up with this as the best kind of dataset for my task. I am posting it here on Kaggle to make it available for other data scientists conveniently and see what magic they can perform with this amazing dataset.",
+  "datasetId": 19136,
+  "datasetSlug": "lfwpeople",
+  "hasDatasetSlug": true,
+  "ownerUser": "atulanandjha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 201972,
+  "totalVotes": 408,
+  "totalDownloads": 31956,
+  "title": "LFW - People (Face Recognition)",
+  "hasTitle": true,
+  "subtitle": "The Labeled Faces in the Wild face recognition dataset.",
+  "hasSubtitle": true,
+  "description": "Welcome to Labeled Faces in the Wild, a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than **13,000 images** of faces *collected from the web*. Each face has been labeled with the name of the person pictured. **1680** of the people pictured have *two or more distinct photos in the data set*. The only constraint on these faces is that they were detected by the **Viola-Jones face detector**.\n\n![LFW-PEOPLE](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1746215%2F92752ca2b0bbecdd3fd154b88495558d%2F1_RaupR7k7NrrTJZvop7sH-A.png?generation=1573849119616339&alt=media)\n\n\nThis dataset is a collection of **JPEG pictures** of famous people collected on the internet. All details are available on the official **website**: http://vis-www.cs.umass.edu/lfw/\n\nEach picture is centered on a single face. Each pixel of each channel (color in RGB) is encoded by a float in **range 0.0 - 1.0**. \n\nThe task is called Face Recognition (or Identification): given the picture of a face, find the name of the person given a training set (gallery). \n\nThe original images are **250 x 250 pixels**, but the default slice and resize arguments reduce them to **62 x 47** pixels.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. I would like to thank **Computer Vision Laboratory, university of Massachusetts** for providing us with such an excellent database.\n\n### Inspiration\n\nI had an activity in my college for facial recognition. I came up with this as the best kind of dataset for my task. I am posting it here on Kaggle to make it available for other data scientists conveniently and see what magic they can perform with this amazing dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "clothing and accessories",
+    "internet",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

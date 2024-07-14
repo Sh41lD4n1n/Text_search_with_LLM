@@ -1,0 +1,42 @@
+{
+  "id": "ankurzing/sentiment-analysis-for-financial-news",
+  "id_no": 622510,
+  "datasetSlugNullable": "sentiment-analysis-for-financial-news",
+  "ownerUserNullable": "ankurzing",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sentiment Analysis for Financial News",
+  "subtitleNullable": "Dataset contains two columns, Sentiment and News Headline",
+  "descriptionNullable": "### Context\n\nThis dataset (FinancialPhraseBank) contains the sentiments for financial news headlines from the perspective of a retail investor.\n\n### Content\n\nThe dataset contains two columns, \"Sentiment\" and \"News Headline\". The sentiment can be negative, neutral or positive.\n\n### Acknowledgements\n\nMalo, P., Sinha, A., Korhonen, P., Wallenius, J., & Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. Journal of the Association for Information Science and Technology, 65(4), 782-796.",
+  "datasetId": 622510,
+  "datasetSlug": "sentiment-analysis-for-financial-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "ankurzing",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 165546,
+  "totalVotes": 242,
+  "totalDownloads": 23821,
+  "title": "Sentiment Analysis for Financial News",
+  "hasTitle": true,
+  "subtitle": "Dataset contains two columns, Sentiment and News Headline",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset (FinancialPhraseBank) contains the sentiments for financial news headlines from the perspective of a retail investor.\n\n### Content\n\nThe dataset contains two columns, \"Sentiment\" and \"News Headline\". The sentiment can be negative, neutral or positive.\n\n### Acknowledgements\n\nMalo, P., Sinha, A., Korhonen, P., Wallenius, J., & Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. Journal of the Association for Information Science and Technology, 65(4), 782-796.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

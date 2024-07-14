@@ -1,0 +1,43 @@
+{
+  "id": "deepakat002/face-mask-detection-yolov5",
+  "id_no": 1662801,
+  "datasetSlugNullable": "face-mask-detection-yolov5",
+  "ownerUserNullable": "deepakat002",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "face_mask_detection_yolov5",
+  "subtitleNullable": "face mask detection data",
+  "descriptionNullable": "",
+  "datasetId": 1662801,
+  "datasetSlug": "face-mask-detection-yolov5",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepakat002",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 12967,
+  "totalVotes": 15,
+  "totalDownloads": 2315,
+  "title": "face_mask_detection_yolov5",
+  "hasTitle": true,
+  "subtitle": "face mask detection data",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

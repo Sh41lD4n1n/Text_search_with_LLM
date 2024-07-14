@@ -1,0 +1,40 @@
+{
+  "id": "khotijahs1/data-train",
+  "id_no": 304904,
+  "datasetSlugNullable": "data-train",
+  "ownerUserNullable": "khotijahs1",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "English Sarcasm",
+  "subtitleNullable": "",
+  "descriptionNullable": "If you use dataset in your paper, please cite us:\n\n@inproceedings{10.1145/3406601.3406624,\nauthor = {Khotijah, Siti and Tirtawangsa, Jimmy and Suryani, Arie A.},\ntitle = {Using LSTM for Context Based Approach of Sarcasm Detection in Twitter},\nyear = {2020},\nisbn = {9781450377591},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3406601.3406624 },\ndoi = {10.1145/3406601.3406624},\nlocation = {Bangkok, Thailand},\nseries = {IAIT2020}\n}\n\n\n\n\nNote : \nEnglish Sarcasm.csv (Unbalanced dataset)\nsarcasm.csv(Balanced dataset)\n",
+  "datasetId": 304904,
+  "datasetSlug": "data-train",
+  "hasDatasetSlug": true,
+  "ownerUser": "khotijahs1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 4626,
+  "totalVotes": 20,
+  "totalDownloads": 266,
+  "title": "English Sarcasm",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "If you use dataset in your paper, please cite us:\n\n@inproceedings{10.1145/3406601.3406624,\nauthor = {Khotijah, Siti and Tirtawangsa, Jimmy and Suryani, Arie A.},\ntitle = {Using LSTM for Context Based Approach of Sarcasm Detection in Twitter},\nyear = {2020},\nisbn = {9781450377591},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3406601.3406624 },\ndoi = {10.1145/3406601.3406624},\nlocation = {Bangkok, Thailand},\nseries = {IAIT2020}\n}\n\n\n\n\nNote : \nEnglish Sarcasm.csv (Unbalanced dataset)\nsarcasm.csv(Balanced dataset)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

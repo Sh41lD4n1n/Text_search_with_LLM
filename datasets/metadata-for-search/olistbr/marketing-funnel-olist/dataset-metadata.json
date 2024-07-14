@@ -1,0 +1,52 @@
+{
+  "id": "/marketing-funnel-olist",
+  "id_no": 78342,
+  "datasetSlugNullable": "marketing-funnel-olist",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Marketing Funnel by Olist",
+  "subtitleNullable": "8k leads, closed deals and connection to 100k orders",
+  "descriptionNullable": "# Marketing Funnel by Olist\n\nWelcome! This is a marketing funnel dataset from sellers that filled-in requests of contact to sell their products on [Olist Store](http://www.olist.com). The dataset has information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018. They were randomly sampled from the total of MQLs. \n\nIts features allows viewing a sales process from multiple dimensions: lead category, catalog size, behaviour profile, etc. \n\nThis is real data, it has been anonymized and sampled from the original dataset.\n\n## Joining with Brazilian E-Commerce Public Dataset by Olist\nThis dataset can also be linked to the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/home) using ```seller_id```. There you will find information of 100k orders, price, payment, freight performance, customer location, product attributes and finally reviews written by customers.\n\n**Instructions on joining are available on this [Kernel](https://www.kaggle.com/andresionek/joining-marketing-funnel-with-brazilian-e-commerce).**\n\n## Context\nThis dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on our website: [www.olist.com](https://www.olist.com)\n\n**A seller join Olist through a marketing and sales funnel that was made public at this dataset. Description of steps:**\n\n1. Sign-up at a landing page.\n1. Get contacted by a Sales development Representative (SDR), confirm some information and schedule a consultancy.\n1. Consultancy is made by a Sales Representative (SR). The SR may close the deal (lead sing up) or lose the deal (led leaves without sign in) \n1. Lead becomes a seller and starts building his catalog on Olist. \n1. His products are published on marketplaces and ready to sell!\n\n### Attention\n1. A seller MQL might come from multiple sources (he might subscribe on two different landing pages, for instance).\n\n### Examples of  Landing Pages\n![Example of a landing page](https://i.imgur.com/jKZTP5e.png)\n![](https://i.imgur.com/mAljYcq.png)\n\n## Data Schema\nThe data is divided in multiple datasets for better understanding and organization. Please refer to the following data schema when working with it:\n![](https://i.imgur.com/Jory0O3.png)\n\n## Inspiration\nHere are some inspiration for possible outcomes from this dataset.\n\n**Customer Lifetime Value:** <br>\nHow much a customer will bring in future revenue?\n\n**SR/SDR Optimization:**<br> \nWhich SR or SDR should talk with each kind of lead?\n\n**Closing Prediction:**<br> \nWhich deals will be closed?\n\n**EDA:**<br> \nJust Have Fun!\n\n## Acknowledgements\nThanks to Olist for releasing this dataset.",
+  "datasetId": 78342,
+  "datasetSlug": "marketing-funnel-olist",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 136515,
+  "totalVotes": 278,
+  "totalDownloads": 13387,
+  "title": "Marketing Funnel by Olist",
+  "hasTitle": true,
+  "subtitle": "8k leads, closed deals and connection to 100k orders",
+  "hasSubtitle": true,
+  "description": "# Marketing Funnel by Olist\n\nWelcome! This is a marketing funnel dataset from sellers that filled-in requests of contact to sell their products on [Olist Store](http://www.olist.com). The dataset has information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018. They were randomly sampled from the total of MQLs. \n\nIts features allows viewing a sales process from multiple dimensions: lead category, catalog size, behaviour profile, etc. \n\nThis is real data, it has been anonymized and sampled from the original dataset.\n\n## Joining with Brazilian E-Commerce Public Dataset by Olist\nThis dataset can also be linked to the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/home) using ```seller_id```. There you will find information of 100k orders, price, payment, freight performance, customer location, product attributes and finally reviews written by customers.\n\n**Instructions on joining are available on this [Kernel](https://www.kaggle.com/andresionek/joining-marketing-funnel-with-brazilian-e-commerce).**\n\n## Context\nThis dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on our website: [www.olist.com](https://www.olist.com)\n\n**A seller join Olist through a marketing and sales funnel that was made public at this dataset. Description of steps:**\n\n1. Sign-up at a landing page.\n1. Get contacted by a Sales development Representative (SDR), confirm some information and schedule a consultancy.\n1. Consultancy is made by a Sales Representative (SR). The SR may close the deal (lead sing up) or lose the deal (led leaves without sign in) \n1. Lead becomes a seller and starts building his catalog on Olist. \n1. His products are published on marketplaces and ready to sell!\n\n### Attention\n1. A seller MQL might come from multiple sources (he might subscribe on two different landing pages, for instance).\n\n### Examples of  Landing Pages\n![Example of a landing page](https://i.imgur.com/jKZTP5e.png)\n![](https://i.imgur.com/mAljYcq.png)\n\n## Data Schema\nThe data is divided in multiple datasets for better understanding and organization. Please refer to the following data schema when working with it:\n![](https://i.imgur.com/Jory0O3.png)\n\n## Inspiration\nHere are some inspiration for possible outcomes from this dataset.\n\n**Customer Lifetime Value:** <br>\nHow much a customer will bring in future revenue?\n\n**SR/SDR Optimization:**<br> \nWhich SR or SDR should talk with each kind of lead?\n\n**Closing Prediction:**<br> \nWhich deals will be closed?\n\n**EDA:**<br> \nJust Have Fun!\n\n## Acknowledgements\nThanks to Olist for releasing this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "marketing",
+    "internet",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "andresionek",
+      "role": "writer"
+    },
+    {
+      "username": "dabague",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

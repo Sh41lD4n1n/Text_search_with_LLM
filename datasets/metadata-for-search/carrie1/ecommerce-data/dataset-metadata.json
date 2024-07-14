@@ -1,0 +1,42 @@
+{
+  "id": "carrie1/ecommerce-data",
+  "id_no": 1985,
+  "datasetSlugNullable": "ecommerce-data",
+  "ownerUserNullable": "carrie1",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "E-Commerce Data",
+  "subtitleNullable": "Actual transactions from UK retailer",
+  "descriptionNullable": "### Context\n\nTypically e-commerce datasets are proprietary and consequently hard to find among publicly available data.  However, [The UCI Machine Learning Repository][1] has made this dataset containing actual transactions from 2010 and 2011.  The dataset is maintained  on their site, where it can be found by the title \"Online Retail\".\n\n### Content\n\n\"This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.\"\n\n### Acknowledgements\n\nPer the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.\n\nImage from stocksnap.io.\n\n### Inspiration\n\nAnalyses for this dataset could include time series, clustering, classification and more. \n\n  [1]: http://archive.ics.uci.edu/ml/index.php",
+  "datasetId": 1985,
+  "datasetSlug": "ecommerce-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "carrie1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1059014,
+  "totalVotes": 1653,
+  "totalDownloads": 167090,
+  "title": "E-Commerce Data",
+  "hasTitle": true,
+  "subtitle": "Actual transactions from UK retailer",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTypically e-commerce datasets are proprietary and consequently hard to find among publicly available data.  However, [The UCI Machine Learning Repository][1] has made this dataset containing actual transactions from 2010 and 2011.  The dataset is maintained  on their site, where it can be found by the title \"Online Retail\".\n\n### Content\n\n\"This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.\"\n\n### Acknowledgements\n\nPer the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.\n\nImage from stocksnap.io.\n\n### Inspiration\n\nAnalyses for this dataset could include time series, clustering, classification and more. \n\n  [1]: http://archive.ics.uci.edu/ml/index.php",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "finance",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

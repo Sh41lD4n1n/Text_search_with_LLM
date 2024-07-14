@@ -1,0 +1,42 @@
+{
+  "id": "alarchemn/letterbox-top250-short-reviews",
+  "id_no": 3566768,
+  "datasetSlugNullable": "letterbox-top250-short-reviews",
+  "ownerUserNullable": "alarchemn",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Reviews of the top 250 Letterboxd Films (MOVIES)",
+  "subtitleNullable": "5000 short reviews from the famous list Official Top 250 Narrative Feature Films",
+  "descriptionNullable": "**Description**\nThis dataset contains a collection of short reviews extracted from [Letterboxd](https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/), a popular movie social networking site. Each review is a brief commentary, consisting of user-generated text expressing opinions and sentiments about various movies. The dataset covers a wide range of films from different genres and time periods, making it a valuable resource for sentiment analysis, natural language processing, and other related tasks.\n\n**Dataset Highlights**\n- Short reviews from real users: The dataset comprises genuine reviews shared by users, reflecting diverse opinions and emotions towards the movies they have watched.\n- Movie diversity: The reviews cover a vast array of films, including classics, recent releases, and cult favorites, providing a rich and diverse dataset for analysis.\n- Potential Applications: This dataset can be used for sentiment analysis, emotion detection, and other text-based machine learning tasks, enabling researchers and practitioners to gain insights into movie reception and audience preferences.\n\n**Scraping code**\n[Here](https://github.com/Alarchemn/cinephile-sentiment)",
+  "datasetId": 3566768,
+  "datasetSlug": "letterbox-top250-short-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "alarchemn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 469,
+  "totalVotes": 4,
+  "totalDownloads": 95,
+  "title": "Reviews of the top 250 Letterboxd Films (MOVIES)",
+  "hasTitle": true,
+  "subtitle": "5000 short reviews from the famous list Official Top 250 Narrative Feature Films",
+  "hasSubtitle": true,
+  "description": "**Description**\nThis dataset contains a collection of short reviews extracted from [Letterboxd](https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/), a popular movie social networking site. Each review is a brief commentary, consisting of user-generated text expressing opinions and sentiments about various movies. The dataset covers a wide range of films from different genres and time periods, making it a valuable resource for sentiment analysis, natural language processing, and other related tasks.\n\n**Dataset Highlights**\n- Short reviews from real users: The dataset comprises genuine reviews shared by users, reflecting diverse opinions and emotions towards the movies they have watched.\n- Movie diversity: The reviews cover a vast array of films, including classics, recent releases, and cult favorites, providing a rich and diverse dataset for analysis.\n- Potential Applications: This dataset can be used for sentiment analysis, emotion detection, and other text-based machine learning tasks, enabling researchers and practitioners to gain insights into movie reception and audience preferences.\n\n**Scraping code**\n[Here](https://github.com/Alarchemn/cinephile-sentiment)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "text",
+    "text classification",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

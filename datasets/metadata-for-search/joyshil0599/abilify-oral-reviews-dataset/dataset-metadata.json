@@ -1,0 +1,43 @@
+{
+  "id": "joyshil0599/abilify-oral-reviews-dataset",
+  "id_no": 2939421,
+  "datasetSlugNullable": "abilify-oral-reviews-dataset",
+  "ownerUserNullable": "joyshil0599",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Abilify Reviews: Patient Experiences dataset(1k+)",
+  "subtitleNullable": "Discovering the Realities of Abilify: An Analysis of Patient Reviews and Outcome",
+  "descriptionNullable": "<img src=\"https://s3.amazonaws.com/files.innovicares.ca/mobile/640x300/640x300_abilify_en.png\">\n**Abilify is an atypical antipsychotic medication primarily used to treat mental health conditions such as schizophrenia, bipolar disorder, and major depressive disorder. It works by affecting dopamine and serotonin levels in the brain. Abilify can cause side effects and should only be taken under the guidance of a healthcare provider.**\n\n*This dataset contains over 1,000 patient reviews and experiences with Abilify, a popular medication used to treat mental health conditions such as depression, bipolar disorder, and schizophrenia. The reviews cover various categories, including:*\n\n- ** Effectiveness**: Reviews that discuss the effectiveness of Abilify in treating their mental health condition.  \n- ** Side Effects**: Reviews that discuss the side effects experienced while taking Abilify.\n- **Dosage**: Reviews that discuss the dosage of Abilify prescribed by their healthcare provider.\n- **Overall Satisfaction**: Reviews that discuss the overall satisfaction with Abilify medication.\n\nThe dataset is intended to provide valuable insights into patient experiences with Abilify, which can inform healthcare decision-making and contribute to improved patient outcomes. By analyzing the dataset, researchers and healthcare professionals can uncover patterns, trends, and potential issues related to the medication, ultimately leading to better healthcare practices and improved patient care.- ",
+  "datasetId": 2939421,
+  "datasetSlug": "abilify-oral-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "joyshil0599",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1174,
+  "totalVotes": 17,
+  "totalDownloads": 144,
+  "title": "Abilify Reviews: Patient Experiences dataset(1k+)",
+  "hasTitle": true,
+  "subtitle": "Discovering the Realities of Abilify: An Analysis of Patient Reviews and Outcome",
+  "hasSubtitle": true,
+  "description": "<img src=\"https://s3.amazonaws.com/files.innovicares.ca/mobile/640x300/640x300_abilify_en.png\">\n**Abilify is an atypical antipsychotic medication primarily used to treat mental health conditions such as schizophrenia, bipolar disorder, and major depressive disorder. It works by affecting dopamine and serotonin levels in the brain. Abilify can cause side effects and should only be taken under the guidance of a healthcare provider.**\n\n*This dataset contains over 1,000 patient reviews and experiences with Abilify, a popular medication used to treat mental health conditions such as depression, bipolar disorder, and schizophrenia. The reviews cover various categories, including:*\n\n- ** Effectiveness**: Reviews that discuss the effectiveness of Abilify in treating their mental health condition.  \n- ** Side Effects**: Reviews that discuss the side effects experienced while taking Abilify.\n- **Dosage**: Reviews that discuss the dosage of Abilify prescribed by their healthcare provider.\n- **Overall Satisfaction**: Reviews that discuss the overall satisfaction with Abilify medication.\n\nThe dataset is intended to provide valuable insights into patient experiences with Abilify, which can inform healthcare decision-making and contribute to improved patient outcomes. By analyzing the dataset, researchers and healthcare professionals can uncover patterns, trends, and potential issues related to the medication, ultimately leading to better healthcare practices and improved patient care.- ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "data analytics",
+    "tabular",
+    "drugs and medications",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ruchi798/housing-prices-in-metropolitan-areas-of-india",
+  "id_no": 846956,
+  "datasetSlugNullable": "housing-prices-in-metropolitan-areas-of-india",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Housing Prices in Metropolitan Areas of India",
+  "subtitleNullable": "Prices of new and resale houses",
+  "descriptionNullable": "### Content\nThis dataset comprises data that was scraped. It includes:\n- collection of prices of new and resale houses located in the metropolitan areas of India\n- the amenities provided for each house\n\n### Inspiration\nWith 40 explanatory variables describing various aspects of new and resale houses in the metropolitan areas of India, one can predict the final price of houses in these regions.\n\n\n\ud83d\udccc **Note** :\nSince for a set of houses, nothing was mentioned about certain amenities, '9' was used to mark such values, which could indicate the absence of information about the apartment but these values don't ascertain the absence of such a feature in real life.",
+  "datasetId": 846956,
+  "datasetSlug": "housing-prices-in-metropolitan-areas-of-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 70207,
+  "totalVotes": 237,
+  "totalDownloads": 14413,
+  "title": "Housing Prices in Metropolitan Areas of India",
+  "hasTitle": true,
+  "subtitle": "Prices of new and resale houses",
+  "hasSubtitle": true,
+  "description": "### Content\nThis dataset comprises data that was scraped. It includes:\n- collection of prices of new and resale houses located in the metropolitan areas of India\n- the amenities provided for each house\n\n### Inspiration\nWith 40 explanatory variables describing various aspects of new and resale houses in the metropolitan areas of India, one can predict the final price of houses in these regions.\n\n\n\ud83d\udccc **Note** :\nSince for a set of houses, nothing was mentioned about certain amenities, '9' was used to mark such values, which could indicate the absence of information about the apartment but these values don't ascertain the absence of such a feature in real life.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "india",
+    "housing",
+    "real estate",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

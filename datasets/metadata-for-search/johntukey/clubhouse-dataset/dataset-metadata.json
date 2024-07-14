@@ -1,0 +1,43 @@
+{
+  "id": "johntukey/clubhouse-dataset",
+  "id_no": 1248936,
+  "datasetSlugNullable": "clubhouse-dataset",
+  "ownerUserNullable": "johntukey",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Clubhouse Dataset 9.7M",
+  "subtitleNullable": "users profile dataset in joinclubhouse.com",
+  "descriptionNullable": "<img src=\"https://i.imgur.com/mgcprVX.jpg\" alt=\"image\">\n- **The dataset does not contain any sensitive information. The information has not been hacked. Do not believe the fake news.**\n- **I do not have an account in RaidForums**\n\nClubhouse (joinclubhouse.com) is a social networking app that lets people gather in audio chat rooms to discuss various topics. Currently only the iOS version is available and membership is by invitation only. \nWhen you invite someone to the clubhouse, in profile of the user you invited will be written \"nominated by YOUR_NAME\". As a data scientist, it was interesting to me to extract the hierarchical structure of invitations\ud83d\ude03. In [this link](https://i.imgur.com/WuLJvQy.jpg) you can see an example of this tree structure.\nI slightly changed the code in [this](https://github.com/stypr/clubhouse-py/) github repository in order to extract data. Clubhouse's rate limit is terrible!\ud83e\udd15 Even while you using the app, if you refresh the page several times, you will be blocked for a few minutes! Therefore, I sent requests to clubhouse server every 5.65 seconds!. Just a crazy data scientist can cut the mustard \ud83d\ude02 \n\n## Version 1 (2021-04-05)\nthis version of dataset (v1) contains 1,300,515 user profiles in clubhouse. You can see how to use this dataset in the [code section](https://www.kaggle.com/johntukey/notebook1). In summary, each row shows a user's profile information, including:\n- user-id\n- name\n- photo-url\n- username\n- twitter\n- Instagram\n- num-followers\n- num-following\n- time-created\n- invited-by-user-profile\n\n## Version 2 (2021-04-29)\nthis version of dataset (v2) contains 3,469,520 user profiles in clubhouse. \n\n## Version 3 (2021-05-19)\nthis version of dataset (v3) contains 4,838,345 user profiles in clubhouse. In summary, each row shows a user's profile information, including:\n- user-id\n- name\n- photo-url\n- username\n- twitter\n- Instagram\n- num-followers\n- num-following\n- time-created\n- invited-by-user-profile\n- **invited-by-club**\n\nIn this version of dataset, a new column called **invited-by-club** shows which user invited by a club. Additionally, a new table called club has been added. Each row shows information about a club, including:\n\n-club-id (same invited-by-club in user table)\n-name\n-description\n-photo-url\n-num-members\n-num-followers\n-enable-private\n-is-follow-allowed\n-is-membership-private\n-is-community\n-rules\n-url\n\n## Version 4 (2021-06-01)\nThis version of dataset (v4) contains 6,188,441 user profiles, as well as 4974 club information records.\n\n## Version 5 (2021-06-10)\nThis version of dataset (v5) contains 8,427,058 user profiles, as well as 8520 club information records.\n\n## Version 6 (2021-06-22)\nThis version of dataset (v5) contains 9,794,022 user profiles, as well as 12,375 club information records.\n\n**todo list :**\n- Some user IDs do not exist because Clubhouse server not responding sometimes, and also some users have not yet been invited. In the next update, the missing user IDs will be scanned again.\n- Some users have been invited to the clubhouse by clubs. A new column called invited_by_club will be added in the next update.\n\nI will update this dataset over time. Subscribe (https://t.me/Clubhouse_Dataset) to inform updates.\ntwitter : [@VahidBaghi95](https://twitter.com/vahidbaghi95)\n\n",
+  "datasetId": 1248936,
+  "datasetSlug": "clubhouse-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "johntukey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 70820,
+  "totalVotes": 204,
+  "totalDownloads": 6109,
+  "title": "Clubhouse Dataset 9.7M",
+  "hasTitle": true,
+  "subtitle": "users profile dataset in joinclubhouse.com",
+  "hasSubtitle": true,
+  "description": "<img src=\"https://i.imgur.com/mgcprVX.jpg\" alt=\"image\">\n- **The dataset does not contain any sensitive information. The information has not been hacked. Do not believe the fake news.**\n- **I do not have an account in RaidForums**\n\nClubhouse (joinclubhouse.com) is a social networking app that lets people gather in audio chat rooms to discuss various topics. Currently only the iOS version is available and membership is by invitation only. \nWhen you invite someone to the clubhouse, in profile of the user you invited will be written \"nominated by YOUR_NAME\". As a data scientist, it was interesting to me to extract the hierarchical structure of invitations\ud83d\ude03. In [this link](https://i.imgur.com/WuLJvQy.jpg) you can see an example of this tree structure.\nI slightly changed the code in [this](https://github.com/stypr/clubhouse-py/) github repository in order to extract data. Clubhouse's rate limit is terrible!\ud83e\udd15 Even while you using the app, if you refresh the page several times, you will be blocked for a few minutes! Therefore, I sent requests to clubhouse server every 5.65 seconds!. Just a crazy data scientist can cut the mustard \ud83d\ude02 \n\n## Version 1 (2021-04-05)\nthis version of dataset (v1) contains 1,300,515 user profiles in clubhouse. You can see how to use this dataset in the [code section](https://www.kaggle.com/johntukey/notebook1). In summary, each row shows a user's profile information, including:\n- user-id\n- name\n- photo-url\n- username\n- twitter\n- Instagram\n- num-followers\n- num-following\n- time-created\n- invited-by-user-profile\n\n## Version 2 (2021-04-29)\nthis version of dataset (v2) contains 3,469,520 user profiles in clubhouse. \n\n## Version 3 (2021-05-19)\nthis version of dataset (v3) contains 4,838,345 user profiles in clubhouse. In summary, each row shows a user's profile information, including:\n- user-id\n- name\n- photo-url\n- username\n- twitter\n- Instagram\n- num-followers\n- num-following\n- time-created\n- invited-by-user-profile\n- **invited-by-club**\n\nIn this version of dataset, a new column called **invited-by-club** shows which user invited by a club. Additionally, a new table called club has been added. Each row shows information about a club, including:\n\n-club-id (same invited-by-club in user table)\n-name\n-description\n-photo-url\n-num-members\n-num-followers\n-enable-private\n-is-follow-allowed\n-is-membership-private\n-is-community\n-rules\n-url\n\n## Version 4 (2021-06-01)\nThis version of dataset (v4) contains 6,188,441 user profiles, as well as 4974 club information records.\n\n## Version 5 (2021-06-10)\nThis version of dataset (v5) contains 8,427,058 user profiles, as well as 8520 club information records.\n\n## Version 6 (2021-06-22)\nThis version of dataset (v5) contains 9,794,022 user profiles, as well as 12,375 club information records.\n\n**todo list :**\n- Some user IDs do not exist because Clubhouse server not responding sometimes, and also some users have not yet been invited. In the next update, the missing user IDs will be scanned again.\n- Some users have been invited to the clubhouse by clubs. A new column called invited_by_club will be added in the next update.\n\nI will update this dataset over time. Subscribe (https://t.me/Clubhouse_Dataset) to inform updates.\ntwitter : [@VahidBaghi95](https://twitter.com/vahidbaghi95)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "data analytics",
+    "tabular",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

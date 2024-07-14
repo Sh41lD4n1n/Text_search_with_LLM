@@ -1,0 +1,37 @@
+{
+  "id": "shreyanshmanavshukla/celebsv2-faces-224",
+  "id_no": 5174829,
+  "datasetSlugNullable": "celebsv2-faces-224",
+  "ownerUserNullable": "shreyanshmanavshukla",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "CelebsV2_Faces_224",
+  "subtitleNullable": "DeepFake dataset celebs v2 images",
+  "descriptionNullable": "Dataset Name: Celeb-DF Faces Dataset\n\nDescription:\nThe Celeb-DF Faces Dataset is a curated collection of facial images extracted from the Celeb-DF dataset. This dataset focuses on providing a comprehensive set of facial images for research and analysis in the field of deepfake detection and facial image analysis. The images are categorized into two classes: \"Fake\" and \"Real,\" based on the source of the videos.\n\nDataset Structure:\n\nImage Size: 224x224 pixels\n\nSource Folders:\n\nceleb-df-v2/Celeb-real: Contains authentic facial videos.\nceleb-df-v2/Celeb-synthesis: Contains synthesized (fake) facial videos.\nceleb-df-v2/YouTube-real: Contains additional authentic facial videos from YouTube.\nOutput Folder:\n\nceleb_faces_224/: Contains the extracted and resized facial images.\nMetadata File:\n\nmetadata_celebs.csv: A CSV file storing metadata information for each extracted image with the following columns:\nName: The filename of the extracted image.\nLabel: The label indicating whether the image is \"Fake\" or \"Real.\"\nCreation Process:\n\nVideo Frame Extraction:\n\nThe first frame from each video in the source folders is extracted.\nImage Resizing:\n\nThe extracted frames are resized to 224x224 pixels to ensure uniformity and compatibility with common machine learning models.\nImage Storage:\n\nThe resized images are saved in the celeb_faces_224/ folder with filenames corresponding to the original video names.\nMetadata Compilation:\n\nA metadata CSV file (metadata_celebs.csv) is created to store the filenames and labels of the images, indicating whether they are from \"Fake\" or \"Real\" videos.\nIntended Use:\nThe dataset is ideal for tasks such as:\n\nDeepfake detection and analysis\nTraining and evaluation of machine learning models for facial image classification\nImage forensics research and development\nNote: This dataset is derived from the Celeb-DF dataset and is intended for research and educational purposes only.",
+  "datasetId": 5174829,
+  "datasetSlug": "celebsv2-faces-224",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyanshmanavshukla",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "CelebsV2_Faces_224",
+  "hasTitle": true,
+  "subtitle": "DeepFake dataset celebs v2 images",
+  "hasSubtitle": true,
+  "description": "Dataset Name: Celeb-DF Faces Dataset\n\nDescription:\nThe Celeb-DF Faces Dataset is a curated collection of facial images extracted from the Celeb-DF dataset. This dataset focuses on providing a comprehensive set of facial images for research and analysis in the field of deepfake detection and facial image analysis. The images are categorized into two classes: \"Fake\" and \"Real,\" based on the source of the videos.\n\nDataset Structure:\n\nImage Size: 224x224 pixels\n\nSource Folders:\n\nceleb-df-v2/Celeb-real: Contains authentic facial videos.\nceleb-df-v2/Celeb-synthesis: Contains synthesized (fake) facial videos.\nceleb-df-v2/YouTube-real: Contains additional authentic facial videos from YouTube.\nOutput Folder:\n\nceleb_faces_224/: Contains the extracted and resized facial images.\nMetadata File:\n\nmetadata_celebs.csv: A CSV file storing metadata information for each extracted image with the following columns:\nName: The filename of the extracted image.\nLabel: The label indicating whether the image is \"Fake\" or \"Real.\"\nCreation Process:\n\nVideo Frame Extraction:\n\nThe first frame from each video in the source folders is extracted.\nImage Resizing:\n\nThe extracted frames are resized to 224x224 pixels to ensure uniformity and compatibility with common machine learning models.\nImage Storage:\n\nThe resized images are saved in the celeb_faces_224/ folder with filenames corresponding to the original video names.\nMetadata Compilation:\n\nA metadata CSV file (metadata_celebs.csv) is created to store the filenames and labels of the images, indicating whether they are from \"Fake\" or \"Real\" videos.\nIntended Use:\nThe dataset is ideal for tasks such as:\n\nDeepfake detection and analysis\nTraining and evaluation of machine learning models for facial image classification\nImage forensics research and development\nNote: This dataset is derived from the Celeb-DF dataset and is intended for research and educational purposes only.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

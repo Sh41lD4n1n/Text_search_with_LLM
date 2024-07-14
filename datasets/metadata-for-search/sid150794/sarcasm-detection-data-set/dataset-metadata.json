@@ -1,0 +1,37 @@
+{
+  "id": "sid150794/sarcasm-detection-data-set",
+  "id_no": 1862871,
+  "datasetSlugNullable": "sarcasm-detection-data-set",
+  "ownerUserNullable": "sid150794",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "Sarcasm Detection Data Set",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1862871,
+  "datasetSlug": "sarcasm-detection-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "sid150794",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 139,
+  "totalVotes": 1,
+  "totalDownloads": 28,
+  "title": "Sarcasm Detection Data Set",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

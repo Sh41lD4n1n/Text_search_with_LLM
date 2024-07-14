@@ -1,0 +1,37 @@
+{
+  "id": "/seattle-library-checkout-records",
+  "id_no": 3349,
+  "datasetSlugNullable": "seattle-library-checkout-records",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.6176470588235294,
+  "titleNullable": "Seattle Library Checkout Records",
+  "subtitleNullable": "Twelve years of checkout records",
+  "descriptionNullable": "### Context\n\nThis dataset includes a log of all physical item checkouts from Seattle Public Library. The dataset begins with checkouts occurring in April of 2005 through September of 2017. Renewals are not included. \n\nContinuously updated data is [available directly from the library here](https://data.seattle.gov/Community/Library-Collection-Inventory/6vkj-f5xf), and [here](https://data.seattle.gov/dataset/Checkouts-by-Title-Physical-Items-/3h5r-qv5w).\n\n### Content\n\nThe dataset contains several types of files:\n\n- Checkout records hold the raw data. I've dropped several columns from these files in order to shrink the total dataset size down from a couple of dozen gigabytes; they can be rebuilt by merging with the library collection inventory.\n- The data dictionary allows you to decode the 'ItemType' column from the checkout records.\n- The library collection inventory is a dataset in its own right and stores important metadata about each title, such as the author and subjects.\n\n### Inspiration\n\n- Can you predict which books will be checked out in the coming month? SPL posts fresh data every month, so you can check your forecast by downloading the new data from them. \n- With a bit of imagination, this can be a great dataset for logistics modeling. Make some assumptions about each [location's](http://www.spl.org/locations) storage capacity and where a book was checked out from and you've got a warehouse resource allocation problem. \n\n### Acknowledgements\n\nThis dataset was kindly made available by the [Seattle Public Library][1]. You can find the original copies of the three component datasets at the following links:\n- [Collection data](https://data.seattle.gov/Community/Library-Collection-Inventory/6vkj-f5xf)\n- [Data dictionary](https://data.seattle.gov/Community/Integrated-Library-System-ILS-Data-Dictionary/pbt3-ytbc)\n- [Checkout records](https://data.seattle.gov/dataset/Checkouts-by-Title-Physical-Items-/3h5r-qv5w)\n\n### Disclaimer\n\nThe data made available here has been modified for use from its original source, which is the City of Seattle. Neither the City of Seattle nor the Office of the Chief Technology Officer (OCTO) makes any claims as to the completeness, timeliness, accuracy or content of any data contained in this application; makes any representation of any kind, including, but not limited to, warranty of the accuracy or fitness for a particular use; nor are any such warranties to be implied or inferred with respect to the information or data furnished herein. The data is subject to change as modifications and updates are complete. It is understood that the information contained in the web feed is being used at one's own risk.\n\nFor the complete terms of use, please see the [City of Seattle Data Policy](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/).\n\n  [1]: https://www.spl.org/",
+  "datasetId": 3349,
+  "datasetSlug": "seattle-library-checkout-records",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.6176470588235294,
+  "hasUsabilityRating": true,
+  "totalViews": 40874,
+  "totalVotes": 89,
+  "totalDownloads": 4195,
+  "title": "Seattle Library Checkout Records",
+  "hasTitle": true,
+  "subtitle": "Twelve years of checkout records",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset includes a log of all physical item checkouts from Seattle Public Library. The dataset begins with checkouts occurring in April of 2005 through September of 2017. Renewals are not included. \n\nContinuously updated data is [available directly from the library here](https://data.seattle.gov/Community/Library-Collection-Inventory/6vkj-f5xf), and [here](https://data.seattle.gov/dataset/Checkouts-by-Title-Physical-Items-/3h5r-qv5w).\n\n### Content\n\nThe dataset contains several types of files:\n\n- Checkout records hold the raw data. I've dropped several columns from these files in order to shrink the total dataset size down from a couple of dozen gigabytes; they can be rebuilt by merging with the library collection inventory.\n- The data dictionary allows you to decode the 'ItemType' column from the checkout records.\n- The library collection inventory is a dataset in its own right and stores important metadata about each title, such as the author and subjects.\n\n### Inspiration\n\n- Can you predict which books will be checked out in the coming month? SPL posts fresh data every month, so you can check your forecast by downloading the new data from them. \n- With a bit of imagination, this can be a great dataset for logistics modeling. Make some assumptions about each [location's](http://www.spl.org/locations) storage capacity and where a book was checked out from and you've got a warehouse resource allocation problem. \n\n### Acknowledgements\n\nThis dataset was kindly made available by the [Seattle Public Library][1]. You can find the original copies of the three component datasets at the following links:\n- [Collection data](https://data.seattle.gov/Community/Library-Collection-Inventory/6vkj-f5xf)\n- [Data dictionary](https://data.seattle.gov/Community/Integrated-Library-System-ILS-Data-Dictionary/pbt3-ytbc)\n- [Checkout records](https://data.seattle.gov/dataset/Checkouts-by-Title-Physical-Items-/3h5r-qv5w)\n\n### Disclaimer\n\nThe data made available here has been modified for use from its original source, which is the City of Seattle. Neither the City of Seattle nor the Office of the Chief Technology Officer (OCTO) makes any claims as to the completeness, timeliness, accuracy or content of any data contained in this application; makes any representation of any kind, including, but not limited to, warranty of the accuracy or fitness for a particular use; nor are any such warranties to be implied or inferred with respect to the information or data furnished herein. The data is subject to change as modifications and updates are complete. It is understood that the information contained in the web feed is being used at one's own risk.\n\nFor the complete terms of use, please see the [City of Seattle Data Policy](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/).\n\n  [1]: https://www.spl.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

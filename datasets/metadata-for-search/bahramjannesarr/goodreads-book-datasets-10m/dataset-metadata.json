@@ -1,0 +1,46 @@
+{
+  "id": "bahramjannesarr/goodreads-book-datasets-10m",
+  "id_no": 740661,
+  "datasetSlugNullable": "goodreads-book-datasets-10m",
+  "ownerUserNullable": "bahramjannesarr",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Goodreads Book Datasets With User Rating 2M",
+  "subtitleNullable": "Every 2 days , this dataset will be updated",
+  "descriptionNullable": "### Best quot ever : \n\n&gt;*Don't ever tell anybody anything, if you do, you start missing everybody*\n  J.D. Salinger\n\n### Story\n\nEvery one of us knows the [Goodreads](https://www.goodreads.com/), and every book lovers when want to buy a book, firstly search the title of the book on this website and read all of that reviews and ratings are available there for that book. \ndo you know the better place for scraping data from there? tell us  **ba.jannesar@gmail.com** or **ghaderi.soroush1995@gmail.com**\nGoodreads one the best place for this job! \ud83d\udcaf \n\nThese datasets are very good for two jobs : \n\n1 . Creating book recommendation system based on 10 M books \ud83e\udd47 \n2 . Using the Description columns for NLP \ud83e\udd48 \n\n### Github repo\n\nProject [link](https://github.com/BahramJannesar/GoodreadsBookDataset) on github or [here](https://github.com/SoroushGhaderi/goodreads_book_dataset).\n\n### Content\n\nApproximately 10,000,000 books are available on the site's archives, and these datasets are collecting from them. for requesting on the API, we used [Goodreads python library](https://pypi.org/project/Goodreads/), \n****Datasets will be updated every 2 days.****\n\n### Acknowledgements\n\nThis data was entirely scrapped from the [Goodreads API](https://www.goodreads.com/api).\n\n### Inspiration\n\nDo you know what is NLP? , download these datasets then upvote \ud83d\udcaf. \n\n### Book Sample \n\nJSON :\n```\n {\n    \"Id\": \"5107\",\n    \"Name\": \"The Catcher in the Rye\",\n    \"RatingDist1\": \"1:133165\",\n    \"RatingDist2\": \"2:224884\",\n    \"RatingDist3\": \"3:553476\",\n    \"RatingDist4\": \"4:808278\",\n    \"RatingDist5\": \"5:891037\",\n    \"pagesNumber\": 277,\n    \"RatingDistTotal\": \"total:2610840\",\n    \"PublishMonth\": 30,\n    \"PublishDay\": 1,\n    \"Publisher\": \"Back Bay Books\",\n    \"CountsOfReview\": 44046,\n    \"PublishYear\": 2001,\n    \"Language\": \"eng\",\n    \"Authors\": \"J.D. Salinger\",\n    \"Rating\": 3.8,\n    \"ISBN\": \"0316769177\",\n   \"Count of text reviews\": 55539,\n    \"Description\": \"The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through \n    circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for \n    three days. \"\n }\n```\nOr CSV :\n\n`5107,The Catcher in the Rye,1:133165,277,4:808278,total:2610840,30,1,Back Bay Books,44046,2001,eng,J.D. Salinger,3.8,2:224884,5:891037,0316769177,3:553476,55539,\"The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. \"`\n",
+  "datasetId": 740661,
+  "datasetSlug": "goodreads-book-datasets-10m",
+  "hasDatasetSlug": true,
+  "ownerUser": "bahramjannesarr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 79740,
+  "totalVotes": 259,
+  "totalDownloads": 9323,
+  "title": "Goodreads Book Datasets With User Rating 2M",
+  "hasTitle": true,
+  "subtitle": "Every 2 days , this dataset will be updated",
+  "hasSubtitle": true,
+  "description": "### Best quot ever : \n\n&gt;*Don't ever tell anybody anything, if you do, you start missing everybody*\n  J.D. Salinger\n\n### Story\n\nEvery one of us knows the [Goodreads](https://www.goodreads.com/), and every book lovers when want to buy a book, firstly search the title of the book on this website and read all of that reviews and ratings are available there for that book. \ndo you know the better place for scraping data from there? tell us  **ba.jannesar@gmail.com** or **ghaderi.soroush1995@gmail.com**\nGoodreads one the best place for this job! \ud83d\udcaf \n\nThese datasets are very good for two jobs : \n\n1 . Creating book recommendation system based on 10 M books \ud83e\udd47 \n2 . Using the Description columns for NLP \ud83e\udd48 \n\n### Github repo\n\nProject [link](https://github.com/BahramJannesar/GoodreadsBookDataset) on github or [here](https://github.com/SoroushGhaderi/goodreads_book_dataset).\n\n### Content\n\nApproximately 10,000,000 books are available on the site's archives, and these datasets are collecting from them. for requesting on the API, we used [Goodreads python library](https://pypi.org/project/Goodreads/), \n****Datasets will be updated every 2 days.****\n\n### Acknowledgements\n\nThis data was entirely scrapped from the [Goodreads API](https://www.goodreads.com/api).\n\n### Inspiration\n\nDo you know what is NLP? , download these datasets then upvote \ud83d\udcaf. \n\n### Book Sample \n\nJSON :\n```\n {\n    \"Id\": \"5107\",\n    \"Name\": \"The Catcher in the Rye\",\n    \"RatingDist1\": \"1:133165\",\n    \"RatingDist2\": \"2:224884\",\n    \"RatingDist3\": \"3:553476\",\n    \"RatingDist4\": \"4:808278\",\n    \"RatingDist5\": \"5:891037\",\n    \"pagesNumber\": 277,\n    \"RatingDistTotal\": \"total:2610840\",\n    \"PublishMonth\": 30,\n    \"PublishDay\": 1,\n    \"Publisher\": \"Back Bay Books\",\n    \"CountsOfReview\": 44046,\n    \"PublishYear\": 2001,\n    \"Language\": \"eng\",\n    \"Authors\": \"J.D. Salinger\",\n    \"Rating\": 3.8,\n    \"ISBN\": \"0316769177\",\n   \"Count of text reviews\": 55539,\n    \"Description\": \"The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through \n    circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for \n    three days. \"\n }\n```\nOr CSV :\n\n`5107,The Catcher in the Rye,1:133165,277,4:808278,total:2610840,30,1,Back Bay Books,44046,2001,eng,J.D. Salinger,3.8,2:224884,5:891037,0316769177,3:553476,55539,\"The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. \"`\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "soroushghaderi",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

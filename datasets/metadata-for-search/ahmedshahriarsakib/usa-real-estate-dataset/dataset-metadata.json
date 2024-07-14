@@ -1,0 +1,44 @@
+{
+  "id": "ahmedshahriarsakib/usa-real-estate-dataset",
+  "id_no": 3202774,
+  "datasetSlugNullable": "usa-real-estate-dataset",
+  "ownerUserNullable": "ahmedshahriarsakib",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "USA Real Estate Dataset",
+  "subtitleNullable": "Real Estate listings (2.2M+) in the US broken by State and zip code",
+  "descriptionNullable": "## Context\n\nThis dataset contains Real Estate listings in the US broken by State and zip code.\n\n## Download\n\nkaggle API Command\n```\n!kaggle datasets download -d ahmedshahriarsakib/usa-real-estate-dataset\n```\n\n### Content\n\nThe dataset has 1 CSV file with 10 columns -\n\n1. realtor-data.csv (2,226,382 entries)\n  - brokered by (categorically encoded agency/broker)\n  - status (Housing status - a. ready for sale or b. ready to build) \n  - price (Housing price, it is either the current listing price or recently sold price if the house is sold recently)\n  - bed (# of beds)\n  - bath (# of bathrooms)\n  - acre_lot (Property / Land size in acres)\n  - street (categorically encoded street address)\n  - city (city name)\n  - state (state name)\n  - zip_code (postal code of the area)\n  - house_size (house area/size/living space  in square feet)\n  - prev_sold_date (Previously sold date)\n\n\nNB: \n1. `brokered by` and `street` addresses were categorically encoded due to privacy policy \n2. `acre_lot` means the total land area, and ` house_size` denotes the living space/building area\n\n## Acknowledgements\n\nData was collected from -\n- [https://www.realtor.com/](https://www.realtor.com/) - A real estate listing website operated by the News Corp subsidiary Move, Inc. and based in Santa Clara, California. It is the second most visited real estate listing website in the United States as of 2024, with over 100 million monthly active users. \n\n\n## Cover Image\n\nImage by <a href=\"https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3261160\">Mohamed Hassan</a> from <a href=\"https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3261160\">Pixabay</a>\n\n## Disclaimer\n\nThe data and information in the data set provided here are intended to use for educational purposes only. I do not own any data, and all rights are reserved to the respective owners.\n\n\n## Inspiration\n\n- Can we predict housing prices based on the features?\n- How are housing price and location attributes correlated?\n- What is the overall picture of the USA housing prices w.r.t. locations?\n- Do house attributes (bedroom, bathroom count) strongly correlate with the price? Are there any hidden patterns?",
+  "datasetId": 3202774,
+  "datasetSlug": "usa-real-estate-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedshahriarsakib",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 144746,
+  "totalVotes": 157,
+  "totalDownloads": 17391,
+  "title": "USA Real Estate Dataset",
+  "hasTitle": true,
+  "subtitle": "Real Estate listings (2.2M+) in the US broken by State and zip code",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThis dataset contains Real Estate listings in the US broken by State and zip code.\n\n## Download\n\nkaggle API Command\n```\n!kaggle datasets download -d ahmedshahriarsakib/usa-real-estate-dataset\n```\n\n### Content\n\nThe dataset has 1 CSV file with 10 columns -\n\n1. realtor-data.csv (2,226,382 entries)\n  - brokered by (categorically encoded agency/broker)\n  - status (Housing status - a. ready for sale or b. ready to build) \n  - price (Housing price, it is either the current listing price or recently sold price if the house is sold recently)\n  - bed (# of beds)\n  - bath (# of bathrooms)\n  - acre_lot (Property / Land size in acres)\n  - street (categorically encoded street address)\n  - city (city name)\n  - state (state name)\n  - zip_code (postal code of the area)\n  - house_size (house area/size/living space  in square feet)\n  - prev_sold_date (Previously sold date)\n\n\nNB: \n1. `brokered by` and `street` addresses were categorically encoded due to privacy policy \n2. `acre_lot` means the total land area, and ` house_size` denotes the living space/building area\n\n## Acknowledgements\n\nData was collected from -\n- [https://www.realtor.com/](https://www.realtor.com/) - A real estate listing website operated by the News Corp subsidiary Move, Inc. and based in Santa Clara, California. It is the second most visited real estate listing website in the United States as of 2024, with over 100 million monthly active users. \n\n\n## Cover Image\n\nImage by <a href=\"https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3261160\">Mohamed Hassan</a> from <a href=\"https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3261160\">Pixabay</a>\n\n## Disclaimer\n\nThe data and information in the data set provided here are intended to use for educational purposes only. I do not own any data, and all rights are reserved to the respective owners.\n\n\n## Inspiration\n\n- Can we predict housing prices based on the features?\n- How are housing price and location attributes correlated?\n- What is the overall picture of the USA housing prices w.r.t. locations?\n- Do house attributes (bedroom, bathroom count) strongly correlate with the price? Are there any hidden patterns?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "housing",
+    "real estate",
+    "computer science",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

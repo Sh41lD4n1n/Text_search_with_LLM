@@ -1,0 +1,39 @@
+{
+  "id": "bipulnath98/movies-dataset",
+  "id_no": 2862752,
+  "datasetSlugNullable": "movies-dataset",
+  "ownerUserNullable": "bipulnath98",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Movies Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2862752,
+  "datasetSlug": "movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bipulnath98",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 145,
+  "totalVotes": 1,
+  "totalDownloads": 39,
+  "title": "Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

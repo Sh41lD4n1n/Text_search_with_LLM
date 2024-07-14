@@ -1,0 +1,42 @@
+{
+  "id": "datatattle/covid-19-nlp-text-classification",
+  "id_no": 863934,
+  "datasetSlugNullable": "covid-19-nlp-text-classification",
+  "ownerUserNullable": "datatattle",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Coronavirus tweets NLP - Text Classification",
+  "subtitleNullable": "Corona Virus Tagged Data",
+  "descriptionNullable": "Perform Text Classification on the data. The tweets have been pulled from Twitter and manual tagging has been done then.\nThe names and usernames have been given codes to avoid any privacy concerns.\n\nColumns:\n1) Location\n2) Tweet At\n3) Original Tweet\n4) Label\n\nPlease leave an upvote if you find this relevant. P.S. I am new and it will help immensely. :) \n\nOther Datasets:\n1) Guns dataset:  https://www.kaggle.com/datatattle/guns-incident-data\n2) Sales Prediction: https://www.kaggle.com/datatattle/sales-prediction-dt-mart-retail\n3) Retail Sales: https://www.kaggle.com/datatattle/dtmart-retail-sales\n",
+  "datasetId": 863934,
+  "datasetSlug": "covid-19-nlp-text-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "datatattle",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 264243,
+  "totalVotes": 671,
+  "totalDownloads": 44493,
+  "title": "Coronavirus tweets NLP - Text Classification",
+  "hasTitle": true,
+  "subtitle": "Corona Virus Tagged Data",
+  "hasSubtitle": true,
+  "description": "Perform Text Classification on the data. The tweets have been pulled from Twitter and manual tagging has been done then.\nThe names and usernames have been given codes to avoid any privacy concerns.\n\nColumns:\n1) Location\n2) Tweet At\n3) Original Tweet\n4) Label\n\nPlease leave an upvote if you find this relevant. P.S. I am new and it will help immensely. :) \n\nOther Datasets:\n1) Guns dataset:  https://www.kaggle.com/datatattle/guns-incident-data\n2) Sales Prediction: https://www.kaggle.com/datatattle/sales-prediction-dt-mart-retail\n3) Retail Sales: https://www.kaggle.com/datatattle/dtmart-retail-sales\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "health",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

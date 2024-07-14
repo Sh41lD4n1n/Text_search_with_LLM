@@ -1,0 +1,39 @@
+{
+  "id": "/electric-power-consumption-data-set",
+  "id_no": 122,
+  "datasetSlugNullable": "electric-power-consumption-data-set",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Household Electric Power Consumption",
+  "subtitleNullable": "time series analysis- regression / clustering",
+  "descriptionNullable": "I need help to analyze this data set **with R code**, if someone can help me I'd appreciate a lot and **I'd send some money** for his kindness. I really need how to do a regression and clustering manipulating this data.\nSorry about the format, it's in text file. \n**Thanks in advance :)**\n\n**Context:** Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.\n\n**Data Set Characteristics:**  \nMultivariate, Time-Series\n\n**Associated Tasks:**\nRegression, Clustering\n\n**Data Set Information:**\n\nThis archive contains 2075259 measurements gathered between December 2006 and November 2010 (47 months). \nNotes: \n1.(global_active_power*1000/60 - sub_metering_1 - sub_metering_2 - sub_metering_3) represents the active energy consumed every minute (in watt hour) in the household by electrical equipment not measured in sub-meterings 1, 2 and 3. \n\n2.The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. For instance, the dataset shows missing values on April 28, 2007.\n\n\n**Attribute Information:**\n1.date: Date in format dd/mm/yyyy \n\n2.time: time in format hh:mm:ss \n\n3.global_active_power: household global minute-averaged active power (in kilowatt) \n\n4.global_reactive_power: household global minute-averaged reactive power (in kilowatt) \n\n5.voltage: minute-averaged voltage (in volt) \n\n6.global_intensity: household global minute-averaged current intensity (in ampere) \n\n7.sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered). \n\n8.sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. \n\n9.sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.",
+  "datasetId": 122,
+  "datasetSlug": "electric-power-consumption-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 316292,
+  "totalVotes": 376,
+  "totalDownloads": 35019,
+  "title": "Household Electric Power Consumption",
+  "hasTitle": true,
+  "subtitle": "time series analysis- regression / clustering",
+  "hasSubtitle": true,
+  "description": "I need help to analyze this data set **with R code**, if someone can help me I'd appreciate a lot and **I'd send some money** for his kindness. I really need how to do a regression and clustering manipulating this data.\nSorry about the format, it's in text file. \n**Thanks in advance :)**\n\n**Context:** Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.\n\n**Data Set Characteristics:**  \nMultivariate, Time-Series\n\n**Associated Tasks:**\nRegression, Clustering\n\n**Data Set Information:**\n\nThis archive contains 2075259 measurements gathered between December 2006 and November 2010 (47 months). \nNotes: \n1.(global_active_power*1000/60 - sub_metering_1 - sub_metering_2 - sub_metering_3) represents the active energy consumed every minute (in watt hour) in the household by electrical equipment not measured in sub-meterings 1, 2 and 3. \n\n2.The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. For instance, the dataset shows missing values on April 28, 2007.\n\n\n**Attribute Information:**\n1.date: Date in format dd/mm/yyyy \n\n2.time: time in format hh:mm:ss \n\n3.global_active_power: household global minute-averaged active power (in kilowatt) \n\n4.global_reactive_power: household global minute-averaged reactive power (in kilowatt) \n\n5.voltage: minute-averaged voltage (in volt) \n\n6.global_intensity: household global minute-averaged current intensity (in ampere) \n\n7.sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered). \n\n8.sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. \n\n9.sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

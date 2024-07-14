@@ -1,0 +1,41 @@
+{
+  "id": "austro/beat-the-bookie-worldwide-football-dataset",
+  "id_no": 2880,
+  "datasetSlugNullable": "beat-the-bookie-worldwide-football-dataset",
+  "ownerUserNullable": "austro",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Beat The Bookie: Odds Series Football Dataset",
+  "subtitleNullable": "+500,000 matches, 11-year odds dataset from 32 bookies for 1,005 leagues",
+  "descriptionNullable": "## The Challenge ##\n\nThe online sports gambling industry employs teams of data analysts to build forecast models that turn the odds at sports games in their favour. While several betting strategies have been proposed to beat bookmakers, from expert prediction models and arbitrage strategies to odds bias exploitation, their returns have been inconsistent and it remains to be shown that a betting strategy can outperform the online sports betting market. We designed a strategy to beat football bookmakers with their own numbers:\n\n\"[Beating the bookies with their own numbers - and how the online sports betting market is rigged][1]\", by Lisandro Kaunitz, Shenjun Zhong and Javier Kreiner.\n\nHere, we make the full dataset publicly available to the Kaggle community. We also provide the [codes, raw SQL database and the online real-time dashboard that were used for our study on github.][2] \n\nOur strategy proved profitable in a 10-year historical simulation using closing odds, a 6-month historical simulation using minute to minute odds, and a 5-month period during which we staked real money with the bookmakers. We would like to challenge the Kaggle community to improve our results: \n\n- **Can your strategy consistently beat the sports betting market over thousands of bets across leagues around the world?**\n- **Do time series odds movements offer insightful information that a betting strategy can exploit?**\n- **Can you outperform the bookmakers\u2019 predictions included in the odds data by creating a better model?**\n\n\n----------\n\n\n## What's inside the Beat The Bookie dataset ##\n\n*10 year historical closing odds:*\n\n - 479,440 football games from 818 leagues around the world \n - Games from 2005-01-01 to 2015-07-30. \n - Maximum, average and count of active odds at closing time (start of the match)\n - Betting odds from up to 32 providers\n - Details about the match: date and time, league, teams, 90-minute score\n\n*14-months time series odds:*\n\n - 92,647 football games from 1005 leagues around the world \n - Games from 2015-09-01 to 2016-11-22 \n - Hourly sampled odds time series, from up to 32 bookmakers from 72 hours before the start of each game\n - Details about the match: date and time, league, teams, 90-minute score\n \nThe dataset was assembled over months of scraping online sport portals.\n\nWe hope you enjoy your sports betting simulations (but remember... the house always wins in the end).\n\n\n\n## Acknowledgements ##\n\nBen Fulcher was of great help when we were drafting the paper. Ben has also developed a very nice [toolbox for time-series analysis][3], which might be relevant for the analysis of this dataset.\n\n\n  [1]: https://arxiv.org/pdf/1710.02824.pdf\n  [2]: https://github.com/Lisandro79/BeatTheBookie\n  [3]: http://www.benfulcher.com/",
+  "datasetId": 2880,
+  "datasetSlug": "beat-the-bookie-worldwide-football-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "austro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 62327,
+  "totalVotes": 128,
+  "totalDownloads": 5957,
+  "title": "Beat The Bookie: Odds Series Football Dataset",
+  "hasTitle": true,
+  "subtitle": "+500,000 matches, 11-year odds dataset from 32 bookies for 1,005 leagues",
+  "hasSubtitle": true,
+  "description": "## The Challenge ##\n\nThe online sports gambling industry employs teams of data analysts to build forecast models that turn the odds at sports games in their favour. While several betting strategies have been proposed to beat bookmakers, from expert prediction models and arbitrage strategies to odds bias exploitation, their returns have been inconsistent and it remains to be shown that a betting strategy can outperform the online sports betting market. We designed a strategy to beat football bookmakers with their own numbers:\n\n\"[Beating the bookies with their own numbers - and how the online sports betting market is rigged][1]\", by Lisandro Kaunitz, Shenjun Zhong and Javier Kreiner.\n\nHere, we make the full dataset publicly available to the Kaggle community. We also provide the [codes, raw SQL database and the online real-time dashboard that were used for our study on github.][2] \n\nOur strategy proved profitable in a 10-year historical simulation using closing odds, a 6-month historical simulation using minute to minute odds, and a 5-month period during which we staked real money with the bookmakers. We would like to challenge the Kaggle community to improve our results: \n\n- **Can your strategy consistently beat the sports betting market over thousands of bets across leagues around the world?**\n- **Do time series odds movements offer insightful information that a betting strategy can exploit?**\n- **Can you outperform the bookmakers\u2019 predictions included in the odds data by creating a better model?**\n\n\n----------\n\n\n## What's inside the Beat The Bookie dataset ##\n\n*10 year historical closing odds:*\n\n - 479,440 football games from 818 leagues around the world \n - Games from 2005-01-01 to 2015-07-30. \n - Maximum, average and count of active odds at closing time (start of the match)\n - Betting odds from up to 32 providers\n - Details about the match: date and time, league, teams, 90-minute score\n\n*14-months time series odds:*\n\n - 92,647 football games from 1005 leagues around the world \n - Games from 2015-09-01 to 2016-11-22 \n - Hourly sampled odds time series, from up to 32 bookmakers from 72 hours before the start of each game\n - Details about the match: date and time, league, teams, 90-minute score\n \nThe dataset was assembled over months of scraping online sport portals.\n\nWe hope you enjoy your sports betting simulations (but remember... the house always wins in the end).\n\n\n\n## Acknowledgements ##\n\nBen Fulcher was of great help when we were drafting the paper. Ben has also developed a very nice [toolbox for time-series analysis][3], which might be relevant for the analysis of this dataset.\n\n\n  [1]: https://arxiv.org/pdf/1710.02824.pdf\n  [2]: https://github.com/Lisandro79/BeatTheBookie\n  [3]: http://www.benfulcher.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "gambling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

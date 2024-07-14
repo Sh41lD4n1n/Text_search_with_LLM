@@ -1,0 +1,43 @@
+{
+  "id": "georgemartvel/catflw",
+  "id_no": 4810280,
+  "datasetSlugNullable": "catflw",
+  "ownerUserNullable": "georgemartvel",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "CatFLW",
+  "subtitleNullable": "Cat Facial Landmarks in the Wild",
+  "descriptionNullable": "The `Cat Facial Landmarks in the Wild (CatFLW)` dataset contains 2079 images of cats' faces in various environments and conditions, annotated with 48 facial landmarks and a bounding box on the cat\u2019s face.\n\nIf you use the `CatFLW`, please cite the [dataset paper](https://arxiv.org/abs/2305.04232):\n\n```\n@article{martvel2023catflw,\n  title={Catflw: Cat facial landmarks in the wild dataset},\n  author={Martvel, George and Farhat, Nareed and Shimshoni, Ilan and Zamansky, Anna},\n  journal={arXiv preprint arXiv:2305.04232},\n  year={2023}\n}\n```\n\nYou can also check out the [landmark detection paper](https://link.springer.com/article/10.1007/s11263-024-02006-w) and compare the detection performance on the CatFLW:\n\n```\n@article{martvel2024automated,\n  title={Automated Detection of Cat Facial Landmarks},\n  author={Martvel, George and Shimshoni, Ilan and Zamansky, Anna},\n  journal={International Journal of Computer Vision},\n  pages={1--16},\n  year={2024},\n  publisher={Springer}\n}\n```",
+  "datasetId": 4810280,
+  "datasetSlug": "catflw",
+  "hasDatasetSlug": true,
+  "ownerUser": "georgemartvel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 375,
+  "totalVotes": 3,
+  "totalDownloads": 31,
+  "title": "CatFLW",
+  "hasTitle": true,
+  "subtitle": "Cat Facial Landmarks in the Wild",
+  "hasSubtitle": true,
+  "description": "The `Cat Facial Landmarks in the Wild (CatFLW)` dataset contains 2079 images of cats' faces in various environments and conditions, annotated with 48 facial landmarks and a bounding box on the cat\u2019s face.\n\nIf you use the `CatFLW`, please cite the [dataset paper](https://arxiv.org/abs/2305.04232):\n\n```\n@article{martvel2023catflw,\n  title={Catflw: Cat facial landmarks in the wild dataset},\n  author={Martvel, George and Farhat, Nareed and Shimshoni, Ilan and Zamansky, Anna},\n  journal={arXiv preprint arXiv:2305.04232},\n  year={2023}\n}\n```\n\nYou can also check out the [landmark detection paper](https://link.springer.com/article/10.1007/s11263-024-02006-w) and compare the detection performance on the CatFLW:\n\n```\n@article{martvel2024automated,\n  title={Automated Detection of Cat Facial Landmarks},\n  author={Martvel, George and Shimshoni, Ilan and Zamansky, Anna},\n  journal={International Journal of Computer Vision},\n  pages={1--16},\n  year={2024},\n  publisher={Springer}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "animals",
+    "computer vision",
+    "image",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

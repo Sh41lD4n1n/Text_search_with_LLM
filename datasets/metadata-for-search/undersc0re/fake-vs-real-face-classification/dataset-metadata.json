@@ -1,0 +1,44 @@
+{
+  "id": "undersc0re/fake-vs-real-face-classification",
+  "id_no": 1653411,
+  "datasetSlugNullable": "fake-vs-real-face-classification",
+  "ownerUserNullable": "undersc0re",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Real vs Fake Face Classification",
+  "subtitleNullable": "Build Image Classifier to classify Real vs Fake Face ",
+  "descriptionNullable": "This dataset contains images of the real face and fake face (generate using GAN technology).\n\nThe task is to classify the image into the real face or fake face. ",
+  "datasetId": 1653411,
+  "datasetSlug": "fake-vs-real-face-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "undersc0re",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3844,
+  "totalVotes": 3,
+  "totalDownloads": 409,
+  "title": "Real vs Fake Face Classification",
+  "hasTitle": true,
+  "subtitle": "Build Image Classifier to classify Real vs Fake Face ",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of the real face and fake face (generate using GAN technology).\n\nThe task is to classify the image into the real face or fake face. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "beginner",
+    "computer vision",
+    "classification",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

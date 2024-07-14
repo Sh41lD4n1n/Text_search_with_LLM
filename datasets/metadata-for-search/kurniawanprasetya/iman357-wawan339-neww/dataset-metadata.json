@@ -1,0 +1,37 @@
+{
+  "id": "kurniawanprasetya/iman357-wawan339-neww",
+  "id_no": 5270571,
+  "datasetSlugNullable": "iman357-wawan339-neww",
+  "ownerUserNullable": "kurniawanprasetya",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Iman(357)-Wawan(339)-neww",
+  "subtitleNullable": "",
+  "descriptionNullable": "Flower Samples Dataset\n\nThis dataset contains images of two different types of flowers: roses and orchid. Each image is labeled with its corresponding flower type. The dataset is suitable for tasks such as image classification or object recognition. The images are captured from various angles and under different lighting conditions to provide a diverse set of samples for training and evaluation purposes. Researchers and developers can use this dataset to train machine learning models to classify images of roses and orchid accurately.\n\nAdenium obesum (Desert Rose)\n\nAdenium obesum, commonly known as the Desert Rose, is a flowering plant native to the Sahel regions of Africa and the Arabian Peninsula. This plant is admired for its striking appearance, featuring a swollen stem base (caudex) that stores water, making it well-suited to arid environments. The Desert Rose produces vibrant, trumpet-shaped flowers in shades of pink, red, and white. Its glossy, dark green leaves contrast beautifully with its flowers, adding to its ornamental appeal. Due to its ability to thrive in dry conditions, Adenium obesum is popular among bonsai enthusiasts and gardeners who favor drought-tolerant plants.\n\nCatharanthus roseus (Madagascar Periwinkle)\n\nCatharanthus roseus, also known as Madagascar Periwinkle or Vinca, is a perennial plant native to Madagascar. This hardy and versatile plant is celebrated for its continuous blooming habit, producing abundant pink, white, or red flowers throughout the year. It is often used in gardens and landscaping due to its ability to thrive in a variety of conditions, from full sun to partial shade. Beyond its ornamental value, Catharanthus roseus is renowned in the pharmaceutical industry for its alkaloid compounds, which have been used in the development of important cancer treatment drugs, such as vincristine and vinblastine.",
+  "datasetId": 5270571,
+  "datasetSlug": "iman357-wawan339-neww",
+  "hasDatasetSlug": true,
+  "ownerUser": "kurniawanprasetya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Iman(357)-Wawan(339)-neww",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Flower Samples Dataset\n\nThis dataset contains images of two different types of flowers: roses and orchid. Each image is labeled with its corresponding flower type. The dataset is suitable for tasks such as image classification or object recognition. The images are captured from various angles and under different lighting conditions to provide a diverse set of samples for training and evaluation purposes. Researchers and developers can use this dataset to train machine learning models to classify images of roses and orchid accurately.\n\nAdenium obesum (Desert Rose)\n\nAdenium obesum, commonly known as the Desert Rose, is a flowering plant native to the Sahel regions of Africa and the Arabian Peninsula. This plant is admired for its striking appearance, featuring a swollen stem base (caudex) that stores water, making it well-suited to arid environments. The Desert Rose produces vibrant, trumpet-shaped flowers in shades of pink, red, and white. Its glossy, dark green leaves contrast beautifully with its flowers, adding to its ornamental appeal. Due to its ability to thrive in dry conditions, Adenium obesum is popular among bonsai enthusiasts and gardeners who favor drought-tolerant plants.\n\nCatharanthus roseus (Madagascar Periwinkle)\n\nCatharanthus roseus, also known as Madagascar Periwinkle or Vinca, is a perennial plant native to Madagascar. This hardy and versatile plant is celebrated for its continuous blooming habit, producing abundant pink, white, or red flowers throughout the year. It is often used in gardens and landscaping due to its ability to thrive in a variety of conditions, from full sun to partial shade. Beyond its ornamental value, Catharanthus roseus is renowned in the pharmaceutical industry for its alkaloid compounds, which have been used in the development of important cancer treatment drugs, such as vincristine and vinblastine.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

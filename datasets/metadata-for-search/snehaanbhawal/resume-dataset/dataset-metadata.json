@@ -1,0 +1,43 @@
+{
+  "id": "snehaanbhawal/resume-dataset",
+  "id_no": 1519260,
+  "datasetSlugNullable": "resume-dataset",
+  "ownerUserNullable": "snehaanbhawal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Resume Dataset",
+  "subtitleNullable": "A collection of Resumes in PDF as well as String format for data extraction.",
+  "descriptionNullable": "### Context\n\nA collection of Resume Examples taken from livecareer.com for categorizing a given resume into any of the labels defined in the dataset.\n\n### Content\n\nContains 2400+ Resumes in string as well as PDF format.\nPDF stored in the data folder differentiated into their respective labels as folders with each resume residing inside the folder in pdf form with filename as the id defined in the csv.\n\nInside the CSV:\n- ID: Unique identifier and file name for the respective pdf.\n- Resume_str : Contains the resume text only in string format.\n- Resume_html  : Contains the resume data in html format as present while web scrapping. \n- Category : Category of the job the resume was used to apply.\n\nPresent categories are \nHR, Designer, Information-Technology, Teacher, Advocate, Business-Development, Healthcare, Fitness, Agriculture, BPO, Sales, Consultant, Digital-Media, Automobile, Chef, Finance, Apparel, Engineering, Accountant, Construction, Public-Relations, Banking, Arts, Aviation\n\n### Acknowledgements\n\nData was obtained by scrapping individual resume examples from www.livecareer.com website. Web Scrapping code present in my [Github Repo](https://github.com/Sbhawal/resumeScraper).\n",
+  "datasetId": 1519260,
+  "datasetSlug": "resume-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "snehaanbhawal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 105813,
+  "totalVotes": 155,
+  "totalDownloads": 18493,
+  "title": "Resume Dataset",
+  "hasTitle": true,
+  "subtitle": "A collection of Resumes in PDF as well as String format for data extraction.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA collection of Resume Examples taken from livecareer.com for categorizing a given resume into any of the labels defined in the dataset.\n\n### Content\n\nContains 2400+ Resumes in string as well as PDF format.\nPDF stored in the data folder differentiated into their respective labels as folders with each resume residing inside the folder in pdf form with filename as the id defined in the csv.\n\nInside the CSV:\n- ID: Unique identifier and file name for the respective pdf.\n- Resume_str : Contains the resume text only in string format.\n- Resume_html  : Contains the resume data in html format as present while web scrapping. \n- Category : Category of the job the resume was used to apply.\n\nPresent categories are \nHR, Designer, Information-Technology, Teacher, Advocate, Business-Development, Healthcare, Fitness, Agriculture, BPO, Sales, Consultant, Digital-Media, Automobile, Chef, Finance, Apparel, Engineering, Accountant, Construction, Public-Relations, Banking, Arts, Aviation\n\n### Acknowledgements\n\nData was obtained by scrapping individual resume examples from www.livecareer.com website. Web Scrapping code present in my [Github Repo](https://github.com/Sbhawal/resumeScraper).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "nlp",
+    "text mining",
+    "text",
+    "spaCy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

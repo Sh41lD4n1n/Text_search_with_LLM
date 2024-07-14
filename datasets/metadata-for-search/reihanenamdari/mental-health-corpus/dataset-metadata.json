@@ -1,0 +1,43 @@
+{
+  "id": "reihanenamdari/mental-health-corpus",
+  "id_no": 2782228,
+  "datasetSlugNullable": "mental-health-corpus",
+  "ownerUserNullable": "reihanenamdari",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health Corpus",
+  "subtitleNullable": "Labeled sentences about depression and axiety",
+  "descriptionNullable": "The Mental Health Corpus is a collection of texts related to people with anxiety, depression, and other mental health issues. The corpus consists of two columns: one containing the comments, and the other containing labels indicating whether the comments are considered poisonous or not. The corpus can be used for a variety of purposes, such as sentiment analysis, toxic language detection, and mental health language analysis. The data in the corpus may be useful for researchers, mental health professionals, and others interested in understanding the language and sentiment surrounding mental health issues.",
+  "datasetId": 2782228,
+  "datasetSlug": "mental-health-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "reihanenamdari",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 34457,
+  "totalVotes": 67,
+  "totalDownloads": 4420,
+  "title": "Mental Health Corpus",
+  "hasTitle": true,
+  "subtitle": "Labeled sentences about depression and axiety",
+  "hasSubtitle": true,
+  "description": "The Mental Health Corpus is a collection of texts related to people with anxiety, depression, and other mental health issues. The corpus consists of two columns: one containing the comments, and the other containing labels indicating whether the comments are considered poisonous or not. The corpus can be used for a variety of purposes, such as sentiment analysis, toxic language detection, and mental health language analysis. The data in the corpus may be useful for researchers, mental health professionals, and others interested in understanding the language and sentiment surrounding mental health issues.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "nlp",
+    "deep learning",
+    "text",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

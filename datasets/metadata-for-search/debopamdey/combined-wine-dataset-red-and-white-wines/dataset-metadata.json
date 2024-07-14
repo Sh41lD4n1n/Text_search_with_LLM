@@ -1,0 +1,43 @@
+{
+  "id": "debopamdey/combined-wine-dataset-red-and-white-wines",
+  "id_no": 5262266,
+  "datasetSlugNullable": "combined-wine-dataset-red-and-white-wines",
+  "ownerUserNullable": "debopamdey",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Combined Wine Dataset: Red & White Wines",
+  "subtitleNullable": "Comprehensive data on the chemical and quality aspects of wines",
+  "descriptionNullable": "This dataset contains comprehensive data on red and white wines, sourced from various vineyards. It includes chemical properties and quality ratings to provide a detailed insight into the characteristics that determine wine quality.\n<b>Original-source:</b> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub\"> Modeling wine preferences by data mining from physicochemical properties</a>\n<b> PDF link of the paper:</b> <a href=\"https://d1wqtxts1xzle7.cloudfront.net/31035672/wine5-libre.pdf?1392220671=&response-content-disposition=inline%3B+filename%3DModeling_wine_preferences_by_data_mining.pdf&Expires=1719069704&Signature=O-dGluHcV7Ot~~P9gqa1tgs0Jc0EWE7zTBFwcyQFwFnJIv0sDUU6USBbrzKfdfjsXx9sDFeRnq4n2rUUVmcpYTkP7JP~oOWULfokaaEzCHwbHILxHhVg7Pmz3aGidhuXzfie9mabHP9OH6PdKpiBs6Li49MA~B4BCJPAcJ02miDEZO8zzurZ79HMiM98WeWXpEMNaa~bUNGAIQ9SS5DO3GP5YW-UMlnpVtGyrwguO37jzAz-X5cG7Vj2wLKioMdAB1ZVa~oHFfjOgtQl1QJsVSEru2f4XW1YawhuHWwRfTmYQW-meUMzM~EfO84YHpBwIiw4om9Hgt0yRg~2MW7HaQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA\">wine5-libre.pdf</a>\n<b>Created by:</b> Paulo Cortez (Univ. Minho), Antonio Cerdeira, Fernando Almeida, Telmo Matos and Jose Reis (CVRVV) @ 2009\n<b>Context</b>\nThe dataset was collected from multiple wine producers to create a broad and representative sample of red and white wines. The chemical properties include acidity, sugar levels, pH, sulfates, and alcohol content, while expert wine tasters gave the quality ratings.\n<b>Inspiration</b>\nThis dataset was inspired by the need to better understand the factors influencing wine quality. By analyzing these properties, one can predict wine quality and type, providing valuable insights for wine producers, retailers, and enthusiasts.\n<b>Usage</b>\nThis dataset can be used to build predictive models to classify wine type (red or white) and predict the quality rating of a wine based on its chemical properties. It is ideal for machine learning projects, data analysis, and educational purposes.",
+  "datasetId": 5262266,
+  "datasetSlug": "combined-wine-dataset-red-and-white-wines",
+  "hasDatasetSlug": true,
+  "ownerUser": "debopamdey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 46,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "Combined Wine Dataset: Red & White Wines",
+  "hasTitle": true,
+  "subtitle": "Comprehensive data on the chemical and quality aspects of wines",
+  "hasSubtitle": true,
+  "description": "This dataset contains comprehensive data on red and white wines, sourced from various vineyards. It includes chemical properties and quality ratings to provide a detailed insight into the characteristics that determine wine quality.\n<b>Original-source:</b> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub\"> Modeling wine preferences by data mining from physicochemical properties</a>\n<b> PDF link of the paper:</b> <a href=\"https://d1wqtxts1xzle7.cloudfront.net/31035672/wine5-libre.pdf?1392220671=&response-content-disposition=inline%3B+filename%3DModeling_wine_preferences_by_data_mining.pdf&Expires=1719069704&Signature=O-dGluHcV7Ot~~P9gqa1tgs0Jc0EWE7zTBFwcyQFwFnJIv0sDUU6USBbrzKfdfjsXx9sDFeRnq4n2rUUVmcpYTkP7JP~oOWULfokaaEzCHwbHILxHhVg7Pmz3aGidhuXzfie9mabHP9OH6PdKpiBs6Li49MA~B4BCJPAcJ02miDEZO8zzurZ79HMiM98WeWXpEMNaa~bUNGAIQ9SS5DO3GP5YW-UMlnpVtGyrwguO37jzAz-X5cG7Vj2wLKioMdAB1ZVa~oHFfjOgtQl1QJsVSEru2f4XW1YawhuHWwRfTmYQW-meUMzM~EfO84YHpBwIiw4om9Hgt0yRg~2MW7HaQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA\">wine5-libre.pdf</a>\n<b>Created by:</b> Paulo Cortez (Univ. Minho), Antonio Cerdeira, Fernando Almeida, Telmo Matos and Jose Reis (CVRVV) @ 2009\n<b>Context</b>\nThe dataset was collected from multiple wine producers to create a broad and representative sample of red and white wines. The chemical properties include acidity, sugar levels, pH, sulfates, and alcohol content, while expert wine tasters gave the quality ratings.\n<b>Inspiration</b>\nThis dataset was inspired by the need to better understand the factors influencing wine quality. By analyzing these properties, one can predict wine quality and type, providing valuable insights for wine producers, retailers, and enthusiasts.\n<b>Usage</b>\nThis dataset can be used to build predictive models to classify wine type (red or white) and predict the quality rating of a wine based on its chemical properties. It is ideal for machine learning projects, data analysis, and educational purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "exploratory data analysis",
+    "data analytics",
+    "classification",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

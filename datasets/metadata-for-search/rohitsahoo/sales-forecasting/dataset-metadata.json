@@ -1,0 +1,42 @@
+{
+  "id": "rohitsahoo/sales-forecasting",
+  "id_no": 835308,
+  "datasetSlugNullable": "sales-forecasting",
+  "ownerUserNullable": "rohitsahoo",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Superstore Sales Dataset",
+  "subtitleNullable": "Predict Sales using Time Series",
+  "descriptionNullable": "### Context\n\nRetail dataset of a global superstore for 4 years.\nPerform EDA and Predict the sales of the next 7 days from the last date of the Training dataset!\n\n\n### Content\n\nTime series analysis deals with time series based data to extract patterns for predictions and other characteristics of the data. It uses a model for forecasting future values in a small time frame based on previous observations. It is widely used for non-stationary data, such as economic data, weather data, stock prices, and retail sales forecasting.\n\n## Dataset\nThe dataset is easy to understand and is self-explanatory\n\n### Inspiration\n\nPerform EDA and Predict the sales of the next 7 days from the last date of the Training dataset!",
+  "datasetId": 835308,
+  "datasetSlug": "sales-forecasting",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohitsahoo",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 334745,
+  "totalVotes": 483,
+  "totalDownloads": 67634,
+  "title": "Superstore Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Predict Sales using Time Series",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRetail dataset of a global superstore for 4 years.\nPerform EDA and Predict the sales of the next 7 days from the last date of the Training dataset!\n\n\n### Content\n\nTime series analysis deals with time series based data to extract patterns for predictions and other characteristics of the data. It uses a model for forecasting future values in a small time frame based on previous observations. It is widely used for non-stationary data, such as economic data, weather data, stock prices, and retail sales forecasting.\n\n## Dataset\nThe dataset is easy to understand and is self-explanatory\n\n### Inspiration\n\nPerform EDA and Predict the sales of the next 7 days from the last date of the Training dataset!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "clothing and accessories",
+    "business",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

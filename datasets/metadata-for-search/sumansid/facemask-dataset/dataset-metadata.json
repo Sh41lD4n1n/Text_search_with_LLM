@@ -1,0 +1,39 @@
+{
+  "id": "sumansid/facemask-dataset",
+  "id_no": 706736,
+  "datasetSlugNullable": "facemask-dataset",
+  "ownerUserNullable": "sumansid",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "FaceMask Dataset",
+  "subtitleNullable": "FaceMask dataset for ML projects",
+  "descriptionNullable": "### Context\n\nThe goal of this dataset is to provide quality images for face mask detection ml projects.\n\n\n### Content\n\nThe dataset contains 180 + images under mask and no mask directories.\n\n\n### Acknowledgements\n\nThe data was scraped from unsplash.com and images from several search engines.\n\n### Inspiration\n\nI would like for people to use this dataset to create mask detection models using Convnets.",
+  "datasetId": 706736,
+  "datasetSlug": "facemask-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumansid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 18998,
+  "totalVotes": 49,
+  "totalDownloads": 2751,
+  "title": "FaceMask Dataset",
+  "hasTitle": true,
+  "subtitle": "FaceMask dataset for ML projects",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe goal of this dataset is to provide quality images for face mask detection ml projects.\n\n\n### Content\n\nThe dataset contains 180 + images under mask and no mask directories.\n\n\n### Acknowledgements\n\nThe data was scraped from unsplash.com and images from several search engines.\n\n### Inspiration\n\nI would like for people to use this dataset to create mask detection models using Convnets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

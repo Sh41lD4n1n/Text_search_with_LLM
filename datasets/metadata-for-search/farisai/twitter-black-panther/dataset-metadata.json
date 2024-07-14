@@ -1,0 +1,43 @@
+{
+  "id": "farisai/twitter-black-panther",
+  "id_no": 14971,
+  "datasetSlugNullable": "twitter-black-panther",
+  "ownerUserNullable": "farisai",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Twitter Black Panther ",
+  "subtitleNullable": "Twitter conversations about Black Panther (unlabelled)",
+  "descriptionNullable": "### Context\n\nThis dataset is collected for the purpose of using it later on my meetups for sentiment analysis demo on a real data. You can use it as you wish, it will be a good case of data wrangling, text classification, sentiment analysis, and anything else. Sharing it here is just to make it easier for my friends and those interested in a ready dataset from Twitter.\n\n### Content\n\nThese tweets are collected using Twitter streaming API on the 4th of March 2018. Tweets are filtered based on two words [ Wakanda, Black Panther ] and saved the following:\n\n 1. Tweet's text.\n 2. Username.\n 3. Languages\n 4. Location.\n    Time.\n\nThis dataset is not labeled and therefore it won't be fit to be used for training any model unless you wish to experiment with clustering methods.\n",
+  "datasetId": 14971,
+  "datasetSlug": "twitter-black-panther",
+  "hasDatasetSlug": true,
+  "ownerUser": "farisai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 4788,
+  "totalVotes": 5,
+  "totalDownloads": 371,
+  "title": "Twitter Black Panther ",
+  "hasTitle": true,
+  "subtitle": "Twitter conversations about Black Panther (unlabelled)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is collected for the purpose of using it later on my meetups for sentiment analysis demo on a real data. You can use it as you wish, it will be a good case of data wrangling, text classification, sentiment analysis, and anything else. Sharing it here is just to make it easier for my friends and those interested in a ready dataset from Twitter.\n\n### Content\n\nThese tweets are collected using Twitter streaming API on the 4th of March 2018. Tweets are filtered based on two words [ Wakanda, Black Panther ] and saved the following:\n\n 1. Tweet's text.\n 2. Username.\n 3. Languages\n 4. Location.\n    Time.\n\nThis dataset is not labeled and therefore it won't be fit to be used for training any model unless you wish to experiment with clustering methods.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "linguistics",
+    "internet",
+    "text",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "georgiossavvidis/carla-rgb-frontal-vehicle-camera",
+  "id_no": 2736149,
+  "datasetSlugNullable": "carla-rgb-frontal-vehicle-camera",
+  "ownerUserNullable": "georgiossavvidis",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "CARLA RGB frontal vehicle camera",
+  "subtitleNullable": "CARLA simulator RBG camera images for 6 objects",
+  "descriptionNullable": "CARLA simulator RBG camera images for 6 objects:\n1. Vehicles\n2. Motorbikes\n3. Bikes\n4. Traffic lights\n5. Traffic signs\n6. Pedestrians\n\nThe dataset has two label formats:\n1. YOLO (.txt)\n2. VOC (.xml)\n\nI have developed some scripts to:\n1. Convert VOC to YOLO\n2. Convert YOLO to VOC\n3. Create train and test text files for YOLO neural network\n4. Automatically change and define class types for text files (YOLO)\n\nIf you need any of the scripts feel free to send me an email at: giorgossav22@gmail.com\nIf many people find them useful I will upload them publicly somewhere.",
+  "datasetId": 2736149,
+  "datasetSlug": "carla-rgb-frontal-vehicle-camera",
+  "hasDatasetSlug": true,
+  "ownerUser": "georgiossavvidis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1715,
+  "totalVotes": 8,
+  "totalDownloads": 101,
+  "title": "CARLA RGB frontal vehicle camera",
+  "hasTitle": true,
+  "subtitle": "CARLA simulator RBG camera images for 6 objects",
+  "hasSubtitle": true,
+  "description": "CARLA simulator RBG camera images for 6 objects:\n1. Vehicles\n2. Motorbikes\n3. Bikes\n4. Traffic lights\n5. Traffic signs\n6. Pedestrians\n\nThe dataset has two label formats:\n1. YOLO (.txt)\n2. VOC (.xml)\n\nI have developed some scripts to:\n1. Convert VOC to YOLO\n2. Convert YOLO to VOC\n3. Create train and test text files for YOLO neural network\n4. Automatically change and define class types for text files (YOLO)\n\nIf you need any of the scripts feel free to send me an email at: giorgossav22@gmail.com\nIf many people find them useful I will upload them publicly somewhere.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "cv2",
+    "yolo"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

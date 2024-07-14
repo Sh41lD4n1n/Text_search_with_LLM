@@ -1,0 +1,44 @@
+{
+  "id": "amerii/spacenet-7-change-detection-chips-and-masks",
+  "id_no": 1025273,
+  "datasetSlugNullable": "spacenet-7-change-detection-chips-and-masks",
+  "ownerUserNullable": "amerii",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "SpaceNet 7 Change Detection Chips and Masks",
+  "subtitleNullable": "64 x 64 image chips with corresponding masks",
+  "descriptionNullable": "## Context\nThis dataset is based on the original [SpaceNet 7](https://www.kaggle.com/amerii/spacenet-7-multitemporal-urban-development) dataset, with a few modifications. \n\n\n## Content\n\nThe original dataset consisted of Planet satellite imagery mosaics, which includes 24 images (one per month) covering ~100 unique geographies. The original dataset will comprised over 40,000 square kilometers of imagery and exhaustive polygon labels of building footprints in the imagery, totaling over 10 million individual annotations. \n\nThis dataset builds upon the original dataset, such that each image is segmented into 64 x 64 chips, in order to make it easier to build a model for. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4101651%2F66851650dbfb7017f1c5717af16cea3c%2Fchips.png?generation=1607947381793575&alt=media)\n\nThe images also compare the changes that between each image of each month, such that an image taken in month 1 is compared with the image take in month 2, 3, ... 24. This is done by taking the cartesian product of the differences between each image. For more information on how this is done check out the following [notebook](https://www.kaggle.com/amerii/augmenting-spacenet-7-sample-data-labels). \n\nThe differences between the images are captured in the output mask, and the 2 images being compared are stacked. Which means that our input images have dimensions of 64 x 64 x 6, and our output mask has dimensions 64 x 64 x 1. The reason our input images have 6 dimensions is because as mentioned earlier, they are 2 images stacked together. See image below for more details: \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4101651%2F9cdcf8481d8d81b6d3fed072cea89586%2Fdifference.png?generation=1607947852597860&alt=media)\n\nThe image above shows the masks for each of the original satellite images and what the difference between the 2 looks like. For more information on how the original data was explored check out this [notebook](https://www.kaggle.com/amerii/spacenet-7-helper-functions).\n\n## Data Structure\n\nThe data is structured as follows: <br>\n chip_dataset<br>\n&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 change_detection<br>\n    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 fname<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u251c\u2500\u2500 chips<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2502   \u2514\u2500\u2500 year1_month1_year2_month2<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2502&nbsp;&nbsp;&nbsp;&nbsp;       \u2514\u2500\u2500 global_monthly_year1_month1_year2_month2_chip_x###_y###_fname.tif<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 masks<br>\n            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 year1_month1_year2_month2<br>\n                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 global_monthly_year1_month1_year2_month2_chip_x###_y###_fname_blank.tif<br>\n\n\nThe `_blank` in the mask chips, indicates whether the mask is a blank mask or not.\n\nFor more information on how the data was structured and augmented check out the following [notebook](https://www.kaggle.com/amerii/spacenet-7-creating-image-chips-and-masks).\n\n\n## Acknowledgements\n\nAll credit goes to the team at [SpaceNet ](https://spacenet.ai/)for collecting and annotating and formatting the original dataset.",
+  "datasetId": 1025273,
+  "datasetSlug": "spacenet-7-change-detection-chips-and-masks",
+  "hasDatasetSlug": true,
+  "ownerUser": "amerii",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5625,
+  "totalVotes": 6,
+  "totalDownloads": 205,
+  "title": "SpaceNet 7 Change Detection Chips and Masks",
+  "hasTitle": true,
+  "subtitle": "64 x 64 image chips with corresponding masks",
+  "hasSubtitle": true,
+  "description": "## Context\nThis dataset is based on the original [SpaceNet 7](https://www.kaggle.com/amerii/spacenet-7-multitemporal-urban-development) dataset, with a few modifications. \n\n\n## Content\n\nThe original dataset consisted of Planet satellite imagery mosaics, which includes 24 images (one per month) covering ~100 unique geographies. The original dataset will comprised over 40,000 square kilometers of imagery and exhaustive polygon labels of building footprints in the imagery, totaling over 10 million individual annotations. \n\nThis dataset builds upon the original dataset, such that each image is segmented into 64 x 64 chips, in order to make it easier to build a model for. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4101651%2F66851650dbfb7017f1c5717af16cea3c%2Fchips.png?generation=1607947381793575&alt=media)\n\nThe images also compare the changes that between each image of each month, such that an image taken in month 1 is compared with the image take in month 2, 3, ... 24. This is done by taking the cartesian product of the differences between each image. For more information on how this is done check out the following [notebook](https://www.kaggle.com/amerii/augmenting-spacenet-7-sample-data-labels). \n\nThe differences between the images are captured in the output mask, and the 2 images being compared are stacked. Which means that our input images have dimensions of 64 x 64 x 6, and our output mask has dimensions 64 x 64 x 1. The reason our input images have 6 dimensions is because as mentioned earlier, they are 2 images stacked together. See image below for more details: \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4101651%2F9cdcf8481d8d81b6d3fed072cea89586%2Fdifference.png?generation=1607947852597860&alt=media)\n\nThe image above shows the masks for each of the original satellite images and what the difference between the 2 looks like. For more information on how the original data was explored check out this [notebook](https://www.kaggle.com/amerii/spacenet-7-helper-functions).\n\n## Data Structure\n\nThe data is structured as follows: <br>\n chip_dataset<br>\n&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 change_detection<br>\n    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 fname<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u251c\u2500\u2500 chips<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2502   \u2514\u2500\u2500 year1_month1_year2_month2<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2502&nbsp;&nbsp;&nbsp;&nbsp;       \u2514\u2500\u2500 global_monthly_year1_month1_year2_month2_chip_x###_y###_fname.tif<br>\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 masks<br>\n            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 year1_month1_year2_month2<br>\n                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u2514\u2500\u2500 global_monthly_year1_month1_year2_month2_chip_x###_y###_fname_blank.tif<br>\n\n\nThe `_blank` in the mask chips, indicates whether the mask is a blank mask or not.\n\nFor more information on how the data was structured and augmented check out the following [notebook](https://www.kaggle.com/amerii/spacenet-7-creating-image-chips-and-masks).\n\n\n## Acknowledgements\n\nAll credit goes to the team at [SpaceNet ](https://spacenet.ai/)for collecting and annotating and formatting the original dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "cities and urban areas",
+    "earth and nature",
+    "geospatial analysis",
+    "image",
+    "urban planning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

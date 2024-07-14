@@ -1,0 +1,43 @@
+{
+  "id": "harshalhonde/starbucks-reviews-dataset",
+  "id_no": 3741616,
+  "datasetSlugNullable": "starbucks-reviews-dataset",
+  "ownerUserNullable": "harshalhonde",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Starbucks Reviews Dataset",
+  "subtitleNullable": "Web-Scraped Starbucks Reviews with Ratings and Images",
+  "descriptionNullable": "This dataset contains a comprehensive collection of consumer reviews and ratings for Starbucks, a renowned coffeehouse chain. The data was collected through web scraping and includes textual reviews, star ratings, location information, and image links from multiple pages on the ConsumerAffairs website. It offers valuable insights into customer sentiment and feedback about Starbucks locations.\n\n**Content:**\n\n- **Name:** The reviewer's name, if available.\n- **Location:** The location or city associated with the reviewer, if provided.\n- **Date:** The date when the review was posted.\n- **Rating:** The star rating given by the reviewer, ranges from 1 to 5.\n- **Review:** The textual content of the review, captures the reviewer's experience and opinions.\n- **Image Links:** Links to images associated with the reviews, if available.\n\n**Use Cases:**\n\n**Sentiment Analysis:** Researchers and data analysts can use this dataset to perform sentiment analysis to understand customer sentiment towards Starbucks.\n**Consumer Insights:** Businesses can gain valuable insights into customer preferences and areas for improvement based on the reviews and ratings.\n**Natural Language Processing (NLP):** NLP practitioners can utilize textual reviews for various NLP tasks, such as text classification, summarization, and topic modelling.\n\n**Source:**\n\nThe data was collected by web scraping customer reviews and ratings from the ConsumerAffairs website. Please note that this dataset is for research and analysis purposes and may be subject to the terms and conditions specified by ConsumerAffairs.",
+  "datasetId": 3741616,
+  "datasetSlug": "starbucks-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harshalhonde",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 26464,
+  "totalVotes": 81,
+  "totalDownloads": 5159,
+  "title": "Starbucks Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "Web-Scraped Starbucks Reviews with Ratings and Images",
+  "hasSubtitle": true,
+  "description": "This dataset contains a comprehensive collection of consumer reviews and ratings for Starbucks, a renowned coffeehouse chain. The data was collected through web scraping and includes textual reviews, star ratings, location information, and image links from multiple pages on the ConsumerAffairs website. It offers valuable insights into customer sentiment and feedback about Starbucks locations.\n\n**Content:**\n\n- **Name:** The reviewer's name, if available.\n- **Location:** The location or city associated with the reviewer, if provided.\n- **Date:** The date when the review was posted.\n- **Rating:** The star rating given by the reviewer, ranges from 1 to 5.\n- **Review:** The textual content of the review, captures the reviewer's experience and opinions.\n- **Image Links:** Links to images associated with the reviews, if available.\n\n**Use Cases:**\n\n**Sentiment Analysis:** Researchers and data analysts can use this dataset to perform sentiment analysis to understand customer sentiment towards Starbucks.\n**Consumer Insights:** Businesses can gain valuable insights into customer preferences and areas for improvement based on the reviews and ratings.\n**Natural Language Processing (NLP):** NLP practitioners can utilize textual reviews for various NLP tasks, such as text classification, summarization, and topic modelling.\n\n**Source:**\n\nThe data was collected by web scraping customer reviews and ratings from the ConsumerAffairs website. Please note that this dataset is for research and analysis purposes and may be subject to the terms and conditions specified by ConsumerAffairs.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "nlp",
+    "image",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

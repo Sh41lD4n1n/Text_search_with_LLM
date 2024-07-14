@@ -1,0 +1,43 @@
+{
+  "id": "bellaroz/network-traffic",
+  "id_no": 2994931,
+  "datasetSlugNullable": "network-traffic",
+  "ownerUserNullable": "bellaroz",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Data Traffic ",
+  "subtitleNullable": "Traffic per hour in a network of 4 routers",
+  "descriptionNullable": "Due to an increase in urbanisation, there has been a significant increase in the amount of data being produced. Traffic congestion is rising in cities around the world. Contributing factors are more varied include expanding urban populations, aging infrastructure, inefficient and uncoordinated traffic signal timing and a lack of real-time data.\n\nThis dataset contains as many as 48.1k (48120) observations of the traffic each hour at four different routers in an observed area of space in the city of New York\n\n1) DateTime    2) Router ID    3) FlowBytes    4) ID\n\n\n",
+  "datasetId": 2994931,
+  "datasetSlug": "network-traffic",
+  "hasDatasetSlug": true,
+  "ownerUser": "bellaroz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 514,
+  "totalVotes": 1,
+  "totalDownloads": 80,
+  "title": "Data Traffic ",
+  "hasTitle": true,
+  "subtitle": "Traffic per hour in a network of 4 routers",
+  "hasSubtitle": true,
+  "description": "Due to an increase in urbanisation, there has been a significant increase in the amount of data being produced. Traffic congestion is rising in cities around the world. Contributing factors are more varied include expanding urban populations, aging infrastructure, inefficient and uncoordinated traffic signal timing and a lack of real-time data.\n\nThis dataset contains as many as 48.1k (48120) observations of the traffic each hour at four different routers in an observed area of space in the city of New York\n\n1) DateTime    2) Router ID    3) FlowBytes    4) ID\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "data visualization",
+    "data analytics",
+    "ensembling",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

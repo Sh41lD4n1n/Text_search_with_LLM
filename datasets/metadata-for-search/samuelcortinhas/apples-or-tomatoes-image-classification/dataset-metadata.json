@@ -1,0 +1,42 @@
+{
+  "id": "samuelcortinhas/apples-or-tomatoes-image-classification",
+  "id_no": 2702329,
+  "datasetSlugNullable": "apples-or-tomatoes-image-classification",
+  "ownerUserNullable": "samuelcortinhas",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Apples or tomatoes - image classification",
+  "subtitleNullable": "Build an image classification model",
+  "descriptionNullable": "Images of tomatoes and apples collected via web scraping. These two fruits have been chosen because they look similar and so should be challenging classify. \n\nImages of red, yellow and green apples/tomatoes have been split into a train and test set. Image sizes usually range between 100x100 pixels and 300x300 pixels. \n\nSince the train set is small, you might want to consider using transfer learning to build the best model. ",
+  "datasetId": 2702329,
+  "datasetSlug": "apples-or-tomatoes-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "samuelcortinhas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 20702,
+  "totalVotes": 64,
+  "totalDownloads": 4102,
+  "title": "Apples or tomatoes - image classification",
+  "hasTitle": true,
+  "subtitle": "Build an image classification model",
+  "hasSubtitle": true,
+  "description": "Images of tomatoes and apples collected via web scraping. These two fruits have been chosen because they look similar and so should be challenging classify. \n\nImages of red, yellow and green apples/tomatoes have been split into a train and test set. Image sizes usually range between 100x100 pixels and 300x300 pixels. \n\nSince the train set is small, you might want to consider using transfer learning to build the best model. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "beginner",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "kaushil268/disease-prediction-using-machine-learning",
+  "id_no": 654897,
+  "datasetSlugNullable": "disease-prediction-using-machine-learning",
+  "ownerUserNullable": "kaushil268",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Disease Prediction Using Machine Learning ",
+  "subtitleNullable": "Use Machine Learning and Deep Learning models to classify 42 diseases !",
+  "descriptionNullable": "### Context\n\nDuring the time when Machine Learning and Deep Learning are booming so much , it is very important to understand that all this knowledge is not of any use if we cant apply it to different areas and impact the humanity.\n\nThis dataset will help you apply your existing knowledge to great use. Applying Knowledge to field of Medical Science and making the task of Physician easy is the main purpose of this dataset. This dataset has 132 parameters on which 42 different types of diseases can be predicted.\n\nAll the best !\n\n### Content\n\nComplete Dataset consists of 2 CSV files . One of them is training and other is for testing your model.\n\nEach CSV file has 133 columns. 132 of these columns are symptoms that a person experiences and last column is the prognosis.\n\nThese symptoms are mapped to 42 diseases you can classify these set of symptoms to.\n\nYou are required to train your model on training data and test it on testing data\n\n### Inspiration\n\nJust make your best effort to make world a better place by applying all the knowledge you have to different fields.",
+  "datasetId": 654897,
+  "datasetSlug": "disease-prediction-using-machine-learning",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushil268",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 220993,
+  "totalVotes": 270,
+  "totalDownloads": 33817,
+  "title": "Disease Prediction Using Machine Learning ",
+  "hasTitle": true,
+  "subtitle": "Use Machine Learning and Deep Learning models to classify 42 diseases !",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDuring the time when Machine Learning and Deep Learning are booming so much , it is very important to understand that all this knowledge is not of any use if we cant apply it to different areas and impact the humanity.\n\nThis dataset will help you apply your existing knowledge to great use. Applying Knowledge to field of Medical Science and making the task of Physician easy is the main purpose of this dataset. This dataset has 132 parameters on which 42 different types of diseases can be predicted.\n\nAll the best !\n\n### Content\n\nComplete Dataset consists of 2 CSV files . One of them is training and other is for testing your model.\n\nEach CSV file has 133 columns. 132 of these columns are symptoms that a person experiences and last column is the prognosis.\n\nThese symptoms are mapped to 42 diseases you can classify these set of symptoms to.\n\nYou are required to train your model on training data and test it on testing data\n\n### Inspiration\n\nJust make your best effort to make world a better place by applying all the knowledge you have to different fields.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "earth and nature",
+    "biology",
+    "education",
+    "medicine",
+    "neural networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

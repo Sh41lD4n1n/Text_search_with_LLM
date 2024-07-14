@@ -1,0 +1,39 @@
+{
+  "id": "mrovkill/project-geutenberg-books",
+  "id_no": 5189880,
+  "datasetSlugNullable": "project-geutenberg-books",
+  "ownerUserNullable": "mrovkill",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Project Geutenberg Books",
+  "subtitleNullable": "An arbitrary collection of public domain works from Project geutenberg.",
+  "descriptionNullable": "# Project Geutenberg Books\n\n1. The Life And Adventures of Robinson Crusoe\n1. Frankenstein, Or The Modern Prometheus\n\nI wanted to begin work towards literature as data. Thus, I shall begin adding books as rapidly as possible to this dataset.\n\n\n**Original Credit and License:**\n```\nThis ebook is for the use of anyone anywhere in the United States and\nmost other parts of the world at no cost and with almost no restrictions\nwhatsoever. You may copy it, give it away or re-use it under the terms\nof the Project Gutenberg License included with this ebook or online\nat www.gutenberg.org. If you are not located in the United States,\nyou will have to check the laws of the country where you are located\nbefore using this eBook.\n```",
+  "datasetId": 5189880,
+  "datasetSlug": "project-geutenberg-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrovkill",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 30,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Project Geutenberg Books",
+  "hasTitle": true,
+  "subtitle": "An arbitrary collection of public domain works from Project geutenberg.",
+  "hasSubtitle": true,
+  "description": "# Project Geutenberg Books\n\n1. The Life And Adventures of Robinson Crusoe\n1. Frankenstein, Or The Modern Prometheus\n\nI wanted to begin work towards literature as data. Thus, I shall begin adding books as rapidly as possible to this dataset.\n\n\n**Original Credit and License:**\n```\nThis ebook is for the use of anyone anywhere in the United States and\nmost other parts of the world at no cost and with almost no restrictions\nwhatsoever. You may copy it, give it away or re-use it under the terms\nof the Project Gutenberg License included with this ebook or online\nat www.gutenberg.org. If you are not located in the United States,\nyou will have to check the laws of the country where you are located\nbefore using this eBook.\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

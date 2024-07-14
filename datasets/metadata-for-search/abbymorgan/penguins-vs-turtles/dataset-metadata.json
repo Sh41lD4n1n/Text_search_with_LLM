@@ -1,0 +1,43 @@
+{
+  "id": "abbymorgan/penguins-vs-turtles",
+  "id_no": 3202424,
+  "datasetSlugNullable": "penguins-vs-turtles",
+  "ownerUserNullable": "abbymorgan",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Penguins vs Turtles",
+  "subtitleNullable": "Image classification with bounding boxes",
+  "descriptionNullable": "572 unique images, split into a training folder of 500 images and a validation folder of 72 images. Dataset is split 50:50 between images of turtles and penguins. Each image contains exactly one instance of an object. Accompanying annotation information is a list of dictionaries. Bounding box coordinates are provided in Pascal VOC format. Category IDs include 0 (background), 1 (penguin) and 2 (turtle). ",
+  "datasetId": 3202424,
+  "datasetSlug": "penguins-vs-turtles",
+  "hasDatasetSlug": true,
+  "ownerUser": "abbymorgan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 13281,
+  "totalVotes": 32,
+  "totalDownloads": 1679,
+  "title": "Penguins vs Turtles",
+  "hasTitle": true,
+  "subtitle": "Image classification with bounding boxes",
+  "hasSubtitle": true,
+  "description": "572 unique images, split into a training folder of 500 images and a validation folder of 72 images. Dataset is split 50:50 between images of turtles and penguins. Each image contains exactly one instance of an object. Accompanying annotation information is a list of dictionaries. Bounding box coordinates are provided in Pascal VOC format. Category IDs include 0 (background), 1 (penguin) and 2 (turtle). ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "fish and aquaria",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

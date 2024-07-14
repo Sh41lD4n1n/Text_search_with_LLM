@@ -1,0 +1,43 @@
+{
+  "id": "avikumart/road-traffic-severity-classification",
+  "id_no": 2635766,
+  "datasetSlugNullable": "road-traffic-severity-classification",
+  "ownerUserNullable": "avikumart",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Road Traffic Severity Classification",
+  "subtitleNullable": "Predict the severity of road accidents to save lives",
+  "descriptionNullable": "**\ud83e\uddfeDescription:** This data set is collected from Addis Ababa Sub-city police departments for master's research work. The data set has been prepared from manual records of road traffic accidents of the year 2017-20. All the sensitive information has been excluded during data encoding and finally, It has 32 features and 12316 instances of an accident. Then it is preprocessed for identification of major causes of the accident by analyzing it using different machine learning classification algorithms. \n\nSource of the dataset: [Click here](https://www.narcis.nl/dataset/RecordID/oai:easy.dans.knaw.nl:easy-dataset:191591/Language/en)\n\n### **Dataset Description:**\n**Time** \u200a-\u200atime of the accident (in 24 hours format)\n**Day_of_week** -A day when an accident occurred\n**Age_band_of_driver** \u200a-\u200aAge group of the driver\n**Sex_of_driver**\u200a -\u200aGender of driver&nbsp;\n**Educational_level** \u200a-\u200aDriver's highest education level\n**Vehical_driver_relation** \u200a-\u200aWhat's the relation of a driver with the vehicle\n**Driving_experience**\u200a -\u200aHow many years of driving experience the driver has\n**Type_of_vehicle** \u200a-\u200aWhat's the type of vehicle&nbsp;\n**Owner_of_vehicle** \u200a-\u200aWho's the owner of the vehicle\n**Service_year_of_vehicle**\u200a -\u200aThe last service year of the vehicle\n**Defect_of_vehicle** \u200a-\u200aIs there any defect on the vehicle or not?\n**Area_accident_occured**\u200a -\u200aLocality of an accident site\n**Lanes_or_Medians** \u200a-\u200aAre there any lanes or medians at the accident site?&nbsp;\n**Road_allignment** \u200a-\u200aRoad alignment with the terrain of the land\n**Types_of_junction** \u200a-\u200aType of junction at the accident site\n**Road_surface_type** \u200a-\u200aA surface type of road\n**Road_surface_conditions** \u200a-\u200aWhat was the condition of the road surface?\n**Light_conditions**\u200a -\u200aLighting conditions at the site\n**Weather_conditions**\u200a -\u200aWeather conditions\n**Type_of_collision** \u200a-\u200aWhat is the type of collision\n**Number_of_vehicles_involved** \u200a-\u200aTotal number of vehicles involved in an accident\n**Number_of_casualties** \u200a-\u200aTotal number of casualties\n**Vehicle_movement** \u200a-\u200aHow the vehicle was moving before the accident occurred\n**Casualty_class** \u200a-\u200aA person who got killed during an accident\n**Sex_of_casualty**\u200a -\u200aWhat the gender of a person who got killed\n**Age_band_of_casualty\u200a** -\u200aAge group of casualty\n**Casualty_severtiy**\u200a -\u200aHow severely the casualty was injured&nbsp;\n**Work_of_casualty** \u200a-\u200aWhat was the work of the casualty\n**Fitness_of_casualty** \u200a-\u200aFitness level of casualty&nbsp;\n**Pedestrain_movement** \u200a-\u200aWas there any pedestrian movement on the road?\n**Cause_of-accident** \u200a-\u200aWhat was the cause of an accident?\n**Accident_severity\u200a** -\u200aHow severe an accident was? (Target variable)",
+  "datasetId": 2635766,
+  "datasetSlug": "road-traffic-severity-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "avikumart",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 7720,
+  "totalVotes": 11,
+  "totalDownloads": 1925,
+  "title": "Road Traffic Severity Classification",
+  "hasTitle": true,
+  "subtitle": "Predict the severity of road accidents to save lives",
+  "hasSubtitle": true,
+  "description": "**\ud83e\uddfeDescription:** This data set is collected from Addis Ababa Sub-city police departments for master's research work. The data set has been prepared from manual records of road traffic accidents of the year 2017-20. All the sensitive information has been excluded during data encoding and finally, It has 32 features and 12316 instances of an accident. Then it is preprocessed for identification of major causes of the accident by analyzing it using different machine learning classification algorithms. \n\nSource of the dataset: [Click here](https://www.narcis.nl/dataset/RecordID/oai:easy.dans.knaw.nl:easy-dataset:191591/Language/en)\n\n### **Dataset Description:**\n**Time** \u200a-\u200atime of the accident (in 24 hours format)\n**Day_of_week** -A day when an accident occurred\n**Age_band_of_driver** \u200a-\u200aAge group of the driver\n**Sex_of_driver**\u200a -\u200aGender of driver&nbsp;\n**Educational_level** \u200a-\u200aDriver's highest education level\n**Vehical_driver_relation** \u200a-\u200aWhat's the relation of a driver with the vehicle\n**Driving_experience**\u200a -\u200aHow many years of driving experience the driver has\n**Type_of_vehicle** \u200a-\u200aWhat's the type of vehicle&nbsp;\n**Owner_of_vehicle** \u200a-\u200aWho's the owner of the vehicle\n**Service_year_of_vehicle**\u200a -\u200aThe last service year of the vehicle\n**Defect_of_vehicle** \u200a-\u200aIs there any defect on the vehicle or not?\n**Area_accident_occured**\u200a -\u200aLocality of an accident site\n**Lanes_or_Medians** \u200a-\u200aAre there any lanes or medians at the accident site?&nbsp;\n**Road_allignment** \u200a-\u200aRoad alignment with the terrain of the land\n**Types_of_junction** \u200a-\u200aType of junction at the accident site\n**Road_surface_type** \u200a-\u200aA surface type of road\n**Road_surface_conditions** \u200a-\u200aWhat was the condition of the road surface?\n**Light_conditions**\u200a -\u200aLighting conditions at the site\n**Weather_conditions**\u200a -\u200aWeather conditions\n**Type_of_collision** \u200a-\u200aWhat is the type of collision\n**Number_of_vehicles_involved** \u200a-\u200aTotal number of vehicles involved in an accident\n**Number_of_casualties** \u200a-\u200aTotal number of casualties\n**Vehicle_movement** \u200a-\u200aHow the vehicle was moving before the accident occurred\n**Casualty_class** \u200a-\u200aA person who got killed during an accident\n**Sex_of_casualty**\u200a -\u200aWhat the gender of a person who got killed\n**Age_band_of_casualty\u200a** -\u200aAge group of casualty\n**Casualty_severtiy**\u200a -\u200aHow severely the casualty was injured&nbsp;\n**Work_of_casualty** \u200a-\u200aWhat was the work of the casualty\n**Fitness_of_casualty** \u200a-\u200aFitness level of casualty&nbsp;\n**Pedestrain_movement** \u200a-\u200aWas there any pedestrian movement on the road?\n**Cause_of-accident** \u200a-\u200aWhat was the cause of an accident?\n**Accident_severity\u200a** -\u200aHow severe an accident was? (Target variable)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "data analytics",
+    "feature engineering",
+    "random forest",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

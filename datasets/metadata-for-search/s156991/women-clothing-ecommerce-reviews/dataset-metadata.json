@@ -1,0 +1,37 @@
+{
+  "id": "s156991/women-clothing-ecommerce-reviews",
+  "id_no": 33587,
+  "datasetSlugNullable": "women-clothing-ecommerce-reviews",
+  "ownerUserNullable": "s156991",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "Women Clothing E-commerce Reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 33587,
+  "datasetSlug": "women-clothing-ecommerce-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "s156991",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 3877,
+  "totalVotes": 4,
+  "totalDownloads": 149,
+  "title": "Women Clothing E-commerce Reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

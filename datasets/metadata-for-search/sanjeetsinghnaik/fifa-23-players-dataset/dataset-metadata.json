@@ -1,0 +1,42 @@
+{
+  "id": "sanjeetsinghnaik/fifa-23-players-dataset",
+  "id_no": 2519331,
+  "datasetSlugNullable": "fifa-23-players-dataset",
+  "ownerUserNullable": "sanjeetsinghnaik",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Fifa 23 Players Dataset",
+  "subtitleNullable": "Official Fifa 23 Player Stats",
+  "descriptionNullable": "FIFA 23 is a football simulation video game published by Electronic Arts. It is the 30th and final installment in the FIFA series that is developed by EA Sports, and released worldwide on 30 September 2022 for PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S and Google Stadia.\n\nThe role of performance analysis within football is more important than ever. Whether it\u2019s the opposition, potential transfer targets or last weekend\u2019s fixture, analysing performances and data can be the difference between success and failure.\n",
+  "datasetId": 2519331,
+  "datasetSlug": "fifa-23-players-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanjeetsinghnaik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 25272,
+  "totalVotes": 88,
+  "totalDownloads": 5024,
+  "title": "Fifa 23 Players Dataset",
+  "hasTitle": true,
+  "subtitle": "Official Fifa 23 Player Stats",
+  "hasSubtitle": true,
+  "description": "FIFA 23 is a football simulation video game published by Electronic Arts. It is the 30th and final installment in the FIFA series that is developed by EA Sports, and released worldwide on 30 September 2022 for PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S and Google Stadia.\n\nThe role of performance analysis within football is more important than ever. Whether it\u2019s the opposition, potential transfer targets or last weekend\u2019s fixture, analysing performances and data can be the difference between success and failure.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

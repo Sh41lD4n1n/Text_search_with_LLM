@@ -1,0 +1,37 @@
+{
+  "id": "hajarsalah1/arabicbooks500",
+  "id_no": 5213475,
+  "datasetSlugNullable": "arabicbooks500",
+  "ownerUserNullable": "hajarsalah1",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "ArabicBooks500",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5213475,
+  "datasetSlug": "arabicbooks500",
+  "hasDatasetSlug": true,
+  "ownerUser": "hajarsalah1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "ArabicBooks500",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

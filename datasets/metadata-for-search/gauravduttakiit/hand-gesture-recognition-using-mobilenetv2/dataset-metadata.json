@@ -1,0 +1,37 @@
+{
+  "id": "gauravduttakiit/hand-gesture-recognition-using-mobilenetv2",
+  "id_no": 1624680,
+  "datasetSlugNullable": "hand-gesture-recognition-using-mobilenetv2",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.1875,
+  "titleNullable": "Hand Gesture Recognition using MobileNetV2",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1624680,
+  "datasetSlug": "hand-gesture-recognition-using-mobilenetv2",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.1875,
+  "hasUsabilityRating": true,
+  "totalViews": 1282,
+  "totalVotes": 2,
+  "totalDownloads": 29,
+  "title": "Hand Gesture Recognition using MobileNetV2",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "konradb/medmcqa-database",
+  "id_no": 4378136,
+  "datasetSlugNullable": "medmcqa-database",
+  "ownerUserNullable": "konradb",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MedMCQA database",
+  "subtitleNullable": "Large-scale, Multiple-Choice Question Answering dataset for medical exams q",
+  "descriptionNullable": "From the project repo: \n\nA large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address realworld medical entrance exam questions.\n\nThe MedMCQA task can be formulated as X = {Q, O} where Q represents the questions in the text, O represents the candidate options, multiple candidate answers are given for each question O = {O1, O2, ..., On}. The goal is to select the single or multiple answers from the option set.\n\nIf you would like to use the data or code, please cite the paper: https://arxiv.org/abs/2203.14371\n\n@InProceedings{pmlr-v174-pal22a,\n  title = \t {MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering},\n  author =       {Pal, Ankit and Umapathi, Logesh Kumar and Sankarasubbu, Malaikannan},\n  booktitle = \t {Proceedings of the Conference on Health, Inference, and Learning},\n  pages = \t {248--260},\n  year = \t {2022},\n  editor = \t {Flores, Gerardo and Chen, George H and Pollard, Tom and Ho, Joyce C and Naumann, Tristan},\n  volume = \t {174},\n  series = \t {Proceedings of Machine Learning Research},\n  month = \t {07--08 Apr},\n  publisher =    {PMLR},\n  pdf = \t {https://proceedings.mlr.press/v174/pal22a/pal22a.pdf},\n  url = \t {https://proceedings.mlr.press/v174/pal22a.html},\n  abstract = \t {This paper introduces MedMCQA, a new large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address real-world medical entrance exam questions. More than 194k high-quality AIIMS & NEET PG entrance exam MCQs covering 2.4k healthcare topics and 21 medical subjects are collected with an average token length of 12.77 and high topical diversity. Each sample contains a question, correct answer(s), and other options which requires a deeper language understanding as it tests the 10+ reasoning abilities of a model across a wide range of medical subjects & topics. A detailed explanation of the solution, along with the above information, is provided in this study.}\n}\n",
+  "datasetId": 4378136,
+  "datasetSlug": "medmcqa-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "konradb",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1772,
+  "totalVotes": 22,
+  "totalDownloads": 212,
+  "title": "MedMCQA database",
+  "hasTitle": true,
+  "subtitle": "Large-scale, Multiple-Choice Question Answering dataset for medical exams q",
+  "hasSubtitle": true,
+  "description": "From the project repo: \n\nA large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address realworld medical entrance exam questions.\n\nThe MedMCQA task can be formulated as X = {Q, O} where Q represents the questions in the text, O represents the candidate options, multiple candidate answers are given for each question O = {O1, O2, ..., On}. The goal is to select the single or multiple answers from the option set.\n\nIf you would like to use the data or code, please cite the paper: https://arxiv.org/abs/2203.14371\n\n@InProceedings{pmlr-v174-pal22a,\n  title = \t {MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering},\n  author =       {Pal, Ankit and Umapathi, Logesh Kumar and Sankarasubbu, Malaikannan},\n  booktitle = \t {Proceedings of the Conference on Health, Inference, and Learning},\n  pages = \t {248--260},\n  year = \t {2022},\n  editor = \t {Flores, Gerardo and Chen, George H and Pollard, Tom and Ho, Joyce C and Naumann, Tristan},\n  volume = \t {174},\n  series = \t {Proceedings of Machine Learning Research},\n  month = \t {07--08 Apr},\n  publisher =    {PMLR},\n  pdf = \t {https://proceedings.mlr.press/v174/pal22a/pal22a.pdf},\n  url = \t {https://proceedings.mlr.press/v174/pal22a.html},\n  abstract = \t {This paper introduces MedMCQA, a new large-scale, Multiple-Choice Question Answering (MCQA) dataset designed to address real-world medical entrance exam questions. More than 194k high-quality AIIMS & NEET PG entrance exam MCQs covering 2.4k healthcare topics and 21 medical subjects are collected with an average token length of 12.77 and high topical diversity. Each sample contains a question, correct answer(s), and other options which requires a deeper language understanding as it tests the 10+ reasoning abilities of a model across a wide range of medical subjects & topics. A detailed explanation of the solution, along with the above information, is provided in this study.}\n}\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "standardized testing",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

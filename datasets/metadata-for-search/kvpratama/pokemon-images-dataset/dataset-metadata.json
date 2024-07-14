@@ -1,0 +1,42 @@
+{
+  "id": "kvpratama/pokemon-images-dataset",
+  "id_no": 6799,
+  "datasetSlugNullable": "pokemon-images-dataset",
+  "ownerUserNullable": "kvpratama",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pokemon Images Dataset",
+  "subtitleNullable": "Dataset of 819 Pokemon images",
+  "descriptionNullable": "### Context\n\nI collected this dataset for my school project. The project is to train GAN to generate new Pokemon. I had a difficult time finding a training dataset that is complete and clean. So I gather this collection of images and publish it here hoping that it will help others who need a similar dataset.\n\nYou can find my project on my [Github][1]\nMy latest code to generate pokemon [Github][4]\n\n\n### Content\n\n819 transparent Pokemon images in png format size 256x256.\n\n* Update August 10, 2020\n819 white background in jpg format\n\n\n### Acknowledgements\n\nI collected the image mostly from this website [https://veekun.com/dex/downloads][2]\n\nBanner image is taken from [https://viking011.deviantart.com/art/Pokemon-Poster-436455502][3]\n\n\n### Inspiration\n\nSince I failed to generate new Pokemon with clarity (I can only generate the shape) I wish there will be others that could do it with this dataset. If you managed to, please share it!\n\n\n  [1]: https://github.com/kvpratama/gan/tree/master/pokemon\n  [2]: https://veekun.com/dex/downloads\n  [3]: https://viking011.deviantart.com/art/Pokemon-Poster-436455502\n  [4]: https://github.com/kvpratama/gan/tree/master/pokemon_dcgan",
+  "datasetId": 6799,
+  "datasetSlug": "pokemon-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kvpratama",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 118963,
+  "totalVotes": 290,
+  "totalDownloads": 16340,
+  "title": "Pokemon Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 819 Pokemon images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI collected this dataset for my school project. The project is to train GAN to generate new Pokemon. I had a difficult time finding a training dataset that is complete and clean. So I gather this collection of images and publish it here hoping that it will help others who need a similar dataset.\n\nYou can find my project on my [Github][1]\nMy latest code to generate pokemon [Github][4]\n\n\n### Content\n\n819 transparent Pokemon images in png format size 256x256.\n\n* Update August 10, 2020\n819 white background in jpg format\n\n\n### Acknowledgements\n\nI collected the image mostly from this website [https://veekun.com/dex/downloads][2]\n\nBanner image is taken from [https://viking011.deviantart.com/art/Pokemon-Poster-436455502][3]\n\n\n### Inspiration\n\nSince I failed to generate new Pokemon with clarity (I can only generate the shape) I wish there will be others that could do it with this dataset. If you managed to, please share it!\n\n\n  [1]: https://github.com/kvpratama/gan/tree/master/pokemon\n  [2]: https://veekun.com/dex/downloads\n  [3]: https://viking011.deviantart.com/art/Pokemon-Poster-436455502\n  [4]: https://github.com/kvpratama/gan/tree/master/pokemon_dcgan",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ahmedkhursheed007/fake-news-detection-dataset",
+  "id_no": 4884336,
+  "datasetSlugNullable": "fake-news-detection-dataset",
+  "ownerUserNullable": "ahmedkhursheed007",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Fake news detection dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4884336,
+  "datasetSlug": "fake-news-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedkhursheed007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 26,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Fake news detection dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

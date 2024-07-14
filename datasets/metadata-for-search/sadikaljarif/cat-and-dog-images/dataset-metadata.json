@@ -1,0 +1,37 @@
+{
+  "id": "sadikaljarif/cat-and-dog-images",
+  "id_no": 2333568,
+  "datasetSlugNullable": "cat-and-dog-images",
+  "ownerUserNullable": "sadikaljarif",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Custom Data Prediction (Cat And Dogs Images)",
+  "subtitleNullable": "Check Model Performance On Custom Data(Cats And Dogs Images)",
+  "descriptionNullable": "## AlexNet is a popular deep learning model that is often used for image classification tasks. I used the set of 6 cat and dog images to check the performance of my AlexNet model.",
+  "datasetId": 2333568,
+  "datasetSlug": "cat-and-dog-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadikaljarif",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 456,
+  "totalVotes": 30,
+  "totalDownloads": 56,
+  "title": "Custom Data Prediction (Cat And Dogs Images)",
+  "hasTitle": true,
+  "subtitle": "Check Model Performance On Custom Data(Cats And Dogs Images)",
+  "hasSubtitle": true,
+  "description": "## AlexNet is a popular deep learning model that is often used for image classification tasks. I used the set of 6 cat and dog images to check the performance of my AlexNet model.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

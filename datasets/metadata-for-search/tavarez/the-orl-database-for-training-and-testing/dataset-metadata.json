@@ -1,0 +1,44 @@
+{
+  "id": "tavarez/the-orl-database-for-training-and-testing",
+  "id_no": 949493,
+  "datasetSlugNullable": "the-orl-database-for-training-and-testing",
+  "ownerUserNullable": "tavarez",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": " The ORL database for training and testing",
+  "subtitleNullable": "The Olivetti Research Laboratory (ORL) face dataset",
+  "descriptionNullable": "The ORL Database of Faces\n\nThe ORL Database of Faces  is  set of face images taken between April 1992 and April 1994 at the lab. The database was used in the context of a face recognition project carried out in collaboration with the Speech, Vision and Robotics Group of the Cambridge University Engineering Department.\n\nThere are ten different images of each of 40 distinct subjects. For some subjects, the images were taken at different times, varying the lighting, facial expressions (open / closed eyes, smiling / not smiling) and facial details (glasses / no glasses). All the images were taken against a dark homogeneous background with the subjects in an upright, frontal position (with tolerance for some side movement).",
+  "datasetId": 949493,
+  "datasetSlug": "the-orl-database-for-training-and-testing",
+  "hasDatasetSlug": true,
+  "ownerUser": "tavarez",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 23218,
+  "totalVotes": 32,
+  "totalDownloads": 3488,
+  "title": " The ORL database for training and testing",
+  "hasTitle": true,
+  "subtitle": "The Olivetti Research Laboratory (ORL) face dataset",
+  "hasSubtitle": true,
+  "description": "The ORL Database of Faces\n\nThe ORL Database of Faces  is  set of face images taken between April 1992 and April 1994 at the lab. The database was used in the context of a face recognition project carried out in collaboration with the Speech, Vision and Robotics Group of the Cambridge University Engineering Department.\n\nThere are ten different images of each of 40 distinct subjects. For some subjects, the images were taken at different times, varying the lighting, facial expressions (open / closed eyes, smiling / not smiling) and facial details (glasses / no glasses). All the images were taken against a dark homogeneous background with the subjects in an upright, frontal position (with tolerance for some side movement).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "business",
+    "data visualization",
+    "classification",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

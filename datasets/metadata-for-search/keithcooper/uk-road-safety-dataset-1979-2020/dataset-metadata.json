@@ -1,0 +1,40 @@
+{
+  "id": "keithcooper/uk-road-safety-dataset-1979-2020",
+  "id_no": 1716198,
+  "datasetSlugNullable": "uk-road-safety-dataset-1979-2020",
+  "ownerUserNullable": "keithcooper",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "UK Road Safety Dataset 1979 - 2020",
+  "subtitleNullable": "Road Traffic Accident Dat from UK Gov",
+  "descriptionNullable": "### Dataset from data.gov.uk\n\nhttps://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data\n\n### Data License\n\nhttps://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\n\nA comprehensive dataset of all of the road traffic accidents recorded by the British police",
+  "datasetId": 1716198,
+  "datasetSlug": "uk-road-safety-dataset-1979-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "keithcooper",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 6599,
+  "totalVotes": 6,
+  "totalDownloads": 267,
+  "title": "UK Road Safety Dataset 1979 - 2020",
+  "hasTitle": true,
+  "subtitle": "Road Traffic Accident Dat from UK Gov",
+  "hasSubtitle": true,
+  "description": "### Dataset from data.gov.uk\n\nhttps://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data\n\n### Data License\n\nhttps://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\n\nA comprehensive dataset of all of the road traffic accidents recorded by the British police",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

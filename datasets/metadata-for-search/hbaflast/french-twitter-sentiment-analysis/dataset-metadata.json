@@ -1,0 +1,45 @@
+{
+  "id": "hbaflast/french-twitter-sentiment-analysis",
+  "id_no": 488231,
+  "datasetSlugNullable": "french-twitter-sentiment-analysis",
+  "ownerUserNullable": "hbaflast",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "French Twitter Sentiment Analysis",
+  "subtitleNullable": "1.5 million tweets in French and their sentiment.",
+  "descriptionNullable": "### Context\n\nFrench dataset for sentiment analysis (Data translated from English to French).\n\n\n### Content\n\nlabel: Polarity of the tweet (0 = negative, 1 = positive)\n\ntext: Content of the tweet\n",
+  "datasetId": 488231,
+  "datasetSlug": "french-twitter-sentiment-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "hbaflast",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 25432,
+  "totalVotes": 28,
+  "totalDownloads": 2721,
+  "title": "French Twitter Sentiment Analysis",
+  "hasTitle": true,
+  "subtitle": "1.5 million tweets in French and their sentiment.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFrench dataset for sentiment analysis (Data translated from English to French).\n\n\n### Content\n\nlabel: Polarity of the tweet (0 = negative, 1 = positive)\n\ntext: Content of the tweet\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "text mining",
+    "classification",
+    "news",
+    "email and messaging",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "aryarishabh/hand-gesture-recognition-dataset",
+  "id_no": 1571228,
+  "datasetSlugNullable": "hand-gesture-recognition-dataset",
+  "ownerUserNullable": "aryarishabh",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Hand Gesture Recognition Dataset",
+  "subtitleNullable": "20 Different Gestures with total 24000 images",
+  "descriptionNullable": "### About\n\nThis dataset contains total 24000 images of 20 different gestures. For training purpose, there are 900 images in each directory and for testing purpose there are 300 images in each directory. This dataset primarily use for hand gesture recognition task. I have also done a project for Gesture Controlled Opencv Calculator. The link for the project - [https://github.com/rishabh-arya/Gesture-controlled-opencv-calculator](https://github.com/rishabh-arya/Gesture-controlled-opencv-calculator).\n\nIf you find useful this dataset and please upvote it.......\ud83d\ude04\ud83d\ude04 \n\n\n",
+  "datasetId": 1571228,
+  "datasetSlug": "hand-gesture-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aryarishabh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 32676,
+  "totalVotes": 45,
+  "totalDownloads": 3251,
+  "title": "Hand Gesture Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "20 Different Gestures with total 24000 images",
+  "hasSubtitle": true,
+  "description": "### About\n\nThis dataset contains total 24000 images of 20 different gestures. For training purpose, there are 900 images in each directory and for testing purpose there are 300 images in each directory. This dataset primarily use for hand gesture recognition task. I have also done a project for Gesture Controlled Opencv Calculator. The link for the project - [https://github.com/rishabh-arya/Gesture-controlled-opencv-calculator](https://github.com/rishabh-arya/Gesture-controlled-opencv-calculator).\n\nIf you find useful this dataset and please upvote it.......\ud83d\ude04\ud83d\ude04 \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "cnn",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

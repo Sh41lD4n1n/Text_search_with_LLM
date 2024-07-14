@@ -1,0 +1,45 @@
+{
+  "id": "owaiskhan9654/pubmed-multilabel-text-classification",
+  "id_no": 2312112,
+  "datasetSlugNullable": "pubmed-multilabel-text-classification",
+  "ownerUserNullable": "owaiskhan9654",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "PubMed MultiLabel Text Classification Dataset MeSH",
+  "subtitleNullable": "Extreme Multi Label Text Classification on Biomedical PubMed Articles",
+  "descriptionNullable": "This dataset consists of an approx 50k collection of research articles from **PubMed** repository. Originally these documents are manually annotated by Biomedical Experts with their MeSH labels and each article are described in terms of 10-15 MeSH labels. In this Dataset we have huge numbers of labels present as a MeSH major, raising the issue of extremely large output space and severe label sparsity issues. To solve this issue, the Dataset has been Processed and mapped to its root as described below.\n![Mapped Image not Fetched](https://gitlab.com/Owaiskhan9654/Gene-Sequence-Primer/-/raw/main/Capture111.PNG)\n![Tree Structure](https://gitlab.com/Owaiskhan9654/Gene-Sequence-Primer/-/raw/main/Capture22.PNG)\n\n\n",
+  "datasetId": 2312112,
+  "datasetSlug": "pubmed-multilabel-text-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "owaiskhan9654",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11818,
+  "totalVotes": 48,
+  "totalDownloads": 1432,
+  "title": "PubMed MultiLabel Text Classification Dataset MeSH",
+  "hasTitle": true,
+  "subtitle": "Extreme Multi Label Text Classification on Biomedical PubMed Articles",
+  "hasSubtitle": true,
+  "description": "This dataset consists of an approx 50k collection of research articles from **PubMed** repository. Originally these documents are manually annotated by Biomedical Experts with their MeSH labels and each article are described in terms of 10-15 MeSH labels. In this Dataset we have huge numbers of labels present as a MeSH major, raising the issue of extremely large output space and severe label sparsity issues. To solve this issue, the Dataset has been Processed and mapped to its root as described below.\n![Mapped Image not Fetched](https://gitlab.com/Owaiskhan9654/Gene-Sequence-Primer/-/raw/main/Capture111.PNG)\n![Tree Structure](https://gitlab.com/Owaiskhan9654/Gene-Sequence-Primer/-/raw/main/Capture22.PNG)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "health",
+    "exploratory data analysis",
+    "text mining",
+    "deep learning",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

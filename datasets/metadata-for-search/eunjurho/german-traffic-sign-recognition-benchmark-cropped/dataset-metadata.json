@@ -1,0 +1,41 @@
+{
+  "id": "eunjurho/german-traffic-sign-recognition-benchmark-cropped",
+  "id_no": 411348,
+  "datasetSlugNullable": "german-traffic-sign-recognition-benchmark-cropped",
+  "ownerUserNullable": "eunjurho",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "german_traffic_sign_recognition_benchmark_cropped",
+  "subtitleNullable": "cropped GTSRB images",
+  "descriptionNullable": "### Description\n\nThis dataset is pre-processed from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The original data include street-view photos of 43 different German traffic signs. As the photo images capture scenes larger than the traffic signs, the original dataset also provides coordinates to locate traffic sign within each image. This dataset is the result of cropping images with these provided coordinates, and the process is described in the attached jupyter notebook (*german-traffic-signs-preprocessing.ipynb*). \n\n\n### Acknowledgements\n\nThis dataset is built from the data made available at: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign. The original source is INI Benchmark (http://benchmark.ini.rub.de/?section=gtsrb) and its website provides detailed description on the dataset.",
+  "datasetId": 411348,
+  "datasetSlug": "german-traffic-sign-recognition-benchmark-cropped",
+  "hasDatasetSlug": true,
+  "ownerUser": "eunjurho",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4659,
+  "totalVotes": 9,
+  "totalDownloads": 468,
+  "title": "german_traffic_sign_recognition_benchmark_cropped",
+  "hasTitle": true,
+  "subtitle": "cropped GTSRB images",
+  "hasSubtitle": true,
+  "description": "### Description\n\nThis dataset is pre-processed from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The original data include street-view photos of 43 different German traffic signs. As the photo images capture scenes larger than the traffic signs, the original dataset also provides coordinates to locate traffic sign within each image. This dataset is the result of cropping images with these provided coordinates, and the process is described in the attached jupyter notebook (*german-traffic-signs-preprocessing.ipynb*). \n\n\n### Acknowledgements\n\nThis dataset is built from the data made available at: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign. The original source is INI Benchmark (http://benchmark.ini.rub.de/?section=gtsrb) and its website provides detailed description on the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

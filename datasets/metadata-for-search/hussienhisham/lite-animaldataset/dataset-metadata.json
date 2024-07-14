@@ -1,0 +1,43 @@
+{
+  "id": "hussienhisham/lite-animaldataset",
+  "id_no": 2330629,
+  "datasetSlugNullable": "lite-animaldataset",
+  "ownerUserNullable": "hussienhisham",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Lite Animal-Dataset",
+  "subtitleNullable": "Lite Animal-Dataset for learning purposes",
+  "descriptionNullable": "Lite Animal-Dataset for  image classification.\n5 different animals includes:\n\nBear\nCat\nDog\nElephant\nGoat\n\n10 training photos for each class and 2 validation photos.\nThis dataset can be use for image classification.\n\n\n",
+  "datasetId": 2330629,
+  "datasetSlug": "lite-animaldataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hussienhisham",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 752,
+  "totalVotes": 5,
+  "totalDownloads": 102,
+  "title": "Lite Animal-Dataset",
+  "hasTitle": true,
+  "subtitle": "Lite Animal-Dataset for learning purposes",
+  "hasSubtitle": true,
+  "description": "Lite Animal-Dataset for  image classification.\n5 different animals includes:\n\nBear\nCat\nDog\nElephant\nGoat\n\n10 training photos for each class and 2 validation photos.\nThis dataset can be use for image classification.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "intermediate",
+    "cnn",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mpwolke/cusersmarildownloadsanxietycsv",
+  "id_no": 626080,
+  "datasetSlugNullable": "cusersmarildownloadsanxietycsv",
+  "ownerUserNullable": "mpwolke",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Anxiety and Depression Psychological Therapies ",
+  "subtitleNullable": "National Clinical Audit of Anxiety and Depression - UK",
+  "descriptionNullable": "### Context\n\nNational Clinical Audit of Anxiety and Depression Psychological Therapies Spotlight Audit. Data collected between October 2018 and January 2019 and aggregated by mental health services delivering psychological therapies in secondary care. \n\nhttps://data.gov.uk/dataset/3da96fcf-7abb-4118-93d0-928b77e3ab75/national-clinical-audit-of-anxiety-and-depression-psychological-therapies-spotlight-audit\n\n\n### Content\n\nFreedom of Information (FOI) requests : Dr Alan Quirk\nAlan.Quirk@rcpsych.ac.uk\nhttps://www.rcpsych.ac.uk/improving-care/ccqi/national-clinical-audits/national-clinical-audit-of-anxiety-and-depression\n\n\n\n\n### Acknowledgements\n\nhttps://data.gov.uk/dataset/3da96fcf-7abb-4118-93d0-928b77e3ab75/national-clinical-audit-of-anxiety-and-depression-psychological-therapies-spotlight-audit\n\nPhoto by Sarah Kilian on Unsplash (Covid-19 times)\n\n\n\n### Inspiration\n\nThe Implications of COVID-19 for Mental Health .  The COVID-19 pandemic and resulting economic downturn have negatively affected many people\u2019s mental health and created new barriers for people already suffering from mental illness and substance use disorders.\nTherefore this Pandemic affects not only the infected persons but all the World, with repercussions that can persists beyond 2020. \n",
+  "datasetId": 626080,
+  "datasetSlug": "cusersmarildownloadsanxietycsv",
+  "hasDatasetSlug": true,
+  "ownerUser": "mpwolke",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 30266,
+  "totalVotes": 124,
+  "totalDownloads": 3230,
+  "title": "Anxiety and Depression Psychological Therapies ",
+  "hasTitle": true,
+  "subtitle": "National Clinical Audit of Anxiety and Depression - UK",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNational Clinical Audit of Anxiety and Depression Psychological Therapies Spotlight Audit. Data collected between October 2018 and January 2019 and aggregated by mental health services delivering psychological therapies in secondary care. \n\nhttps://data.gov.uk/dataset/3da96fcf-7abb-4118-93d0-928b77e3ab75/national-clinical-audit-of-anxiety-and-depression-psychological-therapies-spotlight-audit\n\n\n### Content\n\nFreedom of Information (FOI) requests : Dr Alan Quirk\nAlan.Quirk@rcpsych.ac.uk\nhttps://www.rcpsych.ac.uk/improving-care/ccqi/national-clinical-audits/national-clinical-audit-of-anxiety-and-depression\n\n\n\n\n### Acknowledgements\n\nhttps://data.gov.uk/dataset/3da96fcf-7abb-4118-93d0-928b77e3ab75/national-clinical-audit-of-anxiety-and-depression-psychological-therapies-spotlight-audit\n\nPhoto by Sarah Kilian on Unsplash (Covid-19 times)\n\n\n\n### Inspiration\n\nThe Implications of COVID-19 for Mental Health .  The COVID-19 pandemic and resulting economic downturn have negatively affected many people\u2019s mental health and created new barriers for people already suffering from mental illness and substance use disorders.\nTherefore this Pandemic affects not only the infected persons but all the World, with repercussions that can persists beyond 2020. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "shoaibrkhan/top-10000-voted-imdb-movies-dataset",
+  "id_no": 3758169,
+  "datasetSlugNullable": "top-10000-voted-imdb-movies-dataset",
+  "ownerUserNullable": "shoaibrkhan",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Top 10000 Voted IMDB Movies Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3758169,
+  "datasetSlug": "top-10000-voted-imdb-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shoaibrkhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 66,
+  "totalVotes": 1,
+  "totalDownloads": 4,
+  "title": "Top 10000 Voted IMDB Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

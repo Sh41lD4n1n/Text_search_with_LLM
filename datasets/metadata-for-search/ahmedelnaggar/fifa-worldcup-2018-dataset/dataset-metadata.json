@@ -1,0 +1,41 @@
+{
+  "id": "ahmedelnaggar/fifa-worldcup-2018-dataset",
+  "id_no": 7264,
+  "datasetSlugNullable": "fifa-worldcup-2018-dataset",
+  "ownerUserNullable": "ahmedelnaggar",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "FIFA worldcup 2018 Dataset",
+  "subtitleNullable": "All participating teams history",
+  "descriptionNullable": "**Context:**\nWell, we are a head of the largest football event(Soccer, sorry for the American fellows) worldwide, as excited as we were. Well, at least some of us were, by the draw, here comes the data. History of all previous matches, scores and titles of all participating teams to help us predict who will qualify and may even predict who will win. So, lets get our algorithms going.\n\n**Content:**\nThe dataset contains 32 entries(of the 32 participating teams of course), each team will have 3 matches in the group stage, so each match is mentioned vs whom, the history between those 2 teams with wins minus losses, let's say Brazil has beaten Argentina 14 times, Argentina won 12 and there were 3 draws, so that will be +2 for brazil and -2 for Argentina, the same goes for goals scored.\nYou will find some entries with N/A and some with zeros, so what is the difference?\nThe zeros mean that the 2 teams evened out, while N/As means that they have no previous history together and they have never faced each other. So, no data available.\nThe matches history is up to 2012-2014. So, there is a couple of years missing here, and the FIFA rank is up to date, which will be updated every month till we get there.\n\n**Acknowledgments:**\nMost of the data is pulled from FIFA website except for the matches and scores history, they were pulled manually from various credible sources.\n\nInspiration:\nWell, I think this data can help us predict who will head the groups and who comes second, then may be we can progress through round of 16....final. You can ask for more data and I'll be happy to search and update it.\n\nIf you like the data or find it useful enough, don't forget the upvote ;)",
+  "datasetId": 7264,
+  "datasetSlug": "fifa-worldcup-2018-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedelnaggar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 59938,
+  "totalVotes": 102,
+  "totalDownloads": 9182,
+  "title": "FIFA worldcup 2018 Dataset",
+  "hasTitle": true,
+  "subtitle": "All participating teams history",
+  "hasSubtitle": true,
+  "description": "**Context:**\nWell, we are a head of the largest football event(Soccer, sorry for the American fellows) worldwide, as excited as we were. Well, at least some of us were, by the draw, here comes the data. History of all previous matches, scores and titles of all participating teams to help us predict who will qualify and may even predict who will win. So, lets get our algorithms going.\n\n**Content:**\nThe dataset contains 32 entries(of the 32 participating teams of course), each team will have 3 matches in the group stage, so each match is mentioned vs whom, the history between those 2 teams with wins minus losses, let's say Brazil has beaten Argentina 14 times, Argentina won 12 and there were 3 draws, so that will be +2 for brazil and -2 for Argentina, the same goes for goals scored.\nYou will find some entries with N/A and some with zeros, so what is the difference?\nThe zeros mean that the 2 teams evened out, while N/As means that they have no previous history together and they have never faced each other. So, no data available.\nThe matches history is up to 2012-2014. So, there is a couple of years missing here, and the FIFA rank is up to date, which will be updated every month till we get there.\n\n**Acknowledgments:**\nMost of the data is pulled from FIFA website except for the matches and scores history, they were pulled manually from various credible sources.\n\nInspiration:\nWell, I think this data can help us predict who will head the groups and who comes second, then may be we can progress through round of 16....final. You can ask for more data and I'll be happy to search and update it.\n\nIf you like the data or find it useful enough, don't forget the upvote ;)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "russia",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

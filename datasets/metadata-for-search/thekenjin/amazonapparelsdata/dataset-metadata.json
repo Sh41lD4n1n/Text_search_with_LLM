@@ -1,0 +1,42 @@
+{
+  "id": "thekenjin/amazonapparelsdata",
+  "id_no": 1128180,
+  "datasetSlugNullable": "amazonapparelsdata",
+  "ownerUserNullable": "thekenjin",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Amazon apparels data review",
+  "subtitleNullable": " amazon women's clothing products and clothing product reviews",
+  "descriptionNullable": "Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon.\n\nThe dataset here is taken from the below website.\n\nSource - Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/) The repository has several datasets. For this case study, we are using the Electronics dataset.\n\n",
+  "datasetId": 1128180,
+  "datasetSlug": "amazonapparelsdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "thekenjin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 4286,
+  "totalVotes": 6,
+  "totalDownloads": 400,
+  "title": "Amazon apparels data review",
+  "hasTitle": true,
+  "subtitle": " amazon women's clothing products and clothing product reviews",
+  "hasSubtitle": true,
+  "description": "Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon.\n\nThe dataset here is taken from the below website.\n\nSource - Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/) The repository has several datasets. For this case study, we are using the Electronics dataset.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "recommender systems",
+    "ratings and reviews",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

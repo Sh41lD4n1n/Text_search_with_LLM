@@ -1,0 +1,39 @@
+{
+  "id": "saadpd/menwomen-classification",
+  "id_no": 481889,
+  "datasetSlugNullable": "menwomen-classification",
+  "ownerUserNullable": "saadpd",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Men-Women Classification",
+  "subtitleNullable": "Data Set for binary classification",
+  "descriptionNullable": "### Context\n\nMachine learning models for image classification are usually tested on Cat/Dog data set which is considered as Bibel data set for the binary classification task. This data set can be used by the beginners to practice image classifiers such as neural network and convolution neural and its variants.\n\n\n### Content\n\nThis data set is shorter version of the data set available on the Kaggel under the link. Men-Women Classification. The data contains the images of men and women.\n\nThe data set is divided in to two parts.\n\ntrain data set\ntest data set\nThe train data contains 1000 image of men and 1000 images of women. The test data set contains 412 image of men and 915 images of women.\n\n\n### Acknowledgements\n\nThis data set is the shorter version of the actual data set available on the Kaggle data set under the link (Men/Women Classification) (https://www.kaggle.com/playlist/men-women-classification).\n\nI acknowledge Johnathan Orsolini for his efforts to provide such a valuable data set.\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 481889,
+  "datasetSlug": "menwomen-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "saadpd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 13770,
+  "totalVotes": 34,
+  "totalDownloads": 1787,
+  "title": "Men-Women Classification",
+  "hasTitle": true,
+  "subtitle": "Data Set for binary classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMachine learning models for image classification are usually tested on Cat/Dog data set which is considered as Bibel data set for the binary classification task. This data set can be used by the beginners to practice image classifiers such as neural network and convolution neural and its variants.\n\n\n### Content\n\nThis data set is shorter version of the data set available on the Kaggel under the link. Men-Women Classification. The data contains the images of men and women.\n\nThe data set is divided in to two parts.\n\ntrain data set\ntest data set\nThe train data contains 1000 image of men and 1000 images of women. The test data set contains 412 image of men and 915 images of women.\n\n\n### Acknowledgements\n\nThis data set is the shorter version of the actual data set available on the Kaggle data set under the link (Men/Women Classification) (https://www.kaggle.com/playlist/men-women-classification).\n\nI acknowledge Johnathan Orsolini for his efforts to provide such a valuable data set.\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

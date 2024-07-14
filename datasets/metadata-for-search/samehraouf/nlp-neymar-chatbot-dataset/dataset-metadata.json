@@ -1,0 +1,43 @@
+{
+  "id": "samehraouf/nlp-neymar-chatbot-dataset",
+  "id_no": 5199533,
+  "datasetSlugNullable": "nlp-neymar-chatbot-dataset",
+  "ownerUserNullable": "samehraouf",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NLP_Neymar_ChatBot_Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Embark on a captivating exploration of Neymar, the revered Brazilian football sensation, with this meticulously curated dataset. Derived from a diverse array of dialogues between users and an interactive chatbot, this dataset provides an immersive journey into Neymar's multifaceted world, sourced directly from the wealth of information available on Wikipedia (https://en.wikipedia.org/wiki/Neymar)  . \n\nDelve into the intricacies of Neymar's illustrious career, from his groundbreaking exploits on the football field to his profound impact beyond it. Each conversation within this dataset offers a nuanced glimpse into Neymar's professional milestones, statistical feats, and personal anecdotes, carefully selected and distilled from the extensive discourse surrounding his life and legacy.\n\nThis dataset is well-suited for Natural Language Processing (NLP) tasks and deep learning applications. With its rich collection of conversational data, it provides an ideal resource for training NLP models, exploring sentiment analysis, question answering systems, and other advanced deep learning techniques.\n\nWhether you're a passionate football aficionado, a data enthusiast, or simply curious about Neymar's remarkable journey, this dataset promises to ignite your imagination and deepen your appreciation for one of football's most iconic figures.\n\nLicense: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)\n\n",
+  "datasetId": 5199533,
+  "datasetSlug": "nlp-neymar-chatbot-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "samehraouf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 46,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "NLP_Neymar_ChatBot_Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Embark on a captivating exploration of Neymar, the revered Brazilian football sensation, with this meticulously curated dataset. Derived from a diverse array of dialogues between users and an interactive chatbot, this dataset provides an immersive journey into Neymar's multifaceted world, sourced directly from the wealth of information available on Wikipedia (https://en.wikipedia.org/wiki/Neymar)  . \n\nDelve into the intricacies of Neymar's illustrious career, from his groundbreaking exploits on the football field to his profound impact beyond it. Each conversation within this dataset offers a nuanced glimpse into Neymar's professional milestones, statistical feats, and personal anecdotes, carefully selected and distilled from the extensive discourse surrounding his life and legacy.\n\nThis dataset is well-suited for Natural Language Processing (NLP) tasks and deep learning applications. With its rich collection of conversational data, it provides an ideal resource for training NLP models, exploring sentiment analysis, question answering systems, and other advanced deep learning techniques.\n\nWhether you're a passionate football aficionado, a data enthusiast, or simply curious about Neymar's remarkable journey, this dataset promises to ignite your imagination and deepen your appreciation for one of football's most iconic figures.\n\nLicense: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "nlp",
+    "deep learning",
+    "text generation",
+    "text conversation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+      "name": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

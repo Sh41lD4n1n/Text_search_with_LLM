@@ -1,0 +1,44 @@
+{
+  "id": "aaronyin/oneshotpokemon",
+  "id_no": 28971,
+  "datasetSlugNullable": "oneshotpokemon",
+  "ownerUserNullable": "aaronyin",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "One-Shot-Pokemon Images",
+  "subtitleNullable": "Colorful and fun dataset for one shot learning problem, gotta recognize them all",
+  "descriptionNullable": "## Pokemon images for one shot learning\nOne-shot-learning is a very interesting task.  \nThis blog has a good [explanation for one-shot-learning](https://sorenbouma.github.io/blog/oneshot/).  \n\n## Dataset description\nThere are three directories,   \n\"pokemon-a\" and \"pokemon-b\" are standard pokemon images with no background. One can use them for training.  \n\"pokemon-tcg-images\" are pokemon images cropped from pokemon tcg card. They are for testing.  \nFilenames in all directories start with pokemon-id, aka class label.  \n\n## Challenge\nA classic deep convolution network with softmax can only achieve accuracy below 30%.  \nIf you have any good ideas to get better result on this dataset, you are welcome to share with us.  \nHave fun!\n\n## Where those images from\nAll images are collected from internet, and **original authors owns the copyright** (Nintendo, I guess).  \nCheck links below for more information:  \n\n- [kaggle-pokemon-images](https://www.kaggle.com/kvpratama/pokemon-images-dataset)  \n- [veekun](https://veekun.com/dex/downloads)\n- [pokemon-tcg](https://github.com/PokemonTCG)\n\n\n",
+  "datasetId": 28971,
+  "datasetSlug": "oneshotpokemon",
+  "hasDatasetSlug": true,
+  "ownerUser": "aaronyin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 28008,
+  "totalVotes": 95,
+  "totalDownloads": 1706,
+  "title": "One-Shot-Pokemon Images",
+  "hasTitle": true,
+  "subtitle": "Colorful and fun dataset for one shot learning problem, gotta recognize them all",
+  "hasSubtitle": true,
+  "description": "## Pokemon images for one shot learning\nOne-shot-learning is a very interesting task.  \nThis blog has a good [explanation for one-shot-learning](https://sorenbouma.github.io/blog/oneshot/).  \n\n## Dataset description\nThere are three directories,   \n\"pokemon-a\" and \"pokemon-b\" are standard pokemon images with no background. One can use them for training.  \n\"pokemon-tcg-images\" are pokemon images cropped from pokemon tcg card. They are for testing.  \nFilenames in all directories start with pokemon-id, aka class label.  \n\n## Challenge\nA classic deep convolution network with softmax can only achieve accuracy below 30%.  \nIf you have any good ideas to get better result on this dataset, you are welcome to share with us.  \nHave fun!\n\n## Where those images from\nAll images are collected from internet, and **original authors owns the copyright** (Nintendo, I guess).  \nCheck links below for more information:  \n\n- [kaggle-pokemon-images](https://www.kaggle.com/kvpratama/pokemon-images-dataset)  \n- [veekun](https://veekun.com/dex/downloads)\n- [pokemon-tcg](https://github.com/PokemonTCG)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "education",
+    "classification",
+    "deep learning",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

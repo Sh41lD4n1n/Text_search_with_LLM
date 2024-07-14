@@ -1,0 +1,42 @@
+{
+  "id": "artimous/complete-fifa-2017-player-dataset-global",
+  "id_no": 1071,
+  "datasetSlugNullable": "complete-fifa-2017-player-dataset-global",
+  "ownerUserNullable": "artimous",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Complete FIFA 2017 Player dataset (Global)",
+  "subtitleNullable": "15k+ players, 50+ Attributes per player from the latest EA Sports Fifa 17",
+  "descriptionNullable": "# The dataset for people who double on Fifa and Data Science\n\n**Content** \n\n- 17,000+ players\n- 50+ attributes per player ranging from ball skills aggression etc.\n- Player's attributes sourced from EA Sports' FIFA video game series, including the weekly updates\n- Players from all around the globe\n- URLs to their homepage\n- Club logos\n- Player images male and female\n- National and club team data\n\n**Weekly Updates would include :**\n\n- Real life data (Match events etc.)\n- The fifa generated player dataset\n- Betting odds\n- Growth\n\n----------\n\n![][1]\n\n**Data Source**\n\nData was scraped from https://www.fifaindex.com/ first by getting player profile url set (as stored in PlayerNames.csv) and then scraping the individual pages for their attributes\n\n----------\n\n**Improvements**\n\n- You may have noticed that for a lot of players, their national details are absent (Team and kit number) even though the nationality is listed. This may be attributed to the missing data on fifa sites. \n\n[GITHUB PROJECT][2]\n\n- There is much more than just 50 attributes by which fifa decides what happens to players over time, how they perform under pressure, how they grow etc. This data obviously would be well hidden by the organisation and thus would be tough to find\n\n*Important note for people interested in using the scraping*:  The site is not uniform and thus the scraping script requires considering a lot of corner cases (i.e. interchanged position of different attributes). Also the script contains proxy preferences which may be removed if not required.\n\n\n----------\n\n\n**Exploring the data**\n\nFor starters you can become a scout:\n\n- Create attribute dependent or overall best teams\n- Create the fastest/slowest teams\n- See which areas of the world provide which attributes (like Africa : Stamina, Pace)\n- See which players are the best at each position\n- See which outfield players can play a better role at some other position\n- See which youngsters have attributes which can be developed\n\nAnd that is just the beginning. This is the playground.. literally!\n\n\n----------\n\n**Data description**\n\n- The file *FullData.csv* contains attributes describing the in game play style and also some of the real statistics such as Nationality etc.\n- The file *PlayerNames.csv* contains URLs for different players from their profiles on fifaindex.com. Append the URLs after the base url **fifaindex.com**.\n- The compressed file **Pictures.zip** contains pictures for top 1000 players in Fifa 17.\n- The compressed file **Pictures_f.zip** contains pictures for top 139 female players in Fifa 17.\n- The compressed file **ClubPictures.zip** contains pictures for emblems of some major clubs in Fifa 17.\n\n----------\n\n\n **Inspiration**\n\nI am a huge FIFA fanatic. While playing career mode I realised that I picked great young players early on every single time and since a lot of digital learning relies on how our brain works, I thought scouting great qualities in players would be something that can be worked on. Since then I started working on scraping the website and here is the data. I hope we can build something on it.\n\n\n----------\n![][3]\n\n*With access to players attributes you can become the best scout in the world. Go for it!*\n\n\n  [1]: https://data2.origin.com/live/content/dam/originx/web/app/games/fifa/fifa-17/screenshots/fifa-17/PogbaDab_pdp_screenhi_3840x2160_en_ww.jpg\n  [2]: https://github.com/SoumitraAgarwal/Webscraping-Fifa-Ratings\n  [3]: https://www.xzone.cz/download/products/fifa-17-01.jpg",
+  "datasetId": 1071,
+  "datasetSlug": "complete-fifa-2017-player-dataset-global",
+  "hasDatasetSlug": true,
+  "ownerUser": "artimous",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 109537,
+  "totalVotes": 231,
+  "totalDownloads": 16804,
+  "title": "Complete FIFA 2017 Player dataset (Global)",
+  "hasTitle": true,
+  "subtitle": "15k+ players, 50+ Attributes per player from the latest EA Sports Fifa 17",
+  "hasSubtitle": true,
+  "description": "# The dataset for people who double on Fifa and Data Science\n\n**Content** \n\n- 17,000+ players\n- 50+ attributes per player ranging from ball skills aggression etc.\n- Player's attributes sourced from EA Sports' FIFA video game series, including the weekly updates\n- Players from all around the globe\n- URLs to their homepage\n- Club logos\n- Player images male and female\n- National and club team data\n\n**Weekly Updates would include :**\n\n- Real life data (Match events etc.)\n- The fifa generated player dataset\n- Betting odds\n- Growth\n\n----------\n\n![][1]\n\n**Data Source**\n\nData was scraped from https://www.fifaindex.com/ first by getting player profile url set (as stored in PlayerNames.csv) and then scraping the individual pages for their attributes\n\n----------\n\n**Improvements**\n\n- You may have noticed that for a lot of players, their national details are absent (Team and kit number) even though the nationality is listed. This may be attributed to the missing data on fifa sites. \n\n[GITHUB PROJECT][2]\n\n- There is much more than just 50 attributes by which fifa decides what happens to players over time, how they perform under pressure, how they grow etc. This data obviously would be well hidden by the organisation and thus would be tough to find\n\n*Important note for people interested in using the scraping*:  The site is not uniform and thus the scraping script requires considering a lot of corner cases (i.e. interchanged position of different attributes). Also the script contains proxy preferences which may be removed if not required.\n\n\n----------\n\n\n**Exploring the data**\n\nFor starters you can become a scout:\n\n- Create attribute dependent or overall best teams\n- Create the fastest/slowest teams\n- See which areas of the world provide which attributes (like Africa : Stamina, Pace)\n- See which players are the best at each position\n- See which outfield players can play a better role at some other position\n- See which youngsters have attributes which can be developed\n\nAnd that is just the beginning. This is the playground.. literally!\n\n\n----------\n\n**Data description**\n\n- The file *FullData.csv* contains attributes describing the in game play style and also some of the real statistics such as Nationality etc.\n- The file *PlayerNames.csv* contains URLs for different players from their profiles on fifaindex.com. Append the URLs after the base url **fifaindex.com**.\n- The compressed file **Pictures.zip** contains pictures for top 1000 players in Fifa 17.\n- The compressed file **Pictures_f.zip** contains pictures for top 139 female players in Fifa 17.\n- The compressed file **ClubPictures.zip** contains pictures for emblems of some major clubs in Fifa 17.\n\n----------\n\n\n **Inspiration**\n\nI am a huge FIFA fanatic. While playing career mode I realised that I picked great young players early on every single time and since a lot of digital learning relies on how our brain works, I thought scouting great qualities in players would be something that can be worked on. Since then I started working on scraping the website and here is the data. I hope we can build something on it.\n\n\n----------\n![][3]\n\n*With access to players attributes you can become the best scout in the world. Go for it!*\n\n\n  [1]: https://data2.origin.com/live/content/dam/originx/web/app/games/fifa/fifa-17/screenshots/fifa-17/PogbaDab_pdp_screenhi_3840x2160_en_ww.jpg\n  [2]: https://github.com/SoumitraAgarwal/Webscraping-Fifa-Ratings\n  [3]: https://www.xzone.cz/download/products/fifa-17-01.jpg",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

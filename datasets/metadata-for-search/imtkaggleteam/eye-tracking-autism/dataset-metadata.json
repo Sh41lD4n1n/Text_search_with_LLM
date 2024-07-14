@@ -1,0 +1,40 @@
+{
+  "id": "imtkaggleteam/eye-tracking-autism",
+  "id_no": 3838623,
+  "datasetSlugNullable": "eye-tracking-autism",
+  "ownerUserNullable": "imtkaggleteam",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Eye Tracking Autism",
+  "subtitleNullable": "Eye-Tracking Dataset to Support the Research on Autism Spectrum Disorder",
+  "descriptionNullable": "**Abstract:**\n\nThis study aims to publish an eye-tracking dataset developed for the purpose of autism diagnosis. Eye-tracking methods are used intensively in that context, whereas abnormalities of the eye gaze are largely recognized as the hallmark of autism. As such, it is believed that the dataset can allow for developing useful applications or discovering interesting insights. As well, Machine Learning is a potential application for developing diagnostic models that can help detect autism at an early stage of development.\n\n**Dataset Description**:\n\nThe dataset is distributed over 25 CSV-formatted files. Each file represents the output of an eye-tracking experiment. However, a single experiment usually included multiple participants. The participant ID is clearly provided at each record at the \u2018Participant\u2019 column, which can be used to identify the class of participant (i.e., Typically Developing or ASD). Furthermore, a set of metadata files is included. The main metadata file, Participants.csv, is used to describe the key characteristics of participants (e.g. gender, age, CARS). Every participant was also assigned a unique ID.\n\n**Dataset Citation:**\n\nCilia, F., Carette, R., Elbattah, M., Gu\u00e9rin, J., & Dequen, G. (2022). Eye-Tracking Dataset to Support the Research on Autism Spectrum Disorder. In Proceedings of the IJCAI\u2013ECAI Workshop on Scarce Data in Artificial Intelligence for Healthcare (SDAIH).\n\n**Authors:**\n\nFederica Cilia; Romuald Carette; Mahmoud Elbattah; Jean-Luc Gu\u00e9rin; Gilles Dequen ",
+  "datasetId": 3838623,
+  "datasetSlug": "eye-tracking-autism",
+  "hasDatasetSlug": true,
+  "ownerUser": "imtkaggleteam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5424,
+  "totalVotes": 84,
+  "totalDownloads": 700,
+  "title": "Eye Tracking Autism",
+  "hasTitle": true,
+  "subtitle": "Eye-Tracking Dataset to Support the Research on Autism Spectrum Disorder",
+  "hasSubtitle": true,
+  "description": "**Abstract:**\n\nThis study aims to publish an eye-tracking dataset developed for the purpose of autism diagnosis. Eye-tracking methods are used intensively in that context, whereas abnormalities of the eye gaze are largely recognized as the hallmark of autism. As such, it is believed that the dataset can allow for developing useful applications or discovering interesting insights. As well, Machine Learning is a potential application for developing diagnostic models that can help detect autism at an early stage of development.\n\n**Dataset Description**:\n\nThe dataset is distributed over 25 CSV-formatted files. Each file represents the output of an eye-tracking experiment. However, a single experiment usually included multiple participants. The participant ID is clearly provided at each record at the \u2018Participant\u2019 column, which can be used to identify the class of participant (i.e., Typically Developing or ASD). Furthermore, a set of metadata files is included. The main metadata file, Participants.csv, is used to describe the key characteristics of participants (e.g. gender, age, CARS). Every participant was also assigned a unique ID.\n\n**Dataset Citation:**\n\nCilia, F., Carette, R., Elbattah, M., Gu\u00e9rin, J., & Dequen, G. (2022). Eye-Tracking Dataset to Support the Research on Autism Spectrum Disorder. In Proceedings of the IJCAI\u2013ECAI Workshop on Scarce Data in Artificial Intelligence for Healthcare (SDAIH).\n\n**Authors:**\n\nFederica Cilia; Romuald Carette; Mahmoud Elbattah; Jean-Luc Gu\u00e9rin; Gilles Dequen ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sshikamaru/fruit-recognition",
+  "id_no": 849073,
+  "datasetSlugNullable": "fruit-recognition",
+  "ownerUserNullable": "sshikamaru",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Fruit Classification",
+  "subtitleNullable": " 22495 Images of Fruit!",
+  "descriptionNullable": "### Dataset \n\nTotal number of images: 22495.\n\nTraining set size: 16854 images (one fruit or vegetable per image).\n\nTest set size: 5641 images (one fruit or vegetable per image).\n\nNumber of classes: 33 (fruits and vegetables).\n\nImage size: 100x100 pixels.\n\nTraining data filename format: [fruit/vegetable name]_[id].jpg (e.g. Apple Braeburn_100.jpg). Many images are also rotated, to help training.\n\nTesting data filename format: [4 digit id].jpg (e.g. 0001.jpg)\n### Content\n\ntrain - the training folder that contains 33 subfolders in which training images for each fruit/vegetable are located. There is a total of 16854 images.\ntest - the testing folder that contains 5641 testing images\nsampleSubmission.csv - a sample submission file in the correct format, with id number and string label\n\n### Acknowledgements\n\nTJ NMLO Public Dataset\n\n",
+  "datasetId": 849073,
+  "datasetSlug": "fruit-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "sshikamaru",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 87910,
+  "totalVotes": 151,
+  "totalDownloads": 13020,
+  "title": "Fruit Classification",
+  "hasTitle": true,
+  "subtitle": " 22495 Images of Fruit!",
+  "hasSubtitle": true,
+  "description": "### Dataset \n\nTotal number of images: 22495.\n\nTraining set size: 16854 images (one fruit or vegetable per image).\n\nTest set size: 5641 images (one fruit or vegetable per image).\n\nNumber of classes: 33 (fruits and vegetables).\n\nImage size: 100x100 pixels.\n\nTraining data filename format: [fruit/vegetable name]_[id].jpg (e.g. Apple Braeburn_100.jpg). Many images are also rotated, to help training.\n\nTesting data filename format: [4 digit id].jpg (e.g. 0001.jpg)\n### Content\n\ntrain - the training folder that contains 33 subfolders in which training images for each fruit/vegetable are located. There is a total of 16854 images.\ntest - the testing folder that contains 5641 testing images\nsampleSubmission.csv - a sample submission file in the correct format, with id number and string label\n\n### Acknowledgements\n\nTJ NMLO Public Dataset\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "neural networks",
+    "cnn",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

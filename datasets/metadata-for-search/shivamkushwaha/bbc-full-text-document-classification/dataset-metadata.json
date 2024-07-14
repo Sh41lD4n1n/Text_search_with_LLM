@@ -1,0 +1,39 @@
+{
+  "id": "shivamkushwaha/bbc-full-text-document-classification",
+  "id_no": 110385,
+  "datasetSlugNullable": "bbc-full-text-document-classification",
+  "ownerUserNullable": "shivamkushwaha",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "BBC Full Text Document Classification",
+  "subtitleNullable": "2225 documents in five categories can be used for clustering and classification.",
+  "descriptionNullable": "",
+  "datasetId": 110385,
+  "datasetSlug": "bbc-full-text-document-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamkushwaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 58197,
+  "totalVotes": 83,
+  "totalDownloads": 6816,
+  "title": "BBC Full Text Document Classification",
+  "hasTitle": true,
+  "subtitle": "2225 documents in five categories can be used for clustering and classification.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

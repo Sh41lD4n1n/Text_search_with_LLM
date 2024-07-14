@@ -1,0 +1,43 @@
+{
+  "id": "ruchi798/stress-analysis-in-social-media",
+  "id_no": 1443468,
+  "datasetSlugNullable": "stress-analysis-in-social-media",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stress Analysis in Social Media",
+  "subtitleNullable": "Dreaddit: A Reddit Dataset",
+  "descriptionNullable": "### Context\n\nWe live in an era where there is a surplus of information flowing in every second. Sometimes this leads to stress. \u2639\ufe0f \nToo much stress can negatively impact our health and may lead to headaches, high blood pressure, heart problems, diabetes, skin conditions, asthma, arthritis, depression, and anxiety.\n\n### Content\n\nA dataset of lengthy multi-domain social media data for identifying stress from five different categories of Reddit communities.\n\n### Acknowledgements\n\nTurcan, E., & McKeown, K. (2019). Dreaddit: A Reddit dataset for stress analysis in social media. arXiv preprint arXiv:1911.00133.",
+  "datasetId": 1443468,
+  "datasetSlug": "stress-analysis-in-social-media",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 77237,
+  "totalVotes": 130,
+  "totalDownloads": 11256,
+  "title": "Stress Analysis in Social Media",
+  "hasTitle": true,
+  "subtitle": "Dreaddit: A Reddit Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe live in an era where there is a surplus of information flowing in every second. Sometimes this leads to stress. \u2639\ufe0f \nToo much stress can negatively impact our health and may lead to headaches, high blood pressure, heart problems, diabetes, skin conditions, asthma, arthritis, depression, and anxiety.\n\n### Content\n\nA dataset of lengthy multi-domain social media data for identifying stress from five different categories of Reddit communities.\n\n### Acknowledgements\n\nTurcan, E., & McKeown, K. (2019). Dreaddit: A Reddit dataset for stress analysis in social media. arXiv preprint arXiv:1911.00133.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "health",
+    "text",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

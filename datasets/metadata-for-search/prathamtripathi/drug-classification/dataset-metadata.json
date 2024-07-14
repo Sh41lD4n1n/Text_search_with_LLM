@@ -1,0 +1,43 @@
+{
+  "id": "prathamtripathi/drug-classification",
+  "id_no": 830916,
+  "datasetSlugNullable": "drug-classification",
+  "ownerUserNullable": "prathamtripathi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Drug Classification",
+  "subtitleNullable": "This database contains information about certain drug types.",
+  "descriptionNullable": "### Context\n\nSince as a beginner in machine learning it would be a great opportunity to try some techniques to predict the outcome of the drugs that might be accurate for the patient. \n\n\n### Content\n\n#### The target feature is \n- Drug type\n\n#### The feature sets are:\n- Age\n- Sex\n- Blood Pressure Levels (BP)\n- Cholesterol Levels\n- Na to Potassium Ration\n\n### Inspiration\n\nThe main problem here in not just the feature sets and target sets but also the approach that is taken in solving these types of problems as a beginner. So best of luck.",
+  "datasetId": 830916,
+  "datasetSlug": "drug-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "prathamtripathi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 256830,
+  "totalVotes": 337,
+  "totalDownloads": 36627,
+  "title": "Drug Classification",
+  "hasTitle": true,
+  "subtitle": "This database contains information about certain drug types.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSince as a beginner in machine learning it would be a great opportunity to try some techniques to predict the outcome of the drugs that might be accurate for the patient. \n\n\n### Content\n\n#### The target feature is \n- Drug type\n\n#### The feature sets are:\n- Age\n- Sex\n- Blood Pressure Levels (BP)\n- Cholesterol Levels\n- Na to Potassium Ration\n\n### Inspiration\n\nThe main problem here in not just the feature sets and target sets but also the approach that is taken in solving these types of problems as a beginner. So best of luck.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "classification",
+    "binary classification",
+    "drugs and medications",
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

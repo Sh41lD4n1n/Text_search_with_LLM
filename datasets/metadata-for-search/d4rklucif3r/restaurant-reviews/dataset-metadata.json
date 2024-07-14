@@ -1,0 +1,44 @@
+{
+  "id": "d4rklucif3r/restaurant-reviews",
+  "id_no": 1395030,
+  "datasetSlugNullable": "restaurant-reviews",
+  "ownerUserNullable": "d4rklucif3r",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Restaurant Reviews",
+  "subtitleNullable": "Dataset for Natural language Processing",
+  "descriptionNullable": "This Dataset contains two rows Customer Reviews and Liked.\nCustomer reviews tells us about the reviews given by the customers for a food in restaurant and liked column tells about whether they liked the food or not.\n",
+  "datasetId": 1395030,
+  "datasetSlug": "restaurant-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "d4rklucif3r",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 46053,
+  "totalVotes": 84,
+  "totalDownloads": 8600,
+  "title": "Restaurant Reviews",
+  "hasTitle": true,
+  "subtitle": "Dataset for Natural language Processing",
+  "hasSubtitle": true,
+  "description": "This Dataset contains two rows Customer Reviews and Liked.\nCustomer reviews tells us about the reviews given by the customers for a food in restaurant and liked column tells about whether they liked the food or not.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "nlp",
+    "text",
+    "food",
+    "restaurants",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

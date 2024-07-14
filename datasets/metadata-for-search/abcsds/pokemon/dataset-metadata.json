@@ -1,0 +1,42 @@
+{
+  "id": "abcsds/pokemon",
+  "id_no": 121,
+  "datasetSlugNullable": "pokemon",
+  "ownerUserNullable": "abcsds",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Pokemon with stats",
+  "subtitleNullable": "721 Pokemon with stats and types",
+  "descriptionNullable": "This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.\n\nThis are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (*NOT* pokemon cards or Pokemon Go).\n\nThe data as described by [Myles O'Neill](https://www.kaggle.com/mylesoneill) is:\n\n- **#**: ID for each pokemon\n- **Name**: Name of each pokemon\n- **Type 1**: Each pokemon has a type, this determines weakness/resistance to attacks\n- **Type 2**: Some pokemon are dual type and have 2\n- **Total**: sum of all stats that come after this, a general guide to how strong a pokemon is\n- **HP**: hit points, or health, defines how much damage a pokemon can withstand before fainting\n- **Attack**: the base modifier for normal attacks (eg. Scratch, Punch)\n- **Defense**: the base damage resistance against normal attacks\n- **SP Atk**: special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)\n- **SP Def**: the base damage resistance against special attacks\n- **Speed**: determines which pokemon attacks first each round\n\nThe data for this table has been acquired from several different sites, including: \n\n - [pokemon.com](http://www.pokemon.com/us/pokedex/)\n - [pokemondb](http://pokemondb.net/pokedex)\n - [bulbapedia](http://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number)\n\nOne question has been answered with this database: The type of a pokemon cannot be inferred only by it's Attack and Deffence. It would be worthy to find which two variables can define the type of a pokemon, if any. Two variables can be plotted in a 2D space, and used as an example for machine learning. This could mean the creation of a visual example any geeky Machine Learning class would love.",
+  "datasetId": 121,
+  "datasetSlug": "pokemon",
+  "hasDatasetSlug": true,
+  "ownerUser": "abcsds",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 750887,
+  "totalVotes": 2537,
+  "totalDownloads": 121738,
+  "title": "Pokemon with stats",
+  "hasTitle": true,
+  "subtitle": "721 Pokemon with stats and types",
+  "hasSubtitle": true,
+  "description": "This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.\n\nThis are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (*NOT* pokemon cards or Pokemon Go).\n\nThe data as described by [Myles O'Neill](https://www.kaggle.com/mylesoneill) is:\n\n- **#**: ID for each pokemon\n- **Name**: Name of each pokemon\n- **Type 1**: Each pokemon has a type, this determines weakness/resistance to attacks\n- **Type 2**: Some pokemon are dual type and have 2\n- **Total**: sum of all stats that come after this, a general guide to how strong a pokemon is\n- **HP**: hit points, or health, defines how much damage a pokemon can withstand before fainting\n- **Attack**: the base modifier for normal attacks (eg. Scratch, Punch)\n- **Defense**: the base damage resistance against normal attacks\n- **SP Atk**: special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)\n- **SP Def**: the base damage resistance against special attacks\n- **Speed**: determines which pokemon attacks first each round\n\nThe data for this table has been acquired from several different sites, including: \n\n - [pokemon.com](http://www.pokemon.com/us/pokedex/)\n - [pokemondb](http://pokemondb.net/pokedex)\n - [bulbapedia](http://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number)\n\nOne question has been answered with this database: The type of a pokemon cannot be inferred only by it's Attack and Deffence. It would be worthy to find which two variables can define the type of a pokemon, if any. Two variables can be plotted in a 2D space, and used as an example for machine learning. This could mean the creation of a visual example any geeky Machine Learning class would love.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "games",
+    "video games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

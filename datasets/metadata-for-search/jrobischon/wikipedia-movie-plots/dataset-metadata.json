@@ -1,0 +1,43 @@
+{
+  "id": "jrobischon/wikipedia-movie-plots",
+  "id_no": 64890,
+  "datasetSlugNullable": "wikipedia-movie-plots",
+  "ownerUserNullable": "jrobischon",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Wikipedia Movie Plots",
+  "subtitleNullable": "Plot descriptions for ~35,000 movies",
+  "descriptionNullable": "### Context\n\nPlot summary descriptions scraped from Wikipedia\n\n### Content\n\nThe dataset contains descriptions of 34,886 movies from around the world.   Column descriptions are listed below:\n\n* *Release Year* - Year in which the movie was released\n* *Title* - Movie title\n* *Origin/Ethnicity* - Origin of movie (i.e. American, Bollywood, Tamil, etc.)\n* *Director* - Director(s)\n* *Plot* - Main actor and actresses\n* *Genre* - Movie Genre(s)\n* *Wiki Page* - URL of the Wikipedia page from which the plot description was scraped\n* *Plot* - Long form description of movie plot (WARNING: May contain spoilers!!!)\n\n### Inspiration\n\n**Content-Based Movie Recommender:**\nRecommend movies with plots similar to those that a user has rated highly.\n\n**Movie Plot Generator:**\nGenerate a movie plot description based on seed input, such as director and genre\n\n**Information Retrieval:** \nReturn a movie title based on an input plot description\n\n**Text Classification:**\nPredict movie genre based on plot description\n\n### Acknowledgements\nThis data was scraped from Wikipedia",
+  "datasetId": 64890,
+  "datasetSlug": "wikipedia-movie-plots",
+  "hasDatasetSlug": true,
+  "ownerUser": "jrobischon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 162168,
+  "totalVotes": 493,
+  "totalDownloads": 24613,
+  "title": "Wikipedia Movie Plots",
+  "hasTitle": true,
+  "subtitle": "Plot descriptions for ~35,000 movies",
+  "hasSubtitle": true,
+  "description": "### Context\n\nPlot summary descriptions scraped from Wikipedia\n\n### Content\n\nThe dataset contains descriptions of 34,886 movies from around the world.   Column descriptions are listed below:\n\n* *Release Year* - Year in which the movie was released\n* *Title* - Movie title\n* *Origin/Ethnicity* - Origin of movie (i.e. American, Bollywood, Tamil, etc.)\n* *Director* - Director(s)\n* *Plot* - Main actor and actresses\n* *Genre* - Movie Genre(s)\n* *Wiki Page* - URL of the Wikipedia page from which the plot description was scraped\n* *Plot* - Long form description of movie plot (WARNING: May contain spoilers!!!)\n\n### Inspiration\n\n**Content-Based Movie Recommender:**\nRecommend movies with plots similar to those that a user has rated highly.\n\n**Movie Plot Generator:**\nGenerate a movie plot description based on seed input, such as director and genre\n\n**Information Retrieval:** \nReturn a movie title based on an input plot description\n\n**Text Classification:**\nPredict movie genre based on plot description\n\n### Acknowledgements\nThis data was scraped from Wikipedia",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "nlp",
+    "recommender systems",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

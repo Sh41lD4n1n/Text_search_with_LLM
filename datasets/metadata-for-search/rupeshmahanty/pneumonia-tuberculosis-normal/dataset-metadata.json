@@ -1,0 +1,43 @@
+{
+  "id": "rupeshmahanty/pneumonia-tuberculosis-normal",
+  "id_no": 4795724,
+  "datasetSlugNullable": "pneumonia-tuberculosis-normal",
+  "ownerUserNullable": "rupeshmahanty",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pneumonia  Tuberculosis  Normal",
+  "subtitleNullable": "X Ray Images Dataset -- 3 Classes -- ",
+  "descriptionNullable": "In this dataset we have 3 classes.\n\n1. Pneumonia\n2. TB\n3. Normal\n\n\nA brief idea about the diseases ,\nPneumonia:\nPneumonia is an infection that inflames the air sacs  in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. Pneumonia can range in seriousness from mild to  life-threatening. It is most serious for infants and young children, people older than age 65, and people with weakened immune systems. Common causes  of pneumonia include bacteria, viruses, and fungi. Treatment depends on the type and severity of pneumonia, but typically involves antibiotics for bacterial pneumonia and antiviral medications for viral pneumonia. Vaccines  are available to prevent some types of pneumonia, such as pneumococcal pneumonia and influenza pneumonia.\n\nTuberculosis (TB):\nTuberculosis (TB) is a bacterial infection primarily affecting the lungs but can  also impact other parts of the body. It spreads through the air when an infected person coughs or sneezes, releasing infectious particles. Symptoms include persistent cough, chest pain,  coughing up blood or sputum, weakness, weight loss, lack of appetite,  chills, fever, and night sweats. TB can be latent, without symptoms and not contagious, but it can become active if untreated. Active TB is  contagious and requires several  months of antibiotic treatment. Drug-resistant strains may need stronger medications and longer treatment. Prevention involves screening, early  detection, treatment, and vaccination with the BCG vaccine, though  its effectiveness varies.",
+  "datasetId": 4795724,
+  "datasetSlug": "pneumonia-tuberculosis-normal",
+  "hasDatasetSlug": true,
+  "ownerUser": "rupeshmahanty",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 514,
+  "totalVotes": 6,
+  "totalDownloads": 53,
+  "title": "Pneumonia  Tuberculosis  Normal",
+  "hasTitle": true,
+  "subtitle": "X Ray Images Dataset -- 3 Classes -- ",
+  "hasSubtitle": true,
+  "description": "In this dataset we have 3 classes.\n\n1. Pneumonia\n2. TB\n3. Normal\n\n\nA brief idea about the diseases ,\nPneumonia:\nPneumonia is an infection that inflames the air sacs  in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. Pneumonia can range in seriousness from mild to  life-threatening. It is most serious for infants and young children, people older than age 65, and people with weakened immune systems. Common causes  of pneumonia include bacteria, viruses, and fungi. Treatment depends on the type and severity of pneumonia, but typically involves antibiotics for bacterial pneumonia and antiviral medications for viral pneumonia. Vaccines  are available to prevent some types of pneumonia, such as pneumococcal pneumonia and influenza pneumonia.\n\nTuberculosis (TB):\nTuberculosis (TB) is a bacterial infection primarily affecting the lungs but can  also impact other parts of the body. It spreads through the air when an infected person coughs or sneezes, releasing infectious particles. Symptoms include persistent cough, chest pain,  coughing up blood or sputum, weakness, weight loss, lack of appetite,  chills, fever, and night sweats. TB can be latent, without symptoms and not contagious, but it can become active if untreated. Active TB is  contagious and requires several  months of antibiotic treatment. Drug-resistant strains may need stronger medications and longer treatment. Prevention involves screening, early  detection, treatment, and vaccination with the BCG vaccine, though  its effectiveness varies.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "intermediate",
+    "deep learning",
+    "image classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

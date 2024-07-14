@@ -1,0 +1,39 @@
+{
+  "id": "abdullaalmunna/fake-news-detection",
+  "id_no": 4439778,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "abdullaalmunna",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Fake News detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4439778,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdullaalmunna",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 59,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Fake News detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

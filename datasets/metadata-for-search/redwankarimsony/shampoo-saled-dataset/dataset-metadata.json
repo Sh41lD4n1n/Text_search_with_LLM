@@ -1,0 +1,39 @@
+{
+  "id": "redwankarimsony/shampoo-saled-dataset",
+  "id_no": 902411,
+  "datasetSlugNullable": "shampoo-saled-dataset",
+  "ownerUserNullable": "redwankarimsony",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Shampoo Sales Dataset",
+  "subtitleNullable": "Dataset describing the sales of shampoo over a 3 year period",
+  "descriptionNullable": "### Context\n\nThis dataset describes the monthly number of sales of shampoo over a 3 year period. The units are a sales count and there are 36 observations.\n\n\n### Content\n\nContain the sales of shampoo for 36 months time\n\n\n### Acknowledgements\n\n The original dataset is credited to Makridakis, Wheelwright, and Hyndman (1998).",
+  "datasetId": 902411,
+  "datasetSlug": "shampoo-saled-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "redwankarimsony",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 40190,
+  "totalVotes": 39,
+  "totalDownloads": 7227,
+  "title": "Shampoo Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset describing the sales of shampoo over a 3 year period",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset describes the monthly number of sales of shampoo over a 3 year period. The units are a sales count and there are 36 observations.\n\n\n### Content\n\nContain the sales of shampoo for 36 months time\n\n\n### Acknowledgements\n\n The original dataset is credited to Makridakis, Wheelwright, and Hyndman (1998).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

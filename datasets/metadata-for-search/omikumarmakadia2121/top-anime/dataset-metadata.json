@@ -1,0 +1,40 @@
+{
+  "id": "omikumarmakadia2121/top-anime",
+  "id_no": 3690437,
+  "datasetSlugNullable": "top-anime",
+  "ownerUserNullable": "omikumarmakadia2121",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top-Anime",
+  "subtitleNullable": "Gum..Gum..Gum.......",
+  "descriptionNullable": "Here's a description of the dataset:\n\nRank: This column represents the ranking of the anime titles based on their scores. The anime titles are sorted from the highest score (rank 1) to the lowest score.\n\nTitle: This column contains the titles of various anime series and movies. These titles include both TV series and movies, along with additional information like the number of episodes and release dates.\n\nScore: This column displays the scores assigned to each anime title. The scores appear to be user or viewer ratings, indicating the popularity or quality of the anime. The scores are numeric values, with higher scores indicating a more favorable reception.\n\nThe dataset contains a variety of anime titles, including well-known series like \"Fullmetal Alchemist: Brotherhood,\" \"Steins; Gate,\" \"Gintama,\" \"Hunter x Hunter (2011),\" \"Attack on Titan,\" and many others. The scores in the dataset are given in decimal format, ranging from 8.71 to 9.10, and they provide an indication of how highly viewers have rated each anime title.\n\nThis dataset seems to be valuable for anime enthusiasts who want to explore popular and highly-rated anime series and movies, as it provides a ranked list based on viewer scores.",
+  "datasetId": 3690437,
+  "datasetSlug": "top-anime",
+  "hasDatasetSlug": true,
+  "ownerUser": "omikumarmakadia2121",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5358,
+  "totalVotes": 30,
+  "totalDownloads": 806,
+  "title": "Top-Anime",
+  "hasTitle": true,
+  "subtitle": "Gum..Gum..Gum.......",
+  "hasSubtitle": true,
+  "description": "Here's a description of the dataset:\n\nRank: This column represents the ranking of the anime titles based on their scores. The anime titles are sorted from the highest score (rank 1) to the lowest score.\n\nTitle: This column contains the titles of various anime series and movies. These titles include both TV series and movies, along with additional information like the number of episodes and release dates.\n\nScore: This column displays the scores assigned to each anime title. The scores appear to be user or viewer ratings, indicating the popularity or quality of the anime. The scores are numeric values, with higher scores indicating a more favorable reception.\n\nThe dataset contains a variety of anime titles, including well-known series like \"Fullmetal Alchemist: Brotherhood,\" \"Steins; Gate,\" \"Gintama,\" \"Hunter x Hunter (2011),\" \"Attack on Titan,\" and many others. The scores in the dataset are given in decimal format, ranging from 8.71 to 9.10, and they provide an indication of how highly viewers have rated each anime title.\n\nThis dataset seems to be valuable for anime enthusiasts who want to explore popular and highly-rated anime series and movies, as it provides a ranked list based on viewer scores.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

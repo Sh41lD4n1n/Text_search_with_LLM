@@ -1,0 +1,60 @@
+{
+  "id": "debeshjha1/medico-automatic-polyp-segmentation-challenge",
+  "id_no": 1317004,
+  "datasetSlugNullable": "medico-automatic-polyp-segmentation-challenge",
+  "ownerUserNullable": "debeshjha1",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Medico automatic polyp segmentation dataset",
+  "subtitleNullable": "polyp seg. data(https://multimediaeval.github.io/editions/2020/tasks/medico/)",
+  "descriptionNullable": "The \u201cMedico automatic polyp segmentation challenge\u201d aims to develop computer-aided diagnosis systems for automatic polyp segmentation to detect all types of polyps (for example, irregular polyp, smaller or flat polyps) with high efficiency and accuracy. The main goal of the challenge is to benchmark semantic segmentation algorithms on a publicly available dataset, emphasizing robustness, speed, and generalization.\n\nParticipants will get access to a dataset consisting of 1,000 segmented polyp images from the gastrointestinal tract and a separate testing dataset. The challenge consists of two mandatory tasks, each focused on a different requirement for efficient polyp detection. We hope that this task encourages multimedia researchers to apply their vast knowledge to the medical field and make an impact that may affect real lives.\n\n# Data\nThe dataset contains 1,000 polyp images and their corresponding ground truth mask. The datasets were collected from real routine clinical examinations at Vestre Viken Health Trust (VV) in Norway by expert gastroenterologists. The VV is the collaboration of the four hospitals that provide healthcare service to 470,000 peoples. The resolution of images varies from 332\u2715487 to 1920\u27151072 pixels. Some of the images contain green thumbnail in the lower-left corner of the images showing the position marking from the ScopeGuide (Olympus). The training dataset can be downloaded from https://datasets.simula.no/kvasir-seg/.\n\nThe test dataset is now released. It can be downloaded from https://drive.google.com/file/d/1uP2W2g0iCCS3T6Cf7TPmNdSX4gayOrv2/view?usp=sharing.",
+  "datasetId": 1317004,
+  "datasetSlug": "medico-automatic-polyp-segmentation-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "debeshjha1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2473,
+  "totalVotes": 7,
+  "totalDownloads": 122,
+  "title": "Medico automatic polyp segmentation dataset",
+  "hasTitle": true,
+  "subtitle": "polyp seg. data(https://multimediaeval.github.io/editions/2020/tasks/medico/)",
+  "hasSubtitle": true,
+  "description": "The \u201cMedico automatic polyp segmentation challenge\u201d aims to develop computer-aided diagnosis systems for automatic polyp segmentation to detect all types of polyps (for example, irregular polyp, smaller or flat polyps) with high efficiency and accuracy. The main goal of the challenge is to benchmark semantic segmentation algorithms on a publicly available dataset, emphasizing robustness, speed, and generalization.\n\nParticipants will get access to a dataset consisting of 1,000 segmented polyp images from the gastrointestinal tract and a separate testing dataset. The challenge consists of two mandatory tasks, each focused on a different requirement for efficient polyp detection. We hope that this task encourages multimedia researchers to apply their vast knowledge to the medical field and make an impact that may affect real lives.\n\n# Data\nThe dataset contains 1,000 polyp images and their corresponding ground truth mask. The datasets were collected from real routine clinical examinations at Vestre Viken Health Trust (VV) in Norway by expert gastroenterologists. The VV is the collaboration of the four hospitals that provide healthcare service to 470,000 peoples. The resolution of images varies from 332\u2715487 to 1920\u27151072 pixels. Some of the images contain green thumbnail in the lower-left corner of the images showing the position marking from the ScopeGuide (Olympus). The training dataset can be downloaded from https://datasets.simula.no/kvasir-seg/.\n\nThe test dataset is now released. It can be downloaded from https://drive.google.com/file/d/1uP2W2g0iCCS3T6Cf7TPmNdSX4gayOrv2/view?usp=sharing.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "vlbthambawita",
+      "role": "writer"
+    },
+    {
+      "username": "hugohammer",
+      "role": "writer"
+    },
+    {
+      "username": "kelkalot",
+      "role": "writer"
+    },
+    {
+      "username": "stevenhicks",
+      "role": "writer"
+    },
+    {
+      "username": "plhalvorsen",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

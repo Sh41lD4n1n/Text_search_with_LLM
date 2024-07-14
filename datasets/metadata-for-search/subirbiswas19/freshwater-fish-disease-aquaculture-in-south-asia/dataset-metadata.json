@@ -1,0 +1,44 @@
+{
+  "id": "subirbiswas19/freshwater-fish-disease-aquaculture-in-south-asia",
+  "id_no": 3807710,
+  "datasetSlugNullable": "freshwater-fish-disease-aquaculture-in-south-asia",
+  "ownerUserNullable": "subirbiswas19",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Freshwater Fish Disease Aquaculture in south asia",
+  "subtitleNullable": "Freshwater fish disease detection dataset  with 500+ south asian fish image",
+  "descriptionNullable": "#Context :\n\n**General Introduction**\nThe data was created to build a deep learning based fish skin-image to disease identification model.which can help aquaculture . In the dataset there are total**  7** class\n\n1. Bacterial diseases - Aeromoniasis .There are total 250 image .\n2. Bacterial gill disease . total number of image 250\n3. Bacterial Red disease . total number of image 250\n4. Fungal diseases . Saprolegniasis total number of image 250\n5. Healthy Fish . total number of image 250\n6. Parasitic diseases . total number of image 250\n7. Viral diseases White tail disease . total number of image 250\n\n**Data collection**\nThis is the most common  disease in freshwater aquaculture.This is a custom dataset. Data collected from various websites and some images from various Institutes of Freshwater Aquaculture in South Asia.\n\n**Source**\nThe CSV data was created on the based on image data . you can find the codes below :\nhttps://github.com/subirbiswas192001/image-to-csv-file-in-python.git\n\n\n**Inspiration**\nyou can build a machine learning model that can prediction fish disease\n\n\n\n",
+  "datasetId": 3807710,
+  "datasetSlug": "freshwater-fish-disease-aquaculture-in-south-asia",
+  "hasDatasetSlug": true,
+  "ownerUser": "subirbiswas19",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4458,
+  "totalVotes": 18,
+  "totalDownloads": 876,
+  "title": "Freshwater Fish Disease Aquaculture in south asia",
+  "hasTitle": true,
+  "subtitle": "Freshwater fish disease detection dataset  with 500+ south asian fish image",
+  "hasSubtitle": true,
+  "description": "#Context :\n\n**General Introduction**\nThe data was created to build a deep learning based fish skin-image to disease identification model.which can help aquaculture . In the dataset there are total**  7** class\n\n1. Bacterial diseases - Aeromoniasis .There are total 250 image .\n2. Bacterial gill disease . total number of image 250\n3. Bacterial Red disease . total number of image 250\n4. Fungal diseases . Saprolegniasis total number of image 250\n5. Healthy Fish . total number of image 250\n6. Parasitic diseases . total number of image 250\n7. Viral diseases White tail disease . total number of image 250\n\n**Data collection**\nThis is the most common  disease in freshwater aquaculture.This is a custom dataset. Data collected from various websites and some images from various Institutes of Freshwater Aquaculture in South Asia.\n\n**Source**\nThe CSV data was created on the based on image data . you can find the codes below :\nhttps://github.com/subirbiswas192001/image-to-csv-file-in-python.git\n\n\n**Inspiration**\nyou can build a machine learning model that can prediction fish disease\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "earth and nature",
+    "agriculture",
+    "computer vision",
+    "deep learning",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

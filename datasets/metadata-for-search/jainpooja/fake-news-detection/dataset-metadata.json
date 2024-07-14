@@ -1,0 +1,39 @@
+{
+  "id": "jainpooja/fake-news-detection",
+  "id_no": 890123,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "jainpooja",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake News Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 890123,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "jainpooja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 19114,
+  "totalVotes": 44,
+  "totalDownloads": 13173,
+  "title": "Fake News Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

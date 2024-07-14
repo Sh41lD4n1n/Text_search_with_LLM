@@ -1,0 +1,39 @@
+{
+  "id": "jayaprabhaa/wine-quality",
+  "id_no": 5262298,
+  "datasetSlugNullable": "wine-quality",
+  "ownerUserNullable": "jayaprabhaa",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "wine quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5262298,
+  "datasetSlug": "wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "jayaprabhaa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 14,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "wine quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tariqodeh/classified-arabic-news",
+  "id_no": 5277050,
+  "datasetSlugNullable": "classified-arabic-news",
+  "ownerUserNullable": "tariqodeh",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Classified Arabic News",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5277050,
+  "datasetSlug": "classified-arabic-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "tariqodeh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Classified Arabic News",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

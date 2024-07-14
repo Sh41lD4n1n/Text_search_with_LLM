@@ -1,0 +1,44 @@
+{
+  "id": "khoongweihao/covid19-xray-dataset-train-test-sets",
+  "id_no": 561588,
+  "datasetSlugNullable": "covid19-xray-dataset-train-test-sets",
+  "ownerUserNullable": "khoongweihao",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "COVID-19 Xray Dataset (Train & Test Sets)",
+  "subtitleNullable": "with COVID-19 CNN Pneumonia Detector",
+  "descriptionNullable": "# COVID-19 Xray Dataset (Train & Test Sets)\n\n- From: https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/\n- The author of the above repository transformed the data from https://github.com/ieee8023/covid-chestxray-dataset\n\n## Background\n\nThe 2019 novel coronavirus (COVID-19) presents several unique features. While the diagnosis is confirmed using polymerase chain reaction (PCR), infected patients with pneumonia may present on chest X-ray and computed tomography (CT) images with a pattern that is only moderately characteristic for the human eye Ng, 2020. COVID-19\u2019s rate of transmission depends on our capacity to reliably identify infected patients with a low rate of false negatives. In addition, a low rate of false positives is required to avoid further increasing the burden on the healthcare system by unnecessarily exposing patients to quarantine if that is not required. Along with proper infection control, it is evident that timely detection of the disease would enable the implementation of all the supportive care required by patients affected by COVID-19.\n\nIn late January, a Chinese team published a paper detailing the clinical and paraclinical features of COVID-19. They reported that patients present abnormalities in chest CT images with most having bilateral involvement Huang 2020. Bilateral multiple lobular and subsegmental areas of consolidation constitute the typical findings in chest CT images of intensive care unit (ICU) patients on admission Huang 2020. In comparison, non-ICU patients show bilateral ground-glass opacity and subsegmental areas of consolidation in their chest CT images Huang 2020. In these patients, later chest CT images display bilateral ground-glass opacity with resolved consolidation Huang 2020.\n\nCOVID is possibly better diagnosed using radiological imaging Fang, 2020 and Ai 2020.\n\n## Citation\n\n[1] Joseph Paul Cohen and Paul Morrison and Lan Dao. COVID-19 image data collection, arXiv, 2020. https://github.com/ieee8023/covid-chestxray-dataset\n\n    @article{cohen2020covid,\n      title={COVID-19 image data collection},\n      author={Joseph Paul Cohen and Paul Morrison and Lan Dao},\n      journal={arXiv},\n      url={https://github.com/ieee8023/covid-chestxray-dataset},\n      year={2020}\n    }\n\n[2] https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/",
+  "datasetId": 561588,
+  "datasetSlug": "covid19-xray-dataset-train-test-sets",
+  "hasDatasetSlug": true,
+  "ownerUser": "khoongweihao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 88295,
+  "totalVotes": 174,
+  "totalDownloads": 10118,
+  "title": "COVID-19 Xray Dataset (Train & Test Sets)",
+  "hasTitle": true,
+  "subtitle": "with COVID-19 CNN Pneumonia Detector",
+  "hasSubtitle": true,
+  "description": "# COVID-19 Xray Dataset (Train & Test Sets)\n\n- From: https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/\n- The author of the above repository transformed the data from https://github.com/ieee8023/covid-chestxray-dataset\n\n## Background\n\nThe 2019 novel coronavirus (COVID-19) presents several unique features. While the diagnosis is confirmed using polymerase chain reaction (PCR), infected patients with pneumonia may present on chest X-ray and computed tomography (CT) images with a pattern that is only moderately characteristic for the human eye Ng, 2020. COVID-19\u2019s rate of transmission depends on our capacity to reliably identify infected patients with a low rate of false negatives. In addition, a low rate of false positives is required to avoid further increasing the burden on the healthcare system by unnecessarily exposing patients to quarantine if that is not required. Along with proper infection control, it is evident that timely detection of the disease would enable the implementation of all the supportive care required by patients affected by COVID-19.\n\nIn late January, a Chinese team published a paper detailing the clinical and paraclinical features of COVID-19. They reported that patients present abnormalities in chest CT images with most having bilateral involvement Huang 2020. Bilateral multiple lobular and subsegmental areas of consolidation constitute the typical findings in chest CT images of intensive care unit (ICU) patients on admission Huang 2020. In comparison, non-ICU patients show bilateral ground-glass opacity and subsegmental areas of consolidation in their chest CT images Huang 2020. In these patients, later chest CT images display bilateral ground-glass opacity with resolved consolidation Huang 2020.\n\nCOVID is possibly better diagnosed using radiological imaging Fang, 2020 and Ai 2020.\n\n## Citation\n\n[1] Joseph Paul Cohen and Paul Morrison and Lan Dao. COVID-19 image data collection, arXiv, 2020. https://github.com/ieee8023/covid-chestxray-dataset\n\n    @article{cohen2020covid,\n      title={COVID-19 image data collection},\n      author={Joseph Paul Cohen and Paul Morrison and Lan Dao},\n      journal={arXiv},\n      url={https://github.com/ieee8023/covid-chestxray-dataset},\n      year={2020}\n    }\n\n[2] https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "deep learning",
+    "image",
+    "drugs and medications",
+    "health conditions",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

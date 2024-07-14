@@ -1,0 +1,41 @@
+{
+  "id": "rmjacobsen/property-listings-for-5-south-american-countries",
+  "id_no": 673006,
+  "datasetSlugNullable": "property-listings-for-5-south-american-countries",
+  "ownerUserNullable": "rmjacobsen",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Property Listings for 5 South American Countries ",
+  "subtitleNullable": "The datasets contain real estate data by Properati Data",
+  "descriptionNullable": "### Context\n\nThe datasets contain real estate listings in Argentina, Colombia, Ecuador, Per\u00fa, and Uruguay. With information on number of rooms, districts, prices, etc. They include houses, apartments, commercial lots, and more.\n\nThe datasets origin from Properati Data which is a data division of Properati, the Latin American property search site. On their [website](https://www.properati.com.ar/data) you can find links to different tools and datasets to use freely for your projects. All you have to do is make sure you credit them for the data.\n\n### Content\n\nWhat a minute the dataset is in Spanish?! Yes, so for that reason I have provided a translated overview below. Keep in mind that although Spanish is a single language, certain words and expressions may vary depending on the country and region, e.g. the word for apartment in Colombia \"apartamento\" is \"departamento\" in Argentina. But all of these are easy to translate with Google Translator.\n\n#### **Overview of Data**\n- **type** - Type of listing:\n + Propiedad (Property).\n + Desarrollo/Proyecto (Development/Project).\n- **country** - Country in which the listing is published:\n + Argentina\n + Colombia\n + Ecuador\n + Per\u00fa\n + Uruguay\n- **id** - id of the listing. It is not unique: if the listing is updated by the real estate agency (new version of the listing) a new record is created with the same id but different dates: registration and cancellation.\n- **start_date** - Date of registration of the listing.\n- **end_date** - Cancellation date of the listing.\n- **created_on** - Date of registration of the first version of the listing.\n- **lat** - Latitude of the property.\n- **lon** - Longitud of the property.\n- **l1** - Administrative Level 1: Country of the property.\n- **l2** - Administrative Level 2: Usually the province of the property.\n- **l3** - Administrative Level 3: Usually the city of the property.\n- **l4** - Administrative Level 4: Usually the neighbourhood of the property.\n- **operation** - Type of listing:\n + Venta (Sale).\n + Alquiler (Rent).\n- **type** - Type of property:\n + Casa (House).\n + Departamento (Apartment).\n + PH (Horizontal Property).\n- **rooms** - Number of rooms (useful for Argentina).\n- **bedrooms** - Number of bedrooms (useful for the rest of the countries).\n- **bathrooms** - Number of bathrooms.\n- **surface_total** - Total area in m\u00b2.\n- **surface_covered** - Area covered in m\u00b2.\n- **price** - Price published in the listing.\n- **currency** - Currency of published price.\n- **price_period** - Payment periods:\n + Diario (Daily).\n + Semanal (Weekly).\n + Mensual (Monthly).\n- **title** - Title of the listing (These are in Spanish).\n- **description** - Description of the listing (In Spanish).\n- **status** - Development status (Completed, Under construction, ...).\n- **name** - Development name.\n- **short_description** - Short listing description.\n\n\n### Acknowledgements & Inspiration\n\nI want to thank Properati Data for providing the datasets free of charge. Especially, datasets on real estate listings that can be difficult to come by without spending time on creating crawlers and finding websites that will allow for crawling.\n\nThe inspiration and reason I came by the datasets in the first place was through my personal project on predicting apartment prices in Buenos Aires.\n\n### Additional Information\n**Data was downloaded the May 24 2020.**",
+  "datasetId": 673006,
+  "datasetSlug": "property-listings-for-5-south-american-countries",
+  "hasDatasetSlug": true,
+  "ownerUser": "rmjacobsen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 12839,
+  "totalVotes": 44,
+  "totalDownloads": 1393,
+  "title": "Property Listings for 5 South American Countries ",
+  "hasTitle": true,
+  "subtitle": "The datasets contain real estate data by Properati Data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe datasets contain real estate listings in Argentina, Colombia, Ecuador, Per\u00fa, and Uruguay. With information on number of rooms, districts, prices, etc. They include houses, apartments, commercial lots, and more.\n\nThe datasets origin from Properati Data which is a data division of Properati, the Latin American property search site. On their [website](https://www.properati.com.ar/data) you can find links to different tools and datasets to use freely for your projects. All you have to do is make sure you credit them for the data.\n\n### Content\n\nWhat a minute the dataset is in Spanish?! Yes, so for that reason I have provided a translated overview below. Keep in mind that although Spanish is a single language, certain words and expressions may vary depending on the country and region, e.g. the word for apartment in Colombia \"apartamento\" is \"departamento\" in Argentina. But all of these are easy to translate with Google Translator.\n\n#### **Overview of Data**\n- **type** - Type of listing:\n + Propiedad (Property).\n + Desarrollo/Proyecto (Development/Project).\n- **country** - Country in which the listing is published:\n + Argentina\n + Colombia\n + Ecuador\n + Per\u00fa\n + Uruguay\n- **id** - id of the listing. It is not unique: if the listing is updated by the real estate agency (new version of the listing) a new record is created with the same id but different dates: registration and cancellation.\n- **start_date** - Date of registration of the listing.\n- **end_date** - Cancellation date of the listing.\n- **created_on** - Date of registration of the first version of the listing.\n- **lat** - Latitude of the property.\n- **lon** - Longitud of the property.\n- **l1** - Administrative Level 1: Country of the property.\n- **l2** - Administrative Level 2: Usually the province of the property.\n- **l3** - Administrative Level 3: Usually the city of the property.\n- **l4** - Administrative Level 4: Usually the neighbourhood of the property.\n- **operation** - Type of listing:\n + Venta (Sale).\n + Alquiler (Rent).\n- **type** - Type of property:\n + Casa (House).\n + Departamento (Apartment).\n + PH (Horizontal Property).\n- **rooms** - Number of rooms (useful for Argentina).\n- **bedrooms** - Number of bedrooms (useful for the rest of the countries).\n- **bathrooms** - Number of bathrooms.\n- **surface_total** - Total area in m\u00b2.\n- **surface_covered** - Area covered in m\u00b2.\n- **price** - Price published in the listing.\n- **currency** - Currency of published price.\n- **price_period** - Payment periods:\n + Diario (Daily).\n + Semanal (Weekly).\n + Mensual (Monthly).\n- **title** - Title of the listing (These are in Spanish).\n- **description** - Description of the listing (In Spanish).\n- **status** - Development status (Completed, Under construction, ...).\n- **name** - Development name.\n- **short_description** - Short listing description.\n\n\n### Acknowledgements & Inspiration\n\nI want to thank Properati Data for providing the datasets free of charge. Especially, datasets on real estate listings that can be difficult to come by without spending time on creating crawlers and finding websites that will allow for crawling.\n\nThe inspiration and reason I came by the datasets in the first place was through my personal project on predicting apartment prices in Buenos Aires.\n\n### Additional Information\n**Data was downloaded the May 24 2020.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "south america",
+    "housing",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

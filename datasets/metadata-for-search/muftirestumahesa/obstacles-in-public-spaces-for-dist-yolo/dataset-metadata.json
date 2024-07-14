@@ -1,0 +1,44 @@
+{
+  "id": "muftirestumahesa/obstacles-in-public-spaces-for-dist-yolo",
+  "id_no": 4362076,
+  "datasetSlugNullable": "obstacles-in-public-spaces-for-dist-yolo",
+  "ownerUserNullable": "muftirestumahesa",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Obstacles in Public Spaces for Dist-YOLO",
+  "subtitleNullable": "Annotated Images of Obstacles for Object Detection in Public Spaces",
+  "descriptionNullable": "The \"Obstacles in Public Spaces for Dist-YOLO\" dataset is a collection of data focusing on annotated images depicting various types of obstacles that can be encountered in public spaces. This dataset has been curated and annotated with the aim of supporting the development of the Dist-YOLO (You Only Look Once) model for object detection.\nThe description of this dataset includes several key points:\n1. Types of Obstacles: The dataset encompasses various types of obstacles that may be encountered in public spaces, such as Right Turn, Left Turn, Puddle, Street Vendor, Obstacle, Bad Road, Garbage Bin, Chair, Pothole, Car, Motorcycle, Pedestrian, Fence, Gate, Barrier, Roadblock, Door, Tree, Plant, Pot, Drain, Stair, Pole, and Zebra Cross.\n2. Annotation Purpose: Each image in the dataset has been meticulously annotated to identify the location and type of obstacles present in the image.\n3. Data Format: Data in the dataset is typically presented in image formats (e.g., JPG or PNG) that have been annotated with bounding boxes or markers to indicate the location of obstacles.\n4. Dataset Size: The dataset can contain varying numbers of images, depending on research or model development needs. Total images in dataset is 3350 images.\n5. Usage Requirement: This dataset is useful for training and testing Object Detection models, especially models like Dist-YOLO, in recognizing and classifying obstacles in public environments.\n6. Application Fields: The dataset can be utilized in various application fields, including assistive technology for the visually impaired, development of navigation systems for the blind, autonomous vehicle development, and other applications involving object detection in public spaces.\nIt is important to provide proper attribution and references to the dataset when used in research or projects, and to adhere to applicable guidelines and copyrights related to the dataset.",
+  "datasetId": 4362076,
+  "datasetSlug": "obstacles-in-public-spaces-for-dist-yolo",
+  "hasDatasetSlug": true,
+  "ownerUser": "muftirestumahesa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 943,
+  "totalVotes": 2,
+  "totalDownloads": 148,
+  "title": "Obstacles in Public Spaces for Dist-YOLO",
+  "hasTitle": true,
+  "subtitle": "Annotated Images of Obstacles for Object Detection in Public Spaces",
+  "hasSubtitle": true,
+  "description": "The \"Obstacles in Public Spaces for Dist-YOLO\" dataset is a collection of data focusing on annotated images depicting various types of obstacles that can be encountered in public spaces. This dataset has been curated and annotated with the aim of supporting the development of the Dist-YOLO (You Only Look Once) model for object detection.\nThe description of this dataset includes several key points:\n1. Types of Obstacles: The dataset encompasses various types of obstacles that may be encountered in public spaces, such as Right Turn, Left Turn, Puddle, Street Vendor, Obstacle, Bad Road, Garbage Bin, Chair, Pothole, Car, Motorcycle, Pedestrian, Fence, Gate, Barrier, Roadblock, Door, Tree, Plant, Pot, Drain, Stair, Pole, and Zebra Cross.\n2. Annotation Purpose: Each image in the dataset has been meticulously annotated to identify the location and type of obstacles present in the image.\n3. Data Format: Data in the dataset is typically presented in image formats (e.g., JPG or PNG) that have been annotated with bounding boxes or markers to indicate the location of obstacles.\n4. Dataset Size: The dataset can contain varying numbers of images, depending on research or model development needs. Total images in dataset is 3350 images.\n5. Usage Requirement: This dataset is useful for training and testing Object Detection models, especially models like Dist-YOLO, in recognizing and classifying obstacles in public environments.\n6. Application Fields: The dataset can be utilized in various application fields, including assistive technology for the visually impaired, development of navigation systems for the blind, autonomous vehicle development, and other applications involving object detection in public spaces.\nIt is important to provide proper attribution and references to the dataset when used in research or projects, and to adhere to applicable guidelines and copyrights related to the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "artificial intelligence",
+    "computer vision",
+    "deep learning",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

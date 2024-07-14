@@ -1,0 +1,43 @@
+{
+  "id": "shubhangigarg/maskeddatasetfer",
+  "id_no": 1521464,
+  "datasetSlugNullable": "maskeddatasetfer",
+  "ownerUserNullable": "shubhangigarg",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "MaskedDatasetFER",
+  "subtitleNullable": "FER dataset for faces with facemask",
+  "descriptionNullable": "Although many innovative ideas have been proposed and implemented for classification of emotions based on facial expressions, the advent of COVID-19 called for a need of ideas for classifying emotions for masked faces. The first step in suggesting the algorithms was to find the dataset but I couldn't find any masked dataset classified for emotions. Therefore, this dataset was created to perform the analysis/development of emotion detection algorithms for the varied existing applications of emotion recognition.\n\nThe FER 2013 dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. A new categorized emotion facemask dataset has been created by artificially putting facemask on the existing images in the FER2013 dataset. This dataset contains 48x48 pixel grayscale images of masked faces. Dataset contains a total of 20484 images where the training set consists of 15,531 images and the validation set contains 4953 images both categorized into 7 classes of emotions-Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral.",
+  "datasetId": 1521464,
+  "datasetSlug": "maskeddatasetfer",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubhangigarg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 2560,
+  "totalVotes": 9,
+  "totalDownloads": 187,
+  "title": "MaskedDatasetFER",
+  "hasTitle": true,
+  "subtitle": "FER dataset for faces with facemask",
+  "hasSubtitle": true,
+  "description": "Although many innovative ideas have been proposed and implemented for classification of emotions based on facial expressions, the advent of COVID-19 called for a need of ideas for classifying emotions for masked faces. The first step in suggesting the algorithms was to find the dataset but I couldn't find any masked dataset classified for emotions. Therefore, this dataset was created to perform the analysis/development of emotion detection algorithms for the varied existing applications of emotion recognition.\n\nThe FER 2013 dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. A new categorized emotion facemask dataset has been created by artificially putting facemask on the existing images in the FER2013 dataset. This dataset contains 48x48 pixel grayscale images of masked faces. Dataset contains a total of 20484 images where the training set consists of 15,531 images and the validation set contains 4953 images both categorized into 7 classes of emotions-Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "classification",
+    "image",
+    "covid19",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

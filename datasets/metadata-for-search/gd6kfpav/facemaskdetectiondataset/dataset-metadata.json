@@ -1,0 +1,37 @@
+{
+  "id": "gd6kfpav/facemaskdetectiondataset",
+  "id_no": 2254899,
+  "datasetSlugNullable": "facemaskdetectiondataset",
+  "ownerUserNullable": "gd6kfpav",
+  "usabilityRatingNullable": 0.17647058823529413,
+  "titleNullable": "face-mask-detection-dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2254899,
+  "datasetSlug": "facemaskdetectiondataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gd6kfpav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.17647058823529413,
+  "hasUsabilityRating": true,
+  "totalViews": 178,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "face-mask-detection-dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

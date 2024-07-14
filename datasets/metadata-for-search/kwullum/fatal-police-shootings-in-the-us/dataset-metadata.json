@@ -1,0 +1,42 @@
+{
+  "id": "kwullum/fatal-police-shootings-in-the-us",
+  "id_no": 2647,
+  "datasetSlugNullable": "fatal-police-shootings-in-the-us",
+  "ownerUserNullable": "kwullum",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Fatal Police Shootings in the US",
+  "subtitleNullable": "Fatal police shootings in the US since 2015 with additional US census data",
+  "descriptionNullable": "The 2014 killing of Michael Brown in Ferguson, Missouri, began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. \n\nSince Jan. 1, 2015, The Washington Post has been compiling a database of every fatal shooting in the US by a police officer in the line of duty. \nIt's difficult to find reliable data from before this period, as police killings haven't been comprehensively documented, and the statistics on police brutality are much less available. As a result, a vast number of cases go unreported.\n\nThe Washington Post is tracking more than a dozen details about each killing - including the race, age and gender of the deceased, whether the person was armed, and whether the victim was experiencing a mental-health crisis. They have gathered this information from law enforcement websites, local new reports, social media, and by monitoring independent databases such as \"Killed by police\" and \"Fatal Encounters\". The Post has also conducted additional reporting in many cases.\n\nThere are four additional datasets. These are US census data on poverty rate, high school graduation rate, median household income, and racial demographics. \n\nSource of census data:\nhttps://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml",
+  "datasetId": 2647,
+  "datasetSlug": "fatal-police-shootings-in-the-us",
+  "hasDatasetSlug": true,
+  "ownerUser": "kwullum",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 118505,
+  "totalVotes": 434,
+  "totalDownloads": 31411,
+  "title": "Fatal Police Shootings in the US",
+  "hasTitle": true,
+  "subtitle": "Fatal police shootings in the US since 2015 with additional US census data",
+  "hasSubtitle": true,
+  "description": "The 2014 killing of Michael Brown in Ferguson, Missouri, began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. \n\nSince Jan. 1, 2015, The Washington Post has been compiling a database of every fatal shooting in the US by a police officer in the line of duty. \nIt's difficult to find reliable data from before this period, as police killings haven't been comprehensively documented, and the statistics on police brutality are much less available. As a result, a vast number of cases go unreported.\n\nThe Washington Post is tracking more than a dozen details about each killing - including the race, age and gender of the deceased, whether the person was armed, and whether the victim was experiencing a mental-health crisis. They have gathered this information from law enforcement websites, local new reports, social media, and by monitoring independent databases such as \"Killed by police\" and \"Fatal Encounters\". The Post has also conducted additional reporting in many cases.\n\nThere are four additional datasets. These are US census data on poverty rate, high school graduation rate, median household income, and racial demographics. \n\nSource of census data:\nhttps://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "crime",
+    "social issues and advocacy",
+    "racial equity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

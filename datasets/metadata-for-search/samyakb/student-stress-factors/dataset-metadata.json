@@ -1,0 +1,43 @@
+{
+  "id": "samyakb/student-stress-factors",
+  "id_no": 3945002,
+  "datasetSlugNullable": "student-stress-factors",
+  "ownerUserNullable": "samyakb",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Student stress factors",
+  "subtitleNullable": "Understanding what Impacts Stress of Engineering students the most",
+  "descriptionNullable": "This Data has been collected Majorly from Engineering students Testing the following data points from 1 to 5.\n\nKindly Rate your Sleep Quality\nHow many times a week do you suffer headaches\nHow would you rate you academic performance\nhow would you rate your study load?\nHow many times a week you practice extracurricular activities \nHow would you rate your stress levels?\n\n\nInspired from this [Dataset](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data)\n\nWant to contribute? please fill this [Form](https://forms.gle/qv87L4g2eeeEgcUE8) ",
+  "datasetId": 3945002,
+  "datasetSlug": "student-stress-factors",
+  "hasDatasetSlug": true,
+  "ownerUser": "samyakb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 51362,
+  "totalVotes": 135,
+  "totalDownloads": 10245,
+  "title": "Student stress factors",
+  "hasTitle": true,
+  "subtitle": "Understanding what Impacts Stress of Engineering students the most",
+  "hasSubtitle": true,
+  "description": "This Data has been collected Majorly from Engineering students Testing the following data points from 1 to 5.\n\nKindly Rate your Sleep Quality\nHow many times a week do you suffer headaches\nHow would you rate you academic performance\nhow would you rate your study load?\nHow many times a week you practice extracurricular activities \nHow would you rate your stress levels?\n\n\nInspired from this [Dataset](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data)\n\nWant to contribute? please fill this [Form](https://forms.gle/qv87L4g2eeeEgcUE8) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "mental health",
+    "education",
+    "beginner",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

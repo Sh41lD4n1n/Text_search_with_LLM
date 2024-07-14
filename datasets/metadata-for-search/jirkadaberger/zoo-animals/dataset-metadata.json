@@ -1,0 +1,42 @@
+{
+  "id": "jirkadaberger/zoo-animals",
+  "id_no": 3045437,
+  "datasetSlugNullable": "zoo-animals",
+  "ownerUserNullable": "jirkadaberger",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Zoo animals",
+  "subtitleNullable": "Object detection dataset of animals using Pascal VOC labeling format - XML files",
+  "descriptionNullable": "This dataset contains different animal categories such as: buffalo, capybara, cat, cow, deer, dog, elephant, flamingo, giraffe, jaguar, kangaroo, lion, parrot, penguin, rhino, sheep, tiger, turtle and zebra.\n\nMost of the images can be found in existing datasets:\n\thttps://github.com/freds0/capybara_dataset\n\thttps://universe.roboflow.com/miguel-narbot-usp-br/capybara-and-animals/dataset/1\n\thttps://www.kaggle.com/datasets/hugozanini1/kangaroodataset?resource=download\n\thttps://github.com/experiencor/kangaroo\n\thttps://universe.roboflow.com/z-jeans-pig/kangaroo-epscj/dataset/1\n\thttps://cvwc2019.github.io/challenge.html#\n\thttps://www.kaggle.com/datasets/biancaferreira/african-wildlife\n\thttps://universe.roboflow.com/new-workspace-5kofa/elephant-dataset/dataset/6\n\thttps://universe.roboflow.com/nathanael-hutama-harsono/large-cat/dataset/1/images/?split=train\n\thttps://universe.roboflow.com/giraffs-and-cows/giraffes-and-cows/dataset/1\n\thttps://universe.roboflow.com/turtledetector/turtledetector/dataset/2\n\thttps://www.kaggle.com/datasets/smaranjitghose/sea-turtle-face-detection\n\thttps://universe.roboflow.com/fadilyounes-me-gmail-com/zebra---savanna/dataset/1\n\thttps://universe.roboflow.com/test-qeryf/yolov5-9snhq\n\thttps://universe.roboflow.com/or-the-king/two-zebras\n\thttps://universe.roboflow.com/wild-animals-datasets/zebra-images/dataset/2\n\thttps://universe.roboflow.com/zebras/zebras/dataset/2\n\thttps://universe.roboflow.com/v2-rabotaem-xkxra/zebras_v2/dataset/5\n\thttps://universe.roboflow.com/vijay-vikas-mangena/animal_od_test1/dataset/1\n\thttps://universe.roboflow.com/bdoma13-gmail-com/rhino_horn/dataset/7\n\thttps://universe.roboflow.com/rudtkd134-naver-com/finalproject2/dataset/2\n\thttps://universe.roboflow.com/the-super-nekita/cats-brofl/dataset/2\n\thttps://universe.roboflow.com/lihi-gur-arie/pinguin-object-detection/dataset/2\n\thttps://universe.roboflow.com/utas-377cc/penguindataset-4dujc/dataset/10\n\thttps://universe.roboflow.com/new-workspace-tdyir/penguin-clfnj/dataset/1\n\thttps://universe.roboflow.com/utas-wd4sd/kit315_assignment/dataset/7\n\thttps://universe.roboflow.com/jeonjuuniv/deer-hqp4i/dataset/1\n\thttps://universe.roboflow.com/new-workspace-hqowp/sheeps/dataset/1\n\thttps://universe.roboflow.com/ali-eren-altindag/sheepstest2/dataset/1\n\thttps://universe.roboflow.com/yaser/sheep-0gudu/dataset/3\n\thttps://universe.roboflow.com/ali-eren-altindag/mixed_sheep/dataset/1\n\thttps://universe.roboflow.com/pkm-kc-2022/sapi-birahi/dataset/2\n\thttps://universe.roboflow.com/ghostikgh/team1_cows/dataset/5\n\thttps://universe.roboflow.com/ml-dlq4x/liontrain/dataset/2\n\thttps://universe.roboflow.com/animals/lionnew/dataset/2\n\thttps://universe.roboflow.com/parrottrening/parrot_trening/dataset/1\n\thttps://universe.roboflow.com/uet-hi8bg/parrots-r4tfl/dataset/1\n\thttps://universe.roboflow.com/superweight/parrot_poop/dataset/5\n\thttps://www.kaggle.com/datasets/tarunbisht11/intruder-detection\n\nFrom those datasets the images has been filtered (deleted objects of size smaller 32, images with dimension smaller than 320px has been deleted, images and labeled objects has been renamed). \nThe rest of images has been labeled by me.",
+  "datasetId": 3045437,
+  "datasetSlug": "zoo-animals",
+  "hasDatasetSlug": true,
+  "ownerUser": "jirkadaberger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 3130,
+  "totalVotes": 10,
+  "totalDownloads": 746,
+  "title": "Zoo animals",
+  "hasTitle": true,
+  "subtitle": "Object detection dataset of animals using Pascal VOC labeling format - XML files",
+  "hasSubtitle": true,
+  "description": "This dataset contains different animal categories such as: buffalo, capybara, cat, cow, deer, dog, elephant, flamingo, giraffe, jaguar, kangaroo, lion, parrot, penguin, rhino, sheep, tiger, turtle and zebra.\n\nMost of the images can be found in existing datasets:\n\thttps://github.com/freds0/capybara_dataset\n\thttps://universe.roboflow.com/miguel-narbot-usp-br/capybara-and-animals/dataset/1\n\thttps://www.kaggle.com/datasets/hugozanini1/kangaroodataset?resource=download\n\thttps://github.com/experiencor/kangaroo\n\thttps://universe.roboflow.com/z-jeans-pig/kangaroo-epscj/dataset/1\n\thttps://cvwc2019.github.io/challenge.html#\n\thttps://www.kaggle.com/datasets/biancaferreira/african-wildlife\n\thttps://universe.roboflow.com/new-workspace-5kofa/elephant-dataset/dataset/6\n\thttps://universe.roboflow.com/nathanael-hutama-harsono/large-cat/dataset/1/images/?split=train\n\thttps://universe.roboflow.com/giraffs-and-cows/giraffes-and-cows/dataset/1\n\thttps://universe.roboflow.com/turtledetector/turtledetector/dataset/2\n\thttps://www.kaggle.com/datasets/smaranjitghose/sea-turtle-face-detection\n\thttps://universe.roboflow.com/fadilyounes-me-gmail-com/zebra---savanna/dataset/1\n\thttps://universe.roboflow.com/test-qeryf/yolov5-9snhq\n\thttps://universe.roboflow.com/or-the-king/two-zebras\n\thttps://universe.roboflow.com/wild-animals-datasets/zebra-images/dataset/2\n\thttps://universe.roboflow.com/zebras/zebras/dataset/2\n\thttps://universe.roboflow.com/v2-rabotaem-xkxra/zebras_v2/dataset/5\n\thttps://universe.roboflow.com/vijay-vikas-mangena/animal_od_test1/dataset/1\n\thttps://universe.roboflow.com/bdoma13-gmail-com/rhino_horn/dataset/7\n\thttps://universe.roboflow.com/rudtkd134-naver-com/finalproject2/dataset/2\n\thttps://universe.roboflow.com/the-super-nekita/cats-brofl/dataset/2\n\thttps://universe.roboflow.com/lihi-gur-arie/pinguin-object-detection/dataset/2\n\thttps://universe.roboflow.com/utas-377cc/penguindataset-4dujc/dataset/10\n\thttps://universe.roboflow.com/new-workspace-tdyir/penguin-clfnj/dataset/1\n\thttps://universe.roboflow.com/utas-wd4sd/kit315_assignment/dataset/7\n\thttps://universe.roboflow.com/jeonjuuniv/deer-hqp4i/dataset/1\n\thttps://universe.roboflow.com/new-workspace-hqowp/sheeps/dataset/1\n\thttps://universe.roboflow.com/ali-eren-altindag/sheepstest2/dataset/1\n\thttps://universe.roboflow.com/yaser/sheep-0gudu/dataset/3\n\thttps://universe.roboflow.com/ali-eren-altindag/mixed_sheep/dataset/1\n\thttps://universe.roboflow.com/pkm-kc-2022/sapi-birahi/dataset/2\n\thttps://universe.roboflow.com/ghostikgh/team1_cows/dataset/5\n\thttps://universe.roboflow.com/ml-dlq4x/liontrain/dataset/2\n\thttps://universe.roboflow.com/animals/lionnew/dataset/2\n\thttps://universe.roboflow.com/parrottrening/parrot_trening/dataset/1\n\thttps://universe.roboflow.com/uet-hi8bg/parrots-r4tfl/dataset/1\n\thttps://universe.roboflow.com/superweight/parrot_poop/dataset/5\n\thttps://www.kaggle.com/datasets/tarunbisht11/intruder-detection\n\nFrom those datasets the images has been filtered (deleted objects of size smaller 32, images with dimension smaller than 320px has been deleted, images and labeled objects has been renamed). \nThe rest of images has been labeled by me.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

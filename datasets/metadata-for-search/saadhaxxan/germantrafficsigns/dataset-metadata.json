@@ -1,0 +1,43 @@
+{
+  "id": "saadhaxxan/germantrafficsigns",
+  "id_no": 533907,
+  "datasetSlugNullable": "germantrafficsigns",
+  "ownerUserNullable": "saadhaxxan",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "german-traffic-signs",
+  "subtitleNullable": "Traffic Signs Dataset for Classification ",
+  "descriptionNullable": "### Context\n\nDetecting Street Signs is one of the most important tasks in Self Driving Cars.This dataset is a benchmark in Street signs and symbols including 43 different classes. Classifying road symbols using Deep Convolutional Neural Network is the aim of this dataset.",
+  "datasetId": 533907,
+  "datasetSlug": "germantrafficsigns",
+  "hasDatasetSlug": true,
+  "ownerUser": "saadhaxxan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 7511,
+  "totalVotes": 7,
+  "totalDownloads": 834,
+  "title": "german-traffic-signs",
+  "hasTitle": true,
+  "subtitle": "Traffic Signs Dataset for Classification ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDetecting Street Signs is one of the most important tasks in Self Driving Cars.This dataset is a benchmark in Street signs and symbols including 43 different classes. Classifying road symbols using Deep Convolutional Neural Network is the aim of this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "feature engineering",
+    "deep learning",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

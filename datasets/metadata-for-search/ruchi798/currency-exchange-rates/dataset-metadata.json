@@ -1,0 +1,43 @@
+{
+  "id": "ruchi798/currency-exchange-rates",
+  "id_no": 1801633,
+  "datasetSlugNullable": "currency-exchange-rates",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Currency Exchange Rates",
+  "subtitleNullable": "Foreign exchange rates for every currency",
+  "descriptionNullable": "### Content\n&gt; Foreign exchange rates for every currency (updated daily)\n\n### Inspiration\n&gt; Time series analysis of foreign exchange rates for different currencies",
+  "datasetId": 1801633,
+  "datasetSlug": "currency-exchange-rates",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15760,
+  "totalVotes": 119,
+  "totalDownloads": 2725,
+  "title": "Currency Exchange Rates",
+  "hasTitle": true,
+  "subtitle": "Foreign exchange rates for every currency",
+  "hasSubtitle": true,
+  "description": "### Content\n&gt; Foreign exchange rates for every currency (updated daily)\n\n### Inspiration\n&gt; Time series analysis of foreign exchange rates for different currencies",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "economics",
+    "tabular",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

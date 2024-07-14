@@ -1,0 +1,40 @@
+{
+  "id": "tylermorse/retail-business-sales-20172019",
+  "id_no": 563799,
+  "datasetSlugNullable": "retail-business-sales-20172019",
+  "ownerUserNullable": "tylermorse",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Online Business Sales 2017-2019",
+  "subtitleNullable": "Dataset is actual sales from online store between 2017-2019",
+  "descriptionNullable": "### Context\n\nThe datasets are from a unnamed business' online retail sales.  Unfortunately, they have had to cut back from 25 employees to 5 because of the economic downturn with the corona virus.  Lets help them out with some informative kernels and visualizations!  Anything and everything helps!\n\n*I have permission to post the dataset. \n\n\n### Content\n\nIncludes online sales, profit, units sold, shipping, returns, time of order, and more!\n\n### Inspiration\n\nHelp out a small business in anyway possible!",
+  "datasetId": 563799,
+  "datasetSlug": "retail-business-sales-20172019",
+  "hasDatasetSlug": true,
+  "ownerUser": "tylermorse",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 95517,
+  "totalVotes": 179,
+  "totalDownloads": 17383,
+  "title": "Online Business Sales 2017-2019",
+  "hasTitle": true,
+  "subtitle": "Dataset is actual sales from online store between 2017-2019",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe datasets are from a unnamed business' online retail sales.  Unfortunately, they have had to cut back from 25 employees to 5 because of the economic downturn with the corona virus.  Lets help them out with some informative kernels and visualizations!  Anything and everything helps!\n\n*I have permission to post the dataset. \n\n\n### Content\n\nIncludes online sales, profit, units sold, shipping, returns, time of order, and more!\n\n### Inspiration\n\nHelp out a small business in anyway possible!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

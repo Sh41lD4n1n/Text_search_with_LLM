@@ -1,0 +1,37 @@
+{
+  "id": "jaskiratsinghjassi/airline-customer-reviews-dataset",
+  "id_no": 5228107,
+  "datasetSlugNullable": "airline-customer-reviews-dataset",
+  "ownerUserNullable": "jaskiratsinghjassi",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Airline Customer Reviews Dataset",
+  "subtitleNullable": "Customers Reviews in Airline Industry",
+  "descriptionNullable": "",
+  "datasetId": 5228107,
+  "datasetSlug": "airline-customer-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaskiratsinghjassi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 34,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "Airline Customer Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "Customers Reviews in Airline Industry",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

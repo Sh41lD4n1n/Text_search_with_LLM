@@ -1,0 +1,39 @@
+{
+  "id": "priyankank/sri-lankan-fish-species-dataset",
+  "id_no": 4625755,
+  "datasetSlugNullable": "sri-lankan-fish-species-dataset",
+  "ownerUserNullable": "priyankank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Sri Lankan Fish Species Dataset",
+  "subtitleNullable": "Top 16 fish species consumed in Sri Lanka",
+  "descriptionNullable": "Dataset contains images of top 16 fish species consumed in Sri Lanka with it's object detection label and coordinates.\nWe collected 1920 (=120*16) images, After applying the augmentation methods, the number of images increased to 14,400 images for all top 16 fish species",
+  "datasetId": 4625755,
+  "datasetSlug": "sri-lankan-fish-species-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "priyankank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 65,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Sri Lankan Fish Species Dataset",
+  "hasTitle": true,
+  "subtitle": "Top 16 fish species consumed in Sri Lanka",
+  "hasSubtitle": true,
+  "description": "Dataset contains images of top 16 fish species consumed in Sri Lanka with it's object detection label and coordinates.\nWe collected 1920 (=120*16) images, After applying the augmentation methods, the number of images increased to 14,400 images for all top 16 fish species",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

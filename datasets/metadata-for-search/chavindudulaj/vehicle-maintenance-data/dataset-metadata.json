@@ -1,0 +1,40 @@
+{
+  "id": "chavindudulaj/vehicle-maintenance-data",
+  "id_no": 4699932,
+  "datasetSlugNullable": "vehicle-maintenance-data",
+  "ownerUserNullable": "chavindudulaj",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Vehicle Maintenance Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Vehicle Maintenance Dataset\n\n#### Overview\nThis dataset provides synthetic data related to vehicle maintenance to help predict whether a vehicle requires maintenance or not based on various features.\n\n#### Features\n\n1. **Vehicle_Model**: Type of the vehicle (Car, SUV, Van, Truck, Bus, Motorcycle)\n2. **Mileage**: Total mileage of the vehicle\n3. **Maintenance_History**: Maintenance history of the vehicle (Good, Average, Poor)\n4. **Reported_Issues**: Number of reported issues\n5. **Vehicle_Age**: Age of the vehicle in years\n6. **Fuel_Type**: Type of fuel used (Diesel, Petrol, Electric)\n7. **Transmission_Type**: Transmission type (Automatic, Manual)\n8. **Engine_Size**: Size of the engine in cc (Cubic Centimeters)\n9. **Odometer_Reading**: Current odometer reading of the vehicle\n10. **Last_Service_Date**: Date of the last service\n11. **Warranty_Expiry_Date**: Date when the warranty expires\n12. **Owner_Type**: Type of vehicle owner (First, Second, Third)\n13. **Insurance_Premium**: Insurance premium amount\n14. **Service_History**: Number of services done\n15. **Accident_History**: Number of accidents the vehicle has been involved in\n16. **Fuel_Efficiency**: Fuel efficiency of the vehicle in km/l (Kilometers per liter)\n17. **Tire_Condition**: Condition of the tires (New, Good, Worn Out)\n18. **Brake_Condition**: Condition of the brakes (New, Good, Worn Out)\n19. **Battery_Status**: Status of the battery (New, Good, Weak)\n20. **Need_Maintenance**: Target variable indicating whether the vehicle needs maintenance (1 = Yes, 0 = No)\n\n#### Target Variable\n- **Need_Maintenance**: Indicates whether the vehicle requires maintenance or not based on specified conditions.\n\n#### Data Range\n- Total number of records: 50,000\n\n#### Source\nThis dataset is synthetic and was generated using Python. It is intended for educational and research purposes.\n\n#### Acknowledgements\n- The dataset was generated using Python and the data is synthetic.\n\n\n",
+  "datasetId": 4699932,
+  "datasetSlug": "vehicle-maintenance-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "chavindudulaj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 684,
+  "totalVotes": 0,
+  "totalDownloads": 108,
+  "title": "Vehicle Maintenance Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Vehicle Maintenance Dataset\n\n#### Overview\nThis dataset provides synthetic data related to vehicle maintenance to help predict whether a vehicle requires maintenance or not based on various features.\n\n#### Features\n\n1. **Vehicle_Model**: Type of the vehicle (Car, SUV, Van, Truck, Bus, Motorcycle)\n2. **Mileage**: Total mileage of the vehicle\n3. **Maintenance_History**: Maintenance history of the vehicle (Good, Average, Poor)\n4. **Reported_Issues**: Number of reported issues\n5. **Vehicle_Age**: Age of the vehicle in years\n6. **Fuel_Type**: Type of fuel used (Diesel, Petrol, Electric)\n7. **Transmission_Type**: Transmission type (Automatic, Manual)\n8. **Engine_Size**: Size of the engine in cc (Cubic Centimeters)\n9. **Odometer_Reading**: Current odometer reading of the vehicle\n10. **Last_Service_Date**: Date of the last service\n11. **Warranty_Expiry_Date**: Date when the warranty expires\n12. **Owner_Type**: Type of vehicle owner (First, Second, Third)\n13. **Insurance_Premium**: Insurance premium amount\n14. **Service_History**: Number of services done\n15. **Accident_History**: Number of accidents the vehicle has been involved in\n16. **Fuel_Efficiency**: Fuel efficiency of the vehicle in km/l (Kilometers per liter)\n17. **Tire_Condition**: Condition of the tires (New, Good, Worn Out)\n18. **Brake_Condition**: Condition of the brakes (New, Good, Worn Out)\n19. **Battery_Status**: Status of the battery (New, Good, Weak)\n20. **Need_Maintenance**: Target variable indicating whether the vehicle needs maintenance (1 = Yes, 0 = No)\n\n#### Target Variable\n- **Need_Maintenance**: Indicates whether the vehicle requires maintenance or not based on specified conditions.\n\n#### Data Range\n- Total number of records: 50,000\n\n#### Source\nThis dataset is synthetic and was generated using Python. It is intended for educational and research purposes.\n\n#### Acknowledgements\n- The dataset was generated using Python and the data is synthetic.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

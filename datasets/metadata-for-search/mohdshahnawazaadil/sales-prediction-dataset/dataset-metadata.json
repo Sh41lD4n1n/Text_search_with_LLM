@@ -1,0 +1,39 @@
+{
+  "id": "mohdshahnawazaadil/sales-prediction-dataset",
+  "id_no": 4712534,
+  "datasetSlugNullable": "sales-prediction-dataset",
+  "ownerUserNullable": "mohdshahnawazaadil",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sales prediction dataset",
+  "subtitleNullable": "Sales Prediction Analysis",
+  "descriptionNullable": "The sales prediction dataset comprises historical data on sales transactions, including factors such as date, product type, store location, and sales revenue. Our analysis aims to uncover trends, seasonality, and other patterns within the data to develop predictive models for future sales. By leveraging statistical methods and machine learning algorithms, we seek to forecast sales accurately, helping businesses optimize inventory management, marketing strategies, and overall performance. This dataset provides valuable insights for businesses aiming to improve their sales forecasting capabilities and maximize profitability.",
+  "datasetId": 4712534,
+  "datasetSlug": "sales-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohdshahnawazaadil",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9394,
+  "totalVotes": 35,
+  "totalDownloads": 2227,
+  "title": "Sales prediction dataset",
+  "hasTitle": true,
+  "subtitle": "Sales Prediction Analysis",
+  "hasSubtitle": true,
+  "description": "The sales prediction dataset comprises historical data on sales transactions, including factors such as date, product type, store location, and sales revenue. Our analysis aims to uncover trends, seasonality, and other patterns within the data to develop predictive models for future sales. By leveraging statistical methods and machine learning algorithms, we seek to forecast sales accurately, helping businesses optimize inventory management, marketing strategies, and overall performance. This dataset provides valuable insights for businesses aiming to improve their sales forecasting capabilities and maximize profitability.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

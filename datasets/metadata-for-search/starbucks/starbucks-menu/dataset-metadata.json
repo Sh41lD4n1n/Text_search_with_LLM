@@ -1,0 +1,39 @@
+{
+  "id": "/starbucks-menu",
+  "id_no": 1626,
+  "datasetSlugNullable": "starbucks-menu",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Nutrition facts for Starbucks Menu",
+  "subtitleNullable": "Nutrition information for Starbucks menu items, including food and drinks",
+  "descriptionNullable": "### Context: \nStarbucks is an American coffee chain founded in Seattle. It serves both beverages and food. \n\n### Content: \nThis dataset includes the nutritional information for Starbucks\u2019 food and drink menu items. All nutritional information for drinks are for a 12oz serving size.\n\n### Acknowledgements: \nFood composition data is in the public domain, but product names marked with \u00ae or \u2122 remain the registered trademarks of Starbucks.\n\n### Inspiration: \n\n* Can you train a Markov Chain to generate new Starbucks drink or food items?\n* Can you design an easy-to-interpret visualization for the nutrition of each item?\n* How to Starbucks menu items compare to McDonald\u2019s menu items (see link to dataset below) in terms of nutrition?\n\n### You may also like:\n\n* [Nutrition Facts for McDonald's Menu][1] \n* [Starbucks Locations Worldwide][2]  \n\n[1]: https://www.kaggle.com/mcdonalds/nutrition-facts\n[2]: https://www.kaggle.com/starbucks/store-locations",
+  "datasetId": 1626,
+  "datasetSlug": "starbucks-menu",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 140886,
+  "totalVotes": 189,
+  "totalDownloads": 21945,
+  "title": "Nutrition facts for Starbucks Menu",
+  "hasTitle": true,
+  "subtitle": "Nutrition information for Starbucks menu items, including food and drinks",
+  "hasSubtitle": true,
+  "description": "### Context: \nStarbucks is an American coffee chain founded in Seattle. It serves both beverages and food. \n\n### Content: \nThis dataset includes the nutritional information for Starbucks\u2019 food and drink menu items. All nutritional information for drinks are for a 12oz serving size.\n\n### Acknowledgements: \nFood composition data is in the public domain, but product names marked with \u00ae or \u2122 remain the registered trademarks of Starbucks.\n\n### Inspiration: \n\n* Can you train a Markov Chain to generate new Starbucks drink or food items?\n* Can you design an easy-to-interpret visualization for the nutrition of each item?\n* How to Starbucks menu items compare to McDonald\u2019s menu items (see link to dataset below) in terms of nutrition?\n\n### You may also like:\n\n* [Nutrition Facts for McDonald's Menu][1] \n* [Starbucks Locations Worldwide][2]  \n\n[1]: https://www.kaggle.com/mcdonalds/nutrition-facts\n[2]: https://www.kaggle.com/starbucks/store-locations",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nutrition"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

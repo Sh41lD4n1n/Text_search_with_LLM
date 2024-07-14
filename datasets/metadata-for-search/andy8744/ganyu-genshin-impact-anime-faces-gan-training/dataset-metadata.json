@@ -1,0 +1,43 @@
+{
+  "id": "andy8744/ganyu-genshin-impact-anime-faces-gan-training",
+  "id_no": 1945108,
+  "datasetSlugNullable": "ganyu-genshin-impact-anime-faces-gan-training",
+  "ownerUserNullable": "andy8744",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Ganyu | Genshin Impact Anime Faces GAN Training",
+  "subtitleNullable": "850 Unique High Resolution Ganyu Face Images",
+  "descriptionNullable": "![](https://storage.googleapis.com/kagglesdsdata/datasets/1945108/3207527/results/results/fakes000129.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20220220%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220220T102943Z&X-Goog-Expires=345599&X-Goog-SignedHeaders=host&X-Goog-Signature=39df5850d7fe1c9e1f4c61a30270a2b416a91ae607923c3f99aca189feaf3fd059d59db2f74f200d0ebe4d10dd625309e14c41c2cc53ed4ec5cd9505b06aca5c75368735f6936ca0dcf413b4066960c2a77b55b2d4b3b2a4b82498f4141c7e36e55dd1975c66ce20828386423fbe73fd883078b58d8233e7c24dbee316456f3db519541e9b7562205dd67407c019ae0f987b6842c36ccd76b3c566e6f5116e317d6dfcfb5896a2e95441aea9c35d35d8aa3e6c78dc07def64cba12db7f50f4b453db004446ccb4495105aa714afd036503933c14a8b81e33d95bfde2088ac0b303594ced25080b54e68e7cdd497e00f28813a11859435bd1908c25d56380ff19)\n\n### Context\n\nI had previously trained StyleGAN2 ADA on [images of Rem](https://www.kaggle.com/andy8744/rezero-rem-anime-faces-for-gan-training), which was quite successful in producing high quality outputs. Since Ganyu has similar colour hair to Rem, will the model converge faster and produce higher quality images using the Rem model as a checkpoint compared to the model on Danbooru portraits? This dataset was produced to answer that question. \n\nAlso it will be interesting to compare training on StyleGAN2 ADA vs StyleGAN3. \n\n### Content\n\nImages were scraped from Danbooru using [grabber](https://github.com/Bionus/imgbrd-grabber). They were then cropped using [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface). The problem with this however, is that some of the faces are not orientated correctly, it would be preferable to do some face aligning prior to cropping. [dfiPy](https://pypi.org/project/difPy/) was used to detect and remove duplicate images. [groupImg](https://github.com/victorqribeiro/groupImg) was used to group images (~2k images) into 20 different folder bins which made it easier to manually prune the dataset. From the 2k images, the dataset was pruned down to 850, removing unsuitable images (this took quite a long time \ud83d\ude28 )\nFinally, the images were upscaled with [waifu2x](https://github.com/nagadomi/waifu2x) and cropped to 512x512.\n\n`ganyu-final` contains the folder of 850 unique images, all 512x512 in size. \n`rem-pretained.pkl` contains the pretrained pickle file which I will use to train the GAN.\n`results` contains the files from the output of training.\n\n### Acknowledgements\n\n[Making Anime Faces With StyleGAN](https://www.gwern.net/Faces)\nhttps://github.com/nagadomi/lbpcascade_animeface",
+  "datasetId": 1945108,
+  "datasetSlug": "ganyu-genshin-impact-anime-faces-gan-training",
+  "hasDatasetSlug": true,
+  "ownerUser": "andy8744",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 14916,
+  "totalVotes": 58,
+  "totalDownloads": 606,
+  "title": "Ganyu | Genshin Impact Anime Faces GAN Training",
+  "hasTitle": true,
+  "subtitle": "850 Unique High Resolution Ganyu Face Images",
+  "hasSubtitle": true,
+  "description": "![](https://storage.googleapis.com/kagglesdsdata/datasets/1945108/3207527/results/results/fakes000129.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20220220%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220220T102943Z&X-Goog-Expires=345599&X-Goog-SignedHeaders=host&X-Goog-Signature=39df5850d7fe1c9e1f4c61a30270a2b416a91ae607923c3f99aca189feaf3fd059d59db2f74f200d0ebe4d10dd625309e14c41c2cc53ed4ec5cd9505b06aca5c75368735f6936ca0dcf413b4066960c2a77b55b2d4b3b2a4b82498f4141c7e36e55dd1975c66ce20828386423fbe73fd883078b58d8233e7c24dbee316456f3db519541e9b7562205dd67407c019ae0f987b6842c36ccd76b3c566e6f5116e317d6dfcfb5896a2e95441aea9c35d35d8aa3e6c78dc07def64cba12db7f50f4b453db004446ccb4495105aa714afd036503933c14a8b81e33d95bfde2088ac0b303594ced25080b54e68e7cdd497e00f28813a11859435bd1908c25d56380ff19)\n\n### Context\n\nI had previously trained StyleGAN2 ADA on [images of Rem](https://www.kaggle.com/andy8744/rezero-rem-anime-faces-for-gan-training), which was quite successful in producing high quality outputs. Since Ganyu has similar colour hair to Rem, will the model converge faster and produce higher quality images using the Rem model as a checkpoint compared to the model on Danbooru portraits? This dataset was produced to answer that question. \n\nAlso it will be interesting to compare training on StyleGAN2 ADA vs StyleGAN3. \n\n### Content\n\nImages were scraped from Danbooru using [grabber](https://github.com/Bionus/imgbrd-grabber). They were then cropped using [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface). The problem with this however, is that some of the faces are not orientated correctly, it would be preferable to do some face aligning prior to cropping. [dfiPy](https://pypi.org/project/difPy/) was used to detect and remove duplicate images. [groupImg](https://github.com/victorqribeiro/groupImg) was used to group images (~2k images) into 20 different folder bins which made it easier to manually prune the dataset. From the 2k images, the dataset was pruned down to 850, removing unsuitable images (this took quite a long time \ud83d\ude28 )\nFinally, the images were upscaled with [waifu2x](https://github.com/nagadomi/waifu2x) and cropped to 512x512.\n\n`ganyu-final` contains the folder of 850 unique images, all 512x512 in size. \n`rem-pretained.pkl` contains the pretrained pickle file which I will use to train the GAN.\n`results` contains the files from the output of training.\n\n### Acknowledgements\n\n[Making Anime Faces With StyleGAN](https://www.gwern.net/Faces)\nhttps://github.com/nagadomi/lbpcascade_animeface",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "gan",
+    "image",
+    "anime and manga",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

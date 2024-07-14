@@ -1,0 +1,42 @@
+{
+  "id": "sumn2u/riped-and-unriped-tomato-dataset",
+  "id_no": 5289371,
+  "datasetSlugNullable": "riped-and-unriped-tomato-dataset",
+  "ownerUserNullable": "sumn2u",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Riped and Unriped Tomato Dataset",
+  "subtitleNullable": "Annotated Images for Tomato Ripeness Classification",
+  "descriptionNullable": "This dataset contains annotated images of tomatoes at various stages of ripeness. It is designed to support research and development in agricultural automation, specifically for training machine learning models to distinguish between ripe and unripe tomatoes. The dataset includes annotated images created using an [annotation lab](https://github.com/sumn2u/annotate-lab), ensuring precise and accurate labeling of ripeness status.\n\n",
+  "datasetId": 5289371,
+  "datasetSlug": "riped-and-unriped-tomato-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumn2u",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 456,
+  "totalVotes": 0,
+  "totalDownloads": 11,
+  "title": "Riped and Unriped Tomato Dataset",
+  "hasTitle": true,
+  "subtitle": "Annotated Images for Tomato Ripeness Classification",
+  "hasSubtitle": true,
+  "description": "This dataset contains annotated images of tomatoes at various stages of ripeness. It is designed to support research and development in agricultural automation, specifically for training machine learning models to distinguish between ripe and unripe tomatoes. The dataset includes annotated images created using an [annotation lab](https://github.com/sumn2u/annotate-lab), ensuring precise and accurate labeling of ripeness status.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "computer vision",
+    "deep learning",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

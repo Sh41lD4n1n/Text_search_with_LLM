@@ -1,0 +1,43 @@
+{
+  "id": "aska88/end-of-usafghan-war-tweet-data",
+  "id_no": 1746072,
+  "datasetSlugNullable": "end-of-usafghan-war-tweet-data",
+  "ownerUserNullable": "aska88",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "End of US-Afghan War Tweet Data",
+  "subtitleNullable": "Sentiment Analysis and Topic Modeling of US-Afghan War Tweets",
+  "descriptionNullable": "### Context\n\nThe withdrawal of US troops from Afghanistan and the subsequent collapse of the Afghan government threaten many people's lives, security, and human rights. Twitter and other social media platforms took the lead in opinion and sentiment sharing over the period allowing researchers to make a real-time assessment that may help authorities develop early response strategies. \n\n\n### Content\n\nWe Twitter Streaming API and Python scripts to access tweets related to the end of the US-Afghan war, from August 11, 2021, to August 27, 2021. This period coincides with the time the Taliban gained control over Afghanistan following the departure of the last US troops. This particular period is important in examining public concerns relating to the fallout from the Taliban's return to the seizure of the country swaths.\n\n\n### Inspiration\n\nThe analysis of Twitter data related to the end of the US-Afghan war highlights the benefits of mining social media data during crises and how the inferences from such analysis can provide insights to authorities on the indicators to look out for to avert a similar situation.",
+  "datasetId": 1746072,
+  "datasetSlug": "end-of-usafghan-war-tweet-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "aska88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1683,
+  "totalVotes": 4,
+  "totalDownloads": 149,
+  "title": "End of US-Afghan War Tweet Data",
+  "hasTitle": true,
+  "subtitle": "Sentiment Analysis and Topic Modeling of US-Afghan War Tweets",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe withdrawal of US troops from Afghanistan and the subsequent collapse of the Afghan government threaten many people's lives, security, and human rights. Twitter and other social media platforms took the lead in opinion and sentiment sharing over the period allowing researchers to make a real-time assessment that may help authorities develop early response strategies. \n\n\n### Content\n\nWe Twitter Streaming API and Python scripts to access tweets related to the end of the US-Afghan war, from August 11, 2021, to August 27, 2021. This period coincides with the time the Taliban gained control over Afghanistan following the departure of the last US troops. This particular period is important in examining public concerns relating to the fallout from the Taliban's return to the seizure of the country swaths.\n\n\n### Inspiration\n\nThe analysis of Twitter data related to the end of the US-Afghan war highlights the benefits of mining social media data during crises and how the inferences from such analysis can provide insights to authorities on the indicators to look out for to avert a similar situation.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "nlp",
+    "text mining",
+    "text",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

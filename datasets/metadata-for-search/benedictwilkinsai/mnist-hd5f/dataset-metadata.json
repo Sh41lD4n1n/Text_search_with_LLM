@@ -1,0 +1,41 @@
+{
+  "id": "benedictwilkinsai/mnist-hd5f",
+  "id_no": 490461,
+  "datasetSlugNullable": "mnist-hd5f",
+  "ownerUserNullable": "benedictwilkinsai",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "MNIST - HDF5",
+  "subtitleNullable": "MNIST dataset in HDF5 format - compact and easy to load with Python.",
+  "descriptionNullable": "The [MNIST](http://yann.lecun.com/exdb/mnist/) dataset in HDF5 format.\n\nData can be loaded with the h5py package: `pip install h5py`, see [demo](https://www.kaggle.com/benedictwilkinsai/load-dataset)",
+  "datasetId": 490461,
+  "datasetSlug": "mnist-hd5f",
+  "hasDatasetSlug": true,
+  "ownerUser": "benedictwilkinsai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 13161,
+  "totalVotes": 12,
+  "totalDownloads": 1500,
+  "title": "MNIST - HDF5",
+  "hasTitle": true,
+  "subtitle": "MNIST dataset in HDF5 format - compact and easy to load with Python.",
+  "hasSubtitle": true,
+  "description": "The [MNIST](http://yann.lecun.com/exdb/mnist/) dataset in HDF5 format.\n\nData can be loaded with the h5py package: `pip install h5py`, see [demo](https://www.kaggle.com/benedictwilkinsai/load-dataset)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "clustering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

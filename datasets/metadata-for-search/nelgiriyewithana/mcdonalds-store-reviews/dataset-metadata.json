@@ -1,0 +1,43 @@
+{
+  "id": "nelgiriyewithana/mcdonalds-store-reviews",
+  "id_no": 3422393,
+  "datasetSlugNullable": "mcdonalds-store-reviews",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "McDonald's Store Reviews",
+  "subtitleNullable": "Exploring Customer Sentiments in McDonald's US Store Reviews",
+  "descriptionNullable": "# Description: \n\n&gt;This dataset contains over 33,000 anonymized reviews of McDonald's stores in the United States, scraped from Google reviews. It provides valuable insights into customer experiences and opinions about various McDonald's locations across the country. The dataset includes information such as store names, categories, addresses, geographic coordinates, review ratings, review texts, and timestamps.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/5968827.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt;- **reviewer_id**: *Unique identifier for each reviewer (anonymized)*\n- **store_name**: *Name of the McDonald's store*\n- **category**: *Category or type of the store*\n- **store_address**: *Address of the store*\n- **latitude**: *Latitude coordinate of the store's location*\n- **longitude**: *Longitude coordinate of the store's location*\n- **rating_count**: *Number of ratings/reviews for the store*\n- **review_time**: *Timestamp of the review*\n- **review**: *Textual content of the review*\n- **rating**: *Rating provided by the reviewer*\n\n\n# Potential Use Cases:\n\n\n&gt;- **Sentiment analysis:** Analyze the sentiment of reviews to understand overall customer satisfaction and identify areas for improvement.\n- **Location-based analysis:** Explore geographical patterns in reviews and ratings to identify high-performing or underperforming regions.\n- **Category analysis:** Investigate how different categories of McDonald's stores (e.g., drive-thru, McCaf\u00e9) are perceived by customers.\n- **Time-based analysis:** Examine temporal trends in reviews to identify any shifts in customer opinions or preferences over time.\n\n\nData Source: *The dataset was obtained by scraping Google reviews of McDonald's stores in the United States. The data does not contain any personally identifiable information (PII) to ensure privacy and comply with ethical guidelines.*<br>\nIf this was helpful, a vote is appreciated \u2764\ufe0f",
+  "datasetId": 3422393,
+  "datasetSlug": "mcdonalds-store-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 39554,
+  "totalVotes": 180,
+  "totalDownloads": 7605,
+  "title": "McDonald's Store Reviews",
+  "hasTitle": true,
+  "subtitle": "Exploring Customer Sentiments in McDonald's US Store Reviews",
+  "hasSubtitle": true,
+  "description": "# Description: \n\n&gt;This dataset contains over 33,000 anonymized reviews of McDonald's stores in the United States, scraped from Google reviews. It provides valuable insights into customer experiences and opinions about various McDonald's locations across the country. The dataset includes information such as store names, categories, addresses, geographic coordinates, review ratings, review texts, and timestamps.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/5968827.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt;- **reviewer_id**: *Unique identifier for each reviewer (anonymized)*\n- **store_name**: *Name of the McDonald's store*\n- **category**: *Category or type of the store*\n- **store_address**: *Address of the store*\n- **latitude**: *Latitude coordinate of the store's location*\n- **longitude**: *Longitude coordinate of the store's location*\n- **rating_count**: *Number of ratings/reviews for the store*\n- **review_time**: *Timestamp of the review*\n- **review**: *Textual content of the review*\n- **rating**: *Rating provided by the reviewer*\n\n\n# Potential Use Cases:\n\n\n&gt;- **Sentiment analysis:** Analyze the sentiment of reviews to understand overall customer satisfaction and identify areas for improvement.\n- **Location-based analysis:** Explore geographical patterns in reviews and ratings to identify high-performing or underperforming regions.\n- **Category analysis:** Investigate how different categories of McDonald's stores (e.g., drive-thru, McCaf\u00e9) are perceived by customers.\n- **Time-based analysis:** Examine temporal trends in reviews to identify any shifts in customer opinions or preferences over time.\n\n\nData Source: *The dataset was obtained by scraping Google reviews of McDonald's stores in the United States. The data does not contain any personally identifiable information (PII) to ensure privacy and comply with ethical guidelines.*<br>\nIf this was helpful, a vote is appreciated \u2764\ufe0f",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "nlp",
+    "text mining",
+    "food",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

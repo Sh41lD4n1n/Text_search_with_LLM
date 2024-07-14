@@ -1,0 +1,44 @@
+{
+  "id": "zusmani/gufhtugu-publications-dataset-challenge",
+  "id_no": 1111101,
+  "datasetSlugNullable": "gufhtugu-publications-dataset-challenge",
+  "ownerUserNullable": "zusmani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Gufhtugu Publications Dataset Challenge",
+  "subtitleNullable": "20,000 Records of Books Sale in Pakistan",
+  "descriptionNullable": "### Context\n\nThis is the one of its kinds book sales dataset from Pakistan. It contains 20,000 book orders from January 2019 to January 2021. The data was collected from the merchant (Gufhtugu Publications www.Gufhtugu.com) who are partner in this research study. \nThere is a dire need for such dataset to learn about Pakistan\u2019s emerging e-commerce potential and I hope this will help many startups in many ways.\n\n### Content\n\nGeography: Pakistan\n\nTime period: 01/2019 \u2013 01/2021\n\nUnit of analysis: E-Commerce Orders\n\nDataset: The dataset contains detailed information of 200,000 online book orders in Pakistan from January 2019 to January 2021. It contains order number, order status (completed, cancelled, returned), order date and time, book name and city address. This is the most detailed dataset about e-commerce orders in Pakistan that you can find in the Public domain.\n\nVariables: The dataset contains order number, order status, book name, order date, order time and city of the customer. \n\nSize: 1.5 MB\n\nFile Type: CSV\n\n### Acknowledgements\n\nI like to thank all the startups who are trying to make their mark in Pakistan despite the unavailability of research data. Thanks to Gufhtugu Publications (www.Gufhtugu.com) for allowing me to run this challenge.\n\n### Inspiration\n\nI\u2019d like to call the attention of my fellow Kagglers to use Machine Learning and Data Sciences to help me explore these ideas:\n\n\u2022 What is the best-selling book?\n\u2022 Visualize order status frequency\n\u2022 Find a correlation between date and time with order status\n\u2022 Find a correlation between city and order status \n\u2022 Find any hidden patterns that are counter-intuitive for a layman\n\u2022 Can we predict number of orders, or book names in advance?\n\n",
+  "datasetId": 1111101,
+  "datasetSlug": "gufhtugu-publications-dataset-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "zusmani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 46844,
+  "totalVotes": 407,
+  "totalDownloads": 2457,
+  "title": "Gufhtugu Publications Dataset Challenge",
+  "hasTitle": true,
+  "subtitle": "20,000 Records of Books Sale in Pakistan",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is the one of its kinds book sales dataset from Pakistan. It contains 20,000 book orders from January 2019 to January 2021. The data was collected from the merchant (Gufhtugu Publications www.Gufhtugu.com) who are partner in this research study. \nThere is a dire need for such dataset to learn about Pakistan\u2019s emerging e-commerce potential and I hope this will help many startups in many ways.\n\n### Content\n\nGeography: Pakistan\n\nTime period: 01/2019 \u2013 01/2021\n\nUnit of analysis: E-Commerce Orders\n\nDataset: The dataset contains detailed information of 200,000 online book orders in Pakistan from January 2019 to January 2021. It contains order number, order status (completed, cancelled, returned), order date and time, book name and city address. This is the most detailed dataset about e-commerce orders in Pakistan that you can find in the Public domain.\n\nVariables: The dataset contains order number, order status, book name, order date, order time and city of the customer. \n\nSize: 1.5 MB\n\nFile Type: CSV\n\n### Acknowledgements\n\nI like to thank all the startups who are trying to make their mark in Pakistan despite the unavailability of research data. Thanks to Gufhtugu Publications (www.Gufhtugu.com) for allowing me to run this challenge.\n\n### Inspiration\n\nI\u2019d like to call the attention of my fellow Kagglers to use Machine Learning and Data Sciences to help me explore these ideas:\n\n\u2022 What is the best-selling book?\n\u2022 Visualize order status frequency\n\u2022 Find a correlation between date and time with order status\n\u2022 Find a correlation between city and order status \n\u2022 Find any hidden patterns that are counter-intuitive for a layman\n\u2022 Can we predict number of orders, or book names in advance?\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "recommender systems",
+    "retail and shopping",
+    "e-commerce services",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

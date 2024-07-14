@@ -1,0 +1,43 @@
+{
+  "id": "rishabhbarman/most-popular-anime-of-all-time",
+  "id_no": 4450097,
+  "datasetSlugNullable": "most-popular-anime-of-all-time",
+  "ownerUserNullable": "rishabhbarman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Most Popular Anime of all Time",
+  "subtitleNullable": "IMDb's Most Popular Anime of All Time",
+  "descriptionNullable": "**Dataset Description: Most Popular Anime of All Time**\n\nThis dataset compiles information on the most popular anime titles of all time, drawing its data from IMDb.com. IMDb, known for its extensive database of films and television series, serves as a reputable source for aggregating ratings, reviews, and other relevant details.\n\n****Key Features:**\n\n**Name:** The name of the anime series, representing the title under consideration.\n\n**Type: **Categorization of the anime, distinguishing between series, movies, or other formats.\n\n**Aired: **The release year or range of years during which the anime was originally aired.\n\n**Rating:** IMDb ratings, reflecting the overall reception and viewer satisfaction with each anime.\n\n**Votes:** The number of votes received by each anime on IMDb, providing insights into its popularity and audience engagement.\n\n**Description:** A brief summary or description of the anime's storyline, offering a glimpse into its thematic elements.\n\n**Studio:** Information about the production studio responsible for creating the anime, shedding light on the creative forces behind its development.\n\n**Data Collection Methodology:**\n\nThe dataset is populated through web scraping IMDb.com, utilizing Python libraries such as BeautifulSoup for parsing HTML and extracting relevant information. IMDb's comprehensive database ensures the inclusion of a diverse array of anime titles, from classic series to contemporary releases.\n\n**Potential Applications:**\n\nThis dataset can be a valuable resource for anime enthusiasts, researchers, and data analysts interested in exploring trends, patterns, and the factors contributing to the popularity of anime titles. The information contained herein facilitates comparative analyses of different anime series, aiding in the identification of trends in viewer preferences over time.\n\n**Usage Considerations:**\n\nUsers are encouraged to exercise caution and verify the dataset periodically, as IMDb ratings and details may change with time. Additionally, proper attribution to IMDb as the source is recommended when utilizing the dataset for research or any other purpose.",
+  "datasetId": 4450097,
+  "datasetSlug": "most-popular-anime-of-all-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishabhbarman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 443,
+  "totalVotes": 3,
+  "totalDownloads": 53,
+  "title": "Most Popular Anime of all Time",
+  "hasTitle": true,
+  "subtitle": "IMDb's Most Popular Anime of All Time",
+  "hasSubtitle": true,
+  "description": "**Dataset Description: Most Popular Anime of All Time**\n\nThis dataset compiles information on the most popular anime titles of all time, drawing its data from IMDb.com. IMDb, known for its extensive database of films and television series, serves as a reputable source for aggregating ratings, reviews, and other relevant details.\n\n****Key Features:**\n\n**Name:** The name of the anime series, representing the title under consideration.\n\n**Type: **Categorization of the anime, distinguishing between series, movies, or other formats.\n\n**Aired: **The release year or range of years during which the anime was originally aired.\n\n**Rating:** IMDb ratings, reflecting the overall reception and viewer satisfaction with each anime.\n\n**Votes:** The number of votes received by each anime on IMDb, providing insights into its popularity and audience engagement.\n\n**Description:** A brief summary or description of the anime's storyline, offering a glimpse into its thematic elements.\n\n**Studio:** Information about the production studio responsible for creating the anime, shedding light on the creative forces behind its development.\n\n**Data Collection Methodology:**\n\nThe dataset is populated through web scraping IMDb.com, utilizing Python libraries such as BeautifulSoup for parsing HTML and extracting relevant information. IMDb's comprehensive database ensures the inclusion of a diverse array of anime titles, from classic series to contemporary releases.\n\n**Potential Applications:**\n\nThis dataset can be a valuable resource for anime enthusiasts, researchers, and data analysts interested in exploring trends, patterns, and the factors contributing to the popularity of anime titles. The information contained herein facilitates comparative analyses of different anime series, aiding in the identification of trends in viewer preferences over time.\n\n**Usage Considerations:**\n\nUsers are encouraged to exercise caution and verify the dataset periodically, as IMDb ratings and details may change with time. Additionally, proper attribution to IMDb as the source is recommended when utilizing the dataset for research or any other purpose.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "tabular",
+    "anime and manga",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

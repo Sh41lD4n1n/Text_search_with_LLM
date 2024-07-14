@@ -1,0 +1,41 @@
+{
+  "id": "fouedayedi/datamulti",
+  "id_no": 4100631,
+  "datasetSlugNullable": "datamulti",
+  "ownerUserNullable": "fouedayedi",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "FusionDatset",
+  "subtitleNullable": "Deception Detection Video Features Dataset",
+  "descriptionNullable": "## Description:\nThis dataset is structured into three main components, extracted from courtroom trial video clips:\n\n### Audio Features (MFCCs):\n        Comprising features like Mel-frequency cepstral coefficients (MFCCs), which are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear \"spectrum-of-a-spectrum\").\n        Used to capture the power spectrum of a sound.\n        Examples include BefLstFrm, DiffMax, DiffMed, etc.\n\n ###   Non-verbal Data (Video Features):\n        Captures the presence or absence of certain non-verbal behaviors or gestures, likely coded as binary indicators.\n        Reflects body language and facial expressions, which can be indicative of deception.\n        Examples include OtherGestures, Smile, Laugh, Scowl, etc.\n\n###  Text Data (Verbal Features):\n        Encodes linguistic cues that might be relevant to deception, such as the use of speech fillers, errors, or the complexity of verbal expressions.\n        Could also include sentiment analysis outputs like positive and negative emotion words.\n        Examples include Speech_fillers_nbr, speech_errors_bin, passive_voice_bin, etc.\n\n### Source Reference: \nAdapted from the study on deception detection in videos by Zhe Wu et al., which utilized a real-life deception detection database detailed in the work of P\u00b4erez-Rosas et al. 2015.\n\n### Use Case: \nThe dataset is intended for training and evaluating machine learning models to automatically detect deception based on a multimodal approach that integrates audio, video, and text data.\n\n**Note: This dataset encapsulates rich, multimodal information, making it suitable for sophisticated AI-driven deception analysis. The integration of various data types aims to reflect the complexity of human communication and deception.**",
+  "datasetId": 4100631,
+  "datasetSlug": "datamulti",
+  "hasDatasetSlug": true,
+  "ownerUser": "fouedayedi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 269,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "FusionDatset",
+  "hasTitle": true,
+  "subtitle": "Deception Detection Video Features Dataset",
+  "hasSubtitle": true,
+  "description": "## Description:\nThis dataset is structured into three main components, extracted from courtroom trial video clips:\n\n### Audio Features (MFCCs):\n        Comprising features like Mel-frequency cepstral coefficients (MFCCs), which are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear \"spectrum-of-a-spectrum\").\n        Used to capture the power spectrum of a sound.\n        Examples include BefLstFrm, DiffMax, DiffMed, etc.\n\n ###   Non-verbal Data (Video Features):\n        Captures the presence or absence of certain non-verbal behaviors or gestures, likely coded as binary indicators.\n        Reflects body language and facial expressions, which can be indicative of deception.\n        Examples include OtherGestures, Smile, Laugh, Scowl, etc.\n\n###  Text Data (Verbal Features):\n        Encodes linguistic cues that might be relevant to deception, such as the use of speech fillers, errors, or the complexity of verbal expressions.\n        Could also include sentiment analysis outputs like positive and negative emotion words.\n        Examples include Speech_fillers_nbr, speech_errors_bin, passive_voice_bin, etc.\n\n### Source Reference: \nAdapted from the study on deception detection in videos by Zhe Wu et al., which utilized a real-life deception detection database detailed in the work of P\u00b4erez-Rosas et al. 2015.\n\n### Use Case: \nThe dataset is intended for training and evaluating machine learning models to automatically detect deception based on a multimodal approach that integrates audio, video, and text data.\n\n**Note: This dataset encapsulates rich, multimodal information, making it suitable for sophisticated AI-driven deception analysis. The integration of various data types aims to reflect the complexity of human communication and deception.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "feature engineering",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

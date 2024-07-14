@@ -1,0 +1,39 @@
+{
+  "id": "ashishjangra27/face-mask-12k-images-dataset",
+  "id_no": 675484,
+  "datasetSlugNullable": "face-mask-12k-images-dataset",
+  "ownerUserNullable": "ashishjangra27",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Face Mask Detection ~12K Images Dataset",
+  "subtitleNullable": "12K Images divided in training testing and validation directories.",
+  "descriptionNullable": "### Context\n\nThis dataset is used for Face Mask Detection Classification with images. The dataset consists of almost 12K images which are almost 328.92MB in size.\n\n### Acknowledgments\nAll the images with the face mask (~6K) are scrapped from google search and all the images without the face mask are preprocessed from the CelebFace dataset created by Jessica Li (https://www.kaggle.com/jessicali9530). Thank you so much Jessica for providing a wonderful dataset to the community.\n\n### Inspiration\nThe inspiration behind creating this dataset is to create an algorithm that can directly detect is a person is wearing a face mask or not. So I've scrapped the images from google as well as from the CelebFace dataset created by Jessica Li (https://www.kaggle.com/jessicali9530) to make this happen.",
+  "datasetId": 675484,
+  "datasetSlug": "face-mask-12k-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashishjangra27",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 123652,
+  "totalVotes": 320,
+  "totalDownloads": 25594,
+  "title": "Face Mask Detection ~12K Images Dataset",
+  "hasTitle": true,
+  "subtitle": "12K Images divided in training testing and validation directories.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is used for Face Mask Detection Classification with images. The dataset consists of almost 12K images which are almost 328.92MB in size.\n\n### Acknowledgments\nAll the images with the face mask (~6K) are scrapped from google search and all the images without the face mask are preprocessed from the CelebFace dataset created by Jessica Li (https://www.kaggle.com/jessicali9530). Thank you so much Jessica for providing a wonderful dataset to the community.\n\n### Inspiration\nThe inspiration behind creating this dataset is to create an algorithm that can directly detect is a person is wearing a face mask or not. So I've scrapped the images from google as well as from the CelebFace dataset created by Jessica Li (https://www.kaggle.com/jessicali9530) to make this happen.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

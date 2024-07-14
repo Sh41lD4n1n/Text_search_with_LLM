@@ -1,0 +1,41 @@
+{
+  "id": "gargmanas/sentimental-analysis-for-tweets",
+  "id_no": 1312443,
+  "datasetSlugNullable": "sentimental-analysis-for-tweets",
+  "ownerUserNullable": "gargmanas",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sentimental Analysis for Tweets",
+  "subtitleNullable": "Database of tweets to perform Sentimental Analysis",
+  "descriptionNullable": "### Context\n\nFinding if a person is depressed from their use of words on social media can definitely help in the cure!\n\n### Can you predict depression?\n\nSentimental Analysis can be very useful to find out depression and cure it before someone gets into serious trouble.",
+  "datasetId": 1312443,
+  "datasetSlug": "sentimental-analysis-for-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "gargmanas",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 48205,
+  "totalVotes": 108,
+  "totalDownloads": 5955,
+  "title": "Sentimental Analysis for Tweets",
+  "hasTitle": true,
+  "subtitle": "Database of tweets to perform Sentimental Analysis",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFinding if a person is depressed from their use of words on social media can definitely help in the cure!\n\n### Can you predict depression?\n\nSentimental Analysis can be very useful to find out depression and cure it before someone gets into serious trouble.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "nlp",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

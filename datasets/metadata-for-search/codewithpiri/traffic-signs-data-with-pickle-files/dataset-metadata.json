@@ -1,0 +1,39 @@
+{
+  "id": "codewithpiri/traffic-signs-data-with-pickle-files",
+  "id_no": 4316516,
+  "datasetSlugNullable": "traffic-signs-data-with-pickle-files",
+  "ownerUserNullable": "codewithpiri",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Traffic signs data with pickle files",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4316516,
+  "datasetSlug": "traffic-signs-data-with-pickle-files",
+  "hasDatasetSlug": true,
+  "ownerUser": "codewithpiri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 26,
+  "totalVotes": 4,
+  "totalDownloads": 6,
+  "title": "Traffic signs data with pickle files",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

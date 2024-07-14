@@ -1,0 +1,39 @@
+{
+  "id": "arthurchongg/imdb-top-1000-movies",
+  "id_no": 3464851,
+  "datasetSlugNullable": "imdb-top-1000-movies",
+  "ownerUserNullable": "arthurchongg",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB Top 1000 Movies",
+  "subtitleNullable": "Exploring what makes movies stand out from the rest",
+  "descriptionNullable": "Data of the top 1000 movies scraped from the IMDB website. Dataset also duplicates a movie in another row if the movie consists of more than one genre. Missing values present in 'gross(M)' and 'metascore' column represented as 0.00 and 0 respectively.\n\nEdit: Version 3. I have included the raw data from scraping the website for anyone interested in cleaning the data and transforming data types.\nI have also updated the csv file to include the director of the movie\n\nDISCLAIMER:  The grossing values of movies from IMDb only include numbers from US and Canada and are thus not representative of the values on a global scale.",
+  "datasetId": 3464851,
+  "datasetSlug": "imdb-top-1000-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "arthurchongg",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11994,
+  "totalVotes": 54,
+  "totalDownloads": 2642,
+  "title": "IMDB Top 1000 Movies",
+  "hasTitle": true,
+  "subtitle": "Exploring what makes movies stand out from the rest",
+  "hasSubtitle": true,
+  "description": "Data of the top 1000 movies scraped from the IMDB website. Dataset also duplicates a movie in another row if the movie consists of more than one genre. Missing values present in 'gross(M)' and 'metascore' column represented as 0.00 and 0 respectively.\n\nEdit: Version 3. I have included the raw data from scraping the website for anyone interested in cleaning the data and transforming data types.\nI have also updated the csv file to include the director of the movie\n\nDISCLAIMER:  The grossing values of movies from IMDb only include numbers from US and Canada and are thus not representative of the values on a global scale.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

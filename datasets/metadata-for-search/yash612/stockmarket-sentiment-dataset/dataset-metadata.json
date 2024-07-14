@@ -1,0 +1,40 @@
+{
+  "id": "yash612/stockmarket-sentiment-dataset",
+  "id_no": 695933,
+  "datasetSlugNullable": "stockmarket-sentiment-dataset",
+  "ownerUserNullable": "yash612",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Stock-Market Sentiment Dataset",
+  "subtitleNullable": "Positive-Negative sentiment at stock tweets",
+  "descriptionNullable": "\n### Description \nGathered Stock news from Multiple twitter Handles regarding Economic news dividing into two parts : Negative(-1) and positive(1) .\n\nNegative count: 2,106\nPositive count: 3,685\n\n\n### Inspiration\n\nThis is my First Dataset , please drop a like.",
+  "datasetId": 695933,
+  "datasetSlug": "stockmarket-sentiment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yash612",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 93222,
+  "totalVotes": 222,
+  "totalDownloads": 10400,
+  "title": "Stock-Market Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "Positive-Negative sentiment at stock tweets",
+  "hasSubtitle": true,
+  "description": "\n### Description \nGathered Stock news from Multiple twitter Handles regarding Economic news dividing into two parts : Negative(-1) and positive(1) .\n\nNegative count: 2,106\nPositive count: 3,685\n\n\n### Inspiration\n\nThis is my First Dataset , please drop a like.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "matinmahmoudi/sales-and-satisfaction",
+  "id_no": 5003639,
+  "datasetSlugNullable": "sales-and-satisfaction",
+  "ownerUserNullable": "matinmahmoudi",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Sales and Satisfaction",
+  "subtitleNullable": "Exploring the Impact of Interventions on Sales Performance and Satisfaction",
+  "descriptionNullable": "One dataset contains missing values (NaNs) and the other does not. These datasets contain information on sales and customer satisfaction before and after an intervention, as well as purchase data for control and treatment groups. The dataset is synthetic and was created for use in statistical analysis.\n\n## Features\n\n**Group**\n   - **Description**: Indicates whether the data point belongs to the Control or Treatment group.\n   - **Categories**: `Control`, `Treatment`\n\n**Customer_Segment**\n   - **Description**: Categorizes customers based on their value.\n   - **Categories**: `High Value`, `Medium Value`, `Low Value`\n\n**Sales_Before**\n   - **Description**: Sales figures before the intervention.\n   - **Data Type**: Numerical\n\n**Sales_After**\n   - **Description**: Sales figures after the intervention.\n   - **Data Type**: Numerical\n\n**Customer_Satisfaction_Before**\n   - **Description**: Customer satisfaction scores before the intervention.\n   - **Data Type**: Numerical\n\n**Customer_Satisfaction_After**\n   - **Description**: Customer satisfaction scores after the intervention.\n   - **Data Type**: Numerical\n\n**Purchase_Made**\n   - **Description**: Indicates whether a purchase was made after the intervention.\n   - **Categories**: `Yes`, `No`",
+  "datasetId": 5003639,
+  "datasetSlug": "sales-and-satisfaction",
+  "hasDatasetSlug": true,
+  "ownerUser": "matinmahmoudi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3417,
+  "totalVotes": 169,
+  "totalDownloads": 559,
+  "title": "Sales and Satisfaction",
+  "hasTitle": true,
+  "subtitle": "Exploring the Impact of Interventions on Sales Performance and Satisfaction",
+  "hasSubtitle": true,
+  "description": "One dataset contains missing values (NaNs) and the other does not. These datasets contain information on sales and customer satisfaction before and after an intervention, as well as purchase data for control and treatment groups. The dataset is synthetic and was created for use in statistical analysis.\n\n## Features\n\n**Group**\n   - **Description**: Indicates whether the data point belongs to the Control or Treatment group.\n   - **Categories**: `Control`, `Treatment`\n\n**Customer_Segment**\n   - **Description**: Categorizes customers based on their value.\n   - **Categories**: `High Value`, `Medium Value`, `Low Value`\n\n**Sales_Before**\n   - **Description**: Sales figures before the intervention.\n   - **Data Type**: Numerical\n\n**Sales_After**\n   - **Description**: Sales figures after the intervention.\n   - **Data Type**: Numerical\n\n**Customer_Satisfaction_Before**\n   - **Description**: Customer satisfaction scores before the intervention.\n   - **Data Type**: Numerical\n\n**Customer_Satisfaction_After**\n   - **Description**: Customer satisfaction scores after the intervention.\n   - **Data Type**: Numerical\n\n**Purchase_Made**\n   - **Description**: Indicates whether a purchase was made after the intervention.\n   - **Categories**: `Yes`, `No`",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "statistical analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

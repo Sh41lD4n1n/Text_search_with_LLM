@@ -1,0 +1,39 @@
+{
+  "id": "chetankv/dogs-cats-images",
+  "id_no": 22535,
+  "datasetSlugNullable": "dogs-cats-images",
+  "ownerUserNullable": "chetankv",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Dogs & Cats Images",
+  "subtitleNullable": "image classification",
+  "descriptionNullable": "",
+  "datasetId": 22535,
+  "datasetSlug": "dogs-cats-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "chetankv",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 159933,
+  "totalVotes": 587,
+  "totalDownloads": 40456,
+  "title": "Dogs & Cats Images",
+  "hasTitle": true,
+  "subtitle": "image classification",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

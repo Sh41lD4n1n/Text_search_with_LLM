@@ -1,0 +1,45 @@
+{
+  "id": "kmader/food41",
+  "id_no": 1864,
+  "datasetSlugNullable": "food41",
+  "ownerUserNullable": "kmader",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Food Images (Food-101)",
+  "subtitleNullable": "Labeled food images in 101 categories from apple pies to waffles",
+  "descriptionNullable": "# Overview \nThe dataset contains a number of different subsets of the full food-101 data. The idea is to make a more exciting simple training set for image analysis than CIFAR10 or MNIST. For this reason the data includes massively downscaled versions of the images to enable quick tests. The data has been reformatted as HDF5 and specifically Keras HDF5Matrix which allows them to be easily read in. The file names indicate the contents of the file. For example\n\n - food_c101_n1000_r384x384x3.h5 means there are 101 categories represented, with n=1000 images, that have a resolution of 384x384x3 (RGB, uint8)\n\n - food_test_c101_n1000_r32x32x1.h5 means the data is part of the validation set, has 101 categories represented, with n=1000 images, that have a resolution of 32x32x1 (float32 from -1 to 1)\n\n\n\n\n# Challenge\nThe first goal is to be able to automatically classify an unknown image using the dataset, but beyond this there are a number of possibilities for looking at what regions / image components are important for making classifications, identify new types of food as combinations of existing tags, build object detectors which can find similar objects in a full scene.\n\n# Data Acknowledgement\nThe data was repackaged from the original source (gzip) available at https://www.vision.ee.ethz.ch/datasets_extra/food-101/\n\n# License\n\n - The Food-101 data set consists of images from Foodspotting [1]. Any use beyond scientific fair use must be negotiated with the respective picture owners according to the Foodspotting terms of use [2].\n\n[1] http://www.foodspotting.com/\n[2] http://www.foodspotting.com/terms/",
+  "datasetId": 1864,
+  "datasetSlug": "food41",
+  "hasDatasetSlug": true,
+  "ownerUser": "kmader",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 289199,
+  "totalVotes": 623,
+  "totalDownloads": 36681,
+  "title": "Food Images (Food-101)",
+  "hasTitle": true,
+  "subtitle": "Labeled food images in 101 categories from apple pies to waffles",
+  "hasSubtitle": true,
+  "description": "# Overview \nThe dataset contains a number of different subsets of the full food-101 data. The idea is to make a more exciting simple training set for image analysis than CIFAR10 or MNIST. For this reason the data includes massively downscaled versions of the images to enable quick tests. The data has been reformatted as HDF5 and specifically Keras HDF5Matrix which allows them to be easily read in. The file names indicate the contents of the file. For example\n\n - food_c101_n1000_r384x384x3.h5 means there are 101 categories represented, with n=1000 images, that have a resolution of 384x384x3 (RGB, uint8)\n\n - food_test_c101_n1000_r32x32x1.h5 means the data is part of the validation set, has 101 categories represented, with n=1000 images, that have a resolution of 32x32x1 (float32 from -1 to 1)\n\n\n\n\n# Challenge\nThe first goal is to be able to automatically classify an unknown image using the dataset, but beyond this there are a number of possibilities for looking at what regions / image components are important for making classifications, identify new types of food as combinations of existing tags, build object detectors which can find similar objects in a full scene.\n\n# Data Acknowledgement\nThe data was repackaged from the original source (gzip) available at https://www.vision.ee.ethz.ch/datasets_extra/food-101/\n\n# License\n\n - The Food-101 data set consists of images from Foodspotting [1]. Any use beyond scientific fair use must be negotiated with the respective picture owners according to the Foodspotting terms of use [2].\n\n[1] http://www.foodspotting.com/\n[2] http://www.foodspotting.com/terms/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "earth and nature",
+    "business",
+    "image",
+    "multiclass classification",
+    "cooking and recipes",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

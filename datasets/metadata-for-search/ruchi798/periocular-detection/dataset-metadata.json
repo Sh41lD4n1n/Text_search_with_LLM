@@ -1,0 +1,42 @@
+{
+  "id": "ruchi798/periocular-detection",
+  "id_no": 822182,
+  "datasetSlugNullable": "periocular-detection",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Periocular Recognition",
+  "subtitleNullable": "Image files for Periocular Recognition",
+  "descriptionNullable": "### Content\nA medical mask covers up about half of your face but for a facial recognition system it's the part where most of the information for identification lies.\nFacial recognition systems have been having a hard time during the coronavirus pandemic. With people covering up half of their faces whenever they go out in public, these systems are no longer able to see all of the facial features they need to identify a person. \n\nPeriocular recognition recognizes a person through the area around their eyes. This means the technology is less exclusive and broadens the user population and number of use cases. Additionally, a person who is enrolled with their eyes can be readily recognized whether or not their face is partially obscured.\n\n### Inspiration\n\nIn general, facial recognition requires certain conditions such as fully frontal face images as well as consistent lighting. Furthermore, facial recognition might not be suitable for certain user populations such as healthcare professionals wearing surgical masks or people with religious face veils, niqabs or winter scarves.  \n\n### Acknowledgements\n\nThe source for images of people not wearing masks was [CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/jessicali9530/celeba-dataset).\nThe images of the same people wearing masks were created by using superimposition.  ",
+  "datasetId": 822182,
+  "datasetSlug": "periocular-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 13978,
+  "totalVotes": 99,
+  "totalDownloads": 672,
+  "title": "Periocular Recognition",
+  "hasTitle": true,
+  "subtitle": "Image files for Periocular Recognition",
+  "hasSubtitle": true,
+  "description": "### Content\nA medical mask covers up about half of your face but for a facial recognition system it's the part where most of the information for identification lies.\nFacial recognition systems have been having a hard time during the coronavirus pandemic. With people covering up half of their faces whenever they go out in public, these systems are no longer able to see all of the facial features they need to identify a person. \n\nPeriocular recognition recognizes a person through the area around their eyes. This means the technology is less exclusive and broadens the user population and number of use cases. Additionally, a person who is enrolled with their eyes can be readily recognized whether or not their face is partially obscured.\n\n### Inspiration\n\nIn general, facial recognition requires certain conditions such as fully frontal face images as well as consistent lighting. Furthermore, facial recognition might not be suitable for certain user populations such as healthcare professionals wearing surgical masks or people with religious face veils, niqabs or winter scarves.  \n\n### Acknowledgements\n\nThe source for images of people not wearing masks was [CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/jessicali9530/celeba-dataset).\nThe images of the same people wearing masks were created by using superimposition.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer science",
+    "eyes and vision",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

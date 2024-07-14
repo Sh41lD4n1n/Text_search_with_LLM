@@ -1,0 +1,39 @@
+{
+  "id": "mikahama/the-best-sarcasm-annotated-dataset-in-spanish",
+  "id_no": 730942,
+  "datasetSlugNullable": "the-best-sarcasm-annotated-dataset-in-spanish",
+  "ownerUserNullable": "mikahama",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "The Best Sarcasm Annotated Dataset in Spanish",
+  "subtitleNullable": "A sarcasm annotated dataset of South Park and Archer, Spanish voiceovers. ",
+  "descriptionNullable": "### Content\n\nThis dataset contains all utterances of two episodes of South Park (Latin American voices) and two episodes of Archer (Spanish voices). The order of the utterances is shuffled. Each utterance has been annotated based on whether it is sarcastic or not. Sarcastic expressions also contain further annotation based on different theories on sarcasm.\n\nThis corpus is unique because it is annotated from primarily audiovisual media. It also contains a lot of negative examples of sentences that are meant to be humorous or outrageous, but not sarcastic. This data provides thus a closer to real life benchmark for any sarcasm detection system.\n\n### Cite\n\nI annotated this data for my MA thesis, so please cite it if you use this data.\n\nH\u00e4m\u00e4l\u00e4inen, Mika (2016). [Reconocimiento autom\u00e1tico del sarcasmo: \u00a1Esto va a funcionar bien!](https://www.researchgate.net/publication/339182029_Reconocimiento_automatico_del_sarcasmo_Esto_va_a_funcionar_bien). Helsinki: University of Helsinki, Department of Modern Languages.\n\n\n### Inspiration\n\n- Sarcasm detection\n- Prediction of the theoretical categories of sarcasm",
+  "datasetId": 730942,
+  "datasetSlug": "the-best-sarcasm-annotated-dataset-in-spanish",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikahama",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7024,
+  "totalVotes": 18,
+  "totalDownloads": 332,
+  "title": "The Best Sarcasm Annotated Dataset in Spanish",
+  "hasTitle": true,
+  "subtitle": "A sarcasm annotated dataset of South Park and Archer, Spanish voiceovers. ",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset contains all utterances of two episodes of South Park (Latin American voices) and two episodes of Archer (Spanish voices). The order of the utterances is shuffled. Each utterance has been annotated based on whether it is sarcastic or not. Sarcastic expressions also contain further annotation based on different theories on sarcasm.\n\nThis corpus is unique because it is annotated from primarily audiovisual media. It also contains a lot of negative examples of sentences that are meant to be humorous or outrageous, but not sarcastic. This data provides thus a closer to real life benchmark for any sarcasm detection system.\n\n### Cite\n\nI annotated this data for my MA thesis, so please cite it if you use this data.\n\nH\u00e4m\u00e4l\u00e4inen, Mika (2016). [Reconocimiento autom\u00e1tico del sarcasmo: \u00a1Esto va a funcionar bien!](https://www.researchgate.net/publication/339182029_Reconocimiento_automatico_del_sarcasmo_Esto_va_a_funcionar_bien). Helsinki: University of Helsinki, Department of Modern Languages.\n\n\n### Inspiration\n\n- Sarcasm detection\n- Prediction of the theoretical categories of sarcasm",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

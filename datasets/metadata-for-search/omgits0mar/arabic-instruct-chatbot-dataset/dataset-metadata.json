@@ -1,0 +1,43 @@
+{
+  "id": "omgits0mar/arabic-instruct-chatbot-dataset",
+  "id_no": 5046027,
+  "datasetSlugNullable": "arabic-instruct-chatbot-dataset",
+  "ownerUserNullable": "omgits0mar",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Arabic Instruct chatbot dataset",
+  "subtitleNullable": "Fine tuning LLMs on Arabic language for better performance",
+  "descriptionNullable": "## Discerption :\nThis dataset is a .parquet file prepared on instruction Question Answer dataset in Arabic language on multiple different categories.\n\n## Usage :\nbest used for instruct fine-tuning large language models to perform better on Arabic language.\n\n## License and Usage :  \nThis dataset is a Kaggle version of generated Arabic dataset is created by Yasbok from hugging face. due to issues extracting it directly from \"HF\" using the `Dataset` library, i downloaded it and uploaded it here on kaggle so it can be used easily.\n[Hugging face dataset link](https://huggingface.co/datasets/Yasbok/Alpaca_arabic_instruct)\n",
+  "datasetId": 5046027,
+  "datasetSlug": "arabic-instruct-chatbot-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "omgits0mar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 57,
+  "totalVotes": 1,
+  "totalDownloads": 6,
+  "title": "Arabic Instruct chatbot dataset",
+  "hasTitle": true,
+  "subtitle": "Fine tuning LLMs on Arabic language for better performance",
+  "hasSubtitle": true,
+  "description": "## Discerption :\nThis dataset is a .parquet file prepared on instruction Question Answer dataset in Arabic language on multiple different categories.\n\n## Usage :\nbest used for instruct fine-tuning large language models to perform better on Arabic language.\n\n## License and Usage :  \nThis dataset is a Kaggle version of generated Arabic dataset is created by Yasbok from hugging face. due to issues extracting it directly from \"HF\" using the `Dataset` library, i downloaded it and uploaded it here on kaggle so it can be used easily.\n[Hugging face dataset link](https://huggingface.co/datasets/Yasbok/Alpaca_arabic_instruct)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "nlp",
+    "text-to-text generation",
+    "question answering",
+    "arabic"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

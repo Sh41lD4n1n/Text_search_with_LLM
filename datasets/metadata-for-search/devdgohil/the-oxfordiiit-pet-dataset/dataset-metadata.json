@@ -1,0 +1,42 @@
+{
+  "id": "devdgohil/the-oxfordiiit-pet-dataset",
+  "id_no": 224104,
+  "datasetSlugNullable": "the-oxfordiiit-pet-dataset",
+  "ownerUserNullable": "devdgohil",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "The Oxford-IIIT Pet Dataset",
+  "subtitleNullable": "Dataset of 37 categories of dogs and cats ",
+  "descriptionNullable": "### Context\nThe Oxford-IIIT Pet Dataset is a 37 category pet dataset with roughly 100 images for each class created by the Visual Geometry Group at Oxford. The images have large variations in scale, pose and lighting. All images have an associated ground truth annotation of the breed, head ROI, and pixel level trimap segmentation.\n\n### Inspiration\nThis dataset is useful for those who are new to Semantic segmentation, Object localization and Object detection as this data is very well formatted. Anyone can do Semantic segmentation, Object localization and Object detection using this dataset.\n\n### Citation\n[Cats and Dogs](http://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf)",
+  "datasetId": 224104,
+  "datasetSlug": "the-oxfordiiit-pet-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "devdgohil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 25188,
+  "totalVotes": 38,
+  "totalDownloads": 2509,
+  "title": "The Oxford-IIIT Pet Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 37 categories of dogs and cats ",
+  "hasSubtitle": true,
+  "description": "### Context\nThe Oxford-IIIT Pet Dataset is a 37 category pet dataset with roughly 100 images for each class created by the Visual Geometry Group at Oxford. The images have large variations in scale, pose and lighting. All images have an associated ground truth annotation of the breed, head ROI, and pixel level trimap segmentation.\n\n### Inspiration\nThis dataset is useful for those who are new to Semantic segmentation, Object localization and Object detection as this data is very well formatted. Anyone can do Semantic segmentation, Object localization and Object detection using this dataset.\n\n### Citation\n[Cats and Dogs](http://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

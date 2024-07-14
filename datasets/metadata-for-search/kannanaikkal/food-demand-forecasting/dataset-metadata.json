@@ -1,0 +1,42 @@
+{
+  "id": "kannanaikkal/food-demand-forecasting",
+  "id_no": 641820,
+  "datasetSlugNullable": "food-demand-forecasting",
+  "ownerUserNullable": "kannanaikkal",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Food Demand Forecasting",
+  "subtitleNullable": "Predict the number of orders for upcoming 10 weeks",
+  "descriptionNullable": "### Context\n\nIt is a meal delivery company which operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants you to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.\n\n\n### Content\n\nThe replenishment of majority of raw materials is done on weekly basis and since the raw material is perishable, the procurement planning is of utmost importance. Secondly, staffing of the centers is also one area wherein accurate demand forecasts are really helpful. Given the following information, the task is to predict the demand for the next 10 weeks (Weeks: 146-155) for the center-meal combinations in the test set\n\n### Acknowledgements\n\nAnalytics Vidhya\n\n### Inspiration\n\nForecasting accurately could male the business growth in well directed direction.",
+  "datasetId": 641820,
+  "datasetSlug": "food-demand-forecasting",
+  "hasDatasetSlug": true,
+  "ownerUser": "kannanaikkal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 94343,
+  "totalVotes": 114,
+  "totalDownloads": 11422,
+  "title": "Food Demand Forecasting",
+  "hasTitle": true,
+  "subtitle": "Predict the number of orders for upcoming 10 weeks",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIt is a meal delivery company which operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants you to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.\n\n\n### Content\n\nThe replenishment of majority of raw materials is done on weekly basis and since the raw material is perishable, the procurement planning is of utmost importance. Secondly, staffing of the centers is also one area wherein accurate demand forecasts are really helpful. Given the following information, the task is to predict the demand for the next 10 weeks (Weeks: 146-155) for the center-meal combinations in the test set\n\n### Acknowledgements\n\nAnalytics Vidhya\n\n### Inspiration\n\nForecasting accurately could male the business growth in well directed direction.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "exploratory data analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

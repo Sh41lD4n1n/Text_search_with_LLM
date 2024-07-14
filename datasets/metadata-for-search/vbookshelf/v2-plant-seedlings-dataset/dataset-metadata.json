@@ -1,0 +1,42 @@
+{
+  "id": "vbookshelf/v2-plant-seedlings-dataset",
+  "id_no": 91319,
+  "datasetSlugNullable": "v2-plant-seedlings-dataset",
+  "ownerUserNullable": "vbookshelf",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "V2 Plant Seedlings Dataset",
+  "subtitleNullable": "Images of crop and weed seedlings at different growth stages.",
+  "descriptionNullable": "### Context\n\nWhy is it important to detect weeds while they are still seedlings? \n\nThis is what the [University of Pretoria][1] has to say regarding maize (corn) farming in southern Africa:\n\n    Successful cultivation of maize depends largely on the efficacy of weed control. Weed control during the first six to eight weeks after planting is crucial, because weeds compete vigorously with the crop for nutrients and water during this period. Annual yield losses occur as a result of weed infestations in cultivated crops. Crop yield losses that are attributable to weeds vary with type of weed, type of crop, and the environmental conditions involved. Generally, depending on the level of weed control practiced yield losses can vary from 10 to 100 %. Rarely does one experience zero yield loss due to weeds... Yield losses occur as a result of weed interference with the crop's growth and development....This explains why effective weed control is imperative. In order to do effective control the first critical requirement is correct weed identification.\n\n\n<hr>\n\n### Content\n\n![12 Classes][2]\n\n\n\nThis dataset contains 5,539 images of crop and weed seedlings. The images are grouped into 12 classes as shown in the above pictures. These classes represent common plant species in Danish agriculture. Each class contains rgb images that show plants at different growth stages. The images are in various sizes and are in png format. \n\nThe V1 version of this dataset was used in the [Plant Seedling Classification][3] playground competition here on Kaggle. This is the V2 version. Some samples in V1 contained multiple plants. The dataset\u2019s creators have now removed those samples.\n\n### Citation\n\nPaper: A Public Image Database for Benchmark of Plant Seedling Classification Algorithms<br>\nhttps://arxiv.org/abs/1711.05458\n\n\n\n### Acknowledgements\n\nMany thanks to the Computer Vision and Signal Processing Group, Department of Engineering \u2013 Aarhus University, for making this dataset publicly available.<br>\nhttps://vision.eng.au.dk/plant-seedlings-dataset/\n\n\n\n### Inspiration\n\n- Use this dataset to build a model to classify crop and weed seedlings.\n- Start a school or university project to create a dataset of crop and weed seedling images in a local farming community. Then create a weed detection model based on your dataset. Deploy your model as a web app so farmers can use it.\n- Can a ground based weed detector be built using an Arduino? This video may give you some ideas: https://www.youtube.com/watch?v=O_Q1WKCtWiA\n\n\n\n\n\n\nHeader photo by Francesco Gallarotti on Unsplash.\n\n\n  [1]: https://www.up.ac.za/sahri/article/1810372/important-weeds-in-maize\n  [2]: http://plant.test.woza.work/assets/classes.png\n  [3]: https://www.kaggle.com/c/plant-seedlings-classification",
+  "datasetId": 91319,
+  "datasetSlug": "v2-plant-seedlings-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vbookshelf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 113618,
+  "totalVotes": 291,
+  "totalDownloads": 11195,
+  "title": "V2 Plant Seedlings Dataset",
+  "hasTitle": true,
+  "subtitle": "Images of crop and weed seedlings at different growth stages.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWhy is it important to detect weeds while they are still seedlings? \n\nThis is what the [University of Pretoria][1] has to say regarding maize (corn) farming in southern Africa:\n\n    Successful cultivation of maize depends largely on the efficacy of weed control. Weed control during the first six to eight weeks after planting is crucial, because weeds compete vigorously with the crop for nutrients and water during this period. Annual yield losses occur as a result of weed infestations in cultivated crops. Crop yield losses that are attributable to weeds vary with type of weed, type of crop, and the environmental conditions involved. Generally, depending on the level of weed control practiced yield losses can vary from 10 to 100 %. Rarely does one experience zero yield loss due to weeds... Yield losses occur as a result of weed interference with the crop's growth and development....This explains why effective weed control is imperative. In order to do effective control the first critical requirement is correct weed identification.\n\n\n<hr>\n\n### Content\n\n![12 Classes][2]\n\n\n\nThis dataset contains 5,539 images of crop and weed seedlings. The images are grouped into 12 classes as shown in the above pictures. These classes represent common plant species in Danish agriculture. Each class contains rgb images that show plants at different growth stages. The images are in various sizes and are in png format. \n\nThe V1 version of this dataset was used in the [Plant Seedling Classification][3] playground competition here on Kaggle. This is the V2 version. Some samples in V1 contained multiple plants. The dataset\u2019s creators have now removed those samples.\n\n### Citation\n\nPaper: A Public Image Database for Benchmark of Plant Seedling Classification Algorithms<br>\nhttps://arxiv.org/abs/1711.05458\n\n\n\n### Acknowledgements\n\nMany thanks to the Computer Vision and Signal Processing Group, Department of Engineering \u2013 Aarhus University, for making this dataset publicly available.<br>\nhttps://vision.eng.au.dk/plant-seedlings-dataset/\n\n\n\n### Inspiration\n\n- Use this dataset to build a model to classify crop and weed seedlings.\n- Start a school or university project to create a dataset of crop and weed seedling images in a local farming community. Then create a weed detection model based on your dataset. Deploy your model as a web app so farmers can use it.\n- Can a ground based weed detector be built using an Arduino? This video may give you some ideas: https://www.youtube.com/watch?v=O_Q1WKCtWiA\n\n\n\n\n\n\nHeader photo by Francesco Gallarotti on Unsplash.\n\n\n  [1]: https://www.up.ac.za/sahri/article/1810372/important-weeds-in-maize\n  [2]: http://plant.test.woza.work/assets/classes.png\n  [3]: https://www.kaggle.com/c/plant-seedlings-classification",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "plants",
+    "agriculture",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

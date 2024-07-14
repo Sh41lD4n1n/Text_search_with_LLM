@@ -1,0 +1,40 @@
+{
+  "id": "residentmario/iowa-liquor-sales",
+  "id_no": 4609,
+  "datasetSlugNullable": "iowa-liquor-sales",
+  "ownerUserNullable": "residentmario",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Iowa Liquor Sales",
+  "subtitleNullable": "12 million alcoholic beverage sales in the Midwest",
+  "descriptionNullable": "### Context\n\nThe Iowa Department of Commerce requires that every store that sells alcohol in bottled form for off-the-premises consumption must hold a class \"E\" liquor license (an arrangement typical of most of the state alcohol regulatory bodies). All alcoholic sales made by stores registered thusly with the Iowa Department of Commerce are logged in the Commerce department system, which is in turn [published as open data](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy) by the State of Iowa.\n\n### Content\n\nThis dataset contains information on the name, kind, price, quantity, and location of sale of sales of individual containers or packages of containers of alcoholic beverages.\n\nThis dataset is relatively straightforward, but one source of further information on the contents of the data is [this Gist](https://gist.github.com/dannguyen/18ed71d3451d147af414).\n\n### Acknowledgements\n\nThis data was originally published by the State of Iowa [here](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy) and has been republished as-is on Kaggle.\n\n\n### Inspiration\n\n This data is probably a representative sample of sale activity for alcohol in the United States, and can be used to answer many questions thereof, like: how much alcohol is sold and consumed in the United States? What kind? What are the most popular brands and labels? What are the most popular mixers? What is the distribution of prices paid in-store? Etcetera.",
+  "datasetId": 4609,
+  "datasetSlug": "iowa-liquor-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "residentmario",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 125073,
+  "totalVotes": 221,
+  "totalDownloads": 17599,
+  "title": "Iowa Liquor Sales",
+  "hasTitle": true,
+  "subtitle": "12 million alcoholic beverage sales in the Midwest",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Iowa Department of Commerce requires that every store that sells alcohol in bottled form for off-the-premises consumption must hold a class \"E\" liquor license (an arrangement typical of most of the state alcohol regulatory bodies). All alcoholic sales made by stores registered thusly with the Iowa Department of Commerce are logged in the Commerce department system, which is in turn [published as open data](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy) by the State of Iowa.\n\n### Content\n\nThis dataset contains information on the name, kind, price, quantity, and location of sale of sales of individual containers or packages of containers of alcoholic beverages.\n\nThis dataset is relatively straightforward, but one source of further information on the contents of the data is [this Gist](https://gist.github.com/dannguyen/18ed71d3451d147af414).\n\n### Acknowledgements\n\nThis data was originally published by the State of Iowa [here](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy) and has been republished as-is on Kaggle.\n\n\n### Inspiration\n\n This data is probably a representative sample of sale activity for alcohol in the United States, and can be used to answer many questions thereof, like: how much alcohol is sold and consumed in the United States? What kind? What are the most popular brands and labels? What are the most popular mixers? What is the distribution of prices paid in-store? Etcetera.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

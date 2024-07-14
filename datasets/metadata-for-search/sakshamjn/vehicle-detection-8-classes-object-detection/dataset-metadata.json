@@ -1,0 +1,44 @@
+{
+  "id": "sakshamjn/vehicle-detection-8-classes-object-detection",
+  "id_no": 1044287,
+  "datasetSlugNullable": "vehicle-detection-8-classes-object-detection",
+  "ownerUserNullable": "sakshamjn",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Vehicle Detection 8 Classes | Object Detection",
+  "subtitleNullable": "Dataset for Object detection for Different types of vehicles with 8 categories",
+  "descriptionNullable": "##Abstract\n&gt; For analyzing the traffic over road, images with Boundary-Box annotations.\n\n##About this dataset\n&gt; This dataset, contains images with bounding box annotations in the PASCAL VOC format for these 8 classes:\nMotorcycle\nAuto\nCar\nBus\nLCV(Light Motor Vehicle)\nTruck\nTractor\nMulti-Axle                        \n\n##Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors.\n",
+  "datasetId": 1044287,
+  "datasetSlug": "vehicle-detection-8-classes-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sakshamjn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 16150,
+  "totalVotes": 36,
+  "totalDownloads": 2210,
+  "title": "Vehicle Detection 8 Classes | Object Detection",
+  "hasTitle": true,
+  "subtitle": "Dataset for Object detection for Different types of vehicles with 8 categories",
+  "hasSubtitle": true,
+  "description": "##Abstract\n&gt; For analyzing the traffic over road, images with Boundary-Box annotations.\n\n##About this dataset\n&gt; This dataset, contains images with bounding box annotations in the PASCAL VOC format for these 8 classes:\nMotorcycle\nAuto\nCar\nBus\nLCV(Light Motor Vehicle)\nTruck\nTractor\nMulti-Axle                        \n\n##Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "law",
+    "computer science",
+    "internet",
+    "software",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

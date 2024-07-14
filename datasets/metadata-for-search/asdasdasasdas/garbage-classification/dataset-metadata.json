@@ -1,0 +1,42 @@
+{
+  "id": "asdasdasasdas/garbage-classification",
+  "id_no": 81794,
+  "datasetSlugNullable": "garbage-classification",
+  "ownerUserNullable": "asdasdasasdas",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Garbage Classification",
+  "subtitleNullable": "6 classes: cardboard, glass, metal , paper, plastic and trash.",
+  "descriptionNullable": "### Garbage Classification Data\nThe ***Garbage Classification Dataset***  contains 6 classifications: cardboard (393), glass (491), metal (400), paper(584),  plastic (472) and trash(127).\n\nExample pictures for each category are shown below:\n\n**1.cardboard**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Faa165a00972f0e2382a51cae7495c186%2Fcardboard10.jpg?generation=1577153274006395&alt=media)\n\n**2.glass**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Fdef5c2805786a5b2f823b4b1115c5510%2Fglass105.jpg?generation=1577153372436433&alt=media)\n\n**3.metal**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Fe797ff9d99754a2d6c7100241f5f7092%2Fmetal101.jpg?generation=1577153407773402&alt=media)\n\n**4.paper**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Fdd8d6196a37658d28b8233ccb61677c0%2Fpaper1.jpg?generation=1577153456169200&alt=media)\n\n**5.plastic**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2F7395afa02092b0761c66634ad5ae716c%2Fplastic1.jpg?generation=1577153479060787&alt=media)\n\n**6.trash**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2F9d602f35b3a45c67912c443d0f5375b8%2Ftrash1.jpg?generation=1577153503621328&alt=media)\n\n\ud83d\ude4c ",
+  "datasetId": 81794,
+  "datasetSlug": "garbage-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "asdasdasasdas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 306802,
+  "totalVotes": 492,
+  "totalDownloads": 36668,
+  "title": "Garbage Classification",
+  "hasTitle": true,
+  "subtitle": "6 classes: cardboard, glass, metal , paper, plastic and trash.",
+  "hasSubtitle": true,
+  "description": "### Garbage Classification Data\nThe ***Garbage Classification Dataset***  contains 6 classifications: cardboard (393), glass (491), metal (400), paper(584),  plastic (472) and trash(127).\n\nExample pictures for each category are shown below:\n\n**1.cardboard**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Faa165a00972f0e2382a51cae7495c186%2Fcardboard10.jpg?generation=1577153274006395&alt=media)\n\n**2.glass**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Fdef5c2805786a5b2f823b4b1115c5510%2Fglass105.jpg?generation=1577153372436433&alt=media)\n\n**3.metal**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Fe797ff9d99754a2d6c7100241f5f7092%2Fmetal101.jpg?generation=1577153407773402&alt=media)\n\n**4.paper**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2Fdd8d6196a37658d28b8233ccb61677c0%2Fpaper1.jpg?generation=1577153456169200&alt=media)\n\n**5.plastic**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2F7395afa02092b0761c66634ad5ae716c%2Fplastic1.jpg?generation=1577153479060787&alt=media)\n\n**6.trash**\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1778553%2F9d602f35b3a45c67912c443d0f5375b8%2Ftrash1.jpg?generation=1577153503621328&alt=media)\n\n\ud83d\ude4c ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "internet",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

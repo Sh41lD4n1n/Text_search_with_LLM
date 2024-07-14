@@ -1,0 +1,41 @@
+{
+  "id": "rajanand/suicides-in-india",
+  "id_no": 1691,
+  "datasetSlugNullable": "suicides-in-india",
+  "ownerUserNullable": "rajanand",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Suicides in India",
+  "subtitleNullable": "Sucides in each state is classified according to various parameters from 2001-12",
+  "descriptionNullable": "<div>\n<a href=\"https://link.rajanand.org/sql-challenges\" target=\"_blank\">\n<img src=\"https://link.rajanand.org/banner-01\" alt=\"SQL Data Challenges\" style=\"width: 700px; height: 120px\"></a>\n</div>\n\n###Context###\n\nThis data set contains yearly suicide detail of all the states/u.t of India by various parameters from 2001 to 2012.\n\n###Content###\n\nTime Period: 2001 - 2012 \nGranularity: Yearly\nLocation: States and U.T's of India \n\nParameters:\n\na) Suicide causes\nb) Education status\nc) By means adopted\nd) Professional profile\ne) Social status\n\n###Acknowledgements###\n\nNational Crime Records Bureau (NCRB), Govt of India has shared this [dataset](https://data.gov.in/dataset-group-name/accidental-deaths-and-suicides) under [Govt. Open Data License - India](https://data.gov.in/government-open-data-license-india).\nNCRB has also shared the historical data on their [website](http://ncrb.nic.in/StatPublications/ADSI/PrevPublications.htm)\n\n<div>\n<a href=\"https://link.rajanand.org/sql-challenges\" target=\"_blank\">\n<img src=\"https://link.rajanand.org/banner-02\" alt=\"SQL Data Challenges\" style=\"width: 700px; height: 120px\"></a>\n</div>",
+  "datasetId": 1691,
+  "datasetSlug": "suicides-in-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajanand",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 117499,
+  "totalVotes": 282,
+  "totalDownloads": 19108,
+  "title": "Suicides in India",
+  "hasTitle": true,
+  "subtitle": "Sucides in each state is classified according to various parameters from 2001-12",
+  "hasSubtitle": true,
+  "description": "<div>\n<a href=\"https://link.rajanand.org/sql-challenges\" target=\"_blank\">\n<img src=\"https://link.rajanand.org/banner-01\" alt=\"SQL Data Challenges\" style=\"width: 700px; height: 120px\"></a>\n</div>\n\n###Context###\n\nThis data set contains yearly suicide detail of all the states/u.t of India by various parameters from 2001 to 2012.\n\n###Content###\n\nTime Period: 2001 - 2012 \nGranularity: Yearly\nLocation: States and U.T's of India \n\nParameters:\n\na) Suicide causes\nb) Education status\nc) By means adopted\nd) Professional profile\ne) Social status\n\n###Acknowledgements###\n\nNational Crime Records Bureau (NCRB), Govt of India has shared this [dataset](https://data.gov.in/dataset-group-name/accidental-deaths-and-suicides) under [Govt. Open Data License - India](https://data.gov.in/government-open-data-license-india).\nNCRB has also shared the historical data on their [website](http://ncrb.nic.in/StatPublications/ADSI/PrevPublications.htm)\n\n<div>\n<a href=\"https://link.rajanand.org/sql-challenges\" target=\"_blank\">\n<img src=\"https://link.rajanand.org/banner-02\" alt=\"SQL Data Challenges\" style=\"width: 700px; height: 120px\"></a>\n</div>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "mental health",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

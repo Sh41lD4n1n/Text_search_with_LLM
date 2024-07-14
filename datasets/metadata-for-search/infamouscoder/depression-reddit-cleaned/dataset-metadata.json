@@ -1,0 +1,42 @@
+{
+  "id": "infamouscoder/depression-reddit-cleaned",
+  "id_no": 2400767,
+  "datasetSlugNullable": "depression-reddit-cleaned",
+  "ownerUserNullable": "infamouscoder",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Depression: Reddit Dataset (Cleaned)",
+  "subtitleNullable": "~7000 Cleaned Reddit Labelled Dataset on Depression",
+  "descriptionNullable": "The raw data is collected through web scrapping Subreddits and is cleaned using multiple NLP techniques. The data is only in English language. It mainly targets mental health classification.",
+  "datasetId": 2400767,
+  "datasetSlug": "depression-reddit-cleaned",
+  "hasDatasetSlug": true,
+  "ownerUser": "infamouscoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 40378,
+  "totalVotes": 85,
+  "totalDownloads": 5664,
+  "title": "Depression: Reddit Dataset (Cleaned)",
+  "hasTitle": true,
+  "subtitle": "~7000 Cleaned Reddit Labelled Dataset on Depression",
+  "hasSubtitle": true,
+  "description": "The raw data is collected through web scrapping Subreddits and is cleaned using multiple NLP techniques. The data is only in English language. It mainly targets mental health classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "nlp",
+    "classification",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

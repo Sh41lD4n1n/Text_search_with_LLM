@@ -1,0 +1,42 @@
+{
+  "id": "meetnaren/goodreads-best-books",
+  "id_no": 63903,
+  "datasetSlugNullable": "goodreads-best-books",
+  "ownerUserNullable": "meetnaren",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Goodreads' Best Books Ever",
+  "subtitleNullable": "Data on the best books ever, scraped from Goodreads",
+  "descriptionNullable": "### Context\nThis is an attempt to figure out if books can be judged by the blurb or cover. I wanted to find out if the description of a book is indicative of the genre or the rating of the book. Or if the genre of a book can be figured out by looking at the cover.\n\n### Inspiration\nCan a book be judged by its cover? What can you tell about a book by reading the description?",
+  "datasetId": 63903,
+  "datasetSlug": "goodreads-best-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "meetnaren",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 39135,
+  "totalVotes": 91,
+  "totalDownloads": 4248,
+  "title": "Goodreads' Best Books Ever",
+  "hasTitle": true,
+  "subtitle": "Data on the best books ever, scraped from Goodreads",
+  "hasSubtitle": true,
+  "description": "### Context\nThis is an attempt to figure out if books can be judged by the blurb or cover. I wanted to find out if the description of a book is indicative of the genre or the rating of the book. Or if the genre of a book can be figured out by looking at the cover.\n\n### Inspiration\nCan a book be judged by its cover? What can you tell about a book by reading the description?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "tabular",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

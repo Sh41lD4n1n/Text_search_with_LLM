@@ -1,0 +1,43 @@
+{
+  "id": "drblack00/isl-csltr-indian-sign-language-dataset",
+  "id_no": 4474574,
+  "datasetSlugNullable": "isl-csltr-indian-sign-language-dataset",
+  "ownerUserNullable": "drblack00",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "ISL-CSLTR: Indian Sign Language Dataset",
+  "subtitleNullable": "Dataset for Continuous Sign Language Translation and Recognition",
+  "descriptionNullable": "Sign language is a cardinal element for communication between deaf and dumb community. Sign language has its own grammatical structure and gesticulation nature. Research on SLRT focuses a lot of attention in gesture identification. Sign language comprises of manual gestures performed by hand poses and non-manual features expressed through eye, mouth and gaze movements. \n\nThe sentence-level completely labelled Indian Sign Language dataset for Sign Language Translation and Recognition (SLTR) research is developed. The ISL-CSLTR dataset assists the research community to explore intuitive insights and to build the SLTR framework for establishing communication with the deaf and dumb community using advanced deep learning and computer vision methods for SLTR purposes. This ISL-CSLTR dataset aims in contributing to the sentence level dataset created with two native signers from Navajeevan,  Residential School for the Deaf, College of Spl. D.Ed & B.Ed, Vocational Centre, and Child Care & Learning Centre, Ayyalurimetta, Andhra Pradesh, India and four student volunteers from SASTRA Deemed University, Thanjavur, Tamilnadu. The ISL-CSLTR corpus consists of a large vocabulary of 700 fully annotated videos, 18863 Sentence level frames, and 1036 word level images for 100 Spoken language Sentences performed by 7 different Signers. This corpus is arranged based on signer variants and time boundaries with fully annotated details and it is made available publicly.\n\nThe main objective of creating this sentence level ISL-CSLRT corpus is to explore more research outcomes in the area of SLTR. This completely labelled video corpus assists the researchers to build framework for converting spoken language sentences into sign language and vice versa. This corpus has been created to address the various challenges faced by the researchers in SLRT and significantly improves translation and recognition performance. The videos are annotated with relevant spoken language sentences provide clear and easy understanding of the corpus data.\n\nAcknowledgements:\nThe research was funded by the Science and Engineering Research Board (SERB), India under Start-up Research Grant (SRG)/2019\u20132021 (Grant no. SRG/2019/001338). And also, we thank all the signers for their contribution in collecting the sign videos and the successful completion of the ISL-CSLTR corpus. We would like to thank Navajeevan,  Residential School for the Deaf, College of Spl. D.Ed & B.Ed, Vocational Centre, and Child Care & Learning Centre, Ayyalurimetta, Andhra Pradesh, India for their support and contribution. ",
+  "datasetId": 4474574,
+  "datasetSlug": "isl-csltr-indian-sign-language-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "drblack00",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1241,
+  "totalVotes": 9,
+  "totalDownloads": 127,
+  "title": "ISL-CSLTR: Indian Sign Language Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Continuous Sign Language Translation and Recognition",
+  "hasSubtitle": true,
+  "description": "Sign language is a cardinal element for communication between deaf and dumb community. Sign language has its own grammatical structure and gesticulation nature. Research on SLRT focuses a lot of attention in gesture identification. Sign language comprises of manual gestures performed by hand poses and non-manual features expressed through eye, mouth and gaze movements. \n\nThe sentence-level completely labelled Indian Sign Language dataset for Sign Language Translation and Recognition (SLTR) research is developed. The ISL-CSLTR dataset assists the research community to explore intuitive insights and to build the SLTR framework for establishing communication with the deaf and dumb community using advanced deep learning and computer vision methods for SLTR purposes. This ISL-CSLTR dataset aims in contributing to the sentence level dataset created with two native signers from Navajeevan,  Residential School for the Deaf, College of Spl. D.Ed & B.Ed, Vocational Centre, and Child Care & Learning Centre, Ayyalurimetta, Andhra Pradesh, India and four student volunteers from SASTRA Deemed University, Thanjavur, Tamilnadu. The ISL-CSLTR corpus consists of a large vocabulary of 700 fully annotated videos, 18863 Sentence level frames, and 1036 word level images for 100 Spoken language Sentences performed by 7 different Signers. This corpus is arranged based on signer variants and time boundaries with fully annotated details and it is made available publicly.\n\nThe main objective of creating this sentence level ISL-CSLRT corpus is to explore more research outcomes in the area of SLTR. This completely labelled video corpus assists the researchers to build framework for converting spoken language sentences into sign language and vice versa. This corpus has been created to address the various challenges faced by the researchers in SLRT and significantly improves translation and recognition performance. The videos are annotated with relevant spoken language sentences provide clear and easy understanding of the corpus data.\n\nAcknowledgements:\nThe research was funded by the Science and Engineering Research Board (SERB), India under Start-up Research Grant (SRG)/2019\u20132021 (Grant no. SRG/2019/001338). And also, we thank all the signers for their contribution in collecting the sign videos and the successful completion of the ISL-CSLTR corpus. We would like to thank Navajeevan,  Residential School for the Deaf, College of Spl. D.Ed & B.Ed, Vocational Centre, and Child Care & Learning Centre, Ayyalurimetta, Andhra Pradesh, India for their support and contribution. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "lstm",
+    "keras",
+    "tensorflow",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

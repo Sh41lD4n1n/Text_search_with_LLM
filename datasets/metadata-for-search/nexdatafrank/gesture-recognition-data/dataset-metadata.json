@@ -1,0 +1,40 @@
+{
+  "id": "nexdatafrank/gesture-recognition-data",
+  "id_no": 5167243,
+  "datasetSlugNullable": "gesture-recognition-data",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Gesture Recognition Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Gesture Recognition Data in Online Conference Scenes\n\n\n## Description\n2,341 People Gesture Recognition Data in Meeting Scenes includes Asians, Caucasians, blacks, and browns, and the age is mainly young and middle-aged. It collects a variety of indoor office scenes, covering meeting rooms, coffee shops, libraries, bedrooms, etc. Each person collected 18 pictures and 2 videos. The pictures included 18 gestures such as clenching a fist with one hand and heart-to-heart with one hand, and the video included gestures such as clapping.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1292?source=Kaggle\n\n## Data size\n2,341 people, each person collects 2 videos and 18 images\n## Race distribution\n786 Asians, 1,002 Caucasians, 401 black, 152 brown people\n## Gender distribution\n1,209 males, 1,132 females\n## Age distribution\nfrom teenagers to the elderly, mainly young and middle-aged\n## Collection environment\nindoor office scenes, such as meeting rooms, coffee shops, libraries, bedrooms, etc.\n## Collection diversity\ndifferent gestures data, different races, different age groups, different meeting scenes\n## Collection equipment\ncellphone, using the cellphone to simulate the perspective of laptop camera in online conference scenes\n## Collection content\ncollecting the  gestures data in online conference scenes\n## Data format\n.mp4, .mov, .jpg\n## Accuracy rate\nthe accuracy exceeds 97% based on the accuracy of the actions; the accuracy of action naming is more than 97%\n# Licensing Information\nCommercial License\n",
+  "datasetId": 5167243,
+  "datasetSlug": "gesture-recognition-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Gesture Recognition Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Gesture Recognition Data in Online Conference Scenes\n\n\n## Description\n2,341 People Gesture Recognition Data in Meeting Scenes includes Asians, Caucasians, blacks, and browns, and the age is mainly young and middle-aged. It collects a variety of indoor office scenes, covering meeting rooms, coffee shops, libraries, bedrooms, etc. Each person collected 18 pictures and 2 videos. The pictures included 18 gestures such as clenching a fist with one hand and heart-to-heart with one hand, and the video included gestures such as clapping.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1292?source=Kaggle\n\n## Data size\n2,341 people, each person collects 2 videos and 18 images\n## Race distribution\n786 Asians, 1,002 Caucasians, 401 black, 152 brown people\n## Gender distribution\n1,209 males, 1,132 females\n## Age distribution\nfrom teenagers to the elderly, mainly young and middle-aged\n## Collection environment\nindoor office scenes, such as meeting rooms, coffee shops, libraries, bedrooms, etc.\n## Collection diversity\ndifferent gestures data, different races, different age groups, different meeting scenes\n## Collection equipment\ncellphone, using the cellphone to simulate the perspective of laptop camera in online conference scenes\n## Collection content\ncollecting the  gestures data in online conference scenes\n## Data format\n.mp4, .mov, .jpg\n## Accuracy rate\nthe accuracy exceeds 97% based on the accuracy of the actions; the accuracy of action naming is more than 97%\n# Licensing Information\nCommercial License\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

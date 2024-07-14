@@ -1,0 +1,42 @@
+{
+  "id": "/behavioral-risk-factor-surveillance-system",
+  "id_no": 2192,
+  "datasetSlugNullable": "behavioral-risk-factor-surveillance-system",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Behavioral Risk Factor Surveillance System",
+  "subtitleNullable": "Public health surveys of 400k people from 2011-2015",
+  "descriptionNullable": "The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk\nbehaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population.\nFactors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention,\nphysical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per\nhousehold) through a telephone survey.\n\nThe Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\n### Content\n\n - Each year contains a few hundred columns. Please see one of the\n   [annual code books][1] for complete details.\n - These CSV files were converted from a SAS data format using pandas; there may be some data artifacts as a result.\n - If you like this dataset, you might also like the data for 2001-2010.\n\n### Acknowledgements\n\nThis dataset was released by the CDC. You can find the original dataset and [additional years of data here][2].\n\n\n  [1]: https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf\n  [2]: https://www.cdc.gov/brfss/annual_data/annual_data.htm",
+  "datasetId": 2192,
+  "datasetSlug": "behavioral-risk-factor-surveillance-system",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 121083,
+  "totalVotes": 178,
+  "totalDownloads": 13138,
+  "title": "Behavioral Risk Factor Surveillance System",
+  "hasTitle": true,
+  "subtitle": "Public health surveys of 400k people from 2011-2015",
+  "hasSubtitle": true,
+  "description": "The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk\nbehaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population.\nFactors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention,\nphysical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per\nhousehold) through a telephone survey.\n\nThe Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\n### Content\n\n - Each year contains a few hundred columns. Please see one of the\n   [annual code books][1] for complete details.\n - These CSV files were converted from a SAS data format using pandas; there may be some data artifacts as a result.\n - If you like this dataset, you might also like the data for 2001-2010.\n\n### Acknowledgements\n\nThis dataset was released by the CDC. You can find the original dataset and [additional years of data here][2].\n\n\n  [1]: https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf\n  [2]: https://www.cdc.gov/brfss/annual_data/annual_data.htm",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "public health",
+    "health",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

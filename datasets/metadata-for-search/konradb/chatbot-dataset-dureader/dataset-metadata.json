@@ -1,0 +1,39 @@
+{
+  "id": "konradb/chatbot-dataset-dureader",
+  "id_no": 1566677,
+  "datasetSlugNullable": "chatbot-dataset-dureader",
+  "ownerUserNullable": "konradb",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Chatbot dataset: DuReader",
+  "subtitleNullable": "Baidu dataset for MRC and QA",
+  "descriptionNullable": "From the source website: http://ai.baidu.com/broad/introduction?dataset=dureader\n\nDuReader is a large-scale real-world Chinese dataset for Machine Reading Comprehension (MRC) and Question Answering (QA). All questions in the dataset are sampled from real anonymized user queries. The evidence documents, from which answers are derived, are extracted from the web and Baidu Zhidao using Baidu search engine. The answers to the questions are human generated. DuReader version 2.0 contains more than 300K questions, 1.4M evidence documents and 660K human generated answers. It can be used to train or evaluate MRC models and systems.",
+  "datasetId": 1566677,
+  "datasetSlug": "chatbot-dataset-dureader",
+  "hasDatasetSlug": true,
+  "ownerUser": "konradb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6380,
+  "totalVotes": 17,
+  "totalDownloads": 293,
+  "title": "Chatbot dataset: DuReader",
+  "hasTitle": true,
+  "subtitle": "Baidu dataset for MRC and QA",
+  "hasSubtitle": true,
+  "description": "From the source website: http://ai.baidu.com/broad/introduction?dataset=dureader\n\nDuReader is a large-scale real-world Chinese dataset for Machine Reading Comprehension (MRC) and Question Answering (QA). All questions in the dataset are sampled from real anonymized user queries. The evidence documents, from which answers are derived, are extracted from the web and Baidu Zhidao using Baidu search engine. The answers to the questions are human generated. DuReader version 2.0 contains more than 300K questions, 1.4M evidence documents and 660K human generated answers. It can be used to train or evaluate MRC models and systems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

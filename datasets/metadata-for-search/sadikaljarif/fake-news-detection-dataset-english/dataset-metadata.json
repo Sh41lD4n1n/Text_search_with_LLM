@@ -1,0 +1,39 @@
+{
+  "id": "sadikaljarif/fake-news-detection-dataset-english",
+  "id_no": 2489578,
+  "datasetSlugNullable": "fake-news-detection-dataset-english",
+  "ownerUserNullable": "sadikaljarif",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Fake News Detection DataSet_English",
+  "subtitleNullable": "",
+  "descriptionNullable": "## Both \"Fake.csv\" and \"True.csv\" datasets are widely used in natural language processing research and applications, and they provide a valuable resource for training and testing machine learning models for text classification tasks. By using these datasets, researchers and developers can improve the accuracy and effectiveness of their natural language processing models, which can have important real-world applications in fields such as journalism, politics, and social media analysis.",
+  "datasetId": 2489578,
+  "datasetSlug": "fake-news-detection-dataset-english",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadikaljarif",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 4468,
+  "totalVotes": 43,
+  "totalDownloads": 1000,
+  "title": "Fake News Detection DataSet_English",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "## Both \"Fake.csv\" and \"True.csv\" datasets are widely used in natural language processing research and applications, and they provide a valuable resource for training and testing machine learning models for text classification tasks. By using these datasets, researchers and developers can improve the accuracy and effectiveness of their natural language processing models, which can have important real-world applications in fields such as journalism, politics, and social media analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

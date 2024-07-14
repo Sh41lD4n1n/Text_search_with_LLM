@@ -1,0 +1,43 @@
+{
+  "id": "emirhanai/city-happiness-index-2024",
+  "id_no": 4337097,
+  "datasetSlugNullable": "city-happiness-index-2024",
+  "ownerUserNullable": "emirhanai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "City Happiness Index - 2024",
+  "subtitleNullable": "City Happiness Index -Exploring Factors Affecting Urban Well-being & Satisfactio",
+  "descriptionNullable": "**Dataset Name:** City Happiness Index\n\n**Dataset Description:**\n\nThis dataset and the related codes are entirely prepared, original, and exclusive by Emirhan BULUT. The dataset includes crucial features and measurements from various cities around the world, focusing on factors that may affect the overall happiness score of each city. By analyzing these factors, we aim to gain insights into the living conditions and satisfaction of the population in urban environments.\n\nThe dataset consists of the following features:\n\n- City: Name of the city.\n- Month: The month in which the data is recorded.\n- Year: The year in which the data is recorded.\n- Decibel_Level: Average noise levels in decibels, indicating the auditory comfort of the citizens.\n- Traffic_Density: Level of traffic density (Low, Medium, High, Very High), which might impact citizens' daily commute and stress levels.\n- Green_Space_Area: Percentage of green spaces in the city, positively contributing to the mental well-being and relaxation of the inhabitants.\n- Air_Quality_Index: Index measuring the quality of air, a crucial aspect affecting citizens' health and overall satisfaction.\n- Happiness_Score: The average happiness score of the city (on a 1-10 scale), representing the subjective well-being of the population.\n- Cost_of_Living_Index: Index measuring the cost of living in the city (relative to a reference city), which could impact the financial satisfaction of the citizens.\n- Healthcare_Index: Index measuring the quality of healthcare in the city, an essential component of the population's well-being and contentment.\n\nWith these features, the dataset aims to analyze and understand the relationship between various urban factors and the happiness of a city's population. The developed Deep Q-Network model, PIYAAI_2, is designed to learn from this data to provide accurate predictions in future scenarios. Using Reinforcement Learning, the model is expected to improve its performance over time as it learns from new data and adapts to changes in the environment.",
+  "datasetId": 4337097,
+  "datasetSlug": "city-happiness-index-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "emirhanai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13532,
+  "totalVotes": 42,
+  "totalDownloads": 3021,
+  "title": "City Happiness Index - 2024",
+  "hasTitle": true,
+  "subtitle": "City Happiness Index -Exploring Factors Affecting Urban Well-being & Satisfactio",
+  "hasSubtitle": true,
+  "description": "**Dataset Name:** City Happiness Index\n\n**Dataset Description:**\n\nThis dataset and the related codes are entirely prepared, original, and exclusive by Emirhan BULUT. The dataset includes crucial features and measurements from various cities around the world, focusing on factors that may affect the overall happiness score of each city. By analyzing these factors, we aim to gain insights into the living conditions and satisfaction of the population in urban environments.\n\nThe dataset consists of the following features:\n\n- City: Name of the city.\n- Month: The month in which the data is recorded.\n- Year: The year in which the data is recorded.\n- Decibel_Level: Average noise levels in decibels, indicating the auditory comfort of the citizens.\n- Traffic_Density: Level of traffic density (Low, Medium, High, Very High), which might impact citizens' daily commute and stress levels.\n- Green_Space_Area: Percentage of green spaces in the city, positively contributing to the mental well-being and relaxation of the inhabitants.\n- Air_Quality_Index: Index measuring the quality of air, a crucial aspect affecting citizens' health and overall satisfaction.\n- Happiness_Score: The average happiness score of the city (on a 1-10 scale), representing the subjective well-being of the population.\n- Cost_of_Living_Index: Index measuring the cost of living in the city (relative to a reference city), which could impact the financial satisfaction of the citizens.\n- Healthcare_Index: Index measuring the quality of healthcare in the city, an essential component of the population's well-being and contentment.\n\nWith these features, the dataset aims to analyze and understand the relationship between various urban factors and the happiness of a city's population. The developed Deep Q-Network model, PIYAAI_2, is designed to learn from this data to provide accurate predictions in future scenarios. Using Reinforcement Learning, the model is expected to improve its performance over time as it learns from new data and adapts to changes in the environment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "deep learning",
+    "reinforcement learning",
+    "social issues and advocacy",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

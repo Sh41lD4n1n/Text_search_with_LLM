@@ -1,0 +1,44 @@
+{
+  "id": "sanidhyagoel/covid-19-x-ray-classification-dataset",
+  "id_no": 5204877,
+  "datasetSlugNullable": "covid-19-x-ray-classification-dataset",
+  "ownerUserNullable": "sanidhyagoel",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Covid-19 X-Ray Classification Dataset",
+  "subtitleNullable": "Covid-19 Patient Chest X-Ray Dataset (Positive and Negative)",
+  "descriptionNullable": "This dataset contains 284 images of human chest X-ray belonging to 2 classes (Covid-19 Positive and Negative). The dataset has been divided into train and validation splits with 112 and 30 images respectively. The dataset shall be used to train deep learning models such as CNN.\n\n**Dataset Hierarchy**\n\nDataset.zip\n\u251c\u2500\u2500 train\n\u2502   \u251c\u2500\u2500 normal\n\u2502   \u2514\u2500\u2500 infected\n\u2514\u2500\u2500 val\n    \u251c\u2500\u2500 normal\n    \u2514\u2500\u2500 infected\n\n**Citations** : \n- Covid-19 Positive Patient Chest X-ray images (Source : [ https://github.com/ieee8023/covid-chestxray-dataset/tree/master](url))\n- Kaggle Human Lung X-ray Image Dataset (Extracted only \"Normal\") (Source : [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](url))",
+  "datasetId": 5204877,
+  "datasetSlug": "covid-19-x-ray-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanidhyagoel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 19,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Covid-19 X-Ray Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Covid-19 Patient Chest X-Ray Dataset (Positive and Negative)",
+  "hasSubtitle": true,
+  "description": "This dataset contains 284 images of human chest X-ray belonging to 2 classes (Covid-19 Positive and Negative). The dataset has been divided into train and validation splits with 112 and 30 images respectively. The dataset shall be used to train deep learning models such as CNN.\n\n**Dataset Hierarchy**\n\nDataset.zip\n\u251c\u2500\u2500 train\n\u2502   \u251c\u2500\u2500 normal\n\u2502   \u2514\u2500\u2500 infected\n\u2514\u2500\u2500 val\n    \u251c\u2500\u2500 normal\n    \u2514\u2500\u2500 infected\n\n**Citations** : \n- Covid-19 Positive Patient Chest X-ray images (Source : [ https://github.com/ieee8023/covid-chestxray-dataset/tree/master](url))\n- Kaggle Human Lung X-ray Image Dataset (Extracted only \"Normal\") (Source : [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](url))",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "cnn",
+    "covid19",
+    "image classification",
+    "image augmentation",
+    "image generator"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

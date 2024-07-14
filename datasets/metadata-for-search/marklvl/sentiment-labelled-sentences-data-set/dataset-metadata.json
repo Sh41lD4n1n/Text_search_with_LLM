@@ -1,0 +1,44 @@
+{
+  "id": "marklvl/sentiment-labelled-sentences-data-set",
+  "id_no": 22169,
+  "datasetSlugNullable": "sentiment-labelled-sentences-data-set",
+  "ownerUserNullable": "marklvl",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Sentiment Labelled Sentences Data Set ",
+  "subtitleNullable": "From Group to Individual Labels using Deep Features, Kotzias et. al,. KDD 2015",
+  "descriptionNullable": "### Context\n\nOpinion mining (sometimes known as sentiment analysis or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.  Source: https://en.wikipedia.org/wiki/Sentiment_analysis\n\n### Content\n\nThis dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015  \n\nIt contains sentences labelled with a positive or negative sentiment. \n\n**Format:**\n\nsentence score \n\n**Details:**\n\nScore is either 1 (for positive) or 0 (for negative)\t\nThe sentences come from three different websites/fields: \n\nimdb.com \namazon.com \nyelp.com \n\nFor each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. \nWe attempted to select sentences that have a clearly positive or negative connotaton, the goal was for no neutral sentences to be selected. \n\n\nAmazon: contains reviews and scores for products sold on amazon.com in the cell phones and accessories category,\nand is part of the dataset collected by McAuley and Leskovec. Scores are on an integer scale from 1 to 5. We considered reviews with a score of 4 and 5 to be positive, and scores of 1 and 2 to be negative. We randomly partitioned the data into two halves of 50%, one for training and one for testing, with 35,000 documents in each set.\n\nIMDb: refers to the IMDb movie review sentiment dataset originally introduced by Maas et al. as a benchmark for\nsentiment analysis. This dataset contains a total of 100,000 movie reviews posted on imdb.com. There are 50,000 unlabeled\nreviews and the remaining 50,000 are divided into a set of 25,000 reviews for training and 25,000 reviews for\ntesting. Each of the labeled reviews has a binary sentiment label, either positive or negative. In our experiments, we\ntrain only on the labelled part of the training set.\n\nYelp: refers to the dataset from the Yelp dataset challenge from which we extracted the restaurant reviews. Scores\nare on an integer scale from 1 to 5. We again considered reviews with scores 4 and 5 to be positive, and 1 and 2 to\nbe negative. We randomly generated a 50-50 training and testing split, which led to approximately 300,000 documents\nfor each set. Sentences: for each of the datasets above, we extracted and manually labeled 1000 sentences from the test set, with 50% positive sentiment and 50% negative sentiment. These sentences are only used to evaluate our instance-level classi-\nfier for each dataset3. They are not used for model training, to maintain consistency with our overall goal of learning at\na group level and predicting at the instance level.\n\nSource: http://mdenil.com/media/papers/2015-deep-multi-instance-learning.pdf\n\n### Acknowledgements\n\nDimitrios Kotzias dkotzias '@' ics.uci.edu\n\nhttp://mdenil.com/media/papers/2015-deep-multi-instance-learning.pdf\nhttps://www.researchgate.net/publication/299970579_From_Group_to_Individual_Labels_Using_Deep_Features\n\nBanner photo by [@rvignes from Unsplash][1].\n\n# Inspiration\n\nCan you predict the sentiment of a sentence?\n\n\n  [1]: https://unsplash.com/photos/ywqa9IZB-dU\n",
+  "datasetId": 22169,
+  "datasetSlug": "sentiment-labelled-sentences-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "marklvl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 96624,
+  "totalVotes": 165,
+  "totalDownloads": 20216,
+  "title": "Sentiment Labelled Sentences Data Set ",
+  "hasTitle": true,
+  "subtitle": "From Group to Individual Labels using Deep Features, Kotzias et. al,. KDD 2015",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOpinion mining (sometimes known as sentiment analysis or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.  Source: https://en.wikipedia.org/wiki/Sentiment_analysis\n\n### Content\n\nThis dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015  \n\nIt contains sentences labelled with a positive or negative sentiment. \n\n**Format:**\n\nsentence score \n\n**Details:**\n\nScore is either 1 (for positive) or 0 (for negative)\t\nThe sentences come from three different websites/fields: \n\nimdb.com \namazon.com \nyelp.com \n\nFor each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. \nWe attempted to select sentences that have a clearly positive or negative connotaton, the goal was for no neutral sentences to be selected. \n\n\nAmazon: contains reviews and scores for products sold on amazon.com in the cell phones and accessories category,\nand is part of the dataset collected by McAuley and Leskovec. Scores are on an integer scale from 1 to 5. We considered reviews with a score of 4 and 5 to be positive, and scores of 1 and 2 to be negative. We randomly partitioned the data into two halves of 50%, one for training and one for testing, with 35,000 documents in each set.\n\nIMDb: refers to the IMDb movie review sentiment dataset originally introduced by Maas et al. as a benchmark for\nsentiment analysis. This dataset contains a total of 100,000 movie reviews posted on imdb.com. There are 50,000 unlabeled\nreviews and the remaining 50,000 are divided into a set of 25,000 reviews for training and 25,000 reviews for\ntesting. Each of the labeled reviews has a binary sentiment label, either positive or negative. In our experiments, we\ntrain only on the labelled part of the training set.\n\nYelp: refers to the dataset from the Yelp dataset challenge from which we extracted the restaurant reviews. Scores\nare on an integer scale from 1 to 5. We again considered reviews with scores 4 and 5 to be positive, and 1 and 2 to\nbe negative. We randomly generated a 50-50 training and testing split, which led to approximately 300,000 documents\nfor each set. Sentences: for each of the datasets above, we extracted and manually labeled 1000 sentences from the test set, with 50% positive sentiment and 50% negative sentiment. These sentences are only used to evaluate our instance-level classi-\nfier for each dataset3. They are not used for model training, to maintain consistency with our overall goal of learning at\na group level and predicting at the instance level.\n\nSource: http://mdenil.com/media/papers/2015-deep-multi-instance-learning.pdf\n\n### Acknowledgements\n\nDimitrios Kotzias dkotzias '@' ics.uci.edu\n\nhttp://mdenil.com/media/papers/2015-deep-multi-instance-learning.pdf\nhttps://www.researchgate.net/publication/299970579_From_Group_to_Individual_Labels_Using_Deep_Features\n\nBanner photo by [@rvignes from Unsplash][1].\n\n# Inspiration\n\nCan you predict the sentiment of a sentence?\n\n\n  [1]: https://unsplash.com/photos/ywqa9IZB-dU\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "arts and entertainment",
+    "linguistics",
+    "software",
+    "classification",
+    "naive bayes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

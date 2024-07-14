@@ -1,0 +1,37 @@
+{
+  "id": "shawon10/ckplus",
+  "id_no": 65125,
+  "datasetSlugNullable": "ckplus",
+  "ownerUserNullable": "shawon10",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "CKPLUS",
+  "subtitleNullable": "CK+ dataset for facial expression recognition.",
+  "descriptionNullable": "",
+  "datasetId": 65125,
+  "datasetSlug": "ckplus",
+  "hasDatasetSlug": true,
+  "ownerUser": "shawon10",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 76083,
+  "totalVotes": 162,
+  "totalDownloads": 13885,
+  "title": "CKPLUS",
+  "hasTitle": true,
+  "subtitle": "CK+ dataset for facial expression recognition.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

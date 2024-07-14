@@ -1,0 +1,37 @@
+{
+  "id": "theaayushbajaj/traffic-congestion-dataset",
+  "id_no": 837371,
+  "datasetSlugNullable": "traffic-congestion-dataset",
+  "ownerUserNullable": "theaayushbajaj",
+  "usabilityRatingNullable": 0.1875,
+  "titleNullable": "traffic_congestion_dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 837371,
+  "datasetSlug": "traffic-congestion-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "theaayushbajaj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.1875,
+  "hasUsabilityRating": true,
+  "totalViews": 2097,
+  "totalVotes": 1,
+  "totalDownloads": 107,
+  "title": "traffic_congestion_dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "kunaloswal/book-recommendation-system",
+  "id_no": 5247354,
+  "datasetSlugNullable": "book-recommendation-system",
+  "ownerUserNullable": "kunaloswal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Book Recommendation System",
+  "subtitleNullable": "Dataset of different books",
+  "descriptionNullable": "The main dataset  on which all the operations are performed are **books.tsv** containing around 406000+ rows. The file contains two columns, **bookurl** and **data** column. Rest of the csv files are extracted files after running the **jupyter** **code**(book0-20.csv, nbook0-20.csv and book_details.csv with pkl files like tags, simi, tfidf.\nWe have built an **UI** on **Streamlit** with a file name **App1.py** and all the subsidary files required for UI are given in dataset section.\n ",
+  "datasetId": 5247354,
+  "datasetSlug": "book-recommendation-system",
+  "hasDatasetSlug": true,
+  "ownerUser": "kunaloswal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 78,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Book Recommendation System",
+  "hasTitle": true,
+  "subtitle": "Dataset of different books",
+  "hasSubtitle": true,
+  "description": "The main dataset  on which all the operations are performed are **books.tsv** containing around 406000+ rows. The file contains two columns, **bookurl** and **data** column. Rest of the csv files are extracted files after running the **jupyter** **code**(book0-20.csv, nbook0-20.csv and book_details.csv with pkl files like tags, simi, tfidf.\nWe have built an **UI** on **Streamlit** with a file name **App1.py** and all the subsidary files required for UI are given in dataset section.\n ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "deep learning",
+    "text",
+    "feature extraction",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

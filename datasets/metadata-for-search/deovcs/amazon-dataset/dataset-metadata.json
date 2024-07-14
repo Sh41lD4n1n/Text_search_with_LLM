@@ -1,0 +1,40 @@
+{
+  "id": "deovcs/amazon-dataset",
+  "id_no": 1215110,
+  "datasetSlugNullable": "amazon-dataset",
+  "ownerUserNullable": "deovcs",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Amazon dataset",
+  "subtitleNullable": "Amazon Electronics, CDs, Clothing, Music, Products, Movies, Beauty, Home, Games",
+  "descriptionNullable": "## Datasets\nThe related codes are available on my Github [TsingZ0](https://github.com/TsingZ0/TLSAN) and the related paper is [TLSAN: Time-aware Long- and Short-term Attention Network for Next-item Recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231221002605). The full-text is also available here: https://www.researchgate.net/publication/349912702_TLSAN_Time-aware_Long-_and_Short-term_Attention_Network_for_Next-item_Recommendation.\n\nAmazon exposes the official datasets (http://jmcauley.ucsd.edu/data/amazon/) which have filtered out users and items with less than 5 reviews and removed a large amount of invalid data. Because of above advantages, these datasets are widely utilized by researchers. We also chose Amazon's dataset for experiments. In our experiments, only users, items, interactions, and category information are utilized. We do the preprocessing in the following two steps:\n1. Remove the users whose interactions less than 10 and the items which interactions less than 8 to ensure the effectiveness of each user and item.\n2. Select the users with more than 4 sessions, and select up to 90 behavior records for the remaining users. This step guarantees the existence of long- and short-term behavior records and all behavior records occurred within recent three months.\n\n### Statistics (after preprocessing)\n| Datasets | users | items | categories | samples | avg.<br>items/cate | avg.<br>behaviors/item | avg.<br>behaviors/user |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Electronics | 39991 | 22048 | 673 | 561100 | 32.8 | 25.4 | 14.0|\n| CDs-Vinyl | 24179 | 27602 | 310 | 470087 | 89.0 | 17.0 | 19.4|\n| Clothing-Shoes | 2010 | 1723 | 226 | 13157 | 7.6 | 7.6 | 6.5|\n| Digital-Music | 1659 | 1583 | 53 | 28852 | 29.9 | 18.2 | 17.4|\n| Office-Products | 1720 | 901 | 170 | 29387 | 5.3 | 32.6 | 17.0|\n| Movies-TV | 35896 | 28589 | 15 | 752676 | 1905.9 | 20.9 | 26.3|\n| Beauty | 3783 | 2658 | 179 | 54225 | 14.8 | 20.4 | 14.3|\n| Home-Kitchen | 11567 | 7722 | 683 | 143088 | 11.3 | 12.3 | 18.5|\n| Video-Games | 5436 | 4295 | 58 | 83748 | 74.1 | 19.5 | 15.4|\n| Toys-and-Games | 2677 | 2474 | 221 | 37515 | 11.2 | 15.2 | 14.0|",
+  "datasetId": 1215110,
+  "datasetSlug": "amazon-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "deovcs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 6574,
+  "totalVotes": 5,
+  "totalDownloads": 567,
+  "title": "Amazon dataset",
+  "hasTitle": true,
+  "subtitle": "Amazon Electronics, CDs, Clothing, Music, Products, Movies, Beauty, Home, Games",
+  "hasSubtitle": true,
+  "description": "## Datasets\nThe related codes are available on my Github [TsingZ0](https://github.com/TsingZ0/TLSAN) and the related paper is [TLSAN: Time-aware Long- and Short-term Attention Network for Next-item Recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0925231221002605). The full-text is also available here: https://www.researchgate.net/publication/349912702_TLSAN_Time-aware_Long-_and_Short-term_Attention_Network_for_Next-item_Recommendation.\n\nAmazon exposes the official datasets (http://jmcauley.ucsd.edu/data/amazon/) which have filtered out users and items with less than 5 reviews and removed a large amount of invalid data. Because of above advantages, these datasets are widely utilized by researchers. We also chose Amazon's dataset for experiments. In our experiments, only users, items, interactions, and category information are utilized. We do the preprocessing in the following two steps:\n1. Remove the users whose interactions less than 10 and the items which interactions less than 8 to ensure the effectiveness of each user and item.\n2. Select the users with more than 4 sessions, and select up to 90 behavior records for the remaining users. This step guarantees the existence of long- and short-term behavior records and all behavior records occurred within recent three months.\n\n### Statistics (after preprocessing)\n| Datasets | users | items | categories | samples | avg.<br>items/cate | avg.<br>behaviors/item | avg.<br>behaviors/user |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Electronics | 39991 | 22048 | 673 | 561100 | 32.8 | 25.4 | 14.0|\n| CDs-Vinyl | 24179 | 27602 | 310 | 470087 | 89.0 | 17.0 | 19.4|\n| Clothing-Shoes | 2010 | 1723 | 226 | 13157 | 7.6 | 7.6 | 6.5|\n| Digital-Music | 1659 | 1583 | 53 | 28852 | 29.9 | 18.2 | 17.4|\n| Office-Products | 1720 | 901 | 170 | 29387 | 5.3 | 32.6 | 17.0|\n| Movies-TV | 35896 | 28589 | 15 | 752676 | 1905.9 | 20.9 | 26.3|\n| Beauty | 3783 | 2658 | 179 | 54225 | 14.8 | 20.4 | 14.3|\n| Home-Kitchen | 11567 | 7722 | 683 | 143088 | 11.3 | 12.3 | 18.5|\n| Video-Games | 5436 | 4295 | 58 | 83748 | 74.1 | 19.5 | 15.4|\n| Toys-and-Games | 2677 | 2474 | 221 | 37515 | 11.2 | 15.2 | 14.0|",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "recommender systems",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

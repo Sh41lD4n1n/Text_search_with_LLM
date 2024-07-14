@@ -1,0 +1,39 @@
+{
+  "id": "nitirajkulkarni/lqr-stock-performance",
+  "id_no": 5255100,
+  "datasetSlugNullable": "lqr-stock-performance",
+  "ownerUserNullable": "nitirajkulkarni",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Dataset: LQR House Inc. (LQR) Stock Performance",
+  "subtitleNullable": "Stock Performance Dataset",
+  "descriptionNullable": "This dataset provides historical stock market performance data for specific companies. It enables users to analyze and understand the past trends and fluctuations in stock prices over time. This information can be utilized for various purposes such as investment analysis, financial research, and market trend forecasting.",
+  "datasetId": 5255100,
+  "datasetSlug": "lqr-stock-performance",
+  "hasDatasetSlug": true,
+  "ownerUser": "nitirajkulkarni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Dataset: LQR House Inc. (LQR) Stock Performance",
+  "hasTitle": true,
+  "subtitle": "Stock Performance Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset provides historical stock market performance data for specific companies. It enables users to analyze and understand the past trends and fluctuations in stock prices over time. This information can be utilized for various purposes such as investment analysis, financial research, and market trend forecasting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

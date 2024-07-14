@@ -1,0 +1,45 @@
+{
+  "id": "debashis74017/nifty-50-minute-data",
+  "id_no": 2401195,
+  "datasetSlugNullable": "nifty-50-minute-data",
+  "ownerUserNullable": "debashis74017",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "NSE - Nifty 50 Index Minute data (2015 to 2024)",
+  "subtitleNullable": "Nifty 50 index (OHLC) data for 1min data",
+  "descriptionNullable": "## Context\n- The NIFTY 50 is a well-diversified 50 stock index and it represents 13 important sectors of the economy.  \n- It is used for a variety of purposes such as benchmarking fund portfolios, index-based derivatives, and index funds. \n- NIFTY 50 is owned and managed by NSE Indices Limited.\n- The NIFTY 50 index has shaped up to be the largest single financial product in India. \n\n## File Information and Column Descriptons\n\nNifty 50 index data with **1 minute, 3 minutes, 5 minutes,  15 minutes, 1 hour, and daily data**. The dataset contains OHLC (Open, High, Low, and Close) prices from Jan 2015 to Jan 2022. \n- This dataset can be used for time series analysis, regression problems, and time series forecasting both for one step and multi-step ahead in the future. \n- Options data can be integrated with this minute data, to get more insight about this data. \n- Different backtesting strategies can be built on this data. \n\n## **File Information**\n- This dataset contains 6 files, each file contains nifty 50 data with different intervals. \n- Different intervals are - 1 min, 3 min, 5 min, 15 min, and 1 hour, Daily data from intervals of 2015 Jan to 2022 Feb. \n\n## **Column Descriptors**\n- Each file contains OHLC (Open, High, Low, and Close) prices and Data time information. Since these are Nifty 50 index data, so volume is not present. \n\n## **Inspiration**\n### Time series forecasting - Predict stock price\n- Predict future stock price one step ahead and multi-step ahead in time. \n- Use different time series forecasting techniques for forecasting the future stock price. \n### Machine learning and Deep learning techniques\n- Possible ML and DL models include Neural networks, RNNs, LSTMs, Transformers, Attention networks, etc. \n- Different error functions can be considered like RMSE, MAE, RMSEP etc. \n### Feature engineering\n-  Different augmented features can be created and that can be used for forecasting. \n- Correlation analysis, Feature importance to justify the important features.\n",
+  "datasetId": 2401195,
+  "datasetSlug": "nifty-50-minute-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "debashis74017",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 36751,
+  "totalVotes": 135,
+  "totalDownloads": 7422,
+  "title": "NSE - Nifty 50 Index Minute data (2015 to 2024)",
+  "hasTitle": true,
+  "subtitle": "Nifty 50 index (OHLC) data for 1min data",
+  "hasSubtitle": true,
+  "description": "## Context\n- The NIFTY 50 is a well-diversified 50 stock index and it represents 13 important sectors of the economy.  \n- It is used for a variety of purposes such as benchmarking fund portfolios, index-based derivatives, and index funds. \n- NIFTY 50 is owned and managed by NSE Indices Limited.\n- The NIFTY 50 index has shaped up to be the largest single financial product in India. \n\n## File Information and Column Descriptons\n\nNifty 50 index data with **1 minute, 3 minutes, 5 minutes,  15 minutes, 1 hour, and daily data**. The dataset contains OHLC (Open, High, Low, and Close) prices from Jan 2015 to Jan 2022. \n- This dataset can be used for time series analysis, regression problems, and time series forecasting both for one step and multi-step ahead in the future. \n- Options data can be integrated with this minute data, to get more insight about this data. \n- Different backtesting strategies can be built on this data. \n\n## **File Information**\n- This dataset contains 6 files, each file contains nifty 50 data with different intervals. \n- Different intervals are - 1 min, 3 min, 5 min, 15 min, and 1 hour, Daily data from intervals of 2015 Jan to 2022 Feb. \n\n## **Column Descriptors**\n- Each file contains OHLC (Open, High, Low, and Close) prices and Data time information. Since these are Nifty 50 index data, so volume is not present. \n\n## **Inspiration**\n### Time series forecasting - Predict stock price\n- Predict future stock price one step ahead and multi-step ahead in time. \n- Use different time series forecasting techniques for forecasting the future stock price. \n### Machine learning and Deep learning techniques\n- Possible ML and DL models include Neural networks, RNNs, LSTMs, Transformers, Attention networks, etc. \n- Different error functions can be considered like RMSE, MAE, RMSEP etc. \n### Feature engineering\n-  Different augmented features can be created and that can be used for forecasting. \n- Correlation analysis, Feature importance to justify the important features.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "earth and nature",
+    "business",
+    "finance",
+    "time series analysis",
+    "logistic regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tasnimniger/fake-news-detection-data",
+  "id_no": 4893088,
+  "datasetSlugNullable": "fake-news-detection-data",
+  "ownerUserNullable": "tasnimniger",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Fake News Detection Data",
+  "subtitleNullable": "Tabular summary about each news article",
+  "descriptionNullable": "The internet and social media have led to a major problem\u2014fake news. Fake news is false information presented as real news, often with the goal of tricking or influencing people. It's difficult to identify fake news because it can look very similar to real news.\nThe Fake News detection dataset deals with the problem indirectly by using tabular summary statistics about each news article to attempt to predict whether the article is real or fake. This dataset is in a tabular format and contains features such as word count, sentence length, unique words, average word length, and a label indicating whether the article is fake or real.",
+  "datasetId": 4893088,
+  "datasetSlug": "fake-news-detection-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "tasnimniger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4206,
+  "totalVotes": 28,
+  "totalDownloads": 853,
+  "title": "Fake News Detection Data",
+  "hasTitle": true,
+  "subtitle": "Tabular summary about each news article",
+  "hasSubtitle": true,
+  "description": "The internet and social media have led to a major problem\u2014fake news. Fake news is false information presented as real news, often with the goal of tricking or influencing people. It's difficult to identify fake news because it can look very similar to real news.\nThe Fake News detection dataset deals with the problem indirectly by using tabular summary statistics about each news article to attempt to predict whether the article is real or fake. This dataset is in a tabular format and contains features such as word count, sentence length, unique words, average word length, and a label indicating whether the article is fake or real.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "tabular",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

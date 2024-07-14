@@ -1,0 +1,42 @@
+{
+  "id": "pandrii000/hituav-a-highaltitude-infrared-thermal-dataset",
+  "id_no": 2859502,
+  "datasetSlugNullable": "hituav-a-highaltitude-infrared-thermal-dataset",
+  "ownerUserNullable": "pandrii000",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "HIT-UAV: A High-altitude Infrared Thermal Dataset",
+  "subtitleNullable": "A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles",
+  "descriptionNullable": "The HIT-UAV contains 2898 infrared thermal images extracted from 43470 frames, captured by UAV from different scenes (schools, parking lots, roads, playgrounds, etc.), covering a wide range of aspects including objects (Person, Bicycle, Car, OtherVehicle), flight altitude data (from 60 to 130 meters), camera perspective data (from 30 to 90 degrees), and daylight intensity (day and night).\n\nThe data was downloaded from GitHub: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset. It was originally presented in Suo, Jiashun, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, and Weisong Shi. \u201cHIT-UAV: A High-Altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles.\u201d arXiv, April 7, 2022. http://arxiv.org/abs/2204.03245.\n\nThe original data was stored in two formats: COCO and PASCAL VOC. We have transformed the data into the YOLO format (class_id x_center y_center width height).",
+  "datasetId": 2859502,
+  "datasetSlug": "hituav-a-highaltitude-infrared-thermal-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pandrii000",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11373,
+  "totalVotes": 31,
+  "totalDownloads": 1229,
+  "title": "HIT-UAV: A High-altitude Infrared Thermal Dataset",
+  "hasTitle": true,
+  "subtitle": "A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles",
+  "hasSubtitle": true,
+  "description": "The HIT-UAV contains 2898 infrared thermal images extracted from 43470 frames, captured by UAV from different scenes (schools, parking lots, roads, playgrounds, etc.), covering a wide range of aspects including objects (Person, Bicycle, Car, OtherVehicle), flight altitude data (from 60 to 130 meters), camera perspective data (from 30 to 90 degrees), and daylight intensity (day and night).\n\nThe data was downloaded from GitHub: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset. It was originally presented in Suo, Jiashun, Tianyi Wang, Xingzhou Zhang, Haiyang Chen, Wei Zhou, and Weisong Shi. \u201cHIT-UAV: A High-Altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles.\u201d arXiv, April 7, 2022. http://arxiv.org/abs/2204.03245.\n\nThe original data was stored in two formats: COCO and PASCAL VOC. We have transformed the data into the YOLO format (class_id x_center y_center width height).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "eyes and vision",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

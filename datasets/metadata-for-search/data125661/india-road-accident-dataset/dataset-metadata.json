@@ -1,0 +1,37 @@
+{
+  "id": "data125661/india-road-accident-dataset",
+  "id_no": 2849327,
+  "datasetSlugNullable": "india-road-accident-dataset",
+  "ownerUserNullable": "data125661",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "India Road accident Data-set",
+  "subtitleNullable": "",
+  "descriptionNullable": "the Ministry of Road Transport and Highways of the Government of India releases annual reports on road accidents and casualties in the country. Additionally, many state governments also release data on road accidents within their jurisdiction.\nThere are many potential causes of road accidents, including:\nDistracted driving (e.g. using a cell phone, eating, or applying makeup while driving)\nImpaired driving (e.g. driving under the influence of alcohol or drugs)\nReckless or aggressive driving (e.g. speeding, tailgating, or running red lights)\nFatigue or drowsy driving\nPoor road conditions (e.g. potholes, debris, or lack of proper signage)\nVehicle defects or malfunctions\nPoor weather conditions (e.g. rain, snow, or fog)\nInadequate infrastructure (e.g. lack of proper lighting, median barriers, or guardrails)\nPedestrian or bicycle errors\nWildlife crossing the road.\nThere are several datasets available on road accidents, depending on the country and region. Here are a few examples:\n\nIn the United States, the National Highway Traffic Safety Administration (NHTSA) provides data on vehicle crashes, including details such as the location, cause, and number of injuries and fatalities.\nThe United Kingdom's Department for Transport provides data on reported road accidents, including information on the type of vehicle, number of casualties, and severity of injuries.\nThe World Health Organization (WHO) also has a Global Status Report on Road Safety, which provides data on road accidents and fatalities for countries around the world.\nIn India, the Ministry of Road Transport and Highways (MoRTH) provides annual data on road accidents and fatalities.\nThe Global Road Safety Partnership (GRSP) also has a wealth of data on road accidents and fatalities, particularly in low- and middle-income countries.\nIt is important to note that these datasets may have different data collection methodologies, and may not include all road accidents that have occurred.",
+  "datasetId": 2849327,
+  "datasetSlug": "india-road-accident-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "data125661",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 7063,
+  "totalVotes": 16,
+  "totalDownloads": 1514,
+  "title": "India Road accident Data-set",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "the Ministry of Road Transport and Highways of the Government of India releases annual reports on road accidents and casualties in the country. Additionally, many state governments also release data on road accidents within their jurisdiction.\nThere are many potential causes of road accidents, including:\nDistracted driving (e.g. using a cell phone, eating, or applying makeup while driving)\nImpaired driving (e.g. driving under the influence of alcohol or drugs)\nReckless or aggressive driving (e.g. speeding, tailgating, or running red lights)\nFatigue or drowsy driving\nPoor road conditions (e.g. potholes, debris, or lack of proper signage)\nVehicle defects or malfunctions\nPoor weather conditions (e.g. rain, snow, or fog)\nInadequate infrastructure (e.g. lack of proper lighting, median barriers, or guardrails)\nPedestrian or bicycle errors\nWildlife crossing the road.\nThere are several datasets available on road accidents, depending on the country and region. Here are a few examples:\n\nIn the United States, the National Highway Traffic Safety Administration (NHTSA) provides data on vehicle crashes, including details such as the location, cause, and number of injuries and fatalities.\nThe United Kingdom's Department for Transport provides data on reported road accidents, including information on the type of vehicle, number of casualties, and severity of injuries.\nThe World Health Organization (WHO) also has a Global Status Report on Road Safety, which provides data on road accidents and fatalities for countries around the world.\nIn India, the Ministry of Road Transport and Highways (MoRTH) provides annual data on road accidents and fatalities.\nThe Global Road Safety Partnership (GRSP) also has a wealth of data on road accidents and fatalities, particularly in low- and middle-income countries.\nIt is important to note that these datasets may have different data collection methodologies, and may not include all road accidents that have occurred.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

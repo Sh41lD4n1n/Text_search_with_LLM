@@ -1,0 +1,43 @@
+{
+  "id": "kabilan03/dogbreedclassification",
+  "id_no": 1995372,
+  "datasetSlugNullable": "dogbreedclassification",
+  "ownerUserNullable": "kabilan03",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Dog Breed Classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains well organized images of  93 different dog breeds, with 6391 train images, 762 validation images and 887 test images. along with it's labels. You can try some Animal detection and Dog breed classification tasks using this.",
+  "datasetId": 1995372,
+  "datasetSlug": "dogbreedclassification",
+  "hasDatasetSlug": true,
+  "ownerUser": "kabilan03",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 4155,
+  "totalVotes": 6,
+  "totalDownloads": 302,
+  "title": "Dog Breed Classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains well organized images of  93 different dog breeds, with 6391 train images, 762 validation images and 887 test images. along with it's labels. You can try some Animal detection and Dog breed classification tasks using this.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "intermediate",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

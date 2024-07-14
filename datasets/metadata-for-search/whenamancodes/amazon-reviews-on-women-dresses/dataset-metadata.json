@@ -1,0 +1,43 @@
+{
+  "id": "whenamancodes/amazon-reviews-on-women-dresses",
+  "id_no": 2588296,
+  "datasetSlugNullable": "amazon-reviews-on-women-dresses",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Reviews on Women Dresses",
+  "subtitleNullable": "Analyzing Feedback Women Customers has given on dresses they'd bought",
+  "descriptionNullable": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. While one purchases a product, platform gives them the leverage to share the experience with their product. Through feedbacks of all kind, any platform seeks to get better and better and to satisfy their customers as best as they can. After analyzing what they rate the product as, what they write for it etc. etc. we can derive many patterns out of customers satisfaction sphere which can be taken care of in the future.\n\n### Data Dictionary\nThis single file contains 11 attributes.\n- s.no : Simply, the Index!\n- age : Age of the customer.\n- division_name : Division of the Cloth customer has bought\n- department_name : Department of the Cloth\n- class_name : Class of the Cloth in particular.\n- clothing_id : Clothing ID (Unique to a type of product)\n- title : Title customers write on their feedback/review text\n- review_text : Customer's Review Text\n- alikefeedbackcount : Number of other customers who agrees with the given feedback (as their - experience is quite the same)\n- rating : Rating or stars they've given to the product\n- recommend_index : Whether they'll recommend someone to buy the product or not (0: NO, 1:YES)",
+  "datasetId": 2588296,
+  "datasetSlug": "amazon-reviews-on-women-dresses",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9420,
+  "totalVotes": 35,
+  "totalDownloads": 1121,
+  "title": "Amazon Reviews on Women Dresses",
+  "hasTitle": true,
+  "subtitle": "Analyzing Feedback Women Customers has given on dresses they'd bought",
+  "hasSubtitle": true,
+  "description": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. While one purchases a product, platform gives them the leverage to share the experience with their product. Through feedbacks of all kind, any platform seeks to get better and better and to satisfy their customers as best as they can. After analyzing what they rate the product as, what they write for it etc. etc. we can derive many patterns out of customers satisfaction sphere which can be taken care of in the future.\n\n### Data Dictionary\nThis single file contains 11 attributes.\n- s.no : Simply, the Index!\n- age : Age of the customer.\n- division_name : Division of the Cloth customer has bought\n- department_name : Department of the Cloth\n- class_name : Class of the Cloth in particular.\n- clothing_id : Clothing ID (Unique to a type of product)\n- title : Title customers write on their feedback/review text\n- review_text : Customer's Review Text\n- alikefeedbackcount : Number of other customers who agrees with the given feedback (as their - experience is quite the same)\n- rating : Rating or stars they've given to the product\n- recommend_index : Whether they'll recommend someone to buy the product or not (0: NO, 1:YES)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "advanced",
+    "ratings and reviews",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

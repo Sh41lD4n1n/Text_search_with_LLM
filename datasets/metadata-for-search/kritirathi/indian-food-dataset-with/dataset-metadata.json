@@ -1,0 +1,40 @@
+{
+  "id": "kritirathi/indian-food-dataset-with",
+  "id_no": 3593011,
+  "datasetSlugNullable": "indian-food-dataset-with",
+  "ownerUserNullable": "kritirathi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Indian Food Dataset ",
+  "subtitleNullable": "Spice Tales: Exploring the Flavors of Indian Cuisine - An Indian Food Dataset",
+  "descriptionNullable": "Known for its aromatic spices, bold flavors, and regional specialties, Indian food is a delightful journey for the taste buds. From the tandoori delights of the North to the coconut-infused dishes of the South, each region offers a unique culinary experience. Indian cuisine not only caters to various palates but also holds a significant place in Indian traditions and celebrations.\nThis Dataset is inspired by the Dataset \"Indian Food 101\" By NEHA PRABHAVALKAR.\nIn addition to that, it also contains the image URLs for all the dishes.",
+  "datasetId": 3593011,
+  "datasetSlug": "indian-food-dataset-with",
+  "hasDatasetSlug": true,
+  "ownerUser": "kritirathi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6247,
+  "totalVotes": 32,
+  "totalDownloads": 1455,
+  "title": "Indian Food Dataset ",
+  "hasTitle": true,
+  "subtitle": "Spice Tales: Exploring the Flavors of Indian Cuisine - An Indian Food Dataset",
+  "hasSubtitle": true,
+  "description": "Known for its aromatic spices, bold flavors, and regional specialties, Indian food is a delightful journey for the taste buds. From the tandoori delights of the North to the coconut-infused dishes of the South, each region offers a unique culinary experience. Indian cuisine not only caters to various palates but also holds a significant place in Indian traditions and celebrations.\nThis Dataset is inspired by the Dataset \"Indian Food 101\" By NEHA PRABHAVALKAR.\nIn addition to that, it also contains the image URLs for all the dishes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cooking and recipes",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "frtgnn/football-coaching",
+  "id_no": 408550,
+  "datasetSlugNullable": "football-coaching",
+  "ownerUserNullable": "frtgnn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football - Coaching",
+  "subtitleNullable": "Coaching Dataset focused on Football",
+  "descriptionNullable": "A small dataset to help students try their data science abilities in the football domain.\n\nSeveral EDA and Predictive Workshops can be implemented using this dataset\n\nkeywords : coaching, footbal, performace , players, clubs",
+  "datasetId": 408550,
+  "datasetSlug": "football-coaching",
+  "hasDatasetSlug": true,
+  "ownerUser": "frtgnn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16256,
+  "totalVotes": 82,
+  "totalDownloads": 1419,
+  "title": "Football - Coaching",
+  "hasTitle": true,
+  "subtitle": "Coaching Dataset focused on Football",
+  "hasSubtitle": true,
+  "description": "A small dataset to help students try their data science abilities in the football domain.\n\nSeveral EDA and Predictive Workshops can be implemented using this dataset\n\nkeywords : coaching, footbal, performace , players, clubs",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

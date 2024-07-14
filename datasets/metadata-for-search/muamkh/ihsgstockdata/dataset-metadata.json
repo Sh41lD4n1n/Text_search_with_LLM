@@ -1,0 +1,43 @@
+{
+  "id": "muamkh/ihsgstockdata",
+  "id_no": 2087759,
+  "datasetSlugNullable": "ihsgstockdata",
+  "ownerUserNullable": "muamkh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Dataset Saham Indonesia / Indonesia Stock Dataset",
+  "subtitleNullable": "Contains all the stocks in Jakarta Composite Index/IHSG (minutes, hourly, daily)",
+  "descriptionNullable": "#Context\n\nThis dataset contains historical data of stocks listed on IHSG with time ranges per minutes, hourly, and daily. The source of the dataset is taken from Yahoo Finance's public data and the IDX website which is listed in the metadata tab. This dataset was created with the intention of academic research purposes and not to be commercialized. If you have questions about the dataset, please ask in the discussion tab.\nCode snippet: https://github.com/muamkh/IHSGstockscraper\n\n#Content\nStock minutes data is taken from 1 November 2021 until 6 January 2023.\nStock hourly data is taken from 16 April 2020 until 6 January 2023.\nStock daily data is taken from 16 April 2001 until 6 January 2023. \nAll of the data is using CSV format. Stock data isnt adjusted with dividend, stock split, and other corporate action.\n\n##Stocklist Structure\n- Code = Stock code\n- Name = Company name\n- ListingDate = Listing date of stock on Indonesia Stock Exchange\n- Shares = Amount of shares\n- ListingBoard = Board category (Main Board, Development Board or Acceleration). More info: https://www.idx.co.id/en-us/products/stocks/\n- Sector = Sector Category based on IDX-IC. More info: https://www.idx.co.id/en-us/products/stocks/\n- LastPrice = Last stock price\n- MarketCap = Market Capitalization.\n- MinutesFirstAdded = Date the data first retrieved in minute range\n- MinutesLastAdded = Date the data last retrieved in minute range\n- HourlyFirstAdded = Date the data first retrieved in hourly range\n- HourlyLastAdded = Date the data last retrieved in hourly range\n- DailyFirstAdded = Date the data first retrieved in daily range\n- DailyLastAdded = Date the data last retrieved in daily range\n\n##Struktur Data Saham\n- timestamp = Date and time of stock transaction\n- open = opening price\n- low = lowest price in the timespan\n- high = highest price in the timespan\n- close = closing price\n- volume = Total volume traded in the timespan",
+  "datasetId": 2087759,
+  "datasetSlug": "ihsgstockdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "muamkh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 19912,
+  "totalVotes": 63,
+  "totalDownloads": 3143,
+  "title": "Dataset Saham Indonesia / Indonesia Stock Dataset",
+  "hasTitle": true,
+  "subtitle": "Contains all the stocks in Jakarta Composite Index/IHSG (minutes, hourly, daily)",
+  "hasSubtitle": true,
+  "description": "#Context\n\nThis dataset contains historical data of stocks listed on IHSG with time ranges per minutes, hourly, and daily. The source of the dataset is taken from Yahoo Finance's public data and the IDX website which is listed in the metadata tab. This dataset was created with the intention of academic research purposes and not to be commercialized. If you have questions about the dataset, please ask in the discussion tab.\nCode snippet: https://github.com/muamkh/IHSGstockscraper\n\n#Content\nStock minutes data is taken from 1 November 2021 until 6 January 2023.\nStock hourly data is taken from 16 April 2020 until 6 January 2023.\nStock daily data is taken from 16 April 2001 until 6 January 2023. \nAll of the data is using CSV format. Stock data isnt adjusted with dividend, stock split, and other corporate action.\n\n##Stocklist Structure\n- Code = Stock code\n- Name = Company name\n- ListingDate = Listing date of stock on Indonesia Stock Exchange\n- Shares = Amount of shares\n- ListingBoard = Board category (Main Board, Development Board or Acceleration). More info: https://www.idx.co.id/en-us/products/stocks/\n- Sector = Sector Category based on IDX-IC. More info: https://www.idx.co.id/en-us/products/stocks/\n- LastPrice = Last stock price\n- MarketCap = Market Capitalization.\n- MinutesFirstAdded = Date the data first retrieved in minute range\n- MinutesLastAdded = Date the data last retrieved in minute range\n- HourlyFirstAdded = Date the data first retrieved in hourly range\n- HourlyLastAdded = Date the data last retrieved in hourly range\n- DailyFirstAdded = Date the data first retrieved in daily range\n- DailyLastAdded = Date the data last retrieved in daily range\n\n##Struktur Data Saham\n- timestamp = Date and time of stock transaction\n- open = opening price\n- low = lowest price in the timespan\n- high = highest price in the timespan\n- close = closing price\n- volume = Total volume traded in the timespan",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "economics",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

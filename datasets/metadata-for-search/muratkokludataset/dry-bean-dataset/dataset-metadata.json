@@ -1,0 +1,43 @@
+{
+  "id": "muratkokludataset/dry-bean-dataset",
+  "id_no": 2048855,
+  "datasetSlugNullable": "dry-bean-dataset",
+  "ownerUserNullable": "muratkokludataset",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Dry Bean Dataset",
+  "subtitleNullable": "7 - Class: Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira",
+  "descriptionNullable": "CV: https://www.muratkoklu.com/en/publications/\nDATASET: https://www.muratkoklu.com/datasets/\n\nCitation Requests / Acknowledgements:\nKOKLU, M. and OZKAN, I.A., (2020), Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques. Computers and Electronics in Agriculture, 174, 105507.\nDOI: https://doi.org/10.1016/j.compag.2020.105507\n\nData Set Name: Dry Bean Dataset\nAbstract: Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.\n\nRelevant Information:\nSeven different types of dry beans were used in this research, taking into account the features such as form, shape, type, and structure by the market situation. A computer vision system was developed to distinguish seven different registered varieties of dry beans with similar features in order to obtain uniform seed classification. For the classification model, images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. Bean images obtained by computer vision system were subjected to segmentation and feature extraction stages, and a total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.\n\nAttribute Information:\n1.) Area (A): The area of a bean zone and the number of pixels within its boundaries.\n2.) Perimeter (P): Bean circumference is defined as the length of its border.\n3.) Major axis length (L): The distance between the ends of the longest line that can be drawn from a bean.\n4.) Minor axis length (l): The longest line that can be drawn from the bean while standing perpendicular to the main axis.\n5.) Aspect ratio (K): Defines the relationship between L and l.\n6.) Eccentricity (Ec): Eccentricity of the ellipse having the same moments as the region.\n7.) Convex area (C): Number of pixels in the smallest convex polygon that can contain the area of a bean seed.\n8.) Equivalent diameter (Ed): The diameter of a circle having the same area as a bean seed area.\n9.) Extent (Ex): The ratio of the pixels in the bounding box to the bean area.\n10.)Solidity (S): Also known as convexity. The ratio of the pixels in the convex shell to those found in beans.\n11.)Roundness (R): Calculated with the following formula: (4piA)/(P^2)\n12.)Compactness (CO): Measures the roundness of an object: Ed/L\n13.)ShapeFactor1 (SF1)\n14.)ShapeFactor2 (SF2)\n15.)ShapeFactor3 (SF3)\n16.)ShapeFactor4 (SF4)\n17.)Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)\n\nDATASET: https://www.muratkoklu.com/datasets/\nhttps://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset\n\nRelevant Papers:\nKOKLU, M. and OZKAN, I.A., (2020), Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques. Computers and Electronics in Agriculture, 174, 105507.\nDOI: https://doi.org/10.1016/j.compag.2020.105507\n\nCitation Requests / Acknowledgements:\nKOKLU, M. and OZKAN, I.A., (2020), Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques. Computers and Electronics in Agriculture, 174, 105507.\nDOI: https://doi.org/10.1016/j.compag.2020.105507",
+  "datasetId": 2048855,
+  "datasetSlug": "dry-bean-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muratkokludataset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 37623,
+  "totalVotes": 1484,
+  "totalDownloads": 4006,
+  "title": "Dry Bean Dataset",
+  "hasTitle": true,
+  "subtitle": "7 - Class: Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira",
+  "hasSubtitle": true,
+  "description": "CV: https://www.muratkoklu.com/en/publications/\nDATASET: https://www.muratkoklu.com/datasets/\n\nCitation Requests / Acknowledgements:\nKOKLU, M. and OZKAN, I.A., (2020), Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques. Computers and Electronics in Agriculture, 174, 105507.\nDOI: https://doi.org/10.1016/j.compag.2020.105507\n\nData Set Name: Dry Bean Dataset\nAbstract: Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.\n\nRelevant Information:\nSeven different types of dry beans were used in this research, taking into account the features such as form, shape, type, and structure by the market situation. A computer vision system was developed to distinguish seven different registered varieties of dry beans with similar features in order to obtain uniform seed classification. For the classification model, images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. Bean images obtained by computer vision system were subjected to segmentation and feature extraction stages, and a total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.\n\nAttribute Information:\n1.) Area (A): The area of a bean zone and the number of pixels within its boundaries.\n2.) Perimeter (P): Bean circumference is defined as the length of its border.\n3.) Major axis length (L): The distance between the ends of the longest line that can be drawn from a bean.\n4.) Minor axis length (l): The longest line that can be drawn from the bean while standing perpendicular to the main axis.\n5.) Aspect ratio (K): Defines the relationship between L and l.\n6.) Eccentricity (Ec): Eccentricity of the ellipse having the same moments as the region.\n7.) Convex area (C): Number of pixels in the smallest convex polygon that can contain the area of a bean seed.\n8.) Equivalent diameter (Ed): The diameter of a circle having the same area as a bean seed area.\n9.) Extent (Ex): The ratio of the pixels in the bounding box to the bean area.\n10.)Solidity (S): Also known as convexity. The ratio of the pixels in the convex shell to those found in beans.\n11.)Roundness (R): Calculated with the following formula: (4piA)/(P^2)\n12.)Compactness (CO): Measures the roundness of an object: Ed/L\n13.)ShapeFactor1 (SF1)\n14.)ShapeFactor2 (SF2)\n15.)ShapeFactor3 (SF3)\n16.)ShapeFactor4 (SF4)\n17.)Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)\n\nDATASET: https://www.muratkoklu.com/datasets/\nhttps://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset\n\nRelevant Papers:\nKOKLU, M. and OZKAN, I.A., (2020), Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques. Computers and Electronics in Agriculture, 174, 105507.\nDOI: https://doi.org/10.1016/j.compag.2020.105507\n\nCitation Requests / Acknowledgements:\nKOKLU, M. and OZKAN, I.A., (2020), Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques. Computers and Electronics in Agriculture, 174, 105507.\nDOI: https://doi.org/10.1016/j.compag.2020.105507",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "computer science",
+    "computer vision",
+    "classification",
+    "clustering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

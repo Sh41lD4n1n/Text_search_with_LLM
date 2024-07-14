@@ -1,0 +1,39 @@
+{
+  "id": "saishravan5476/sentinel",
+  "id_no": 5297306,
+  "datasetSlugNullable": "sentinel",
+  "ownerUserNullable": "saishravan5476",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "sentinel",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5297306,
+  "datasetSlug": "sentinel",
+  "hasDatasetSlug": true,
+  "ownerUser": "saishravan5476",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 1,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "sentinel",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "leninprez/a-case-study-bike-share",
+  "id_no": 5000635,
+  "datasetSlugNullable": "a-case-study-bike-share",
+  "ownerUserNullable": "leninprez",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "A Case Study: Bike Share",
+  "subtitleNullable": "Divvy tripdata on bike 2023 ",
+  "descriptionNullable": "",
+  "datasetId": 5000635,
+  "datasetSlug": "a-case-study-bike-share",
+  "hasDatasetSlug": true,
+  "ownerUser": "leninprez",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 17,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "A Case Study: Bike Share",
+  "hasTitle": true,
+  "subtitle": "Divvy tripdata on bike 2023 ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data analytics",
+    "tabular",
+    "tidyverse",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

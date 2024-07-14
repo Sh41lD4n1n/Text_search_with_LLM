@@ -1,0 +1,41 @@
+{
+  "id": "danagerous/sleep-data",
+  "id_no": 17953,
+  "datasetSlugNullable": "sleep-data",
+  "ownerUserNullable": "danagerous",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Sleep Data",
+  "subtitleNullable": "Personal Sleep Data from Sleep Cycle iOS App",
+  "descriptionNullable": "### Context\n\nSleep data collected via the Sleep Cycle iOS app.\n\n\n### Content\n\nThe data was acquired between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS.\n\nNew dataset uploaded April 2022 from the same app and vendor. Continuation of the data from 2018 to 2022.\n\n\n### Acknowledgements\n\nI would like to acknowledge my comfortable bed and pillow for making this happen.\n\n\n### Inspiration\n\nJust wanted to look at data I collected vs. data collected by others. Not sure what I'm going to do with this data yet or how I want to view it as I am new to data science and machine learning.\n\n### My Data Used For Research Project\n\n[From 887 days of sleep data to personalized suggestion](https://www.linkedin.com/pulse/from-887-days-sleep-data-personalized-suggestion-xiao-yang-ph-d-/?published=t&trackingId=9UK0bpgeSpaVQ3iu96iAAw%3D%3D)",
+  "datasetId": 17953,
+  "datasetSlug": "sleep-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "danagerous",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 82321,
+  "totalVotes": 110,
+  "totalDownloads": 8233,
+  "title": "Sleep Data",
+  "hasTitle": true,
+  "subtitle": "Personal Sleep Data from Sleep Cycle iOS App",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSleep data collected via the Sleep Cycle iOS app.\n\n\n### Content\n\nThe data was acquired between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS.\n\nNew dataset uploaded April 2022 from the same app and vendor. Continuation of the data from 2018 to 2022.\n\n\n### Acknowledgements\n\nI would like to acknowledge my comfortable bed and pillow for making this happen.\n\n\n### Inspiration\n\nJust wanted to look at data I collected vs. data collected by others. Not sure what I'm going to do with this data yet or how I want to view it as I am new to data science and machine learning.\n\n### My Data Used For Research Project\n\n[From 887 days of sleep data to personalized suggestion](https://www.linkedin.com/pulse/from-887-days-sleep-data-personalized-suggestion-xiao-yang-ph-d-/?published=t&trackingId=9UK0bpgeSpaVQ3iu96iAAw%3D%3D)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

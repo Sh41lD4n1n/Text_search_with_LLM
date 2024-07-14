@@ -1,0 +1,39 @@
+{
+  "id": "ssivasantosh/imdb-in-top-1000-movies-feb-2022",
+  "id_no": 1956489,
+  "datasetSlugNullable": "imdb-in-top-1000-movies-feb-2022",
+  "ownerUserNullable": "ssivasantosh",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Imdb (IN) top 1000 movies Feb 2022",
+  "subtitleNullable": "This data consists of top 1000 movies from IMdb",
+  "descriptionNullable": "Top 1000 movies from IMDb have been scraped using the python script, here is how I had gathered the information https://www.youtube.com/watch?v=ieQAbrXvfwY The following dataset consists: Movie Name, Year of Release , Watch Time, Movie Rating, Metascore of votes, Votes, Gross, Description",
+  "datasetId": 1956489,
+  "datasetSlug": "imdb-in-top-1000-movies-feb-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "ssivasantosh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1483,
+  "totalVotes": 8,
+  "totalDownloads": 122,
+  "title": "Imdb (IN) top 1000 movies Feb 2022",
+  "hasTitle": true,
+  "subtitle": "This data consists of top 1000 movies from IMdb",
+  "hasSubtitle": true,
+  "description": "Top 1000 movies from IMDb have been scraped using the python script, here is how I had gathered the information https://www.youtube.com/watch?v=ieQAbrXvfwY The following dataset consists: Movie Name, Year of Release , Watch Time, Movie Rating, Metascore of votes, Votes, Gross, Description",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

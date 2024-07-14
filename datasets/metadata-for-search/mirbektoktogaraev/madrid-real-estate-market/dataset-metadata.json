@@ -1,0 +1,45 @@
+{
+  "id": "mirbektoktogaraev/madrid-real-estate-market",
+  "id_no": 609112,
+  "datasetSlugNullable": "madrid-real-estate-market",
+  "ownerUserNullable": "mirbektoktogaraev",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Madrid real estate market",
+  "subtitleNullable": "Real estate listings in Madrid crawled from popular internet portals",
+  "descriptionNullable": "### Context\n\nThe dataset consist listings from popular real estate portals of Madrid.\n\nLOCATION\nMadrid is one of the most visited cities in Europe both by tourists and businesspeople, and it\u2019s where many important local and multinational companies have their headquarters. Therefore Madrid enjoys both a large influx of tourists as well as people seeking to live and work in the city to give their professional careers a boost.\n\nATTRACTIVE PRICES\nThe real estate market has been in a growth phase for a few years now, which means that you can still find properties at very attractive prices (especially compared to other European capitals) but with still good chances of their value appreciating in the future.\n\nHOUSE TYPES\nIndividual homes are not common in the city center but do exist in the suburbs. Madrid also has a mix of new construction and existing apartments. Real estate prices in capital cities are generally the most expensive in a country, but it's not the case in Spain. The cost of property in Madrid is well below that of Barcelona and coastal areas.\n\n\n### Content\n\nShape of the data:  21742 rows and  58 columns\n\n### Data Dictionary\n\nVariable Name | Description\n| --- | --- |\nID | Identifier ID  \ntitle | Title from listing\nsubtitle | Neighborhood and city\nsq_mt_built | Square meter built\nsq_mt_useful |  Square meter useful \nn_rooms | Number of rooms\nn_bathrooms | Number of bathrooms\nsq_mt_allotment | Square meter allotment\nlatitude,  longitude | Latitude,  Longitude (Since portals hide the location mainly NAs)\nraw_address | Address\nis_exact_address_hidden | Boolean values\nbuy_price | Target Value\n\n### Inspiration\n\nGood luck with predictions!",
+  "datasetId": 609112,
+  "datasetSlug": "madrid-real-estate-market",
+  "hasDatasetSlug": true,
+  "ownerUser": "mirbektoktogaraev",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23427,
+  "totalVotes": 40,
+  "totalDownloads": 2992,
+  "title": "Madrid real estate market",
+  "hasTitle": true,
+  "subtitle": "Real estate listings in Madrid crawled from popular internet portals",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset consist listings from popular real estate portals of Madrid.\n\nLOCATION\nMadrid is one of the most visited cities in Europe both by tourists and businesspeople, and it\u2019s where many important local and multinational companies have their headquarters. Therefore Madrid enjoys both a large influx of tourists as well as people seeking to live and work in the city to give their professional careers a boost.\n\nATTRACTIVE PRICES\nThe real estate market has been in a growth phase for a few years now, which means that you can still find properties at very attractive prices (especially compared to other European capitals) but with still good chances of their value appreciating in the future.\n\nHOUSE TYPES\nIndividual homes are not common in the city center but do exist in the suburbs. Madrid also has a mix of new construction and existing apartments. Real estate prices in capital cities are generally the most expensive in a country, but it's not the case in Spain. The cost of property in Madrid is well below that of Barcelona and coastal areas.\n\n\n### Content\n\nShape of the data:  21742 rows and  58 columns\n\n### Data Dictionary\n\nVariable Name | Description\n| --- | --- |\nID | Identifier ID  \ntitle | Title from listing\nsubtitle | Neighborhood and city\nsq_mt_built | Square meter built\nsq_mt_useful |  Square meter useful \nn_rooms | Number of rooms\nn_bathrooms | Number of bathrooms\nsq_mt_allotment | Square meter allotment\nlatitude,  longitude | Latitude,  Longitude (Since portals hide the location mainly NAs)\nraw_address | Address\nis_exact_address_hidden | Boolean values\nbuy_price | Target Value\n\n### Inspiration\n\nGood luck with predictions!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "matthiaz",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

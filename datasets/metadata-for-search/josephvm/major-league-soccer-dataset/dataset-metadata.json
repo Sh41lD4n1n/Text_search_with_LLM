@@ -1,0 +1,43 @@
+{
+  "id": "josephvm/major-league-soccer-dataset",
+  "id_no": 805783,
+  "datasetSlugNullable": "major-league-soccer-dataset",
+  "ownerUserNullable": "josephvm",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Major League Soccer Dataset",
+  "subtitleNullable": "Player stats, game stats, game events, and tables for MLS",
+  "descriptionNullable": "### Overview\n\n**NOTE:** As of now, the source of player data that I had used has changed. So unless I find a new source/figure out how to retrieve it from the changed website, that part of the dataset won't be updated anymore. The tables, matches, and events parts are all fine and will be updated around midweek while the season is going. \n\n**NOTE:** Version 31 doesn't contain an updated table. I will try to soon either fix how I get it or just compute that information based on the game data. \n\nThis dataset contains player, game, event, and table data from Major League Soccer (MLS). \n\nThere is currently information on over 6000 matches and almost 420,000 events from those matches. \n\nFor an introduction to the data, check out this [kernel](https://www.kaggle.com/josephvm/mls-data-examples). \nFor a quick overview of what data is available for what years, visit [this spreadsheet](https://docs.google.com/spreadsheets/d/1GqkQp7YmCXxu56xZg1Yp30rKPUOu3zY2WklK5WknGd4/edit?usp=sharing)\n\n### Player Data\n- all_goalkeepers.csv - all goalkeeper data from every season of MLS through 2020\n- all_players.csv - all outfield player data from every season of MLS through 2020\n\n### Game Data\n- matches.csv - match data from the 2001-2021 seasons\n\n### Event Data\n- events.csv - events from games from the 2008-2021 seasons\n\n### Tables\n- all_tables.csv - end of season / current standing of tables for every season through 2021\n\n### Dataset Updates\nV21 - all\\_tables.csv updated, now has 1996-2020 and additional columns; includes a section for each conference and then (for most years) an overall table as well\nV8 - matches.csv now 1996-2020 (dates look a little different for this period)\nV4 - all updated with matches through 8/17/2020 (except all_tables.csv, webpage with the table seems to be down)\nV3 - events.csv and matches.csv now 2001-2020 (events only available for 2008 onwards)\nV2 - events.csv and matches.csv now 2012-2020\n\nI plan to update this dataset weekly while MLS games are being played. \n\n### Acknowledgements\nImage: https://www.houstondynamo.com/post/2020/06/10/mls-back-all-26-teams-resume-season-espn-wide-world-sports-starting-july-8\nPlayer Data: https://www.mlssoccer.com/stats\nMatch Data 1996-2000: https://fbref.com/en/comps/22/44/schedule/2000-Major-League-Soccer-Scores-and-Fixtures\nTable Data: https://en.wikipedia.org/wiki/1996_Major_League_Soccer_season\nOther Data: https://www.espn.com/soccer/league/_/name/usa.1/\n\nAll data was scraped from the above two sources by me. My code is [here](https://github.com/jvmohr/dataScience/tree/master/Soccer/MLS_Data).\n\n### Inspiration\nThere's a myriad of questions that can be asked about soccer teams and players. \n- What stats impact the chances of a team winning the most?\n- Which players have the best win rate and worst win rate over the years?\n- Which goalkeepers have performed the best?\netc.",
+  "datasetId": 805783,
+  "datasetSlug": "major-league-soccer-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "josephvm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 35134,
+  "totalVotes": 81,
+  "totalDownloads": 3738,
+  "title": "Major League Soccer Dataset",
+  "hasTitle": true,
+  "subtitle": "Player stats, game stats, game events, and tables for MLS",
+  "hasSubtitle": true,
+  "description": "### Overview\n\n**NOTE:** As of now, the source of player data that I had used has changed. So unless I find a new source/figure out how to retrieve it from the changed website, that part of the dataset won't be updated anymore. The tables, matches, and events parts are all fine and will be updated around midweek while the season is going. \n\n**NOTE:** Version 31 doesn't contain an updated table. I will try to soon either fix how I get it or just compute that information based on the game data. \n\nThis dataset contains player, game, event, and table data from Major League Soccer (MLS). \n\nThere is currently information on over 6000 matches and almost 420,000 events from those matches. \n\nFor an introduction to the data, check out this [kernel](https://www.kaggle.com/josephvm/mls-data-examples). \nFor a quick overview of what data is available for what years, visit [this spreadsheet](https://docs.google.com/spreadsheets/d/1GqkQp7YmCXxu56xZg1Yp30rKPUOu3zY2WklK5WknGd4/edit?usp=sharing)\n\n### Player Data\n- all_goalkeepers.csv - all goalkeeper data from every season of MLS through 2020\n- all_players.csv - all outfield player data from every season of MLS through 2020\n\n### Game Data\n- matches.csv - match data from the 2001-2021 seasons\n\n### Event Data\n- events.csv - events from games from the 2008-2021 seasons\n\n### Tables\n- all_tables.csv - end of season / current standing of tables for every season through 2021\n\n### Dataset Updates\nV21 - all\\_tables.csv updated, now has 1996-2020 and additional columns; includes a section for each conference and then (for most years) an overall table as well\nV8 - matches.csv now 1996-2020 (dates look a little different for this period)\nV4 - all updated with matches through 8/17/2020 (except all_tables.csv, webpage with the table seems to be down)\nV3 - events.csv and matches.csv now 2001-2020 (events only available for 2008 onwards)\nV2 - events.csv and matches.csv now 2012-2020\n\nI plan to update this dataset weekly while MLS games are being played. \n\n### Acknowledgements\nImage: https://www.houstondynamo.com/post/2020/06/10/mls-back-all-26-teams-resume-season-espn-wide-world-sports-starting-july-8\nPlayer Data: https://www.mlssoccer.com/stats\nMatch Data 1996-2000: https://fbref.com/en/comps/22/44/schedule/2000-Major-League-Soccer-Scores-and-Fixtures\nTable Data: https://en.wikipedia.org/wiki/1996_Major_League_Soccer_season\nOther Data: https://www.espn.com/soccer/league/_/name/usa.1/\n\nAll data was scraped from the above two sources by me. My code is [here](https://github.com/jvmohr/dataScience/tree/master/Soccer/MLS_Data).\n\n### Inspiration\nThere's a myriad of questions that can be asked about soccer teams and players. \n- What stats impact the chances of a team winning the most?\n- Which players have the best win rate and worst win rate over the years?\n- Which goalkeepers have performed the best?\netc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "united states",
+    "sports",
+    "online communities",
+    "canada"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

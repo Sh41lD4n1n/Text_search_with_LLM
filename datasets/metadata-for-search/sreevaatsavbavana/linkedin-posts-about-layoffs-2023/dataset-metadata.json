@@ -1,0 +1,40 @@
+{
+  "id": "sreevaatsavbavana/linkedin-posts-about-layoffs-2023",
+  "id_no": 5296964,
+  "datasetSlugNullable": "linkedin-posts-about-layoffs-2023",
+  "ownerUserNullable": "sreevaatsavbavana",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "LinkedIn Posts about Layoffs (2023)",
+  "subtitleNullable": "Huge corpus of textual data about LinkedIn posts related to layoffs ",
+  "descriptionNullable": "This dataset contains around 136k posts scrapped form linkedIn from Dec 2022 to May 2023, specifically about the mass layoffs which have occurred during that time.\n\nThe data was scraped on a regular basis through the time period and many of the entries were deduplicated for better usability. ",
+  "datasetId": 5296964,
+  "datasetSlug": "linkedin-posts-about-layoffs-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "sreevaatsavbavana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "LinkedIn Posts about Layoffs (2023)",
+  "hasTitle": true,
+  "subtitle": "Huge corpus of textual data about LinkedIn posts related to layoffs ",
+  "hasSubtitle": true,
+  "description": "This dataset contains around 136k posts scrapped form linkedIn from Dec 2022 to May 2023, specifically about the mass layoffs which have occurred during that time.\n\nThe data was scraped on a regular basis through the time period and many of the entries were deduplicated for better usability. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

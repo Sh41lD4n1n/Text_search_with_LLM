@@ -1,0 +1,40 @@
+{
+  "id": "hasibzunair/rsud20k-bangladesh-road-scene-understanding",
+  "id_no": 4391569,
+  "datasetSlugNullable": "rsud20k-bangladesh-road-scene-understanding",
+  "ownerUserNullable": "hasibzunair",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "RSUD20K: Bangladesh Road Scenes Dataset",
+  "subtitleNullable": "RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving",
+  "descriptionNullable": "## RSUD20K\n\n**Concordia University**\n\nHasib Zunair, Shakib Khan, A. Ben Hamza\n\n[[`Paper`](https://arxiv.org/abs/2401.07322)] [[`Dataset`](https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding)]\n\n**Here's a collage of outputs of RSUD20K trained model in action! Play in 4K for best results.**\n[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pdRXa10SrAc/0.jpg)](https://www.youtube.com/watch?v=pdRXa10SrAc)\n\nThis is official code for our **paper under review at ICIP 2024**:<br>\n[RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving](https://arxiv.org/abs/2401.07322)\n<br>\n\nRSUD20K is a new object detection dataset for road scene understanding, comprised of over **20K** high-resolution images from the driving perspective on Bangladesh roads, and includes **130K** bounding box annotations for **13** objects. RSUD20K consists of the following classes for multi-class object detection:\n\n```bash\n# classes.txt\nperson\nrickshaw\nrickshaw van\nauto rickshaw\ntruck\npickup truck\nprivate car\nmotorcycle\nbicycle\nbus\nmicro bus\ncovered van\nhuman hauler\n```\n\nFor details on format, see [here](https://github.com/meituan/YOLOv6/blob/main/docs/Train_custom_data.md#1-prepare-your-own-dataset).\n\n**Dataset statistics**:\n\n| Name  | Number of images/label pairs |\n| ------------- | ------------- |\n| `train`  | 3985 |\n| `val`  | 1004 |\n| `test`  | 649 |\n| `pseudo` (used for training)  | 14696 |\n\n\nAll code and pre-trained models for reproducibility are available in [GitHub](https://github.com/hasibzunair/RSUD20K).\n",
+  "datasetId": 4391569,
+  "datasetSlug": "rsud20k-bangladesh-road-scene-understanding",
+  "hasDatasetSlug": true,
+  "ownerUser": "hasibzunair",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1256,
+  "totalVotes": 7,
+  "totalDownloads": 146,
+  "title": "RSUD20K: Bangladesh Road Scenes Dataset",
+  "hasTitle": true,
+  "subtitle": "RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving",
+  "hasSubtitle": true,
+  "description": "## RSUD20K\n\n**Concordia University**\n\nHasib Zunair, Shakib Khan, A. Ben Hamza\n\n[[`Paper`](https://arxiv.org/abs/2401.07322)] [[`Dataset`](https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding)]\n\n**Here's a collage of outputs of RSUD20K trained model in action! Play in 4K for best results.**\n[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pdRXa10SrAc/0.jpg)](https://www.youtube.com/watch?v=pdRXa10SrAc)\n\nThis is official code for our **paper under review at ICIP 2024**:<br>\n[RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving](https://arxiv.org/abs/2401.07322)\n<br>\n\nRSUD20K is a new object detection dataset for road scene understanding, comprised of over **20K** high-resolution images from the driving perspective on Bangladesh roads, and includes **130K** bounding box annotations for **13** objects. RSUD20K consists of the following classes for multi-class object detection:\n\n```bash\n# classes.txt\nperson\nrickshaw\nrickshaw van\nauto rickshaw\ntruck\npickup truck\nprivate car\nmotorcycle\nbicycle\nbus\nmicro bus\ncovered van\nhuman hauler\n```\n\nFor details on format, see [here](https://github.com/meituan/YOLOv6/blob/main/docs/Train_custom_data.md#1-prepare-your-own-dataset).\n\n**Dataset statistics**:\n\n| Name  | Number of images/label pairs |\n| ------------- | ------------- |\n| `train`  | 3985 |\n| `val`  | 1004 |\n| `test`  | 649 |\n| `pseudo` (used for training)  | 14696 |\n\n\nAll code and pre-trained models for reproducibility are available in [GitHub](https://github.com/hasibzunair/RSUD20K).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

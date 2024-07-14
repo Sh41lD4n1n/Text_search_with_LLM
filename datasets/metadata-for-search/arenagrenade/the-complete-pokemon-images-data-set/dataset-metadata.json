@@ -1,0 +1,41 @@
+{
+  "id": "arenagrenade/the-complete-pokemon-images-data-set",
+  "id_no": 1392907,
+  "datasetSlugNullable": "the-complete-pokemon-images-data-set",
+  "ownerUserNullable": "arenagrenade",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "The Complete Pokemon Images Data Set",
+  "subtitleNullable": "A collection of 898 images of all the Pokemons taken from the Pokedex database.",
+  "descriptionNullable": "### Context\n\nAs necessity is the mother of all invention, this data set was a necessity for a personal project on matching Pokemon images. No other data set had been recently updated and hence this data set was born.\n\n### Content\n\nThere are around 898 \"name.png\" files present in this folder. The file name holds the name of the pokemon in the picture.\n\n### Acknowledgements\n\nI solely thank Sanjai Kumaran, for getting me involved with the pokemon matching project in the first place, which down the timeline brings you this dataset.\n\n### Inspiration\n\nGiven some statistics and features of an unknown pokemon, predicting how that pokemon would look like would be a challenging task, once the next versions of this dataset is released.\n\n### Future Work\nWould add a way to easily scrape stats and details about the pokemons. Transforming these features to pokemons would be an interesting problem to explore.",
+  "datasetId": 1392907,
+  "datasetSlug": "the-complete-pokemon-images-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "arenagrenade",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 36930,
+  "totalVotes": 80,
+  "totalDownloads": 3551,
+  "title": "The Complete Pokemon Images Data Set",
+  "hasTitle": true,
+  "subtitle": "A collection of 898 images of all the Pokemons taken from the Pokedex database.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAs necessity is the mother of all invention, this data set was a necessity for a personal project on matching Pokemon images. No other data set had been recently updated and hence this data set was born.\n\n### Content\n\nThere are around 898 \"name.png\" files present in this folder. The file name holds the name of the pokemon in the picture.\n\n### Acknowledgements\n\nI solely thank Sanjai Kumaran, for getting me involved with the pokemon matching project in the first place, which down the timeline brings you this dataset.\n\n### Inspiration\n\nGiven some statistics and features of an unknown pokemon, predicting how that pokemon would look like would be a challenging task, once the next versions of this dataset is released.\n\n### Future Work\nWould add a way to easily scrape stats and details about the pokemons. Transforming these features to pokemons would be an interesting problem to explore.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "aryannanda17/masked-gesture-dataset",
+  "id_no": 3951023,
+  "datasetSlugNullable": "masked-gesture-dataset",
+  "ownerUserNullable": "aryannanda17",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Masked Gesture Dataset",
+  "subtitleNullable": "A dataset comprising 14,000 images of hand gestures.",
+  "descriptionNullable": "A dataset comprising 14,000 images of hand gestures has been created. These images were manually captured. The dataset, as yet unnamed, offers a substantial resource for various applications in computer vision and machine learning, particularly in the realm of gesture recognition and sign language interpretation. The dataset's size and diversity make it a valuable asset for researchers and developers.\n\nPotential uses for this dataset include training and evaluating machine learning models for gesture recognition, enabling research in computer vision, supporting accessibility and assistive technology development, and contributing to educational and research initiatives. Depending on the dataset's licensing and labeling, it can be made publicly available for broader use within the research community, fostering advancements in the field.\n\nDocumentation, labeling, and clear licensing terms are essential considerations for sharing the dataset with the wider community.\n\n\n\n\n",
+  "datasetId": 3951023,
+  "datasetSlug": "masked-gesture-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aryannanda17",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 131,
+  "totalVotes": 1,
+  "totalDownloads": 12,
+  "title": "Masked Gesture Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset comprising 14,000 images of hand gestures.",
+  "hasSubtitle": true,
+  "description": "A dataset comprising 14,000 images of hand gestures has been created. These images were manually captured. The dataset, as yet unnamed, offers a substantial resource for various applications in computer vision and machine learning, particularly in the realm of gesture recognition and sign language interpretation. The dataset's size and diversity make it a valuable asset for researchers and developers.\n\nPotential uses for this dataset include training and evaluating machine learning models for gesture recognition, enabling research in computer vision, supporting accessibility and assistive technology development, and contributing to educational and research initiatives. Depending on the dataset's licensing and labeling, it can be made publicly available for broader use within the research community, fostering advancements in the field.\n\nDocumentation, labeling, and clear licensing terms are essential considerations for sharing the dataset with the wider community.\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

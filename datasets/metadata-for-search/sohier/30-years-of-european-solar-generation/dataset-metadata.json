@@ -1,0 +1,40 @@
+{
+  "id": "sohier/30-years-of-european-solar-generation",
+  "id_no": 2489,
+  "datasetSlugNullable": "30-years-of-european-solar-generation",
+  "ownerUserNullable": "sohier",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "30 Years of European Solar Generation",
+  "subtitleNullable": "Hourly energy potential for 1986-2015",
+  "descriptionNullable": "This dataset contains hourly estimates of an area's energy potential for 1986-2015 as a percentage of a power plant's maximum output.\n\nThe overall scope of EMHIRES is to allow users to assess the impact of meteorological\nand climate variability on the generation of solar power in Europe and not to mime the\nactual evolution of solar power production in the latest decades. For this reason, the\nhourly solar power generation time series are released for meteorological conditions of\nthe years 1986-2015 (30 years) without considering any changes in the solar installed\ncapacity. Thus, the installed capacity considered is fixed as the one installed at the end of\n2015. For this reason, data from EMHIRES should not be compared with actual power\ngeneration data other than referring to the reference year 2015. \n\n### Content\n\n- The data is available at both the national level and the NUTS 2 level. [The NUTS 2 system][1] divides the EU into 276 statistical units.\n- Please see the manual for the technical details of how these estimates were generated. \n- This product is intended for policy analysis over a wide area and is not the best for estimating the output from a single system. Please don't use it commercially.\n\n### Acknowledgements\n\nThis dataset was kindly made available by the [European Commission's STETIS program][2]. You can find the original dataset here.\n\n### Inspiration\n\n- How clean is the dataset? Older solar estimates used to contain impossible values around sunset (ie more energy than the sun releases) or negative sunlight.\n- What does a typical year look like? One common approach is to stitch together 12 months of raw data, using the 12 most typical months per this ISO standard.\n\n\n## If you like\nIf you like this dataset, you might also enjoy: \n- 30 years of European wind \n- Google's Project Sunroof \n\n  [1]: https://en.wikipedia.org/wiki/Nomenclature_of_Territorial_Units_for_Statistics\n  [2]: https://setis.ec.europa.eu/about-setis",
+  "datasetId": 2489,
+  "datasetSlug": "30-years-of-european-solar-generation",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohier",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 42992,
+  "totalVotes": 116,
+  "totalDownloads": 3645,
+  "title": "30 Years of European Solar Generation",
+  "hasTitle": true,
+  "subtitle": "Hourly energy potential for 1986-2015",
+  "hasSubtitle": true,
+  "description": "This dataset contains hourly estimates of an area's energy potential for 1986-2015 as a percentage of a power plant's maximum output.\n\nThe overall scope of EMHIRES is to allow users to assess the impact of meteorological\nand climate variability on the generation of solar power in Europe and not to mime the\nactual evolution of solar power production in the latest decades. For this reason, the\nhourly solar power generation time series are released for meteorological conditions of\nthe years 1986-2015 (30 years) without considering any changes in the solar installed\ncapacity. Thus, the installed capacity considered is fixed as the one installed at the end of\n2015. For this reason, data from EMHIRES should not be compared with actual power\ngeneration data other than referring to the reference year 2015. \n\n### Content\n\n- The data is available at both the national level and the NUTS 2 level. [The NUTS 2 system][1] divides the EU into 276 statistical units.\n- Please see the manual for the technical details of how these estimates were generated. \n- This product is intended for policy analysis over a wide area and is not the best for estimating the output from a single system. Please don't use it commercially.\n\n### Acknowledgements\n\nThis dataset was kindly made available by the [European Commission's STETIS program][2]. You can find the original dataset here.\n\n### Inspiration\n\n- How clean is the dataset? Older solar estimates used to contain impossible values around sunset (ie more energy than the sun releases) or negative sunlight.\n- What does a typical year look like? One common approach is to stitch together 12 months of raw data, using the 12 most typical months per this ISO standard.\n\n\n## If you like\nIf you like this dataset, you might also enjoy: \n- 30 years of European wind \n- Google's Project Sunroof \n\n  [1]: https://en.wikipedia.org/wiki/Nomenclature_of_Territorial_Units_for_Statistics\n  [2]: https://setis.ec.europa.eu/about-setis",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

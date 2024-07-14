@@ -1,0 +1,39 @@
+{
+  "id": "lokeshmendake/fake-news-prediction-datasets",
+  "id_no": 5295557,
+  "datasetSlugNullable": "fake-news-prediction-datasets",
+  "ownerUserNullable": "lokeshmendake",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Fake News Prediction datasets",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5295557,
+  "datasetSlug": "fake-news-prediction-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "lokeshmendake",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Fake News Prediction datasets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

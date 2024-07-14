@@ -1,0 +1,51 @@
+{
+  "id": "conjuring92/ai-mix-v26",
+  "id_no": 4325258,
+  "datasetSlugNullable": "ai-mix-v26",
+  "ownerUserNullable": "conjuring92",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "LLM - Detect AI Datamix",
+  "subtitleNullable": "Datamix for training a LLM generated text detection model",
+  "descriptionNullable": "This is the datamix created by Team `\ud83d\udd0d \ud83d\udcdd \ud83d\udd75\ufe0f\u200d\u2642\ufe0f \ud83e\udd16` during the `LLM - Detect AI Generated Text` competition. This dataset helped us to win the [competition](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/leaderboard). It facilitates a `text-classification` task to separate LLM generate essays from the student written ones.\n\nIt was developed in an incremental way focusing on size, diversity and complexity. For each datamix iteration, we attempted to plug blindspots of the previous generation models while maintaining robustness.\n\nTo maximally leverage in-domain human texts, we used the entire Persuade corpus comprising all 15 prompts. We also included diverse human texts from sources such as OpenAI GPT2 output dataset, ELLIPSE corpus, NarrativeQA, wikipedia, NLTK Brown corpus and IMDB movie reviews.\n\nSources for our generated essays can be grouped under four categories:\n- Proprietary LLMs (gpt-3.5, gpt-4, claude, cohere, gemini, palm)\n- Open source LLMs (llama, falcon, mistral, mixtral)\n- Existing LLM generated text datasets\n - [Synthetic dataset made by T5](https://www.kaggle.com/datasets/conjuring92/fpe-processed-dataset?select=mlm_essays_processed.csv)\n - [DAIGT V2](https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset) subset\n - [OUTFOX](https://github.com/ryuryukke/OUTFOX)\n - [Ghostbuster](https://github.com/vivek3141/ghostbuster-data)\n - [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)\n\n- Fine-tuned open-source LLMs (mistral, llama, falcon, deci-lm, t5, pythia, OPT, BLOOM, GPT2).  For LLM fine-tuning, we leveraged the PERSUADE corpus in different ways:\n - Instruction tuning: Instructions were composed of different metadata e.g. prompt name, holistic essay score, ELL status and grade level. Responses were the corresponding student essays.\n - One topic held out: LLMs fine-tuned on PERSUADE essays with one prompt held out. When generating, only the held out prompt essays were generated. This was done to encourage new writing styles.\n - Span wise generation: Generate one span (discourse) at a time conditioned on the remaining essay.\n\nWe used a wide variety of generation configs and prompting strategies to promote diversity & complexity to the data. Generated essays leveraged a combination of the following:\n- Contrastive search\n- Use of Guidance scale, typical_p, suppress_tokens\n- High temperature & large values of top-k \n- Prompting to fill-in-the-blank: randomly mask words in an essay and asking LLM to reconstruct the original essay (similar to MLM)\n- Prompting without source texts\n- Prompting with source texts\n- Prompting to rewrite existing essays\n\nFinally, we incorporated augmented essays to make our models aware of typical attacks on LLM content detection systems and obfuscations present in the provided training data. We mainly used a combination of the following augmentations on a random subset of essays:\n- Spelling correction\n- Deletion/insertion/swapping of characters\n- Replacement with synonym \n- Introduce obfuscations\n- Back translation\n- Random capitalization\n- Swap sentence\n",
+  "datasetId": 4325258,
+  "datasetSlug": "ai-mix-v26",
+  "hasDatasetSlug": true,
+  "ownerUser": "conjuring92",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1720,
+  "totalVotes": 18,
+  "totalDownloads": 437,
+  "title": "LLM - Detect AI Datamix",
+  "hasTitle": true,
+  "subtitle": "Datamix for training a LLM generated text detection model",
+  "hasSubtitle": true,
+  "description": "This is the datamix created by Team `\ud83d\udd0d \ud83d\udcdd \ud83d\udd75\ufe0f\u200d\u2642\ufe0f \ud83e\udd16` during the `LLM - Detect AI Generated Text` competition. This dataset helped us to win the [competition](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/leaderboard). It facilitates a `text-classification` task to separate LLM generate essays from the student written ones.\n\nIt was developed in an incremental way focusing on size, diversity and complexity. For each datamix iteration, we attempted to plug blindspots of the previous generation models while maintaining robustness.\n\nTo maximally leverage in-domain human texts, we used the entire Persuade corpus comprising all 15 prompts. We also included diverse human texts from sources such as OpenAI GPT2 output dataset, ELLIPSE corpus, NarrativeQA, wikipedia, NLTK Brown corpus and IMDB movie reviews.\n\nSources for our generated essays can be grouped under four categories:\n- Proprietary LLMs (gpt-3.5, gpt-4, claude, cohere, gemini, palm)\n- Open source LLMs (llama, falcon, mistral, mixtral)\n- Existing LLM generated text datasets\n - [Synthetic dataset made by T5](https://www.kaggle.com/datasets/conjuring92/fpe-processed-dataset?select=mlm_essays_processed.csv)\n - [DAIGT V2](https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset) subset\n - [OUTFOX](https://github.com/ryuryukke/OUTFOX)\n - [Ghostbuster](https://github.com/vivek3141/ghostbuster-data)\n - [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)\n\n- Fine-tuned open-source LLMs (mistral, llama, falcon, deci-lm, t5, pythia, OPT, BLOOM, GPT2).  For LLM fine-tuning, we leveraged the PERSUADE corpus in different ways:\n - Instruction tuning: Instructions were composed of different metadata e.g. prompt name, holistic essay score, ELL status and grade level. Responses were the corresponding student essays.\n - One topic held out: LLMs fine-tuned on PERSUADE essays with one prompt held out. When generating, only the held out prompt essays were generated. This was done to encourage new writing styles.\n - Span wise generation: Generate one span (discourse) at a time conditioned on the remaining essay.\n\nWe used a wide variety of generation configs and prompting strategies to promote diversity & complexity to the data. Generated essays leveraged a combination of the following:\n- Contrastive search\n- Use of Guidance scale, typical_p, suppress_tokens\n- High temperature & large values of top-k \n- Prompting to fill-in-the-blank: randomly mask words in an essay and asking LLM to reconstruct the original essay (similar to MLM)\n- Prompting without source texts\n- Prompting with source texts\n- Prompting to rewrite existing essays\n\nFinally, we incorporated augmented essays to make our models aware of typical attacks on LLM content detection systems and obfuscations present in the provided training data. We mainly used a combination of the following augmentations on a random subset of essays:\n- Spelling correction\n- Deletion/insertion/swapping of characters\n- Replacement with synonym \n- Introduce obfuscations\n- Back translation\n- Random capitalization\n- Swap sentence\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "text",
+    "text classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ubamba98",
+      "role": "writer"
+    },
+    {
+      "username": "nbroad",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

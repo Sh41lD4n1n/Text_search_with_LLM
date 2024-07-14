@@ -1,0 +1,39 @@
+{
+  "id": "ssismasterchief/machine-hack-fake-news-content-detection",
+  "id_no": 868771,
+  "datasetSlugNullable": "machine-hack-fake-news-content-detection",
+  "ownerUserNullable": "ssismasterchief",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Machine Hack: Fake News Content Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 868771,
+  "datasetSlug": "machine-hack-fake-news-content-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "ssismasterchief",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1632,
+  "totalVotes": 9,
+  "totalDownloads": 104,
+  "title": "Machine Hack: Fake News Content Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

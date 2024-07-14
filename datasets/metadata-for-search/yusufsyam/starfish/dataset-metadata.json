@@ -1,0 +1,50 @@
+{
+  "id": "yusufsyam/starfish",
+  "id_no": 2749871,
+  "datasetSlugNullable": "starfish",
+  "ownerUserNullable": "yusufsyam",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Starfish",
+  "subtitleNullable": "Starfish/Sea stars object detection dataset (Crown of thorns starfish excluded)",
+  "descriptionNullable": "This dataset is for object detection task of any kind of starfish, with crown of thorns starfish excluded. We can combine this dataset with another crown of thorns dataset to make a binary classification or detection, since [crown of thorns](https://en.wikipedia.org/wiki/Crown-of-thorns_starfish) is the most dangerous species of starfish.\n\nI collected the images and labeled them myself (for a competition). I have less experience in collecting datasets, so I cannot guarantee the quality of this dataset. I trained a yolov7 object detection model with this data and got a mean average precision of 0.959 (with an IoU threshold of 0.5) . \n\n####About Datasets:\n- Consists of 688 images with each label in the Pascal Voc format\n- No pre-processing or image augmentation\n- Not separated into train and test\n- All starfish are stored in the base folder and there is no way to tell the species apart (except for the chocolate chip starfish species which we can distinguish from the file name)\n- Made in August-September 2022\n\n####How I Collect the Data:\n- Image is taken from google then i labeled it my self",
+  "datasetId": 2749871,
+  "datasetSlug": "starfish",
+  "hasDatasetSlug": true,
+  "ownerUser": "yusufsyam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1406,
+  "totalVotes": 9,
+  "totalDownloads": 126,
+  "title": "Starfish",
+  "hasTitle": true,
+  "subtitle": "Starfish/Sea stars object detection dataset (Crown of thorns starfish excluded)",
+  "hasSubtitle": true,
+  "description": "This dataset is for object detection task of any kind of starfish, with crown of thorns starfish excluded. We can combine this dataset with another crown of thorns dataset to make a binary classification or detection, since [crown of thorns](https://en.wikipedia.org/wiki/Crown-of-thorns_starfish) is the most dangerous species of starfish.\n\nI collected the images and labeled them myself (for a competition). I have less experience in collecting datasets, so I cannot guarantee the quality of this dataset. I trained a yolov7 object detection model with this data and got a mean average precision of 0.959 (with an IoU threshold of 0.5) . \n\n####About Datasets:\n- Consists of 688 images with each label in the Pascal Voc format\n- No pre-processing or image augmentation\n- Not separated into train and test\n- All starfish are stored in the base folder and there is no way to tell the species apart (except for the chocolate chip starfish species which we can distinguish from the file name)\n- Made in August-September 2022\n\n####How I Collect the Data:\n- Image is taken from google then i labeled it my self",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "earth science",
+    "animals",
+    "classification",
+    "image",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "toku404",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "trainingdatapro/gender-detection-and-classification-image-dataset",
+  "id_no": 3935781,
+  "datasetSlugNullable": "gender-detection-and-classification-image-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Gender Detection & Classification - Face Dataset",
+  "subtitleNullable": "Photos of people - face recognition dataset",
+  "descriptionNullable": "# Gender Detection & Classification - face recognition dataset\n\n# The dataset is created on the basis of [Face Mask Detection](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification) dataset\n\nDataset Description: \n\nThe dataset comprises a collection of photos of people, organized into folders labeled **\"women\" and \"men.\"** Each folder contains a significant number of images to facilitate training and testing of **gender detection** algorithms or models.\n\nThe dataset contains a variety of images capturing female and male individuals from diverse *backgrounds, age groups, and ethnicities*. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F1c4708f0b856f7889e3c0eea434fe8e2%2FFrame%2045%20(1).png?generation=1698764294000412&alt=media)\n\nThis labeled dataset can be utilized as training data for **machine learning models, computer vision applications, and gender detection algorithms**. \n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 376  000+ photos of people, leave a request on **[TrainingData](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification)** to buy the dataset\n\n### Metadata for the full dataset:\n- **assignment_id** - unique identifier of the media file\n- **worker_id** - unique identifier of the person\n- **age** - age of the person\n- **true_gender** - gender of the person\n- **country** - country of the person\n- **ethnicity** - ethnicity of the person\n- **photo_1_extension, photo_2_extension, photo_3_extension, photo_4_extension** - photo extensions in the dataset\n- **photo_1_resolution, photo_2_resolution, photo_3_extension, photo_4_resolution** - photo resolution in the dataset\n\n## OTHER BIOMETRIC DATASETS:\n- **[Anti Spoofing Real Dataset](https://www.kaggle.com/datasets/trainingdatapro/anti-spoofing-live)**\n- **[Antispoofing Replay Dataset](https://www.kaggle.com/datasets/trainingdatapro/antispoofing-replay-dataset)**\n- **[Selfies, ID Images dataset (5591 sets of 15 files)](https://www.kaggle.com/datasets/tapakah68/selfies-id-images-dataset)**\n- **[Selfies and video dataset (4 052 sets)](https://www.kaggle.com/datasets/tapakah68/selfies-and-video-dataset-4-000-people)**\n- **[Dataset of bald people, 5000 images](https://www.kaggle.com/datasets/tapakah68/dataset-of-bald-people)**\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification) to learn about the price and buy the dataset**\n\n# Content\nThe dataset is split into **train and test** folders, each folder includes:\n- folders **women and men** - folders with images of people with the corresponding gender,\n-  **.csv file** -  contains information about the images and people in the dataset\n\n### File with the extension .csv\n- **file**: link to access the file,\n- **gender**: gender of a person in the photo (**woman/man**),\n- **split**: classification on **train and test**\n\n## **[TrainingData](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification)** provides high-quality data annotation tailored to your needs\n\n*keywords: biometric system, biometric system attacks, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, gender detection, supervised learning dataset, gender classification dataset, gender recognition dataset*",
+  "datasetId": 3935781,
+  "datasetSlug": "gender-detection-and-classification-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12182,
+  "totalVotes": 42,
+  "totalDownloads": 2423,
+  "title": "Gender Detection & Classification - Face Dataset",
+  "hasTitle": true,
+  "subtitle": "Photos of people - face recognition dataset",
+  "hasSubtitle": true,
+  "description": "# Gender Detection & Classification - face recognition dataset\n\n# The dataset is created on the basis of [Face Mask Detection](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification) dataset\n\nDataset Description: \n\nThe dataset comprises a collection of photos of people, organized into folders labeled **\"women\" and \"men.\"** Each folder contains a significant number of images to facilitate training and testing of **gender detection** algorithms or models.\n\nThe dataset contains a variety of images capturing female and male individuals from diverse *backgrounds, age groups, and ethnicities*. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F1c4708f0b856f7889e3c0eea434fe8e2%2FFrame%2045%20(1).png?generation=1698764294000412&alt=media)\n\nThis labeled dataset can be utilized as training data for **machine learning models, computer vision applications, and gender detection algorithms**. \n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 376  000+ photos of people, leave a request on **[TrainingData](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification)** to buy the dataset\n\n### Metadata for the full dataset:\n- **assignment_id** - unique identifier of the media file\n- **worker_id** - unique identifier of the person\n- **age** - age of the person\n- **true_gender** - gender of the person\n- **country** - country of the person\n- **ethnicity** - ethnicity of the person\n- **photo_1_extension, photo_2_extension, photo_3_extension, photo_4_extension** - photo extensions in the dataset\n- **photo_1_resolution, photo_2_resolution, photo_3_extension, photo_4_resolution** - photo resolution in the dataset\n\n## OTHER BIOMETRIC DATASETS:\n- **[Anti Spoofing Real Dataset](https://www.kaggle.com/datasets/trainingdatapro/anti-spoofing-live)**\n- **[Antispoofing Replay Dataset](https://www.kaggle.com/datasets/trainingdatapro/antispoofing-replay-dataset)**\n- **[Selfies, ID Images dataset (5591 sets of 15 files)](https://www.kaggle.com/datasets/tapakah68/selfies-id-images-dataset)**\n- **[Selfies and video dataset (4 052 sets)](https://www.kaggle.com/datasets/tapakah68/selfies-and-video-dataset-4-000-people)**\n- **[Dataset of bald people, 5000 images](https://www.kaggle.com/datasets/tapakah68/dataset-of-bald-people)**\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification) to learn about the price and buy the dataset**\n\n# Content\nThe dataset is split into **train and test** folders, each folder includes:\n- folders **women and men** - folders with images of people with the corresponding gender,\n-  **.csv file** -  contains information about the images and people in the dataset\n\n### File with the extension .csv\n- **file**: link to access the file,\n- **gender**: gender of a person in the photo (**woman/man**),\n- **split**: classification on **train and test**\n\n## **[TrainingData](https://trainingdata.pro/datasets/face-masks-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=gender-detection-and-classification)** provides high-quality data annotation tailored to your needs\n\n*keywords: biometric system, biometric system attacks, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, gender detection, supervised learning dataset, gender classification dataset, gender recognition dataset*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "gender",
+    "computer vision",
+    "deep learning",
+    "image",
+    "online communities",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

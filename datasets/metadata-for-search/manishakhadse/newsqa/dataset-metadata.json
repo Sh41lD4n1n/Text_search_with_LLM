@@ -1,0 +1,37 @@
+{
+  "id": "manishakhadse/newsqa",
+  "id_no": 5278022,
+  "datasetSlugNullable": "newsqa",
+  "ownerUserNullable": "manishakhadse",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "NewsQA",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5278022,
+  "datasetSlug": "newsqa",
+  "hasDatasetSlug": true,
+  "ownerUser": "manishakhadse",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 1,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "NewsQA",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

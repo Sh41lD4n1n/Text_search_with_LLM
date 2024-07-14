@@ -1,0 +1,42 @@
+{
+  "id": "omikumarmakadia2121/football-match-winners",
+  "id_no": 3651220,
+  "datasetSlugNullable": "football-match-winners",
+  "ownerUserNullable": "omikumarmakadia2121",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football Match winners",
+  "subtitleNullable": "Barclays premire league football match winners of 2020-21 and 2020-2022 season",
+  "descriptionNullable": "The dataset contains the Barclays Premier League data for the 2020\u201321 and 2021\u201322 seasons.The 2021-2022 season of the Barclays Premier League would have featured 20 teams competing in a round-robin format, with each team playing 38 matches over the course of the season. The season typically started in August and ended in May.\n\nThe previous season's top teams like Manchester City, Liverpool, Manchester United, and Chelsea were expected to be strong contenders for the title once again. However, surprises and upsets are common in football, so there could have been unexpected performances from other clubs as well. The fight to avoid relegation would have been fierce among the teams in the lower half of the table.",
+  "datasetId": 3651220,
+  "datasetSlug": "football-match-winners",
+  "hasDatasetSlug": true,
+  "ownerUser": "omikumarmakadia2121",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4354,
+  "totalVotes": 28,
+  "totalDownloads": 834,
+  "title": "Football Match winners",
+  "hasTitle": true,
+  "subtitle": "Barclays premire league football match winners of 2020-21 and 2020-2022 season",
+  "hasSubtitle": true,
+  "description": "The dataset contains the Barclays Premier League data for the 2020\u201321 and 2021\u201322 seasons.The 2021-2022 season of the Barclays Premier League would have featured 20 teams competing in a round-robin format, with each team playing 38 matches over the course of the season. The season typically started in August and ended in May.\n\nThe previous season's top teams like Manchester City, Liverpool, Manchester United, and Chelsea were expected to be strong contenders for the title once again. However, surprises and upsets are common in football, so there could have been unexpected performances from other clubs as well. The fight to avoid relegation would have been fierce among the teams in the lower half of the table.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "europe",
+    "beginner",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

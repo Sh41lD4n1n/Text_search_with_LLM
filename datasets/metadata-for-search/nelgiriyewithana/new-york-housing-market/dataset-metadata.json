@@ -1,0 +1,43 @@
+{
+  "id": "nelgiriyewithana/new-york-housing-market",
+  "id_no": 4269029,
+  "datasetSlugNullable": "new-york-housing-market",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "New York Housing Market",
+  "subtitleNullable": "Unlock the Door to New York Real Estate Excellence",
+  "descriptionNullable": "# Description:\n\n&gt; This dataset contains prices of New York houses, providing valuable insights into the real estate market in the region. It includes information such as broker titles, house types, prices, number of bedrooms and bathrooms, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7351086.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt; - **BROKERTITLE**: *Title of the broker*\n- **TYPE**: *Type of the house*\n- **PRICE**: *Price of the house*\n- **BEDS**: *Number of bedrooms*\n- **BATH**: *Number of bathrooms*\n- **PROPERTYSQFT**: *Square footage of the property*\n- **ADDRESS**: *Full address of the house*\n- **STATE**: *State of the house*\n- **MAIN_ADDRESS**: *Main address information*\n- **ADMINISTRATIVE_AREA_LEVEL_2**: *Administrative area level 2 information*\n- **LOCALITY**: *Locality information*\n- **SUBLOCALITY**: *Sublocality information*\n- **STREET_NAME**: *Street name*\n- **LONG_NAME**: *Long name*\n- **FORMATTED_ADDRESS**: *Formatted address*\n- **LATITUDE**: *Latitude coordinate of the house*\n- **LONGITUDE**: *Longitude coordinate of the house*\n\n# Potential Use Cases:\n\n&gt; - **Price analysis:** Analyze the distribution of house prices to understand market trends and identify potential investment opportunities.\n- **Property size analysis:** Explore the relationship between property square footage and prices to assess the value of different-sized houses.\n- **Location-based analysis:** Investigate geographical patterns to identify areas with higher or lower property prices.\n- **Bedroom and bathroom trends:** Analyze the impact of the number of bedrooms and bathrooms on house prices.\n- **Broker performance analysis:** Evaluate the influence of different brokers on the pricing of houses.\n\n\n\nIf you find this dataset useful, your support through an upvote would be greatly appreciated \u2764\ufe0f\ud83d\ude42\nThank you",
+  "datasetId": 4269029,
+  "datasetSlug": "new-york-housing-market",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 60873,
+  "totalVotes": 199,
+  "totalDownloads": 12984,
+  "title": "New York Housing Market",
+  "hasTitle": true,
+  "subtitle": "Unlock the Door to New York Real Estate Excellence",
+  "hasSubtitle": true,
+  "description": "# Description:\n\n&gt; This dataset contains prices of New York houses, providing valuable insights into the real estate market in the region. It includes information such as broker titles, house types, prices, number of bedrooms and bathrooms, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7351086.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt; - **BROKERTITLE**: *Title of the broker*\n- **TYPE**: *Type of the house*\n- **PRICE**: *Price of the house*\n- **BEDS**: *Number of bedrooms*\n- **BATH**: *Number of bathrooms*\n- **PROPERTYSQFT**: *Square footage of the property*\n- **ADDRESS**: *Full address of the house*\n- **STATE**: *State of the house*\n- **MAIN_ADDRESS**: *Main address information*\n- **ADMINISTRATIVE_AREA_LEVEL_2**: *Administrative area level 2 information*\n- **LOCALITY**: *Locality information*\n- **SUBLOCALITY**: *Sublocality information*\n- **STREET_NAME**: *Street name*\n- **LONG_NAME**: *Long name*\n- **FORMATTED_ADDRESS**: *Formatted address*\n- **LATITUDE**: *Latitude coordinate of the house*\n- **LONGITUDE**: *Longitude coordinate of the house*\n\n# Potential Use Cases:\n\n&gt; - **Price analysis:** Analyze the distribution of house prices to understand market trends and identify potential investment opportunities.\n- **Property size analysis:** Explore the relationship between property square footage and prices to assess the value of different-sized houses.\n- **Location-based analysis:** Investigate geographical patterns to identify areas with higher or lower property prices.\n- **Bedroom and bathroom trends:** Analyze the impact of the number of bedrooms and bathrooms on house prices.\n- **Broker performance analysis:** Evaluate the influence of different brokers on the pricing of houses.\n\n\n\nIf you find this dataset useful, your support through an upvote would be greatly appreciated \u2764\ufe0f\ud83d\ude42\nThank you",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "real estate",
+    "computer science",
+    "data visualization",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

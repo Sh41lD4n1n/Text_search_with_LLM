@@ -1,0 +1,39 @@
+{
+  "id": "inductiveanks/top-1000-imdb-movies-dataset",
+  "id_no": 3586114,
+  "datasetSlugNullable": "top-1000-imdb-movies-dataset",
+  "ownerUserNullable": "inductiveanks",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Top 1000 IMDb Movies Dataset",
+  "subtitleNullable": "Discover the Greatest Movies of All Time - IMDb's Top 1000 Movie Rankings",
+  "descriptionNullable": "Welcome to the \"Top 1000 IMDb Movies Dataset\" - a treasure trove of cinematic excellence! This comprehensive collection presents the most celebrated and beloved movies, as rated and ranked by IMDb users. Whether you're a movie enthusiast, a data scientist, or a filmmaker seeking inspiration, this dataset promises a thrilling journey through the world of cinema's finest creations.\n\n**Content**:\n\nThis dataset boasts a rich array of movie attributes to help you delve into the realm of top-rated films:\n\nMovie Name: The title of each movie, representing iconic masterpieces that have left an indelible mark on the film industry and audiences worldwide.\n\nYear of Release: The year when each movie was released, providing valuable context for historical and chronological analyses.\n\nWatch Time: The duration of each movie, allowing you to identify captivating films for various viewing preferences.\n\nMovie Rating: IMDb's user ratings, serving as a benchmark for gauging audience reception and appreciation.\n\nMetascore of Movie: Metascores from renowned critics, offering insights into the films' critical acclaim and recognition.\n\nGross Earnings: The worldwide box office earnings, reflecting the commercial success and popularity of each movie.\n\nVotes: The number of votes cast by IMDb users, indicating the films' popularity and reach.\n\nDescription: Brief summaries that provide a glimpse into the captivating plots and themes of these cinematic marvels.\n\n**Usage**:\n\nThe \"Top 1000 IMDb Movies Dataset\" opens up a world of possibilities for movie aficionados and data enthusiasts alike:\n\nFilm Analysis and Insights: Dive into data-driven analyses to uncover intriguing patterns, trends, and correlations among highly-rated movies.\n\nRating Predictions: Develop predictive models to estimate movie ratings based on other attributes and gain a deeper understanding of factors influencing user perceptions.\n\nBox Office Performance: Examine the relationship between critical acclaim, ratings, and box office success, providing valuable insights for filmmakers and producers.\n\nGenre Exploration: Investigate the distribution of top-rated movies across different genres to identify trends in audience preferences.\n\nTemporal Trends: Analyze changes in movie ratings, box office performance, and viewer preferences over time to reveal shifts in cinematic taste and trends.\n\n**Caution**:\n\nWhile this dataset is a treasure trove for movie analysis, it is essential to respect copyright and intellectual property rights. Users are encouraged to use the data responsibly and comply with IMDb's terms of use and any applicable legal restrictions.\n\n**Conclusion**:\n\nThe \"Top 1000 IMDb Movies Dataset\" offers an immersive and data-driven exploration of cinema's greatest works, igniting creativity, fostering discussions, and enriching our appreciation for the art of storytelling. Let the magic of these cinematic gems captivate you as you embark on an exciting journey into the world of acclaimed movies!",
+  "datasetId": 3586114,
+  "datasetSlug": "top-1000-imdb-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "inductiveanks",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 11874,
+  "totalVotes": 43,
+  "totalDownloads": 2634,
+  "title": "Top 1000 IMDb Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Discover the Greatest Movies of All Time - IMDb's Top 1000 Movie Rankings",
+  "hasSubtitle": true,
+  "description": "Welcome to the \"Top 1000 IMDb Movies Dataset\" - a treasure trove of cinematic excellence! This comprehensive collection presents the most celebrated and beloved movies, as rated and ranked by IMDb users. Whether you're a movie enthusiast, a data scientist, or a filmmaker seeking inspiration, this dataset promises a thrilling journey through the world of cinema's finest creations.\n\n**Content**:\n\nThis dataset boasts a rich array of movie attributes to help you delve into the realm of top-rated films:\n\nMovie Name: The title of each movie, representing iconic masterpieces that have left an indelible mark on the film industry and audiences worldwide.\n\nYear of Release: The year when each movie was released, providing valuable context for historical and chronological analyses.\n\nWatch Time: The duration of each movie, allowing you to identify captivating films for various viewing preferences.\n\nMovie Rating: IMDb's user ratings, serving as a benchmark for gauging audience reception and appreciation.\n\nMetascore of Movie: Metascores from renowned critics, offering insights into the films' critical acclaim and recognition.\n\nGross Earnings: The worldwide box office earnings, reflecting the commercial success and popularity of each movie.\n\nVotes: The number of votes cast by IMDb users, indicating the films' popularity and reach.\n\nDescription: Brief summaries that provide a glimpse into the captivating plots and themes of these cinematic marvels.\n\n**Usage**:\n\nThe \"Top 1000 IMDb Movies Dataset\" opens up a world of possibilities for movie aficionados and data enthusiasts alike:\n\nFilm Analysis and Insights: Dive into data-driven analyses to uncover intriguing patterns, trends, and correlations among highly-rated movies.\n\nRating Predictions: Develop predictive models to estimate movie ratings based on other attributes and gain a deeper understanding of factors influencing user perceptions.\n\nBox Office Performance: Examine the relationship between critical acclaim, ratings, and box office success, providing valuable insights for filmmakers and producers.\n\nGenre Exploration: Investigate the distribution of top-rated movies across different genres to identify trends in audience preferences.\n\nTemporal Trends: Analyze changes in movie ratings, box office performance, and viewer preferences over time to reveal shifts in cinematic taste and trends.\n\n**Caution**:\n\nWhile this dataset is a treasure trove for movie analysis, it is essential to respect copyright and intellectual property rights. Users are encouraged to use the data responsibly and comply with IMDb's terms of use and any applicable legal restrictions.\n\n**Conclusion**:\n\nThe \"Top 1000 IMDb Movies Dataset\" offers an immersive and data-driven exploration of cinema's greatest works, igniting creativity, fostering discussions, and enriching our appreciation for the art of storytelling. Let the magic of these cinematic gems captivate you as you embark on an exciting journey into the world of acclaimed movies!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

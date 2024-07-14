@@ -1,0 +1,41 @@
+{
+  "id": "xuhuilin0541/zebrafish-mirror-biting",
+  "id_no": 4370594,
+  "datasetSlugNullable": "zebrafish-mirror-biting",
+  "ownerUserNullable": "xuhuilin0541",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Zebrafish mirror biting",
+  "subtitleNullable": "Zebrafish aggressive behaviour in front of mirror",
+  "descriptionNullable": "This dataset is a collection of video frames from zebrafish biting mirror experiments, designed to facilitate the development and evaluation of machine learning models for target detection and behaviour analysis. The experiment involves observing zebrafish interacting with a mirror, where the fish may exhibit aggressive behaviour by biting the reflective surface.",
+  "datasetId": 4370594,
+  "datasetSlug": "zebrafish-mirror-biting",
+  "hasDatasetSlug": true,
+  "ownerUser": "xuhuilin0541",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 30,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Zebrafish mirror biting",
+  "hasTitle": true,
+  "subtitle": "Zebrafish aggressive behaviour in front of mirror",
+  "hasSubtitle": true,
+  "description": "This dataset is a collection of video frames from zebrafish biting mirror experiments, designed to facilitate the development and evaluation of machine learning models for target detection and behaviour analysis. The experiment involves observing zebrafish interacting with a mirror, where the fish may exhibit aggressive behaviour by biting the reflective surface.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

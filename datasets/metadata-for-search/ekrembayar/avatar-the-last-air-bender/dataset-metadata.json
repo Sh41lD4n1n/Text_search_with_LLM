@@ -1,0 +1,44 @@
+{
+  "id": "ekrembayar/avatar-the-last-air-bender",
+  "id_no": 825023,
+  "datasetSlugNullable": "avatar-the-last-air-bender",
+  "ownerUserNullable": "ekrembayar",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Avatar: The Last Airbender",
+  "subtitleNullable": "TV Series, IMDB, Transcripts / Subtitles, Nickelodeon, Text Data, Text Mining",
+  "descriptionNullable": "# WATER, EARTH, FIRE, AIR\n\n\n\n### Only the [AVATAR](https://www.youtube.com/watch?v=d1EnW4kn1kg) can master all four elements and bring balance to the world!\n\n![](https://diziay.me/data/series/91/avatar-the-last-airbender-91.jpg)\n\n",
+  "datasetId": 825023,
+  "datasetSlug": "avatar-the-last-air-bender",
+  "hasDatasetSlug": true,
+  "ownerUser": "ekrembayar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 13976,
+  "totalVotes": 73,
+  "totalDownloads": 1249,
+  "title": "Avatar: The Last Airbender",
+  "hasTitle": true,
+  "subtitle": "TV Series, IMDB, Transcripts / Subtitles, Nickelodeon, Text Data, Text Mining",
+  "hasSubtitle": true,
+  "description": "# WATER, EARTH, FIRE, AIR\n\n\n\n### Only the [AVATAR](https://www.youtube.com/watch?v=d1EnW4kn1kg) can master all four elements and bring balance to the world!\n\n![](https://diziay.me/data/series/91/avatar-the-last-airbender-91.jpg)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "text mining",
+    "data visualization",
+    "text",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

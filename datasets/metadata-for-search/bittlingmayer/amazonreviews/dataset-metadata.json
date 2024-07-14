@@ -1,0 +1,46 @@
+{
+  "id": "bittlingmayer/amazonreviews",
+  "id_no": 1305,
+  "datasetSlugNullable": "amazonreviews",
+  "ownerUserNullable": "bittlingmayer",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Amazon Reviews for Sentiment Analysis",
+  "subtitleNullable": "A few million Amazon reviews in fastText format",
+  "descriptionNullable": "This dataset consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for learning how to train fastText for sentiment analysis.\n\nThe idea here is a dataset is more than a toy - real business data on a reasonable scale - but can be trained in minutes on a modest laptop.\n\n# Content\n\nThe [fastText supervised learning tutorial](https://github.com/facebookresearch/fastText/blob/master/tutorials/supervised-learning.md) requires data in the following format:\n\n    __label__<X> __label__<Y> ... <Text>\n\nwhere X and Y are the class names.  No quotes, all on one line.\n\nIn this case, the classes are  `__label__1` and  `__label__2`, and there is only one class per row.\n\n `__label__1` corresponds to 1- and 2-star reviews, and  `__label__2` corresponds to 4- and 5-star reviews.\n\n(3-star reviews i.e. reviews with neutral sentiment were not included in the original), \n\nThe review titles, followed by ':' and a space, are prepended to the text.\n\nMost of the reviews are in English, but there are a few in other languages, like Spanish.\n\n# Source\n\nThe data was lifted from [Xiang Zhang's Google Drive dir](https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M), but it was in .csv format, not suitable for fastText.\n\n# Training and Testing\n\nFollow the basic instructions at [fastText supervised learning tutorial](https://github.com/facebookresearch/fastText/blob/master/tutorials/supervised-learning.md) to set up the directory.\n\nTo train: \n\n    ./fasttext supervised -input train.ft.txt -output model_amzn\n\nThis should take a few minutes.\n\nTo test:\n\n    ./fasttext test model_amzn.bin test.ft.txt\n\nExpect precision and recall of 0.916 if all is in order.\n\nYou can also train and test in Python, see Kernel.",
+  "datasetId": 1305,
+  "datasetSlug": "amazonreviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "bittlingmayer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 735734,
+  "totalVotes": 942,
+  "totalDownloads": 76353,
+  "title": "Amazon Reviews for Sentiment Analysis",
+  "hasTitle": true,
+  "subtitle": "A few million Amazon reviews in fastText format",
+  "hasSubtitle": true,
+  "description": "This dataset consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for learning how to train fastText for sentiment analysis.\n\nThe idea here is a dataset is more than a toy - real business data on a reasonable scale - but can be trained in minutes on a modest laptop.\n\n# Content\n\nThe [fastText supervised learning tutorial](https://github.com/facebookresearch/fastText/blob/master/tutorials/supervised-learning.md) requires data in the following format:\n\n    __label__<X> __label__<Y> ... <Text>\n\nwhere X and Y are the class names.  No quotes, all on one line.\n\nIn this case, the classes are  `__label__1` and  `__label__2`, and there is only one class per row.\n\n `__label__1` corresponds to 1- and 2-star reviews, and  `__label__2` corresponds to 4- and 5-star reviews.\n\n(3-star reviews i.e. reviews with neutral sentiment were not included in the original), \n\nThe review titles, followed by ':' and a space, are prepended to the text.\n\nMost of the reviews are in English, but there are a few in other languages, like Spanish.\n\n# Source\n\nThe data was lifted from [Xiang Zhang's Google Drive dir](https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M), but it was in .csv format, not suitable for fastText.\n\n# Training and Testing\n\nFollow the basic instructions at [fastText supervised learning tutorial](https://github.com/facebookresearch/fastText/blob/master/tutorials/supervised-learning.md) to set up the directory.\n\nTo train: \n\n    ./fasttext supervised -input train.ft.txt -output model_amzn\n\nThis should take a few minutes.\n\nTo test:\n\n    ./fasttext test model_amzn.bin test.ft.txt\n\nExpect precision and recall of 0.916 if all is in order.\n\nYou can also train and test in Python, see Kernel.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "education",
+    "linguistics",
+    "internet",
+    "nlp",
+    "text",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/fetal-health-classification",
+  "id_no": 916586,
+  "datasetSlugNullable": "fetal-health-classification",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fetal Health Classification",
+  "subtitleNullable": "Classify the health of a fetus as Normal, Suspect or Pathological using CTG data",
+  "descriptionNullable": "# Abstract\n&gt; Classify fetal health in order to prevent child and maternal mortality.\n\n# About this dataset\n&gt; ## Context\nReduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress.\nThe UN expects that by 2030, countries end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce under\u20115 mortality to at least as low as 25 per 1,000 live births.\n\n&gt; Parallel to notion of child mortality is of course maternal mortality, which accounts for **295 000 deaths** during and following pregnancy and childbirth (as of 2017). The vast majority of these deaths **(94%)** occurred in low-resource settings, and most **could have been prevented**.\n\n&gt; In light of what was mentioned above, **Cardiotocograms (CTGs)** are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more.\n\n&gt; ## Data\nThis dataset contains **2126** records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into **3 classes**:\n- Normal\n- Suspect\n- Pathological\n\n\n# How to use\n&gt; - Create a multiclass model to classify CTG features into the three fetal health states.\n\n# Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors.\n\n&gt; ### Citation\nAyres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318 ([link](https://onlinelibrary.wiley.com/doi/10.1002/1520-6661(200009/10)9:5%3C311::AID-MFM12%3E3.0.CO;2-9))\n\n\n&gt; ### License\nLicense was not specified at the source, yet access to the data is public and a citation was requested.\n\n&gt; ### Splash banner\nPhoto by [Aditya Romansa](https://unsplash.com/@adroman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/5zp0jym2w9M)\n\n&gt; ### Splash icon\nIcon by [Freepik](https://www.flaticon.com/authors/freepik) available on [Flaticon](https://www.flaticon.com/free-icon/pregnant_781296).\n\n&gt; ### [More Datasets](https://www.kaggle.com/andrewmvd/datasets)",
+  "datasetId": 916586,
+  "datasetSlug": "fetal-health-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 283125,
+  "totalVotes": 594,
+  "totalDownloads": 34717,
+  "title": "Fetal Health Classification",
+  "hasTitle": true,
+  "subtitle": "Classify the health of a fetus as Normal, Suspect or Pathological using CTG data",
+  "hasSubtitle": true,
+  "description": "# Abstract\n&gt; Classify fetal health in order to prevent child and maternal mortality.\n\n# About this dataset\n&gt; ## Context\nReduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress.\nThe UN expects that by 2030, countries end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce under\u20115 mortality to at least as low as 25 per 1,000 live births.\n\n&gt; Parallel to notion of child mortality is of course maternal mortality, which accounts for **295 000 deaths** during and following pregnancy and childbirth (as of 2017). The vast majority of these deaths **(94%)** occurred in low-resource settings, and most **could have been prevented**.\n\n&gt; In light of what was mentioned above, **Cardiotocograms (CTGs)** are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more.\n\n&gt; ## Data\nThis dataset contains **2126** records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into **3 classes**:\n- Normal\n- Suspect\n- Pathological\n\n\n# How to use\n&gt; - Create a multiclass model to classify CTG features into the three fetal health states.\n\n# Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors.\n\n&gt; ### Citation\nAyres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318 ([link](https://onlinelibrary.wiley.com/doi/10.1002/1520-6661(200009/10)9:5%3C311::AID-MFM12%3E3.0.CO;2-9))\n\n\n&gt; ### License\nLicense was not specified at the source, yet access to the data is public and a citation was requested.\n\n&gt; ### Splash banner\nPhoto by [Aditya Romansa](https://unsplash.com/@adroman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/5zp0jym2w9M)\n\n&gt; ### Splash icon\nIcon by [Freepik](https://www.flaticon.com/authors/freepik) available on [Flaticon](https://www.flaticon.com/free-icon/pregnant_781296).\n\n&gt; ### [More Datasets](https://www.kaggle.com/andrewmvd/datasets)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "public health",
+    "health",
+    "mortality",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "arkhoshghalb/twitter-sentiment-analysis-hatred-speech",
+  "id_no": 100982,
+  "datasetSlugNullable": "twitter-sentiment-analysis-hatred-speech",
+  "ownerUserNullable": "arkhoshghalb",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Twitter Sentiment Analysis",
+  "subtitleNullable": "Detecting hatred tweets, provided by Analytics Vidhya",
+  "descriptionNullable": "### Context\n\nThe objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.\n\nFormally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.\n\n\n### Content\n\nFull tweet texts are provided with their labels for training data.  \nMentioned users' username is replaced with @user.  \n\n\n### Acknowledgements\n\nDataset is provided by [Analytics Vidhya](http://https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)  \n",
+  "datasetId": 100982,
+  "datasetSlug": "twitter-sentiment-analysis-hatred-speech",
+  "hasDatasetSlug": true,
+  "ownerUser": "arkhoshghalb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 183237,
+  "totalVotes": 268,
+  "totalDownloads": 30797,
+  "title": "Twitter Sentiment Analysis",
+  "hasTitle": true,
+  "subtitle": "Detecting hatred tweets, provided by Analytics Vidhya",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.\n\nFormally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.\n\n\n### Content\n\nFull tweet texts are provided with their labels for training data.  \nMentioned users' username is replaced with @user.  \n\n\n### Acknowledgements\n\nDataset is provided by [Analytics Vidhya](http://https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)  \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "classification",
+    "email and messaging",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

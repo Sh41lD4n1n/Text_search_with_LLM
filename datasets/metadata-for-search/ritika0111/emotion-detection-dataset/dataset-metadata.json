@@ -1,0 +1,40 @@
+{
+  "id": "ritika0111/emotion-detection-dataset",
+  "id_no": 861334,
+  "datasetSlugNullable": "emotion-detection-dataset",
+  "ownerUserNullable": "ritika0111",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Emotion Detection Dataset",
+  "subtitleNullable": "Dataset is useful for Emotion Detection from audio inputs. ",
+  "descriptionNullable": "### Context\nI need to build an emotion classifier based on audio inputs. I came across some of the audio data set. For the fact, that the CREMA-D is a very good dataset to use to ensure the model does not overfit as it has variety of data which helps train a model that can be generalised across new datasets.Thus, I recreated this data set that contains categorized clips into six different emotions with 1088 clips in each category.\n\n\n### Content\n\nThis data set consists of  6528 clips from CREMA-D data set. These clips were from 48 male and 43 female actors between the ages of 20 and 74. Actors spoke from a selection of 12 sentences. The sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad) and four different emotion levels (Low, Medium, High, and Unspecified). All these clips are classified into six categories (Anger, Disgust, Fear, Happy, Neutral, and Sad) based on the emotion they depicts and each category contains 1087 clips.\n\n\n### Acknowledgements\nI have recreated this dataset from CREMA-D dataset. I wanted to give credit to the CREMA-D dataset publisher for making this dataset public and leting students to work on that.\n",
+  "datasetId": 861334,
+  "datasetSlug": "emotion-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ritika0111",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4767,
+  "totalVotes": 10,
+  "totalDownloads": 288,
+  "title": "Emotion Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset is useful for Emotion Detection from audio inputs. ",
+  "hasSubtitle": true,
+  "description": "### Context\nI need to build an emotion classifier based on audio inputs. I came across some of the audio data set. For the fact, that the CREMA-D is a very good dataset to use to ensure the model does not overfit as it has variety of data which helps train a model that can be generalised across new datasets.Thus, I recreated this data set that contains categorized clips into six different emotions with 1088 clips in each category.\n\n\n### Content\n\nThis data set consists of  6528 clips from CREMA-D data set. These clips were from 48 male and 43 female actors between the ages of 20 and 74. Actors spoke from a selection of 12 sentences. The sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad) and four different emotion levels (Low, Medium, High, and Unspecified). All these clips are classified into six categories (Anger, Disgust, Fear, Happy, Neutral, and Sad) based on the emotion they depicts and each category contains 1087 clips.\n\n\n### Acknowledgements\nI have recreated this dataset from CREMA-D dataset. I wanted to give credit to the CREMA-D dataset publisher for making this dataset public and leting students to work on that.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

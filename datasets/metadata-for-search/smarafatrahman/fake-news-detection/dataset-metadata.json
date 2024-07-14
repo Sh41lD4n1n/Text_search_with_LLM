@@ -1,0 +1,39 @@
+{
+  "id": "smarafatrahman/fake-news-detection",
+  "id_no": 4610568,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "smarafatrahman",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Fake News Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4610568,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "smarafatrahman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 67,
+  "totalVotes": 1,
+  "totalDownloads": 10,
+  "title": "Fake News Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

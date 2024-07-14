@@ -1,0 +1,42 @@
+{
+  "id": "vbookshelf/v2-balloon-detection-dataset",
+  "id_no": 1396684,
+  "datasetSlugNullable": "v2-balloon-detection-dataset",
+  "ownerUserNullable": "vbookshelf",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "V2 Balloon Detection Dataset",
+  "subtitleNullable": "A simple dataset to practice object detection",
+  "descriptionNullable": "### Context\n\nI needed a simple image dataset that I could use when trying different object detection algorithms for the first time. It had to be something that could be quickly understood and easily loaded. I didn't want spend a lot of time doing EDA or trying to remember how the data is structured. Moreover,  I wanted to be able to clearly see when a model 's prediction was correct or when it had made a mistake. When working with chest x-ray images, for example, it takes an expert to know if a model's predictions are correct.\n\nI found the Balloons dataset and simplified it. The original data is split into train and test sets and it has two json files that need to be parsed. In this new version, I copied all images into a single folder and replaced the json files with one csv file that can be easily loaded with Pandas. \n\n### Content\n\nThe dataset consists of 74 jpg images and one csv file. Each image contains one or more balloons.\n\nThe csv file has five columns:\n\n```\nfname - The image file name.\nheight - The image height.\nwidth - The image width.\nnum_balloons - The number of balloons on the image.\nbbox - The coordinates of each bounding box on the image.\n```\n\nThe coordinates of each bbox are stored in a dictionary. The format is as follows:\n\n```\n{\"xmin\":  100, \"ymin\": 100, \"xmax\": 300, \"ymax\": 300}\n\nWhere xmin and ymin are the coordinates of the top left corner, and xmax and ymax are the coordinates of the bottom right corner.\n```\n\nEach entry in the bbox column is a list of dictionaries. For example, if an image has two ballons and hence two bounding boxes, the entry will be as follows:\n\n`\n[{\"xmin\":  100, \"ymin\": 100, \"xmax\": 300, \"ymax\": 300}, {\"xmin\":  100, \"ymin\": 100, \"xmax\": 300, \"ymax\": 300}]\n`\n\nWhen loaded into a Pandas dataframe all items in the bbox column are of type string. The strings can be converted to a python lists like this:\n\n```\nimport ast\n\n# convert each item in the bbox column from type str to type list\ndf['bbox'] = df['bbox'].apply(ast.literal_eval)\n\n```\n\n\n### Acknowledgements\n\nMany thanks to Waleed Abdulla who created this dataset.\n\nThe original dataset can be downloaded and unzipped using this code:\n\n```\n!wget https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip\n!unzip balloon_dataset.zip &gt; /dev/null\n```\n\n\n\n### Inspiration\n\nCan you create an app that can look at an image and tell you: \n- how many balloons are on the image, and \n- what are the colours of those balloons.\n\nThis is something that could help blind people. To help you get started [here's](https://www.youtube.com/watch?v=eUSgtfK4ivk) an example of a similar project . \n\n### License\n\nIn this [blog post](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46) the dataset's creator mentions that the images were sourced from Flickr. All images have a \"Commercial use & mods allowed\" license.\n\n<br>\n<br>\nHeader image by andremsantana on Pixabay.",
+  "datasetId": 1396684,
+  "datasetSlug": "v2-balloon-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vbookshelf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 11247,
+  "totalVotes": 22,
+  "totalDownloads": 1004,
+  "title": "V2 Balloon Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "A simple dataset to practice object detection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI needed a simple image dataset that I could use when trying different object detection algorithms for the first time. It had to be something that could be quickly understood and easily loaded. I didn't want spend a lot of time doing EDA or trying to remember how the data is structured. Moreover,  I wanted to be able to clearly see when a model 's prediction was correct or when it had made a mistake. When working with chest x-ray images, for example, it takes an expert to know if a model's predictions are correct.\n\nI found the Balloons dataset and simplified it. The original data is split into train and test sets and it has two json files that need to be parsed. In this new version, I copied all images into a single folder and replaced the json files with one csv file that can be easily loaded with Pandas. \n\n### Content\n\nThe dataset consists of 74 jpg images and one csv file. Each image contains one or more balloons.\n\nThe csv file has five columns:\n\n```\nfname - The image file name.\nheight - The image height.\nwidth - The image width.\nnum_balloons - The number of balloons on the image.\nbbox - The coordinates of each bounding box on the image.\n```\n\nThe coordinates of each bbox are stored in a dictionary. The format is as follows:\n\n```\n{\"xmin\":  100, \"ymin\": 100, \"xmax\": 300, \"ymax\": 300}\n\nWhere xmin and ymin are the coordinates of the top left corner, and xmax and ymax are the coordinates of the bottom right corner.\n```\n\nEach entry in the bbox column is a list of dictionaries. For example, if an image has two ballons and hence two bounding boxes, the entry will be as follows:\n\n`\n[{\"xmin\":  100, \"ymin\": 100, \"xmax\": 300, \"ymax\": 300}, {\"xmin\":  100, \"ymin\": 100, \"xmax\": 300, \"ymax\": 300}]\n`\n\nWhen loaded into a Pandas dataframe all items in the bbox column are of type string. The strings can be converted to a python lists like this:\n\n```\nimport ast\n\n# convert each item in the bbox column from type str to type list\ndf['bbox'] = df['bbox'].apply(ast.literal_eval)\n\n```\n\n\n### Acknowledgements\n\nMany thanks to Waleed Abdulla who created this dataset.\n\nThe original dataset can be downloaded and unzipped using this code:\n\n```\n!wget https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip\n!unzip balloon_dataset.zip &gt; /dev/null\n```\n\n\n\n### Inspiration\n\nCan you create an app that can look at an image and tell you: \n- how many balloons are on the image, and \n- what are the colours of those balloons.\n\nThis is something that could help blind people. To help you get started [here's](https://www.youtube.com/watch?v=eUSgtfK4ivk) an example of a similar project . \n\n### License\n\nIn this [blog post](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46) the dataset's creator mentions that the images were sourced from Flickr. All images have a \"Commercial use & mods allowed\" license.\n\n<br>\n<br>\nHeader image by andremsantana on Pixabay.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

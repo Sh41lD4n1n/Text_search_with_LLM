@@ -1,0 +1,39 @@
+{
+  "id": "mattop/bahama-breeze-menu-nutrition-data",
+  "id_no": 5280981,
+  "datasetSlugNullable": "bahama-breeze-menu-nutrition-data",
+  "ownerUserNullable": "mattop",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bahama Breeze Menu Nutrition Data",
+  "subtitleNullable": "Bahama Breeze Restaurant Menu Nutritional Dataset",
+  "descriptionNullable": "The Bahama Breeze Menu Nutrition Data dataset provides detailed nutritional information for various items available at Bahama Breeze, a restaurant known for its Caribbean-inspired cuisine. The dataset is organized into the following columns:\n\n- Item: The name of the food or beverage item offered on the Bahama Breeze menu.\n- Category: The type or classification of the item, such as appetizers, entrees, desserts, or beverages.\n- Calories: The total number of calories contained in one serving of the item.\n- Total_Carbs_g: The total amount of carbohydrates in grams present in one serving of the item.\n- Sodium_mg: The amount of sodium in milligrams found in one serving of the item.\n- Weight_Watchers: The Weight Watchers points value assigned to one serving of the item, useful for individuals following the Weight Watchers diet program.\n\nThis dataset can be used to analyze the nutritional content of Bahama Breeze's offerings, helping customers make informed dietary choices based on their nutritional needs and preferences.",
+  "datasetId": 5280981,
+  "datasetSlug": "bahama-breeze-menu-nutrition-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mattop",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 4,
+  "totalDownloads": 1,
+  "title": "Bahama Breeze Menu Nutrition Data",
+  "hasTitle": true,
+  "subtitle": "Bahama Breeze Restaurant Menu Nutritional Dataset",
+  "hasSubtitle": true,
+  "description": "The Bahama Breeze Menu Nutrition Data dataset provides detailed nutritional information for various items available at Bahama Breeze, a restaurant known for its Caribbean-inspired cuisine. The dataset is organized into the following columns:\n\n- Item: The name of the food or beverage item offered on the Bahama Breeze menu.\n- Category: The type or classification of the item, such as appetizers, entrees, desserts, or beverages.\n- Calories: The total number of calories contained in one serving of the item.\n- Total_Carbs_g: The total amount of carbohydrates in grams present in one serving of the item.\n- Sodium_mg: The amount of sodium in milligrams found in one serving of the item.\n- Weight_Watchers: The Weight Watchers points value assigned to one serving of the item, useful for individuals following the Weight Watchers diet program.\n\nThis dataset can be used to analyze the nutritional content of Bahama Breeze's offerings, helping customers make informed dietary choices based on their nutritional needs and preferences.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nutrition"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

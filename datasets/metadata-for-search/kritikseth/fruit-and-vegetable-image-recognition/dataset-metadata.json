@@ -1,0 +1,43 @@
+{
+  "id": "kritikseth/fruit-and-vegetable-image-recognition",
+  "id_no": 952827,
+  "datasetSlugNullable": "fruit-and-vegetable-image-recognition",
+  "ownerUserNullable": "kritikseth",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fruits and Vegetables Image Recognition Dataset",
+  "subtitleNullable": "Fruit and Vegetable Images for Object Recognition",
+  "descriptionNullable": "### About the Dataset\n\n#### Context\n\nThis dataset encompasses images of various fruits and vegetables, providing a diverse collection for image recognition tasks. The included food items are:\n\n- **Fruits**: Banana, Apple, Pear, Grapes, Orange, Kiwi, Watermelon, Pomegranate, Pineapple, Mango\n- **Vegetables**: Cucumber, Carrot, Capsicum, Onion, Potato, Lemon, Tomato, Radish, Beetroot, Cabbage, Lettuce, Spinach, Soybean, Cauliflower, Bell Pepper, Chilli Pepper, Turnip, Corn, Sweetcorn, Sweet Potato, Paprika, Jalape\u00f1o, Ginger, Garlic, Peas, Eggplant\n\n#### Content\n\nThe dataset is organized into three main folders:\n- **Train**: Contains 100 images per category.\n- **Test**: Contains 10 images per category.\n- **Validation**: Contains 10 images per category.\n\nEach of these folders is subdivided into specific folders for each type of fruit and vegetable, containing respective images.\n\n#### Data Collection\n\nThe images in this dataset were sourced using Bing Image Search for a personal project focused on image recognition of food items. The creator does not hold the rights to any of the images included in this dataset. If you are the owner of any image and have concerns regarding its use, please contact the creator to request its removal. The creator will promptly comply with any such requests to ensure all legal obligations are met.\n\n**Disclaimer**: Users of this dataset are responsible for ensuring that their use of the images complies with applicable copyright laws and regulations. The creator assumes no responsibility for any legal issues that may arise from the use of this dataset. It is recommended to use the dataset for educational and non-commercial purposes only and to seek legal counsel if you have specific concerns about copyright compliance.\n\n#### Inspiration\n\nThe primary motivation behind creating this dataset was to develop an application capable of recognizing food items from photographs. The application aims to suggest various recipes that can be prepared using the identified ingredients.\n\n#### Citation\n```\nKritik Seth, \"Fruits and Vegetables Image Recognition Dataset,\" Kaggle 2020 [https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition]\n```",
+  "datasetId": 952827,
+  "datasetSlug": "fruit-and-vegetable-image-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "kritikseth",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 190072,
+  "totalVotes": 333,
+  "totalDownloads": 28261,
+  "title": "Fruits and Vegetables Image Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "Fruit and Vegetable Images for Object Recognition",
+  "hasSubtitle": true,
+  "description": "### About the Dataset\n\n#### Context\n\nThis dataset encompasses images of various fruits and vegetables, providing a diverse collection for image recognition tasks. The included food items are:\n\n- **Fruits**: Banana, Apple, Pear, Grapes, Orange, Kiwi, Watermelon, Pomegranate, Pineapple, Mango\n- **Vegetables**: Cucumber, Carrot, Capsicum, Onion, Potato, Lemon, Tomato, Radish, Beetroot, Cabbage, Lettuce, Spinach, Soybean, Cauliflower, Bell Pepper, Chilli Pepper, Turnip, Corn, Sweetcorn, Sweet Potato, Paprika, Jalape\u00f1o, Ginger, Garlic, Peas, Eggplant\n\n#### Content\n\nThe dataset is organized into three main folders:\n- **Train**: Contains 100 images per category.\n- **Test**: Contains 10 images per category.\n- **Validation**: Contains 10 images per category.\n\nEach of these folders is subdivided into specific folders for each type of fruit and vegetable, containing respective images.\n\n#### Data Collection\n\nThe images in this dataset were sourced using Bing Image Search for a personal project focused on image recognition of food items. The creator does not hold the rights to any of the images included in this dataset. If you are the owner of any image and have concerns regarding its use, please contact the creator to request its removal. The creator will promptly comply with any such requests to ensure all legal obligations are met.\n\n**Disclaimer**: Users of this dataset are responsible for ensuring that their use of the images complies with applicable copyright laws and regulations. The creator assumes no responsibility for any legal issues that may arise from the use of this dataset. It is recommended to use the dataset for educational and non-commercial purposes only and to seek legal counsel if you have specific concerns about copyright compliance.\n\n#### Inspiration\n\nThe primary motivation behind creating this dataset was to develop an application capable of recognizing food items from photographs. The application aims to suggest various recipes that can be prepared using the identified ingredients.\n\n#### Citation\n```\nKritik Seth, \"Fruits and Vegetables Image Recognition Dataset,\" Kaggle 2020 [https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition]\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "multiclass classification",
+    "cooking and recipes",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

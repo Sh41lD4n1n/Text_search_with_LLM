@@ -1,0 +1,41 @@
+{
+  "id": "tesladeaths/tesla-deaths",
+  "id_no": 3269750,
+  "datasetSlugNullable": "tesla-deaths",
+  "ownerUserNullable": "tesladeaths",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Tesla Deaths (Latest Version)",
+  "subtitleNullable": "Record of Tesla accidents that involved a death. Data source updated regularly.",
+  "descriptionNullable": "Tesla Deaths is a record of Tesla accidents that involved a driver, occupant, cyclist, motorcyclist, or pedestrian death. We record information about Tesla fatalities that have been reported and as much related crash data as possible such as location of crash, names of deceased. This dataset also tallies claimed and confirmed Tesla autopilot crashes, that is instances when Autopilot was activated during a Tesla crash that resulted in death.\n\nLatest version of dataset at [https://www.tesladeaths.com](https://www.tesladeaths.com).",
+  "datasetId": 3269750,
+  "datasetSlug": "tesla-deaths",
+  "hasDatasetSlug": true,
+  "ownerUser": "tesladeaths",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 300,
+  "totalVotes": 2,
+  "totalDownloads": 54,
+  "title": "Tesla Deaths (Latest Version)",
+  "hasTitle": true,
+  "subtitle": "Record of Tesla accidents that involved a death. Data source updated regularly.",
+  "hasSubtitle": true,
+  "description": "Tesla Deaths is a record of Tesla accidents that involved a driver, occupant, cyclist, motorcyclist, or pedestrian death. We record information about Tesla fatalities that have been reported and as much related crash data as possible such as location of crash, names of deceased. This dataset also tallies claimed and confirmed Tesla autopilot crashes, that is instances when Autopilot was activated during a Tesla crash that resulted in death.\n\nLatest version of dataset at [https://www.tesladeaths.com](https://www.tesladeaths.com).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mortality",
+    "automobiles and vehicles",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

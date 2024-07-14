@@ -1,0 +1,43 @@
+{
+  "id": "fool2huo/pneumonia-cxr-dataset",
+  "id_no": 4579365,
+  "datasetSlugNullable": "pneumonia-cxr-dataset",
+  "ownerUserNullable": "fool2huo",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "pneumonia CXR dataset",
+  "subtitleNullable": "6,126 images and corresponding lung masks, 4 categories",
+  "descriptionNullable": "### pneumonia CXR dataset\nThe dataset is organized into 3 folders (train, validation, test) and contains subfolders for each image category (Normal/COVID-19/Bacteria/Viral). There are 6,126 chest X-ray (CXR) images and 4 categories (Normal/COVID-19/Bacteria/Viral).\n- 1,535 Normal\n- 1,708 COVID-19\n- 1,390 Bacteria pneumonia \n- 1,493 Viral pneumonia \nGround-truth lung segmentation masks are provided for the entire dataset. \n\n### References\nIn pneumonia CXR dataset, the X-ray images are collected from the following repositories:\n1. Chest X-Ray Images (Pneumonia): https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia\n2. COVID-QU-Ex Dataset: https://www.kaggle.com/datasets/cf77495622971312010dd5934ee91f07ccbcfdea8e2f7778977ea8485c1914df\n",
+  "datasetId": 4579365,
+  "datasetSlug": "pneumonia-cxr-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fool2huo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 385,
+  "totalVotes": 0,
+  "totalDownloads": 44,
+  "title": "pneumonia CXR dataset",
+  "hasTitle": true,
+  "subtitle": "6,126 images and corresponding lung masks, 4 categories",
+  "hasSubtitle": true,
+  "description": "### pneumonia CXR dataset\nThe dataset is organized into 3 folders (train, validation, test) and contains subfolders for each image category (Normal/COVID-19/Bacteria/Viral). There are 6,126 chest X-ray (CXR) images and 4 categories (Normal/COVID-19/Bacteria/Viral).\n- 1,535 Normal\n- 1,708 COVID-19\n- 1,390 Bacteria pneumonia \n- 1,493 Viral pneumonia \nGround-truth lung segmentation masks are provided for the entire dataset. \n\n### References\nIn pneumonia CXR dataset, the X-ray images are collected from the following repositories:\n1. Chest X-Ray Images (Pneumonia): https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia\n2. COVID-QU-Ex Dataset: https://www.kaggle.com/datasets/cf77495622971312010dd5934ee91f07ccbcfdea8e2f7778977ea8485c1914df\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "health",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

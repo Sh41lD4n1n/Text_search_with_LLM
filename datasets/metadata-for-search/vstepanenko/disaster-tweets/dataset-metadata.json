@@ -1,0 +1,41 @@
+{
+  "id": "vstepanenko/disaster-tweets",
+  "id_no": 519753,
+  "datasetSlugNullable": "disaster-tweets",
+  "ownerUserNullable": "vstepanenko",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Disaster Tweets",
+  "subtitleNullable": "Real or Not? NLP with Disaster Tweets challenge add-on",
+  "descriptionNullable": "### Context\n\nThe file contains over 11,000 tweets associated with disaster keywords like \u201ccrash\u201d, \u201cquarantine\u201d, and \u201cbush fires\u201d as well as the location and keyword itself. The data structure was inherited from [Disasters on social media](https://appen.com/resources/datasets/)\n\nThe tweets were collected on Jan 14th, 2020.\n\nSome of the topics people were tweeting:\n- The eruption of Taal Volcano in Batangas, Philippines\n- Coronavirus\n- Bushfires in Australia\n- Iran downing of the airplane flight PS752\n\n\nDisclaimer: The dataset contains text that may be considered profane, vulgar, or offensive.\n\n\n### Inspiration\nThe intention was to enrich the already available data for this topic with newly collected and manually classified tweets.\nThe initial source **[Disasters on social media](https://appen.com/resources/datasets/)** which is used in **[Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)** competition on Kaggle.",
+  "datasetId": 519753,
+  "datasetSlug": "disaster-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "vstepanenko",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 46969,
+  "totalVotes": 146,
+  "totalDownloads": 6205,
+  "title": "Disaster Tweets",
+  "hasTitle": true,
+  "subtitle": "Real or Not? NLP with Disaster Tweets challenge add-on",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe file contains over 11,000 tweets associated with disaster keywords like \u201ccrash\u201d, \u201cquarantine\u201d, and \u201cbush fires\u201d as well as the location and keyword itself. The data structure was inherited from [Disasters on social media](https://appen.com/resources/datasets/)\n\nThe tweets were collected on Jan 14th, 2020.\n\nSome of the topics people were tweeting:\n- The eruption of Taal Volcano in Batangas, Philippines\n- Coronavirus\n- Bushfires in Australia\n- Iran downing of the airplane flight PS752\n\n\nDisclaimer: The dataset contains text that may be considered profane, vulgar, or offensive.\n\n\n### Inspiration\nThe intention was to enrich the already available data for this topic with newly collected and manually classified tweets.\nThe initial source **[Disasters on social media](https://appen.com/resources/datasets/)** which is used in **[Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)** competition on Kaggle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

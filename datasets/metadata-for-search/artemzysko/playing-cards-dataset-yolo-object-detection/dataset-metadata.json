@@ -1,0 +1,43 @@
+{
+  "id": "artemzysko/playing-cards-dataset-yolo-object-detection",
+  "id_no": 5286387,
+  "datasetSlugNullable": "playing-cards-dataset-yolo-object-detection",
+  "ownerUserNullable": "artemzysko",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "playing-cards-dataset | YOLO Object detection",
+  "subtitleNullable": "Comprehensive Playing Cards Dataset generated for YOLO Object Detection",
+  "descriptionNullable": "Welcome to the \"Playing Cards Dataset\" designed for YOLO Object Detection! This dataset contains high-quality images of playing cards, annotated and ready for training object detection models using the YOLO (You Only Look Once) framework. Whether you're developing an AI for card game analysis, magic tricks detection, or any other application involving playing cards, this dataset will provide the necessary data to build and fine-tune your models.\n\nLabels was generated in source (1):\n`['10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'J', 'K', 'Q']\n['Clubs', 'Diamonds', 'Hearts', 'Spades']\n['10_Clubs', '10_Diamonds', '10_Hearts', '10_Spades', '2_Clubs', '2_Diamonds', '2_Hearts', '2_Spades', '3_Clubs', '3_Diamonds', '3_Hearts', '3_Spades', '4_Clubs', '4_Diamonds', '4_Hearts', '4_Spades', '5_Clubs', '5_Diamonds', '5_Hearts', '5_Spades', '6_Clubs', '6_Diamonds', '6_Hearts', '6_Spades', '7_Clubs', '7_Diamonds', '7_Hearts', '7_Spades', '8_Clubs', '8_Diamonds', '8_Hearts', '8_Spades', '9_Clubs', '9_Diamonds', '9_Hearts', '9_Spades', 'A_Clubs', 'A_Diamonds', 'A_Hearts', 'A_Spades', 'J_Clubs', 'J_Diamonds', 'J_Hearts', 'J_Spades', 'K_Clubs', 'K_Diamonds', 'K_Hearts', 'K_Spades', 'Q_Clubs', 'Q_Diamonds', 'Q_Hearts', 'Q_Spades'] 52`\n\nFeel free to leave comments on things I should fix or improve",
+  "datasetId": 5286387,
+  "datasetSlug": "playing-cards-dataset-yolo-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "artemzysko",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 13,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "playing-cards-dataset | YOLO Object detection",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Playing Cards Dataset generated for YOLO Object Detection",
+  "hasSubtitle": true,
+  "description": "Welcome to the \"Playing Cards Dataset\" designed for YOLO Object Detection! This dataset contains high-quality images of playing cards, annotated and ready for training object detection models using the YOLO (You Only Look Once) framework. Whether you're developing an AI for card game analysis, magic tricks detection, or any other application involving playing cards, this dataset will provide the necessary data to build and fine-tune your models.\n\nLabels was generated in source (1):\n`['10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'J', 'K', 'Q']\n['Clubs', 'Diamonds', 'Hearts', 'Spades']\n['10_Clubs', '10_Diamonds', '10_Hearts', '10_Spades', '2_Clubs', '2_Diamonds', '2_Hearts', '2_Spades', '3_Clubs', '3_Diamonds', '3_Hearts', '3_Spades', '4_Clubs', '4_Diamonds', '4_Hearts', '4_Spades', '5_Clubs', '5_Diamonds', '5_Hearts', '5_Spades', '6_Clubs', '6_Diamonds', '6_Hearts', '6_Spades', '7_Clubs', '7_Diamonds', '7_Hearts', '7_Spades', '8_Clubs', '8_Diamonds', '8_Hearts', '8_Spades', '9_Clubs', '9_Diamonds', '9_Hearts', '9_Spades', 'A_Clubs', 'A_Diamonds', 'A_Hearts', 'A_Spades', 'J_Clubs', 'J_Diamonds', 'J_Hearts', 'J_Spades', 'K_Clubs', 'K_Diamonds', 'K_Hearts', 'K_Spades', 'Q_Clubs', 'Q_Diamonds', 'Q_Hearts', 'Q_Spades'] 52`\n\nFeel free to leave comments on things I should fix or improve",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "card games",
+    "image",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

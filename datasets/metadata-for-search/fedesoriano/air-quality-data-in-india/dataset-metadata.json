@@ -1,0 +1,43 @@
+{
+  "id": "fedesoriano/air-quality-data-in-india",
+  "id_no": 2238903,
+  "datasetSlugNullable": "air-quality-data-in-india",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Air Quality Data in India (2017 - 2022)",
+  "subtitleNullable": "Hourly Air Quality Index (AQI) data in India",
+  "descriptionNullable": "### Similar Datasets\n\n- Cirrhosis Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)\n- Boston House Prices-Advanced Regression Techniques: [LINK](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)\n- CERN Electron Collision Data: [LINK](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data)\n- Hepatitis C Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nAir is what keeps humans alive. Since industrialization, there has been an increasing concern about environmental pollution. As mentioned in the WHO report 7 million premature deaths annually linked to air pollution, air pollution is the world's largest single environmental risk. Moreover, as reported in the NY Times article, India\u2019s Air Pollution Rivals China\u2019s as World\u2019s Deadliest it has been found that India's air pollution is deadlier than even China's.\n\nMonitoring it and understanding its quality is of immense importance to our well-being. Using this dataset one can explore India's air pollution levels at a more granular scale.\n\n\n### Content\n\nThe dataset contains hourly air quality data (PM 2.5) of India. More specifically, it contains 36.192 observations of the hourly PM2.5 measure in India.\n\n\n### Attribute Information\n\n1. Timestamp: Timestamp in the format YYYY-MM-DD HH:MM:SS\n1. Year: Year of the measure\n1. Month: Month of the measure\n1. Day: Day of the measure\n1. Hour: Hour of the measure\n1. PM2.5: Fine particulate matter air pollutant level in air\n\n\n### Citation Request\n\nIf you want to cite this data:\n&gt; fedesoriano. (June 2022). Air Quality Data in India (2017 - 2022). Retrieved [Date Retrieved] from https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india",
+  "datasetId": 2238903,
+  "datasetSlug": "air-quality-data-in-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 34888,
+  "totalVotes": 68,
+  "totalDownloads": 5731,
+  "title": "Air Quality Data in India (2017 - 2022)",
+  "hasTitle": true,
+  "subtitle": "Hourly Air Quality Index (AQI) data in India",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets\n\n- Cirrhosis Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)\n- Boston House Prices-Advanced Regression Techniques: [LINK](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)\n- CERN Electron Collision Data: [LINK](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data)\n- Hepatitis C Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nAir is what keeps humans alive. Since industrialization, there has been an increasing concern about environmental pollution. As mentioned in the WHO report 7 million premature deaths annually linked to air pollution, air pollution is the world's largest single environmental risk. Moreover, as reported in the NY Times article, India\u2019s Air Pollution Rivals China\u2019s as World\u2019s Deadliest it has been found that India's air pollution is deadlier than even China's.\n\nMonitoring it and understanding its quality is of immense importance to our well-being. Using this dataset one can explore India's air pollution levels at a more granular scale.\n\n\n### Content\n\nThe dataset contains hourly air quality data (PM 2.5) of India. More specifically, it contains 36.192 observations of the hourly PM2.5 measure in India.\n\n\n### Attribute Information\n\n1. Timestamp: Timestamp in the format YYYY-MM-DD HH:MM:SS\n1. Year: Year of the measure\n1. Month: Month of the measure\n1. Day: Day of the measure\n1. Hour: Hour of the measure\n1. PM2.5: Fine particulate matter air pollutant level in air\n\n\n### Citation Request\n\nIf you want to cite this data:\n&gt; fedesoriano. (June 2022). Air Quality Data in India (2017 - 2022). Retrieved [Date Retrieved] from https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "earth and nature",
+    "environment",
+    "pollution",
+    "weather and climate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

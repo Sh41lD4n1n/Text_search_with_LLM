@@ -1,0 +1,43 @@
+{
+  "id": "abhijitdahatonde/zomato-restaurants-dataset",
+  "id_no": 3538481,
+  "datasetSlugNullable": "zomato-restaurants-dataset",
+  "ownerUserNullable": "abhijitdahatonde",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Zomato Restaurants Dataset",
+  "subtitleNullable": "Zomato Restaurant Data Collection!",
+  "descriptionNullable": "The Zomato Restaurant Dataset is a comprehensive collection of restaurant data sourced from the popular online food delivery platform, Zomato. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13571604%2F8baa8a38ce326f7bf82d8a028165a31f%2FScreenshot%202023-07-20%20064231.png?generation=1689859178257287&alt=media)\n\nThis dataset contains information about various restaurants listed on the platform, including their location, cuisine type, ratings, user reviews, and other essential attributes.\n The data is designed to help researchers, data enthusiasts, and analysts gain insights into the restaurant industry, customer preferences, and regional culinary trends.",
+  "datasetId": 3538481,
+  "datasetSlug": "zomato-restaurants-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhijitdahatonde",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20271,
+  "totalVotes": 140,
+  "totalDownloads": 4605,
+  "title": "Zomato Restaurants Dataset",
+  "hasTitle": true,
+  "subtitle": "Zomato Restaurant Data Collection!",
+  "hasSubtitle": true,
+  "description": "The Zomato Restaurant Dataset is a comprehensive collection of restaurant data sourced from the popular online food delivery platform, Zomato. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13571604%2F8baa8a38ce326f7bf82d8a028165a31f%2FScreenshot%202023-07-20%20064231.png?generation=1689859178257287&alt=media)\n\nThis dataset contains information about various restaurants listed on the platform, including their location, cuisine type, ratings, user reviews, and other essential attributes.\n The data is designed to help researchers, data enthusiasts, and analysts gain insights into the restaurant industry, customer preferences, and regional culinary trends.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "data visualization",
+    "food",
+    "restaurants",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

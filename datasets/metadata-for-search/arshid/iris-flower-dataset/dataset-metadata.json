@@ -1,0 +1,41 @@
+{
+  "id": "arshid/iris-flower-dataset",
+  "id_no": 17860,
+  "datasetSlugNullable": "iris-flower-dataset",
+  "ownerUserNullable": "arshid",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Iris Flower Dataset",
+  "subtitleNullable": "Iris flower data set used for multi-class classification.",
+  "descriptionNullable": "### Context\n\nThe Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems.  It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. The data set consists of 50 samples from each of three species of Iris (Iris Setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.\n\nThis dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines\n\n\n### Content\n\nThe dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).\n\n\n### Acknowledgements\n\nThis dataset is free and is publicly available at the UCI Machine Learning Repository ",
+  "datasetId": 17860,
+  "datasetSlug": "iris-flower-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arshid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 629610,
+  "totalVotes": 859,
+  "totalDownloads": 161405,
+  "title": "Iris Flower Dataset",
+  "hasTitle": true,
+  "subtitle": "Iris flower data set used for multi-class classification.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems.  It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. The data set consists of 50 samples from each of three species of Iris (Iris Setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.\n\nThis dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines\n\n\n### Content\n\nThe dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).\n\n\n### Acknowledgements\n\nThis dataset is free and is publicly available at the UCI Machine Learning Repository ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

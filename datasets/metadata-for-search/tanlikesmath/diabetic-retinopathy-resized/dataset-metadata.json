@@ -1,0 +1,47 @@
+{
+  "id": "tanlikesmath/diabetic-retinopathy-resized",
+  "id_no": 131128,
+  "datasetSlugNullable": "diabetic-retinopathy-resized",
+  "ownerUserNullable": "tanlikesmath",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Diabetic Retinopathy (resized)",
+  "subtitleNullable": "Resized version of the Diabetic Retinopathy Kaggle competition dataset",
+  "descriptionNullable": "# Diabetic Retinopathy Detection Competition Dataset Resized/Cropped\n\nIn this dataset, I have included both a resized version of the dataset, and a cropped then resized version of the data.\n\n## trainLabels.csv\n\nThis file contains the name of the file under the 'image' column and the label under the 'level' column.\n\n\n## resized_train:\n\nThis folder was created by simply resizing the dataset to 1024x1024 if it is bigger than this size, else it remains the same.\nThe code used to create this dataset is:\n\n\n    import glob\n    import os\n    from tqdm import tqdm\n    import math\n    from PIL import Image \n    files = glob.glob('D:\\\\Experiments with Deep Learning\\\\DR Kaggle\\\\train\\\\train\\\\train\\\\*.jpeg')\n\n    new_width = 1024\n\n    for i in tqdm(range(len(files))):\n        img = Image.open(files[i])\n        width,height = img.size\n        ratio = height/width\n        if width &gt; new_width:\n            new_image = img.resize((new_width,math.ceil(ratio*new_width)))   \n        else:\n            new_image = img\n        new_image.save('D:\\\\Experiments with Deep Learning\\\\DR \n    Kaggle\\\\train\\\\train\\\\resized_train\\\\'+os.path.basename(files[i]))\n`\n\n\n## resized_train_cropped:\n\nIn this case, as much of the black space is cropped out by trying to identify the center and radius of the circle of the fundus image. Some of the images turned out to be fully black or very close to fully black, and no mask was found. Hence, those images were manually removed. There may still be some noisy images remaining, however.\n\nThe code used to create this dataset is:\n\n    # import the necessary packages\n    import numpy as np\n    import cv2\n    import glob\n    import os\n    from tqdm import tqdm\n    import math\n    from PIL import Image\n    files = glob.glob('D:\\\\Experiments with Deep Learning\\\\DR Kaggle\\\\train\\\\train\\\\train\\\\*.jpeg')\n\n    new_sz = 1024\n\n    def crop_image(image):\n        output = image.copy()\n        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)\n        ret,gray = cv2.threshold(gray,10,255,cv2.THRESH_BINARY)\n        contours,hierarchy = cv2.findContours(gray,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)\n        if not contours:\n            print('no contours!')\n            flag = 0\n            return image, flag\n        cnt = max(contours, key=cv2.contourArea)\n        ((x, y), r) = cv2.minEnclosingCircle(cnt)\n        x = int(x); y = int(y); r = int(r)\n        flag = 1\n        #print(x,y,r)\n        if r &gt; 100:\n            return output[0 + (y-r)*int(r",
+  "datasetId": 131128,
+  "datasetSlug": "diabetic-retinopathy-resized",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanlikesmath",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 122332,
+  "totalVotes": 512,
+  "totalDownloads": 20454,
+  "title": "Diabetic Retinopathy (resized)",
+  "hasTitle": true,
+  "subtitle": "Resized version of the Diabetic Retinopathy Kaggle competition dataset",
+  "hasSubtitle": true,
+  "description": "# Diabetic Retinopathy Detection Competition Dataset Resized/Cropped\n\nIn this dataset, I have included both a resized version of the dataset, and a cropped then resized version of the data.\n\n## trainLabels.csv\n\nThis file contains the name of the file under the 'image' column and the label under the 'level' column.\n\n\n## resized_train:\n\nThis folder was created by simply resizing the dataset to 1024x1024 if it is bigger than this size, else it remains the same.\nThe code used to create this dataset is:\n\n\n    import glob\n    import os\n    from tqdm import tqdm\n    import math\n    from PIL import Image \n    files = glob.glob('D:\\\\Experiments with Deep Learning\\\\DR Kaggle\\\\train\\\\train\\\\train\\\\*.jpeg')\n\n    new_width = 1024\n\n    for i in tqdm(range(len(files))):\n        img = Image.open(files[i])\n        width,height = img.size\n        ratio = height/width\n        if width &gt; new_width:\n            new_image = img.resize((new_width,math.ceil(ratio*new_width)))   \n        else:\n            new_image = img\n        new_image.save('D:\\\\Experiments with Deep Learning\\\\DR \n    Kaggle\\\\train\\\\train\\\\resized_train\\\\'+os.path.basename(files[i]))\n`\n\n\n## resized_train_cropped:\n\nIn this case, as much of the black space is cropped out by trying to identify the center and radius of the circle of the fundus image. Some of the images turned out to be fully black or very close to fully black, and no mask was found. Hence, those images were manually removed. There may still be some noisy images remaining, however.\n\nThe code used to create this dataset is:\n\n    # import the necessary packages\n    import numpy as np\n    import cv2\n    import glob\n    import os\n    from tqdm import tqdm\n    import math\n    from PIL import Image\n    files = glob.glob('D:\\\\Experiments with Deep Learning\\\\DR Kaggle\\\\train\\\\train\\\\train\\\\*.jpeg')\n\n    new_sz = 1024\n\n    def crop_image(image):\n        output = image.copy()\n        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)\n        ret,gray = cv2.threshold(gray,10,255,cv2.THRESH_BINARY)\n        contours,hierarchy = cv2.findContours(gray,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)\n        if not contours:\n            print('no contours!')\n            flag = 0\n            return image, flag\n        cnt = max(contours, key=cv2.contourArea)\n        ((x, y), r) = cv2.minEnclosingCircle(cnt)\n        x = int(x); y = int(y); r = int(r)\n        flag = 1\n        #print(x,y,r)\n        if r &gt; 100:\n            return output[0 + (y-r)*int(r",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "biology",
+    "health",
+    "medicine",
+    "software",
+    "classification",
+    "image",
+    "diabetes",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "luckybro/mental-health-search-term",
+  "id_no": 706590,
+  "datasetSlugNullable": "mental-health-search-term",
+  "ownerUserNullable": "luckybro",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "COVID-19 and Mental Health Search Terms",
+  "subtitleNullable": "How much is the world's concern about mental health affected by the pandemic",
+  "descriptionNullable": "This dataset is created for a task of UNCOVER COVID-19 Challenge, [Mental health impact and support services](https://www.kaggle.com/roche-data-science-coalition/uncover/tasks?taskId=1068).\n\nThe search interest of mental health related terms on Google before and after the outbreak of COVID-19 pandemic reveals how public's concern is affected by the pandemic, and its impact to mental health of people around the world. I picked worldwide, Canada, US, Italy, Iran, Japan, South Korea and UK as the population. The dataset also includes data of Canada for the past 4 years, from 2016 to 2019.\n\nThe mental health related search terms are \"mental health\", \"depression\", \"anxiety\", \"ocd\", \"obsessive compulsive disorder\", \"insomnia\", \"panic attack\", \"counseling\", \"psychiatrist\".\n\nSearch interest is indicated by a number between 0 and 100, where 100 means the most popular point of time(by week), 1 means the least, and 0 no enough data.\n\nAll data is collected from Google Trends. I assumed, when searching the terms, users from countries other than English-speaking performed the search in their own language, and they typed the word correctly.",
+  "datasetId": 706590,
+  "datasetSlug": "mental-health-search-term",
+  "hasDatasetSlug": true,
+  "ownerUser": "luckybro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 24360,
+  "totalVotes": 49,
+  "totalDownloads": 3363,
+  "title": "COVID-19 and Mental Health Search Terms",
+  "hasTitle": true,
+  "subtitle": "How much is the world's concern about mental health affected by the pandemic",
+  "hasSubtitle": true,
+  "description": "This dataset is created for a task of UNCOVER COVID-19 Challenge, [Mental health impact and support services](https://www.kaggle.com/roche-data-science-coalition/uncover/tasks?taskId=1068).\n\nThe search interest of mental health related terms on Google before and after the outbreak of COVID-19 pandemic reveals how public's concern is affected by the pandemic, and its impact to mental health of people around the world. I picked worldwide, Canada, US, Italy, Iran, Japan, South Korea and UK as the population. The dataset also includes data of Canada for the past 4 years, from 2016 to 2019.\n\nThe mental health related search terms are \"mental health\", \"depression\", \"anxiety\", \"ocd\", \"obsessive compulsive disorder\", \"insomnia\", \"panic attack\", \"counseling\", \"psychiatrist\".\n\nSearch interest is indicated by a number between 0 and 100, where 100 means the most popular point of time(by week), 1 means the least, and 0 no enough data.\n\nAll data is collected from Google Trends. I assumed, when searching the terms, users from countries other than English-speaking performed the search in their own language, and they typed the word correctly.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "search engines",
+    "mental health",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

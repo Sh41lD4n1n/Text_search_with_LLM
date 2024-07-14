@@ -1,0 +1,42 @@
+{
+  "id": "miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests",
+  "id_no": 754810,
+  "datasetSlugNullable": "massive-stock-news-analysis-db-for-nlpbacktests",
+  "ownerUserNullable": "miguelaenlle",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Daily Financial News for 6000+ Stocks",
+  "subtitleNullable": "~4m articles for 6000 stocks from 2009-2020",
+  "descriptionNullable": "### Context\n\nGaining access to high-quality (historical) stock market news data is hard and expensive; subscriptions to historical news data provider services can cost thousands of dollars. Here, I've compiled stock news data scraped directly from its source into an easy-to-use format. I've also provided the scripts used to get this data and the scripts I use for personally trading this data in real-time here: https://github.com/bot-developer3/Scraping-Tools-Benzinga. \n\n### Content\n\n________________________\n\nraw_analyst_ratings.csv \n\nDirectly-scraped raw analyst ratings\n\nColumns are as follows: index, headline, URL, article author (publisher is always benzinga), publication timestamp, stock ticker symbol. \n\nNote that all dates on this CSV file don't contain exact hour-minute-second information. If you plan on using this file to backtest (analyst_ratings_processed.csv is better), assume that the article was published the next day instead of the day shown on the current article.\n\n________________________\n\nraw_partner_headlines.csv \n\nDirectly-scraped raw news headlines\n\nColumns go as follows: index, headline, URL, publisher (NOT benzinga), date, stock ticker. For this CSV, it isn't possible to get exact dates\n\nFor this CSV, it isn't possible to get precise hour-minute-second timestamps for the dates. Do what is stated for backtesting in the previous note for this CSV too.\n\n________________________\n\nanalyst_ratings_processed.csv\n\nProcessed analyst ratings\n\nColumns go as follows: article title, date, stock\n\nTimezone is UTC-4. The difference between this and raw_analyst_headlines is that this has exact dates to the minute vs. raw_analyst_ratings which is only the day without hour or minutes.\n\n### Acknowledgements\n\nThe data was scraped from benzinga.com. The news articles are the property of Benzinga, not me.\n",
+  "datasetId": 754810,
+  "datasetSlug": "massive-stock-news-analysis-db-for-nlpbacktests",
+  "hasDatasetSlug": true,
+  "ownerUser": "miguelaenlle",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 81244,
+  "totalVotes": 214,
+  "totalDownloads": 9650,
+  "title": "Daily Financial News for 6000+ Stocks",
+  "hasTitle": true,
+  "subtitle": "~4m articles for 6000 stocks from 2009-2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGaining access to high-quality (historical) stock market news data is hard and expensive; subscriptions to historical news data provider services can cost thousands of dollars. Here, I've compiled stock news data scraped directly from its source into an easy-to-use format. I've also provided the scripts used to get this data and the scripts I use for personally trading this data in real-time here: https://github.com/bot-developer3/Scraping-Tools-Benzinga. \n\n### Content\n\n________________________\n\nraw_analyst_ratings.csv \n\nDirectly-scraped raw analyst ratings\n\nColumns are as follows: index, headline, URL, article author (publisher is always benzinga), publication timestamp, stock ticker symbol. \n\nNote that all dates on this CSV file don't contain exact hour-minute-second information. If you plan on using this file to backtest (analyst_ratings_processed.csv is better), assume that the article was published the next day instead of the day shown on the current article.\n\n________________________\n\nraw_partner_headlines.csv \n\nDirectly-scraped raw news headlines\n\nColumns go as follows: index, headline, URL, publisher (NOT benzinga), date, stock ticker. For this CSV, it isn't possible to get exact dates\n\nFor this CSV, it isn't possible to get precise hour-minute-second timestamps for the dates. Do what is stated for backtesting in the previous note for this CSV too.\n\n________________________\n\nanalyst_ratings_processed.csv\n\nProcessed analyst ratings\n\nColumns go as follows: article title, date, stock\n\nTimezone is UTC-4. The difference between this and raw_analyst_headlines is that this has exact dates to the minute vs. raw_analyst_ratings which is only the day without hour or minutes.\n\n### Acknowledgements\n\nThe data was scraped from benzinga.com. The news articles are the property of Benzinga, not me.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "nlp",
+    "spaCy",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

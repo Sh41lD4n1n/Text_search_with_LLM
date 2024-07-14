@@ -1,0 +1,42 @@
+{
+  "id": "asad1m9a9h6mood/news-articles",
+  "id_no": 1192,
+  "datasetSlugNullable": "news-articles",
+  "ownerUserNullable": "asad1m9a9h6mood",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "News Articles",
+  "subtitleNullable": "This dataset include articles from 2015 till date",
+  "descriptionNullable": "# Content\n\nThis Dataset is scraped from https://www.thenews.com.pk website. It has news articles from 2015 till date related to business and sports. It Contains the Heading of the particular Article, Its content and its date. The content also contains the place from where the statement or Article was published.\n\n# Importance\n\nThis dataset can be used to detect main patterns between writing pattern of different types of articles. One more thing that can be extracted from it is that we could also detect the main locations from where the different types of articles originate.\n\n# Improvements\n\nSome Data Cleaning could still be done specially in the content area of the dataset. One more thing that could be done is that we could extract the locations from the content and make a separated table for it.\n\n\n# Acknowledgements\n\nI'd like to thanks developer of Selenium Library. That helped a lot in retrieving the data.",
+  "datasetId": 1192,
+  "datasetSlug": "news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "asad1m9a9h6mood",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 43440,
+  "totalVotes": 42,
+  "totalDownloads": 6885,
+  "title": "News Articles",
+  "hasTitle": true,
+  "subtitle": "This dataset include articles from 2015 till date",
+  "hasSubtitle": true,
+  "description": "# Content\n\nThis Dataset is scraped from https://www.thenews.com.pk website. It has news articles from 2015 till date related to business and sports. It Contains the Heading of the particular Article, Its content and its date. The content also contains the place from where the statement or Article was published.\n\n# Importance\n\nThis dataset can be used to detect main patterns between writing pattern of different types of articles. One more thing that can be extracted from it is that we could also detect the main locations from where the different types of articles originate.\n\n# Improvements\n\nSome Data Cleaning could still be done specially in the content area of the dataset. One more thing that could be done is that we could extract the locations from the content and make a separated table for it.\n\n\n# Acknowledgements\n\nI'd like to thanks developer of Selenium Library. That helped a lot in retrieving the data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "linguistics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

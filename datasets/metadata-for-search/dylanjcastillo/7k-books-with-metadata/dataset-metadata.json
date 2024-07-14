@@ -1,0 +1,41 @@
+{
+  "id": "dylanjcastillo/7k-books-with-metadata",
+  "id_no": 499742,
+  "datasetSlugNullable": "7k-books-with-metadata",
+  "ownerUserNullable": "dylanjcastillo",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "7k Books",
+  "subtitleNullable": "Dataset of books with title, author, description, rating, thumbnail, and more",
+  "descriptionNullable": "### Do we really need another dataset of books?\n\nMy initial plan was to build a toy example for a recommender system article I was writing. After a bit of googling, I found a few datasets. Sadly, most of them had some issues that made them unusable for me (e.g, missing description of the book, a mix of different languages but no column to specify the language per row or weird delimiters). \n\nSo I decided to make a dataset that would match my purposes.\n\nFirst, I got ISBNs from [Soumik's Goodreads-books dataset](https://www.kaggle.com/jealousleopard/goodreadsbooks). Using those identifiers, I crawled the Google Books API to extract the books' information.\n\nThen, I merged those results with some of the original columns from the dataset and after some cleaning I got the dataset you see here.\n\n### What can I do with this?\nDifferent Exploratory Data Analysis, clustering of books by topics/category, content-based recommendation engine using different fields from the book's description. \n\n### Why is this dataset smaller than Soumik's Goodreads-books?\nMany of the ISBNs of that dataset did not return valid results from the Google Books API. I plan to update this in the future, using more fields (e.g., title, author) in the API requests, as to have a bigger dataset.\n\n### What did you use to build this dataset?\nCheck out the repoistory here [Google Books Crawler](https://github.com/dylanjcastillo/google_books_crawler)\n\n### Acknowledgements\n\nThis dataset relied heavily on [Soumik's Goodreads-books dataset](https://www.kaggle.com/jealousleopard/goodreadsbooks).",
+  "datasetId": 499742,
+  "datasetSlug": "7k-books-with-metadata",
+  "hasDatasetSlug": true,
+  "ownerUser": "dylanjcastillo",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 26550,
+  "totalVotes": 42,
+  "totalDownloads": 4109,
+  "title": "7k Books",
+  "hasTitle": true,
+  "subtitle": "Dataset of books with title, author, description, rating, thumbnail, and more",
+  "hasSubtitle": true,
+  "description": "### Do we really need another dataset of books?\n\nMy initial plan was to build a toy example for a recommender system article I was writing. After a bit of googling, I found a few datasets. Sadly, most of them had some issues that made them unusable for me (e.g, missing description of the book, a mix of different languages but no column to specify the language per row or weird delimiters). \n\nSo I decided to make a dataset that would match my purposes.\n\nFirst, I got ISBNs from [Soumik's Goodreads-books dataset](https://www.kaggle.com/jealousleopard/goodreadsbooks). Using those identifiers, I crawled the Google Books API to extract the books' information.\n\nThen, I merged those results with some of the original columns from the dataset and after some cleaning I got the dataset you see here.\n\n### What can I do with this?\nDifferent Exploratory Data Analysis, clustering of books by topics/category, content-based recommendation engine using different fields from the book's description. \n\n### Why is this dataset smaller than Soumik's Goodreads-books?\nMany of the ISBNs of that dataset did not return valid results from the Google Books API. I plan to update this in the future, using more fields (e.g., title, author) in the API requests, as to have a bigger dataset.\n\n### What did you use to build this dataset?\nCheck out the repoistory here [Google Books Crawler](https://github.com/dylanjcastillo/google_books_crawler)\n\n### Acknowledgements\n\nThis dataset relied heavily on [Soumik's Goodreads-books dataset](https://www.kaggle.com/jealousleopard/goodreadsbooks).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "literature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "boulahchichenadir/cars-object-detection",
+  "id_no": 2137073,
+  "datasetSlugNullable": "cars-object-detection",
+  "ownerUserNullable": "boulahchichenadir",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cars object detection",
+  "subtitleNullable": "326 annotated images in '.xml' format",
+  "descriptionNullable": "### Context\n\nThis dataset contains annotated cars in .xml format , it can be used for computer vision or deep learning projects.\n\n\n### Content\n\nThe dataset contains 269 samples (images with their annotations) for training folder , and 57 samples for test folder.\nThe number_of_samples.csv file contains the number of samples info in each directory.\nrandom images were selected , all have random angles and sizes in order to give as much variety for the model to train as possible.\n\n\n### Inspiration\n\nThis is for a continuous project i am currently working on out of passion ,hope you like it.",
+  "datasetId": 2137073,
+  "datasetSlug": "cars-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "boulahchichenadir",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4794,
+  "totalVotes": 7,
+  "totalDownloads": 603,
+  "title": "Cars object detection",
+  "hasTitle": true,
+  "subtitle": "326 annotated images in '.xml' format",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains annotated cars in .xml format , it can be used for computer vision or deep learning projects.\n\n\n### Content\n\nThe dataset contains 269 samples (images with their annotations) for training folder , and 57 samples for test folder.\nThe number_of_samples.csv file contains the number of samples info in each directory.\nrandom images were selected , all have random angles and sizes in order to give as much variety for the model to train as possible.\n\n\n### Inspiration\n\nThis is for a continuous project i am currently working on out of passion ,hope you like it.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

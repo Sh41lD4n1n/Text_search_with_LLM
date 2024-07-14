@@ -1,0 +1,42 @@
+{
+  "id": "swahajraza/karachi-house-prices-dataset-2023",
+  "id_no": 3154699,
+  "datasetSlugNullable": "karachi-house-prices-dataset-2023",
+  "ownerUserNullable": "swahajraza",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Karachi House Prices Dataset (2023)",
+  "subtitleNullable": " A comprehensive dataset of house prices in Karachi, Pakistan",
+  "descriptionNullable": "This dataset contains information on house prices in Karachi, Pakistan, as of 2023. The data was collected through various sources, including property listings and real estate agents. The dataset includes information such as the location of the house, its size, number of bedrooms, number of bathrooms, and other relevant features. The purpose of this dataset is to provide a comprehensive overview of house prices in Karachi, which can be useful for real estate agents, property developers, and researchers interested in the housing market of Pakistan's largest city. The dataset is presented in a CSV format and is available for download on Kaggle.",
+  "datasetId": 3154699,
+  "datasetSlug": "karachi-house-prices-dataset-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "swahajraza",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1433,
+  "totalVotes": 13,
+  "totalDownloads": 226,
+  "title": "Karachi House Prices Dataset (2023)",
+  "hasTitle": true,
+  "subtitle": " A comprehensive dataset of house prices in Karachi, Pakistan",
+  "hasSubtitle": true,
+  "description": "This dataset contains information on house prices in Karachi, Pakistan, as of 2023. The data was collected through various sources, including property listings and real estate agents. The dataset includes information such as the location of the house, its size, number of bedrooms, number of bathrooms, and other relevant features. The purpose of this dataset is to provide a comprehensive overview of house prices in Karachi, which can be useful for real estate agents, property developers, and researchers interested in the housing market of Pakistan's largest city. The dataset is presented in a CSV format and is available for download on Kaggle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "data visualization",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

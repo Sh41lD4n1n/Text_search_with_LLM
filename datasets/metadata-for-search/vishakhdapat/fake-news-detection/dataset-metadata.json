@@ -1,0 +1,39 @@
+{
+  "id": "vishakhdapat/fake-news-detection",
+  "id_no": 4641663,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "vishakhdapat",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Fake News Detection",
+  "subtitleNullable": "The Battle Against Misinformation: A Text Classification Dataset",
+  "descriptionNullable": "Overview\nIn an era where information spreads rapidly through social media and other digital channels, distinguishing between real and fake news has become increasingly challenging. The Fake News Detection Dataset aims to provide researchers, data scientists, and machine learning enthusiasts with a robust dataset for training models to automatically detect fake news with high accuracy.\n\nDataset Description\nThis dataset comprises thousands of news items labeled as \"Fake\" or \"Real\", providing a rich foundation for developing and testing machine learning models capable of identifying deceptive information. Each entry in the dataset consists of a news text and a corresponding label, offering a straightforward yet powerful resource for supervised learning projects.\n\nData Fields\nText: The full text of the news article. This field includes the body of the article, representing a mix of factual reporting, opinions, and potentially misleading information or falsehoods.\nLabel: A categorical label indicating whether the news article is \"Fake\" or \"Real\". This binary classification makes it suitable for a wide range of machine learning approaches, from traditional models to advanced deep learning techniques.\n\nInspiration\nThe Fake News Detection Dataset is designed to inspire the development of innovative algorithms that can contribute to the fight against misinformation online. By providing a readily accessible and useable dataset, we aim to foster research and development in text analysis, natural language processing, and machine learning communities. Whether you're exploring feature engineering, experimenting with the latest transformer models, or developing educational tools to help understand fake news, this dataset offers a starting point for a myriad of impactful projects.",
+  "datasetId": 4641663,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "vishakhdapat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5580,
+  "totalVotes": 20,
+  "totalDownloads": 866,
+  "title": "Fake News Detection",
+  "hasTitle": true,
+  "subtitle": "The Battle Against Misinformation: A Text Classification Dataset",
+  "hasSubtitle": true,
+  "description": "Overview\nIn an era where information spreads rapidly through social media and other digital channels, distinguishing between real and fake news has become increasingly challenging. The Fake News Detection Dataset aims to provide researchers, data scientists, and machine learning enthusiasts with a robust dataset for training models to automatically detect fake news with high accuracy.\n\nDataset Description\nThis dataset comprises thousands of news items labeled as \"Fake\" or \"Real\", providing a rich foundation for developing and testing machine learning models capable of identifying deceptive information. Each entry in the dataset consists of a news text and a corresponding label, offering a straightforward yet powerful resource for supervised learning projects.\n\nData Fields\nText: The full text of the news article. This field includes the body of the article, representing a mix of factual reporting, opinions, and potentially misleading information or falsehoods.\nLabel: A categorical label indicating whether the news article is \"Fake\" or \"Real\". This binary classification makes it suitable for a wide range of machine learning approaches, from traditional models to advanced deep learning techniques.\n\nInspiration\nThe Fake News Detection Dataset is designed to inspire the development of innovative algorithms that can contribute to the fight against misinformation online. By providing a readily accessible and useable dataset, we aim to foster research and development in text analysis, natural language processing, and machine learning communities. Whether you're exploring feature engineering, experimenting with the latest transformer models, or developing educational tools to help understand fake news, this dataset offers a starting point for a myriad of impactful projects.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

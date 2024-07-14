@@ -1,0 +1,43 @@
+{
+  "id": "sherubalti/skardu-to-gigit-volo-datasetimages",
+  "id_no": 3797835,
+  "datasetSlugNullable": "skardu-to-gigit-volo-datasetimages",
+  "ownerUserNullable": "sherubalti",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "skardu_to_gilgit_road yolo_dataset(images)",
+  "subtitleNullable": "skardu to gilgit road images left, right, straight and unexpected",
+  "descriptionNullable": "In this dataset, the objective is to compile a comprehensive dataset of road images that encompass a range of traffic scenarios and driving conditions. The dataset is categorized into four distinct classes: left, right, straight, and unexpected, each class containing a minimum of 50 labeled images. This dataset will serve as a valuable resource for training and evaluating computer vision models, particularly those geared towards road sign detection, traffic pattern recognition, and autonomous vehicle navigation.\n\nTo accomplish this task, a multi-step approach is employed. Initially, a diverse collection of road images is gathered, either through direct capture using a camera or by sourcing images from publicly available datasets. These images reflect a variety of road types, weather conditions, and traffic scenarios to ensure model robustness.\n\nSubsequently, the LabelImg tool, specifically the Volo variant, is utilized for the annotation process. Images are meticulously annotated by drawing bounding boxes around road signs, markings, or objects indicative of the intended class (left, right, straight, unexpected). These annotations are stored in XML format, ensuring compatibility with various machine learning frameworks.\n\nThe dataset is meticulously organized, with images and annotations structured within a directory hierarchy. Additionally, data augmentation techniques can be applied to enhance dataset diversity and model generalization. After verifying annotation accuracy, this dataset is ready for use in training and evaluating machine learning models, empowering advancements in road safety, autonomous navigation, and traffic management.",
+  "datasetId": 3797835,
+  "datasetSlug": "skardu-to-gigit-volo-datasetimages",
+  "hasDatasetSlug": true,
+  "ownerUser": "sherubalti",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 351,
+  "totalVotes": 1,
+  "totalDownloads": 64,
+  "title": "skardu_to_gilgit_road yolo_dataset(images)",
+  "hasTitle": true,
+  "subtitle": "skardu to gilgit road images left, right, straight and unexpected",
+  "hasSubtitle": true,
+  "description": "In this dataset, the objective is to compile a comprehensive dataset of road images that encompass a range of traffic scenarios and driving conditions. The dataset is categorized into four distinct classes: left, right, straight, and unexpected, each class containing a minimum of 50 labeled images. This dataset will serve as a valuable resource for training and evaluating computer vision models, particularly those geared towards road sign detection, traffic pattern recognition, and autonomous vehicle navigation.\n\nTo accomplish this task, a multi-step approach is employed. Initially, a diverse collection of road images is gathered, either through direct capture using a camera or by sourcing images from publicly available datasets. These images reflect a variety of road types, weather conditions, and traffic scenarios to ensure model robustness.\n\nSubsequently, the LabelImg tool, specifically the Volo variant, is utilized for the annotation process. Images are meticulously annotated by drawing bounding boxes around road signs, markings, or objects indicative of the intended class (left, right, straight, unexpected). These annotations are stored in XML format, ensuring compatibility with various machine learning frameworks.\n\nThe dataset is meticulously organized, with images and annotations structured within a directory hierarchy. Additionally, data augmentation techniques can be applied to enhance dataset diversity and model generalization. After verifying annotation accuracy, this dataset is ready for use in training and evaluating machine learning models, empowering advancements in road safety, autonomous navigation, and traffic management.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "data analytics",
+    "image",
+    "adversarial learning",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

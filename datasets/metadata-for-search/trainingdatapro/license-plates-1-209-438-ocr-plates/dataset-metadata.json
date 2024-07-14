@@ -1,0 +1,43 @@
+{
+  "id": "trainingdatapro/license-plates-1-209-438-ocr-plates",
+  "id_no": 3150001,
+  "datasetSlugNullable": "license-plates-1-209-438-ocr-plates",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "License Plates - 1 209 438 Plates, OCR Dataset",
+  "subtitleNullable": "Over 1.2 Million Labeled Plates from Around the World - OCR Dataset",
+  "descriptionNullable": "# License Plates - Object Detection dataset\nOver **1.2 million** annotated license plates from vehicles around the world. This dataset is tailored for **License Plate Recognition tasks** and includes images from the differnent Web domains. \nAnnotation details are provided in the About section below. \n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 1,200 000 images & OCR Annotations, leave a request on **[TrainingData](https://trainingdata.pro/datasets/car-license-plates?utm_source=kaggle&utm_medium=cpc&utm_campaign=license-plates-1-209-438-ocr-plates)** to buy the dataset\n\n# About \n## Variables in .csv files:\n- **file_name** - filename of the original car photo\n- **license_plate.country** - country where the vehicle was captured\n- **bbox** - normalized Bounding Box labeling of the car\n- **license_plate.visibility** - the visibility type of the license plate\n- **license_plate.id** - unique license plate's id\n- **license_plate.mask** - normalized coordinates of the license plate\n- **license_plate.rows_count** - single-line or double-line number\n- **license_plate.number** - recognized text of the license plate\n- **license_plate.serial** - only for UAE numbers - license plate series\n- **license_plate.region** - only for UAE numbers - license plate subregion\n- **license_plate.color** - only for Saudi Arabia - color of the international plate code\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/car-license-plates?utm_source=kaggle&utm_medium=cpc&utm_campaign=license-plates-1-209-438-ocr-plates) to discuss your requirements, learn about the price and buy the dataset**\n\n### **[TrainingData](https://trainingdata.pro/datasets/car-license-plates?utm_source=kaggle&utm_medium=cpc&utm_campaign=license-plates-1-209-438-ocr-plates)** provides high-quality data annotation tailored to your needs.\n\n*keywords: license plate dataset, car license plate detection, license plate recognition, automatic number plate recognition, vehicle license plate location, number plate dataset, labelled license plates, license plate characters, object detection dataset, license plate OCR, automatic vehicle number plate detection, computer vision license plate*",
+  "datasetId": 3150001,
+  "datasetSlug": "license-plates-1-209-438-ocr-plates",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8439,
+  "totalVotes": 39,
+  "totalDownloads": 933,
+  "title": "License Plates - 1 209 438 Plates, OCR Dataset",
+  "hasTitle": true,
+  "subtitle": "Over 1.2 Million Labeled Plates from Around the World - OCR Dataset",
+  "hasSubtitle": true,
+  "description": "# License Plates - Object Detection dataset\nOver **1.2 million** annotated license plates from vehicles around the world. This dataset is tailored for **License Plate Recognition tasks** and includes images from the differnent Web domains. \nAnnotation details are provided in the About section below. \n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 1,200 000 images & OCR Annotations, leave a request on **[TrainingData](https://trainingdata.pro/datasets/car-license-plates?utm_source=kaggle&utm_medium=cpc&utm_campaign=license-plates-1-209-438-ocr-plates)** to buy the dataset\n\n# About \n## Variables in .csv files:\n- **file_name** - filename of the original car photo\n- **license_plate.country** - country where the vehicle was captured\n- **bbox** - normalized Bounding Box labeling of the car\n- **license_plate.visibility** - the visibility type of the license plate\n- **license_plate.id** - unique license plate's id\n- **license_plate.mask** - normalized coordinates of the license plate\n- **license_plate.rows_count** - single-line or double-line number\n- **license_plate.number** - recognized text of the license plate\n- **license_plate.serial** - only for UAE numbers - license plate series\n- **license_plate.region** - only for UAE numbers - license plate subregion\n- **license_plate.color** - only for Saudi Arabia - color of the international plate code\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/car-license-plates?utm_source=kaggle&utm_medium=cpc&utm_campaign=license-plates-1-209-438-ocr-plates) to discuss your requirements, learn about the price and buy the dataset**\n\n### **[TrainingData](https://trainingdata.pro/datasets/car-license-plates?utm_source=kaggle&utm_medium=cpc&utm_campaign=license-plates-1-209-438-ocr-plates)** provides high-quality data annotation tailored to your needs.\n\n*keywords: license plate dataset, car license plate detection, license plate recognition, automatic number plate recognition, vehicle license plate location, number plate dataset, labelled license plates, license plate characters, object detection dataset, license plate OCR, automatic vehicle number plate detection, computer vision license plate*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "automobiles and vehicles",
+    "image",
+    "image classification",
+    "image text recognition"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

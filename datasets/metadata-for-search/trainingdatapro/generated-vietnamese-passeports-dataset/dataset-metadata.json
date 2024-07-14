@@ -1,0 +1,43 @@
+{
+  "id": "trainingdatapro/generated-vietnamese-passeports-dataset",
+  "id_no": 3621992,
+  "datasetSlugNullable": "generated-vietnamese-passeports-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "GENERATED Vietnamese Passports Dataset",
+  "subtitleNullable": "Images of Vietnamese Passports. ALL DATA IS GENERATED",
+  "descriptionNullable": "# GENERATED Vietnamese Passports Dataset\n**Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's *robustness and generalization*.\n\nThe dataset contains GENERATED Vietnamese passports, which are replicas of official passports but with randomly generated details, such as *name, date of birth etc*. The primary intention of generating these fake passports is to demonstrate the structure and content of a typical passport document and to train the neural network to identify this type of document.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/synthetic-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports-dataset)** to buy the dataset\n\nGenerated passports can assist in conducting research without accessing or compromising real user data that is often sensitive and subject to privacy regulations. Synthetic data generation allows researchers to *develop and refine models using simulated passport data without risking privacy leaks*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Ff2778d432611db436f18b9284daec240%2F666.png?generation=1691945421899877&alt=media)\n\n### The dataset is solely for informational or educational purposes and should not be used for any fraudulent or deceptive activities.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/synthetic-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n# Passports might be generated in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets/synthetic-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: image dataset, generated data, passports, passport designs, machine-readable zone, mrz, synthetic data, synthetic data generation, synthetic dataset , gdpr synthetic data, data augmentation, object detection, computer vision, documents, document security, cybersecurity, information security systems*",
+  "datasetId": 3621992,
+  "datasetSlug": "generated-vietnamese-passeports-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1018,
+  "totalVotes": 9,
+  "totalDownloads": 190,
+  "title": "GENERATED Vietnamese Passports Dataset",
+  "hasTitle": true,
+  "subtitle": "Images of Vietnamese Passports. ALL DATA IS GENERATED",
+  "hasSubtitle": true,
+  "description": "# GENERATED Vietnamese Passports Dataset\n**Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's *robustness and generalization*.\n\nThe dataset contains GENERATED Vietnamese passports, which are replicas of official passports but with randomly generated details, such as *name, date of birth etc*. The primary intention of generating these fake passports is to demonstrate the structure and content of a typical passport document and to train the neural network to identify this type of document.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/synthetic-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports-dataset)** to buy the dataset\n\nGenerated passports can assist in conducting research without accessing or compromising real user data that is often sensitive and subject to privacy regulations. Synthetic data generation allows researchers to *develop and refine models using simulated passport data without risking privacy leaks*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Ff2778d432611db436f18b9284daec240%2F666.png?generation=1691945421899877&alt=media)\n\n### The dataset is solely for informational or educational purposes and should not be used for any fraudulent or deceptive activities.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/synthetic-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n# Passports might be generated in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets/synthetic-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: image dataset, generated data, passports, passport designs, machine-readable zone, mrz, synthetic data, synthetic data generation, synthetic dataset , gdpr synthetic data, data augmentation, object detection, computer vision, documents, document security, cybersecurity, information security systems*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "image",
+    "image generator",
+    "vietnamese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

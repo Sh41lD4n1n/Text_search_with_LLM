@@ -1,0 +1,42 @@
+{
+  "id": "yasserh/twitter-tweets-sentiment-dataset",
+  "id_no": 2066095,
+  "datasetSlugNullable": "twitter-tweets-sentiment-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Twitter Tweets Sentiment Dataset",
+  "subtitleNullable": "Twitter Tweets Sentiment Analysis for Natural Language Processing",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Twitter_Sentiment_Analysis_/main/twitt.jpg)\n### Description:\n\nTwitter is an online Social Media Platform where people share their their though as tweets. It is observed that some people misuse it to tweet hateful content. Twitter is trying to tackle this problem and we shall help it by creating a strong NLP based-classifier model to distinguish the negative tweets & block such tweets. Can you build a strong classifier model to predict the same?\n\nEach row contains the text of a tweet and a sentiment label. In the training set you are provided with a word or phrase drawn from the tweet (selected_text) that encapsulates the provided sentiment.\n\nMake sure, when parsing the CSV, to remove the beginning / ending quotes from the text field, to ensure that you don't include them in your training.\n\nYou're attempting to predict the word or phrase from the tweet that exemplifies the provided sentiment. The word or phrase should include all characters within that span (i.e. including commas, spaces, etc.)\n\n#### Columns:\n1. textID - unique ID for each piece of text \n2. text - the text of the tweet \n3. sentiment - the general sentiment of the tweet \n\n#### Acknowledgement:\nThe dataset is download from Kaggle Competetions:\\\nhttps://www.kaggle.com/c/tweet-sentiment-extraction/data?select=train.csv\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build classification models to predict the twitter sentiments.\n- Compare the evaluation metrics of vaious classification algorithms.",
+  "datasetId": 2066095,
+  "datasetSlug": "twitter-tweets-sentiment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 52442,
+  "totalVotes": 78,
+  "totalDownloads": 9947,
+  "title": "Twitter Tweets Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "Twitter Tweets Sentiment Analysis for Natural Language Processing",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Twitter_Sentiment_Analysis_/main/twitt.jpg)\n### Description:\n\nTwitter is an online Social Media Platform where people share their their though as tweets. It is observed that some people misuse it to tweet hateful content. Twitter is trying to tackle this problem and we shall help it by creating a strong NLP based-classifier model to distinguish the negative tweets & block such tweets. Can you build a strong classifier model to predict the same?\n\nEach row contains the text of a tweet and a sentiment label. In the training set you are provided with a word or phrase drawn from the tweet (selected_text) that encapsulates the provided sentiment.\n\nMake sure, when parsing the CSV, to remove the beginning / ending quotes from the text field, to ensure that you don't include them in your training.\n\nYou're attempting to predict the word or phrase from the tweet that exemplifies the provided sentiment. The word or phrase should include all characters within that span (i.e. including commas, spaces, etc.)\n\n#### Columns:\n1. textID - unique ID for each piece of text \n2. text - the text of the tweet \n3. sentiment - the general sentiment of the tweet \n\n#### Acknowledgement:\nThe dataset is download from Kaggle Competetions:\\\nhttps://www.kaggle.com/c/tweet-sentiment-extraction/data?select=train.csv\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build classification models to predict the twitter sentiments.\n- Compare the evaluation metrics of vaious classification algorithms.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "classification",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

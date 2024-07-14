@@ -1,0 +1,42 @@
+{
+  "id": "ivan314sh/phishing-email-classifier-bert",
+  "id_no": 5299099,
+  "datasetSlugNullable": "phishing-email-classifier-bert",
+  "ownerUserNullable": "ivan314sh",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "phishing-email-classifier-bert",
+  "subtitleNullable": "BERT Fine-Tuned For Classification on Phishing Email Dataset",
+  "descriptionNullable": "### Dataset Description\n\n**Dataset Title**: Fine-Tuned BERT Model for Scam Email Classification\n\n**Directory: scam-email-classifier-bert-uncased**\n- **config.json**: This file contains the configuration parameters for the BERT model architecture, including details about the model layers, attention heads, hidden size, etc. It ensures that the model structure can be correctly instantiated when loaded.\n- **model.safetensors**: This file contains the trained weights of the BERT model in the SafeTensors format. It is used to store and load the model parameters efficiently and safely.\n- **training_args.bin**: This file includes the arguments and hyperparameters used during the training of the BERT model, such as learning rate, batch size, number of training epochs, etc.\n\n**Directory: scam-email-bert-tokenizer**\n- **special_tokens_map.json**: This file maps special tokens (like [CLS], [SEP], [PAD], [UNK], and others) to their corresponding IDs used by the tokenizer.\n- **tokenizer_config.json**: This file contains the configuration parameters for the tokenizer, detailing how text should be processed and tokenized before being fed into the model.\n- **vocab.txt**: This file lists the vocabulary used by the tokenizer, mapping each token to a unique index.\n\nThese files allow users to easily load the tokenizer and model using `BertTokenizer.from_pretrained()` and `BertClassifier.from_pretrained()` respectively.\n\n### Dataset Information\n\nThe BERT model has been fine-tuned on the [Phishing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv) provided by Naser Abdullah Alam. This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. The dataset includes a collection of phishing and legitimate emails, which has been used to train and evaluate the model.\n\n### Citations\n\nOriginal BERT Model:\n\nDevlin, Jacob, et al. \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.\" [arXiv preprint arXiv:1810.04805, 2018.](https://arxiv.org/abs/1810.04805)\nPhishing Email Dataset:\n\nNaser Abdullah Alam. [\"Phishing Email Dataset.\" Kaggle, 2021.](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv)",
+  "datasetId": 5299099,
+  "datasetSlug": "phishing-email-classifier-bert",
+  "hasDatasetSlug": true,
+  "ownerUser": "ivan314sh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 3,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "phishing-email-classifier-bert",
+  "hasTitle": true,
+  "subtitle": "BERT Fine-Tuned For Classification on Phishing Email Dataset",
+  "hasSubtitle": true,
+  "description": "### Dataset Description\n\n**Dataset Title**: Fine-Tuned BERT Model for Scam Email Classification\n\n**Directory: scam-email-classifier-bert-uncased**\n- **config.json**: This file contains the configuration parameters for the BERT model architecture, including details about the model layers, attention heads, hidden size, etc. It ensures that the model structure can be correctly instantiated when loaded.\n- **model.safetensors**: This file contains the trained weights of the BERT model in the SafeTensors format. It is used to store and load the model parameters efficiently and safely.\n- **training_args.bin**: This file includes the arguments and hyperparameters used during the training of the BERT model, such as learning rate, batch size, number of training epochs, etc.\n\n**Directory: scam-email-bert-tokenizer**\n- **special_tokens_map.json**: This file maps special tokens (like [CLS], [SEP], [PAD], [UNK], and others) to their corresponding IDs used by the tokenizer.\n- **tokenizer_config.json**: This file contains the configuration parameters for the tokenizer, detailing how text should be processed and tokenized before being fed into the model.\n- **vocab.txt**: This file lists the vocabulary used by the tokenizer, mapping each token to a unique index.\n\nThese files allow users to easily load the tokenizer and model using `BertTokenizer.from_pretrained()` and `BertClassifier.from_pretrained()` respectively.\n\n### Dataset Information\n\nThe BERT model has been fine-tuned on the [Phishing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv) provided by Naser Abdullah Alam. This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. The dataset includes a collection of phishing and legitimate emails, which has been used to train and evaluate the model.\n\n### Citations\n\nOriginal BERT Model:\n\nDevlin, Jacob, et al. \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.\" [arXiv preprint arXiv:1810.04805, 2018.](https://arxiv.org/abs/1810.04805)\nPhishing Email Dataset:\n\nNaser Abdullah Alam. [\"Phishing Email Dataset.\" Kaggle, 2021.](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "binary classification",
+    "email and messaging",
+    "bert"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "melvinpauljacob/cat-dog-dataset",
+  "id_no": 1013358,
+  "datasetSlugNullable": "cat-dog-dataset",
+  "ownerUserNullable": "melvinpauljacob",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "cat dog dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This project utilizes keras and tensorflow to train a CNN model to classify images of cats and dogs with relatively high accuracy. I achieved a 88% accuracy with this model. The code for the project can be found in the following link: https://github.com/melvinpaul123/Keras-Cat-Dog-classifier\nUnzip the rar file before use. Before running the code download the following libraries: \n 1.Keras 2.Tensorflow 2.0 or greater 3.sklearn 4.OpenCV 5.matplotlib 6.numpy",
+  "datasetId": 1013358,
+  "datasetSlug": "cat-dog-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "melvinpauljacob",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 2930,
+  "totalVotes": 9,
+  "totalDownloads": 325,
+  "title": "cat dog dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This project utilizes keras and tensorflow to train a CNN model to classify images of cats and dogs with relatively high accuracy. I achieved a 88% accuracy with this model. The code for the project can be found in the following link: https://github.com/melvinpaul123/Keras-Cat-Dog-classifier\nUnzip the rar file before use. Before running the code download the following libraries: \n 1.Keras 2.Tensorflow 2.0 or greater 3.sklearn 4.OpenCV 5.matplotlib 6.numpy",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer science",
+    "classification",
+    "image",
+    "keras",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

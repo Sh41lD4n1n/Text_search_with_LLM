@@ -1,0 +1,44 @@
+{
+  "id": "kunal28chaturvedi/covid19-and-its-impact-on-students",
+  "id_no": 1020642,
+  "datasetSlugNullable": "covid19-and-its-impact-on-students",
+  "ownerUserNullable": "kunal28chaturvedi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "COVID-19 and its Impact on Students",
+  "subtitleNullable": "Impact of COVID-19 outbreak on Education, Mental health, and Daily Routine",
+  "descriptionNullable": "# COVID-19 and its impact on education, social life and mental health of students: A Survey  [Link to the paper](https://www.researchgate.net/publication/347935769_COVID-19_and_its_impact_on_education_social_life_and_mental_health_of_students_A_Survey)\n\nIn this study, a cross-sectional survey is conducted with a sample size of 1182 students of different age groups from different educational institutions in Delhi National Capital Region (NCR). \n\n\n## Citation\n@article{CHATURVEDI2020105866,\ntitle = \"COVID-19 and its impact on education, social life and mental health of students: A Survey\",\njournal = \"Children and Youth Services Review\",\npages = \"105866\",\nyear = \"2020\",\nissn = \"0190-7409\",\ndoi = \"https://doi.org/10.1016/j.childyouth.2020.105866\",\nurl = \"http://www.sciencedirect.com/science/article/pii/S019074092032288X\",\nauthor = \"Kunal Chaturvedi and Dinesh Kumar Vishwakarma and  Nidhi\",\nkeywords = \"Children and Youth, Covid-19, Impact, Online Education, Mental Health, Students\",\n}\n",
+  "datasetId": 1020642,
+  "datasetSlug": "covid19-and-its-impact-on-students",
+  "hasDatasetSlug": true,
+  "ownerUser": "kunal28chaturvedi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 96205,
+  "totalVotes": 155,
+  "totalDownloads": 15229,
+  "title": "COVID-19 and its Impact on Students",
+  "hasTitle": true,
+  "subtitle": "Impact of COVID-19 outbreak on Education, Mental health, and Daily Routine",
+  "hasSubtitle": true,
+  "description": "# COVID-19 and its impact on education, social life and mental health of students: A Survey  [Link to the paper](https://www.researchgate.net/publication/347935769_COVID-19_and_its_impact_on_education_social_life_and_mental_health_of_students_A_Survey)\n\nIn this study, a cross-sectional survey is conducted with a sample size of 1182 students of different age groups from different educational institutions in Delhi National Capital Region (NCR). \n\n\n## Citation\n@article{CHATURVEDI2020105866,\ntitle = \"COVID-19 and its impact on education, social life and mental health of students: A Survey\",\njournal = \"Children and Youth Services Review\",\npages = \"105866\",\nyear = \"2020\",\nissn = \"0190-7409\",\ndoi = \"https://doi.org/10.1016/j.childyouth.2020.105866\",\nurl = \"http://www.sciencedirect.com/science/article/pii/S019074092032288X\",\nauthor = \"Kunal Chaturvedi and Dinesh Kumar Vishwakarma and  Nidhi\",\nkeywords = \"Children and Youth, Covid-19, Impact, Online Education, Mental Health, Students\",\n}\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "mental health",
+    "education",
+    "internet",
+    "social issues and advocacy",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

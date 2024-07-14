@@ -1,0 +1,39 @@
+{
+  "id": "zygmunt/goodbooks-10k",
+  "id_no": 1938,
+  "datasetSlugNullable": "goodbooks-10k",
+  "ownerUserNullable": "zygmunt",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "goodbooks-10k",
+  "subtitleNullable": "Ten thousand books, one million ratings. Also books marked to read, and tags.",
+  "descriptionNullable": "**This version of the dataset is obsolete. It contains duplicate ratings (same user_id,book_id), as reported by Philipp Spachtholz in his illustrious notebook.**\n\n**The current version has duplicates removed, and more ratings (six million), sorted by time. Book and user IDs are the same.** \n\n**It is available at https://github.com/zygmuntz/goodbooks-10k. **\n\n---\n\nThere have been good datasets for movies (Netflix, Movielens) and music (Million Songs) recommendation, but not for books. That is, until now. \n\nThis dataset contains ratings for ten thousand popular books. As to the source, let's say that these ratings were found on the internet. Generally, there are 100 reviews for each book, although some have less - fewer - ratings. Ratings go from one to five.\n\nBoth book IDs and user IDs are contiguous. For books, they are 1-10000, for users, 1-53424. All users have made at least two ratings. Median number of ratings per user is 8.\n\nThere are also books marked to read by the users, book metadata (author, year, etc.) and tags.\n\n## Contents\n\n**ratings.csv** contains ratings and looks like that:\n\n\tbook_id,user_id,rating\n\t1,314,5\n\t1,439,3\n\t1,588,5\n\t1,1169,4\n\t1,1185,4\n\n**to_read.csv** provides IDs of the books marked \"to read\" by each user, as **user_id,book_id** pairs.\n\n**books.csv** has metadata for each book (goodreads IDs, authors, title, average rating, etc.).\n\nThe metadata have been extracted from goodreads XML files, available in the third version of this dataset as **books_xml.tar.gz**. The archive contains 10000 XML files. One of them is available as **sample_book.xml**. To make the download smaller, these files are absent from the current version. Download version 3 if you want them.\n\n**book_tags.csv** contains tags/shelves/genres assigned by users to books. Tags in this file are represented by their IDs.\n\n**tags.csv** translates tag IDs to names.\n\nSee the [notebook][1] for some basic stats of the dataset.\n\n### goodreads IDs\n\nEach book may have many editions.  **goodreads_book_id** and **best_book_id** generally point to the most popular edition of a given book, while goodreads  **work_id** refers to the book in the abstract sense.\n\nYou can use the goodreads book and work IDs to create URLs as follows:\n\nhttps://www.goodreads.com/book/show/2767052   \nhttps://www.goodreads.com/work/editions/2792775\n\n  [1]: https://github.com/zygmuntz/misc/blob/master/goodbooks-10k/basic_stats.ipynb",
+  "datasetId": 1938,
+  "datasetSlug": "goodbooks-10k",
+  "hasDatasetSlug": true,
+  "ownerUser": "zygmunt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 188430,
+  "totalVotes": 421,
+  "totalDownloads": 36538,
+  "title": "goodbooks-10k",
+  "hasTitle": true,
+  "subtitle": "Ten thousand books, one million ratings. Also books marked to read, and tags.",
+  "hasSubtitle": true,
+  "description": "**This version of the dataset is obsolete. It contains duplicate ratings (same user_id,book_id), as reported by Philipp Spachtholz in his illustrious notebook.**\n\n**The current version has duplicates removed, and more ratings (six million), sorted by time. Book and user IDs are the same.** \n\n**It is available at https://github.com/zygmuntz/goodbooks-10k. **\n\n---\n\nThere have been good datasets for movies (Netflix, Movielens) and music (Million Songs) recommendation, but not for books. That is, until now. \n\nThis dataset contains ratings for ten thousand popular books. As to the source, let's say that these ratings were found on the internet. Generally, there are 100 reviews for each book, although some have less - fewer - ratings. Ratings go from one to five.\n\nBoth book IDs and user IDs are contiguous. For books, they are 1-10000, for users, 1-53424. All users have made at least two ratings. Median number of ratings per user is 8.\n\nThere are also books marked to read by the users, book metadata (author, year, etc.) and tags.\n\n## Contents\n\n**ratings.csv** contains ratings and looks like that:\n\n\tbook_id,user_id,rating\n\t1,314,5\n\t1,439,3\n\t1,588,5\n\t1,1169,4\n\t1,1185,4\n\n**to_read.csv** provides IDs of the books marked \"to read\" by each user, as **user_id,book_id** pairs.\n\n**books.csv** has metadata for each book (goodreads IDs, authors, title, average rating, etc.).\n\nThe metadata have been extracted from goodreads XML files, available in the third version of this dataset as **books_xml.tar.gz**. The archive contains 10000 XML files. One of them is available as **sample_book.xml**. To make the download smaller, these files are absent from the current version. Download version 3 if you want them.\n\n**book_tags.csv** contains tags/shelves/genres assigned by users to books. Tags in this file are represented by their IDs.\n\n**tags.csv** translates tag IDs to names.\n\nSee the [notebook][1] for some basic stats of the dataset.\n\n### goodreads IDs\n\nEach book may have many editions.  **goodreads_book_id** and **best_book_id** generally point to the most popular edition of a given book, while goodreads  **work_id** refers to the book in the abstract sense.\n\nYou can use the goodreads book and work IDs to create URLs as follows:\n\nhttps://www.goodreads.com/book/show/2767052   \nhttps://www.goodreads.com/work/editions/2792775\n\n  [1]: https://github.com/zygmuntz/misc/blob/master/goodbooks-10k/basic_stats.ipynb",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

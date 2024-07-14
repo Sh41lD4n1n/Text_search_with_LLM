@@ -1,0 +1,40 @@
+{
+  "id": "atmarouane/nyc-taxi-trip-noisy",
+  "id_no": 2410,
+  "datasetSlugNullable": "nyc-taxi-trip-noisy",
+  "ownerUserNullable": "atmarouane",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "NYC taxi trip durations",
+  "subtitleNullable": "Data augmentation using OSRM",
+  "descriptionNullable": "# Context\n\nAs a participant to [NYC Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration),\nI'm providing additional data, to help extracting many new usefull features.\n\nTo do so I'm using a [high performance routing engine](http://project-osrm.org/) \ndesigned to run on [OpenStreetMap](openstreetmap.org) data.\n\nHaving the whole blind test data, I decided also to share a small amount concerning erroneous samples (less than 0.15%),\nso competitors can focus matching real world data and to not try to fit randomness.\n\n*Note: The steps files are big so I split them into two parts. [Part 1](https://www.kaggle.com/atmarouane/nyc-taxi-trip-noisy-bis1), [Part2](https://www.kaggle.com/atmarouane/nyc-taxi-trip-noisy-bis2)*\n\n# Content\n\nDescription of different tables used.\n\n## Train/Test augmented\n\n**id**: Record id\n\n**distance**: Route distance (m)\n\n**duration**: OSRM trip duration (s)\n\n**motorway, trunk, primary, secondary, tertiary, unclassified, residential**:\n\nThe proportion spent on different [kind](http://wiki.openstreetmap.org/wiki/Key:highway#Roads) of roads (% of total distance)\n\n**nTrafficSignals**: The number of traffic signals.\n\n**nCrossing**: The number of pedestrian crossing.\n\n**nStop**: The number of stop signs.\n\n**nIntersection**: The number of intersections, if you are OSRM user, intersection have different meaning than the one used in OSRM.\n\n*Intersection can be crossroad, but not a highway exit...\n\n**srcCounty, dstCounty**: Pickup/Dropoff county.\n\n  NA: Not in NYC\n\n  1: Brooklyn\n\n  2: Queens\n\n  3: Staten Island\n\n  4: Manhattan\n\n  5: Bronx\n\n---\n\n## Train/Test steps\n\nFor each trip we saved all the ways (route portion).\n\n**id**: train/test id.\n\n**wayId**: Way id, you can check the way using www.openstreetmap.org/way/*wayId*\n\n**portion**: The proportion of the total distance\n\n---\n\n## Polylines table\n\nIt contains encoded nodes (lon/lat coordinates), of the used ways.\n\n**wayId**: The way identification.\n\n**polyline**: [Encoded](https://developers.google.com/maps/documentation/utilities/polylinealgorithm) polylines. \n\n---\n\n## Train/Test bugs (0.15% of total data)\n\n**id**: Same as original data.\n\n**bug**: kind of the bug (0=none)\n\n1. Trip duration higher than 1 day;\n\n2. Drop off on the day after pickup, and trip duration higher than 6h;\n\n3. Drop off time at 00:00:00 and vendor_id eq 2.\n\n**trip_duration**: Taxi trip duration\n\n---\n\n# Credits\n1. *Real-time routing with OpenStreetMap data* (http://project-osrm.org/)\n2. *OSM* (http://www.openstreetmap.org)\n3. *Banner* (Photo by Nicolai Berntsen on Unsplash)\n\n",
+  "datasetId": 2410,
+  "datasetSlug": "nyc-taxi-trip-noisy",
+  "hasDatasetSlug": true,
+  "ownerUser": "atmarouane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 18187,
+  "totalVotes": 28,
+  "totalDownloads": 1258,
+  "title": "NYC taxi trip durations",
+  "hasTitle": true,
+  "subtitle": "Data augmentation using OSRM",
+  "hasSubtitle": true,
+  "description": "# Context\n\nAs a participant to [NYC Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration),\nI'm providing additional data, to help extracting many new usefull features.\n\nTo do so I'm using a [high performance routing engine](http://project-osrm.org/) \ndesigned to run on [OpenStreetMap](openstreetmap.org) data.\n\nHaving the whole blind test data, I decided also to share a small amount concerning erroneous samples (less than 0.15%),\nso competitors can focus matching real world data and to not try to fit randomness.\n\n*Note: The steps files are big so I split them into two parts. [Part 1](https://www.kaggle.com/atmarouane/nyc-taxi-trip-noisy-bis1), [Part2](https://www.kaggle.com/atmarouane/nyc-taxi-trip-noisy-bis2)*\n\n# Content\n\nDescription of different tables used.\n\n## Train/Test augmented\n\n**id**: Record id\n\n**distance**: Route distance (m)\n\n**duration**: OSRM trip duration (s)\n\n**motorway, trunk, primary, secondary, tertiary, unclassified, residential**:\n\nThe proportion spent on different [kind](http://wiki.openstreetmap.org/wiki/Key:highway#Roads) of roads (% of total distance)\n\n**nTrafficSignals**: The number of traffic signals.\n\n**nCrossing**: The number of pedestrian crossing.\n\n**nStop**: The number of stop signs.\n\n**nIntersection**: The number of intersections, if you are OSRM user, intersection have different meaning than the one used in OSRM.\n\n*Intersection can be crossroad, but not a highway exit...\n\n**srcCounty, dstCounty**: Pickup/Dropoff county.\n\n  NA: Not in NYC\n\n  1: Brooklyn\n\n  2: Queens\n\n  3: Staten Island\n\n  4: Manhattan\n\n  5: Bronx\n\n---\n\n## Train/Test steps\n\nFor each trip we saved all the ways (route portion).\n\n**id**: train/test id.\n\n**wayId**: Way id, you can check the way using www.openstreetmap.org/way/*wayId*\n\n**portion**: The proportion of the total distance\n\n---\n\n## Polylines table\n\nIt contains encoded nodes (lon/lat coordinates), of the used ways.\n\n**wayId**: The way identification.\n\n**polyline**: [Encoded](https://developers.google.com/maps/documentation/utilities/polylinealgorithm) polylines. \n\n---\n\n## Train/Test bugs (0.15% of total data)\n\n**id**: Same as original data.\n\n**bug**: kind of the bug (0=none)\n\n1. Trip duration higher than 1 day;\n\n2. Drop off on the day after pickup, and trip duration higher than 6h;\n\n3. Drop off time at 00:00:00 and vendor_id eq 2.\n\n**trip_duration**: Taxi trip duration\n\n---\n\n# Credits\n1. *Real-time routing with OpenStreetMap data* (http://project-osrm.org/)\n2. *OSM* (http://www.openstreetmap.org)\n3. *Banner* (Photo by Nicolai Berntsen on Unsplash)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

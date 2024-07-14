@@ -1,0 +1,39 @@
+{
+  "id": "yashpl11/air-quality-dataset",
+  "id_no": 2801372,
+  "datasetSlugNullable": "air-quality-dataset",
+  "ownerUserNullable": "yashpl11",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Air Quality Dataset",
+  "subtitleNullable": "Air Pollution Between The Years",
+  "descriptionNullable": "Air Pollution In India\n\nAir pollution in India is a serious issue with the major sources being fuelwood and biomass burning, fuel adulteration, vehicle emission and traffic congestion. In autumn and winter months, large scale crop residue burning in agriculture fields \u2013 a low cost alternative to mechanical tilling \u2013 is a major source of smoke, smog and particulate pollution. India has a low per capita emissions of greenhouse gases but the country as a whole is the third largest after China and the United States.A 2013 study on non-smokers has found that Indians have 30% lower lung function compared to Europeans.\n\nThe Air (Prevention and Control of Pollution) Act was passed in 1981 to regulate air pollution and there have been some measurable improvements. However, the 2016 Environmental Performance Index ranked India 141 out of 180 countries.\nPollution is turning the Taj Mahal yellow, despite efforts by the Indian government to control air contamination around the poignant 17th century monument and keep it shimmering white, a parliamentary committee has said.\n\nIn a report to parliament this week, the standing committee on transport, tourism and culture said airborne particles were being deposited on the monument\u2019s white marble, giving it a yellow tinge.\n\nThe monument, in the northern city of Agra about four hours drive south of the capital, was built by Mughal emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal.\n\nAuthorities have made various attempts in the past to keep the area around the Taj Mahal pollution free, including setting up an air pollution monitoring station in Agra.\n\nBut the committee said that while air pollutants such as sulphur dioxide and nitrous oxide gases were generally within permissible limits, \u201csuspended particulate matter\u201d had been recorded at high levels except during the rainy season.\n\nIt suggested a clay pack treatment that is non-corrosive and non-abrasive be carried out to remove deposits on the marble. \u201cThe committee recommends that while undertaking any conservation activity at the Taj Mahal, abundant cautions should be taken to retain the original glory of the shimmering white marble used in this.\u201d\n\nAttracting around 20,000 visitors every day, the monument was completed in 1648 after 17 years of construction by 20,000 workers.\n\n\n\n",
+  "datasetId": 2801372,
+  "datasetSlug": "air-quality-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yashpl11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1655,
+  "totalVotes": 1,
+  "totalDownloads": 238,
+  "title": "Air Quality Dataset",
+  "hasTitle": true,
+  "subtitle": "Air Pollution Between The Years",
+  "hasSubtitle": true,
+  "description": "Air Pollution In India\n\nAir pollution in India is a serious issue with the major sources being fuelwood and biomass burning, fuel adulteration, vehicle emission and traffic congestion. In autumn and winter months, large scale crop residue burning in agriculture fields \u2013 a low cost alternative to mechanical tilling \u2013 is a major source of smoke, smog and particulate pollution. India has a low per capita emissions of greenhouse gases but the country as a whole is the third largest after China and the United States.A 2013 study on non-smokers has found that Indians have 30% lower lung function compared to Europeans.\n\nThe Air (Prevention and Control of Pollution) Act was passed in 1981 to regulate air pollution and there have been some measurable improvements. However, the 2016 Environmental Performance Index ranked India 141 out of 180 countries.\nPollution is turning the Taj Mahal yellow, despite efforts by the Indian government to control air contamination around the poignant 17th century monument and keep it shimmering white, a parliamentary committee has said.\n\nIn a report to parliament this week, the standing committee on transport, tourism and culture said airborne particles were being deposited on the monument\u2019s white marble, giving it a yellow tinge.\n\nThe monument, in the northern city of Agra about four hours drive south of the capital, was built by Mughal emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal.\n\nAuthorities have made various attempts in the past to keep the area around the Taj Mahal pollution free, including setting up an air pollution monitoring station in Agra.\n\nBut the committee said that while air pollutants such as sulphur dioxide and nitrous oxide gases were generally within permissible limits, \u201csuspended particulate matter\u201d had been recorded at high levels except during the rainy season.\n\nIt suggested a clay pack treatment that is non-corrosive and non-abrasive be carried out to remove deposits on the marble. \u201cThe committee recommends that while undertaking any conservation activity at the Taj Mahal, abundant cautions should be taken to retain the original glory of the shimmering white marble used in this.\u201d\n\nAttracting around 20,000 visitors every day, the monument was completed in 1648 after 17 years of construction by 20,000 workers.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

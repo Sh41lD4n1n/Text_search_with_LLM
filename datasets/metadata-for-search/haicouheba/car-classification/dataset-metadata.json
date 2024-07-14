@@ -1,0 +1,39 @@
+{
+  "id": "haicouheba/car-classification",
+  "id_no": 5293833,
+  "datasetSlugNullable": "car-classification",
+  "ownerUserNullable": "haicouheba",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Car Classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5293833,
+  "datasetSlug": "car-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "haicouheba",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Car Classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fashionworldda/fashion-trend-dataset",
+  "id_no": 3924887,
+  "datasetSlugNullable": "fashion-trend-dataset",
+  "ownerUserNullable": "fashionworldda",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Fashion Trend Dataset",
+  "subtitleNullable": "A dataset detailing fashion-related trends and sales from 2018 to 2022",
+  "descriptionNullable": "This dataset captures the essence of fashion-related data over the span of 2018 to 2022. It contains entries for various fashion products, with details about their gender preference, category, pattern, colour, age group target, seasonal preference, material, price, sales count, reviews, ratings, and more. The main focus of this dataset is to understand the preferences, trends, and sales metrics of different fashion products over three years.",
+  "datasetId": 3924887,
+  "datasetSlug": "fashion-trend-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fashionworldda",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2194,
+  "totalVotes": 7,
+  "totalDownloads": 450,
+  "title": "Fashion Trend Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset detailing fashion-related trends and sales from 2018 to 2022",
+  "hasSubtitle": true,
+  "description": "This dataset captures the essence of fashion-related data over the span of 2018 to 2022. It contains entries for various fashion products, with details about their gender preference, category, pattern, colour, age group target, seasonal preference, material, price, sales count, reviews, ratings, and more. The main focus of this dataset is to understand the preferences, trends, and sales metrics of different fashion products over three years.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

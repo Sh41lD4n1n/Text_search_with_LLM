@@ -1,0 +1,52 @@
+{
+  "id": "charvibannur/gtfs-traffic-prediction-dataset",
+  "id_no": 3448193,
+  "datasetSlugNullable": "gtfs-traffic-prediction-dataset",
+  "ownerUserNullable": "charvibannur",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "GTFS Traffic Prediction Dataset",
+  "subtitleNullable": "Spatio Temporal GTFS Dataset for Traffic Congestion and edge classification ",
+  "descriptionNullable": "The GTFS, or General Transit Feed Specification, is an international standard for planning public transportation and its spatial and temporal components in metropolitan areas. The Pune Mahanagar Parivahan Mahamandal Limited makes the Pune GTFS statistics available. The data is from the\nyear 2019 and covers a single day of public transportation. In total, the dataset contains 366 routes, 5624 stops, and 21,804 journeys. In 2021, the number of journeys in Pune was estimated to be around 23,000 on average. The dataset is curated by the authors from the Pune GTFS dataset by explicitly deriving multiple parameters and attributes that distinguish it from others. The data attained was categorised into 4 distinct classes using SRI (Speed Reduction Index). As a result, the massive dataset with nine csv files was condensed into a single file with minute detail on the most key facets.\n\n\u2022 stop id from is the unique identification number for a stop or a station from where the bus departs.\n\u2022 stop id to is the unique identification number for a stop or a station from where the bus is headed towards.\n\u2022 trip id is a number or a set of characters that identifies a specific trip/bus.\n\u2022 arrival time The time at which the bus arrives at a particular stop. Also used as the departure time in cases - where it is not explicitly mentioned.\n\u2022 time Duration of trip between two consecutive stops. Calculated as the difference between arrival times between the two adjacent stops as defined in Eq. 1\nTime = Arrival_time_stop_id_to \u2212 Arrival_time_stop_id_from (1)\n\u2022 speed The ratio of the distance between two adjacent pauses and the time between them was used to calculate speed. The distance between the stops is determined using\nthe Haversine formula, which maps the distance between the two stops using the spatial attributes of each stop, such as the latitude and longitude coordinates as shown in Eq. 2.\nhaversin(dr) = haversin(\u03d51\u2212\u03d52)+cos \u03d51 cos \u03d52haversin(\u03bb2\u2212\u03bb1) (2)\nHaversine formula used to determine the great circle distance between two points given their latitude and longitude coordinates. The distances calculated using this formula are straight paths, curves are not considered. This might negatively affect the speed as well as the other\npredictions. Although all the distances between stops are straight lines, it aligns with the speeds calculated using another library.\nSpeed is then further calculated using Eq. 3.\nspeed = Distance/time (3)\n\u2022 number of trips The total number of buses that travel between two particular stops during a particular time interval.\n\u2022 SRI or the speed reduction index [13] which refers to the relative speed ratio that is mapped with respect to congested flow and free flow of traffic.\nSRI = (1 \u2212 vac/vff) \u00d7 10 (4)\nIn Eq. 4 {vac} is the speed in congested traffic flow and {vf f } is the speed in free flow. The time slot between 7:00-7:20 A.M was used as the free flow component.\n\u2022 Degree of congestion labels which classify each data entry into very smooth, smooth, mild congestion and heavy congestion.  Each value is classified into either very smooth,\nsmooth, mild congestion or heavy congestion, based on the\nSRI value. \n| SRI  | Degree of Congestion |\n| Negative values | Very smooth |\n| 0-2.5 | Smooth |\n| 2.5-5.0 | Mild Congestion |\n| above 5.0 | Heavy Congestion |\n\nThe time intervals used to prepare this dataset were\n\u2022 9:00-9:20 A.M\n\u2022 2:00-2:20 P.M\n\u2022 6:00-6:20 P.M\nThis provides a more concise and easier way of dealing with this enormous data.",
+  "datasetId": 3448193,
+  "datasetSlug": "gtfs-traffic-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "charvibannur",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1584,
+  "totalVotes": 5,
+  "totalDownloads": 217,
+  "title": "GTFS Traffic Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "Spatio Temporal GTFS Dataset for Traffic Congestion and edge classification ",
+  "hasSubtitle": true,
+  "description": "The GTFS, or General Transit Feed Specification, is an international standard for planning public transportation and its spatial and temporal components in metropolitan areas. The Pune Mahanagar Parivahan Mahamandal Limited makes the Pune GTFS statistics available. The data is from the\nyear 2019 and covers a single day of public transportation. In total, the dataset contains 366 routes, 5624 stops, and 21,804 journeys. In 2021, the number of journeys in Pune was estimated to be around 23,000 on average. The dataset is curated by the authors from the Pune GTFS dataset by explicitly deriving multiple parameters and attributes that distinguish it from others. The data attained was categorised into 4 distinct classes using SRI (Speed Reduction Index). As a result, the massive dataset with nine csv files was condensed into a single file with minute detail on the most key facets.\n\n\u2022 stop id from is the unique identification number for a stop or a station from where the bus departs.\n\u2022 stop id to is the unique identification number for a stop or a station from where the bus is headed towards.\n\u2022 trip id is a number or a set of characters that identifies a specific trip/bus.\n\u2022 arrival time The time at which the bus arrives at a particular stop. Also used as the departure time in cases - where it is not explicitly mentioned.\n\u2022 time Duration of trip between two consecutive stops. Calculated as the difference between arrival times between the two adjacent stops as defined in Eq. 1\nTime = Arrival_time_stop_id_to \u2212 Arrival_time_stop_id_from (1)\n\u2022 speed The ratio of the distance between two adjacent pauses and the time between them was used to calculate speed. The distance between the stops is determined using\nthe Haversine formula, which maps the distance between the two stops using the spatial attributes of each stop, such as the latitude and longitude coordinates as shown in Eq. 2.\nhaversin(dr) = haversin(\u03d51\u2212\u03d52)+cos \u03d51 cos \u03d52haversin(\u03bb2\u2212\u03bb1) (2)\nHaversine formula used to determine the great circle distance between two points given their latitude and longitude coordinates. The distances calculated using this formula are straight paths, curves are not considered. This might negatively affect the speed as well as the other\npredictions. Although all the distances between stops are straight lines, it aligns with the speeds calculated using another library.\nSpeed is then further calculated using Eq. 3.\nspeed = Distance/time (3)\n\u2022 number of trips The total number of buses that travel between two particular stops during a particular time interval.\n\u2022 SRI or the speed reduction index [13] which refers to the relative speed ratio that is mapped with respect to congested flow and free flow of traffic.\nSRI = (1 \u2212 vac/vff) \u00d7 10 (4)\nIn Eq. 4 {vac} is the speed in congested traffic flow and {vf f } is the speed in free flow. The time slot between 7:00-7:20 A.M was used as the free flow component.\n\u2022 Degree of congestion labels which classify each data entry into very smooth, smooth, mild congestion and heavy congestion.  Each value is classified into either very smooth,\nsmooth, mild congestion or heavy congestion, based on the\nSRI value. \n| SRI  | Degree of Congestion |\n| Negative values | Very smooth |\n| 0-2.5 | Smooth |\n| 2.5-5.0 | Mild Congestion |\n| above 5.0 | Heavy Congestion |\n\nThe time intervals used to prepare this dataset were\n\u2022 9:00-9:20 A.M\n\u2022 2:00-2:20 P.M\n\u2022 6:00-6:20 P.M\nThis provides a more concise and easier way of dealing with this enormous data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "geospatial analysis",
+    "data visualization",
+    "data analytics",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "chaitrabhat234",
+      "role": "writer"
+    },
+    {
+      "username": "mamathahrpesitise",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

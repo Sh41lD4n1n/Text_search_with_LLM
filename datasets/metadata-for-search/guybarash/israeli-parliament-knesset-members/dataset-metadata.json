@@ -1,0 +1,40 @@
+{
+  "id": "guybarash/israeli-parliament-knesset-members",
+  "id_no": 1876314,
+  "datasetSlugNullable": "israeli-parliament-knesset-members",
+  "ownerUserNullable": "guybarash",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Israeli Parliament (Knesset) Members ",
+  "subtitleNullable": "All members of the Israeli Parliament with affiliation",
+  "descriptionNullable": "### Context\n\nData on the Israeli Knesset from the first Knesset to the 24th. \n\n\n\n### Content\n\nFor Knesset 1-24 this contains:\n- Names of all politicians\n- The Party they are affiliated with\n- The number(s) of parliaments each politician was active in \n- Gender\n- Place of Birth\n- Place of Death\n- image link\n- date of birth\n- primary language \netc.\n\n\nSource:\nhttps://main.knesset.gov.il/mk/Pages/current.aspx?pg=mklist\nWikipedia\nWikidata\n\n### Inspiration\nDuring 2019-2020 isreal was stuck in a political deadlock with election following election. This contribution was done in the hope to allow easier access to political data which will enable verifying news as fake or real news. ",
+  "datasetId": 1876314,
+  "datasetSlug": "israeli-parliament-knesset-members",
+  "hasDatasetSlug": true,
+  "ownerUser": "guybarash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 2755,
+  "totalVotes": 9,
+  "totalDownloads": 137,
+  "title": "Israeli Parliament (Knesset) Members ",
+  "hasTitle": true,
+  "subtitle": "All members of the Israeli Parliament with affiliation",
+  "hasSubtitle": true,
+  "description": "### Context\n\nData on the Israeli Knesset from the first Knesset to the 24th. \n\n\n\n### Content\n\nFor Knesset 1-24 this contains:\n- Names of all politicians\n- The Party they are affiliated with\n- The number(s) of parliaments each politician was active in \n- Gender\n- Place of Birth\n- Place of Death\n- image link\n- date of birth\n- primary language \netc.\n\n\nSource:\nhttps://main.knesset.gov.il/mk/Pages/current.aspx?pg=mklist\nWikipedia\nWikidata\n\n### Inspiration\nDuring 2019-2020 isreal was stuck in a political deadlock with election following election. This contribution was done in the hope to allow easier access to political data which will enable verifying news as fake or real news. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "middle east"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

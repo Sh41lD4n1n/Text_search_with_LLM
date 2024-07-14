@@ -1,0 +1,39 @@
+{
+  "id": "islamic/imdb-top-rated-1000-movies",
+  "id_no": 4123577,
+  "datasetSlugNullable": "imdb-top-rated-1000-movies",
+  "ownerUserNullable": "islamic",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "IMDb top rated 1000 movies",
+  "subtitleNullable": "",
+  "descriptionNullable": "The dataset have seven features : \n1) Movie Name\n2) Category\n3) Release year\n4) Duration\n5) Rating\n6) Meta score\n7) Votes .",
+  "datasetId": 4123577,
+  "datasetSlug": "imdb-top-rated-1000-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "islamic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 41,
+  "totalVotes": 8,
+  "totalDownloads": 8,
+  "title": "IMDb top rated 1000 movies",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The dataset have seven features : \n1) Movie Name\n2) Category\n3) Release year\n4) Duration\n5) Rating\n6) Meta score\n7) Votes .",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

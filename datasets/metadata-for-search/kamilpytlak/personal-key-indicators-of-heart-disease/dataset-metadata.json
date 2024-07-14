@@ -1,0 +1,44 @@
+{
+  "id": "kamilpytlak/personal-key-indicators-of-heart-disease",
+  "id_no": 1936563,
+  "datasetSlugNullable": "personal-key-indicators-of-heart-disease",
+  "ownerUserNullable": "kamilpytlak",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Indicators of Heart Disease (2022 UPDATE)",
+  "subtitleNullable": "2022 annual CDC survey data of 400k+ adults related to their health status",
+  "descriptionNullable": "# Key Indicators of Heart Disease\n## 2022 annual CDC survey data of 400k+ adults related to their health status\n\n### What subject does the dataset cover?\nAccording to the [CDC](https://www.cdc.gov/heartdisease/risk_factors.htm), heart disease is a leading cause of death for people of most races in the U.S. (African Americans, American Indians and Alaska Natives, and whites). About half of all Americans (47%) have at least 1 of 3 major risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Other key indicators include diabetes status, obesity (high BMI), not getting enough physical activity, or drinking too much alcohol. Identifying and preventing the factors that have the greatest impact on heart disease is very important in healthcare. In turn, developments in computing allow the application of machine learning methods to detect \"patterns\" in the data that can predict a patient's condition.\n\n### Where did the data set come from and what treatments has it undergone?\nThe dataset originally comes from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), which conducts annual telephone surveys to collect data on the health status of U.S. residents. As described by the [CDC](https://www.cdc.gov/heartdisease/risk_factors.htm): \"Established in 1984 with 15 states, BRFSS now collects data in all 50 states, the District of Columbia, and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world. The most recent dataset includes data from 2023. In this dataset, I noticed many factors (questions) that directly or indirectly influence heart disease, so I decided to select the most relevant variables from it. I also decided to share with you two versions of the most recent dataset: with NaNs and without it.\n\n### What can you do with this data set?\nAs described above, the original dataset of nearly 300 variables was reduced to 40variables. In addition to classical EDA, this dataset can be used to apply a number of machine learning methods, especially classifier models (logistic regression, SVM, random forest, etc.). You should treat the variable \"HadHeartAttack\" as binary (\"Yes\" - respondent had heart disease; \"No\" - respondent did not have heart disease). Note, however, that the classes are unbalanced, so the classic approach of applying a model is not advisable. Fixing the weights/undersampling should yield much better results. Based on the data set, I built a logistic regression model and embedded it in an application that might inspire you: https://share.streamlit.io/kamilpytlak/heart-condition-checker/main/app.py. Can you indicate which variables have a significant effect on the likelihood of heart disease?\n\n### What steps did you use to convert the dataset?\nCheck out this notebook in my GitHub repository: https://github.com/kamilpytlak/data-science-projects/blob/main/heart-disease-prediction/2022/notebooks/data_processing.ipynb",
+  "datasetId": 1936563,
+  "datasetSlug": "personal-key-indicators-of-heart-disease",
+  "hasDatasetSlug": true,
+  "ownerUser": "kamilpytlak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 421257,
+  "totalVotes": 835,
+  "totalDownloads": 67151,
+  "title": "Indicators of Heart Disease (2022 UPDATE)",
+  "hasTitle": true,
+  "subtitle": "2022 annual CDC survey data of 400k+ adults related to their health status",
+  "hasSubtitle": true,
+  "description": "# Key Indicators of Heart Disease\n## 2022 annual CDC survey data of 400k+ adults related to their health status\n\n### What subject does the dataset cover?\nAccording to the [CDC](https://www.cdc.gov/heartdisease/risk_factors.htm), heart disease is a leading cause of death for people of most races in the U.S. (African Americans, American Indians and Alaska Natives, and whites). About half of all Americans (47%) have at least 1 of 3 major risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Other key indicators include diabetes status, obesity (high BMI), not getting enough physical activity, or drinking too much alcohol. Identifying and preventing the factors that have the greatest impact on heart disease is very important in healthcare. In turn, developments in computing allow the application of machine learning methods to detect \"patterns\" in the data that can predict a patient's condition.\n\n### Where did the data set come from and what treatments has it undergone?\nThe dataset originally comes from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), which conducts annual telephone surveys to collect data on the health status of U.S. residents. As described by the [CDC](https://www.cdc.gov/heartdisease/risk_factors.htm): \"Established in 1984 with 15 states, BRFSS now collects data in all 50 states, the District of Columbia, and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world. The most recent dataset includes data from 2023. In this dataset, I noticed many factors (questions) that directly or indirectly influence heart disease, so I decided to select the most relevant variables from it. I also decided to share with you two versions of the most recent dataset: with NaNs and without it.\n\n### What can you do with this data set?\nAs described above, the original dataset of nearly 300 variables was reduced to 40variables. In addition to classical EDA, this dataset can be used to apply a number of machine learning methods, especially classifier models (logistic regression, SVM, random forest, etc.). You should treat the variable \"HadHeartAttack\" as binary (\"Yes\" - respondent had heart disease; \"No\" - respondent did not have heart disease). Note, however, that the classes are unbalanced, so the classic approach of applying a model is not advisable. Fixing the weights/undersampling should yield much better results. Based on the data set, I built a logistic regression model and embedded it in an application that might inspire you: https://share.streamlit.io/kamilpytlak/heart-condition-checker/main/app.py. Can you indicate which variables have a significant effect on the likelihood of heart disease?\n\n### What steps did you use to convert the dataset?\nCheck out this notebook in my GitHub repository: https://github.com/kamilpytlak/data-science-projects/blob/main/heart-disease-prediction/2022/notebooks/data_processing.ipynb",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "health",
+    "data visualization",
+    "data analytics",
+    "binary classification",
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

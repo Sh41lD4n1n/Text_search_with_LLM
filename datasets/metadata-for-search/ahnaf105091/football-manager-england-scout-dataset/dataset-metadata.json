@@ -1,0 +1,43 @@
+{
+  "id": "ahnaf105091/football-manager-england-scout-dataset",
+  "id_no": 5095259,
+  "datasetSlugNullable": "football-manager-england-scout-dataset",
+  "ownerUserNullable": "ahnaf105091",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Football Manager England Scout Dataset",
+  "subtitleNullable": "A scout database for Northampton FC in Football Manager 23(Season 2030-31)",
+  "descriptionNullable": "This dataset is collected from a simulated save file of the game Football Manager 23. \n\nNorthampton FC has clawed their way upto the second tier of English football, the Championship in 2030-31 season. After a rough season and nearly escaping relagation, they are focusing heavily on their player recruitment to become an established Championship team. \n\nNorthampton finished 21st in the table, securing only 46 points with a goal difference of -21. Their lack of goalscoring ability upfront and leaky defense at the back has made the club rethink their recruitment strategy.\n\nFrom the list of 422 scouted players, they're actively looking for :\n\n- A clinical striker with a keen eye for goal.\n- A creative midfielder to provide high-quality chances\n- A hard working, physical midfielder to provide cover for the creative midfielder.\n- An aerially dominant Center-back who is also sound in defense. \n- A wingback who covers a lot of ground and dishes out quality crosses inside the final third.\n\nTo accomodate the signings, the Northampton FC board has allowed an extra wage budget of 60k/week.\n\nYour job as a manager is to find the best recruitments within the wage budget.",
+  "datasetId": 5095259,
+  "datasetSlug": "football-manager-england-scout-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahnaf105091",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 138,
+  "totalVotes": 0,
+  "totalDownloads": 17,
+  "title": "Football Manager England Scout Dataset",
+  "hasTitle": true,
+  "subtitle": "A scout database for Northampton FC in Football Manager 23(Season 2030-31)",
+  "hasSubtitle": true,
+  "description": "This dataset is collected from a simulated save file of the game Football Manager 23. \n\nNorthampton FC has clawed their way upto the second tier of English football, the Championship in 2030-31 season. After a rough season and nearly escaping relagation, they are focusing heavily on their player recruitment to become an established Championship team. \n\nNorthampton finished 21st in the table, securing only 46 points with a goal difference of -21. Their lack of goalscoring ability upfront and leaky defense at the back has made the club rethink their recruitment strategy.\n\nFrom the list of 422 scouted players, they're actively looking for :\n\n- A clinical striker with a keen eye for goal.\n- A creative midfielder to provide high-quality chances\n- A hard working, physical midfielder to provide cover for the creative midfielder.\n- An aerially dominant Center-back who is also sound in defense. \n- A wingback who covers a lot of ground and dishes out quality crosses inside the final third.\n\nTo accomodate the signings, the Northampton FC board has allowed an extra wage budget of 60k/week.\n\nYour job as a manager is to find the best recruitments within the wage budget.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "football",
+    "sports",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

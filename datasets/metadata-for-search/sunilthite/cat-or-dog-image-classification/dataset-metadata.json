@@ -1,0 +1,39 @@
+{
+  "id": "sunilthite/cat-or-dog-image-classification",
+  "id_no": 3933241,
+  "datasetSlugNullable": "cat-or-dog-image-classification",
+  "ownerUserNullable": "sunilthite",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cat or Dog Image Classification",
+  "subtitleNullable": "High-Quality Dataset for Training and Evaluating Cat vs Dog Image Classification",
+  "descriptionNullable": "This dataset contains a collection of images featuring cats and dogs, intended for use in image classification tasks. It's a valuable resource for training and evaluating machine learning models that can distinguish between these two popular pet species. The dataset is well-structured, making it suitable for both beginners and experienced data scientists looking to build and test image classification algorithms.\nDataset contains more than 27500 training and testing images of dog and cat ",
+  "datasetId": 3933241,
+  "datasetSlug": "cat-or-dog-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sunilthite",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1852,
+  "totalVotes": 13,
+  "totalDownloads": 568,
+  "title": "Cat or Dog Image Classification",
+  "hasTitle": true,
+  "subtitle": "High-Quality Dataset for Training and Evaluating Cat vs Dog Image Classification",
+  "hasSubtitle": true,
+  "description": "This dataset contains a collection of images featuring cats and dogs, intended for use in image classification tasks. It's a valuable resource for training and evaluating machine learning models that can distinguish between these two popular pet species. The dataset is well-structured, making it suitable for both beginners and experienced data scientists looking to build and test image classification algorithms.\nDataset contains more than 27500 training and testing images of dog and cat ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "akshit2605/house-prices",
+  "id_no": 4758575,
+  "datasetSlugNullable": "house-prices",
+  "ownerUserNullable": "akshit2605",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "House Prices",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset provides detailed information about residential properties, including their prices, area sizes, number of bedrooms, and several other key features. The dataset aims to assist in the analysis and prediction of housing prices based on various property attributes.\n\n",
+  "datasetId": 4758575,
+  "datasetSlug": "house-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "akshit2605",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 41,
+  "totalVotes": 7,
+  "totalDownloads": 7,
+  "title": "House Prices",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset provides detailed information about residential properties, including their prices, area sizes, number of bedrooms, and several other key features. The dataset aims to assist in the analysis and prediction of housing prices based on various property attributes.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

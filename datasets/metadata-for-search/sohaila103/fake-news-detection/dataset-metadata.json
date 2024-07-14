@@ -1,0 +1,37 @@
+{
+  "id": "sohaila103/fake-news-detection",
+  "id_no": 4932782,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "sohaila103",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "fake_news _Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4932782,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohaila103",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 28,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "fake_news _Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

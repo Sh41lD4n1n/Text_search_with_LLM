@@ -1,0 +1,43 @@
+{
+  "id": "tanishqdublish/text-classification-documentation",
+  "id_no": 4295346,
+  "datasetSlugNullable": "text-classification-documentation",
+  "ownerUserNullable": "tanishqdublish",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Text classification documentation",
+  "subtitleNullable": "Text Document Classification Dataset for Classification and Clustering",
+  "descriptionNullable": "This is text document classification dataset which contains 2225 text data and five categories of documents. Five categories are politics, sport, tech, entertainment and business. We can use this dataset for documents classification and document clustering.\n\n**Dataset contains two features text and label.**\nNo. of Rows : 2225\nNo. of Columns : 2\n\n\n**Text**:It contains different categories of text data\n**Label: **It contains labels for five different categories : 0,1,2,3,4\n\nPolitics = 0\nSport = 1\nTechnology = 2\nEntertainment =3\nBusiness = 4",
+  "datasetId": 4295346,
+  "datasetSlug": "text-classification-documentation",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanishqdublish",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5896,
+  "totalVotes": 49,
+  "totalDownloads": 941,
+  "title": "Text classification documentation",
+  "hasTitle": true,
+  "subtitle": "Text Document Classification Dataset for Classification and Clustering",
+  "hasSubtitle": true,
+  "description": "This is text document classification dataset which contains 2225 text data and five categories of documents. Five categories are politics, sport, tech, entertainment and business. We can use this dataset for documents classification and document clustering.\n\n**Dataset contains two features text and label.**\nNo. of Rows : 2225\nNo. of Columns : 2\n\n\n**Text**:It contains different categories of text data\n**Label: **It contains labels for five different categories : 0,1,2,3,4\n\nPolitics = 0\nSport = 1\nTechnology = 2\nEntertainment =3\nBusiness = 4",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "software",
+    "news",
+    "email and messaging",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

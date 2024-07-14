@@ -1,0 +1,37 @@
+{
+  "id": "ziriantahirli/top5000-albums-on-spotify-data-analysis",
+  "id_no": 5297751,
+  "datasetSlugNullable": "top5000-albums-on-spotify-data-analysis",
+  "ownerUserNullable": "ziriantahirli",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Top5000 Albums on Spotify Data Analysis",
+  "subtitleNullable": "Data Analysis of Spotify's top 5000 albums of all time.",
+  "descriptionNullable": "This script, a potent analytical tool, is a potential game-changer for music industry stakeholders such as data analysts, marketing strategists, and business decision-makers. It enables users to predict music release dates and trends with precision, leveraging historical data. The script's modularity ensures it can seamlessly adapt to new datasets and analytical methods. In real-life scenarios, the script's placeholder variables and paths can be effortlessly replaced with data fields and file locations, enhancing its practical value. The script's visualisations, predictive modelling, and time series analysis are pivotal for music streaming data-driven decision-making. ",
+  "datasetId": 5297751,
+  "datasetSlug": "top5000-albums-on-spotify-data-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "ziriantahirli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 2,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Top5000 Albums on Spotify Data Analysis",
+  "hasTitle": true,
+  "subtitle": "Data Analysis of Spotify's top 5000 albums of all time.",
+  "hasSubtitle": true,
+  "description": "This script, a potent analytical tool, is a potential game-changer for music industry stakeholders such as data analysts, marketing strategists, and business decision-makers. It enables users to predict music release dates and trends with precision, leveraging historical data. The script's modularity ensures it can seamlessly adapt to new datasets and analytical methods. In real-life scenarios, the script's placeholder variables and paths can be effortlessly replaced with data fields and file locations, enhancing its practical value. The script's visualisations, predictive modelling, and time series analysis are pivotal for music streaming data-driven decision-making. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

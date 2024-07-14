@@ -1,0 +1,43 @@
+{
+  "id": "hessamsh/iranian-traffic-sign-detection",
+  "id_no": 5143346,
+  "datasetSlugNullable": "iranian-traffic-sign-detection",
+  "ownerUserNullable": "hessamsh",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Iranian Traffic Sign Detection",
+  "subtitleNullable": "Annotated Dashcam images to detect traffic signs ",
+  "descriptionNullable": "**A beginner-friendly object recognition dataset of &gt;6000 images,**\n\nAs part of my thesis, I was required to gather a dataset for Iranian Traffic Signs. I set up a dashcam using my phone and a tape and drove for ~ 1 hour. \n\nNext, I got the recorded video and chopped up the frames. I selected only 3-4 frames per second, otherwise I would end up with many frames looking alike. \n\nThe images were not annotated, I needed supervised labels to actually train my network.  I used CVAT for my annotations. It was a time-consuming progress. \n\nThere are multiple signs on the road and many of them are advertisements and not traffic signs. To make sure my model doesn't mix them together, I annotated advertisement signs but put a different label on them. This way my model acknowledged these signs but would differentiate them from the valid traffic signs we wanted to detect. \n\nIf you're looking for a beginner-friendly dataset to practice object recognition give it a look!",
+  "datasetId": 5143346,
+  "datasetSlug": "iranian-traffic-sign-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "hessamsh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 58,
+  "totalVotes": 0,
+  "totalDownloads": 10,
+  "title": "Iranian Traffic Sign Detection",
+  "hasTitle": true,
+  "subtitle": "Annotated Dashcam images to detect traffic signs ",
+  "hasSubtitle": true,
+  "description": "**A beginner-friendly object recognition dataset of &gt;6000 images,**\n\nAs part of my thesis, I was required to gather a dataset for Iranian Traffic Signs. I set up a dashcam using my phone and a tape and drove for ~ 1 hour. \n\nNext, I got the recorded video and chopped up the frames. I selected only 3-4 frames per second, otherwise I would end up with many frames looking alike. \n\nThe images were not annotated, I needed supervised labels to actually train my network.  I used CVAT for my annotations. It was a time-consuming progress. \n\nThere are multiple signs on the road and many of them are advertisements and not traffic signs. To make sure my model doesn't mix them together, I annotated advertisement signs but put a different label on them. This way my model acknowledged these signs but would differentiate them from the valid traffic signs we wanted to detect. \n\nIf you're looking for a beginner-friendly dataset to practice object recognition give it a look!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "advanced",
+    "computer vision",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

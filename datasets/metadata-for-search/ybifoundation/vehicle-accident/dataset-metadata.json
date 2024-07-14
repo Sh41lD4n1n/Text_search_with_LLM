@@ -1,0 +1,48 @@
+{
+  "id": "ybifoundation/vehicle-accident",
+  "id_no": 2941484,
+  "datasetSlugNullable": "vehicle-accident",
+  "ownerUserNullable": "ybifoundation",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Vehicle Accident",
+  "subtitleNullable": "Exploratory Data Analysis and Insights to Control Public Accidents",
+  "descriptionNullable": "Road accidents are major cause of property and life losses. The dataset gives opportunity to deep dive into the pattern of accidents and create dashboard visualization for meaningful insight.\n\n\nSource: Delaware Open Data",
+  "datasetId": 2941484,
+  "datasetSlug": "vehicle-accident",
+  "hasDatasetSlug": true,
+  "ownerUser": "ybifoundation",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 1544,
+  "totalVotes": 86,
+  "totalDownloads": 326,
+  "title": "Vehicle Accident",
+  "hasTitle": true,
+  "subtitle": "Exploratory Data Analysis and Insights to Control Public Accidents",
+  "hasSubtitle": true,
+  "description": "Road accidents are major cause of property and life losses. The dataset gives opportunity to deep dive into the pattern of accidents and create dashboard visualization for meaningful insight.\n\n\nSource: Delaware Open Data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "yblfoundation",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

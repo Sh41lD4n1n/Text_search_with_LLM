@@ -1,0 +1,48 @@
+{
+  "id": "/hourly-weather-surface-brazil-southeast-region",
+  "id_no": 19911,
+  "datasetSlugNullable": "hourly-weather-surface-brazil-southeast-region",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Climate Weather Surface of Brazil - Hourly",
+  "subtitleNullable": "Hourly Climate data from 122 weathes stations between 2000 and 2021",
+  "descriptionNullable": "### Context\n\nIt's covers hourly weather data from **623 inmet weathers stations of Brazil**. \n\n**Dataset Source:** INMET (National Meteorological Institute -  Brazil).\n\n**Equipament:** [Vaisala Automatic Weather Station AWS310 ][1]\n\n**Category:** Weather\n\n### Content\n\nData: \n\n- Date (YYYY-MM-DD)\n- Time (HH:00)\n- Amount of precipitation in millimetres (last hour)\n- Atmospheric pressure at station level (mb)\n- Maximum air pressure for the last hour (mb)\n- Minimum air pressure for the last hour (mb)\n- Solar radiation (KJ/m2)\n- Air temperature (instant) (\u00b0c)\n- Dew point temperature (instant) (\u00b0c)\n- Maximum temperature for the last hour (\u00b0c)\n- Minimum temperature for the last hour (\u00b0c)\n- Maximum dew point temperature for the last hour (\u00b0c)\n- Minimum dew point temperature for the last hour (\u00b0c)\n- Maximum relative humid temperature for the last hour (%)\n- Minimum relative humid temperature for the last hour (%)\n- Relative humid (% instant)\n- Wind direction (radius degrees (0-360))\n- Wind gust in metres per second\n- Wind speed in metres per second\n- Brazilian geopolitical regions\n- State (Province)\n- Station Name (usually city location or nickname)\n- Station code (INMET number)\n- Latitude\n- Longitude\n- Elevation\n\n### Inspiration\n#### Project\n\nThe Project is to make my own weather forecast site: Weather.\n\n#### Objectives:\n\n- The project objective are compare models\n- Keep models in production\n- Collect data daily\n- Make a website with JavaScript\n\n**NOTE:** Not all weather stations started operating since 2000\n\n  [1]: https://www.vaisala.com/sites/default/files/documents/WEA-MET-AWS310-Brochure-B211290EN.pdf",
+  "datasetId": 19911,
+  "datasetSlug": "hourly-weather-surface-brazil-southeast-region",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 117584,
+  "totalVotes": 261,
+  "totalDownloads": 14399,
+  "title": "Climate Weather Surface of Brazil - Hourly",
+  "hasTitle": true,
+  "subtitle": "Hourly Climate data from 122 weathes stations between 2000 and 2021",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIt's covers hourly weather data from **623 inmet weathers stations of Brazil**. \n\n**Dataset Source:** INMET (National Meteorological Institute -  Brazil).\n\n**Equipament:** [Vaisala Automatic Weather Station AWS310 ][1]\n\n**Category:** Weather\n\n### Content\n\nData: \n\n- Date (YYYY-MM-DD)\n- Time (HH:00)\n- Amount of precipitation in millimetres (last hour)\n- Atmospheric pressure at station level (mb)\n- Maximum air pressure for the last hour (mb)\n- Minimum air pressure for the last hour (mb)\n- Solar radiation (KJ/m2)\n- Air temperature (instant) (\u00b0c)\n- Dew point temperature (instant) (\u00b0c)\n- Maximum temperature for the last hour (\u00b0c)\n- Minimum temperature for the last hour (\u00b0c)\n- Maximum dew point temperature for the last hour (\u00b0c)\n- Minimum dew point temperature for the last hour (\u00b0c)\n- Maximum relative humid temperature for the last hour (%)\n- Minimum relative humid temperature for the last hour (%)\n- Relative humid (% instant)\n- Wind direction (radius degrees (0-360))\n- Wind gust in metres per second\n- Wind speed in metres per second\n- Brazilian geopolitical regions\n- State (Province)\n- Station Name (usually city location or nickname)\n- Station code (INMET number)\n- Latitude\n- Longitude\n- Elevation\n\n### Inspiration\n#### Project\n\nThe Project is to make my own weather forecast site: Weather.\n\n#### Objectives:\n\n- The project objective are compare models\n- Keep models in production\n- Collect data daily\n- Make a website with JavaScript\n\n**NOTE:** Not all weather stations started operating since 2000\n\n  [1]: https://www.vaisala.com/sites/default/files/documents/WEA-MET-AWS310-Brochure-B211290EN.pdf",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "weather and climate",
+    "intermediate",
+    "data cleaning",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "joaoholz",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

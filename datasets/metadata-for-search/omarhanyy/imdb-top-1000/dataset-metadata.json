@@ -1,0 +1,43 @@
+{
+  "id": "omarhanyy/imdb-top-1000",
+  "id_no": 932976,
+  "datasetSlugNullable": "imdb-top-1000",
+  "ownerUserNullable": "omarhanyy",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "IMDB top 1000",
+  "subtitleNullable": "IMDb \"Top 1000\" movies (Sorted by IMDb Rating Descending) ",
+  "descriptionNullable": "### Context\n\nIMDb (also known as the Internet Movie Database) is an online database of information related to movies, it combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects.\n\nMost data in the database is provided by volunteer contributors. \n\n### Content\n\nThis dataset includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.  \n\n### Acknowledgements\n\nThe data in this dataset has been scraped using selenium from the publicly available website https://www.imdb.com.",
+  "datasetId": 932976,
+  "datasetSlug": "imdb-top-1000",
+  "hasDatasetSlug": true,
+  "ownerUser": "omarhanyy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 21387,
+  "totalVotes": 27,
+  "totalDownloads": 2772,
+  "title": "IMDB top 1000",
+  "hasTitle": true,
+  "subtitle": "IMDb \"Top 1000\" movies (Sorted by IMDb Rating Descending) ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIMDb (also known as the Internet Movie Database) is an online database of information related to movies, it combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects.\n\nMost data in the database is provided by volunteer contributors. \n\n### Content\n\nThis dataset includes IMDB top 1,000 movies of all time with attributes such as Title, Certificate, Duration, Genre, etc.  \n\n### Acknowledgements\n\nThe data in this dataset has been scraped using selenium from the publicly available website https://www.imdb.com.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "categorical",
+    "exploratory data analysis",
+    "data cleaning",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

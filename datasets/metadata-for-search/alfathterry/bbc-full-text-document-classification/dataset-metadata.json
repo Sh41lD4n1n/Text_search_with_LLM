@@ -1,0 +1,42 @@
+{
+  "id": "alfathterry/bbc-full-text-document-classification",
+  "id_no": 4731581,
+  "datasetSlugNullable": "bbc-full-text-document-classification",
+  "ownerUserNullable": "alfathterry",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BBC Full Text Document Classification",
+  "subtitleNullable": "train your NLP skills with this dataset",
+  "descriptionNullable": "this is the csv and clean version of this dataset [link_to_the_original_Data](https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification). You can use this data to train your NLP skills.",
+  "datasetId": 4731581,
+  "datasetSlug": "bbc-full-text-document-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "alfathterry",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6715,
+  "totalVotes": 60,
+  "totalDownloads": 1083,
+  "title": "BBC Full Text Document Classification",
+  "hasTitle": true,
+  "subtitle": "train your NLP skills with this dataset",
+  "hasSubtitle": true,
+  "description": "this is the csv and clean version of this dataset [link_to_the_original_Data](https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification). You can use this data to train your NLP skills.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "nlp",
+    "multiclass classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

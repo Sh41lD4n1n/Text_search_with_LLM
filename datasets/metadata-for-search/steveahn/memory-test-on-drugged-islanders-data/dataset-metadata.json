@@ -1,0 +1,41 @@
+{
+  "id": "steveahn/memory-test-on-drugged-islanders-data",
+  "id_no": 309887,
+  "datasetSlugNullable": "memory-test-on-drugged-islanders-data",
+  "ownerUserNullable": "steveahn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Memory Test on Drugged Islanders Data",
+  "subtitleNullable": "Anti-Anxiety Medicine on Novel Islanders grouped by Happy or Sad Memory Priming",
+  "descriptionNullable": "### Context\n\nAn experiment on the effects of anti-anxiety medicine on memory recall when being primed with happy or sad memories. The participants were done on novel Islanders whom mimic real-life humans in response to external factors.\n\nDrugs of interest (known-as) [Dosage 1, 2, 3]:\n\nA - Alprazolam (Xanax, Long-term) [1mg/3mg/5mg]\n\nT - Triazolam (Halcion, Short-term) [0.25mg/0.5mg/0.75mg]\n\nS- Sugar Tablet (Placebo) [1 tab/2tabs/3tabs]\n\n*Dosages follow a 1:1 ratio to ensure validity\n*Happy or Sad memories were primed 10 minutes prior to testing\n*Participants tested every day for 1 week to mimic addiction\n\nBuilding the Case:\nObstructive effects of Benzodiazepines (Anti-Anxiety Medicine):\n- Long term adverse effects on Long Term Potentiation of synapses, metacognition and memory recall ability\nhttp://www.jstor.org/stable/43854146\n\nHappy Memories: \n- research shown positive memories to have a deeper and greater volume of striatum representation under an fMRI\nhttps://www.sciencedirect.com/science/article/pii/S0896627314008484\n\nSad Memories:\n- research shown  sad memories invokes better memory recall for evolutionary purpose whereas, happy memories are more susceptible to false memories\nhttp://www.jstor.org/stable/40064315\n\n**Participants** - all genders above 25+ years old to ensure a fully developed pre-frontal cortex, a region responsible for higher level cognition and memory recall.\n\n### Content\n\nFile contains information on participants drug treatment information along with their test scores.\n\n\n### Acknowledgements\n\nExperiment was executed under the supervision of Mr. Almohalwas at UCLA.\nAll aspects of the experiment such as experimental design, data collection and preprocessing was done from myself.\n\n\n### Inspiration\n\nHow does anti-anxiety medicine affect you differently by age?\nIs there a level of plateauing in effectiveness of anti-anxiety medicine - if so, at what point?\nEffect of anti-anxiety medicine on memory recall?\nEffectiveness of placebos in a test environment?",
+  "datasetId": 309887,
+  "datasetSlug": "memory-test-on-drugged-islanders-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "steveahn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 47021,
+  "totalVotes": 140,
+  "totalDownloads": 4835,
+  "title": "Memory Test on Drugged Islanders Data",
+  "hasTitle": true,
+  "subtitle": "Anti-Anxiety Medicine on Novel Islanders grouped by Happy or Sad Memory Priming",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAn experiment on the effects of anti-anxiety medicine on memory recall when being primed with happy or sad memories. The participants were done on novel Islanders whom mimic real-life humans in response to external factors.\n\nDrugs of interest (known-as) [Dosage 1, 2, 3]:\n\nA - Alprazolam (Xanax, Long-term) [1mg/3mg/5mg]\n\nT - Triazolam (Halcion, Short-term) [0.25mg/0.5mg/0.75mg]\n\nS- Sugar Tablet (Placebo) [1 tab/2tabs/3tabs]\n\n*Dosages follow a 1:1 ratio to ensure validity\n*Happy or Sad memories were primed 10 minutes prior to testing\n*Participants tested every day for 1 week to mimic addiction\n\nBuilding the Case:\nObstructive effects of Benzodiazepines (Anti-Anxiety Medicine):\n- Long term adverse effects on Long Term Potentiation of synapses, metacognition and memory recall ability\nhttp://www.jstor.org/stable/43854146\n\nHappy Memories: \n- research shown positive memories to have a deeper and greater volume of striatum representation under an fMRI\nhttps://www.sciencedirect.com/science/article/pii/S0896627314008484\n\nSad Memories:\n- research shown  sad memories invokes better memory recall for evolutionary purpose whereas, happy memories are more susceptible to false memories\nhttp://www.jstor.org/stable/40064315\n\n**Participants** - all genders above 25+ years old to ensure a fully developed pre-frontal cortex, a region responsible for higher level cognition and memory recall.\n\n### Content\n\nFile contains information on participants drug treatment information along with their test scores.\n\n\n### Acknowledgements\n\nExperiment was executed under the supervision of Mr. Almohalwas at UCLA.\nAll aspects of the experiment such as experimental design, data collection and preprocessing was done from myself.\n\n\n### Inspiration\n\nHow does anti-anxiety medicine affect you differently by age?\nIs there a level of plateauing in effectiveness of anti-anxiety medicine - if so, at what point?\nEffect of anti-anxiety medicine on memory recall?\nEffectiveness of placebos in a test environment?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "psychology",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

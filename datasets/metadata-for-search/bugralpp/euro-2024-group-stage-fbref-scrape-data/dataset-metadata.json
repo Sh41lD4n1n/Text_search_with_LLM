@@ -1,0 +1,43 @@
+{
+  "id": "bugralpp/euro-2024-group-stage-fbref-scrape-data",
+  "id_no": 5266191,
+  "datasetSlugNullable": "euro-2024-group-stage-fbref-scrape-data",
+  "ownerUserNullable": "bugralpp",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Euro 2024 Group Stage FBRef Scrape Data",
+  "subtitleNullable": "In-Depth Data from Euro 2024 Group Stage on FBRef",
+  "descriptionNullable": "This dataset contains comprehensive match statistics from the UEFA Euro 2024 Group Stage, covering all matches played until 22.06.2024. The data has been meticulously scraped from FBRef.com, a reputable source for detailed soccer statistics.\n\n**Key features of this dataset include:**\n\nGoals, Assists, and Shots: Detailed statistics on goals scored, assists made, shots taken, and shots on target.\nPassing Metrics: Information on passes completed, attempted, key passes, and progressive passes.\nDefensive Actions: Data on tackles, interceptions, clearances, and blocks.\nGoalkeeping Stats: Insights into goals conceded, saves made, save percentages, and clean sheets.\nAdvanced Metrics: Expected Goals (xG), Expected Assists (xA), and Expected Goals Against (xGA) to provide a deeper understanding of player and team performances.\nPlayer and Team Ratings: Match and team ratings to evaluate overall performance.\nThis dataset will be updated throughout the Euro 2024 Group Stage to ensure the most current data is available for analysis. Whether you're a soccer analyst, data scientist, or fan, this dataset provides valuable insights into the performance of teams and players in the group stage of one of the world's most prestigious soccer tournaments.\n\nSource: Data scraped from FBRef.com\n\nFeel free to explore the dataset, draw insights, and share your findings!\n\nShirt Number\nPos -- Position\n**Position most commonly played by the player**\n- GK - Goalkeepers\n- DF - Defenders\n- MF - Midfielders\n- FW - Forwards\n- FB - Fullbacks\n- LB - Left Backs\n- RB - Right Backs\n- CB - Center Backs\n- DM - Defensive Midfielders\n- CM - Central Midfielders\n- LM - Left Midfielders\n- RM - Right Midfielders\n- WM - Wide Midfielders\n- LW - Left Wingers\n- RW - Right Wingers\n- AM - Attacking Midfielders\n\nAge -- Age on date of match\nAge at season start :Given on August 1 for winter leagues and February 1 for summer leagues.\nMin -- Minutes\n\nfor tables and columns glossary you can visit:\nhttps://fbref.com/en/comps/676/schedule/European-Championship-Scores-and-Fixtures",
+  "datasetId": 5266191,
+  "datasetSlug": "euro-2024-group-stage-fbref-scrape-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bugralpp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 113,
+  "totalVotes": 1,
+  "totalDownloads": 8,
+  "title": "Euro 2024 Group Stage FBRef Scrape Data",
+  "hasTitle": true,
+  "subtitle": "In-Depth Data from Euro 2024 Group Stage on FBRef",
+  "hasSubtitle": true,
+  "description": "This dataset contains comprehensive match statistics from the UEFA Euro 2024 Group Stage, covering all matches played until 22.06.2024. The data has been meticulously scraped from FBRef.com, a reputable source for detailed soccer statistics.\n\n**Key features of this dataset include:**\n\nGoals, Assists, and Shots: Detailed statistics on goals scored, assists made, shots taken, and shots on target.\nPassing Metrics: Information on passes completed, attempted, key passes, and progressive passes.\nDefensive Actions: Data on tackles, interceptions, clearances, and blocks.\nGoalkeeping Stats: Insights into goals conceded, saves made, save percentages, and clean sheets.\nAdvanced Metrics: Expected Goals (xG), Expected Assists (xA), and Expected Goals Against (xGA) to provide a deeper understanding of player and team performances.\nPlayer and Team Ratings: Match and team ratings to evaluate overall performance.\nThis dataset will be updated throughout the Euro 2024 Group Stage to ensure the most current data is available for analysis. Whether you're a soccer analyst, data scientist, or fan, this dataset provides valuable insights into the performance of teams and players in the group stage of one of the world's most prestigious soccer tournaments.\n\nSource: Data scraped from FBRef.com\n\nFeel free to explore the dataset, draw insights, and share your findings!\n\nShirt Number\nPos -- Position\n**Position most commonly played by the player**\n- GK - Goalkeepers\n- DF - Defenders\n- MF - Midfielders\n- FW - Forwards\n- FB - Fullbacks\n- LB - Left Backs\n- RB - Right Backs\n- CB - Center Backs\n- DM - Defensive Midfielders\n- CM - Central Midfielders\n- LM - Left Midfielders\n- RM - Right Midfielders\n- WM - Wide Midfielders\n- LW - Left Wingers\n- RW - Right Wingers\n- AM - Attacking Midfielders\n\nAge -- Age on date of match\nAge at season start :Given on August 1 for winter leagues and February 1 for summer leagues.\nMin -- Minutes\n\nfor tables and columns glossary you can visit:\nhttps://fbref.com/en/comps/676/schedule/European-Championship-Scores-and-Fixtures",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "intermediate",
+    "text",
+    "python",
+    "other"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

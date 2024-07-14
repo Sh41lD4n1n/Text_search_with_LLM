@@ -1,0 +1,43 @@
+{
+  "id": "saraparsaseresht/persian-traffic-sign-dataset-ptsd",
+  "id_no": 1724688,
+  "datasetSlugNullable": "persian-traffic-sign-dataset-ptsd",
+  "ownerUserNullable": "saraparsaseresht",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Persian Traffic Sign Dataset (PTSD)",
+  "subtitleNullable": "First Iranian Traffic Sign dataset for recognition task",
+  "descriptionNullable": "### Context\n\nExisting  datasets mostly include European and American signs while in many projects like mine, we need Persian signs therefore we gathered and prepared \u201cPersian Traffic Sign Dataset\u201d which is called as PTSD. This process took near a year to take images from different places and cities in Iran and finally cropping and classifying all of them.  This dataset is appropriate for recognition task. \n\nFor my future project I am preparing Traffic Signs images for detection task with annotation files. This huge data set will be published as soon.\n\n### Content\n\nThis dataset consists of more than 14 thousand cropped traffic signs images in 43 classes for recognition task. In addition to training data, we prepared 2421  images for testing phase .\n\n\n### Acknowledgements\n\nI wouldn't be here without the help of others specially my classmates in Master Course in Tabriz University and my Supervisor Dr.Ghader Karimian Khosroshahi. Also I appreciate my lovely family.\n\n\n",
+  "datasetId": 1724688,
+  "datasetSlug": "persian-traffic-sign-dataset-ptsd",
+  "hasDatasetSlug": true,
+  "ownerUser": "saraparsaseresht",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 5947,
+  "totalVotes": 14,
+  "totalDownloads": 1303,
+  "title": "Persian Traffic Sign Dataset (PTSD)",
+  "hasTitle": true,
+  "subtitle": "First Iranian Traffic Sign dataset for recognition task",
+  "hasSubtitle": true,
+  "description": "### Context\n\nExisting  datasets mostly include European and American signs while in many projects like mine, we need Persian signs therefore we gathered and prepared \u201cPersian Traffic Sign Dataset\u201d which is called as PTSD. This process took near a year to take images from different places and cities in Iran and finally cropping and classifying all of them.  This dataset is appropriate for recognition task. \n\nFor my future project I am preparing Traffic Signs images for detection task with annotation files. This huge data set will be published as soon.\n\n### Content\n\nThis dataset consists of more than 14 thousand cropped traffic signs images in 43 classes for recognition task. In addition to training data, we prepared 2421  images for testing phase .\n\n\n### Acknowledgements\n\nI wouldn't be here without the help of others specially my classmates in Master Course in Tabriz University and my Supervisor Dr.Ghader Karimian Khosroshahi. Also I appreciate my lovely family.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "classification",
+    "image",
+    "pytorch",
+    "middle east"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "qitvision/iwildcam2020-256",
+  "id_no": 609639,
+  "datasetSlugNullable": "iwildcam2020-256",
+  "ownerUserNullable": "qitvision",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "iWildCam2020_256",
+  "subtitleNullable": "iWildCam2020 competition data set resized (stretch) into 256x256 jpegs",
+  "descriptionNullable": "### Owners\n\nThis data set is a resized version of [iWildCam-2020-FGVC7](https://www.kaggle.com/c/iwildcam-2020-fgvc7/data) images. Please accept the competition rules before using this.\n\n### Overview\n\nThe images are resized versions of the original jpegs of varying resolutions. Every image is resized to 256x256 using a stretch method and linear interpolation. Annotations include \"animal\" and \"person\" object detections from a TensorFlow Faster-RCNN model with Inception-Resnet-v2 backbone and atrous convolution. The model and sample code for running the detector over a folder of images can be found [here](https://github.com/microsoft/CameraTraps/blob/master/megadetector.md).\n\nThe WCS training set contains 217,959 images from 441 locations, and the WCS test set contains 62,894 images from 111 locations. These 552 locations are spread across the globe. Please see the original competition data set for a detailed explanation of annotations. \n\n\n### Folder structure\n\n```\n256_images\n    |_train\n    |     |_images\n    |     |_annotations\n    |\n    |_test\n          |_images\n          |_annotations\n```\n\n### Annotations\n\nEach image `image_name.jpg` has a corresponding annotation file `image_name.txt` in the `annotations` folder. It is CSV formatted with a comma delimiter `,` and includes a header row. The header has the following column names: \n\n**Object annotations**\n- bbox_left = left x pixel coordinate (integer)\n- bbox_top = top x pixel coordinate (integer)\n- bbox_width = object width in pixels\n- bbox_height = object height in pixels\n- object_category = `person` or `animal`\n- encoded_category = category id integer `{2: 'person', 1: 'animal'}`\n- confidence = detector model confidencefor the object\n\n**Image level annotations**\n- location\\_00 = image level location encoded to the column name. The integer after **location\\_** in the column header tells the location of the image. Row values in this column are always `-`.\n- image\\_cl\\_00 = image level class encoded to the column name. The integer after **image\\_cl\\_** in the column header tells the encoded category of the image. Row values in this column are always `-`.\n\nOne row per object detection. Not all images have detected objects and test set annotations have `image_cl_-1` in the image level category that means the category is missing.\n\n**Sample annotation** \n```\nbbox_left,bbox_top,bbox_width,bbox_height,object_category,encoded_category,confidence,location_287,image_cl_24\n5,109,68,64,animal,1,0.999,-,-\n```",
+  "datasetId": 609639,
+  "datasetSlug": "iwildcam2020-256",
+  "hasDatasetSlug": true,
+  "ownerUser": "qitvision",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3327,
+  "totalVotes": 6,
+  "totalDownloads": 359,
+  "title": "iWildCam2020_256",
+  "hasTitle": true,
+  "subtitle": "iWildCam2020 competition data set resized (stretch) into 256x256 jpegs",
+  "hasSubtitle": true,
+  "description": "### Owners\n\nThis data set is a resized version of [iWildCam-2020-FGVC7](https://www.kaggle.com/c/iwildcam-2020-fgvc7/data) images. Please accept the competition rules before using this.\n\n### Overview\n\nThe images are resized versions of the original jpegs of varying resolutions. Every image is resized to 256x256 using a stretch method and linear interpolation. Annotations include \"animal\" and \"person\" object detections from a TensorFlow Faster-RCNN model with Inception-Resnet-v2 backbone and atrous convolution. The model and sample code for running the detector over a folder of images can be found [here](https://github.com/microsoft/CameraTraps/blob/master/megadetector.md).\n\nThe WCS training set contains 217,959 images from 441 locations, and the WCS test set contains 62,894 images from 111 locations. These 552 locations are spread across the globe. Please see the original competition data set for a detailed explanation of annotations. \n\n\n### Folder structure\n\n```\n256_images\n    |_train\n    |     |_images\n    |     |_annotations\n    |\n    |_test\n          |_images\n          |_annotations\n```\n\n### Annotations\n\nEach image `image_name.jpg` has a corresponding annotation file `image_name.txt` in the `annotations` folder. It is CSV formatted with a comma delimiter `,` and includes a header row. The header has the following column names: \n\n**Object annotations**\n- bbox_left = left x pixel coordinate (integer)\n- bbox_top = top x pixel coordinate (integer)\n- bbox_width = object width in pixels\n- bbox_height = object height in pixels\n- object_category = `person` or `animal`\n- encoded_category = category id integer `{2: 'person', 1: 'animal'}`\n- confidence = detector model confidencefor the object\n\n**Image level annotations**\n- location\\_00 = image level location encoded to the column name. The integer after **location\\_** in the column header tells the location of the image. Row values in this column are always `-`.\n- image\\_cl\\_00 = image level class encoded to the column name. The integer after **image\\_cl\\_** in the column header tells the encoded category of the image. Row values in this column are always `-`.\n\nOne row per object detection. Not all images have detected objects and test set annotations have `image_cl_-1` in the image level category that means the category is missing.\n\n**Sample annotation** \n```\nbbox_left,bbox_top,bbox_width,bbox_height,object_category,encoded_category,confidence,location_287,image_cl_24\n5,109,68,64,animal,1,0.999,-,-\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

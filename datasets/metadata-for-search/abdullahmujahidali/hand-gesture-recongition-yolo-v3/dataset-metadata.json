@@ -1,0 +1,39 @@
+{
+  "id": "abdullahmujahidali/hand-gesture-recongition-yolo-v3",
+  "id_no": 1229830,
+  "datasetSlugNullable": "hand-gesture-recongition-yolo-v3",
+  "ownerUserNullable": "abdullahmujahidali",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Hand Gesture Recongition Yolo V3",
+  "subtitleNullable": "Dataset for symbols [1,2,3,4,5]",
+  "descriptionNullable": "This custom-labeled dataset consists of hand gestures representing numbers 1-5 in American Sign Language. Collected and labelled personally, the dataset is tailored for Hand Gesture Recognition using YOLOv3. Available in both .txt and .yml formats, it serves as a valuable resource for training models aimed at interpreting sign language gestures.",
+  "datasetId": 1229830,
+  "datasetSlug": "hand-gesture-recongition-yolo-v3",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdullahmujahidali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4564,
+  "totalVotes": 11,
+  "totalDownloads": 272,
+  "title": "Hand Gesture Recongition Yolo V3",
+  "hasTitle": true,
+  "subtitle": "Dataset for symbols [1,2,3,4,5]",
+  "hasSubtitle": true,
+  "description": "This custom-labeled dataset consists of hand gestures representing numbers 1-5 in American Sign Language. Collected and labelled personally, the dataset is tailored for Hand Gesture Recognition using YOLOv3. Available in both .txt and .yml formats, it serves as a valuable resource for training models aimed at interpreting sign language gestures.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Free Documentation License 1.3",
+      "name": "GNU Free Documentation License 1.3",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

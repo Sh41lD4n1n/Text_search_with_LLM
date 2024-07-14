@@ -1,0 +1,43 @@
+{
+  "id": "techsash/waste-classification-data",
+  "id_no": 233210,
+  "datasetSlugNullable": "waste-classification-data",
+  "ownerUserNullable": "techsash",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Waste Classification data",
+  "subtitleNullable": "This dataset contains 22500 images of organic and recyclable objects",
+  "descriptionNullable": "<h1>WASTE CLASSIFICATION</h1>\n\n**PROBLEM**<br><br>\nWaste management is a big problem in our country. Most of the wastes end up in landfills. This leads to many issues like\n\n- Increase in landfills<br>\n- Eutrophication<br>\n- Consumption of toxic waste by animals<br>\n- Leachate<br>\n- Increase in toxins<br>\n- Land, water and air pollution<br><br>\n\n**APPROACH**<br><br>\n- Studied white papers on waste management<br>\n- Analysed the components of household waste<br>\n- Segregated into two classes (Organic and recyclable)<br>\n- Automated the process by using IOT and machine learning<br>\n- Reduce toxic waste ending in landfills<br><br>\n\n**IMPLEMENTATION**<br><br>\nDataset is divided into train data (85%) and test data (15%)\u2028\u2028\n\nTraining data - 22564 images\u2028    Test data - 2513 images",
+  "datasetId": 233210,
+  "datasetSlug": "waste-classification-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "techsash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 252991,
+  "totalVotes": 425,
+  "totalDownloads": 27871,
+  "title": "Waste Classification data",
+  "hasTitle": true,
+  "subtitle": "This dataset contains 22500 images of organic and recyclable objects",
+  "hasSubtitle": true,
+  "description": "<h1>WASTE CLASSIFICATION</h1>\n\n**PROBLEM**<br><br>\nWaste management is a big problem in our country. Most of the wastes end up in landfills. This leads to many issues like\n\n- Increase in landfills<br>\n- Eutrophication<br>\n- Consumption of toxic waste by animals<br>\n- Leachate<br>\n- Increase in toxins<br>\n- Land, water and air pollution<br><br>\n\n**APPROACH**<br><br>\n- Studied white papers on waste management<br>\n- Analysed the components of household waste<br>\n- Segregated into two classes (Organic and recyclable)<br>\n- Automated the process by using IOT and machine learning<br>\n- Reduce toxic waste ending in landfills<br><br>\n\n**IMPLEMENTATION**<br><br>\nDataset is divided into train data (85%) and test data (15%)\u2028\u2028\n\nTraining data - 22564 images\u2028    Test data - 2513 images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "energy",
+    "classification",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

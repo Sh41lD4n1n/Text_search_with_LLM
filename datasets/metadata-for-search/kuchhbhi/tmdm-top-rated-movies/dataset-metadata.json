@@ -1,0 +1,43 @@
+{
+  "id": "kuchhbhi/tmdm-top-rated-movies",
+  "id_no": 1972450,
+  "datasetSlugNullable": "tmdm-top-rated-movies",
+  "ownerUserNullable": "kuchhbhi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TMDM Top Rated 1000 Movies Dataset",
+  "subtitleNullable": "Data of 1000 of Hollywood movies with lots of info.",
+  "descriptionNullable": "This is the data about TMDM all time top 1000 movies.\nColumns of the date are as below:\n id\t: unique id of the movie\ntitle\t: Name of movie\nrelease_date\t: release date of movie\nadult\t:  True/False\noriginal_language\t: Language\noverview\t: Short summery of movie\npopularity: popularity\nvote_average\t: avg vote\nvote_count : total vote count\n",
+  "datasetId": 1972450,
+  "datasetSlug": "tmdm-top-rated-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "kuchhbhi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 774,
+  "totalVotes": 6,
+  "totalDownloads": 73,
+  "title": "TMDM Top Rated 1000 Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Data of 1000 of Hollywood movies with lots of info.",
+  "hasSubtitle": true,
+  "description": "This is the data about TMDM all time top 1000 movies.\nColumns of the date are as below:\n id\t: unique id of the movie\ntitle\t: Name of movie\nrelease_date\t: release date of movie\nadult\t:  True/False\noriginal_language\t: Language\noverview\t: Short summery of movie\npopularity: popularity\nvote_average\t: avg vote\nvote_count : total vote count\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "categorical",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

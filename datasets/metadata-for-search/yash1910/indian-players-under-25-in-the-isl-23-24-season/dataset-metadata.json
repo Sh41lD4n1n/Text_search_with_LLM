@@ -1,0 +1,39 @@
+{
+  "id": "yash1910/indian-players-under-25-in-the-isl-23-24-season",
+  "id_no": 5279121,
+  "datasetSlugNullable": "indian-players-under-25-in-the-isl-23-24-season",
+  "ownerUserNullable": "yash1910",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Indian players under 25 in the ISL 23-24 season",
+  "subtitleNullable": "Find players that can play for India to qualify for the world cup",
+  "descriptionNullable": "This dataset is extracted from https://www.indiansuperleague.com on 6/25/2024 at 5:15:00 PM  It contains data of Indian players under the age of 25 for the ISL 2023-2024 season. This dataset aims to find players who can play for India in the upcoming years to qualify for the World Cup.",
+  "datasetId": 5279121,
+  "datasetSlug": "indian-players-under-25-in-the-isl-23-24-season",
+  "hasDatasetSlug": true,
+  "ownerUser": "yash1910",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 1,
+  "totalDownloads": 1,
+  "title": "Indian players under 25 in the ISL 23-24 season",
+  "hasTitle": true,
+  "subtitle": "Find players that can play for India to qualify for the world cup",
+  "hasSubtitle": true,
+  "description": "This dataset is extracted from https://www.indiansuperleague.com on 6/25/2024 at 5:15:00 PM  It contains data of Indian players under the age of 25 for the ISL 2023-2024 season. This dataset aims to find players who can play for India in the upcoming years to qualify for the World Cup.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mikhailkosov/traffic-signs-in-post-soviet-states-200-classes",
+  "id_no": 4146112,
+  "datasetSlugNullable": "traffic-signs-in-post-soviet-states-200-classes",
+  "ownerUserNullable": "mikhailkosov",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Traffic signs in post-Soviet states (200 classes)",
+  "subtitleNullable": "The road signs in the post-Soviet countries are largely similar.",
+  "descriptionNullable": "Number classes: 200\nTotal number of images in dataset: 117396\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8894060%2F2a6f85f06f27eb0cc0e3b2e0318dceb3%2FClass_numbers.png?generation=1702820432536815&alt=media)\n\nMore than 95% of road signs in post-Soviet countries are identical, so you can use this dataset for any of these countries (Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine and Uzbekistan ).\nA simple self-written CNN model shows an accuracy of more than 99.5% on the test set.\n\n[GitHub](https://github.com/Gurzuff/Traffic_Sign-Detection_Recognation)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8894060%2F827a9243bb304c3db13a73915eaff239%2Fmetrics_36M_64x64_80ep_log.png?generation=1702295159633460&alt=media)\n\n# Labels \nConsists of images of instances for each class.\n\n# Data\nThe Data folder consists of 200 folder (enumerated from 0 to 199) containing images of one road sign.\n\n# Classes\nGroups, names and classes for 200 types of road signs.",
+  "datasetId": 4146112,
+  "datasetSlug": "traffic-signs-in-post-soviet-states-200-classes",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikhailkosov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 579,
+  "totalVotes": 7,
+  "totalDownloads": 38,
+  "title": "Traffic signs in post-Soviet states (200 classes)",
+  "hasTitle": true,
+  "subtitle": "The road signs in the post-Soviet countries are largely similar.",
+  "hasSubtitle": true,
+  "description": "Number classes: 200\nTotal number of images in dataset: 117396\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8894060%2F2a6f85f06f27eb0cc0e3b2e0318dceb3%2FClass_numbers.png?generation=1702820432536815&alt=media)\n\nMore than 95% of road signs in post-Soviet countries are identical, so you can use this dataset for any of these countries (Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine and Uzbekistan ).\nA simple self-written CNN model shows an accuracy of more than 99.5% on the test set.\n\n[GitHub](https://github.com/Gurzuff/Traffic_Sign-Detection_Recognation)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8894060%2F827a9243bb304c3db13a73915eaff239%2Fmetrics_36M_64x64_80ep_log.png?generation=1702295159633460&alt=media)\n\n# Labels \nConsists of images of instances for each class.\n\n# Data\nThe Data folder consists of 200 folder (enumerated from 0 to 199) containing images of one road sign.\n\n# Classes\nGroups, names and classes for 200 types of road signs.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "multiclass classification",
+    "image classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

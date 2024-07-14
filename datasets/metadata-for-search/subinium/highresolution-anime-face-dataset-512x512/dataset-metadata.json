@@ -1,0 +1,40 @@
+{
+  "id": "subinium/highresolution-anime-face-dataset-512x512",
+  "id_no": 1366867,
+  "datasetSlugNullable": "highresolution-anime-face-dataset-512x512",
+  "ownerUserNullable": "subinium",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "High-Resolution Anime Face Dataset (512x512)",
+  "subtitleNullable": "Anime face-specific high-resolution dataset from danbooru",
+  "descriptionNullable": "## Introduction\n\nAlthough various Danbooru datasets have already been uploaded to Kaggle, the high-resolution face dataset was not uploaded separately, so I uploaded it with the consent of the author.\n\nI hope that various studies related to the creation of anime faces will be conducted conveniently.\n\n## Description\n\nThe final 512px portrait dataset (with portrait crops, improved filtering via solo, & discriminator ranking for cleaning) is available for download via rsync (16GB, n = 302,652)\n\n```\nrsync --verbose --recursive rsync://78.46.86.149:873/biggan/portraits/ ./portraits/\n```\n\n## Reference\n\nGwern Branwen, Anonymous, & The Danbooru Community; \u201cDanbooru2019 Portraits: A Large-Scale Anime Head Illustration Dataset\u201d, 2019-03-12. Web. Accessed [DATE] https://www.gwern.net/Crops#danbooru2019-portraits\n\n```\n\n@misc{danbooru2019Portraits,\n    author = {Gwern Branwen and Anonymous and Danbooru Community},\n    title = {Danbooru2019 Portraits: A Large-Scale Anime Head Illustration Dataset},\n    howpublished = {\\url{https://www.gwern.net/Crops#danbooru2019-portraits}},\n    url = {https://www.gwern.net/Crops#danbooru2019-portraits},\n    type = {dataset},\n    year = {2019},\n    month = {March},\n    timestamp = {2019-03-12},\n    note = {Accessed: DATE} }\n```\n\n## Related Dataset in Kaggle\n\n- [Tagged Anime Illustrations](https://www.kaggle.com/mylesoneill/tagged-anime-illustrations)",
+  "datasetId": 1366867,
+  "datasetSlug": "highresolution-anime-face-dataset-512x512",
+  "hasDatasetSlug": true,
+  "ownerUser": "subinium",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 22038,
+  "totalVotes": 71,
+  "totalDownloads": 1875,
+  "title": "High-Resolution Anime Face Dataset (512x512)",
+  "hasTitle": true,
+  "subtitle": "Anime face-specific high-resolution dataset from danbooru",
+  "hasSubtitle": true,
+  "description": "## Introduction\n\nAlthough various Danbooru datasets have already been uploaded to Kaggle, the high-resolution face dataset was not uploaded separately, so I uploaded it with the consent of the author.\n\nI hope that various studies related to the creation of anime faces will be conducted conveniently.\n\n## Description\n\nThe final 512px portrait dataset (with portrait crops, improved filtering via solo, & discriminator ranking for cleaning) is available for download via rsync (16GB, n = 302,652)\n\n```\nrsync --verbose --recursive rsync://78.46.86.149:873/biggan/portraits/ ./portraits/\n```\n\n## Reference\n\nGwern Branwen, Anonymous, & The Danbooru Community; \u201cDanbooru2019 Portraits: A Large-Scale Anime Head Illustration Dataset\u201d, 2019-03-12. Web. Accessed [DATE] https://www.gwern.net/Crops#danbooru2019-portraits\n\n```\n\n@misc{danbooru2019Portraits,\n    author = {Gwern Branwen and Anonymous and Danbooru Community},\n    title = {Danbooru2019 Portraits: A Large-Scale Anime Head Illustration Dataset},\n    howpublished = {\\url{https://www.gwern.net/Crops#danbooru2019-portraits}},\n    url = {https://www.gwern.net/Crops#danbooru2019-portraits},\n    type = {dataset},\n    year = {2019},\n    month = {March},\n    timestamp = {2019-03-12},\n    note = {Accessed: DATE} }\n```\n\n## Related Dataset in Kaggle\n\n- [Tagged Anime Illustrations](https://www.kaggle.com/mylesoneill/tagged-anime-illustrations)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

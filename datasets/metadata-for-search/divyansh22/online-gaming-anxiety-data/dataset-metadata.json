@@ -1,0 +1,43 @@
+{
+  "id": "divyansh22/online-gaming-anxiety-data",
+  "id_no": 820200,
+  "datasetSlugNullable": "online-gaming-anxiety-data",
+  "ownerUserNullable": "divyansh22",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Online Gaming Anxiety Data ",
+  "subtitleNullable": "Gaming and its association with anxiety, life satisfaction and social phobia",
+  "descriptionNullable": "This dataset consists of data collected as a part of a survey among gamers worldwide. The questionnaire asked questions that psychologists generally ask people who are prone to anxiety, social phobia, and less to no life satisfaction. The questionnaire consists of several set of questions as asked as a part of psychological study. The original data was collated by Marian Sauter and Dejan Draschkow. ",
+  "datasetId": 820200,
+  "datasetSlug": "online-gaming-anxiety-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "divyansh22",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 58808,
+  "totalVotes": 149,
+  "totalDownloads": 6961,
+  "title": "Online Gaming Anxiety Data ",
+  "hasTitle": true,
+  "subtitle": "Gaming and its association with anxiety, life satisfaction and social phobia",
+  "hasSubtitle": true,
+  "description": "This dataset consists of data collected as a part of a survey among gamers worldwide. The questionnaire asked questions that psychologists generally ask people who are prone to anxiety, social phobia, and less to no life satisfaction. The questionnaire consists of several set of questions as asked as a part of psychological study. The original data was collated by Marian Sauter and Dejan Draschkow. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "video games",
+    "mental health",
+    "social science",
+    "psychology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

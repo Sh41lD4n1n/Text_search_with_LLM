@@ -1,0 +1,51 @@
+{
+  "id": "huthayfahodeb/nih-chest-x-rays-bbox-version",
+  "id_no": 5281464,
+  "datasetSlugNullable": "nih-chest-x-rays-bbox-version",
+  "ownerUserNullable": "huthayfahodeb",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "NIH Chest X-rays Bbox version",
+  "subtitleNullable": "880 Bounding Box Images for Fast Image Detection Model Training from NIH Dataset",
+  "descriptionNullable": "# **NIH Chest X-ray Dataset**\n\n## National Institutes of Health Chest X-Ray Dataset\n\nChest X-ray exams are one of the most frequent and cost-effective medical imaging examinations available. However, clinical diagnosis of a chest X-ray can be challenging and sometimes more difficult than diagnosis via chest CT imaging. The lack of large publicly available datasets with annotations means it is still very difficult, if not impossible, to achieve clinically relevant computer-aided detection and diagnosis (CAD) in real world medical sites with chest X-rays. One major hurdle in creating large X-ray image datasets is the lack resources for labeling so many images. Prior to the release of this dataset, [Openi](https://openi.nlm.nih.gov/) was the largest publicly available source of chest X-ray images with 4,143 images available.\n\nThis NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease labels from 30,805 unique patients. To create these labels, the authors used Natural Language Processing to text-mine disease classifications from the associated radiological reports. The labels are expected to be &gt;90% accurate and suitable for weakly-supervised learning. The original radiology reports are not publicly available but you can find more details on the labeling process in this Open Access paper: \"ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.\" (Wang et al.)\n\n[Link to paper](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)\n\n## Data limitations\n\n- The image labels are NLP extracted so there could be some erroneous labels but the NLP labeling accuracy is estimated to be &gt;90%.\n- Very limited numbers of disease region bounding boxes (See BBox_list_2017.csv)\n\n## File contents\n\n- Image format: 880 total images with size 1024 x 1024\n- bbox_img: Contains 880 bbox images\n- README_ChestXray.pdf: Original README file\n- BBox_list_2017.csv: Bounding box coordinates. Note: Start at x,y, extend horizontally w pixels, and vertically h pixels\n   - Image Index: File name\n   - Finding Label: Disease type (Class label)\n   - Bbox x\n   - Bbox y\n   - Bbox w\n   - Bbox h\n- Data_entry_2017.csv: Class labels and patient data for the entire dataset\n   - Image Index: File name\n   - Finding Labels: Disease type (Class label)\n   - Follow-up #\n   - Patient ID\n   - Patient Age\n   - Patient Gender\n   - View Position: X-ray orientation\n   - OriginalImageWidth\n   - OriginalImageHeight\n   - OriginalImagePixelSpacing_x\n   - OriginalImagePixelSpacing_y\n- label.csv: Class labels\n- tesnorlfow.csv: tensorflow version of the dataset\n\n## Class descriptions\n\nThere are 8 classes . Images can be classified as one or more disease classes:\n- Infiltrate\n- Atelectasis\n- Pneumonia\n- Cardiomegaly\n- Effusion\n- Pneumothorax\n- Mass\n- Nodule\n\n## Citations\n\n- Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017, [ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)\n- NIH News release: [NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)\n-Original source files and documents: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345\n\n## Acknowledgements\nThis work was supported by the Intramural Research Program of the NClinical Center (clinicalcenter.nih.gov) and National Library of Medicine (www.nlm.nih.gov).",
+  "datasetId": 5281464,
+  "datasetSlug": "nih-chest-x-rays-bbox-version",
+  "hasDatasetSlug": true,
+  "ownerUser": "huthayfahodeb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 228,
+  "totalVotes": 17,
+  "totalDownloads": 12,
+  "title": "NIH Chest X-rays Bbox version",
+  "hasTitle": true,
+  "subtitle": "880 Bounding Box Images for Fast Image Detection Model Training from NIH Dataset",
+  "hasSubtitle": true,
+  "description": "# **NIH Chest X-ray Dataset**\n\n## National Institutes of Health Chest X-Ray Dataset\n\nChest X-ray exams are one of the most frequent and cost-effective medical imaging examinations available. However, clinical diagnosis of a chest X-ray can be challenging and sometimes more difficult than diagnosis via chest CT imaging. The lack of large publicly available datasets with annotations means it is still very difficult, if not impossible, to achieve clinically relevant computer-aided detection and diagnosis (CAD) in real world medical sites with chest X-rays. One major hurdle in creating large X-ray image datasets is the lack resources for labeling so many images. Prior to the release of this dataset, [Openi](https://openi.nlm.nih.gov/) was the largest publicly available source of chest X-ray images with 4,143 images available.\n\nThis NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease labels from 30,805 unique patients. To create these labels, the authors used Natural Language Processing to text-mine disease classifications from the associated radiological reports. The labels are expected to be &gt;90% accurate and suitable for weakly-supervised learning. The original radiology reports are not publicly available but you can find more details on the labeling process in this Open Access paper: \"ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.\" (Wang et al.)\n\n[Link to paper](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)\n\n## Data limitations\n\n- The image labels are NLP extracted so there could be some erroneous labels but the NLP labeling accuracy is estimated to be &gt;90%.\n- Very limited numbers of disease region bounding boxes (See BBox_list_2017.csv)\n\n## File contents\n\n- Image format: 880 total images with size 1024 x 1024\n- bbox_img: Contains 880 bbox images\n- README_ChestXray.pdf: Original README file\n- BBox_list_2017.csv: Bounding box coordinates. Note: Start at x,y, extend horizontally w pixels, and vertically h pixels\n   - Image Index: File name\n   - Finding Label: Disease type (Class label)\n   - Bbox x\n   - Bbox y\n   - Bbox w\n   - Bbox h\n- Data_entry_2017.csv: Class labels and patient data for the entire dataset\n   - Image Index: File name\n   - Finding Labels: Disease type (Class label)\n   - Follow-up #\n   - Patient ID\n   - Patient Age\n   - Patient Gender\n   - View Position: X-ray orientation\n   - OriginalImageWidth\n   - OriginalImageHeight\n   - OriginalImagePixelSpacing_x\n   - OriginalImagePixelSpacing_y\n- label.csv: Class labels\n- tesnorlfow.csv: tensorflow version of the dataset\n\n## Class descriptions\n\nThere are 8 classes . Images can be classified as one or more disease classes:\n- Infiltrate\n- Atelectasis\n- Pneumonia\n- Cardiomegaly\n- Effusion\n- Pneumothorax\n- Mass\n- Nodule\n\n## Citations\n\n- Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017, [ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)\n- NIH News release: [NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)\n-Original source files and documents: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345\n\n## Acknowledgements\nThis work was supported by the Intramural Research Program of the NClinical Center (clinicalcenter.nih.gov) and National Library of Medicine (www.nlm.nih.gov).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "multiclass classification",
+    "health conditions",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sanadalali",
+      "role": "reader"
+    },
+    {
+      "username": "salemhajomar",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

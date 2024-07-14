@@ -1,0 +1,44 @@
+{
+  "id": "raduoprea/traffic-signs",
+  "id_no": 4431797,
+  "datasetSlugNullable": "traffic-signs",
+  "ownerUserNullable": "raduoprea",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Traffic Signs Detection",
+  "subtitleNullable": "4.5k images, 8k annotations, 55 classes, 640x640 px - google maps images",
+  "descriptionNullable": "<a href=\"https://universe.roboflow.com/radu-oprea-r4xnm/traffic-signs-detection-europe\">\n    <img src=\"https://app.roboflow.com/images/download-dataset-badge.svg\">\n</a><a href=\"https://universe.roboflow.com/radu-oprea-r4xnm/traffic-signs-detection-europe/model/\">\n    <img src=\"https://app.roboflow.com/images/try-model-badge.svg\">\n</a>\n## Dataset structure\nThe dataset contains 55 classes of unique traffic signs.\nThere are 4 main categories:\n* forb\n* info\n* mand\n* warn\n\nEach class has one of these prefixes in it's name indicating the category of the traffic sign: forbidden, informational, mandatory and warning, respectively. It's pretty useful for experimenting.\n\n## General info\n* Each image is of size 640x640px, natural size no stretching or shrinking. \n* Labels are manually double checked, a lot of labeling mistakes were fixed.\n* Not balanced due to the natural frequency of signs. (crosswalks are everywhere)\n* Contains images with no labels, mostly of False Positive detections.\nNOTE (20-02-24): Update to version 2. Added 2k new images and double checked the labels for mistakes.\n\nI appreciate any feedback, ideas or whatever you have to say, It's my first dataset and I'm trying to make it as good as I can. I'll probably add more classes in the future, there are a lot of unlabeled traffic signs present in the existing data.",
+  "datasetId": 4431797,
+  "datasetSlug": "traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "raduoprea",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1883,
+  "totalVotes": 8,
+  "totalDownloads": 172,
+  "title": "Traffic Signs Detection",
+  "hasTitle": true,
+  "subtitle": "4.5k images, 8k annotations, 55 classes, 640x640 px - google maps images",
+  "hasSubtitle": true,
+  "description": "<a href=\"https://universe.roboflow.com/radu-oprea-r4xnm/traffic-signs-detection-europe\">\n    <img src=\"https://app.roboflow.com/images/download-dataset-badge.svg\">\n</a><a href=\"https://universe.roboflow.com/radu-oprea-r4xnm/traffic-signs-detection-europe/model/\">\n    <img src=\"https://app.roboflow.com/images/try-model-badge.svg\">\n</a>\n## Dataset structure\nThe dataset contains 55 classes of unique traffic signs.\nThere are 4 main categories:\n* forb\n* info\n* mand\n* warn\n\nEach class has one of these prefixes in it's name indicating the category of the traffic sign: forbidden, informational, mandatory and warning, respectively. It's pretty useful for experimenting.\n\n## General info\n* Each image is of size 640x640px, natural size no stretching or shrinking. \n* Labels are manually double checked, a lot of labeling mistakes were fixed.\n* Not balanced due to the natural frequency of signs. (crosswalks are everywhere)\n* Contains images with no labels, mostly of False Positive detections.\nNOTE (20-02-24): Update to version 2. Added 2k new images and double checked the labels for mistakes.\n\nI appreciate any feedback, ideas or whatever you have to say, It's my first dataset and I'm trying to make it as good as I can. I'll probably add more classes in the future, there are a lot of unlabeled traffic signs present in the existing data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "deep learning",
+    "multiclass classification",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

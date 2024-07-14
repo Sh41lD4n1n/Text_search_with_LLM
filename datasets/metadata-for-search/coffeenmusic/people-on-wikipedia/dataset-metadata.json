@@ -1,0 +1,40 @@
+{
+  "id": "coffeenmusic/people-on-wikipedia",
+  "id_no": 5896,
+  "datasetSlugNullable": "people-on-wikipedia",
+  "ownerUserNullable": "coffeenmusic",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "People and Character Wikipedia Page Content",
+  "subtitleNullable": "More than 110,000 people with matching descriptions",
+  "descriptionNullable": "### Context\n\nThis is a set of Wikipedia Title/Content pairs where the content is always based on a person. Maybe person is not the best word, because this set does not necessarily contain humans and the content can be about fictitious characters. I came across this data set by trying to remove this content from my primary set and thought it might be useful to someone else.\n\n\n### Content\n\nThere are two columns Wiki_Title and Content. This data was collected through the Wikipedia API and all the content is raw data from wikipedia.page. Content is from page.content and does contain the full page content.  The people described can be characters, real people, fake people, humans, non-humans. Although, the majority of this data will be real people.\n\nThe Wiki_Title almost always contains the name of the person in the content or their nickname, but I know this is not true 100% of the time. It is too much data for me to verify the 100,000+ examples so I cannot verify all content is in fact about a person/character, but if there are improvements to be made I would like to do so.\n\n\n### Acknowledgements\n- Wikipedia\n- Python Wikipedia API https://github.com/goldsmith/Wikipedia\n- Photo by Paul Dufour on Unsplash\n\n\n\n### Inspiration\n\nI think it would be interesting to try and match the celebrities in this data to the celebrity image data set and try and predict appearance of people based on their wikipedia content.",
+  "datasetId": 5896,
+  "datasetSlug": "people-on-wikipedia",
+  "hasDatasetSlug": true,
+  "ownerUser": "coffeenmusic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4072,
+  "totalVotes": 4,
+  "totalDownloads": 191,
+  "title": "People and Character Wikipedia Page Content",
+  "hasTitle": true,
+  "subtitle": "More than 110,000 people with matching descriptions",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a set of Wikipedia Title/Content pairs where the content is always based on a person. Maybe person is not the best word, because this set does not necessarily contain humans and the content can be about fictitious characters. I came across this data set by trying to remove this content from my primary set and thought it might be useful to someone else.\n\n\n### Content\n\nThere are two columns Wiki_Title and Content. This data was collected through the Wikipedia API and all the content is raw data from wikipedia.page. Content is from page.content and does contain the full page content.  The people described can be characters, real people, fake people, humans, non-humans. Although, the majority of this data will be real people.\n\nThe Wiki_Title almost always contains the name of the person in the content or their nickname, but I know this is not true 100% of the time. It is too much data for me to verify the 100,000+ examples so I cannot verify all content is in fact about a person/character, but if there are improvements to be made I would like to do so.\n\n\n### Acknowledgements\n- Wikipedia\n- Python Wikipedia API https://github.com/goldsmith/Wikipedia\n- Photo by Paul Dufour on Unsplash\n\n\n\n### Inspiration\n\nI think it would be interesting to try and match the celebrities in this data to the celebrity image data set and try and predict appearance of people based on their wikipedia content.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sanjeetsinghnaik/top-1000-highest-grossing-movies",
+  "id_no": 1866072,
+  "datasetSlugNullable": "top-1000-highest-grossing-movies",
+  "ownerUserNullable": "sanjeetsinghnaik",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 1000 Highest Grossing Movies",
+  "subtitleNullable": "Top 1000 Highest Grossing Holywood Movies",
+  "descriptionNullable": "Context\nThis dataset contains information about the top 1000 highest grossing holywood films. It is up to date as of 25th September 2023.\n\nAcknowledgements\nThis data has been scraped from multiple site and has been added together for performing various data operations. The data has been taken from IMDB, rotten tomatoes and many other sites.\n\nUPDATE:\nThe original data contained information about movies and some additional have been added by me. 'None' refers to datapoints that I could not scrape. If you wish to contribute to this dataset. Do contact me :)",
+  "datasetId": 1866072,
+  "datasetSlug": "top-1000-highest-grossing-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanjeetsinghnaik",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 73801,
+  "totalVotes": 223,
+  "totalDownloads": 14030,
+  "title": "Top 1000 Highest Grossing Movies",
+  "hasTitle": true,
+  "subtitle": "Top 1000 Highest Grossing Holywood Movies",
+  "hasSubtitle": true,
+  "description": "Context\nThis dataset contains information about the top 1000 highest grossing holywood films. It is up to date as of 25th September 2023.\n\nAcknowledgements\nThis data has been scraped from multiple site and has been added together for performing various data operations. The data has been taken from IMDB, rotten tomatoes and many other sites.\n\nUPDATE:\nThe original data contained information about movies and some additional have been added by me. 'None' refers to datapoints that I could not scrape. If you wish to contribute to this dataset. Do contact me :)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "intermediate",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

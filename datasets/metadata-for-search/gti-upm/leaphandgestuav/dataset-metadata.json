@@ -1,0 +1,43 @@
+{
+  "id": "/leaphandgestuav",
+  "id_no": 39486,
+  "datasetSlugNullable": "leaphandgestuav",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "LeapMotion Hand Gesture Dataset for UAV Management",
+  "subtitleNullable": "Acquired by Leap Motion",
+  "descriptionNullable": "### Context\n\nHand  gesture recognition dataset is presented, composed by a set of near infrared images and skeletal information acquired by the Leap Motion sensor.\n\n\n### Content\n\nThe dataset is composed by 11 different hand-gestures  that are performed by 13 different subjects (3 women and 10 men).\n\nThe dataset is structured as follows:\n \n\n - /00  (subject with identifier 00)\n  - /sequence (hand gesture sequences for subject 00) \n     - /cam_b (hand gesture sequences for cam_b gesture) \n         - /train (training hand gesture sequences for cam_b gesture) \n             - /seq_0 (first sequence images for cam_b gesture) \n             - /seq_0/frame_00_01_01_0001.png,...,frame_00_01_01_0010.png,...  (images that corresponds to one repetition of the cam_b hand gesture performed by the subject with identifier 00)\n             - /seq_1\n             - ...\n             - /seq_n\n         - /test (testinghand gesture sequences for cam_b gesture) \n             - /seq_0\n             - /seq_1\n             - ...\n             - /seq_n\n     - /cam_f\n     - ...\n     - /zoom_out\n  - /images  (hand gesture pose images for subject 00) \n     - /down (hand images for down pose for subject 00) \n         - /train (training hand images for down pose for subject 00) \n         - /train/frame_00_01_0001.png,...,frame_00_01_01_0910.png,...  (images that corresponds to the down hand pose performed by the subject with identifier 00)\n         - /test (testing hand images for down pose for subject 00) \n     - /ele\n     - ...\n     - /up\n - /01\n - /02 \n - ...\n - /12  (last subject with identifier 12)",
+  "datasetId": 39486,
+  "datasetSlug": "leaphandgestuav",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 10786,
+  "totalVotes": 25,
+  "totalDownloads": 551,
+  "title": "LeapMotion Hand Gesture Dataset for UAV Management",
+  "hasTitle": true,
+  "subtitle": "Acquired by Leap Motion",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHand  gesture recognition dataset is presented, composed by a set of near infrared images and skeletal information acquired by the Leap Motion sensor.\n\n\n### Content\n\nThe dataset is composed by 11 different hand-gestures  that are performed by 13 different subjects (3 women and 10 men).\n\nThe dataset is structured as follows:\n \n\n - /00  (subject with identifier 00)\n  - /sequence (hand gesture sequences for subject 00) \n     - /cam_b (hand gesture sequences for cam_b gesture) \n         - /train (training hand gesture sequences for cam_b gesture) \n             - /seq_0 (first sequence images for cam_b gesture) \n             - /seq_0/frame_00_01_01_0001.png,...,frame_00_01_01_0010.png,...  (images that corresponds to one repetition of the cam_b hand gesture performed by the subject with identifier 00)\n             - /seq_1\n             - ...\n             - /seq_n\n         - /test (testinghand gesture sequences for cam_b gesture) \n             - /seq_0\n             - /seq_1\n             - ...\n             - /seq_n\n     - /cam_f\n     - ...\n     - /zoom_out\n  - /images  (hand gesture pose images for subject 00) \n     - /down (hand images for down pose for subject 00) \n         - /train (training hand images for down pose for subject 00) \n         - /train/frame_00_01_0001.png,...,frame_00_01_01_0910.png,...  (images that corresponds to the down hand pose performed by the subject with identifier 00)\n         - /test (testing hand images for down pose for subject 00) \n     - /ele\n     - ...\n     - /up\n - /01\n - /02 \n - ...\n - /12  (last subject with identifier 12)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "computer science",
+    "image",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

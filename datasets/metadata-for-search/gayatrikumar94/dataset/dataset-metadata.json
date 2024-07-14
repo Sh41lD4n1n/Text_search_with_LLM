@@ -1,0 +1,37 @@
+{
+  "id": "gayatrikumar94/dataset",
+  "id_no": 5266196,
+  "datasetSlugNullable": "dataset",
+  "ownerUserNullable": "gayatrikumar94",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5266196,
+  "datasetSlug": "dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gayatrikumar94",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 3,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

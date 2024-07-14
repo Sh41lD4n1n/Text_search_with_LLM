@@ -1,0 +1,43 @@
+{
+  "id": "ashfakyeafi/air-passenger-data-for-time-series-analysis",
+  "id_no": 1516462,
+  "datasetSlugNullable": "air-passenger-data-for-time-series-analysis",
+  "ownerUserNullable": "ashfakyeafi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Air Passenger Data for Time Series Analysis",
+  "subtitleNullable": "There is a list of passenger data from year 1949 to 1960",
+  "descriptionNullable": "### Context\n\nThis data is used for making ARIMA model forecasting.\n\n\n### Content\n\nThis contains the increasing rate of passenger\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1516462,
+  "datasetSlug": "air-passenger-data-for-time-series-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashfakyeafi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21481,
+  "totalVotes": 90,
+  "totalDownloads": 3456,
+  "title": "Air Passenger Data for Time Series Analysis",
+  "hasTitle": true,
+  "subtitle": "There is a list of passenger data from year 1949 to 1960",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data is used for making ARIMA model forecasting.\n\n\n### Content\n\nThis contains the increasing rate of passenger\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "data visualization",
+    "lstm",
+    "tabular",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

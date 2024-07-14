@@ -1,0 +1,39 @@
+{
+  "id": "peimandaii/house-price-dataset",
+  "id_no": 4247774,
+  "datasetSlugNullable": "house-price-dataset",
+  "ownerUserNullable": "peimandaii",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "House price dataset",
+  "subtitleNullable": "House price in iran dataset ",
+  "descriptionNullable": "This dataset is related to house prices in Tehran\nAnd it has seven columns as follows:\n\narea\t :  The size of the house\nYear of Construction : The year the house was built\nRooms :\tnumber of rooms\nLocation\t: house location\nPrice : house price\nFloor : floors of the house",
+  "datasetId": 4247774,
+  "datasetSlug": "house-price-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "peimandaii",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1188,
+  "totalVotes": 51,
+  "totalDownloads": 228,
+  "title": "House price dataset",
+  "hasTitle": true,
+  "subtitle": "House price in iran dataset ",
+  "hasSubtitle": true,
+  "description": "This dataset is related to house prices in Tehran\nAnd it has seven columns as follows:\n\narea\t :  The size of the house\nYear of Construction : The year the house was built\nRooms :\tnumber of rooms\nLocation\t: house location\nPrice : house price\nFloor : floors of the house",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

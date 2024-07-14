@@ -1,0 +1,48 @@
+{
+  "id": "niraliivaghani/flipkart-product-customer-reviews-dataset",
+  "id_no": 2865125,
+  "datasetSlugNullable": "flipkart-product-customer-reviews-dataset",
+  "ownerUserNullable": "niraliivaghani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Flipkart Product reviews with sentiment Dataset",
+  "subtitleNullable": "Flipkart Product Customer reviews dataset for sentiment analysis ",
+  "descriptionNullable": "This dataset contains information about Product name, Product price, Rate, Reviews, Summary and Sentiment in csv format. There are 104 different types of products of flipkart.com such as electronics items, clothing of men, women and kids, Home decor items, Automated systems, so on. It has 205053 rows and 6 columns. Also, if any product doesn't have any review but summary is present then Nan value already added to its blank space.\n\nThis dataset has multiclass label as sentiment such as positive, neutral amd negative.The sentiment given was based on column called Summary using NLP and Vader model. Also, after that we manually check the label and put it into the appropriate categories like if summary has text like okay, just ok or one positive and negative we labeled as neutral for better understanding while using this dataset for human languages. On the summary and price column, data cleaning method is already performed using python module called NumPy and Pandas which are famous.You can learn it also through any online resource.\n\nData was collected through web scraping using the library called beautifulsoup from flipkart.com. The scraping done in december 2022.\n\n**Usage**\n\nSentiment Analysis: The text of customer reviews and the associated labels (such as positive, negative, or neutral) can be used to train machine learning models to automatically classify the sentiment of customer reviews.\n\nPredictive Modeling: Customer ratings, summary and reviews, along with their associated labels, can be used as features to build predictive models for various outcomes, such as customer behavior, purchasing patterns, product preferences and so on.\n\nText Classification: The labeled customer reviews or summary can be used to train machine learning models for text classification tasks, such as spam detection, topic classification, and intent recognition,etc.\n\nNatural Language Processing (NLP): It can be used to train NLP algorithms, such as sentiment analysis models, for applications in other domains.\n\nEvaluating Machine Learning Models: This dataset can be used to evaluate the performance of machine learning models for sentiment analysis and other NLP tasks.\n\nCustomer Service: Customer reviews, summary and labels can provide insight into customer complaints, issues, and suggestions, which can help companies improve their customer service.\n\nHowever,the applications of this type of data will depend on the specific dataset and the problem it is being used to solve.",
+  "datasetId": 2865125,
+  "datasetSlug": "flipkart-product-customer-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "niraliivaghani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18985,
+  "totalVotes": 42,
+  "totalDownloads": 3555,
+  "title": "Flipkart Product reviews with sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "Flipkart Product Customer reviews dataset for sentiment analysis ",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about Product name, Product price, Rate, Reviews, Summary and Sentiment in csv format. There are 104 different types of products of flipkart.com such as electronics items, clothing of men, women and kids, Home decor items, Automated systems, so on. It has 205053 rows and 6 columns. Also, if any product doesn't have any review but summary is present then Nan value already added to its blank space.\n\nThis dataset has multiclass label as sentiment such as positive, neutral amd negative.The sentiment given was based on column called Summary using NLP and Vader model. Also, after that we manually check the label and put it into the appropriate categories like if summary has text like okay, just ok or one positive and negative we labeled as neutral for better understanding while using this dataset for human languages. On the summary and price column, data cleaning method is already performed using python module called NumPy and Pandas which are famous.You can learn it also through any online resource.\n\nData was collected through web scraping using the library called beautifulsoup from flipkart.com. The scraping done in december 2022.\n\n**Usage**\n\nSentiment Analysis: The text of customer reviews and the associated labels (such as positive, negative, or neutral) can be used to train machine learning models to automatically classify the sentiment of customer reviews.\n\nPredictive Modeling: Customer ratings, summary and reviews, along with their associated labels, can be used as features to build predictive models for various outcomes, such as customer behavior, purchasing patterns, product preferences and so on.\n\nText Classification: The labeled customer reviews or summary can be used to train machine learning models for text classification tasks, such as spam detection, topic classification, and intent recognition,etc.\n\nNatural Language Processing (NLP): It can be used to train NLP algorithms, such as sentiment analysis models, for applications in other domains.\n\nEvaluating Machine Learning Models: This dataset can be used to evaluate the performance of machine learning models for sentiment analysis and other NLP tasks.\n\nCustomer Service: Customer reviews, summary and labels can provide insight into customer complaints, issues, and suggestions, which can help companies improve their customer service.\n\nHowever,the applications of this type of data will depend on the specific dataset and the problem it is being used to solve.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "nlp",
+    "tabular",
+    "multiclass classification",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mansithummar67",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

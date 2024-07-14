@@ -1,0 +1,37 @@
+{
+  "id": "ashishpatel26/facial-expression-recognitionferchallenge",
+  "id_no": 64677,
+  "datasetSlugNullable": "facial-expression-recognitionferchallenge",
+  "ownerUserNullable": "ashishpatel26",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Facial Expression Recognition(FER)Challenge",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 64677,
+  "datasetSlug": "facial-expression-recognitionferchallenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashishpatel26",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 60415,
+  "totalVotes": 112,
+  "totalDownloads": 12749,
+  "title": "Facial Expression Recognition(FER)Challenge",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

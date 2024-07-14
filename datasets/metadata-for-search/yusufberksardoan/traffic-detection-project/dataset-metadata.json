@@ -1,0 +1,43 @@
+{
+  "id": "yusufberksardoan/traffic-detection-project",
+  "id_no": 3702648,
+  "datasetSlugNullable": "traffic-detection-project",
+  "ownerUserNullable": "yusufberksardoan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Traffic Detection Project",
+  "subtitleNullable": "This dataset contains various images of traffic. Images mostly taken from Turkey",
+  "descriptionNullable": "Are you passionate about computer vision, object detection, or traffic monitoring systems? Look no further! This comprehensive dataset, carefully curated and annotated, offers a rich collection of traffic camera images from various countries around the world. Whether you're an AI researcher, a machine learning enthusiast, or a developer working on traffic management solutions, this dataset is a valuable resource for your projects.\n\nKey Features:\n\nDiverse Geographic Coverage: Our dataset encompasses traffic camera images from different countries, providing a global perspective on traffic monitoring and management.\n\nHigh-Quality Annotations: Each image is meticulously annotated using bounding boxes to identify various objects, including vehicles, pedestrians, and traffic signs, making it perfect for object detection tasks.\n\nVaried Environmental Conditions: The dataset includes images captured under different weather conditions, lighting, and traffic scenarios, making it suitable for real-world applications.\n\nTraining-Ready: This dataset has been used successfully to train a YOLOv5 object detection model, achieving an impressive Mean Average Precision (mAP) of 0.89, Precision (P) of 0.88, and Recall (R) of 0.89, ensuring that it's ready for immediate use in your own projects.\n\nOpen for Research and Innovation: We believe in the power of collaboration. By sharing this dataset on Kaggle, we aim to foster innovation in the fields of computer vision and traffic management. Researchers and developers can leverage this resource to develop advanced traffic monitoring and safety solutions.\n\nPotential Use Cases:\n\nObject detection and tracking in traffic camera feeds.\nTraffic analysis and congestion prediction.\nRoad safety and accident prevention.\nUrban planning and smart city development.\nAI-based traffic management systems.\nCitation:\n\nIf you use this dataset in your work, please consider citing it to give credit to the contributors and help others find this valuable resource.\n\nAnd if you want to weights file send me an email!\n",
+  "datasetId": 3702648,
+  "datasetSlug": "traffic-detection-project",
+  "hasDatasetSlug": true,
+  "ownerUser": "yusufberksardoan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 27235,
+  "totalVotes": 83,
+  "totalDownloads": 3423,
+  "title": "Traffic Detection Project",
+  "hasTitle": true,
+  "subtitle": "This dataset contains various images of traffic. Images mostly taken from Turkey",
+  "hasSubtitle": true,
+  "description": "Are you passionate about computer vision, object detection, or traffic monitoring systems? Look no further! This comprehensive dataset, carefully curated and annotated, offers a rich collection of traffic camera images from various countries around the world. Whether you're an AI researcher, a machine learning enthusiast, or a developer working on traffic management solutions, this dataset is a valuable resource for your projects.\n\nKey Features:\n\nDiverse Geographic Coverage: Our dataset encompasses traffic camera images from different countries, providing a global perspective on traffic monitoring and management.\n\nHigh-Quality Annotations: Each image is meticulously annotated using bounding boxes to identify various objects, including vehicles, pedestrians, and traffic signs, making it perfect for object detection tasks.\n\nVaried Environmental Conditions: The dataset includes images captured under different weather conditions, lighting, and traffic scenarios, making it suitable for real-world applications.\n\nTraining-Ready: This dataset has been used successfully to train a YOLOv5 object detection model, achieving an impressive Mean Average Precision (mAP) of 0.89, Precision (P) of 0.88, and Recall (R) of 0.89, ensuring that it's ready for immediate use in your own projects.\n\nOpen for Research and Innovation: We believe in the power of collaboration. By sharing this dataset on Kaggle, we aim to foster innovation in the fields of computer vision and traffic management. Researchers and developers can leverage this resource to develop advanced traffic monitoring and safety solutions.\n\nPotential Use Cases:\n\nObject detection and tracking in traffic camera feeds.\nTraffic analysis and congestion prediction.\nRoad safety and accident prevention.\nUrban planning and smart city development.\nAI-based traffic management systems.\nCitation:\n\nIf you use this dataset in your work, please consider citing it to give credit to the contributors and help others find this valuable resource.\n\nAnd if you want to weights file send me an email!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "image",
+    "public safety",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

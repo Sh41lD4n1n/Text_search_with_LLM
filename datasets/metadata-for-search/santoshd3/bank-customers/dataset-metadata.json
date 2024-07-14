@@ -1,0 +1,42 @@
+{
+  "id": "santoshd3/bank-customers",
+  "id_no": 35847,
+  "datasetSlugNullable": "bank-customers",
+  "ownerUserNullable": "santoshd3",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Bank Customers Churn ",
+  "subtitleNullable": "Artificial Neural Network Model  using Keras and Tensorflow with 85% Acuuracy",
+  "descriptionNullable": "### Context\n\nA dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 35847,
+  "datasetSlug": "bank-customers",
+  "hasDatasetSlug": true,
+  "ownerUser": "santoshd3",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 96678,
+  "totalVotes": 138,
+  "totalDownloads": 12736,
+  "title": "Bank Customers Churn ",
+  "hasTitle": true,
+  "subtitle": "Artificial Neural Network Model  using Keras and Tensorflow with 85% Acuuracy",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "banking",
+    "computer science",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

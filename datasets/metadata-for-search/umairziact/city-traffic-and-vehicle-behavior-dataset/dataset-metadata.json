@@ -1,0 +1,39 @@
+{
+  "id": "umairziact/city-traffic-and-vehicle-behavior-dataset",
+  "id_no": 4499082,
+  "datasetSlugNullable": "city-traffic-and-vehicle-behavior-dataset",
+  "ownerUserNullable": "umairziact",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "City Traffic and Vehicle Behavior Dataset",
+  "subtitleNullable": "\"Urban Mobility Insights: Exploring City Traffic and Vehicle Behavior\"",
+  "descriptionNullable": "The City Traffic and Vehicle Behavior Dataset is a collection of data regarding various factors related to city traffic and vehicle behavior. Here's a description of each column in the dataset:\n\n**1. City:** The name of the city where the data was collected.\n**2. Vehicle Type:** The type of vehicle involved in the traffic (e.g., car, truck, bus, motorcycle).\n**3. Weather:** The prevailing weather conditions at the time of data collection (e.g., sunny, rainy, snowy).\n**4. Economic Condition:** The economic conditions prevailing in the city (e.g., booming, recession, stable).\n**5. Day Of Week:** The day of the week when the data was collected (e.g., Monday, Tuesday, etc.).\n**6. Hour Of Day:**The hour of the day when the data was collected, typically represented in 24-hour format.\n**7. Speed:** The speed of the vehicles in the traffic, measured in miles per hour (mph) or kilometers per hour (km/h).\n**8. Is Peak Hour:** A binary indicator (0 or 1) indicating whether the data was collected during peak traffic hours.\n**9. Random Event Occurred:** A binary indicator (0 or 1) indicating whether any random event (e.g., accident, road closure) occurred during the data collection period.\n**10. Energy Consumption:** The energy consumption of vehicles, typically measured in fuel consumption or electricity usage.\n\nThis dataset can be used for various purposes such as analyzing traffic patterns, studying the impact of weather and economic conditions on traffic, evaluating energy consumption trends, and predicting traffic congestion. Researchers and transportation planners may find this dataset valuable for understanding and improving urban mobility.",
+  "datasetId": 4499082,
+  "datasetSlug": "city-traffic-and-vehicle-behavior-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "umairziact",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4156,
+  "totalVotes": 18,
+  "totalDownloads": 937,
+  "title": "City Traffic and Vehicle Behavior Dataset",
+  "hasTitle": true,
+  "subtitle": "\"Urban Mobility Insights: Exploring City Traffic and Vehicle Behavior\"",
+  "hasSubtitle": true,
+  "description": "The City Traffic and Vehicle Behavior Dataset is a collection of data regarding various factors related to city traffic and vehicle behavior. Here's a description of each column in the dataset:\n\n**1. City:** The name of the city where the data was collected.\n**2. Vehicle Type:** The type of vehicle involved in the traffic (e.g., car, truck, bus, motorcycle).\n**3. Weather:** The prevailing weather conditions at the time of data collection (e.g., sunny, rainy, snowy).\n**4. Economic Condition:** The economic conditions prevailing in the city (e.g., booming, recession, stable).\n**5. Day Of Week:** The day of the week when the data was collected (e.g., Monday, Tuesday, etc.).\n**6. Hour Of Day:**The hour of the day when the data was collected, typically represented in 24-hour format.\n**7. Speed:** The speed of the vehicles in the traffic, measured in miles per hour (mph) or kilometers per hour (km/h).\n**8. Is Peak Hour:** A binary indicator (0 or 1) indicating whether the data was collected during peak traffic hours.\n**9. Random Event Occurred:** A binary indicator (0 or 1) indicating whether any random event (e.g., accident, road closure) occurred during the data collection period.\n**10. Energy Consumption:** The energy consumption of vehicles, typically measured in fuel consumption or electricity usage.\n\nThis dataset can be used for various purposes such as analyzing traffic patterns, studying the impact of weather and economic conditions on traffic, evaluating energy consumption trends, and predicting traffic congestion. Researchers and transportation planners may find this dataset valuable for understanding and improving urban mobility.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

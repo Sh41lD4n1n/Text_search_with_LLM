@@ -1,0 +1,44 @@
+{
+  "id": "nelgiriyewithana/world-stock-prices-daily-updating",
+  "id_no": 3711383,
+  "datasetSlugNullable": "world-stock-prices-daily-updating",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "World Stock Prices ( Daily Updating )",
+  "subtitleNullable": "for the world's most famous brands",
+  "descriptionNullable": "# Description\n\n\n\n&gt;This dataset offers a comprehensive historical record of stock prices for the **world's most famous brands**, with **daily updates.** The data spans from **January 1, 2000, to the present day** , providing an extensive timeline of stock market information for various global brands.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/8702684.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features\n\n&gt;- **Date**: The date of the stock price data.\n- **Open**: The opening price of the stock on that date.\n- **High**: The highest price the stock reached during the trading day.\n- **Low**: The lowest price the stock reached during the trading day.\n- **Close**: The closing price of the stock on that date.\n- **Volume**: The trading volume, i.e., the number of shares traded on that date.\n- **Dividends**: Dividends paid on that date (if any).\n- **Stock Splits**: Information about stock splits (if any).\n- **Brand_Name**: The name of the brand or company.\n- **Ticker**: Ticker symbol for the stock.\n- **Industry_Tag**: The industry category or sector to which the brand belongs.\n- **Country**: The country where the brand is headquartered or primarily operates.\n\n# Potential Use Cases\n\n&gt;- **Stock Market Analysis**: Analyze historical stock prices to identify trends and patterns in the stock market.\n- **Brand Performance**: Evaluate the performance of various brands in the stock market over time.\n- **Investment Strategies**: Develop investment strategies based on historical stock data for specific brands.\n- **Sector Analysis**: Explore how different industries or sectors are performing in the stock market.\n- **Country Comparison**: Compare the stock performance of brands across different countries.\n- **Market Sentiment Analysis**: Analyze stock price movements in relation to news or events affecting specific brands or industries.\n\n\n\nIf you find this dataset useful, please consider giving it a vote! \ud83d\ude42\u2764\ufe0f\n\n\n",
+  "datasetId": 3711383,
+  "datasetSlug": "world-stock-prices-daily-updating",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13460,
+  "totalVotes": 97,
+  "totalDownloads": 3027,
+  "title": "World Stock Prices ( Daily Updating )",
+  "hasTitle": true,
+  "subtitle": "for the world's most famous brands",
+  "hasSubtitle": true,
+  "description": "# Description\n\n\n\n&gt;This dataset offers a comprehensive historical record of stock prices for the **world's most famous brands**, with **daily updates.** The data spans from **January 1, 2000, to the present day** , providing an extensive timeline of stock market information for various global brands.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/8702684.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features\n\n&gt;- **Date**: The date of the stock price data.\n- **Open**: The opening price of the stock on that date.\n- **High**: The highest price the stock reached during the trading day.\n- **Low**: The lowest price the stock reached during the trading day.\n- **Close**: The closing price of the stock on that date.\n- **Volume**: The trading volume, i.e., the number of shares traded on that date.\n- **Dividends**: Dividends paid on that date (if any).\n- **Stock Splits**: Information about stock splits (if any).\n- **Brand_Name**: The name of the brand or company.\n- **Ticker**: Ticker symbol for the stock.\n- **Industry_Tag**: The industry category or sector to which the brand belongs.\n- **Country**: The country where the brand is headquartered or primarily operates.\n\n# Potential Use Cases\n\n&gt;- **Stock Market Analysis**: Analyze historical stock prices to identify trends and patterns in the stock market.\n- **Brand Performance**: Evaluate the performance of various brands in the stock market over time.\n- **Investment Strategies**: Develop investment strategies based on historical stock data for specific brands.\n- **Sector Analysis**: Explore how different industries or sectors are performing in the stock market.\n- **Country Comparison**: Compare the stock performance of brands across different countries.\n- **Market Sentiment Analysis**: Analyze stock price movements in relation to news or events affecting specific brands or industries.\n\n\n\nIf you find this dataset useful, please consider giving it a vote! \ud83d\ude42\u2764\ufe0f\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "computer science",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "amirhoseinahmadnejad/car-license-plate-detection-iran",
+  "id_no": 2885750,
+  "datasetSlugNullable": "car-license-plate-detection-iran",
+  "ownerUserNullable": "amirhoseinahmadnejad",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Car License Plate Detection",
+  "subtitleNullable": "Cars License Plates (Iran's Format) for CLP-Detection and OCR ",
+  "descriptionNullable": "844 Cars License Plates (Iran's Format) for CLP-Detection and OCR \n\nThis Dataset is in COCO format. You can change the format to others using Roboflow for Real-time Detection (YOLO) and etc.\n\nalso, you can use Augmentation to increase the images up to 2000.\n\n**This Dataset will be updated every month to add new cars. if you wish to help in this process please get in touch with me:**\n***a.ahmadnejad007@gmail.com***",
+  "datasetId": 2885750,
+  "datasetSlug": "car-license-plate-detection-iran",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirhoseinahmadnejad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 8187,
+  "totalVotes": 35,
+  "totalDownloads": 892,
+  "title": "Car License Plate Detection",
+  "hasTitle": true,
+  "subtitle": "Cars License Plates (Iran's Format) for CLP-Detection and OCR ",
+  "hasSubtitle": true,
+  "description": "844 Cars License Plates (Iran's Format) for CLP-Detection and OCR \n\nThis Dataset is in COCO format. You can change the format to others using Roboflow for Real-time Detection (YOLO) and etc.\n\nalso, you can use Augmentation to increase the images up to 2000.\n\n**This Dataset will be updated every month to add new cars. if you wish to help in this process please get in touch with me:**\n***a.ahmadnejad007@gmail.com***",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "image",
+    "middle east",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

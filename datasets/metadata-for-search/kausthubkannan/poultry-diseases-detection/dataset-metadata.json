@@ -1,0 +1,47 @@
+{
+  "id": "kausthubkannan/poultry-diseases-detection",
+  "id_no": 3091626,
+  "datasetSlugNullable": "poultry-diseases-detection",
+  "ownerUserNullable": "kausthubkannan",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Poultry Diseases Detection",
+  "subtitleNullable": "Poultry Diseases Detection - 3 Diseases ",
+  "descriptionNullable": "The dataset consists of 4 directories. Each directory contains images in jpeg format. There are 4 classes Coccidiosis, Salmonella, Newcastle diseases and Healthy poultry. The images are feces of the poultries.\n\nDo \ud83d\udd3aif you \ud83d\udc99 the dataset",
+  "datasetId": 3091626,
+  "datasetSlug": "poultry-diseases-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "kausthubkannan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4570,
+  "totalVotes": 20,
+  "totalDownloads": 686,
+  "title": "Poultry Diseases Detection",
+  "hasTitle": true,
+  "subtitle": "Poultry Diseases Detection - 3 Diseases ",
+  "hasSubtitle": true,
+  "description": "The dataset consists of 4 directories. Each directory contains images in jpeg format. There are 4 classes Coccidiosis, Salmonella, Newcastle diseases and Healthy poultry. The images are feces of the poultries.\n\nDo \ud83d\udd3aif you \ud83d\udc99 the dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "adithyaawati",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

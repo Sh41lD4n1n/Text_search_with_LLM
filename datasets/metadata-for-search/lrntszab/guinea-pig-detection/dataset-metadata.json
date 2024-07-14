@@ -1,0 +1,43 @@
+{
+  "id": "lrntszab/guinea-pig-detection",
+  "id_no": 4600812,
+  "datasetSlugNullable": "guinea-pig-detection",
+  "ownerUserNullable": "lrntszab",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Guinea Pig Detection",
+  "subtitleNullable": "Hand-labeled images of guinea pigs for object detection",
+  "descriptionNullable": "# Guinea Pig Detection\n\nThis hand-labeled dataset contains 1551 images of guinea pigs for object detection task. The dataset is currently  in YOLOv8 format, therefore is splitted into training, validation and testing sets.\nBased on your preferencies, you can export this dataset into any other format in [the Roboflow page of this project](https://app.roboflow.com/projects-josub/guinea-pig-detection-grlwn/1).\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6825250%2Fbef126a0df6086e6bf6d205720abe1ea%2F2.png?generation=1710515099016870&alt=media)",
+  "datasetId": 4600812,
+  "datasetSlug": "guinea-pig-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "lrntszab",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 604,
+  "totalVotes": 4,
+  "totalDownloads": 62,
+  "title": "Guinea Pig Detection",
+  "hasTitle": true,
+  "subtitle": "Hand-labeled images of guinea pigs for object detection",
+  "hasSubtitle": true,
+  "description": "# Guinea Pig Detection\n\nThis hand-labeled dataset contains 1551 images of guinea pigs for object detection task. The dataset is currently  in YOLOv8 format, therefore is splitted into training, validation and testing sets.\nBased on your preferencies, you can export this dataset into any other format in [the Roboflow page of this project](https://app.roboflow.com/projects-josub/guinea-pig-detection-grlwn/1).\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6825250%2Fbef126a0df6086e6bf6d205720abe1ea%2F2.png?generation=1710515099016870&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "image",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

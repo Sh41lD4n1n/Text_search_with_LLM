@@ -1,0 +1,42 @@
+{
+  "id": "mistag/short-videos",
+  "id_no": 462190,
+  "datasetSlugNullable": "short-videos",
+  "ownerUserNullable": "mistag",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Short Videos",
+  "subtitleNullable": "Videos for video processing",
+  "descriptionNullable": "### Context\n\nThese short videos are made available for various video processing tasks, including object detection.\n\n\n### Content\n\nAll the videos are recorded during our travels around the world. They are rendered in progressive scan mode.\n\n\n### Acknowledgements\n\nMy wife Joanna has recorded some of the movies. \n\n\n### Inspiration\n\nVideo processing needs material.",
+  "datasetId": 462190,
+  "datasetSlug": "short-videos",
+  "hasDatasetSlug": true,
+  "ownerUser": "mistag",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10944,
+  "totalVotes": 12,
+  "totalDownloads": 819,
+  "title": "Short Videos",
+  "hasTitle": true,
+  "subtitle": "Videos for video processing",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThese short videos are made available for various video processing tasks, including object detection.\n\n\n### Content\n\nAll the videos are recorded during our travels around the world. They are rendered in progressive scan mode.\n\n\n### Acknowledgements\n\nMy wife Joanna has recorded some of the movies. \n\n\n### Inspiration\n\nVideo processing needs material.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "software",
+    "video",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

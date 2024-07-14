@@ -1,0 +1,40 @@
+{
+  "id": "promptcloud/amazon-fashion-products-2020",
+  "id_no": 1187537,
+  "datasetSlugNullable": "amazon-fashion-products-2020",
+  "ownerUserNullable": "promptcloud",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Fashion Products 2020",
+  "subtitleNullable": "Fashion Products from Amazon 2020",
+  "descriptionNullable": "### Context\n\nThis dataset was created by our in-house web scraping and data mining teams at [PromptCloud](https://www.promptcloud.com/) and [DataStock](https://datastock.shop/). This dataset contains the sample of the full Amazon Fashion Products Dataset 2020 from DataStock. \n\nThere was a lot of data that was available from Amazon particularly in the year 2020. It was web scraped and bundled into a dataset for various analytical purposes.\n\nYou can download the full dataset from our data repository [here](https://app.datastock.shop/?site_name=Amazon_Fashion_Products_2020). \n\n### Content\n\nThis dataset contains the following:\nTotal Records Count : 132685\u2003 \nDomain Name : amazon.com\u2003 \nDate Range : 01st Feb 2020 - 30th Apr 2020 \u2003 \nFile Extension : ldjson\n\nAvailable Fields: \nuniq_id-- The unique ID of the product \ncrawl_timestamp-- The time of the crawl to pull the data\nasin-- The ASIN of the product\nproduct_url-- The URL of the product\nproduct_name-- The name of the product\nimage_urls__small-- The url of the images in small size\nmedium-- The medium by which the product was seen\nlarge-- the size of the file\nbrowsenode\nseller_name-- the name of the seller of the product \nseller_id-- the ID of the seller of the product\nbrand-- the brand of the product\nsales_price-- the price of the sale of the product \ndiscount_percentage-- the discount that was being offered on the product\nweight-- the weight of the product\nrating-- the rating of the product\nno__of_reviews-- The number of reviews that have been given to the product\ndelivery_type-- the type of delivery the product will be delivered to the buyer\nmeta_keywords-- the keywords used to search for the product\namazon_prime__y_or_n-- If the buyer has an amazon prime membership or no\nbest_seller_tag__y_or_n-- the tag of bestseller or no\ntechnical_details__k_v_pairs-- the repair was given or no\n\n### Acknowledgements\n\nWe wouldn't be here without the help of our in-house web scraping and data mining teams at [PromptCloud](https://www.promptcloud.com/) and [DataStock](https://datastock.shop/).\n\n### Inspiration\nThis dataset was created keeping in mind our data scientists and researchers across the world.",
+  "datasetId": 1187537,
+  "datasetSlug": "amazon-fashion-products-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "promptcloud",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15373,
+  "totalVotes": 32,
+  "totalDownloads": 1654,
+  "title": "Amazon Fashion Products 2020",
+  "hasTitle": true,
+  "subtitle": "Fashion Products from Amazon 2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created by our in-house web scraping and data mining teams at [PromptCloud](https://www.promptcloud.com/) and [DataStock](https://datastock.shop/). This dataset contains the sample of the full Amazon Fashion Products Dataset 2020 from DataStock. \n\nThere was a lot of data that was available from Amazon particularly in the year 2020. It was web scraped and bundled into a dataset for various analytical purposes.\n\nYou can download the full dataset from our data repository [here](https://app.datastock.shop/?site_name=Amazon_Fashion_Products_2020). \n\n### Content\n\nThis dataset contains the following:\nTotal Records Count : 132685\u2003 \nDomain Name : amazon.com\u2003 \nDate Range : 01st Feb 2020 - 30th Apr 2020 \u2003 \nFile Extension : ldjson\n\nAvailable Fields: \nuniq_id-- The unique ID of the product \ncrawl_timestamp-- The time of the crawl to pull the data\nasin-- The ASIN of the product\nproduct_url-- The URL of the product\nproduct_name-- The name of the product\nimage_urls__small-- The url of the images in small size\nmedium-- The medium by which the product was seen\nlarge-- the size of the file\nbrowsenode\nseller_name-- the name of the seller of the product \nseller_id-- the ID of the seller of the product\nbrand-- the brand of the product\nsales_price-- the price of the sale of the product \ndiscount_percentage-- the discount that was being offered on the product\nweight-- the weight of the product\nrating-- the rating of the product\nno__of_reviews-- The number of reviews that have been given to the product\ndelivery_type-- the type of delivery the product will be delivered to the buyer\nmeta_keywords-- the keywords used to search for the product\namazon_prime__y_or_n-- If the buyer has an amazon prime membership or no\nbest_seller_tag__y_or_n-- the tag of bestseller or no\ntechnical_details__k_v_pairs-- the repair was given or no\n\n### Acknowledgements\n\nWe wouldn't be here without the help of our in-house web scraping and data mining teams at [PromptCloud](https://www.promptcloud.com/) and [DataStock](https://datastock.shop/).\n\n### Inspiration\nThis dataset was created keeping in mind our data scientists and researchers across the world.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

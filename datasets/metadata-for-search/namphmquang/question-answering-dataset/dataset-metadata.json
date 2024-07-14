@@ -1,0 +1,37 @@
+{
+  "id": "namphmquang/question-answering-dataset",
+  "id_no": 4929505,
+  "datasetSlugNullable": "question-answering-dataset",
+  "ownerUserNullable": "namphmquang",
+  "usabilityRatingNullable": 0.17647058823529413,
+  "titleNullable": "question-answering-dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4929505,
+  "datasetSlug": "question-answering-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "namphmquang",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.17647058823529413,
+  "hasUsabilityRating": true,
+  "totalViews": 37,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "question-answering-dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

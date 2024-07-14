@@ -1,0 +1,42 @@
+{
+  "id": "divyansh22/stsgold-dataset",
+  "id_no": 1096806,
+  "datasetSlugNullable": "stsgold-dataset",
+  "ownerUserNullable": "divyansh22",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "STS-Gold Dataset",
+  "subtitleNullable": "A smaller yet powerful Tweet dataset ",
+  "descriptionNullable": "This dataset is originally prepared by Saif et. al. (2013). Please cite the paper if you intend to use this dataset.\n\nSaif, H., Fernandez, M., He, Y., & Alani, H. (2013). Evaluation datasets for Twitter sentiment analysis: a survey and a new dataset, the STS-Gold.\n\nThe dataset consists of 2026 tweets, their corresponding ids, and polarity. Use this data to train your sentiment analysis data models.",
+  "datasetId": 1096806,
+  "datasetSlug": "stsgold-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "divyansh22",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5821,
+  "totalVotes": 6,
+  "totalDownloads": 313,
+  "title": "STS-Gold Dataset",
+  "hasTitle": true,
+  "subtitle": "A smaller yet powerful Tweet dataset ",
+  "hasSubtitle": true,
+  "description": "This dataset is originally prepared by Saif et. al. (2013). Please cite the paper if you intend to use this dataset.\n\nSaif, H., Fernandez, M., He, Y., & Alani, H. (2013). Evaluation datasets for Twitter sentiment analysis: a survey and a new dataset, the STS-Gold.\n\nThe dataset consists of 2026 tweets, their corresponding ids, and polarity. Use this data to train your sentiment analysis data models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "intermediate",
+    "text",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

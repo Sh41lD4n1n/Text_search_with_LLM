@@ -1,0 +1,60 @@
+{
+  "id": "debeshjha1/kvasirinstrument",
+  "id_no": 1319634,
+  "datasetSlugNullable": "kvasirinstrument",
+  "ownerUserNullable": "debeshjha1",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Kvasir-Instrument Dataset",
+  "subtitleNullable": "Endoscopy instrument dataset (https://datasets.simula.no/kvasir-instrument/)",
+  "descriptionNullable": "# Kvasir-Instrument\nGastrointestinal (GI) tract pathologies are screened, biopsied, and resected (if needed) periodically using surgical tools. However, these biopsied and/or resected areas are not tracked due to which the video analysis for assessing disease burden or the amount of pathology resection remains unknown. To tackle such issues, we have released the novel \u201cKvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy\u201d dataset, which consists of 590 annotated frames comprising of GI procedure tools such as snares, balloons, biopsy forceps, etc. By adding segmentation masks and bounding boxes information to this dataset, we enable computer vision and GI endoscopy researchers to contribute to the field of automated tool segmentation.\n\n# Dataset Details\nThe Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images and their ground truth mask. The resolution of the image in the dataset varies from 720x576 to 1280x1024. The image file is encoded using jpeg compression. To the best of our knowledge, this is the first attempt to provide the GI tract organ tools dataset. The open-access dataset can be easily downloaded for research and educational purposes. To facilitate the training and testing on the same dataset, we also provide a train-test split so that researchers can build the methods and improve the results using the same dataset. The bounding box information (box coordinates (x, y, width, height)) for the corresponding images are stored in a JSON file. The dataset is designed to push the state-of-the-art solution for the automatic tool segmentation in gastrointestinal endoscopy.\n\n# Applications of the Dataset\nThe Kvasir-Instrument is intended to be used for researching and developing new algorithms for image segmentation, detection, and localization tasks. We have provided a separate file for training and validation which will assist in the development of approaches across the same dataset.\n\n# Annotation Protocol\nWe took a three-step strategy during annotation. First, the selected dataset samples were labeled by two experienced research assistants. These annotations were sent to the expert gastroenterologist for the verification. Finally, the suggested changes were incorporated, and the images were validated for those samples.\n\n# Suggested Metrics for Segmentation\nWe suggest calculating the dice similarity coefficient (DSC) and Jaccard index or Intersection over Union (IoU) for the segmentation task. The other standard metrics for medical image segmentation are precision, recall, and overall accuracy. We also suggest calculating these metrics.\n# \nSuggested Metrics for Detection and Localization\nFor the detection and localization task, we suggest calculating the average precision at different IoU thresholds. Usually, AP at IoU threshold of 50 is taken for evaluation of this dataset. We also recommend calculating overall IoU.\n\n\nFor more information:\nhttps://datasets.simula.no/kvasir-instrument/",
+  "datasetId": 1319634,
+  "datasetSlug": "kvasirinstrument",
+  "hasDatasetSlug": true,
+  "ownerUser": "debeshjha1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2920,
+  "totalVotes": 10,
+  "totalDownloads": 290,
+  "title": "Kvasir-Instrument Dataset",
+  "hasTitle": true,
+  "subtitle": "Endoscopy instrument dataset (https://datasets.simula.no/kvasir-instrument/)",
+  "hasSubtitle": true,
+  "description": "# Kvasir-Instrument\nGastrointestinal (GI) tract pathologies are screened, biopsied, and resected (if needed) periodically using surgical tools. However, these biopsied and/or resected areas are not tracked due to which the video analysis for assessing disease burden or the amount of pathology resection remains unknown. To tackle such issues, we have released the novel \u201cKvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy\u201d dataset, which consists of 590 annotated frames comprising of GI procedure tools such as snares, balloons, biopsy forceps, etc. By adding segmentation masks and bounding boxes information to this dataset, we enable computer vision and GI endoscopy researchers to contribute to the field of automated tool segmentation.\n\n# Dataset Details\nThe Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images and their ground truth mask. The resolution of the image in the dataset varies from 720x576 to 1280x1024. The image file is encoded using jpeg compression. To the best of our knowledge, this is the first attempt to provide the GI tract organ tools dataset. The open-access dataset can be easily downloaded for research and educational purposes. To facilitate the training and testing on the same dataset, we also provide a train-test split so that researchers can build the methods and improve the results using the same dataset. The bounding box information (box coordinates (x, y, width, height)) for the corresponding images are stored in a JSON file. The dataset is designed to push the state-of-the-art solution for the automatic tool segmentation in gastrointestinal endoscopy.\n\n# Applications of the Dataset\nThe Kvasir-Instrument is intended to be used for researching and developing new algorithms for image segmentation, detection, and localization tasks. We have provided a separate file for training and validation which will assist in the development of approaches across the same dataset.\n\n# Annotation Protocol\nWe took a three-step strategy during annotation. First, the selected dataset samples were labeled by two experienced research assistants. These annotations were sent to the expert gastroenterologist for the verification. Finally, the suggested changes were incorporated, and the images were validated for those samples.\n\n# Suggested Metrics for Segmentation\nWe suggest calculating the dice similarity coefficient (DSC) and Jaccard index or Intersection over Union (IoU) for the segmentation task. The other standard metrics for medical image segmentation are precision, recall, and overall accuracy. We also suggest calculating these metrics.\n# \nSuggested Metrics for Detection and Localization\nFor the detection and localization task, we suggest calculating the average precision at different IoU thresholds. Usually, AP at IoU threshold of 50 is taken for evaluation of this dataset. We also recommend calculating overall IoU.\n\n\nFor more information:\nhttps://datasets.simula.no/kvasir-instrument/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "vlbthambawita",
+      "role": "writer"
+    },
+    {
+      "username": "hugohammer",
+      "role": "writer"
+    },
+    {
+      "username": "kelkalot",
+      "role": "writer"
+    },
+    {
+      "username": "stevenhicks",
+      "role": "writer"
+    },
+    {
+      "username": "plhalvorsen",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "debeshjha1/kvasirseg",
+  "id_no": 1316959,
+  "datasetSlugNullable": "kvasirseg",
+  "ownerUserNullable": "debeshjha1",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Kvasir-SEG Data (Polyp segmentation & detection)",
+  "subtitleNullable": "Colorectal polyp data(1000 im, GT & BB) (https://datasets.simula.no/kvasir-seg/)",
+  "descriptionNullable": "# Kvasir-SEG information:\n\nThe Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2. The images' resolution in Kvasir-SEG varies from 332x487 to 1920x1072 pixels. The images and its corresponding masks are stored in two separate folders with the same filename. The image files are encoded using JPEG compression, facilitating online browsing. The open-access dataset can be easily downloaded for research and educational purposes.\n\n# Applications of the Dataset\nThe Kvasir-SEG dataset is intended to be used for researching and developing new and improved methods for segmentation, detection, localization, and classification of polyps. Multiple datasets are prerequisites for comparing computer vision-based algorithms, and this dataset is useful both as a training dataset or as a validation dataset. These datasets can assist the development of state-of-the-art solutions for images captured by colonoscopes from different manufacturers. Further research in this field has the potential to help reduce the polyp miss rate and thus improve examination quality. The Kvasir-SEG dataset is also suitable for general segmentation and bounding box detection research. In this context, the datasets can accompany several other datasets from a wide range of fields, both medical and otherwise.\n\n# Ground Truth Extraction\nWe uploaded the entire Kvasir polyp class to Labelbox and created all the segmentations using this application. The Labelbox is a tool used for labeling the region of interest (ROI) in image frames, i.e., the polyp regions for our case. We manually annotated and labeled all of the 1000 images with the help of medical experts. After annotation, we exported the files to generate masks for each annotation. The exported JSON file contained all the information about the image and the coordinate points for generating the mask. To create a mask, we used ROI coordinates to draw contours on an empty black image and fill the contours with white color. The generated masks are a 1-bit color depth images. The pixels depicting polyp tissue, the region of interest, are represented by the foreground (white mask), while the background (in black) does not contain positive pixels. Some of the original images contain the image of the endoscope position marking probe, ScopeGuide TM, Olympus Tokyo Japan, located in one of the bottom corners, seen as a small green box. As this information is superfluous for the segmentation task, we have replaced these with black boxes in the Kvasir-SEG dataset.\n\n# Suggested Metrics\nThere are different metrics for evaluating the performance of the architectures on the image segmentation dataset. For medical image segmentation task, the most commonly used ones are Dice coefficient and Intersection over Union (IOU). Based on related work in this field, we have used these metrics for the evaluation of the algorithms. In future work, we encourage the use of these metrics for evaluating the performance of the model. In the future, it might be even better to include as many as possible metrics for the fair comparison of the models.\n\nThe bounding box (coordinate points) for the corresponding images are stored in a JSON file. This dataset is designed to push the state-of-the-art solution for the polyp detection task. Some examples of the dataset.",
+  "datasetId": 1316959,
+  "datasetSlug": "kvasirseg",
+  "hasDatasetSlug": true,
+  "ownerUser": "debeshjha1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 6850,
+  "totalVotes": 23,
+  "totalDownloads": 856,
+  "title": "Kvasir-SEG Data (Polyp segmentation & detection)",
+  "hasTitle": true,
+  "subtitle": "Colorectal polyp data(1000 im, GT & BB) (https://datasets.simula.no/kvasir-seg/)",
+  "hasSubtitle": true,
+  "description": "# Kvasir-SEG information:\n\nThe Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2. The images' resolution in Kvasir-SEG varies from 332x487 to 1920x1072 pixels. The images and its corresponding masks are stored in two separate folders with the same filename. The image files are encoded using JPEG compression, facilitating online browsing. The open-access dataset can be easily downloaded for research and educational purposes.\n\n# Applications of the Dataset\nThe Kvasir-SEG dataset is intended to be used for researching and developing new and improved methods for segmentation, detection, localization, and classification of polyps. Multiple datasets are prerequisites for comparing computer vision-based algorithms, and this dataset is useful both as a training dataset or as a validation dataset. These datasets can assist the development of state-of-the-art solutions for images captured by colonoscopes from different manufacturers. Further research in this field has the potential to help reduce the polyp miss rate and thus improve examination quality. The Kvasir-SEG dataset is also suitable for general segmentation and bounding box detection research. In this context, the datasets can accompany several other datasets from a wide range of fields, both medical and otherwise.\n\n# Ground Truth Extraction\nWe uploaded the entire Kvasir polyp class to Labelbox and created all the segmentations using this application. The Labelbox is a tool used for labeling the region of interest (ROI) in image frames, i.e., the polyp regions for our case. We manually annotated and labeled all of the 1000 images with the help of medical experts. After annotation, we exported the files to generate masks for each annotation. The exported JSON file contained all the information about the image and the coordinate points for generating the mask. To create a mask, we used ROI coordinates to draw contours on an empty black image and fill the contours with white color. The generated masks are a 1-bit color depth images. The pixels depicting polyp tissue, the region of interest, are represented by the foreground (white mask), while the background (in black) does not contain positive pixels. Some of the original images contain the image of the endoscope position marking probe, ScopeGuide TM, Olympus Tokyo Japan, located in one of the bottom corners, seen as a small green box. As this information is superfluous for the segmentation task, we have replaced these with black boxes in the Kvasir-SEG dataset.\n\n# Suggested Metrics\nThere are different metrics for evaluating the performance of the architectures on the image segmentation dataset. For medical image segmentation task, the most commonly used ones are Dice coefficient and Intersection over Union (IOU). Based on related work in this field, we have used these metrics for the evaluation of the algorithms. In future work, we encourage the use of these metrics for evaluating the performance of the model. In the future, it might be even better to include as many as possible metrics for the fair comparison of the models.\n\nThe bounding box (coordinate points) for the corresponding images are stored in a JSON file. This dataset is designed to push the state-of-the-art solution for the polyp detection task. Some examples of the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "vlbthambawita",
+      "role": "writer"
+    },
+    {
+      "username": "hugohammer",
+      "role": "writer"
+    },
+    {
+      "username": "kelkalot",
+      "role": "writer"
+    },
+    {
+      "username": "stevenhicks",
+      "role": "writer"
+    },
+    {
+      "username": "plhalvorsen",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

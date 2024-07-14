@@ -1,0 +1,43 @@
+{
+  "id": "nextmillionaire/pizza-sales-dataset",
+  "id_no": 4269243,
+  "datasetSlugNullable": "pizza-sales-dataset",
+  "ownerUserNullable": "nextmillionaire",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Pizza Sales Dataset",
+  "subtitleNullable": "Dive into Comprehensive Order Details for Analysis and extract insights.",
+  "descriptionNullable": "This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.\n\n**pizza_id**: A unique identifier assigned to each distinct pizza variant available for ordering.\n**order_id:** A unique identifier for each order made, which links to multiple pizzas.\n**pizza_name_id:** An identifier linking to a specific name of the pizza.\n**quantity:** The number of units of a specific pizza variant ordered within an order.\n**order_date:** The date when the order was placed.\n**order_time:** The time when the order was placed.\n**unit_price:** The cost of a single unit of the specific pizza variant.\n**total_price:** The aggregated cost of all units of a specific pizza variant in an order.\n**pizza_size:** Represents the size of the pizza (e.g., small, medium, large).\n**pizza_category:** Indicates the category of the pizza, such as vegetarian, non-vegetarian, etc.\n**pizza_ingredients:** Provides a list or description of the ingredients used in the pizza.\n**pizza_name:** Specifies the name of the specific pizza variant ordered.\n",
+  "datasetId": 4269243,
+  "datasetSlug": "pizza-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nextmillionaire",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 18550,
+  "totalVotes": 73,
+  "totalDownloads": 4809,
+  "title": "Pizza Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Dive into Comprehensive Order Details for Analysis and extract insights.",
+  "hasSubtitle": true,
+  "description": "This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.\n\n**pizza_id**: A unique identifier assigned to each distinct pizza variant available for ordering.\n**order_id:** A unique identifier for each order made, which links to multiple pizzas.\n**pizza_name_id:** An identifier linking to a specific name of the pizza.\n**quantity:** The number of units of a specific pizza variant ordered within an order.\n**order_date:** The date when the order was placed.\n**order_time:** The time when the order was placed.\n**unit_price:** The cost of a single unit of the specific pizza variant.\n**total_price:** The aggregated cost of all units of a specific pizza variant in an order.\n**pizza_size:** Represents the size of the pizza (e.g., small, medium, large).\n**pizza_category:** Indicates the category of the pizza, such as vegetarian, non-vegetarian, etc.\n**pizza_ingredients:** Provides a list or description of the ingredients used in the pizza.\n**pizza_name:** Specifies the name of the specific pizza variant ordered.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data analytics",
+    "food",
+    "sql"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

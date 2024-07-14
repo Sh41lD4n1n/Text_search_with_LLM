@@ -1,0 +1,42 @@
+{
+  "id": "gurneetsingh1928/imdb-top1000-movies",
+  "id_no": 2630283,
+  "datasetSlugNullable": "imdb-top1000-movies",
+  "ownerUserNullable": "gurneetsingh1928",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "IMDB_Top1000_Movies",
+  "subtitleNullable": "Self-created dataset by scraping the Top 1000 movies link on IMDB with BS",
+  "descriptionNullable": "**About the Dataset**\n\nThe Dataset was created with the help of BeautifulSoup, by making a web scrapper.\nIt scrapes the following link at first: https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating\nThen it opens up individual 1000 links of movies and scrapes the budget out of it.\n\nThe dataset contains the following columns :\n- Title\n- Genre\n- Duration\n- Rating\n- Year\n- Director\n- Major Cast\n- 2nd Major Cast\n- Certification\n- Gross\n- Votes\n- Link to movie\n- Budget\n\n\nI Hope someone works on making some prediction model/ visualizations over this dataset. Would really appreciate the effort!!\n\nThank you for reading this and using this dataset!!",
+  "datasetId": 2630283,
+  "datasetSlug": "imdb-top1000-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "gurneetsingh1928",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 342,
+  "totalVotes": 1,
+  "totalDownloads": 38,
+  "title": "IMDB_Top1000_Movies",
+  "hasTitle": true,
+  "subtitle": "Self-created dataset by scraping the Top 1000 movies link on IMDB with BS",
+  "hasSubtitle": true,
+  "description": "**About the Dataset**\n\nThe Dataset was created with the help of BeautifulSoup, by making a web scrapper.\nIt scrapes the following link at first: https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating\nThen it opens up individual 1000 links of movies and scrapes the budget out of it.\n\nThe dataset contains the following columns :\n- Title\n- Genre\n- Duration\n- Rating\n- Year\n- Director\n- Major Cast\n- 2nd Major Cast\n- Certification\n- Gross\n- Votes\n- Link to movie\n- Budget\n\n\nI Hope someone works on making some prediction model/ visualizations over this dataset. Would really appreciate the effort!!\n\nThank you for reading this and using this dataset!!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "text mining",
+    "text",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

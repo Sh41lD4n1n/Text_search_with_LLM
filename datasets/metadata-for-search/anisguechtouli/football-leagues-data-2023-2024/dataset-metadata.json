@@ -1,0 +1,40 @@
+{
+  "id": "anisguechtouli/football-leagues-data-2023-2024",
+  "id_no": 5188744,
+  "datasetSlugNullable": "football-leagues-data-2023-2024",
+  "ownerUserNullable": "anisguechtouli",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Fbref Football Leagues Data 2023 2024",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Comprehensive Football Player Statistics: 2023-2024 Season**\nThis dataset contains detailed player statistics from top football leagues for the 2023-2024 season. Sourced from FBref, the dataset includes a wide range of metrics covering various aspects of player performance, such as defense, goalkeeping, passing, and shooting.\n\n**Key Features**\nDetailed Player Metrics: Statistics for individual players across multiple performance areas.\nStructured Data: Organized into tables focusing on different aspects of the game for easy analysis.\nTop Leagues: Includes data from prominent leagues that provide comprehensive detailed stats.\n\nGithub Repository link of the project : https://github.com/GuechtouliAnis/Football-Data-Scraping\n\nBy: Guechtouli Anis",
+  "datasetId": 5188744,
+  "datasetSlug": "football-leagues-data-2023-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "anisguechtouli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 58,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "Fbref Football Leagues Data 2023 2024",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Comprehensive Football Player Statistics: 2023-2024 Season**\nThis dataset contains detailed player statistics from top football leagues for the 2023-2024 season. Sourced from FBref, the dataset includes a wide range of metrics covering various aspects of player performance, such as defense, goalkeeping, passing, and shooting.\n\n**Key Features**\nDetailed Player Metrics: Statistics for individual players across multiple performance areas.\nStructured Data: Organized into tables focusing on different aspects of the game for easy analysis.\nTop Leagues: Includes data from prominent leagues that provide comprehensive detailed stats.\n\nGithub Repository link of the project : https://github.com/GuechtouliAnis/Football-Data-Scraping\n\nBy: Guechtouli Anis",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "jruvika/fake-news-detection",
+  "id_no": 6410,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "jruvika",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Fake News detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 6410,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "jruvika",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 94058,
+  "totalVotes": 133,
+  "totalDownloads": 11434,
+  "title": "Fake News detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "abdallahwagih/retina-blood-vessel",
+  "id_no": 3636171,
+  "datasetSlugNullable": "retina-blood-vessel",
+  "ownerUserNullable": "abdallahwagih",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Retina Blood Vessel",
+  "subtitleNullable": "Retina Blood Vessel for segmentation",
+  "descriptionNullable": "**Dataset Overview:**\nWelcome to the Retina Blood Vessel Segmentation dataset, a valuable resource for advancing the field of medical image analysis and enhancing the diagnosis of retinal vascular diseases. This dataset contains a comprehensive collection of retinal fundus images, meticulously annotated for blood vessel segmentation. Accurate segmentation of blood vessels is a critical task in ophthalmology as it aids in the early detection and management of various retinal pathologies, such as diabetic retinopathy and macular degeneration.\n\n**Content:**\nThe dataset comprises a total of X high-resolution retinal fundus images captured using state-of-the-art imaging equipment. Each image comes with corresponding pixel-level ground truth annotations indicating the exact location of blood vessels. These annotations facilitate the development and evaluation of advanced segmentation algorithms.\n\n**Key Features:**\n\nImage Size: The images in the dataset are of varying dimensions, ranging from XXX pixels to XXX pixels, mimicking the real-world diversity of retinal images.\nAnnotations: For each image, corresponding pixel-wise annotations in a binary mask format are provided. Blood vessel pixels are marked as 1, while background pixels are labeled as 0.\nPathological Variation: The dataset encompasses a spectrum of retinal conditions, including varying vessel widths, branching patterns, and presence of anomalies, making it suitable for evaluating the robustness of segmentation models.\nUse Cases:\nResearchers and practitioners in the fields of medical image analysis, computer vision, and artificial intelligence will find this dataset invaluable for several applications:\n\nAlgorithm Development: Use the dataset to train and test innovative segmentation algorithms, leveraging the precise annotations to achieve accurate and reliable results.\nDisease Detection: Create models that can assist in the early detection of retinal pathologies, contributing to timely medical interventions.\nEducation: The dataset can be used for educational purposes to help students and professionals understand the complexities of retinal blood vessel structure.\nEvaluation Metrics:\nPerformance evaluation will primarily involve measuring the segmentation accuracy against the ground truth annotations. Common metrics such as Intersection over Union (IoU), Dice Coefficient, and pixel-wise accuracy can be employed to quantify the model's performance.",
+  "datasetId": 3636171,
+  "datasetSlug": "retina-blood-vessel",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdallahwagih",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 11554,
+  "totalVotes": 68,
+  "totalDownloads": 1831,
+  "title": "Retina Blood Vessel",
+  "hasTitle": true,
+  "subtitle": "Retina Blood Vessel for segmentation",
+  "hasSubtitle": true,
+  "description": "**Dataset Overview:**\nWelcome to the Retina Blood Vessel Segmentation dataset, a valuable resource for advancing the field of medical image analysis and enhancing the diagnosis of retinal vascular diseases. This dataset contains a comprehensive collection of retinal fundus images, meticulously annotated for blood vessel segmentation. Accurate segmentation of blood vessels is a critical task in ophthalmology as it aids in the early detection and management of various retinal pathologies, such as diabetic retinopathy and macular degeneration.\n\n**Content:**\nThe dataset comprises a total of X high-resolution retinal fundus images captured using state-of-the-art imaging equipment. Each image comes with corresponding pixel-level ground truth annotations indicating the exact location of blood vessels. These annotations facilitate the development and evaluation of advanced segmentation algorithms.\n\n**Key Features:**\n\nImage Size: The images in the dataset are of varying dimensions, ranging from XXX pixels to XXX pixels, mimicking the real-world diversity of retinal images.\nAnnotations: For each image, corresponding pixel-wise annotations in a binary mask format are provided. Blood vessel pixels are marked as 1, while background pixels are labeled as 0.\nPathological Variation: The dataset encompasses a spectrum of retinal conditions, including varying vessel widths, branching patterns, and presence of anomalies, making it suitable for evaluating the robustness of segmentation models.\nUse Cases:\nResearchers and practitioners in the fields of medical image analysis, computer vision, and artificial intelligence will find this dataset invaluable for several applications:\n\nAlgorithm Development: Use the dataset to train and test innovative segmentation algorithms, leveraging the precise annotations to achieve accurate and reliable results.\nDisease Detection: Create models that can assist in the early detection of retinal pathologies, contributing to timely medical interventions.\nEducation: The dataset can be used for educational purposes to help students and professionals understand the complexities of retinal blood vessel structure.\nEvaluation Metrics:\nPerformance evaluation will primarily involve measuring the segmentation accuracy against the ground truth annotations. Common metrics such as Intersection over Union (IoU), Dice Coefficient, and pixel-wise accuracy can be employed to quantify the model's performance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "eyes and vision",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

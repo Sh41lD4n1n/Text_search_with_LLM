@@ -1,0 +1,46 @@
+{
+  "id": "ic17b065/environment-dataset",
+  "id_no": 409768,
+  "datasetSlugNullable": "environment-dataset",
+  "ownerUserNullable": "ic17b065",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "Environment Dataset",
+  "subtitleNullable": "Vehicles and accidents in Austria",
+  "descriptionNullable": "### Context\n\nThe dataset is from Statistics Austria and contains the annual data for the period from 2014 to 2018 on the number of registered vehicles for every state. In addition, the dataset also includes traffic accidents between different vehicle types and persons with different outcomes by state during this period.\n\n\n### Content\n\n**Number of Vehicles 2014 - 2018**\n\n- `KfzBestand_transformiert.csv` The number of different vehicle types for each state in Austria.\n\n**Traffic Accidents 2014 - 2018**\n\n- `UnfaelleNachBundeslauendern_transformiert.csv` The number of accidents with different outcome for each state in Austria \n- `UnfaelleNachVerkehrsart_transformiert.csv` The number of accidents with different outcome related to different types of vehicle\n\n### Acknowledgements\n\n[Statistik Austria](https://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/verkehr/index.html \"https://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/verkehr/index.html\")\n\n\n### Inspiration\n\nFinding relationships between the number of vehicles, their type and accidents.",
+  "datasetId": 409768,
+  "datasetSlug": "environment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ic17b065",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 3717,
+  "totalVotes": 2,
+  "totalDownloads": 86,
+  "title": "Environment Dataset",
+  "hasTitle": true,
+  "subtitle": "Vehicles and accidents in Austria",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset is from Statistics Austria and contains the annual data for the period from 2014 to 2018 on the number of registered vehicles for every state. In addition, the dataset also includes traffic accidents between different vehicle types and persons with different outcomes by state during this period.\n\n\n### Content\n\n**Number of Vehicles 2014 - 2018**\n\n- `KfzBestand_transformiert.csv` The number of different vehicle types for each state in Austria.\n\n**Traffic Accidents 2014 - 2018**\n\n- `UnfaelleNachBundeslauendern_transformiert.csv` The number of accidents with different outcome for each state in Austria \n- `UnfaelleNachVerkehrsart_transformiert.csv` The number of accidents with different outcome related to different types of vehicle\n\n### Acknowledgements\n\n[Statistik Austria](https://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/verkehr/index.html \"https://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/verkehr/index.html\")\n\n\n### Inspiration\n\nFinding relationships between the number of vehicles, their type and accidents.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "internet",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "overphloh",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

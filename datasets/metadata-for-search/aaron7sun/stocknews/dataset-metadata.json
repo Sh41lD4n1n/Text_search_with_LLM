@@ -1,0 +1,43 @@
+{
+  "id": "aaron7sun/stocknews",
+  "id_no": 129,
+  "datasetSlugNullable": "stocknews",
+  "ownerUserNullable": "aaron7sun",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Daily News for Stock Market Prediction",
+  "subtitleNullable": "Using 8 years daily news headlines to predict stock market movement",
+  "descriptionNullable": "Actually, I prepare this dataset for students on my Deep Learning and NLP course. \n\nBut I am also very happy to see kagglers play around with it.\n\nHave fun!\n\n**Description:**\n\nThere are two channels of data provided in this dataset:\n\n1. News data: I crawled historical news headlines from [Reddit WorldNews Channel][1] (/r/worldnews). They are ranked by reddit users' votes, and only the top 25 headlines are considered for a single date.\n(Range: 2008-06-08 to 2016-07-01)\n\n2. Stock data: Dow Jones Industrial Average (DJIA) is used to \"prove the concept\".\n(Range: 2008-08-08 to 2016-07-01)\n\nI provided three data files in *.csv* format:\n\n1. **RedditNews.csv**: two columns\nThe first column is the \"date\", and second column is the \"news headlines\".\nAll news are ranked from top to bottom based on how *hot* they are.\nHence, there are 25 lines for each date.\n\n2. **DJIA_table.csv**: \nDownloaded directly from [Yahoo Finance][2]: check out the web page for more info.\n\n3. **Combined_News_DJIA.csv**:\nTo make things easier for my students, I provide this combined dataset with 27 columns.\nThe first column is \"Date\", the second is \"Label\", and the following ones are news headlines ranging from \"Top1\" to \"Top25\".\n\n**=========================================**\n\n*To my students:*\n\n*I made this a binary classification task. Hence, there are only two labels:*\n\n*\"1\" when DJIA Adj Close value rose or stayed as the same;*\n\n*\"0\" when DJIA Adj Close value decreased.*\n\n*For task evaluation, please use data from 2008-08-08 to 2014-12-31 as Training Set, and Test Set is then the following two years data (from 2015-01-02 to 2016-07-01). This is roughly a 80%/20% split.*\n\n*And, of course, use AUC as the evaluation metric.*\n\n**=========================================**\n\n**+++++++++++++++++++++++++++++++++++++++++**\n\n*To all kagglers:*\n\n*Please upvote this dataset if you like this idea for market prediction.*\n\n*If you think you coded an amazing trading algorithm,*\n\n*friendly advice* \n\n*do play safe with your own money :)*\n\n**+++++++++++++++++++++++++++++++++++++++++**\n\nFeel free to contact me if there is any question~ \n\nAnd, remember me when you become a millionaire :P\n\n**Note: If you'd like to cite this dataset in your publications, please use:**\n\n`\nSun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [Date You Retrieved This Data] from https://www.kaggle.com/aaron7sun/stocknews.\n`\n\n  [1]: https://www.reddit.com/r/worldnews?hl\n  [2]: https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI",
+  "datasetId": 129,
+  "datasetSlug": "stocknews",
+  "hasDatasetSlug": true,
+  "ownerUser": "aaron7sun",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 546597,
+  "totalVotes": 1606,
+  "totalDownloads": 54151,
+  "title": "Daily News for Stock Market Prediction",
+  "hasTitle": true,
+  "subtitle": "Using 8 years daily news headlines to predict stock market movement",
+  "hasSubtitle": true,
+  "description": "Actually, I prepare this dataset for students on my Deep Learning and NLP course. \n\nBut I am also very happy to see kagglers play around with it.\n\nHave fun!\n\n**Description:**\n\nThere are two channels of data provided in this dataset:\n\n1. News data: I crawled historical news headlines from [Reddit WorldNews Channel][1] (/r/worldnews). They are ranked by reddit users' votes, and only the top 25 headlines are considered for a single date.\n(Range: 2008-06-08 to 2016-07-01)\n\n2. Stock data: Dow Jones Industrial Average (DJIA) is used to \"prove the concept\".\n(Range: 2008-08-08 to 2016-07-01)\n\nI provided three data files in *.csv* format:\n\n1. **RedditNews.csv**: two columns\nThe first column is the \"date\", and second column is the \"news headlines\".\nAll news are ranked from top to bottom based on how *hot* they are.\nHence, there are 25 lines for each date.\n\n2. **DJIA_table.csv**: \nDownloaded directly from [Yahoo Finance][2]: check out the web page for more info.\n\n3. **Combined_News_DJIA.csv**:\nTo make things easier for my students, I provide this combined dataset with 27 columns.\nThe first column is \"Date\", the second is \"Label\", and the following ones are news headlines ranging from \"Top1\" to \"Top25\".\n\n**=========================================**\n\n*To my students:*\n\n*I made this a binary classification task. Hence, there are only two labels:*\n\n*\"1\" when DJIA Adj Close value rose or stayed as the same;*\n\n*\"0\" when DJIA Adj Close value decreased.*\n\n*For task evaluation, please use data from 2008-08-08 to 2014-12-31 as Training Set, and Test Set is then the following two years data (from 2015-01-02 to 2016-07-01). This is roughly a 80%/20% split.*\n\n*And, of course, use AUC as the evaluation metric.*\n\n**=========================================**\n\n**+++++++++++++++++++++++++++++++++++++++++**\n\n*To all kagglers:*\n\n*Please upvote this dataset if you like this idea for market prediction.*\n\n*If you think you coded an amazing trading algorithm,*\n\n*friendly advice* \n\n*do play safe with your own money :)*\n\n**+++++++++++++++++++++++++++++++++++++++++**\n\nFeel free to contact me if there is any question~ \n\nAnd, remember me when you become a millionaire :P\n\n**Note: If you'd like to cite this dataset in your publications, please use:**\n\n`\nSun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [Date You Retrieved This Data] from https://www.kaggle.com/aaron7sun/stocknews.\n`\n\n  [1]: https://www.reddit.com/r/worldnews?hl\n  [2]: https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "finance",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

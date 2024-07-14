@@ -1,0 +1,43 @@
+{
+  "id": "farjanakabirsamanta/true-fake-news-dataset",
+  "id_no": 2557312,
+  "datasetSlugNullable": "true-fake-news-dataset",
+  "ownerUserNullable": "farjanakabirsamanta",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Unreliable News Detection Dataset",
+  "subtitleNullable": "Identify whether news is Real or Fake",
+  "descriptionNullable": "There exists one directory named `Fake_True`. The directory contains 2 csv files:\n- Fake.csv\n- True.csv\n\n`Fake.csv` - contains unreliable news\n`True.csv` - contains reliable news\n\nEach csv file has 4 columns:\n1. title\n2. text\n3. subject\n4. date\n\nCollected from MEJBAH AHAMMAD",
+  "datasetId": 2557312,
+  "datasetSlug": "true-fake-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "farjanakabirsamanta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 525,
+  "totalVotes": 12,
+  "totalDownloads": 60,
+  "title": "Unreliable News Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Identify whether news is Real or Fake",
+  "hasSubtitle": true,
+  "description": "There exists one directory named `Fake_True`. The directory contains 2 csv files:\n- Fake.csv\n- True.csv\n\n`Fake.csv` - contains unreliable news\n`True.csv` - contains reliable news\n\nEach csv file has 4 columns:\n1. title\n2. text\n3. subject\n4. date\n\nCollected from MEJBAH AHAMMAD",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

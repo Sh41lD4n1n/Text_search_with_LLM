@@ -1,0 +1,42 @@
+{
+  "id": "chathinirathnayake/macaque-monkey-images",
+  "id_no": 4733263,
+  "datasetSlugNullable": "macaque-monkey-images",
+  "ownerUserNullable": "chathinirathnayake",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Macaque Monkey Images",
+  "subtitleNullable": "Macaque Monkey detection (Object Detection)",
+  "descriptionNullable": "A dataset containing macaque monkey images typically consists of a collection of digital images depicting various aspects of macaque monkeys. These images may include photographs taken in natural habitats or controlled environments such as research facilities or zoos. The dataset may cover a wide range of activities, behaviors, and characteristics of macaques",
+  "datasetId": 4733263,
+  "datasetSlug": "macaque-monkey-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "chathinirathnayake",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 66,
+  "totalVotes": 1,
+  "totalDownloads": 13,
+  "title": "Macaque Monkey Images",
+  "hasTitle": true,
+  "subtitle": "Macaque Monkey detection (Object Detection)",
+  "hasSubtitle": true,
+  "description": "A dataset containing macaque monkey images typically consists of a collection of digital images depicting various aspects of macaque monkeys. These images may include photographs taken in natural habitats or controlled environments such as research facilities or zoos. The dataset may cover a wide range of activities, behaviors, and characteristics of macaques",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "animals",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

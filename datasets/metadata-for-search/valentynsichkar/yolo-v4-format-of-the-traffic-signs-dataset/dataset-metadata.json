@@ -1,0 +1,40 @@
+{
+  "id": "valentynsichkar/yolo-v4-format-of-the-traffic-signs-dataset",
+  "id_no": 4059607,
+  "datasetSlugNullable": "yolo-v4-format-of-the-traffic-signs-dataset",
+  "ownerUserNullable": "valentynsichkar",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "YOLO v4 format of the Traffic Signs dataset",
+  "subtitleNullable": "Dataset to train and test YOLO v3-v4 detector by Darknet framework",
+  "descriptionNullable": "### :triangular_flag_on_post: Details\nThe dataset includes image files and appropriate annotations to train YOLO v3-v4 detector. It is separated into two versions:\n1. with 4 classes only\n1. and with all 43 classes\n\nFiles structure of the labels and annotations for YOLO v3-v4 format \ud83d\udc47\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fa8ced4b8c97a2884e1f23d1b9161bdc6%2F3-5-Convert-custom-dataset-in-YOLO.mp4_snapshot_02.04_2023.11.28_18.28.17.png?generation=1701185311105609&alt=media)\n\n<br>\n\n### \ud83c\udfa5 Watch video about YOLO format \ud83d\udc47\n![](https://www.youtube.com/watch?v=-bU0ZBbG8l4)\n\n<br>\n\n### \ud83c\udf93 YOLO v5: Label, Train and Test. Join the course! \ud83d\udc47\n[https://www.udemy.com/course/yolo-v5-label-train-and-test](https://www.udemy.com/course/yolo-v5-label-train-and-test/?referralCode=2171545772F09930296E)\n\n&gt; **Have a look at the abilities that you will obtain:**  \n&gt; \ud83d\udce2 `Run` YOLO v5 to detect objects on image, video and in real time by camera in the first lectures.  \n&gt; \ud83d\udce2 `Label-Create-Convert` own dataset in YOLO format.  \n&gt; \ud83d\udce2 `Train & Test` both: in your `local machine` and in the `cloud machine` (with custom data and by few lines of the code).  \n\n<br>\n\n### Concept map of the YOLO v5 course \ud83d\udc47\n![Concept map of the YOLO v5 course](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fac1893f68be61efb21e376b3c405147c%2Fconcept_map_YOLO_v5.png?generation=1701165575909796&alt=media)\n\n### Join the course! \ud83d\udc47\n[https://www.udemy.com/course/yolo-v5-label-train-and-test](https://www.udemy.com/course/yolo-v5-label-train-and-test/?referralCode=2171545772F09930296E)\n\n<br>\n\n### Acknowledgements\n\nInitial data is The German Traffic Sign Recognition Benchmarks (GTSRB).",
+  "datasetId": 4059607,
+  "datasetSlug": "yolo-v4-format-of-the-traffic-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "valentynsichkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 278,
+  "totalVotes": 1,
+  "totalDownloads": 26,
+  "title": "YOLO v4 format of the Traffic Signs dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset to train and test YOLO v3-v4 detector by Darknet framework",
+  "hasSubtitle": true,
+  "description": "### :triangular_flag_on_post: Details\nThe dataset includes image files and appropriate annotations to train YOLO v3-v4 detector. It is separated into two versions:\n1. with 4 classes only\n1. and with all 43 classes\n\nFiles structure of the labels and annotations for YOLO v3-v4 format \ud83d\udc47\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fa8ced4b8c97a2884e1f23d1b9161bdc6%2F3-5-Convert-custom-dataset-in-YOLO.mp4_snapshot_02.04_2023.11.28_18.28.17.png?generation=1701185311105609&alt=media)\n\n<br>\n\n### \ud83c\udfa5 Watch video about YOLO format \ud83d\udc47\n![](https://www.youtube.com/watch?v=-bU0ZBbG8l4)\n\n<br>\n\n### \ud83c\udf93 YOLO v5: Label, Train and Test. Join the course! \ud83d\udc47\n[https://www.udemy.com/course/yolo-v5-label-train-and-test](https://www.udemy.com/course/yolo-v5-label-train-and-test/?referralCode=2171545772F09930296E)\n\n&gt; **Have a look at the abilities that you will obtain:**  \n&gt; \ud83d\udce2 `Run` YOLO v5 to detect objects on image, video and in real time by camera in the first lectures.  \n&gt; \ud83d\udce2 `Label-Create-Convert` own dataset in YOLO format.  \n&gt; \ud83d\udce2 `Train & Test` both: in your `local machine` and in the `cloud machine` (with custom data and by few lines of the code).  \n\n<br>\n\n### Concept map of the YOLO v5 course \ud83d\udc47\n![Concept map of the YOLO v5 course](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fac1893f68be61efb21e376b3c405147c%2Fconcept_map_YOLO_v5.png?generation=1701165575909796&alt=media)\n\n### Join the course! \ud83d\udc47\n[https://www.udemy.com/course/yolo-v5-label-train-and-test](https://www.udemy.com/course/yolo-v5-label-train-and-test/?referralCode=2171545772F09930296E)\n\n<br>\n\n### Acknowledgements\n\nInitial data is The German Traffic Sign Recognition Benchmarks (GTSRB).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

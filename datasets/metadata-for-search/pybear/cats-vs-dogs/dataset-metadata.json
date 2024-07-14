@@ -1,0 +1,43 @@
+{
+  "id": "pybear/cats-vs-dogs",
+  "id_no": 927555,
+  "datasetSlugNullable": "cats-vs-dogs",
+  "ownerUserNullable": "pybear",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Cats -- VS -- Dogs",
+  "subtitleNullable": "Build a cat vs dog classifier and enjoy !",
+  "descriptionNullable": "",
+  "datasetId": 927555,
+  "datasetSlug": "cats-vs-dogs",
+  "hasDatasetSlug": true,
+  "ownerUser": "pybear",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 15077,
+  "totalVotes": 93,
+  "totalDownloads": 2264,
+  "title": "Cats -- VS -- Dogs",
+  "hasTitle": true,
+  "subtitle": "Build a cat vs dog classifier and enjoy !",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "classification",
+    "cnn",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

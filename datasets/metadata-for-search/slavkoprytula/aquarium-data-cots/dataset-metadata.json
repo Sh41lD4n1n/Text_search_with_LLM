@@ -1,0 +1,44 @@
+{
+  "id": "slavkoprytula/aquarium-data-cots",
+  "id_no": 1929044,
+  "datasetSlugNullable": "aquarium-data-cots",
+  "ownerUserNullable": "slavkoprytula",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Underwater Object Detection Dataset",
+  "subtitleNullable": "Yolov5 PyTorch format underwater life dataset for object detection",
+  "descriptionNullable": "### **Info**\nThe dataset contains 7 classes of underwater creatures with provided bboxes locations for every animal.\nThe dataset is already split into the train, validation, and test sets. \n\n### **Data**\nIt includes 638 images.\n- Creatures are annotated in YOLO v5 PyTorch format\n\n### **Pre-Processing**\nThe following pre-processing was applied to each image:\n- Auto-orientation of pixel data (with EXIF-orientation stripping)\n- Resize to 1024x1024 (Fit within)\n\n----\n#### **classes = ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']**",
+  "datasetId": 1929044,
+  "datasetSlug": "aquarium-data-cots",
+  "hasDatasetSlug": true,
+  "ownerUser": "slavkoprytula",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 16551,
+  "totalVotes": 30,
+  "totalDownloads": 2408,
+  "title": "Underwater Object Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Yolov5 PyTorch format underwater life dataset for object detection",
+  "hasSubtitle": true,
+  "description": "### **Info**\nThe dataset contains 7 classes of underwater creatures with provided bboxes locations for every animal.\nThe dataset is already split into the train, validation, and test sets. \n\n### **Data**\nIt includes 638 images.\n- Creatures are annotated in YOLO v5 PyTorch format\n\n### **Pre-Processing**\nThe following pre-processing was applied to each image:\n- Auto-orientation of pixel data (with EXIF-orientation stripping)\n- Resize to 1024x1024 (Fit within)\n\n----\n#### **classes = ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "water bodies",
+    "earth and nature",
+    "animals",
+    "fish and aquaria",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

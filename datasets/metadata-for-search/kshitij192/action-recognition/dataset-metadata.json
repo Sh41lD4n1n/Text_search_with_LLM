@@ -1,0 +1,51 @@
+{
+  "id": "kshitij192/action-recognition",
+  "id_no": 2082601,
+  "datasetSlugNullable": "action-recognition",
+  "ownerUserNullable": "kshitij192",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Hand Gesture Recognition",
+  "subtitleNullable": "Indian Sign Language",
+  "descriptionNullable": "This dataset is about Indian Sign Language and consists of 50 words each containing 40 videos of 20 frames each.",
+  "datasetId": 2082601,
+  "datasetSlug": "action-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "kshitij192",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1623,
+  "totalVotes": 8,
+  "totalDownloads": 73,
+  "title": "Hand Gesture Recognition",
+  "hasTitle": true,
+  "subtitle": "Indian Sign Language",
+  "hasSubtitle": true,
+  "description": "This dataset is about Indian Sign Language and consists of 50 words each containing 40 videos of 20 frames each.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "india",
+    "lstm",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "rajeev102001",
+      "role": "reader"
+    },
+    {
+      "username": "anandkumarsahu09",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

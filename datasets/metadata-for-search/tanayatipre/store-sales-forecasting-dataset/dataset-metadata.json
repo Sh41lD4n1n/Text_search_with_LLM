@@ -1,0 +1,43 @@
+{
+  "id": "tanayatipre/store-sales-forecasting-dataset",
+  "id_no": 4784430,
+  "datasetSlugNullable": "store-sales-forecasting-dataset",
+  "ownerUserNullable": "tanayatipre",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Store Sales Forecasting Dataset",
+  "subtitleNullable": "From Data to Dollars: Unraveling Store Sales Predictions",
+  "descriptionNullable": "This dataset offers a valuable resource for businesses operating in the retail furniture sector. By analyzing historical sales data from the superstore dataset, users can gain insights into future sales patterns and trends. This information can be utilized to optimize inventory management strategies, anticipate customer demand, and enhance overall operational efficiency. Whether for retail managers, analysts, or data scientists, this dataset provides a foundation for informed decision-making, helping businesses maintain stability and drive sustained growth in the dynamic retail environment.",
+  "datasetId": 4784430,
+  "datasetSlug": "store-sales-forecasting-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanayatipre",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14250,
+  "totalVotes": 50,
+  "totalDownloads": 3264,
+  "title": "Store Sales Forecasting Dataset",
+  "hasTitle": true,
+  "subtitle": "From Data to Dollars: Unraveling Store Sales Predictions",
+  "hasSubtitle": true,
+  "description": "This dataset offers a valuable resource for businesses operating in the retail furniture sector. By analyzing historical sales data from the superstore dataset, users can gain insights into future sales patterns and trends. This information can be utilized to optimize inventory management strategies, anticipate customer demand, and enhance overall operational efficiency. Whether for retail managers, analysts, or data scientists, this dataset provides a foundation for informed decision-making, helping businesses maintain stability and drive sustained growth in the dynamic retail environment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "marketing",
+    "data cleaning",
+    "data visualization",
+    "time series analysis",
+    "graph"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

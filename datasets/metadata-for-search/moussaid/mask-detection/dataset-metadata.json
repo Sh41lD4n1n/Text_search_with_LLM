@@ -1,0 +1,40 @@
+{
+  "id": "moussaid/mask-detection",
+  "id_no": 673927,
+  "datasetSlugNullable": "mask-detection",
+  "ownerUserNullable": "moussaid",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "mask detection",
+  "subtitleNullable": "detect if the person using his mask",
+  "descriptionNullable": "the goal of this dataset is to classify a face if it contains the mask or not.\nthe dataset is collected from google image, it contains two classes of face images, one with mask and the other without.\nin the collection of this dataset, we tried to collect faces, with different colors, with beard and not, and also different ages and different sexes.\nthis dataset can be used to create a deep learning model to automatically classify if or the face contains a mask or not.\nin fact, during the coronavirus period, most companies restart their work, through this model, they can use a small robot with camera which captures images at each period and issue a warning if the person does not use the mask.\n\n",
+  "datasetId": 673927,
+  "datasetSlug": "mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "moussaid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4824,
+  "totalVotes": 12,
+  "totalDownloads": 315,
+  "title": "mask detection",
+  "hasTitle": true,
+  "subtitle": "detect if the person using his mask",
+  "hasSubtitle": true,
+  "description": "the goal of this dataset is to classify a face if it contains the mask or not.\nthe dataset is collected from google image, it contains two classes of face images, one with mask and the other without.\nin the collection of this dataset, we tried to collect faces, with different colors, with beard and not, and also different ages and different sexes.\nthis dataset can be used to create a deep learning model to automatically classify if or the face contains a mask or not.\nin fact, during the coronavirus period, most companies restart their work, through this model, they can use a small robot with camera which captures images at each period and issue a warning if the person does not use the mask.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

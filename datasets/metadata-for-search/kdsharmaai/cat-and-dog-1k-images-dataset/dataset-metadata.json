@@ -1,0 +1,40 @@
+{
+  "id": "kdsharmaai/cat-and-dog-1k-images-dataset",
+  "id_no": 1615173,
+  "datasetSlugNullable": "cat-and-dog-1k-images-dataset",
+  "ownerUserNullable": "kdsharmaai",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Cat and Dog - 3000+ Images - Classified",
+  "subtitleNullable": "Cat and Dog Images In Separate Folder",
+  "descriptionNullable": "Cat and Dog images contain 3000+ images in separate folder\n\nCan be useful to train and test model for image classification\n\n***Credit goes to below competition, from there data referred and separated in different folder.***\nhttps://www.kaggle.com/c/petfinder-pawpularity-score/overview\n",
+  "datasetId": 1615173,
+  "datasetSlug": "cat-and-dog-1k-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kdsharmaai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3368,
+  "totalVotes": 13,
+  "totalDownloads": 219,
+  "title": "Cat and Dog - 3000+ Images - Classified",
+  "hasTitle": true,
+  "subtitle": "Cat and Dog Images In Separate Folder",
+  "hasSubtitle": true,
+  "description": "Cat and Dog images contain 3000+ images in separate folder\n\nCan be useful to train and test model for image classification\n\n***Credit goes to below competition, from there data referred and separated in different folder.***\nhttps://www.kaggle.com/c/petfinder-pawpularity-score/overview\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

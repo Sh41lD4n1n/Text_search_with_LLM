@@ -1,0 +1,42 @@
+{
+  "id": "sudalairajkumar/tamil-nlp",
+  "id_no": 134745,
+  "datasetSlugNullable": "tamil-nlp",
+  "ownerUserNullable": "sudalairajkumar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tamil NLP",
+  "subtitleNullable": "Datasets for Natural Language Processing in Tamil",
+  "descriptionNullable": "### Context\n\n[Indic NLP][1] - Natural Language Processing for Indian Languages. \n\nThis dataset is a step towards the same for tamil language. Thanks for Malaikannan for the initiative and Selva for getting the data from websites. The idea is to add more datasets related to Tamil NLP at a single place. \n\n\n### Content\n\nThe dataset has the following files. \n\n**Tamil News Classficaition**\n\nThis dataset has 14521 rows for training and 3631 rows for testing. It has 6 news categories - \"tamilnadu\", \"india\", \"cinema\", \"sports\", \"politics\", \"world\". The data is obtained from [this link][2]\n\n* tamil_news_train.csv - Train dataset for tamil news classification. \n* tamil_news_test.csv - Test dataset for tamil news classification\n\n**Tamil Movie Review Dataset**\n\nThis dataset has 480 training samples and 121 testing samples. It has the review text in tamil and ratings between 1 to 5. The data is obtained from [this link][3]\n\n* tamil_movie_reviews_train.csv - Train dataset for tamil movie reviews\n* tamil_movie_reviews_test.csv - Test dataset for tamil movie reviews\n\n**Thirukkural Dataset**\n\nFrom Wikipedia, *The Tirukkural, or shortly the Kural, is a classic Tamil text consisting of 1,330 couplets or Kurals, dealing with the everyday virtues of an individual. It is one of the two oldest works now extant in Tamil literature.*\n\nI have split the data into train and test and we can use the kural and / or the explanations to predict the three parts - aram (virtue), porul (polity) and inbam (love). The dataset is obtained from [this link][4].\n\n* tamil_thirukkural_train - train dataset having 1064 rows\n* tamil_thirukkural_test - test dataset having 266 rows\n\nWill add more datasets in the following versions.\n\n### Acknowledgements\n\nMy sincere thanks to :  \n\n* Malaikannan for starting this initiative\n* Selvakumar for getting the data \n* Vijay Anand for the Thirukkural data\n\n\n### Inspiration\n\nSome questions which can be answered are\n\n1. Can we do text classification for Tamil languages and get good accuracies similar to other languages?\n2. How does the Language models do for Tamil?\n\nAnd lot more interesting questions to be answered. \n\nCheckout [this link][5] to find similar and dissimilar words for Tamil.\n\n\n  [1]: https://indicnlp.github.io/\n  [2]: https://github.com/vanangamudi/tamil-news-classification/tree/master/dataset/news\n  [3]: https://github.com/vanangamudi/tamil-news-classification/tree/master/dataset/filmreviews\n  [4]: https://github.com/vijayanandrp/Thirukkural-Tamil-Dataset\n  [5]: http://w2v.kaatchi.cheyyarivu.org/",
+  "datasetId": 134745,
+  "datasetSlug": "tamil-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudalairajkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 40662,
+  "totalVotes": 130,
+  "totalDownloads": 2515,
+  "title": "Tamil NLP",
+  "hasTitle": true,
+  "subtitle": "Datasets for Natural Language Processing in Tamil",
+  "hasSubtitle": true,
+  "description": "### Context\n\n[Indic NLP][1] - Natural Language Processing for Indian Languages. \n\nThis dataset is a step towards the same for tamil language. Thanks for Malaikannan for the initiative and Selva for getting the data from websites. The idea is to add more datasets related to Tamil NLP at a single place. \n\n\n### Content\n\nThe dataset has the following files. \n\n**Tamil News Classficaition**\n\nThis dataset has 14521 rows for training and 3631 rows for testing. It has 6 news categories - \"tamilnadu\", \"india\", \"cinema\", \"sports\", \"politics\", \"world\". The data is obtained from [this link][2]\n\n* tamil_news_train.csv - Train dataset for tamil news classification. \n* tamil_news_test.csv - Test dataset for tamil news classification\n\n**Tamil Movie Review Dataset**\n\nThis dataset has 480 training samples and 121 testing samples. It has the review text in tamil and ratings between 1 to 5. The data is obtained from [this link][3]\n\n* tamil_movie_reviews_train.csv - Train dataset for tamil movie reviews\n* tamil_movie_reviews_test.csv - Test dataset for tamil movie reviews\n\n**Thirukkural Dataset**\n\nFrom Wikipedia, *The Tirukkural, or shortly the Kural, is a classic Tamil text consisting of 1,330 couplets or Kurals, dealing with the everyday virtues of an individual. It is one of the two oldest works now extant in Tamil literature.*\n\nI have split the data into train and test and we can use the kural and / or the explanations to predict the three parts - aram (virtue), porul (polity) and inbam (love). The dataset is obtained from [this link][4].\n\n* tamil_thirukkural_train - train dataset having 1064 rows\n* tamil_thirukkural_test - test dataset having 266 rows\n\nWill add more datasets in the following versions.\n\n### Acknowledgements\n\nMy sincere thanks to :  \n\n* Malaikannan for starting this initiative\n* Selvakumar for getting the data \n* Vijay Anand for the Thirukkural data\n\n\n### Inspiration\n\nSome questions which can be answered are\n\n1. Can we do text classification for Tamil languages and get good accuracies similar to other languages?\n2. How does the Language models do for Tamil?\n\nAnd lot more interesting questions to be answered. \n\nCheckout [this link][5] to find similar and dissimilar words for Tamil.\n\n\n  [1]: https://indicnlp.github.io/\n  [2]: https://github.com/vanangamudi/tamil-news-classification/tree/master/dataset/news\n  [3]: https://github.com/vanangamudi/tamil-news-classification/tree/master/dataset/filmreviews\n  [4]: https://github.com/vijayanandrp/Thirukkural-Tamil-Dataset\n  [5]: http://w2v.kaatchi.cheyyarivu.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "literature",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

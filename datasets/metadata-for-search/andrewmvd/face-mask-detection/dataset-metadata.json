@@ -1,0 +1,44 @@
+{
+  "id": "andrewmvd/face-mask-detection",
+  "id_no": 667889,
+  "datasetSlugNullable": "face-mask-detection",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Face Mask Detection",
+  "subtitleNullable": "853 images belonging to 3 classes.",
+  "descriptionNullable": "# Preview\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fd0744f78b0471c0605b98debd7b2d88d%2FUntitled.png?generation=1590132045583855&alt=media)\n\n# About this Data\n&gt; Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions available for COVID-19 in the absence of immunization. With this dataset, it is possible to create a model to detect people wearing masks, not wearing them, or wearing masks improperly.\nThis dataset contains **853** images belonging to the **3** classes, as well as their bounding boxes in the PASCAL VOC format.\nThe classes are:\n- With mask;\n- Without mask;\n- Mask worn incorrectly.\n\n\n\n# How to Use this Data\n&gt; ### Suggested Notebooks\n- [Pytorch FasterRCNN](https://www.kaggle.com/daniel601/pytorch-fasterrcnn) by [Daniel](https://www.kaggle.com/daniel601)\n&gt; ### More Datasets\nFor more datasets, click [here](https://www.kaggle.com/andrewmvd/datasets).\n\n# How to Cite this Dataset\nIf you use this dataset, please credit the authors\n\n### BibTeX\n&gt; @misc{make ml,\n                title={Mask Dataset},\n                url={https://makeml.app/datasets/mask},\n                journal={Make ML}\n                }\n\n\n### License\n&gt; Public Domain\n\n### Splash Banner\n&gt; Photo by engin akyurt on [Unsplash](https://unsplash.com/photos/AS-ksEGPa2c)\n\n\n",
+  "datasetId": 667889,
+  "datasetSlug": "face-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 657946,
+  "totalVotes": 1752,
+  "totalDownloads": 80257,
+  "title": "Face Mask Detection",
+  "hasTitle": true,
+  "subtitle": "853 images belonging to 3 classes.",
+  "hasSubtitle": true,
+  "description": "# Preview\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fd0744f78b0471c0605b98debd7b2d88d%2FUntitled.png?generation=1590132045583855&alt=media)\n\n# About this Data\n&gt; Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions available for COVID-19 in the absence of immunization. With this dataset, it is possible to create a model to detect people wearing masks, not wearing them, or wearing masks improperly.\nThis dataset contains **853** images belonging to the **3** classes, as well as their bounding boxes in the PASCAL VOC format.\nThe classes are:\n- With mask;\n- Without mask;\n- Mask worn incorrectly.\n\n\n\n# How to Use this Data\n&gt; ### Suggested Notebooks\n- [Pytorch FasterRCNN](https://www.kaggle.com/daniel601/pytorch-fasterrcnn) by [Daniel](https://www.kaggle.com/daniel601)\n&gt; ### More Datasets\nFor more datasets, click [here](https://www.kaggle.com/andrewmvd/datasets).\n\n# How to Cite this Dataset\nIf you use this dataset, please credit the authors\n\n### BibTeX\n&gt; @misc{make ml,\n                title={Mask Dataset},\n                url={https://makeml.app/datasets/mask},\n                journal={Make ML}\n                }\n\n\n### License\n&gt; Public Domain\n\n### Splash Banner\n&gt; Photo by engin akyurt on [Unsplash](https://unsplash.com/photos/AS-ksEGPa2c)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "education",
+    "computer vision",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

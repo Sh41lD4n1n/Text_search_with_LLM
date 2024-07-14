@@ -1,0 +1,43 @@
+{
+  "id": "ikarus777/best-artworks-of-all-time",
+  "id_no": 130081,
+  "datasetSlugNullable": "best-artworks-of-all-time",
+  "ownerUserNullable": "ikarus777",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Best Artworks of All Time",
+  "subtitleNullable": "Collection of Paintings of the 50 Most Influential Artists of All Time",
+  "descriptionNullable": "### Context\n\nAfter being challenged many times by my girlfriend about who is the best to guess the painter, I decided to use the power of machine learning to defeat her.\nI gathered a collection of artworks of the 50 most influential artists of all time. I added a dataset with basic information retrieved from wikipedia. I planned to create a convolutional neural network to recognise the artists looking the colors  used and the geometric patterns inside the pictures.\n\n### Content\n\nThis dataset contains three files:\n\n- **artists.csv**: dataset of information for each artist\n- **images.zip**: collection of images (full size), divided in folders and sequentially numbered\n- **resized.zip**: same collection but images have been resized and extracted from folder structure\n\nUse *resized.zip* allows you to download less data and process faster your model. \n\n### Acknowledgements\n\nThe data was scraped from [artchallenge.ru][1] during the end of February 2019.\n\n### Inspiration\n\nMy goal is to create a model that learn to identify the artist analysing new pictures. I hope to learn new techniques from public kernels or see some interesting usage of this data.\n\n\n  [1]: http://artchallenge.ru/?lang=en",
+  "datasetId": 130081,
+  "datasetSlug": "best-artworks-of-all-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "ikarus777",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 209733,
+  "totalVotes": 998,
+  "totalDownloads": 33475,
+  "title": "Best Artworks of All Time",
+  "hasTitle": true,
+  "subtitle": "Collection of Paintings of the 50 Most Influential Artists of All Time",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAfter being challenged many times by my girlfriend about who is the best to guess the painter, I decided to use the power of machine learning to defeat her.\nI gathered a collection of artworks of the 50 most influential artists of all time. I added a dataset with basic information retrieved from wikipedia. I planned to create a convolutional neural network to recognise the artists looking the colors  used and the geometric patterns inside the pictures.\n\n### Content\n\nThis dataset contains three files:\n\n- **artists.csv**: dataset of information for each artist\n- **images.zip**: collection of images (full size), divided in folders and sequentially numbered\n- **resized.zip**: same collection but images have been resized and extracted from folder structure\n\nUse *resized.zip* allows you to download less data and process faster your model. \n\n### Acknowledgements\n\nThe data was scraped from [artchallenge.ru][1] during the end of February 2019.\n\n### Inspiration\n\nMy goal is to create a model that learn to identify the artist analysing new pictures. I hope to learn new techniques from public kernels or see some interesting usage of this data.\n\n\n  [1]: http://artchallenge.ru/?lang=en",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "computer science",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

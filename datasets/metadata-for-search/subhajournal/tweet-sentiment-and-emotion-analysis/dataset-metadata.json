@@ -1,0 +1,43 @@
+{
+  "id": "subhajournal/tweet-sentiment-and-emotion-analysis",
+  "id_no": 1601762,
+  "datasetSlugNullable": "tweet-sentiment-and-emotion-analysis",
+  "ownerUserNullable": "subhajournal",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Tweet Sentiment and Emotion Analysis",
+  "subtitleNullable": "Detection of Tweet Sentiments and Emotions ",
+  "descriptionNullable": "",
+  "datasetId": 1601762,
+  "datasetSlug": "tweet-sentiment-and-emotion-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "subhajournal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4889,
+  "totalVotes": 9,
+  "totalDownloads": 510,
+  "title": "Tweet Sentiment and Emotion Analysis",
+  "hasTitle": true,
+  "subtitle": "Detection of Tweet Sentiments and Emotions ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "deep learning",
+    "tabular",
+    "multiclass classification",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Affero General Public License 3.0",
+      "name": "GNU Affero General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

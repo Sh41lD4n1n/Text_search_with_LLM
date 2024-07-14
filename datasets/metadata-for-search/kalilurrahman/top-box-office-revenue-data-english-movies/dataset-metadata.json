@@ -1,0 +1,44 @@
+{
+  "id": "kalilurrahman/top-box-office-revenue-data-english-movies",
+  "id_no": 1957321,
+  "datasetSlugNullable": "top-box-office-revenue-data-english-movies",
+  "ownerUserNullable": "kalilurrahman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top Box Office Revenue Data - English Movies",
+  "subtitleNullable": "Top Box Office Data for US and International revenues across franchise, genre",
+  "descriptionNullable": "#Top Box Office Mojo Movie revenue gross\n\nData Screenscraped from BoxOffice Mojo \n\nIncludes \n1. Top Brand Indices\n2. Top Franchises\n3. Top 1000 international grossing movies\n4. Top 1000 US Grossing Movies\n5. Top Genres\n \n\nInfo from Wiki\n\nFilms generate income from several revenue streams, including theatrical exhibition, home video, television broadcast rights, and merchandising. However, theatrical box office earnings are the primary metric for trade publications in assessing the success of a film, mostly because of the availability of the data compared to sales figures for home video and broadcast rights, but also because of historical practice. Included on the list are charts of the top box-office earners (ranked by both the nominal and real value of their revenue), a chart of high-grossing films by calendar year, a timeline showing the transition of the highest-grossing film record, and a chart of the highest-grossing film franchises and series. All charts are ranked by international theatrical box-office performance where possible, excluding income derived from home video, broadcasting rights, and merchandise.\n\nTraditionally, war films, musicals, and historical dramas have been the most popular genres, but franchise films have been among the best performers of the 21st century. There is strong interest in the superhero genre, with ten films in the Marvel Cinematic Universe featuring among the nominal top-earners. The most successful superhero film, Avengers: Endgame, is also the second-highest-grossing film on the nominal earnings chart, and there are four films in total based on the Avengers comic books charting in the top twenty. Other Marvel Comics adaptations have also had success with the Spider-Man and X-Men properties, while films based on Batman and Superman from DC Comics have generally performed well. Star Wars is also represented in the nominal earnings chart with five films, while the Harry Potter, Jurassic Park and Pirates of the Caribbean franchises feature prominently. Although the nominal earnings chart is dominated by films adapted from pre-existing properties and sequels, it is headed by Avatar, which is an original work. Animated family films have performed consistently well, with Disney films enjoying lucrative re-releases prior to the home-video era. Disney also enjoyed later success with films such as Frozen I and II, Zootopia, and The Lion King (with its computer-animated remake as the highest-grossing animated film), as well as its Pixar brand, of which Incredibles 2, Toy Story 3 and 4, and Finding Dory have been the best performers. Beyond Disney and Pixar animation, the Despicable Me, Shrek, and Ice Age series have met with the most success.\n\n",
+  "datasetId": 1957321,
+  "datasetSlug": "top-box-office-revenue-data-english-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "kalilurrahman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23984,
+  "totalVotes": 73,
+  "totalDownloads": 3536,
+  "title": "Top Box Office Revenue Data - English Movies",
+  "hasTitle": true,
+  "subtitle": "Top Box Office Data for US and International revenues across franchise, genre",
+  "hasSubtitle": true,
+  "description": "#Top Box Office Mojo Movie revenue gross\n\nData Screenscraped from BoxOffice Mojo \n\nIncludes \n1. Top Brand Indices\n2. Top Franchises\n3. Top 1000 international grossing movies\n4. Top 1000 US Grossing Movies\n5. Top Genres\n \n\nInfo from Wiki\n\nFilms generate income from several revenue streams, including theatrical exhibition, home video, television broadcast rights, and merchandising. However, theatrical box office earnings are the primary metric for trade publications in assessing the success of a film, mostly because of the availability of the data compared to sales figures for home video and broadcast rights, but also because of historical practice. Included on the list are charts of the top box-office earners (ranked by both the nominal and real value of their revenue), a chart of high-grossing films by calendar year, a timeline showing the transition of the highest-grossing film record, and a chart of the highest-grossing film franchises and series. All charts are ranked by international theatrical box-office performance where possible, excluding income derived from home video, broadcasting rights, and merchandise.\n\nTraditionally, war films, musicals, and historical dramas have been the most popular genres, but franchise films have been among the best performers of the 21st century. There is strong interest in the superhero genre, with ten films in the Marvel Cinematic Universe featuring among the nominal top-earners. The most successful superhero film, Avengers: Endgame, is also the second-highest-grossing film on the nominal earnings chart, and there are four films in total based on the Avengers comic books charting in the top twenty. Other Marvel Comics adaptations have also had success with the Spider-Man and X-Men properties, while films based on Batman and Superman from DC Comics have generally performed well. Star Wars is also represented in the nominal earnings chart with five films, while the Harry Potter, Jurassic Park and Pirates of the Caribbean franchises feature prominently. Although the nominal earnings chart is dominated by films adapted from pre-existing properties and sequels, it is headed by Avatar, which is an original work. Animated family films have performed consistently well, with Disney films enjoying lucrative re-releases prior to the home-video era. Disney also enjoyed later success with films such as Frozen I and II, Zootopia, and The Lion King (with its computer-animated remake as the highest-grossing animated film), as well as its Pixar brand, of which Incredibles 2, Toy Story 3 and 4, and Finding Dory have been the best performers. Beyond Disney and Pixar animation, the Despicable Me, Shrek, and Ice Age series have met with the most success.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "business",
+    "beginner",
+    "tabular",
+    "comics and animation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

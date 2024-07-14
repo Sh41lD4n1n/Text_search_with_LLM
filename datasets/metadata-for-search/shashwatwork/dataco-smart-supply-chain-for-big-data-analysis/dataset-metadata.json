@@ -1,0 +1,40 @@
+{
+  "id": "shashwatwork/dataco-smart-supply-chain-for-big-data-analysis",
+  "id_no": 435331,
+  "datasetSlugNullable": "dataco-smart-supply-chain-for-big-data-analysis",
+  "ownerUserNullable": "shashwatwork",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS",
+  "subtitleNullable": " SUPPLY CHAIN FOR BIG DATA ANALYSIS",
+  "descriptionNullable": "### Content\n\nA DataSet of Supply Chains used by the company DataCo Global was used for the analysis. Dataset of Supply Chain , which allows the use of Machine Learning Algorithms and R Software.\nAreas of important registered activities : Provisioning , Production , Sales , Commercial Distribution.It also allows the correlation of Structured Data with Unstructured Data for knowledge generation.\n\nType Data :\nStructured Data : DataCoSupplyChainDataset.csv\nUnstructured Data : tokenized_access_logs.csv (Clickstream)\n\nTypes of Products : Clothing , Sports , and Electronic Supplies\n\nAdditionally it is attached in another file called DescriptionDataCoSupplyChain.csv, the description of each of the variables of the DataCoSupplyChainDatasetc.csv.\n\n\n### Acknowledgements & Source\nFabian Constante,\n\nFabian Constante\nInstituto Politecnico de Leiria Escola Superior de Tecnologia e Gestao\nContribution: Master interested in topics related to Big Data\n Fernando Silva, Ant\u00f3nio Pereira\n\nhttps://data.mendeley.com/datasets/8gx2fvg2k6/5\n",
+  "datasetId": 435331,
+  "datasetSlug": "dataco-smart-supply-chain-for-big-data-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "shashwatwork",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 244066,
+  "totalVotes": 251,
+  "totalDownloads": 26124,
+  "title": "DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS",
+  "hasTitle": true,
+  "subtitle": " SUPPLY CHAIN FOR BIG DATA ANALYSIS",
+  "hasSubtitle": true,
+  "description": "### Content\n\nA DataSet of Supply Chains used by the company DataCo Global was used for the analysis. Dataset of Supply Chain , which allows the use of Machine Learning Algorithms and R Software.\nAreas of important registered activities : Provisioning , Production , Sales , Commercial Distribution.It also allows the correlation of Structured Data with Unstructured Data for knowledge generation.\n\nType Data :\nStructured Data : DataCoSupplyChainDataset.csv\nUnstructured Data : tokenized_access_logs.csv (Clickstream)\n\nTypes of Products : Clothing , Sports , and Electronic Supplies\n\nAdditionally it is attached in another file called DescriptionDataCoSupplyChain.csv, the description of each of the variables of the DataCoSupplyChainDatasetc.csv.\n\n\n### Acknowledgements & Source\nFabian Constante,\n\nFabian Constante\nInstituto Politecnico de Leiria Escola Superior de Tecnologia e Gestao\nContribution: Master interested in topics related to Big Data\n Fernando Silva, Ant\u00f3nio Pereira\n\nhttps://data.mendeley.com/datasets/8gx2fvg2k6/5\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

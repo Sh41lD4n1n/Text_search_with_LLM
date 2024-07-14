@@ -1,0 +1,41 @@
+{
+  "id": "jessicali9530/stanford-dogs-dataset",
+  "id_no": 119698,
+  "datasetSlugNullable": "stanford-dogs-dataset",
+  "ownerUserNullable": "jessicali9530",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Stanford Dogs Dataset",
+  "subtitleNullable": "Over 20,000 images of 120 dog breeds",
+  "descriptionNullable": "### Context\nThe Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. It was originally collected for fine-grain image categorization, a challenging problem as certain dog breeds have near identical features or differ in colour and age.\n\n### Content\n\n- Number of categories: 120\n- Number of images: 20,580\n- Annotations: Class labels, Bounding boxes\n\n### Acknowledgements\nThe original data source is found on http://vision.stanford.edu/aditya86/ImageNetDogs/ and contains additional information on the train/test splits and baseline results.\n\nIf you use this dataset in a publication, please cite the dataset on the following papers:\n\n Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.  [pdf]  [poster]  [BibTex]\n\nSecondary:\n  J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li and L. Fei-Fei, ImageNet: A Large-Scale Hierarchical Image Database. IEEE Computer Vision and Pattern Recognition (CVPR), 2009.  [pdf]  [BibTex]\n\n[Banner Image from Hannah Lim on Unsplash][1]\n\n### Inspiration\n- Can you correctly identify dog breeds that have similar features, such as the basset hound and bloodhound?\n- Is this chihuahua young or old?\n\n\n  [1]: https://unsplash.com/photos/U6nlG0Y5sfs",
+  "datasetId": 119698,
+  "datasetSlug": "stanford-dogs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jessicali9530",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 445101,
+  "totalVotes": 1008,
+  "totalDownloads": 49714,
+  "title": "Stanford Dogs Dataset",
+  "hasTitle": true,
+  "subtitle": "Over 20,000 images of 120 dog breeds",
+  "hasSubtitle": true,
+  "description": "### Context\nThe Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. It was originally collected for fine-grain image categorization, a challenging problem as certain dog breeds have near identical features or differ in colour and age.\n\n### Content\n\n- Number of categories: 120\n- Number of images: 20,580\n- Annotations: Class labels, Bounding boxes\n\n### Acknowledgements\nThe original data source is found on http://vision.stanford.edu/aditya86/ImageNetDogs/ and contains additional information on the train/test splits and baseline results.\n\nIf you use this dataset in a publication, please cite the dataset on the following papers:\n\n Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.  [pdf]  [poster]  [BibTex]\n\nSecondary:\n  J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li and L. Fei-Fei, ImageNet: A Large-Scale Hierarchical Image Database. IEEE Computer Vision and Pattern Recognition (CVPR), 2009.  [pdf]  [BibTex]\n\n[Banner Image from Hannah Lim on Unsplash][1]\n\n### Inspiration\n- Can you correctly identify dog breeds that have similar features, such as the basset hound and bloodhound?\n- Is this chihuahua young or old?\n\n\n  [1]: https://unsplash.com/photos/U6nlG0Y5sfs",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

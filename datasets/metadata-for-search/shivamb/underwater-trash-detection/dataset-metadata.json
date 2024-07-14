@@ -1,0 +1,43 @@
+{
+  "id": "shivamb/underwater-trash-detection",
+  "id_no": 1792581,
+  "datasetSlugNullable": "underwater-trash-detection",
+  "ownerUserNullable": "shivamb",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Underwater Trash Detection",
+  "subtitleNullable": "A Bounding Box Labeled Dataset of Underwater Trash",
+  "descriptionNullable": "### About this Dataset: Underwater Trash Detection\n\nThis data was sourced from the J-EDI dataset of marine debris. The videos that comprise that dataset vary greatly in quality, depth, objects in scenes, and the cameras used. They contain images of many different types of marine debris, captured from real-world environments, providing a variety of objects in different states of decay, occlusion, and overgrowth. Additionally, the clarity of the water and quality of the light vary significantly from video to video. These videos were processed to extract 5,700 images, which comprise this dataset, all labeled with bounding boxes on instances of trash, biological objects such as plants and animals, and ROVs. The eventual goal is to develop efficient and accurate trash detection methods suitable for onboard robot deployment. It is our hope that the release of this dataset will facilitate further research on this challenging problem, bringing the marine robotics community closer to a solution for the urgent problem of autonomous trash detection and removal.\n\n### Acknowledgements\n\nM. Fulton, J. Hong, M. J. Islam, and J. Sattar, \"Robotic Detection of Marine Litter Using Deep Visual Detection Models,\" 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 5752-5758\nhttps://doi.org/10.1109/ICRA.2019.8793975\n\nCitation: \n\nFulton, Michael S; Hong, Jungseok; Sattar, Junaed. (2020). Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash. Retrieved from the Data Repository for the University of Minnesota, https://doi.org/10.13020/x0qn-y082.\n",
+  "datasetId": 1792581,
+  "datasetSlug": "underwater-trash-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 12684,
+  "totalVotes": 46,
+  "totalDownloads": 1006,
+  "title": "Underwater Trash Detection",
+  "hasTitle": true,
+  "subtitle": "A Bounding Box Labeled Dataset of Underwater Trash",
+  "hasSubtitle": true,
+  "description": "### About this Dataset: Underwater Trash Detection\n\nThis data was sourced from the J-EDI dataset of marine debris. The videos that comprise that dataset vary greatly in quality, depth, objects in scenes, and the cameras used. They contain images of many different types of marine debris, captured from real-world environments, providing a variety of objects in different states of decay, occlusion, and overgrowth. Additionally, the clarity of the water and quality of the light vary significantly from video to video. These videos were processed to extract 5,700 images, which comprise this dataset, all labeled with bounding boxes on instances of trash, biological objects such as plants and animals, and ROVs. The eventual goal is to develop efficient and accurate trash detection methods suitable for onboard robot deployment. It is our hope that the release of this dataset will facilitate further research on this challenging problem, bringing the marine robotics community closer to a solution for the urgent problem of autonomous trash detection and removal.\n\n### Acknowledgements\n\nM. Fulton, J. Hong, M. J. Islam, and J. Sattar, \"Robotic Detection of Marine Litter Using Deep Visual Detection Models,\" 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 5752-5758\nhttps://doi.org/10.1109/ICRA.2019.8793975\n\nCitation: \n\nFulton, Michael S; Hong, Jungseok; Sattar, Junaed. (2020). Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash. Retrieved from the Data Repository for the University of Minnesota, https://doi.org/10.13020/x0qn-y082.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "water bodies",
+    "earth and nature",
+    "weather and climate",
+    "image",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

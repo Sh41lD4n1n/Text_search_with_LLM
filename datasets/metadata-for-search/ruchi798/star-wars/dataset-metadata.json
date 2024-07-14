@@ -1,0 +1,40 @@
+{
+  "id": "ruchi798/star-wars",
+  "id_no": 826031,
+  "datasetSlugNullable": "star-wars",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Star Wars Social Network",
+  "subtitleNullable": "Interactions and mentions",
+  "descriptionNullable": "### Context\n\nStar Wars is a science-fiction franchise comprising movies, books, comics, video games, toys, live action shows, and animated shows. It is a fictional universe created by George Lucas. The Star Wars story employs archetypal motifs common to science fiction, political climax and classical mythology, as well as musical motifs of those aspects. As one of the foremost examples of the space opera sub genre of science fiction, Star Wars has become part of mainstream popular culture, as well as being one of the highest-grossing series of all time.\n\nThis dataset contains the social network of Star Wars characters extracted from the movie scripts. If two characters speak together within the same scene, they have been connected. \n\n### Content\n\n- starwars-episode-N-interactions.json contains the social network extracted from Episode N, where the links between characters are defined by the times the characters speak within the same scene.\n\n- starwars-episode-N-mentions.json contains the social network extracted from Episode N, where the links between characters are defined by the times the characters are mentioned within the same scene.\n\n- starwars-episode-N-interactions-allCharacters.json is the interactions network with R2-D2 and Chewbacca added in using data from mentions network.\n\n- starwars-full-... contain the corresponding social networks for the whole set of 6 episodes.\n\nNodes\n- name: Name of the character\n- value: Number of scenes the character appeared in\n- colour: Colour in the visualization\n\nLinks represent connections between characters\n- source: zero-based index of the character that is one end of the link, the order of nodes is the order in which they are listed in the \u201cnodes\u201d element\n- target: zero-based index of the character that is the the other end of the link.\n- value: Number of scenes where the \u201csource character\u201d and \u201ctarget character\u201d of the link appeared together. \n\nThe network is undirected and which character represents the source and the target is arbitrary, they correspond only to two ends of the link.\n",
+  "datasetId": 826031,
+  "datasetSlug": "star-wars",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 22608,
+  "totalVotes": 110,
+  "totalDownloads": 2196,
+  "title": "Star Wars Social Network",
+  "hasTitle": true,
+  "subtitle": "Interactions and mentions",
+  "hasSubtitle": true,
+  "description": "### Context\n\nStar Wars is a science-fiction franchise comprising movies, books, comics, video games, toys, live action shows, and animated shows. It is a fictional universe created by George Lucas. The Star Wars story employs archetypal motifs common to science fiction, political climax and classical mythology, as well as musical motifs of those aspects. As one of the foremost examples of the space opera sub genre of science fiction, Star Wars has become part of mainstream popular culture, as well as being one of the highest-grossing series of all time.\n\nThis dataset contains the social network of Star Wars characters extracted from the movie scripts. If two characters speak together within the same scene, they have been connected. \n\n### Content\n\n- starwars-episode-N-interactions.json contains the social network extracted from Episode N, where the links between characters are defined by the times the characters speak within the same scene.\n\n- starwars-episode-N-mentions.json contains the social network extracted from Episode N, where the links between characters are defined by the times the characters are mentioned within the same scene.\n\n- starwars-episode-N-interactions-allCharacters.json is the interactions network with R2-D2 and Chewbacca added in using data from mentions network.\n\n- starwars-full-... contain the corresponding social networks for the whole set of 6 episodes.\n\nNodes\n- name: Name of the character\n- value: Number of scenes the character appeared in\n- colour: Colour in the visualization\n\nLinks represent connections between characters\n- source: zero-based index of the character that is one end of the link, the order of nodes is the order in which they are listed in the \u201cnodes\u201d element\n- target: zero-based index of the character that is the the other end of the link.\n- value: Number of scenes where the \u201csource character\u201d and \u201ctarget character\u201d of the link appeared together. \n\nThe network is undirected and which character represents the source and the target is arbitrary, they correspond only to two ends of the link.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

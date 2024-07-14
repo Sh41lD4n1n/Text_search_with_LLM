@@ -1,0 +1,39 @@
+{
+  "id": "parthdevrani/fake-news-detection",
+  "id_no": 2924051,
+  "datasetSlugNullable": "fake-news-detection",
+  "ownerUserNullable": "parthdevrani",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake News Detection ",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2924051,
+  "datasetSlug": "fake-news-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "parthdevrani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 568,
+  "totalVotes": 5,
+  "totalDownloads": 59,
+  "title": "Fake News Detection ",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

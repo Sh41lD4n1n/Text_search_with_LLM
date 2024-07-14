@@ -1,0 +1,43 @@
+{
+  "id": "harsha547/ipldatabase",
+  "id_no": 556,
+  "datasetSlugNullable": "ipldatabase",
+  "ownerUserNullable": "harsha547",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Indian Premier League SQLite Database",
+  "subtitleNullable": "577 matches, players & teams attributes for Indian Premier League Database",
+  "descriptionNullable": "**Indian Premier League Database for Data Analysis.**\n-----------------------------------------------------\n\n**[CSV Version for the same Dataset][1]**\n-----------------------------------------\n\n# Context \n\n <ul> \u25ba 577 matches </ul>\n  <ul> \u25ba 469 Players </ul>\n  <ul> \u25ba Seasons 2008 to 2016 </ul>\n   <ul> \u25ba Detailed Player Details (Player_DOB, Player_Batting_Style,Player_Bowling_Style, etc...) for 469 players. </ul>\n  <ul> \u25ba Detailed match events (Toss,Stadium, Date of the match, Who captained the match, who was the keeper,    Extras, etc...) for 577 matches. </ul>\n\n[**Example SQL Queries on IPL Database**][2]\n\n[**Microsoft SQL Server Version** ][3]\n\n[**Database Diagram**][4]\n\n# Content :\n\nDataset includes 21 includes as mentioned below. Some tables created intentionally to practice SQL Queries. You can use Boolean values in some situations instead of joining tables like Toss_Table\n\n![Indian Premier League Database Diagram][5]\n\n# Acknowledgements : \n\n  Thanks to stackoverflow community\n\n  \n# Inspiration\n\n  Aim is to provide the database for all the Indian Premier League matches. where people can run their own queries to analyze the data. \n\nSome of the analysis we most often heard in TV commentary are below.\n\n  - Dhoni's Strike rate against Left-ball spinners.    \n\n - What will be the result percentage when team lost more than three wickets in powerplay.\n\n\nBelow are the some websites where you can find inspiration for your analysis.\n\n[Knoema Cricket Analysis][6]\n\n[Pandimi Cricket Analysis][7]\n\n\n  [1]: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset\n  [2]: https://gist.github.com/harsha547?page=1\n  [3]: https://data.world/harsha547/ipl-sql-server-version\n  [4]: http://i.imgur.com/327NVKH.png\n  [5]: http://i.imgur.com/327NVKH.png\n  [6]: https://knoema.com/insights/cricket\n  [7]: https://pandimi.wordpress.com/tag/ipl/",
+  "datasetId": 556,
+  "datasetSlug": "ipldatabase",
+  "hasDatasetSlug": true,
+  "ownerUser": "harsha547",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 47537,
+  "totalVotes": 73,
+  "totalDownloads": 5081,
+  "title": "Indian Premier League SQLite Database",
+  "hasTitle": true,
+  "subtitle": "577 matches, players & teams attributes for Indian Premier League Database",
+  "hasSubtitle": true,
+  "description": "**Indian Premier League Database for Data Analysis.**\n-----------------------------------------------------\n\n**[CSV Version for the same Dataset][1]**\n-----------------------------------------\n\n# Context \n\n <ul> \u25ba 577 matches </ul>\n  <ul> \u25ba 469 Players </ul>\n  <ul> \u25ba Seasons 2008 to 2016 </ul>\n   <ul> \u25ba Detailed Player Details (Player_DOB, Player_Batting_Style,Player_Bowling_Style, etc...) for 469 players. </ul>\n  <ul> \u25ba Detailed match events (Toss,Stadium, Date of the match, Who captained the match, who was the keeper,    Extras, etc...) for 577 matches. </ul>\n\n[**Example SQL Queries on IPL Database**][2]\n\n[**Microsoft SQL Server Version** ][3]\n\n[**Database Diagram**][4]\n\n# Content :\n\nDataset includes 21 includes as mentioned below. Some tables created intentionally to practice SQL Queries. You can use Boolean values in some situations instead of joining tables like Toss_Table\n\n![Indian Premier League Database Diagram][5]\n\n# Acknowledgements : \n\n  Thanks to stackoverflow community\n\n  \n# Inspiration\n\n  Aim is to provide the database for all the Indian Premier League matches. where people can run their own queries to analyze the data. \n\nSome of the analysis we most often heard in TV commentary are below.\n\n  - Dhoni's Strike rate against Left-ball spinners.    \n\n - What will be the result percentage when team lost more than three wickets in powerplay.\n\n\nBelow are the some websites where you can find inspiration for your analysis.\n\n[Knoema Cricket Analysis][6]\n\n[Pandimi Cricket Analysis][7]\n\n\n  [1]: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset\n  [2]: https://gist.github.com/harsha547?page=1\n  [3]: https://data.world/harsha547/ipl-sql-server-version\n  [4]: http://i.imgur.com/327NVKH.png\n  [5]: http://i.imgur.com/327NVKH.png\n  [6]: https://knoema.com/insights/cricket\n  [7]: https://pandimi.wordpress.com/tag/ipl/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "cricket",
+    "sports",
+    "business",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

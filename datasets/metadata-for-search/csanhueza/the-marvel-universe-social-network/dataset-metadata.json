@@ -1,0 +1,40 @@
+{
+  "id": "csanhueza/the-marvel-universe-social-network",
+  "id_no": 741,
+  "datasetSlugNullable": "the-marvel-universe-social-network",
+  "ownerUserNullable": "csanhueza",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "The Marvel Universe Social Network",
+  "subtitleNullable": "An artificial social network of heroes",
+  "descriptionNullable": "# The Marvel Universe \n\nMarvel Comics, originally called Timely Comics Inc., has been publishing comic books for several decades. \"The Golden Age of Comics\" name that was given due to the popularity of the books during the first years, was later followed by a period of decline of interest in superhero stories due to World War [ref][1]. In 1961, Marvel relaunched its superhero comic books publishing line. This new era started what has been known as the *Marvel Age of Comics*. Characters created during this period such as Spider-Man, the Hulk, the Fantastic Four, and the X-Men, together with those created during the Golden Age such as Captain America, are known worldwide and have become cultural icons during the last decades. Later, Marvel's characters popularity has been revitalized even more due to the release of several recent movies which recreate the comic books using spectacular modern special effects. Nowadays, it is possible to access the content of the comic books via a digital platform created by [Marvel][2], where it is possible to subscribe monthly or yearly to get access to the comics. More information about the Marvel Universe can be found [here][3].\n\n# Content\n\nThe dataset contains heroes and comics, and the relationship between them. The dataset is divided into three files:\n\n 1. **nodes.csv**: Contains two columns (node, type), indicating the name and the type (comic, hero) of the nodes.\n 2. **edges.csv**: Contains two columns (hero, comic), indicating in which comics the heroes appear.\n 3. **hero-edge.csv**: Contains the network of heroes which appear together in the comics. This file was originally taken from http://syntagmatic.github.io/exposedata/marvel/\n\n# Past Research (Acknowledgements)\n\nThe Marvel Comics character collaboration graph was originally constructed by Cesc Rossell\u00f3, Ricardo Alberich, and Joe Miro from the University of the Balearic Islands. They compare the characteristics of this universe to real-world collaboration networks, such as the Hollywood network, or the one created by scientists who work together in producing research papers. Their original sources can be found [here][4]. With this dataset, the authors published the paper titled: \"[Marvel Universe looks almost like a real social network][5]\".\n\n\n  [1]: https://www.amazon.com/Marvel-Fabulous-Decades-Worlds-Greatest/dp/0810925664\n  [2]: http://marvel.com/comics\n  [3]: http://marvel.com/universe/Marvel_Universe\n  [4]: http://bioinfo.uib.es/~joemiro/marvel.html\n  [5]: https://arxiv.org/abs/cond-mat/0202174",
+  "datasetId": 741,
+  "datasetSlug": "the-marvel-universe-social-network",
+  "hasDatasetSlug": true,
+  "ownerUser": "csanhueza",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 137875,
+  "totalVotes": 240,
+  "totalDownloads": 22786,
+  "title": "The Marvel Universe Social Network",
+  "hasTitle": true,
+  "subtitle": "An artificial social network of heroes",
+  "hasSubtitle": true,
+  "description": "# The Marvel Universe \n\nMarvel Comics, originally called Timely Comics Inc., has been publishing comic books for several decades. \"The Golden Age of Comics\" name that was given due to the popularity of the books during the first years, was later followed by a period of decline of interest in superhero stories due to World War [ref][1]. In 1961, Marvel relaunched its superhero comic books publishing line. This new era started what has been known as the *Marvel Age of Comics*. Characters created during this period such as Spider-Man, the Hulk, the Fantastic Four, and the X-Men, together with those created during the Golden Age such as Captain America, are known worldwide and have become cultural icons during the last decades. Later, Marvel's characters popularity has been revitalized even more due to the release of several recent movies which recreate the comic books using spectacular modern special effects. Nowadays, it is possible to access the content of the comic books via a digital platform created by [Marvel][2], where it is possible to subscribe monthly or yearly to get access to the comics. More information about the Marvel Universe can be found [here][3].\n\n# Content\n\nThe dataset contains heroes and comics, and the relationship between them. The dataset is divided into three files:\n\n 1. **nodes.csv**: Contains two columns (node, type), indicating the name and the type (comic, hero) of the nodes.\n 2. **edges.csv**: Contains two columns (hero, comic), indicating in which comics the heroes appear.\n 3. **hero-edge.csv**: Contains the network of heroes which appear together in the comics. This file was originally taken from http://syntagmatic.github.io/exposedata/marvel/\n\n# Past Research (Acknowledgements)\n\nThe Marvel Comics character collaboration graph was originally constructed by Cesc Rossell\u00f3, Ricardo Alberich, and Joe Miro from the University of the Balearic Islands. They compare the characteristics of this universe to real-world collaboration networks, such as the Hollywood network, or the one created by scientists who work together in producing research papers. Their original sources can be found [here][4]. With this dataset, the authors published the paper titled: \"[Marvel Universe looks almost like a real social network][5]\".\n\n\n  [1]: https://www.amazon.com/Marvel-Fabulous-Decades-Worlds-Greatest/dp/0810925664\n  [2]: http://marvel.com/comics\n  [3]: http://marvel.com/universe/Marvel_Universe\n  [4]: http://bioinfo.uib.es/~joemiro/marvel.html\n  [5]: https://arxiv.org/abs/cond-mat/0202174",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "puneet6060/intel-image-classification",
+  "id_no": 111880,
+  "datasetSlugNullable": "intel-image-classification",
+  "ownerUserNullable": "puneet6060",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Intel Image Classification",
+  "subtitleNullable": "Image Scene Classification of Multiclass",
+  "descriptionNullable": "### Context\n\nThis is image data of Natural Scenes around the world. \n\n### Content\n\nThis Data contains around 25k images of size 150x150 distributed under 6 categories.\n{'buildings' -&gt; 0, \n'forest' -&gt; 1,\n'glacier' -&gt; 2,\n'mountain' -&gt; 3,\n'sea' -&gt; 4,\n'street' -&gt; 5 }\n\nThe Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Prediction.\nThis data was initially published on https://datahack.analyticsvidhya.com by Intel to host a Image classification Challenge.\n\n\n### Acknowledgements\n\nThanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data\n\nPhoto by [Jan B\u00f6ttinger on Unsplash][1]\n\n### Inspiration\n\nWant to build powerful Neural network that can classify these images with more accuracy.\n\n\n  [1]: https://unsplash.com/photos/27xFENkt-lc",
+  "datasetId": 111880,
+  "datasetSlug": "intel-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "puneet6060",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 514063,
+  "totalVotes": 1454,
+  "totalDownloads": 107135,
+  "title": "Intel Image Classification",
+  "hasTitle": true,
+  "subtitle": "Image Scene Classification of Multiclass",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is image data of Natural Scenes around the world. \n\n### Content\n\nThis Data contains around 25k images of size 150x150 distributed under 6 categories.\n{'buildings' -&gt; 0, \n'forest' -&gt; 1,\n'glacier' -&gt; 2,\n'mountain' -&gt; 3,\n'sea' -&gt; 4,\n'street' -&gt; 5 }\n\nThe Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Prediction.\nThis data was initially published on https://datahack.analyticsvidhya.com by Intel to host a Image classification Challenge.\n\n\n### Acknowledgements\n\nThanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data\n\nPhoto by [Jan B\u00f6ttinger on Unsplash][1]\n\n### Inspiration\n\nWant to build powerful Neural network that can classify these images with more accuracy.\n\n\n  [1]: https://unsplash.com/photos/27xFENkt-lc",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "biology",
+    "cnn",
+    "image",
+    "anime and manga",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

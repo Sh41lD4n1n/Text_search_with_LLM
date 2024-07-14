@@ -1,0 +1,42 @@
+{
+  "id": "shalukaimbs/road-accident-data-by-vehicle-type",
+  "id_no": 4697702,
+  "datasetSlugNullable": "road-accident-data-by-vehicle-type",
+  "ownerUserNullable": "shalukaimbs",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Road Accident Data by Vehicle Type",
+  "subtitleNullable": "Road Accident Data by Vehicle Type and Provices in Sri Lanka - 2012",
+  "descriptionNullable": "The inspiration behind creating this dataset stems from the need to analyze and understand road safety trends, identify risk factors, and develop targeted interventions to reduce road accidents. By categorizing accidents based on vehicle types, researchers, policymakers, and transportation authorities can gain insights into the unique challenges and characteristics associated with different types of vehicles on the road. This dataset aims to serve as a valuable resource for research, analysis, and policymaking efforts aimed at improving road safety and reducing the impact of accidents on society.\n\n",
+  "datasetId": 4697702,
+  "datasetSlug": "road-accident-data-by-vehicle-type",
+  "hasDatasetSlug": true,
+  "ownerUser": "shalukaimbs",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6760,
+  "totalVotes": 22,
+  "totalDownloads": 1392,
+  "title": "Road Accident Data by Vehicle Type",
+  "hasTitle": true,
+  "subtitle": "Road Accident Data by Vehicle Type and Provices in Sri Lanka - 2012",
+  "hasSubtitle": true,
+  "description": "The inspiration behind creating this dataset stems from the need to analyze and understand road safety trends, identify risk factors, and develop targeted interventions to reduce road accidents. By categorizing accidents based on vehicle types, researchers, policymakers, and transportation authorities can gain insights into the unique challenges and characteristics associated with different types of vehicles on the road. This dataset aims to serve as a valuable resource for research, analysis, and policymaking efforts aimed at improving road safety and reducing the impact of accidents on society.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "automobiles and vehicles",
+    "intermediate",
+    "clustering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "battularahul/birds-bats-grasshoppers-audio",
+  "id_no": 4379307,
+  "datasetSlugNullable": "birds-bats-grasshoppers-audio",
+  "ownerUserNullable": "battularahul",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Birds, Bats, Grasshoppers Audio",
+  "subtitleNullable": "\"Avian & Insect Harmonies: Recordings from Xeno-Canto\"",
+  "descriptionNullable": "\"Dive into the world of avian and insect calls with this comprehensive collection from **Xeno-Canto**. Featuring **.mp3** recordings of **birds, bats**, and **grasshoppers**, this dataset offers a rich resource for audio classification and detection tasks. Whether you're exploring machine learning or deep learning techniques, this repository provides a diverse array of sounds to train and test your models. From identifying species to studying behavioral patterns, unlock the potential of audio analysis with this meticulously curated dataset.\"\n\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13430725%2Fd234991df91ed7957d3116731123ff30%2Fbirds.jpg?generation=1706681903852772&alt=media\">\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13430725%2Fac72f0a856ff4db0498717825ddb765a%2Fbats.jpeg?generation=1706681918141313&alt=media\">\n<img src=\"https://www.worldatlas.com/r/w960-q80/upload/43/d6/e4/shutterstock-743534308.jpg\">",
+  "datasetId": 4379307,
+  "datasetSlug": "birds-bats-grasshoppers-audio",
+  "hasDatasetSlug": true,
+  "ownerUser": "battularahul",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 118,
+  "totalVotes": 0,
+  "totalDownloads": 36,
+  "title": "Birds, Bats, Grasshoppers Audio",
+  "hasTitle": true,
+  "subtitle": "\"Avian & Insect Harmonies: Recordings from Xeno-Canto\"",
+  "hasSubtitle": true,
+  "description": "\"Dive into the world of avian and insect calls with this comprehensive collection from **Xeno-Canto**. Featuring **.mp3** recordings of **birds, bats**, and **grasshoppers**, this dataset offers a rich resource for audio classification and detection tasks. Whether you're exploring machine learning or deep learning techniques, this repository provides a diverse array of sounds to train and test your models. From identifying species to studying behavioral patterns, unlock the potential of audio analysis with this meticulously curated dataset.\"\n\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13430725%2Fd234991df91ed7957d3116731123ff30%2Fbirds.jpg?generation=1706681903852772&alt=media\">\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13430725%2Fac72f0a856ff4db0498717825ddb765a%2Fbats.jpeg?generation=1706681918141313&alt=media\">\n<img src=\"https://www.worldatlas.com/r/w960-q80/upload/43/d6/e4/shutterstock-743534308.jpg\">",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "animals",
+    "deep learning",
+    "audio",
+    "audio classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

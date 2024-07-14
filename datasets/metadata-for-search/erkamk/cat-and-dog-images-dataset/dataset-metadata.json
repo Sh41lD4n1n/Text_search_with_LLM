@@ -1,0 +1,44 @@
+{
+  "id": "erkamk/cat-and-dog-images-dataset",
+  "id_no": 927899,
+  "datasetSlugNullable": "cat-and-dog-images-dataset",
+  "ownerUserNullable": "erkamk",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Cat and Dog Images Dataset",
+  "subtitleNullable": "Cat and Dog dataset for Deep Learning",
+  "descriptionNullable": "### Content\n\nThis dataset includes 1000 images (%50 cats, %50 dogs), 2 npy files and 2 pickle files . The npy and pickle files are grayscale.\n\n\n",
+  "datasetId": 927899,
+  "datasetSlug": "cat-and-dog-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "erkamk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 16809,
+  "totalVotes": 32,
+  "totalDownloads": 12716,
+  "title": "Cat and Dog Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Cat and Dog dataset for Deep Learning",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset includes 1000 images (%50 cats, %50 dogs), 2 npy files and 2 pickle files . The npy and pickle files are grayscale.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

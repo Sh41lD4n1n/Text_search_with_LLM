@@ -1,0 +1,44 @@
+{
+  "id": "kaushiksuresh147/customer-segmentation",
+  "id_no": 841888,
+  "datasetSlugNullable": "customer-segmentation",
+  "ownerUserNullable": "kaushiksuresh147",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Customer Segmentation Classification",
+  "subtitleNullable": "Classify the customers into four segments",
+  "descriptionNullable": "### Context\n\nAn automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4, and P5). After intensive market research, they\u2019ve deduced that the behavior of the new market is similar to their existing market. \n\nIn their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work e exceptionally well for them. They plan to use the same strategy for the new markets and have identified 2627 new potential customers. \n\nYou are required to help the manager to predict the right group of the new customers.\n\n### Content\n\n|Variable|Definition|\n|--|--|\n|ID|Unique ID|\n|Gender|Gender of the customer|\n|Ever_Married|Marital status of the customer|\n|Age|Age of the customer|\n|Graduated|Is the customer a graduate?|\n|Profession|Profession of the customer|\n|Work_Experience|Work Experience in years|\n|Spending_Score|Spending score of the customer|\n|Family_Size|Number of family members for the customer (including the customer)|\n|Var_1|Anonymised Category for the customer|\n|Segmentation|(target) Customer Segment of the customer|\n\n#####Acknowledgements\nThis dataset was acquired from the Analytics Vidhya hackathon. \n\n\n",
+  "datasetId": 841888,
+  "datasetSlug": "customer-segmentation",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushiksuresh147",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 110924,
+  "totalVotes": 138,
+  "totalDownloads": 14083,
+  "title": "Customer Segmentation Classification",
+  "hasTitle": true,
+  "subtitle": "Classify the customers into four segments",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAn automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4, and P5). After intensive market research, they\u2019ve deduced that the behavior of the new market is similar to their existing market. \n\nIn their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work e exceptionally well for them. They plan to use the same strategy for the new markets and have identified 2627 new potential customers. \n\nYou are required to help the manager to predict the right group of the new customers.\n\n### Content\n\n|Variable|Definition|\n|--|--|\n|ID|Unique ID|\n|Gender|Gender of the customer|\n|Ever_Married|Marital status of the customer|\n|Age|Age of the customer|\n|Graduated|Is the customer a graduate?|\n|Profession|Profession of the customer|\n|Work_Experience|Work Experience in years|\n|Spending_Score|Spending score of the customer|\n|Family_Size|Number of family members for the customer (including the customer)|\n|Var_1|Anonymised Category for the customer|\n|Segmentation|(target) Customer Segment of the customer|\n\n#####Acknowledgements\nThis dataset was acquired from the Analytics Vidhya hackathon. \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "internet",
+    "automobiles and vehicles",
+    "classification",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

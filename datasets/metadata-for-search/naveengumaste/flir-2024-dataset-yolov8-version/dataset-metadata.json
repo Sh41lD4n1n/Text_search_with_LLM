@@ -1,0 +1,39 @@
+{
+  "id": "naveengumaste/flir-2024-dataset-yolov8-version",
+  "id_no": 4784140,
+  "datasetSlugNullable": "flir-2024-dataset-yolov8-version",
+  "ownerUserNullable": "naveengumaste",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "FLIR 2024 Dataset Yolov8 Version",
+  "subtitleNullable": "",
+  "descriptionNullable": "Thermal Object Detection for Autonomous Vehicles\nThis dataset provides real-world thermal imagery for training and evaluating object detection algorithms in autonomous vehicles. It  focuses on identifying moving objects crucial for self-driving cars, including:\n\nCars\nBicycles\nPeople\nDogs\nData Summary:\n\nSize: Over 12,000 thermal images\nFocus: Primarily annotated for cars\nApplications:\nTraining object detection models for autonomous vehicles\nResearch on thermal image analysis for self-driving applications\nIf you're working on self-driving car perception systems, this dataset can be valuable for:\n\nDeveloping and refining thermal object detection algorithms\nEvaluating the performance of object detection models in low-light or adverse weather conditions",
+  "datasetId": 4784140,
+  "datasetSlug": "flir-2024-dataset-yolov8-version",
+  "hasDatasetSlug": true,
+  "ownerUser": "naveengumaste",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 89,
+  "totalVotes": 0,
+  "totalDownloads": 13,
+  "title": "FLIR 2024 Dataset Yolov8 Version",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Thermal Object Detection for Autonomous Vehicles\nThis dataset provides real-world thermal imagery for training and evaluating object detection algorithms in autonomous vehicles. It  focuses on identifying moving objects crucial for self-driving cars, including:\n\nCars\nBicycles\nPeople\nDogs\nData Summary:\n\nSize: Over 12,000 thermal images\nFocus: Primarily annotated for cars\nApplications:\nTraining object detection models for autonomous vehicles\nResearch on thermal image analysis for self-driving applications\nIf you're working on self-driving car perception systems, this dataset can be valuable for:\n\nDeveloping and refining thermal object detection algorithms\nEvaluating the performance of object detection models in low-light or adverse weather conditions",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

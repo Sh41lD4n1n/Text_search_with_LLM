@@ -1,0 +1,40 @@
+{
+  "id": "irvinmaceke/twitter-sentiment-analysis-xitsonga",
+  "id_no": 3786817,
+  "datasetSlugNullable": "twitter-sentiment-analysis-xitsonga",
+  "ownerUserNullable": "irvinmaceke",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Twitter Sentiment Analysis - Xitsonga",
+  "subtitleNullable": " Xitsonga Twitter Sentiment Analysis Dataset",
+  "descriptionNullable": "he Xitsonga Twitter Sentiment Analysis Dataset is a carefully curated collection of tweets written in the Xitsonga language, with the primary objective of discerning the emotional tones expressed in these tweets. This dataset is specifically designed to classify tweets into one of three distinct emotional categories: \"Positive,\" \"Neutral,\" or \"Negative.\" or \"irrelevant\"\n\nNotable Features:\nIn this dataset, you will find several key characteristics:\n\nLanguage Focus: All the tweets included in this dataset are composed in the Xitsonga language, ensuring that the sentiment analysis is tailored to the linguistic nuances of this specific language.\n\nEmotion Classification: Each tweet within the dataset has been manually categorized into one of three emotional labels: \"Positive\" for tweets conveying positive sentiments, \"Neutral\" for tweets that exhibit no significant emotional tone, and \"Negative\" for those expressing negative emotions or viewpoints.\n\nComment-Centric: The primary emphasis of this dataset is on the analysis of user comments and conversations on the Twitter platform, making it particularly useful for understanding the sentiments and reactions of Xitsonga-speaking Twitter users.\n\nDiverse Content: The dataset encompasses tweets from a broad spectrum of topics and subject matters, offering a comprehensive representation of discussions and discourse on Twitter in the Xitsonga language.\n\nSubstantial Data Size: With a substantial number of tweets, this dataset provides ample data for the development, training, and evaluation of sentiment analysis models.",
+  "datasetId": 3786817,
+  "datasetSlug": "twitter-sentiment-analysis-xitsonga",
+  "hasDatasetSlug": true,
+  "ownerUser": "irvinmaceke",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 172,
+  "totalVotes": 0,
+  "totalDownloads": 24,
+  "title": "Twitter Sentiment Analysis - Xitsonga",
+  "hasTitle": true,
+  "subtitle": " Xitsonga Twitter Sentiment Analysis Dataset",
+  "hasSubtitle": true,
+  "description": "he Xitsonga Twitter Sentiment Analysis Dataset is a carefully curated collection of tweets written in the Xitsonga language, with the primary objective of discerning the emotional tones expressed in these tweets. This dataset is specifically designed to classify tweets into one of three distinct emotional categories: \"Positive,\" \"Neutral,\" or \"Negative.\" or \"irrelevant\"\n\nNotable Features:\nIn this dataset, you will find several key characteristics:\n\nLanguage Focus: All the tweets included in this dataset are composed in the Xitsonga language, ensuring that the sentiment analysis is tailored to the linguistic nuances of this specific language.\n\nEmotion Classification: Each tweet within the dataset has been manually categorized into one of three emotional labels: \"Positive\" for tweets conveying positive sentiments, \"Neutral\" for tweets that exhibit no significant emotional tone, and \"Negative\" for those expressing negative emotions or viewpoints.\n\nComment-Centric: The primary emphasis of this dataset is on the analysis of user comments and conversations on the Twitter platform, making it particularly useful for understanding the sentiments and reactions of Xitsonga-speaking Twitter users.\n\nDiverse Content: The dataset encompasses tweets from a broad spectrum of topics and subject matters, offering a comprehensive representation of discussions and discourse on Twitter in the Xitsonga language.\n\nSubstantial Data Size: With a substantial number of tweets, this dataset provides ample data for the development, training, and evaluation of sentiment analysis models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "email and messaging",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

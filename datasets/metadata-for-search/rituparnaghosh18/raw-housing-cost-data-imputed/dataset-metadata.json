@@ -1,0 +1,43 @@
+{
+  "id": "rituparnaghosh18/raw-housing-cost-data-imputed",
+  "id_no": 5178599,
+  "datasetSlugNullable": "raw-housing-cost-data-imputed",
+  "ownerUserNullable": "rituparnaghosh18",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Raw Housing Cost Data (imputed)",
+  "subtitleNullable": "Data regarding Sale Prices of several houses and their respective features",
+  "descriptionNullable": "This house costing data has 21609 rows of information about different Houses. It's the imputed version of my previous dataset titled Raw Housing Cost Data. Same as earlier, there are a total of 21 columns, out of which Sale Price can be supposedly taken as a dependent variable. The other variables are different features, locations and date, etc. regarding the houses. Several EDA or regression modelling can be performed in this data after a little polishing and treatment.",
+  "datasetId": 5178599,
+  "datasetSlug": "raw-housing-cost-data-imputed",
+  "hasDatasetSlug": true,
+  "ownerUser": "rituparnaghosh18",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "Raw Housing Cost Data (imputed)",
+  "hasTitle": true,
+  "subtitle": "Data regarding Sale Prices of several houses and their respective features",
+  "hasSubtitle": true,
+  "description": "This house costing data has 21609 rows of information about different Houses. It's the imputed version of my previous dataset titled Raw Housing Cost Data. Same as earlier, there are a total of 21 columns, out of which Sale Price can be supposedly taken as a dependent variable. The other variables are different features, locations and date, etc. regarding the houses. Several EDA or regression modelling can be performed in this data after a little polishing and treatment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "exploratory data analysis",
+    "data cleaning",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

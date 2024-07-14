@@ -1,0 +1,43 @@
+{
+  "id": "chaoticqubit/nuuly-customer-reviews-second-hand-apparels",
+  "id_no": 4229207,
+  "datasetSlugNullable": "nuuly-customer-reviews-second-hand-apparels",
+  "ownerUserNullable": "chaoticqubit",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Customer Reviews | Second Hand Apparels",
+  "subtitleNullable": "Dataset for customer perspective through reviews on second hand apparels",
+  "descriptionNullable": "I wrote the following script to scrape the data from a platform that sells second-hand apparel and clothing. \n[Github | Customer Reviews for Second Hand Apparels](https://github.com/ChaoticQubit/scrape_me_of_my_data/tree/main/Nuuly-Second-Hand-Apparels-Customer_reviews)\n\nThe reviews are available for about 3500 products from the links.txt file. Feel free to clone the script yourself and scrape on your system if you need more data.\n\nPlease Upvote!!! Thanks!",
+  "datasetId": 4229207,
+  "datasetSlug": "nuuly-customer-reviews-second-hand-apparels",
+  "hasDatasetSlug": true,
+  "ownerUser": "chaoticqubit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 235,
+  "totalVotes": 2,
+  "totalDownloads": 44,
+  "title": "Customer Reviews | Second Hand Apparels",
+  "hasTitle": true,
+  "subtitle": "Dataset for customer perspective through reviews on second hand apparels",
+  "hasSubtitle": true,
+  "description": "I wrote the following script to scrape the data from a platform that sells second-hand apparel and clothing. \n[Github | Customer Reviews for Second Hand Apparels](https://github.com/ChaoticQubit/scrape_me_of_my_data/tree/main/Nuuly-Second-Hand-Apparels-Customer_reviews)\n\nThe reviews are available for about 3500 products from the links.txt file. Feel free to clone the script yourself and scrape on your system if you need more data.\n\nPlease Upvote!!! Thanks!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "nlp",
+    "text",
+    "text classification",
+    "token classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

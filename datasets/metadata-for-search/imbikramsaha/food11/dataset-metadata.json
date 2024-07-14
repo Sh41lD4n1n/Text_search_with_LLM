@@ -1,0 +1,43 @@
+{
+  "id": "imbikramsaha/food11",
+  "id_no": 2324822,
+  "datasetSlugNullable": "food11",
+  "ownerUserNullable": "imbikramsaha",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "food-11 Image Classification Dataset",
+  "subtitleNullable": "11 categories of food images (mini version of food-101 dataset)",
+  "descriptionNullable": "The main folder food11 contains two sub-folders :\n1. train\n2. test\n\nBoth train and test folders have 11 folders named\napple_pie\ncheesecake\nchicken_curry\nfrench_fries\nfried_rice\nhamburger\nhot_dog\nice_cream\nomelette\npizza\nsushi\n\nEach folders inside train-set(total=9900) contain 900 images, and folders inside test-set(total=1100) contain 100 images.",
+  "datasetId": 2324822,
+  "datasetSlug": "food11",
+  "hasDatasetSlug": true,
+  "ownerUser": "imbikramsaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 5910,
+  "totalVotes": 19,
+  "totalDownloads": 1046,
+  "title": "food-11 Image Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "11 categories of food images (mini version of food-101 dataset)",
+  "hasSubtitle": true,
+  "description": "The main folder food11 contains two sub-folders :\n1. train\n2. test\n\nBoth train and test folders have 11 folders named\napple_pie\ncheesecake\nchicken_curry\nfrench_fries\nfried_rice\nhamburger\nhot_dog\nice_cream\nomelette\npizza\nsushi\n\nEach folders inside train-set(total=9900) contain 900 images, and folders inside test-set(total=1100) contain 100 images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "classification",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

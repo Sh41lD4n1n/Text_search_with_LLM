@@ -1,0 +1,39 @@
+{
+  "id": "hkhamnakhalid/red-wine-quality-prediction",
+  "id_no": 1388189,
+  "datasetSlugNullable": "red-wine-quality-prediction",
+  "ownerUserNullable": "hkhamnakhalid",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Red Wine Quality Prediction",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1388189,
+  "datasetSlug": "red-wine-quality-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "hkhamnakhalid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 818,
+  "totalVotes": 2,
+  "totalDownloads": 23,
+  "title": "Red Wine Quality Prediction",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

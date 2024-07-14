@@ -1,0 +1,44 @@
+{
+  "id": "ankitachoudhury01/covid-patients-chest-xray",
+  "id_no": 1385478,
+  "datasetSlugNullable": "covid-patients-chest-xray",
+  "ownerUserNullable": "ankitachoudhury01",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Covid Patients Chest X-Ray",
+  "subtitleNullable": "Download 162 images of covid patients and normal patients chest X-ray.",
+  "descriptionNullable": "###AIM\nTo differentiate between covid patient lungs and normal ones.\n\n###CONTENT\nThe dataset contains 162 images of lung x-ray of covid people and normal ones. It's an image classification problem.",
+  "datasetId": 1385478,
+  "datasetSlug": "covid-patients-chest-xray",
+  "hasDatasetSlug": true,
+  "ownerUser": "ankitachoudhury01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 4468,
+  "totalVotes": 28,
+  "totalDownloads": 515,
+  "title": "Covid Patients Chest X-Ray",
+  "hasTitle": true,
+  "subtitle": "Download 162 images of covid patients and normal patients chest X-ray.",
+  "hasSubtitle": true,
+  "description": "###AIM\nTo differentiate between covid patient lungs and normal ones.\n\n###CONTENT\nThe dataset contains 162 images of lung x-ray of covid people and normal ones. It's an image classification problem.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "beginner",
+    "advanced",
+    "neural networks",
+    "health conditions",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

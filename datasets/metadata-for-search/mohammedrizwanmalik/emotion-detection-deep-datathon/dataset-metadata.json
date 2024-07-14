@@ -1,0 +1,37 @@
+{
+  "id": "mohammedrizwanmalik/emotion-detection-deep-datathon",
+  "id_no": 3714724,
+  "datasetSlugNullable": "emotion-detection-deep-datathon",
+  "ownerUserNullable": "mohammedrizwanmalik",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Emotion Detection Deep Datathon",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3714724,
+  "datasetSlug": "emotion-detection-deep-datathon",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohammedrizwanmalik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 90,
+  "totalVotes": 5,
+  "totalDownloads": 4,
+  "title": "Emotion Detection Deep Datathon",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

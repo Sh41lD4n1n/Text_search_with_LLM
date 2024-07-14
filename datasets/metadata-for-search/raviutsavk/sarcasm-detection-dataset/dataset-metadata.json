@@ -1,0 +1,37 @@
+{
+  "id": "raviutsavk/sarcasm-detection-dataset",
+  "id_no": 4777582,
+  "datasetSlugNullable": "sarcasm-detection-dataset",
+  "ownerUserNullable": "raviutsavk",
+  "usabilityRatingNullable": 0.17647058823529413,
+  "titleNullable": "sarcasm-detection-dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4777582,
+  "datasetSlug": "sarcasm-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "raviutsavk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.17647058823529413,
+  "hasUsabilityRating": true,
+  "totalViews": 31,
+  "totalVotes": 0,
+  "totalDownloads": 5,
+  "title": "sarcasm-detection-dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

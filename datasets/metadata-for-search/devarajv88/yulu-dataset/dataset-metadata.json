@@ -1,0 +1,39 @@
+{
+  "id": "devarajv88/yulu-dataset",
+  "id_no": 5116800,
+  "datasetSlugNullable": "yulu-dataset",
+  "ownerUserNullable": "devarajv88",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Yulu Bike Rental Dataset",
+  "subtitleNullable": "Rental Trends and User Behavior",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2F2d51367540969117110739eb4482da7f%2FWhatsApp-Image-2023-09-26-at-18.35.14.jpg?generation=1717081743433603&alt=media)\n\nYulu is India's premier micro-mobility service provider, offering distinctive vehicles for daily commutes. Initially aimed at eliminating traffic congestion in India, Yulu delivers a safe commuting solution through a user-friendly mobile app, enabling shared, solo, and sustainable travel.\n\nYulu zones are strategically placed at key locations, including metro stations, bus stops, office spaces, residential areas, and corporate offices, ensuring that first and last-mile travel is smooth, affordable, and convenient.\n\n**Business Case**\nRecently, Yulu has experienced significant declines in revenue. To address this, they have hired a consulting firm to analyze the factors influencing the demand for their shared electric cycles in the Indian market. They aim to understand the elements affecting the popularity of these shared electric cycles.\n\n**Potential Usecases**\n1. **Seasonal Demand Forecasting**\n2. **Impact of Weather on Bike Rentals**\n3. **Holiday and Working Day Analysis**\n4. **User Behavior Insights**\n5. **Operational Efficiency**\n6. **Urban Planning and Infrastructure Development**\n7. **Sustainability and Environmental Impact**\n8. **Business Strategy and Expansion**\n9. **User Experience Enhancement**\n10. **Data-Driven Marketing Campaigns**",
+  "datasetId": 5116800,
+  "datasetSlug": "yulu-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "devarajv88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 118,
+  "totalVotes": 3,
+  "totalDownloads": 24,
+  "title": "Yulu Bike Rental Dataset",
+  "hasTitle": true,
+  "subtitle": "Rental Trends and User Behavior",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2F2d51367540969117110739eb4482da7f%2FWhatsApp-Image-2023-09-26-at-18.35.14.jpg?generation=1717081743433603&alt=media)\n\nYulu is India's premier micro-mobility service provider, offering distinctive vehicles for daily commutes. Initially aimed at eliminating traffic congestion in India, Yulu delivers a safe commuting solution through a user-friendly mobile app, enabling shared, solo, and sustainable travel.\n\nYulu zones are strategically placed at key locations, including metro stations, bus stops, office spaces, residential areas, and corporate offices, ensuring that first and last-mile travel is smooth, affordable, and convenient.\n\n**Business Case**\nRecently, Yulu has experienced significant declines in revenue. To address this, they have hired a consulting firm to analyze the factors influencing the demand for their shared electric cycles in the Indian market. They aim to understand the elements affecting the popularity of these shared electric cycles.\n\n**Potential Usecases**\n1. **Seasonal Demand Forecasting**\n2. **Impact of Weather on Bike Rentals**\n3. **Holiday and Working Day Analysis**\n4. **User Behavior Insights**\n5. **Operational Efficiency**\n6. **Urban Planning and Infrastructure Development**\n7. **Sustainability and Environmental Impact**\n8. **Business Strategy and Expansion**\n9. **User Experience Enhancement**\n10. **Data-Driven Marketing Campaigns**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cycling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jessemostipak/animal-crossing",
+  "id_no": 635455,
+  "datasetSlugNullable": "animal-crossing",
+  "ownerUserNullable": "jessemostipak",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Animal Crossing Reviews",
+  "subtitleNullable": "#TidyTuesday Week 19",
+  "descriptionNullable": "### Context and Content\n\nThe data this week comes from the [VillagerDB](https://github.com/jefflomacy/villagerdb) and [Metacritic](https://www.metacritic.com/game/switch/animal-crossing-new-horizons/critic-reviews). VillagerDB brings info about villagers, items, crafting, accessories, including links to their images. Metacritic brings user and critic reviews of the game (scores and raw text).\n\nPer [Wikipedia](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons):\n\n&gt; Animal Crossing: New Horizons is a 2020 life simulation video game developed and published by Nintendo for the Nintendo Switch. It is the fifth main series title in the Animal Crossing series. New Horizons was released in all regions on March 20, 2020.\n\n&gt; New Horizons sees the player assuming the role of a customizable character who moves to a deserted island after purchasing a package from Tom Nook, a tanuki character who has appeared in every entry in the Animal Crossing series. Taking place in real-time, the player can explore the island in a nonlinear fashion, gathering and crafting items, catching insects and fish, and developing the island into a community of anthropomorphic animals.\n\nAnimal Crossing as explained by a [Polygon](https://www.polygon.com/2020/4/2/21201065/animal-crossing-new-horizons-calm-mindfulness-coronavirus-quarantine) opinion piece.\n\n&gt; With just a few design twists, the work behind collecting hundreds or even thousands of items over weeks and months becomes an exercise of mindfulness, predictability, and agency that many players find soothing instead of annoying.\n\n&gt; Games that feature gentle progression give us a sense of progress and achievability, teaching us that putting in a little work consistently while taking things one step at a time can give us some fantastic results. It\u2019s a good life lesson, as well as a way to calm yourself and others, and it\u2019s all achieved through game design.\n\nSome potential context for user_reviews.tsv from [538](https://fivethirtyeight.com/features/ghostbusters-is-a-perfect-example-of-how-internet-ratings-are-broken/) and a point of potential strife via [Animal Crossing World](https://animalcrossingworld.com/2019/06/you-can-only-have-one-animal-crossing-new-horizons-island-per-nintendo-switch-system/), and lastly a [spoiler article](https://towardsdatascience.com/sentiment-analysis-of-animal-crossing-reviews-7ae98bc91dd3) analyzing the reviews in R by Boon Tan.\n\nPS there is an easter egg somewhere in the readme - something to do with... turnips.\n\n### Acknowledgements\n\nThe data was downloaded and cleaned by [Thomas Mock](https://twitter.com/thomas_mock) for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) during the week of May 4th, 2020. You can see the code used to clean the data in the [#TidyTuesday GitHub repository](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-05/readme.md).\n\n### Inspiration\n\nPotential Analyses:\n\n- Reviews: Sentiment analysis, text analysis, scores, date effect\n- Villagers/Items: Gender, species, sayings, personality, price, recipe, what about a [star sign](https://nookipedia.com/wiki/Star_sign) based off the birthday column?",
+  "datasetId": 635455,
+  "datasetSlug": "animal-crossing",
+  "hasDatasetSlug": true,
+  "ownerUser": "jessemostipak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 45742,
+  "totalVotes": 171,
+  "totalDownloads": 3063,
+  "title": "Animal Crossing Reviews",
+  "hasTitle": true,
+  "subtitle": "#TidyTuesday Week 19",
+  "hasSubtitle": true,
+  "description": "### Context and Content\n\nThe data this week comes from the [VillagerDB](https://github.com/jefflomacy/villagerdb) and [Metacritic](https://www.metacritic.com/game/switch/animal-crossing-new-horizons/critic-reviews). VillagerDB brings info about villagers, items, crafting, accessories, including links to their images. Metacritic brings user and critic reviews of the game (scores and raw text).\n\nPer [Wikipedia](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons):\n\n&gt; Animal Crossing: New Horizons is a 2020 life simulation video game developed and published by Nintendo for the Nintendo Switch. It is the fifth main series title in the Animal Crossing series. New Horizons was released in all regions on March 20, 2020.\n\n&gt; New Horizons sees the player assuming the role of a customizable character who moves to a deserted island after purchasing a package from Tom Nook, a tanuki character who has appeared in every entry in the Animal Crossing series. Taking place in real-time, the player can explore the island in a nonlinear fashion, gathering and crafting items, catching insects and fish, and developing the island into a community of anthropomorphic animals.\n\nAnimal Crossing as explained by a [Polygon](https://www.polygon.com/2020/4/2/21201065/animal-crossing-new-horizons-calm-mindfulness-coronavirus-quarantine) opinion piece.\n\n&gt; With just a few design twists, the work behind collecting hundreds or even thousands of items over weeks and months becomes an exercise of mindfulness, predictability, and agency that many players find soothing instead of annoying.\n\n&gt; Games that feature gentle progression give us a sense of progress and achievability, teaching us that putting in a little work consistently while taking things one step at a time can give us some fantastic results. It\u2019s a good life lesson, as well as a way to calm yourself and others, and it\u2019s all achieved through game design.\n\nSome potential context for user_reviews.tsv from [538](https://fivethirtyeight.com/features/ghostbusters-is-a-perfect-example-of-how-internet-ratings-are-broken/) and a point of potential strife via [Animal Crossing World](https://animalcrossingworld.com/2019/06/you-can-only-have-one-animal-crossing-new-horizons-island-per-nintendo-switch-system/), and lastly a [spoiler article](https://towardsdatascience.com/sentiment-analysis-of-animal-crossing-reviews-7ae98bc91dd3) analyzing the reviews in R by Boon Tan.\n\nPS there is an easter egg somewhere in the readme - something to do with... turnips.\n\n### Acknowledgements\n\nThe data was downloaded and cleaned by [Thomas Mock](https://twitter.com/thomas_mock) for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) during the week of May 4th, 2020. You can see the code used to clean the data in the [#TidyTuesday GitHub repository](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-05/readme.md).\n\n### Inspiration\n\nPotential Analyses:\n\n- Reviews: Sentiment analysis, text analysis, scores, date effect\n- Villagers/Items: Gender, species, sayings, personality, price, recipe, what about a [star sign](https://nookipedia.com/wiki/Star_sign) based off the birthday column?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "simulations",
+    "tidyverse"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

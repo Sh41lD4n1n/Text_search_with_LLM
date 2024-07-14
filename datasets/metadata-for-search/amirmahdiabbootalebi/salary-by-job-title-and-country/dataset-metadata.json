@@ -1,0 +1,40 @@
+{
+  "id": "amirmahdiabbootalebi/salary-by-job-title-and-country",
+  "id_no": 3943267,
+  "datasetSlugNullable": "salary-by-job-title-and-country",
+  "ownerUserNullable": "amirmahdiabbootalebi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Salary by Job Title and Country",
+  "subtitleNullable": "A Cleaned Data For predicting income by job title and country.",
+  "descriptionNullable": "This dataset provides a comprehensive collection of salary information from various industries and regions across the globe. Sourced from reputable employment websites and surveys, it includes details on job titles, salaries, job sectors, geographic locations, and more. Analyze this data to gain insights into job market trends, compare compensation across different professions, and make informed decisions about your career or hiring strategies. The dataset is cleaned and preprocessed for ease of analysis and is available under an open license for research and data analysis purposes.\n\nEducation Level: \n0 : High School\n1 : Bachelor Degree\n2 : Master Degree\n3 : Phd\n\nCurrency : US Dollar\n\nSenior : It shows that is this employee has a senior position or no.(Binary)\n",
+  "datasetId": 3943267,
+  "datasetSlug": "salary-by-job-title-and-country",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirmahdiabbootalebi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24754,
+  "totalVotes": 86,
+  "totalDownloads": 6598,
+  "title": "Salary by Job Title and Country",
+  "hasTitle": true,
+  "subtitle": "A Cleaned Data For predicting income by job title and country.",
+  "hasSubtitle": true,
+  "description": "This dataset provides a comprehensive collection of salary information from various industries and regions across the globe. Sourced from reputable employment websites and surveys, it includes details on job titles, salaries, job sectors, geographic locations, and more. Analyze this data to gain insights into job market trends, compare compensation across different professions, and make informed decisions about your career or hiring strategies. The dataset is cleaned and preprocessed for ease of analysis and is available under an open license for research and data analysis purposes.\n\nEducation Level: \n0 : High School\n1 : Bachelor Degree\n2 : Master Degree\n3 : Phd\n\nCurrency : US Dollar\n\nSenior : It shows that is this employee has a senior position or no.(Binary)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "jobs and career"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

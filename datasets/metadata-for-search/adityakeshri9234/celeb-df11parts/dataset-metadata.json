@@ -1,0 +1,39 @@
+{
+  "id": "adityakeshri9234/celeb-df11parts",
+  "id_no": 5280002,
+  "datasetSlugNullable": "celeb-df11parts",
+  "ownerUserNullable": "adityakeshri9234",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "celeb-df11parts",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5280002,
+  "datasetSlug": "celeb-df11parts",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityakeshri9234",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 3,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "celeb-df11parts",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

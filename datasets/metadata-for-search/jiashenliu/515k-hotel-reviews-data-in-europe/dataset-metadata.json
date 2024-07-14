@@ -1,0 +1,41 @@
+{
+  "id": "jiashenliu/515k-hotel-reviews-data-in-europe",
+  "id_no": 2142,
+  "datasetSlugNullable": "515k-hotel-reviews-data-in-europe",
+  "ownerUserNullable": "jiashenliu",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "515K Hotel Reviews Data in Europe",
+  "subtitleNullable": "Can you make your trip more cozy by using data science?",
+  "descriptionNullable": "### Acknowledgements\n\nThe data was scraped from [Booking.com][1]. All data in the file is publicly available to everyone already. Please be noted that data is originally owned by [Booking.com][2]. \n### Data Context\n\nThis dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis.\n\n### Data Content\n\nThe csv file contains 17 fields. The description of each field is as below:\n\n - Hotel_Address: Address of hotel. \n - Review_Date: Date when reviewer posted the corresponding review.\n - Average_Score: Average Score of the hotel, calculated based on the latest comment in the last year.\n - Hotel_Name: Name of Hotel\n - Reviewer_Nationality: Nationality of Reviewer\n - Negative_Review: Negative Review the reviewer gave to the hotel. If the reviewer does not give the negative review, then it should be: 'No Negative'\n - Review_Total_Negative_Word_Counts: Total number of words in the negative review.\n - Positive_Review: Positive Review the reviewer gave to the hotel. If the reviewer does not give the negative review, then it should be: 'No Positive'\n - Review_Total_Positive_Word_Counts: Total number of words in the positive review.\n - Reviewer_Score: Score the reviewer has given to the hotel, based on his/her experience\n - Total_Number_of_Reviews_Reviewer_Has_Given: Number of Reviews the reviewers has given in the past.\n - Total_Number_of_Reviews: Total number of valid reviews the hotel has.\n - Tags: Tags reviewer gave the hotel.\n - days_since_review: Duration between the review date and scrape date.\n - Additional_Number_of_Scoring: There are also some guests who just made a scoring on the service rather than a review. This number indicates how many valid scores without review in there.\n - lat: Latitude of the hotel\n - lng: longtitude of the hotel\n\n*In order to keep the text data clean, I removed unicode and punctuation in the text data and transform text into lower case. No other preprocessing was performed.*\n\n### Inspiration\n\nThe dataset is large and informative, I believe you can have a lot of fun with it! Let me put some ideas below to futher inspire kagglers!\n\n - Fit a regression model on reviews and score to see which words are more indicative to a higher/lower score\n - Perform a sentiment analysis on the reviews\n - Find correlation between reviewer's nationality and scores.\n - Beautiful and informative visualization on the dataset.\n - Clustering hotels based on reviews\n - Simple recommendation engine to the guest who is fond of a special characteristic of hotel.\n\nThe idea is unlimited! Please, have a look into data, generate some ideas and leave a master kernel here! I am ready to upvote your ideas and kernels! Cheers!\n\n \n\n\n  [1]: http://www.booking.com\n  [2]: http://www.booking.com\n  [3]: https://www.kaggle.com/jiashenliu",
+  "datasetId": 2142,
+  "datasetSlug": "515k-hotel-reviews-data-in-europe",
+  "hasDatasetSlug": true,
+  "ownerUser": "jiashenliu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 252097,
+  "totalVotes": 568,
+  "totalDownloads": 37830,
+  "title": "515K Hotel Reviews Data in Europe",
+  "hasTitle": true,
+  "subtitle": "Can you make your trip more cozy by using data science?",
+  "hasSubtitle": true,
+  "description": "### Acknowledgements\n\nThe data was scraped from [Booking.com][1]. All data in the file is publicly available to everyone already. Please be noted that data is originally owned by [Booking.com][2]. \n### Data Context\n\nThis dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis.\n\n### Data Content\n\nThe csv file contains 17 fields. The description of each field is as below:\n\n - Hotel_Address: Address of hotel. \n - Review_Date: Date when reviewer posted the corresponding review.\n - Average_Score: Average Score of the hotel, calculated based on the latest comment in the last year.\n - Hotel_Name: Name of Hotel\n - Reviewer_Nationality: Nationality of Reviewer\n - Negative_Review: Negative Review the reviewer gave to the hotel. If the reviewer does not give the negative review, then it should be: 'No Negative'\n - Review_Total_Negative_Word_Counts: Total number of words in the negative review.\n - Positive_Review: Positive Review the reviewer gave to the hotel. If the reviewer does not give the negative review, then it should be: 'No Positive'\n - Review_Total_Positive_Word_Counts: Total number of words in the positive review.\n - Reviewer_Score: Score the reviewer has given to the hotel, based on his/her experience\n - Total_Number_of_Reviews_Reviewer_Has_Given: Number of Reviews the reviewers has given in the past.\n - Total_Number_of_Reviews: Total number of valid reviews the hotel has.\n - Tags: Tags reviewer gave the hotel.\n - days_since_review: Duration between the review date and scrape date.\n - Additional_Number_of_Scoring: There are also some guests who just made a scoring on the service rather than a review. This number indicates how many valid scores without review in there.\n - lat: Latitude of the hotel\n - lng: longtitude of the hotel\n\n*In order to keep the text data clean, I removed unicode and punctuation in the text data and transform text into lower case. No other preprocessing was performed.*\n\n### Inspiration\n\nThe dataset is large and informative, I believe you can have a lot of fun with it! Let me put some ideas below to futher inspire kagglers!\n\n - Fit a regression model on reviews and score to see which words are more indicative to a higher/lower score\n - Perform a sentiment analysis on the reviews\n - Find correlation between reviewer's nationality and scores.\n - Beautiful and informative visualization on the dataset.\n - Clustering hotels based on reviews\n - Simple recommendation engine to the guest who is fond of a special characteristic of hotel.\n\nThe idea is unlimited! Please, have a look into data, generate some ideas and leave a master kernel here! I am ready to upvote your ideas and kernels! Cheers!\n\n \n\n\n  [1]: http://www.booking.com\n  [2]: http://www.booking.com\n  [3]: https://www.kaggle.com/jiashenliu",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "internet",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

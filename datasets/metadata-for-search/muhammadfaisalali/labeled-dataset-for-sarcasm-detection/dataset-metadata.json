@@ -1,0 +1,39 @@
+{
+  "id": "muhammadfaisalali/labeled-dataset-for-sarcasm-detection",
+  "id_no": 2056648,
+  "datasetSlugNullable": "labeled-dataset-for-sarcasm-detection",
+  "ownerUserNullable": "muhammadfaisalali",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Labeled Dataset for Sarcasm Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2056648,
+  "datasetSlug": "labeled-dataset-for-sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadfaisalali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 174,
+  "totalVotes": 1,
+  "totalDownloads": 27,
+  "title": "Labeled Dataset for Sarcasm Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

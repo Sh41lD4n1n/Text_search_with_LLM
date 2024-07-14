@@ -1,0 +1,44 @@
+{
+  "id": "therohk/india-headlines-news-dataset",
+  "id_no": 5914,
+  "datasetSlugNullable": "india-headlines-news-dataset",
+  "ownerUserNullable": "therohk",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "India News Headlines Dataset",
+  "subtitleNullable": "Twenty One years of headlines focusing on India",
+  "descriptionNullable": "### Context\n\nThis news dataset is a persistent historical archive of noteable events in the Indian subcontinent from start-2001 to q2-2023, recorded in real-time by the journalists of India. It contains approximately 3.8 million events published by Times of India.\n\nA majority of the data is focusing on Indian local news including national, city level and entertainment.\n\nPrepared by **Rohit Kulkarni**\n\n### Content\n\nTime Range : Start Date: 2001-01-01 ; End Date: 2023-06-30\n\nCSV Rows: 3,876,557\n\nColumns:\n1. **publish_date**: Date of the article being published online in yyyyMMdd format\n2. **headline_category**: Category of the headline, ascii, dot delimited, lowercase values\n3. **headline_text**: Text of the Headline in English, only ascii characters\n\n### Inspiration\n\nTimes Group as a news agency, reaches out a very wide audience across Asia and drawfs every other agency in the quantity of English articles published per day. Due to the heavy daily volume (avg. 600 articles) over multiple years, this data offers a deep insight into Indian society, its priorities, events, issues and talking points and how they have unfolded over time. \n\nIt is possible to chop this dataset into a smaller piece based on one or more facets. \n\n - Time Range: Headlines during 2006 Mumbai bombings, 2014 election, ongoing health crisis\n - One or more Categories: like [Citywise](/therohk/india-news-publishing-trends-and-cities), Bollywood, ICC updates, Magazine, Middle East\n - One or more Keywords: like crime or ecology related [tokens](https://www.kaggle.com/code/therohk/times-of-india-tokens-library), names of political parties, celebrities, corporations.\n\nSimilar news datasets exploring other attributes, countries and topics can be seen on my profile.",
+  "datasetId": 5914,
+  "datasetSlug": "india-headlines-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "therohk",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 89452,
+  "totalVotes": 212,
+  "totalDownloads": 9108,
+  "title": "India News Headlines Dataset",
+  "hasTitle": true,
+  "subtitle": "Twenty One years of headlines focusing on India",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis news dataset is a persistent historical archive of noteable events in the Indian subcontinent from start-2001 to q2-2023, recorded in real-time by the journalists of India. It contains approximately 3.8 million events published by Times of India.\n\nA majority of the data is focusing on Indian local news including national, city level and entertainment.\n\nPrepared by **Rohit Kulkarni**\n\n### Content\n\nTime Range : Start Date: 2001-01-01 ; End Date: 2023-06-30\n\nCSV Rows: 3,876,557\n\nColumns:\n1. **publish_date**: Date of the article being published online in yyyyMMdd format\n2. **headline_category**: Category of the headline, ascii, dot delimited, lowercase values\n3. **headline_text**: Text of the Headline in English, only ascii characters\n\n### Inspiration\n\nTimes Group as a news agency, reaches out a very wide audience across Asia and drawfs every other agency in the quantity of English articles published per day. Due to the heavy daily volume (avg. 600 articles) over multiple years, this data offers a deep insight into Indian society, its priorities, events, issues and talking points and how they have unfolded over time. \n\nIt is possible to chop this dataset into a smaller piece based on one or more facets. \n\n - Time Range: Headlines during 2006 Mumbai bombings, 2014 election, ongoing health crisis\n - One or more Categories: like [Citywise](/therohk/india-news-publishing-trends-and-cities), Bollywood, ICC updates, Magazine, Middle East\n - One or more Keywords: like crime or ecology related [tokens](https://www.kaggle.com/code/therohk/times-of-india-tokens-library), names of political parties, celebrities, corporations.\n\nSimilar news datasets exploring other attributes, countries and topics can be seen on my profile.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "india",
+    "business",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

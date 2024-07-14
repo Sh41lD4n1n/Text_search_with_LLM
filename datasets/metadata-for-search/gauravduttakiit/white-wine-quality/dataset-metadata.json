@@ -1,0 +1,39 @@
+{
+  "id": "gauravduttakiit/white-wine-quality",
+  "id_no": 2469392,
+  "datasetSlugNullable": "white-wine-quality",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "White Wine Quality",
+  "subtitleNullable": "Predicting the quality of White Wine",
+  "descriptionNullable": "\nAbout Wine\nWine is an alcoholic drink typically made from fermented grapes. Yeast consumes the sugar in the grapes and converts it to ethanol, carbon dioxide, and heat.\n\nWhite wine is primarily made with white grapes, and the skins are separated from the juice before the fermentation process. Red wine is made with darker red or black grapes, and the skins remain on the grapes during the fermentation process.\n\nObjective\n\u201cWine is bottled poetry.\u201d The wine connoisseurs in a wine factory in Portugal are debating on the quality of red and white wines. They thought to take the help of Data Science industry for this work. They hired you as a data scientist as you were the best data scientist in the world. Can you help them out?\n\n\nData Description\nInput variables (based on physicochemical tests):\nfixed acidity\nvolatile acidity\ncitric acid\nresidual sugar\nchlorides\nfree sulfur dioxide\ntotal sulfur dioxide\ndensity\npH\nsulphates\nalcohol Output variable (based on sensory data):quality (score between 0 and 10)\n\n",
+  "datasetId": 2469392,
+  "datasetSlug": "white-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 3238,
+  "totalVotes": 15,
+  "totalDownloads": 470,
+  "title": "White Wine Quality",
+  "hasTitle": true,
+  "subtitle": "Predicting the quality of White Wine",
+  "hasSubtitle": true,
+  "description": "\nAbout Wine\nWine is an alcoholic drink typically made from fermented grapes. Yeast consumes the sugar in the grapes and converts it to ethanol, carbon dioxide, and heat.\n\nWhite wine is primarily made with white grapes, and the skins are separated from the juice before the fermentation process. Red wine is made with darker red or black grapes, and the skins remain on the grapes during the fermentation process.\n\nObjective\n\u201cWine is bottled poetry.\u201d The wine connoisseurs in a wine factory in Portugal are debating on the quality of red and white wines. They thought to take the help of Data Science industry for this work. They hired you as a data scientist as you were the best data scientist in the world. Can you help them out?\n\n\nData Description\nInput variables (based on physicochemical tests):\nfixed acidity\nvolatile acidity\ncitric acid\nresidual sugar\nchlorides\nfree sulfur dioxide\ntotal sulfur dioxide\ndensity\npH\nsulphates\nalcohol Output variable (based on sensory data):quality (score between 0 and 10)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

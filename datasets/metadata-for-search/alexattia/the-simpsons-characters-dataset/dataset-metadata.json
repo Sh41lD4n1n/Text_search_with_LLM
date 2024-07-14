@@ -1,0 +1,41 @@
+{
+  "id": "alexattia/the-simpsons-characters-dataset",
+  "id_no": 1408,
+  "datasetSlugNullable": "the-simpsons-characters-dataset",
+  "ownerUserNullable": "alexattia",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "The Simpsons Characters Data",
+  "subtitleNullable": "Image dataset of 20 characters from The Simpsons",
+  "descriptionNullable": "### Context\n\nAs a big Simpsons fan, I have watched a lot (and still watching) of The Simpson episodes -multiple times each- over the years. I wanted to build a neural network which can recognize characters.  Feel free to check and recommend my Medium post [Part 1 on a classification model][1]  and [Part 2 on a detection model][2]  (Faster R-CNN) about this dataset and what I am doing with it.  You can also find the related [GitHub repo here][3] .\n\n### Content\n\nI am still building this dataset (labeling pictures), I will upload new versions of this dataset. Please check the files there are descriptions and explanations.\n\nFile simpson-set.tar.gz : This is an image dataset: 20 folders (one for each character) with 400-2000 pictures in each folder.\n\nFile simpson-test-set.zip. : Preview of the image dataset\n\nFile weights.best.h5 : Weights computed, in order to predict in Kernels.\n\nFile annotation.txt : Annotation file for bounding boxes for each character\n\n![The 20 characters][4]\n\n### Acknowledgements\n\nIf someone wants to contribute and make this dataset bigger and more relevant, any help will be appreciated.\n\nData is directly taken and labeled from TV show episodes.\n\nFeel free to check and recommend my Medium post [Part 1 on a classification model][1]  and [Part 2 on a detection model][2]  (Faster R-CNN) about this dataset and what I am doing with it.  You can also find the related [GitHub repo here][3] .\n\n# Inspiration\n\nCan you tell the difference between Maggie Simpson and Lisa Simpson?  Was that Lenny Leonard or was that Carl Carlson?\n\n  [1]: https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36\n  [2]: https://medium.com/alex-attia-blog/the-simpsons-characters-recognition-and-detection-part-2-c44f9d5abf37\n  [3]: https://github.com/alexattia/SimpsonRecognition\n  [4]: https://cdn-images-1.medium.com/max/800/1*64laQlCh-57A6AyTXAeRWQ.png",
+  "datasetId": 1408,
+  "datasetSlug": "the-simpsons-characters-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alexattia",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 185142,
+  "totalVotes": 542,
+  "totalDownloads": 22972,
+  "title": "The Simpsons Characters Data",
+  "hasTitle": true,
+  "subtitle": "Image dataset of 20 characters from The Simpsons",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAs a big Simpsons fan, I have watched a lot (and still watching) of The Simpson episodes -multiple times each- over the years. I wanted to build a neural network which can recognize characters.  Feel free to check and recommend my Medium post [Part 1 on a classification model][1]  and [Part 2 on a detection model][2]  (Faster R-CNN) about this dataset and what I am doing with it.  You can also find the related [GitHub repo here][3] .\n\n### Content\n\nI am still building this dataset (labeling pictures), I will upload new versions of this dataset. Please check the files there are descriptions and explanations.\n\nFile simpson-set.tar.gz : This is an image dataset: 20 folders (one for each character) with 400-2000 pictures in each folder.\n\nFile simpson-test-set.zip. : Preview of the image dataset\n\nFile weights.best.h5 : Weights computed, in order to predict in Kernels.\n\nFile annotation.txt : Annotation file for bounding boxes for each character\n\n![The 20 characters][4]\n\n### Acknowledgements\n\nIf someone wants to contribute and make this dataset bigger and more relevant, any help will be appreciated.\n\nData is directly taken and labeled from TV show episodes.\n\nFeel free to check and recommend my Medium post [Part 1 on a classification model][1]  and [Part 2 on a detection model][2]  (Faster R-CNN) about this dataset and what I am doing with it.  You can also find the related [GitHub repo here][3] .\n\n# Inspiration\n\nCan you tell the difference between Maggie Simpson and Lisa Simpson?  Was that Lenny Leonard or was that Carl Carlson?\n\n  [1]: https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36\n  [2]: https://medium.com/alex-attia-blog/the-simpsons-characters-recognition-and-detection-part-2-c44f9d5abf37\n  [3]: https://github.com/alexattia/SimpsonRecognition\n  [4]: https://cdn-images-1.medium.com/max/800/1*64laQlCh-57A6AyTXAeRWQ.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "arts and entertainment",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

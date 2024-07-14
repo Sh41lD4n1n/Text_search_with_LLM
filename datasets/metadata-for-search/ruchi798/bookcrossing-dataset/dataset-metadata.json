@@ -1,0 +1,41 @@
+{
+  "id": "ruchi798/bookcrossing-dataset",
+  "id_no": 825851,
+  "datasetSlugNullable": "bookcrossing-dataset",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Book-Crossing: User review ratings",
+  "subtitleNullable": "A collection of book ratings",
+  "descriptionNullable": "### Content\n\nContains 278,858 users (anonymized but with demographic information) providing 1,149,780 ratings (explicit / implicit) about 271,379 books.\n\nUpdate: \n- Preprocessed data\n- New features: Category, Language and Summary\n\n![](https://img.shields.io/badge/Built%20on-Z8-blue)",
+  "datasetId": 825851,
+  "datasetSlug": "bookcrossing-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 92046,
+  "totalVotes": 331,
+  "totalDownloads": 13378,
+  "title": "Book-Crossing: User review ratings",
+  "hasTitle": true,
+  "subtitle": "A collection of book ratings",
+  "hasSubtitle": true,
+  "description": "### Content\n\nContains 278,858 users (anonymized but with demographic information) providing 1,149,780 ratings (explicit / implicit) about 271,379 books.\n\nUpdate: \n- Preprocessed data\n- New features: Category, Language and Summary\n\n![](https://img.shields.io/badge/Built%20on-Z8-blue)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "literature",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "jtiptj/chest-xray-pneumoniacovid19tuberculosis",
+  "id_no": 1592399,
+  "datasetSlugNullable": "chest-xray-pneumoniacovid19tuberculosis",
+  "ownerUserNullable": "jtiptj",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Chest X-Ray (Pneumonia,Covid-19,Tuberculosis)",
+  "subtitleNullable": "7135 Images, 4 categories",
+  "descriptionNullable": "\n### Content\n\nThe dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Normal/Pneumonia/Covid-19/Tuberculosis). A total of 7135 x-ray images are present.\n\n\n### Acknowledgements\n\n\nSources:\nhttps://www.kaggle.com/paultimothymooney/chest-xray-pneumonia\nhttps://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset\nhttps://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia\nhttps://github.com/ieee8023/covid-chestxray-dataset\n\n\n### Inspiration\n\nApplication of Artificial Intelligence (AI) techniques to detect and classify human diseases from x-ray images",
+  "datasetId": 1592399,
+  "datasetSlug": "chest-xray-pneumoniacovid19tuberculosis",
+  "hasDatasetSlug": true,
+  "ownerUser": "jtiptj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 43855,
+  "totalVotes": 79,
+  "totalDownloads": 7763,
+  "title": "Chest X-Ray (Pneumonia,Covid-19,Tuberculosis)",
+  "hasTitle": true,
+  "subtitle": "7135 Images, 4 categories",
+  "hasSubtitle": true,
+  "description": "\n### Content\n\nThe dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Normal/Pneumonia/Covid-19/Tuberculosis). A total of 7135 x-ray images are present.\n\n\n### Acknowledgements\n\n\nSources:\nhttps://www.kaggle.com/paultimothymooney/chest-xray-pneumonia\nhttps://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset\nhttps://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia\nhttps://github.com/ieee8023/covid-chestxray-dataset\n\n\n### Inspiration\n\nApplication of Artificial Intelligence (AI) techniques to detect and classify human diseases from x-ray images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "diseases",
+    "computer science",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

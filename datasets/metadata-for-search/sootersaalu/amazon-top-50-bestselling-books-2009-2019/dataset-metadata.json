@@ -1,0 +1,43 @@
+{
+  "id": "sootersaalu/amazon-top-50-bestselling-books-2009-2019",
+  "id_no": 918976,
+  "datasetSlugNullable": "amazon-top-50-bestselling-books-2009-2019",
+  "ownerUserNullable": "sootersaalu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Top 50 Bestselling Books 2009 - 2019",
+  "subtitleNullable": "Scrapped dataset on October 2020, categories (fiction/non-fiction) added",
+  "descriptionNullable": "Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads\n",
+  "datasetId": 918976,
+  "datasetSlug": "amazon-top-50-bestselling-books-2009-2019",
+  "hasDatasetSlug": true,
+  "ownerUser": "sootersaalu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 360369,
+  "totalVotes": 1050,
+  "totalDownloads": 65096,
+  "title": "Amazon Top 50 Bestselling Books 2009 - 2019",
+  "hasTitle": true,
+  "subtitle": "Scrapped dataset on October 2020, categories (fiction/non-fiction) added",
+  "hasSubtitle": true,
+  "description": "Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "literature",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

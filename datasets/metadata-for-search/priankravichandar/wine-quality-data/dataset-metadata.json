@@ -1,0 +1,44 @@
+{
+  "id": "priankravichandar/wine-quality-data",
+  "id_no": 1589493,
+  "datasetSlugNullable": "wine-quality-data",
+  "ownerUserNullable": "priankravichandar",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Wine Quality Data",
+  "subtitleNullable": "Red and White variants of the Portuguese \"Vinho Verde\" wine",
+  "descriptionNullable": "### Content\n\nThe data was downloaded from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/wine+quality\n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult: [[Web Link]](https://www.vinhoverde.pt/en/)  or the reference [Cortez et al., 2009]. \n\nIn the above reference, two datasets were created, using red and white wine samples. The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent). Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection ",
+  "datasetId": 1589493,
+  "datasetSlug": "wine-quality-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "priankravichandar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 3382,
+  "totalVotes": 4,
+  "totalDownloads": 396,
+  "title": "Wine Quality Data",
+  "hasTitle": true,
+  "subtitle": "Red and White variants of the Portuguese \"Vinho Verde\" wine",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe data was downloaded from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/wine+quality\n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult: [[Web Link]](https://www.vinhoverde.pt/en/)  or the reference [Cortez et al., 2009]. \n\nIn the above reference, two datasets were created, using red and white wine samples. The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent). Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "model comparison",
+    "random forest",
+    "svm",
+    "decision tree",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

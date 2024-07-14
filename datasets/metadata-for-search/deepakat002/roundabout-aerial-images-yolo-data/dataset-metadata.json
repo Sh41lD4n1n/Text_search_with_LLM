@@ -1,0 +1,42 @@
+{
+  "id": "deepakat002/roundabout-aerial-images-yolo-data",
+  "id_no": 4566020,
+  "datasetSlugNullable": "roundabout-aerial-images-yolo-data",
+  "ownerUserNullable": "deepakat002",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Roundabout Aerial Images YOLO data",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is created from the data available at https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection?select=roundabouts.csv .\n\n\nclasses:\n0-car\n1-cycle\n2-bus\n3-truck\n4-van\n\n\n\n",
+  "datasetId": 4566020,
+  "datasetSlug": "roundabout-aerial-images-yolo-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepakat002",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 230,
+  "totalVotes": 1,
+  "totalDownloads": 38,
+  "title": "Roundabout Aerial Images YOLO data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is created from the data available at https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection?select=roundabouts.csv .\n\n\nclasses:\n0-car\n1-cycle\n2-bus\n3-truck\n4-van\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "programming",
+    "beginner",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

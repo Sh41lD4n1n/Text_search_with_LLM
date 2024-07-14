@@ -1,0 +1,43 @@
+{
+  "id": "datasnaek/youtube",
+  "id_no": 2518,
+  "datasetSlugNullable": "youtube",
+  "ownerUserNullable": "datasnaek",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Trending YouTube Video Statistics and Comments",
+  "subtitleNullable": "Daily statistics (views, likes, category, comments+) for trending YouTube videos",
+  "descriptionNullable": "_________\nUPDATED: https://www.kaggle.com/datasnaek/youtube-new\n\nSOURCE: https://github.com/DataSnaek/Trending-YouTube-Scraper\n\n__________\n\nPlan\n====\n\nData collected from the (up to) 200 listed trending YouTube videos every day in the US and the UK.\n\nDescription\n===========\n\nThe dataset includes data gathered from videos on YouTube that are contained within the trending category each day.\n\nThere are two kinds of data files, one includes comments and one includes video statistics. They are linked by the unique video_id field.\n\n\n\nThe headers in the video file are:\n\n - video_id (Common id field to both comment and video csv files)\n - title\n - channel_title\n - category_id (Can be looked up using the included JSON files, but varies per region so use the appropriate JSON file for the CSV file's country)\n - tags (Separated by | character, [none] is displayed if there are no tags)\n - views\n - likes\n - dislikes\n - thumbnail_link\n - date (Formatted like so: [day].[month])\n\n\n\nThe headers in the comments file are:\n\n - video_id (Common id field to both comment and video csv files)\n - comment_text\n - likes\n - replies\n\nExtra info: The YouTube API is not effective at formatting comments by relevance, although it claims to do so. As a result, the most relevant comments do not align with the top comments at all, they aren't even sorted by likes or replies.\n\nInspiration\n===========\n\nPossible uses for this dataset could include:\n\n - Sentiment analysis in a variety of forms\n - Categorising YouTube videos based on their comments and statistics.\n - Training ML algorithms to generate their own YouTube comments.\n - Analysing what factors affect how popular a YouTube video will be.\n\nAlthough there are likely many more possibilities, including analysis of changes over time etc.\n",
+  "datasetId": 2518,
+  "datasetSlug": "youtube",
+  "hasDatasetSlug": true,
+  "ownerUser": "datasnaek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 211916,
+  "totalVotes": 348,
+  "totalDownloads": 23634,
+  "title": "Trending YouTube Video Statistics and Comments",
+  "hasTitle": true,
+  "subtitle": "Daily statistics (views, likes, category, comments+) for trending YouTube videos",
+  "hasSubtitle": true,
+  "description": "_________\nUPDATED: https://www.kaggle.com/datasnaek/youtube-new\n\nSOURCE: https://github.com/DataSnaek/Trending-YouTube-Scraper\n\n__________\n\nPlan\n====\n\nData collected from the (up to) 200 listed trending YouTube videos every day in the US and the UK.\n\nDescription\n===========\n\nThe dataset includes data gathered from videos on YouTube that are contained within the trending category each day.\n\nThere are two kinds of data files, one includes comments and one includes video statistics. They are linked by the unique video_id field.\n\n\n\nThe headers in the video file are:\n\n - video_id (Common id field to both comment and video csv files)\n - title\n - channel_title\n - category_id (Can be looked up using the included JSON files, but varies per region so use the appropriate JSON file for the CSV file's country)\n - tags (Separated by | character, [none] is displayed if there are no tags)\n - views\n - likes\n - dislikes\n - thumbnail_link\n - date (Formatted like so: [day].[month])\n\n\n\nThe headers in the comments file are:\n\n - video_id (Common id field to both comment and video csv files)\n - comment_text\n - likes\n - replies\n\nExtra info: The YouTube API is not effective at formatting comments by relevance, although it claims to do so. As a result, the most relevant comments do not align with the top comments at all, they aren't even sorted by likes or replies.\n\nInspiration\n===========\n\nPossible uses for this dataset could include:\n\n - Sentiment analysis in a variety of forms\n - Categorising YouTube videos based on their comments and statistics.\n - Training ML algorithms to generate their own YouTube comments.\n - Analysing what factors affect how popular a YouTube video will be.\n\nAlthough there are likely many more possibilities, including analysis of changes over time etc.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "popular culture",
+    "linguistics",
+    "internet",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

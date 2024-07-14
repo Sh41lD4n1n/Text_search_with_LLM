@@ -1,0 +1,39 @@
+{
+  "id": "anasqais/news-headlines-dataset-for-sarcasm-detection",
+  "id_no": 921186,
+  "datasetSlugNullable": "news-headlines-dataset-for-sarcasm-detection",
+  "ownerUserNullable": "anasqais",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "News Headlines Dataset For Sarcasm Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "Context\nPast studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets.\nTo overcome the limitations related to noise in Twitter datasets, this News Headlines dataset for Sarcasm Detection is collected from two news website. TheOnion aims at producing sarcastic versions of current events and we collected all the headlines from News in Brief and News in Photos categories (which are sarcastic). We collect real (and non-sarcastic) news headlines from HuffPost.\nThis new dataset has following advantages over the existing Twitter datasets:\n\u2022\tSince news headlines are written by professionals in a formal manner, there are no spelling mistakes and informal usage. This reduces the sparsity and also increases the chance of finding pre-trained embeddings.\n\u2022\tFurthermore, since the sole purpose of TheOnion is to publish sarcastic news, we get high-quality labels with much less noise as compared to Twitter datasets.\n\u2022\tUnlike tweets which are replies to other tweets, the news headlines we obtained are self-contained. This would help us in teasing apart the real sarcastic elements.\nContent\nEach record consists of three attributes:\n\u2022\tis_sarcastic: 1 if the record is sarcastic otherwise 0\n\u2022\theadline: the headline of the news article\n\u2022\tarticle_link: link to the original news article. Useful in collecting supplementary data\nFurther Details\nGeneral statistics of data, instructions on how to read the data in python, and basic exploratory analysis could be found at this GitHub repo. A hybrid NN architecture trained on this dataset can be found at this GitHub repo.\nInspiration\nCan you identify sarcastic sentences? Can you distinguish between fake news and legitimate news?\nReading the data\nFollowing code snippet could be used to read the data:\nimport json\n\ndef parse_data(file):\n    for l in open(file,'r'):\n        yield json.loads(l)\n\ndata = list(parse_data('./Sarcasm_Headlines_Dataset.json'))\nCitation\nIf you're using this dataset for research purposes, please use the following BibTex for citation:\n@article{misra2019sarcasm,\n  title={Sarcasm Detection using Hybrid Neural Network},\n",
+  "datasetId": 921186,
+  "datasetSlug": "news-headlines-dataset-for-sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "anasqais",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 1684,
+  "totalVotes": 2,
+  "totalDownloads": 94,
+  "title": "News Headlines Dataset For Sarcasm Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Context\nPast studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets.\nTo overcome the limitations related to noise in Twitter datasets, this News Headlines dataset for Sarcasm Detection is collected from two news website. TheOnion aims at producing sarcastic versions of current events and we collected all the headlines from News in Brief and News in Photos categories (which are sarcastic). We collect real (and non-sarcastic) news headlines from HuffPost.\nThis new dataset has following advantages over the existing Twitter datasets:\n\u2022\tSince news headlines are written by professionals in a formal manner, there are no spelling mistakes and informal usage. This reduces the sparsity and also increases the chance of finding pre-trained embeddings.\n\u2022\tFurthermore, since the sole purpose of TheOnion is to publish sarcastic news, we get high-quality labels with much less noise as compared to Twitter datasets.\n\u2022\tUnlike tweets which are replies to other tweets, the news headlines we obtained are self-contained. This would help us in teasing apart the real sarcastic elements.\nContent\nEach record consists of three attributes:\n\u2022\tis_sarcastic: 1 if the record is sarcastic otherwise 0\n\u2022\theadline: the headline of the news article\n\u2022\tarticle_link: link to the original news article. Useful in collecting supplementary data\nFurther Details\nGeneral statistics of data, instructions on how to read the data in python, and basic exploratory analysis could be found at this GitHub repo. A hybrid NN architecture trained on this dataset can be found at this GitHub repo.\nInspiration\nCan you identify sarcastic sentences? Can you distinguish between fake news and legitimate news?\nReading the data\nFollowing code snippet could be used to read the data:\nimport json\n\ndef parse_data(file):\n    for l in open(file,'r'):\n        yield json.loads(l)\n\ndata = list(parse_data('./Sarcasm_Headlines_Dataset.json'))\nCitation\nIf you're using this dataset for research purposes, please use the following BibTex for citation:\n@article{misra2019sarcasm,\n  title={Sarcasm Detection using Hybrid Neural Network},\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "timoboz/google-trends-data",
+  "id_no": 500885,
+  "datasetSlugNullable": "google-trends-data",
+  "ownerUserNullable": "timoboz",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Google Trends Data",
+  "subtitleNullable": "Google Trends Data for various topics",
+  "descriptionNullable": "This repo contains open-source datasets behind the graphics, interactives, and analyses at [Google Trends](https://www.google.com/trends). Every day we will add new datasets behind our graphics and charts. \n\n### What is the data?\nThe data primarily comes from our analysis of Google Trends, but will on occasion include other Google tools such as YouTube, Play and Waze. It is primarily:\n\n- Aggregated\n- Anonymised\n- Indexed\n- Normalized\n\n### What can you do with it?\nThe data is deliberately designed for you to play with, explore and create visualizations. We want to know what you do so we can share it on our social channels and inspire others to play with it too.\n\n### Useful links:\n- [Google Trends](https://www.google.com/trends)\n- [Google News Lab](https://www.google.com/newslab)\n- [@GoogleTrends](https://www.twitter.com/googletrends)\n\n",
+  "datasetId": 500885,
+  "datasetSlug": "google-trends-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "timoboz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 75351,
+  "totalVotes": 237,
+  "totalDownloads": 5214,
+  "title": "Google Trends Data",
+  "hasTitle": true,
+  "subtitle": "Google Trends Data for various topics",
+  "hasSubtitle": true,
+  "description": "This repo contains open-source datasets behind the graphics, interactives, and analyses at [Google Trends](https://www.google.com/trends). Every day we will add new datasets behind our graphics and charts. \n\n### What is the data?\nThe data primarily comes from our analysis of Google Trends, but will on occasion include other Google tools such as YouTube, Play and Waze. It is primarily:\n\n- Aggregated\n- Anonymised\n- Indexed\n- Normalized\n\n### What can you do with it?\nThe data is deliberately designed for you to play with, explore and create visualizations. We want to know what you do so we can share it on our social channels and inspire others to play with it too.\n\n### Useful links:\n- [Google Trends](https://www.google.com/trends)\n- [Google News Lab](https://www.google.com/newslab)\n- [@GoogleTrends](https://www.twitter.com/googletrends)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "internet",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

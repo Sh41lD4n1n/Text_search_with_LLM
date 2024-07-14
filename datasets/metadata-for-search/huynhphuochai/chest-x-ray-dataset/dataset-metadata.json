@@ -1,0 +1,44 @@
+{
+  "id": "huynhphuochai/chest-x-ray-dataset",
+  "id_no": 4955500,
+  "datasetSlugNullable": "chest-x-ray-dataset",
+  "ownerUserNullable": "huynhphuochai",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Chest X-Ray Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Please cite: **Enhancing COVID-19 prediction using transfer learning from Chest X-ray images**\n\nP. -H. Huynh, T. -N. Tran and V. H. Nguyen, \"Enhancing COVID-19 prediction using transfer learning from Chest X-ray images,\" 2021 8th NAFOSTED Conference on Information and Computer Science (NICS), Hanoi, Vietnam, 2021, pp. 398-403, doi: 10.1109/NICS54270.2021.9701516.\n\n&gt;@INPROCEEDINGS{9701516,\n  author={Huynh, Phuoc-Hai and Tran, Trung-Nguyen and Nguyen, Van Hoa},\n  booktitle={2021 8th NAFOSTED Conference on Information and Computer Science (NICS)}, \n  title={Enhancing COVID-19 prediction using transfer learning from Chest X-ray images}, \n  year={2021},\n  volume={},\n  number={},\n  pages={398-403},\n  keywords={COVID-19;Training;Pandemics;Pulmonary diseases;Computational modeling;Transfer learning;Predictive models;COVID-19;transfer learning;imbalanced dataset;X-Ray images},\n  doi={10.1109/NICS54270.2021.9701516}}\n\n\n",
+  "datasetId": 4955500,
+  "datasetSlug": "chest-x-ray-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "huynhphuochai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 60,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Chest X-Ray Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Please cite: **Enhancing COVID-19 prediction using transfer learning from Chest X-ray images**\n\nP. -H. Huynh, T. -N. Tran and V. H. Nguyen, \"Enhancing COVID-19 prediction using transfer learning from Chest X-ray images,\" 2021 8th NAFOSTED Conference on Information and Computer Science (NICS), Hanoi, Vietnam, 2021, pp. 398-403, doi: 10.1109/NICS54270.2021.9701516.\n\n&gt;@INPROCEEDINGS{9701516,\n  author={Huynh, Phuoc-Hai and Tran, Trung-Nguyen and Nguyen, Van Hoa},\n  booktitle={2021 8th NAFOSTED Conference on Information and Computer Science (NICS)}, \n  title={Enhancing COVID-19 prediction using transfer learning from Chest X-ray images}, \n  year={2021},\n  volume={},\n  number={},\n  pages={398-403},\n  keywords={COVID-19;Training;Pandemics;Pulmonary diseases;Computational modeling;Transfer learning;Predictive models;COVID-19;transfer learning;imbalanced dataset;X-Ray images},\n  doi={10.1109/NICS54270.2021.9701516}}\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "huykhngngu",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

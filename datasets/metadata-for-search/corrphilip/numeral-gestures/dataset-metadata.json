@@ -1,0 +1,42 @@
+{
+  "id": "corrphilip/numeral-gestures",
+  "id_no": 2200,
+  "datasetSlugNullable": "numeral-gestures",
+  "ownerUserNullable": "corrphilip",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Numeral Gestures recorded on iOS",
+  "subtitleNullable": "The numbers 0-9 drawn by 257 people",
+  "descriptionNullable": "### Context\nThis dataset was recorded as part of an investigation into machine learning algorithms for iOS. 20,136 glyphs were drawn by 257 subjects on the touch screen of an iPhone 6.\n\nAn iOS app was developed to record the dataset. Firstly, subjects entered their age, sex, nationality and handedness. Each subject was then instructed to draw the digits 0 to 9 on the touchscreen using their index finger and thumb. This was repeated four times for each subject resulting in 80 glyphs drawn per subject, 40 using index finger and 40 using thumb. The sequence of glyph entry was random. Instructions to the user were provided using voice synthesis to avoid suggesting a specific glyph rendering. \n\nThe index finger and thumb were both used to account for situations in which the subject may only have one hand free. The aim here was to train a model that could accurately classify the glyph drawn in as many real life scenarios as possible. \n\nCubic interpolation of touches during gesture input was rendered on the screen to provide visual feedback to the subject and to compute arclengths. The screen was initially blank (white) and the gestures were displayed in black. \nThe subject could use most of screen to draw with small areas at the top and bottom reserved for instructions/interactions/guidance.\nThe subject was permitted to erase and repeat the entry, if desired.\n\n### Content\n\n![Database Schema][1]\n\nThe database consists of 4 tables as seen in the schema. The tables are Subject, Glyph, Stroke and Touch. This is a logical structure as each subject draws 80 glyphs, each glyph consists of a number of strokes and each stroke consists of a number of touches. The four tables are presented in csv format and sqlite format. \n\nNote that, in the files below, all columns start with a capital Z. This is automatically prepended to column names by Core Data, apples database framework. Column names which start with Z_ were automatically created by Core Data and hence, do not appear in the schema above.\n\nThe tables are connected through the first column in each table (Z_PK). This primary key links to the relevant column name in the next table. For example,  the subject that entered any given glyph can be found by taking the value from the ZSUBJECT column in the glyph table and finding the matching Z_PK value in the subject table.\n\n### Some questions to get you started...\n\n* What is the best model for classifying glyphs?\n* What is the best model for classifying sequences of these glyphs?\n* What is the best model to predict what number a glyph is before completion?\n* How much of the glyph needs to be completed before a prediction can be made?\n* What is the best method for interpolating between the touches in the dataset?\n* How can a trained model be integrated into iOS apps?\n\n### CITATION REQUEST\n\nPlease cite the following paper in any publications reporting on use of this dataset:\n\nPhilip J. Corr, Guenole C. Silvestre, Chris J. Bleakley\nOpen Source Dataset and Deep Learning Models for Online Digit Gesture Recognition on Touchscreens\nIrish Machine Vision and Image Processing Conference (IMVIP) 2017\nMaynooth, Ireland, 30 August-1 September 2017\nhttp://arxiv.org/abs/1709.06871\n\n  [1]: https://raw.githubusercontent.com/PhilipCorr/numeral-gesture-dataset/master/database.png",
+  "datasetId": 2200,
+  "datasetSlug": "numeral-gestures",
+  "hasDatasetSlug": true,
+  "ownerUser": "corrphilip",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 9006,
+  "totalVotes": 22,
+  "totalDownloads": 451,
+  "title": "Numeral Gestures recorded on iOS",
+  "hasTitle": true,
+  "subtitle": "The numbers 0-9 drawn by 257 people",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset was recorded as part of an investigation into machine learning algorithms for iOS. 20,136 glyphs were drawn by 257 subjects on the touch screen of an iPhone 6.\n\nAn iOS app was developed to record the dataset. Firstly, subjects entered their age, sex, nationality and handedness. Each subject was then instructed to draw the digits 0 to 9 on the touchscreen using their index finger and thumb. This was repeated four times for each subject resulting in 80 glyphs drawn per subject, 40 using index finger and 40 using thumb. The sequence of glyph entry was random. Instructions to the user were provided using voice synthesis to avoid suggesting a specific glyph rendering. \n\nThe index finger and thumb were both used to account for situations in which the subject may only have one hand free. The aim here was to train a model that could accurately classify the glyph drawn in as many real life scenarios as possible. \n\nCubic interpolation of touches during gesture input was rendered on the screen to provide visual feedback to the subject and to compute arclengths. The screen was initially blank (white) and the gestures were displayed in black. \nThe subject could use most of screen to draw with small areas at the top and bottom reserved for instructions/interactions/guidance.\nThe subject was permitted to erase and repeat the entry, if desired.\n\n### Content\n\n![Database Schema][1]\n\nThe database consists of 4 tables as seen in the schema. The tables are Subject, Glyph, Stroke and Touch. This is a logical structure as each subject draws 80 glyphs, each glyph consists of a number of strokes and each stroke consists of a number of touches. The four tables are presented in csv format and sqlite format. \n\nNote that, in the files below, all columns start with a capital Z. This is automatically prepended to column names by Core Data, apples database framework. Column names which start with Z_ were automatically created by Core Data and hence, do not appear in the schema above.\n\nThe tables are connected through the first column in each table (Z_PK). This primary key links to the relevant column name in the next table. For example,  the subject that entered any given glyph can be found by taking the value from the ZSUBJECT column in the glyph table and finding the matching Z_PK value in the subject table.\n\n### Some questions to get you started...\n\n* What is the best model for classifying glyphs?\n* What is the best model for classifying sequences of these glyphs?\n* What is the best model to predict what number a glyph is before completion?\n* How much of the glyph needs to be completed before a prediction can be made?\n* What is the best method for interpolating between the touches in the dataset?\n* How can a trained model be integrated into iOS apps?\n\n### CITATION REQUEST\n\nPlease cite the following paper in any publications reporting on use of this dataset:\n\nPhilip J. Corr, Guenole C. Silvestre, Chris J. Bleakley\nOpen Source Dataset and Deep Learning Models for Online Digit Gesture Recognition on Touchscreens\nIrish Machine Vision and Image Processing Conference (IMVIP) 2017\nMaynooth, Ireland, 30 August-1 September 2017\nhttp://arxiv.org/abs/1709.06871\n\n  [1]: https://raw.githubusercontent.com/PhilipCorr/numeral-gesture-dataset/master/database.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "business",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

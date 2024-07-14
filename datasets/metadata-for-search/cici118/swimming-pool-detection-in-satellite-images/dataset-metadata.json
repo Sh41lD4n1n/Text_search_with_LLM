@@ -1,0 +1,42 @@
+{
+  "id": "cici118/swimming-pool-detection-in-satellite-images",
+  "id_no": 1247638,
+  "datasetSlugNullable": "swimming-pool-detection-in-satellite-images",
+  "ownerUserNullable": "cici118",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Swimming Pool Detection in Satellite Images ",
+  "subtitleNullable": "Satellite images for training and testing a swimming pool detector",
+  "descriptionNullable": "### Context\n\nThis is an adaptation of the \"Swimming Pool and Car Detection\" dataset by Kartik Bhartiya.\nThe dataset was modified to remove the car annotations samples as to be used exclusively for swimming pool detection. Also, the original dataset didn't provided annotations for the testing set, which made it impossible to build a confusion matrix, so the annotations files for the class swimming pool were created.\n\n###Cite\n\nWe ask you to cite this paper in any research based on this dataset!\n\n- Coelho C., Costa M.F.P., Ferr\u00e1s L.L., Soares A.J. (2021) Object Detection with RetinaNet on Aerial Imagery: The Algarve Landscape. In: Gervasi O. et al. (eds) Computational Science and Its Applications \u2013 ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12950. Springer, Cham. https://doi.org/10.1007/978-3-030-86960-1_35\n\n### Content\n\nTwo folders: a training folder to be used in the development of a swimming pool detection model; a testing folder to test the performance of the trained model. In the training folder there are 1993 training images with the corresponding annotations files  in the PASCAL VOC format. While the testing folder has 2703 testing images with a total amount of 620 swimming pools distributed across 524 images. \n\n\n\n\n### Acknowledgements\n\nI would like to acknowledge Kartik Bhartiya, the creator of the original dataset.\n\n",
+  "datasetId": 1247638,
+  "datasetSlug": "swimming-pool-detection-in-satellite-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "cici118",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4646,
+  "totalVotes": 10,
+  "totalDownloads": 373,
+  "title": "Swimming Pool Detection in Satellite Images ",
+  "hasTitle": true,
+  "subtitle": "Satellite images for training and testing a swimming pool detector",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is an adaptation of the \"Swimming Pool and Car Detection\" dataset by Kartik Bhartiya.\nThe dataset was modified to remove the car annotations samples as to be used exclusively for swimming pool detection. Also, the original dataset didn't provided annotations for the testing set, which made it impossible to build a confusion matrix, so the annotations files for the class swimming pool were created.\n\n###Cite\n\nWe ask you to cite this paper in any research based on this dataset!\n\n- Coelho C., Costa M.F.P., Ferr\u00e1s L.L., Soares A.J. (2021) Object Detection with RetinaNet on Aerial Imagery: The Algarve Landscape. In: Gervasi O. et al. (eds) Computational Science and Its Applications \u2013 ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12950. Springer, Cham. https://doi.org/10.1007/978-3-030-86960-1_35\n\n### Content\n\nTwo folders: a training folder to be used in the development of a swimming pool detection model; a testing folder to test the performance of the trained model. In the training folder there are 1993 training images with the corresponding annotations files  in the PASCAL VOC format. While the testing folder has 2703 testing images with a total amount of 620 swimming pools distributed across 524 images. \n\n\n\n\n### Acknowledgements\n\nI would like to acknowledge Kartik Bhartiya, the creator of the original dataset.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

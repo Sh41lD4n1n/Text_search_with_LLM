@@ -1,0 +1,48 @@
+{
+  "id": "mayeesha/bengali-question-answering-dataset",
+  "id_no": 1182520,
+  "datasetSlugNullable": "bengali-question-answering-dataset",
+  "ownerUserNullable": "mayeesha",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Bengali Question Answering Dataset",
+  "subtitleNullable": "SQuAD 2.0 translated to Bengali language.",
+  "descriptionNullable": "This dataset contains the data for the paper \"Deep learning based question answering system in Bengali\". It is a translated version of SQuAD 2.0 dataset to bengali language. Preprocessing details can be found in the paper.\nLink : https://zenodo.org/record/4557874#.YDVGxegzZPZ\nPaper : https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1833136\nAuthors : Tasmiah Tahsin Mayeesha; Abdullah Md Sarwar; Rashedur M. Rahman\n\nsample : \n![](https://scontent.fdac6-1.fna.fbcdn.net/v/t1.0-9/151675922_10217318621148654_4067061965950314884_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbeb18&_nc_eui2=AeEXBSi_Fhxwcr0CBbIZ4DNde7poq9GKThh7umir0YpOGBAZP-fh-h_JnXJLTArXR-w&_nc_ohc=NsalPs0Ic8IAX_ot95-&_nc_ht=scontent.fdac6-1.fna&oh=3bc2d944519d45c1dc2bcae1b02f37ee&oe=607FB500)\ncoowners : \nTahsin Mayeesha's profile : https://www.kaggle.com/mayeesha\nCollaborator profiles : https://www.kaggle.com/thedrowsywinger\n\n",
+  "datasetId": 1182520,
+  "datasetSlug": "bengali-question-answering-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mayeesha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 6335,
+  "totalVotes": 22,
+  "totalDownloads": 256,
+  "title": "Bengali Question Answering Dataset",
+  "hasTitle": true,
+  "subtitle": "SQuAD 2.0 translated to Bengali language.",
+  "hasSubtitle": true,
+  "description": "This dataset contains the data for the paper \"Deep learning based question answering system in Bengali\". It is a translated version of SQuAD 2.0 dataset to bengali language. Preprocessing details can be found in the paper.\nLink : https://zenodo.org/record/4557874#.YDVGxegzZPZ\nPaper : https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1833136\nAuthors : Tasmiah Tahsin Mayeesha; Abdullah Md Sarwar; Rashedur M. Rahman\n\nsample : \n![](https://scontent.fdac6-1.fna.fbcdn.net/v/t1.0-9/151675922_10217318621148654_4067061965950314884_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbeb18&_nc_eui2=AeEXBSi_Fhxwcr0CBbIZ4DNde7poq9GKThh7umir0YpOGBAZP-fh-h_JnXJLTArXR-w&_nc_ohc=NsalPs0Ic8IAX_ot95-&_nc_ht=scontent.fdac6-1.fna&oh=3bc2d944519d45c1dc2bcae1b02f37ee&oe=607FB500)\ncoowners : \nTahsin Mayeesha's profile : https://www.kaggle.com/mayeesha\nCollaborator profiles : https://www.kaggle.com/thedrowsywinger\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "standardized testing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mobassir",
+      "role": "writer"
+    },
+    {
+      "username": "thedrowsywinger",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

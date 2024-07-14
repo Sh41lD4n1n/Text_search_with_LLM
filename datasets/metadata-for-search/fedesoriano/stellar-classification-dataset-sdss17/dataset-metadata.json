@@ -1,0 +1,44 @@
+{
+  "id": "fedesoriano/stellar-classification-dataset-sdss17",
+  "id_no": 1866141,
+  "datasetSlugNullable": "stellar-classification-dataset-sdss17",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Stellar Classification Dataset - SDSS17",
+  "subtitleNullable": "Classification of Stars, Galaxies and Quasars. Sloan Digital Sky Survey DR17",
+  "descriptionNullable": "### Similar Datasets\n\n- CERN Proton Collision Dataset: [LINK](https://www.kaggle.com/fedesoriano/multijet-primary-dataset)\n- Airfoil Self-Noise Dataset: [LINK](https://www.kaggle.com/fedesoriano/airfoil-selfnoise-dataset)\n- CERN Electron Collision Data: [LINK](https://www.kaggle.com/fedesoriano/cern-electron-collision-data)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nIn astronomy, stellar classification is the classification of stars based on their spectral characteristics. The classification scheme of galaxies, quasars, and stars is one of the most fundamental in astronomy. The early cataloguing of stars and their distribution in the sky has led to the understanding that they make up our own galaxy and, following the distinction that Andromeda was a separate galaxy to our own, numerous galaxies began to be surveyed as more powerful telescopes were built. This datasat aims to classificate stars, galaxies, and quasars based on their spectral characteristics.\n\n\n### Content\n\nThe data consists of 100,000 observations of space taken by the SDSS (Sloan Digital Sky Survey). Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.\n1. obj\\_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS\n1. alpha = Right Ascension angle (at J2000 epoch)\n1. delta = Declination angle (at J2000 epoch)\n1. u = Ultraviolet filter in the photometric system\n1. g = Green filter in the photometric system\n1. r = Red filter in the photometric system\n1. i = Near Infrared filter in the photometric system\n1. z = Infrared filter in the photometric system\n1. run\\_ID = Run Number used to identify the specific scan\n1. rereun\\_ID = Rerun Number to specify how the image was processed\n1. cam\\_col = Camera column to identify the scanline within the run\n1. field\\_ID = Field number to identify each field\n1. spec\\_obj\\_ID = Unique ID used for optical spectroscopic objects (this means that 2 different observations with the same spec\\_obj\\_ID must share the output class)\n1. class = object class (galaxy, star or quasar object)\n1. redshift = redshift value based on the increase in wavelength\n1. plate = plate ID, identifies each plate in SDSS\n1. MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken\n1. fiber\\_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation\n\n\n### Citation\n\n&gt; fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.\n\n\n### Acknowledgements\n\nThe data released by the SDSS is under public domain. Its taken from the current data release RD17.\n- More information about the license: [http://www.sdss.org/science/image-gallery/](http://www.sdss.org/science/image-gallery/)\n\nSDSS Publications: \n- Abdurro\u2019uf et al., The Seventeenth data release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 DATA (Abdurro\u2019uf et al. submitted to ApJS) [[arXiv:2112.02026]](https://arxiv.org/abs/2112.02026)\n",
+  "datasetId": 1866141,
+  "datasetSlug": "stellar-classification-dataset-sdss17",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 132445,
+  "totalVotes": 248,
+  "totalDownloads": 13031,
+  "title": "Stellar Classification Dataset - SDSS17",
+  "hasTitle": true,
+  "subtitle": "Classification of Stars, Galaxies and Quasars. Sloan Digital Sky Survey DR17",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets\n\n- CERN Proton Collision Dataset: [LINK](https://www.kaggle.com/fedesoriano/multijet-primary-dataset)\n- Airfoil Self-Noise Dataset: [LINK](https://www.kaggle.com/fedesoriano/airfoil-selfnoise-dataset)\n- CERN Electron Collision Data: [LINK](https://www.kaggle.com/fedesoriano/cern-electron-collision-data)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nIn astronomy, stellar classification is the classification of stars based on their spectral characteristics. The classification scheme of galaxies, quasars, and stars is one of the most fundamental in astronomy. The early cataloguing of stars and their distribution in the sky has led to the understanding that they make up our own galaxy and, following the distinction that Andromeda was a separate galaxy to our own, numerous galaxies began to be surveyed as more powerful telescopes were built. This datasat aims to classificate stars, galaxies, and quasars based on their spectral characteristics.\n\n\n### Content\n\nThe data consists of 100,000 observations of space taken by the SDSS (Sloan Digital Sky Survey). Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.\n1. obj\\_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS\n1. alpha = Right Ascension angle (at J2000 epoch)\n1. delta = Declination angle (at J2000 epoch)\n1. u = Ultraviolet filter in the photometric system\n1. g = Green filter in the photometric system\n1. r = Red filter in the photometric system\n1. i = Near Infrared filter in the photometric system\n1. z = Infrared filter in the photometric system\n1. run\\_ID = Run Number used to identify the specific scan\n1. rereun\\_ID = Rerun Number to specify how the image was processed\n1. cam\\_col = Camera column to identify the scanline within the run\n1. field\\_ID = Field number to identify each field\n1. spec\\_obj\\_ID = Unique ID used for optical spectroscopic objects (this means that 2 different observations with the same spec\\_obj\\_ID must share the output class)\n1. class = object class (galaxy, star or quasar object)\n1. redshift = redshift value based on the increase in wavelength\n1. plate = plate ID, identifies each plate in SDSS\n1. MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken\n1. fiber\\_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation\n\n\n### Citation\n\n&gt; fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.\n\n\n### Acknowledgements\n\nThe data released by the SDSS is under public domain. Its taken from the current data release RD17.\n- More information about the license: [http://www.sdss.org/science/image-gallery/](http://www.sdss.org/science/image-gallery/)\n\nSDSS Publications: \n- Abdurro\u2019uf et al., The Seventeenth data release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 DATA (Abdurro\u2019uf et al. submitted to ApJS) [[arXiv:2112.02026]](https://arxiv.org/abs/2112.02026)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "astronomy",
+    "physics",
+    "beginner",
+    "classification",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

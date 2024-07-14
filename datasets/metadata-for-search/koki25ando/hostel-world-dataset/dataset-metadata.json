@@ -1,0 +1,41 @@
+{
+  "id": "koki25ando/hostel-world-dataset",
+  "id_no": 35370,
+  "datasetSlugNullable": "hostel-world-dataset",
+  "ownerUserNullable": "koki25ando",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Japan Hostel Dataset",
+  "subtitleNullable": "Data for 300+ Hostels in Japan by HostelWorld",
+  "descriptionNullable": "### Context\n\nThis data contains information of over 300 hostels in Japan. Whole scraping scripts are on [my Github page.][1]\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nThis data was scraped from [HostelWorld.com][2].\n\nTheir srvice is for young and independent travellers seeking a social travel experience. The gourp focuses on hostels, maintains a leding hostel database with over 16,000 hostels and approximately 20,000 other forms of budget accommodation available globally unlike the other travel agents.\nSince 2005, it has also been managing customer-generated review database consisting of more than 10 million post-stay reviews. \n\n# Stakeholder\n\nUpcoming foreign visitors. It is expected that the number of foreign tourists coming to Japan will be increasing till 2020 when Olympic will be held in Tokyo. So, considering another method of staying in Japan apart from Hotels would benefit to all the tourists who are planning to visit Japan in near future.\n\n\n### Inspiration\n\nAnalyze dataset about hostels in Japan. \n\n\n  [1]: https://github.com/koki25ando/Hostel-Data-Scraping/blob/master/hostel.R\n  [2]: https://www.hostelworld.com/",
+  "datasetId": 35370,
+  "datasetSlug": "hostel-world-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "koki25ando",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 42728,
+  "totalVotes": 89,
+  "totalDownloads": 4902,
+  "title": "Japan Hostel Dataset",
+  "hasTitle": true,
+  "subtitle": "Data for 300+ Hostels in Japan by HostelWorld",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data contains information of over 300 hostels in Japan. Whole scraping scripts are on [my Github page.][1]\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nThis data was scraped from [HostelWorld.com][2].\n\nTheir srvice is for young and independent travellers seeking a social travel experience. The gourp focuses on hostels, maintains a leding hostel database with over 16,000 hostels and approximately 20,000 other forms of budget accommodation available globally unlike the other travel agents.\nSince 2005, it has also been managing customer-generated review database consisting of more than 10 million post-stay reviews. \n\n# Stakeholder\n\nUpcoming foreign visitors. It is expected that the number of foreign tourists coming to Japan will be increasing till 2020 when Olympic will be held in Tokyo. So, considering another method of staying in Japan apart from Hotels would benefit to all the tourists who are planning to visit Japan in near future.\n\n\n### Inspiration\n\nAnalyze dataset about hostels in Japan. \n\n\n  [1]: https://github.com/koki25ando/Hostel-Data-Scraping/blob/master/hostel.R\n  [2]: https://www.hostelworld.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "travel",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

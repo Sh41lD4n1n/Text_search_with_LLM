@@ -1,0 +1,42 @@
+{
+  "id": "kartikeybartwal/dataset",
+  "id_no": 5218237,
+  "datasetSlugNullable": "dataset",
+  "ownerUserNullable": "kartikeybartwal",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Healthy and Unhealthy Goat Images",
+  "subtitleNullable": "For Educational, Research or Commercial Purpose",
+  "descriptionNullable": "Collection of images depicting healthy and unhealthy conditions in goats, showcasing visual examples for veterinary diagnostics, research, and educational purposes. The dataset includes diverse images highlighting symptoms, physical traits, and conditions affecting goat health, supporting studies on animal welfare, disease detection, and agricultural management",
+  "datasetId": 5218237,
+  "datasetSlug": "dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kartikeybartwal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 15,
+  "totalVotes": 2,
+  "totalDownloads": 0,
+  "title": "Healthy and Unhealthy Goat Images",
+  "hasTitle": true,
+  "subtitle": "For Educational, Research or Commercial Purpose",
+  "hasSubtitle": true,
+  "description": "Collection of images depicting healthy and unhealthy conditions in goats, showcasing visual examples for veterinary diagnostics, research, and educational purposes. The dataset includes diverse images highlighting symptoms, physical traits, and conditions affecting goat health, supporting studies on animal welfare, disease detection, and agricultural management",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "education",
+    "intermediate",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

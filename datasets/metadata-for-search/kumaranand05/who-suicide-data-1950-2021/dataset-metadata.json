@@ -1,0 +1,43 @@
+{
+  "id": "kumaranand05/who-suicide-data-1950-2021",
+  "id_no": 3648902,
+  "datasetSlugNullable": "who-suicide-data-1950-2021",
+  "ownerUserNullable": "kumaranand05",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "WHO Suicide Data (1950-2021)",
+  "subtitleNullable": "Number of deaths from suicide by different age groups and genders.",
+  "descriptionNullable": "This data contains stats about number of death due to self inflicted injuries/suicides across the world for 118 countries, across age groups ranging from 0-85+ Years for male, female and unknown gender.\n\nIt contains data for year 1950-2021, however after analysis I felt the data for recent years were incomplete.\nThe data was collected from website of [World Health Organisation](https://platform.who.int/mortality/themes/theme-details/topics/indicator-groups/indicator-group-details/MDB/self-inflicted-injuries), WHO holds any of the rights related to the data; check their [Copyright Policies](https://www.who.int/about/policies/publishing/copyright) in case of commercial usages.\n\nThe dataset consists of two segment, one is Mortality Data directory which consists of collected raw data from WHO website. The directory is categorized into 3 parts for different gender which consists of multiple csv for different age groups. The other file combined_processed_data.csv is the final processed combined data of all the raw data. The notebook used for cleaning and formatting can be accessed from end of this page under related notebooks section.",
+  "datasetId": 3648902,
+  "datasetSlug": "who-suicide-data-1950-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "kumaranand05",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8461,
+  "totalVotes": 40,
+  "totalDownloads": 1612,
+  "title": "WHO Suicide Data (1950-2021)",
+  "hasTitle": true,
+  "subtitle": "Number of deaths from suicide by different age groups and genders.",
+  "hasSubtitle": true,
+  "description": "This data contains stats about number of death due to self inflicted injuries/suicides across the world for 118 countries, across age groups ranging from 0-85+ Years for male, female and unknown gender.\n\nIt contains data for year 1950-2021, however after analysis I felt the data for recent years were incomplete.\nThe data was collected from website of [World Health Organisation](https://platform.who.int/mortality/themes/theme-details/topics/indicator-groups/indicator-group-details/MDB/self-inflicted-injuries), WHO holds any of the rights related to the data; check their [Copyright Policies](https://www.who.int/about/policies/publishing/copyright) in case of commercial usages.\n\nThe dataset consists of two segment, one is Mortality Data directory which consists of collected raw data from WHO website. The directory is categorized into 3 parts for different gender which consists of multiple csv for different age groups. The other file combined_processed_data.csv is the final processed combined data of all the raw data. The notebook used for cleaning and formatting can be accessed from end of this page under related notebooks section.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "mortality",
+    "exploratory data analysis",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 IGO (CC BY 3.0 IGO)",
+      "name": "Attribution 3.0 IGO (CC BY 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

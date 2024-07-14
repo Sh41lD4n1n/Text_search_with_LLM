@@ -1,0 +1,40 @@
+{
+  "id": "andersarnold/hand-gesture-recognition-3-classes-64x64",
+  "id_no": 5131528,
+  "datasetSlugNullable": "hand-gesture-recognition-3-classes-64x64",
+  "ownerUserNullable": "andersarnold",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Hand Gesture Recognition (3 Classes, 64X64)",
+  "subtitleNullable": "",
+  "descriptionNullable": "There are 300 images in train folder and 200 images in test folder. Dimension of each image is 64px X 64px. Each image contains one of the following three hand gestures :\n- Open Palm\n- Thumbs Up\n- Fist",
+  "datasetId": 5131528,
+  "datasetSlug": "hand-gesture-recognition-3-classes-64x64",
+  "hasDatasetSlug": true,
+  "ownerUser": "andersarnold",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 17,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Hand Gesture Recognition (3 Classes, 64X64)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "There are 300 images in train folder and 200 images in test folder. Dimension of each image is 64px X 64px. Each image contains one of the following three hand gestures :\n- Open Palm\n- Thumbs Up\n- Fist",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "/anime-recommendations-database",
+  "id_no": 571,
+  "datasetSlugNullable": "anime-recommendations-database",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Anime Recommendations Database",
+  "subtitleNullable": "Recommendation data from 76,000 users at myanimelist.net",
+  "descriptionNullable": "# Context \n\nThis data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.\n\n# Content\n\nAnime.csv\n\n - anime_id - myanimelist.net's unique id identifying an anime.\n - name - full name of anime.\n - genre - comma separated list of genres for this anime.\n - type - movie, TV, OVA, etc.\n - episodes - how many episodes in this show. (1 if movie).\n - rating - average rating out of 10 for this anime.\n - members - number of community members that are in this anime's\n   \"group\".\n\nRating.csv\n\n - user_id - non identifiable randomly generated user id.\n - anime_id - the anime that this user has rated.\n - rating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).\n\n# Acknowledgements\n\nThanks to myanimelist.net API for providing anime data and user ratings.\n\n# Inspiration\n\nBuilding a better anime recommendation system based only on user viewing history.",
+  "datasetId": 571,
+  "datasetSlug": "anime-recommendations-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 437315,
+  "totalVotes": 1294,
+  "totalDownloads": 61056,
+  "title": "Anime Recommendations Database",
+  "hasTitle": true,
+  "subtitle": "Recommendation data from 76,000 users at myanimelist.net",
+  "hasSubtitle": true,
+  "description": "# Context \n\nThis data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.\n\n# Content\n\nAnime.csv\n\n - anime_id - myanimelist.net's unique id identifying an anime.\n - name - full name of anime.\n - genre - comma separated list of genres for this anime.\n - type - movie, TV, OVA, etc.\n - episodes - how many episodes in this show. (1 if movie).\n - rating - average rating out of 10 for this anime.\n - members - number of community members that are in this anime's\n   \"group\".\n\nRating.csv\n\n - user_id - non identifiable randomly generated user id.\n - anime_id - the anime that this user has rated.\n - rating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).\n\n# Acknowledgements\n\nThanks to myanimelist.net API for providing anime data and user ratings.\n\n# Inspiration\n\nBuilding a better anime recommendation system based only on user viewing history.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "movies and tv shows",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

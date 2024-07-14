@@ -1,0 +1,40 @@
+{
+  "id": "sky2656/california-real-state-dataset",
+  "id_no": 4741004,
+  "datasetSlugNullable": "california-real-state-dataset",
+  "ownerUserNullable": "sky2656",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "California Real state Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "The California Housing dataset contains information about various factors affecting housing prices in the California area. It includes features such as the per capita crime rate, average number of rooms per dwelling, proportion of residential land zoned for lots over 25,000 square feet, and more.\n# Datasource: The data were derived from information collected by the U.S. Census Service concerning housing in the area of California.\n\nColumns:\nLocation: Region\nAddress: Address of the house\nPrice: Price in millions\nCRIMS per capita crime rate by town\nZN proportion of residential land zoned for lots over 25,000 sq.ft.\nINDUS proportion of non-retail business acres per town\nCHAS Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)\nNOX nitric oxides concentration (parts per 10 million)\nRM average number of rooms per dwelling\nAGE proportion of owner-occupied units built prior to 1940\nDIS weighted distances to five Boston employment centres\nRAD index of accessibility to radial highways\nTAX full-value property-tax rate per 10,000usd\nPTRATIO pupil-teacher ratio by town\nB 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town\nLSTAT % lower status of the population\n",
+  "datasetId": 4741004,
+  "datasetSlug": "california-real-state-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sky2656",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 112,
+  "totalVotes": 0,
+  "totalDownloads": 15,
+  "title": "California Real state Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The California Housing dataset contains information about various factors affecting housing prices in the California area. It includes features such as the per capita crime rate, average number of rooms per dwelling, proportion of residential land zoned for lots over 25,000 square feet, and more.\n# Datasource: The data were derived from information collected by the U.S. Census Service concerning housing in the area of California.\n\nColumns:\nLocation: Region\nAddress: Address of the house\nPrice: Price in millions\nCRIMS per capita crime rate by town\nZN proportion of residential land zoned for lots over 25,000 sq.ft.\nINDUS proportion of non-retail business acres per town\nCHAS Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)\nNOX nitric oxides concentration (parts per 10 million)\nRM average number of rooms per dwelling\nAGE proportion of owner-occupied units built prior to 1940\nDIS weighted distances to five Boston employment centres\nRAD index of accessibility to radial highways\nTAX full-value property-tax rate per 10,000usd\nPTRATIO pupil-teacher ratio by town\nB 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town\nLSTAT % lower status of the population\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

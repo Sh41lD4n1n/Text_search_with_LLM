@@ -1,0 +1,39 @@
+{
+  "id": "midouazerty/redwine",
+  "id_no": 789841,
+  "datasetSlugNullable": "redwine",
+  "ownerUserNullable": "midouazerty",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "red wine data",
+  "subtitleNullable": "red wine quality prediction ",
+  "descriptionNullable": "",
+  "datasetId": 789841,
+  "datasetSlug": "redwine",
+  "hasDatasetSlug": true,
+  "ownerUser": "midouazerty",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1776,
+  "totalVotes": 11,
+  "totalDownloads": 85,
+  "title": "red wine data",
+  "hasTitle": true,
+  "subtitle": "red wine quality prediction ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

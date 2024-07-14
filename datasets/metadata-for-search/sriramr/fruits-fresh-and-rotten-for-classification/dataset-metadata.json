@@ -1,0 +1,39 @@
+{
+  "id": "sriramr/fruits-fresh-and-rotten-for-classification",
+  "id_no": 46490,
+  "datasetSlugNullable": "fruits-fresh-and-rotten-for-classification",
+  "ownerUserNullable": "sriramr",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Fruits fresh and rotten for classification",
+  "subtitleNullable": "Apples Oranges Bananas",
+  "descriptionNullable": "",
+  "datasetId": 46490,
+  "datasetSlug": "fruits-fresh-and-rotten-for-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sriramr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 132188,
+  "totalVotes": 322,
+  "totalDownloads": 19550,
+  "title": "Fruits fresh and rotten for classification",
+  "hasTitle": true,
+  "subtitle": "Apples Oranges Bananas",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

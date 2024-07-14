@@ -1,0 +1,44 @@
+{
+  "id": "coldfirefauzan/ipl-auction-dataset",
+  "id_no": 5163890,
+  "datasetSlugNullable": "ipl-auction-dataset",
+  "ownerUserNullable": "coldfirefauzan",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "IPL Auction Dataset",
+  "subtitleNullable": "Data about Indian Premier League Auction of all teams",
+  "descriptionNullable": "Context-\nThe data was created from the IPL auction stats displaying funds and players\nSource-\nThe data was scrapped from https://www.iplt20.com/auction/2021 \nAbout-\nEight franchises buy 57 players at IPL 2021 Player Auction The VIVO IPL 2021 Player Auction concluded in Chennai with 57 players filling up the 61 available slots. The eight franchises went for some of the finest talent available, giving them a chance to unleash their potential and make an impact in the upcoming edition of the tournament.",
+  "datasetId": 5163890,
+  "datasetSlug": "ipl-auction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "coldfirefauzan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 39,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "IPL Auction Dataset",
+  "hasTitle": true,
+  "subtitle": "Data about Indian Premier League Auction of all teams",
+  "hasSubtitle": true,
+  "description": "Context-\nThe data was created from the IPL auction stats displaying funds and players\nSource-\nThe data was scrapped from https://www.iplt20.com/auction/2021 \nAbout-\nEight franchises buy 57 players at IPL 2021 Player Auction The VIVO IPL 2021 Player Auction concluded in Chennai with 57 players filling up the 61 available slots. The eight franchises went for some of the finest talent available, giving them a chance to unleash their potential and make an impact in the upcoming edition of the tournament.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "cricket",
+    "india",
+    "categorical",
+    "text",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

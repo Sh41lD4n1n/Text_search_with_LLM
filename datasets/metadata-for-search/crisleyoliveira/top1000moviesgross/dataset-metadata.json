@@ -1,0 +1,39 @@
+{
+  "id": "crisleyoliveira/top1000moviesgross",
+  "id_no": 2313191,
+  "datasetSlugNullable": "top1000moviesgross",
+  "ownerUserNullable": "crisleyoliveira",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Top 1000 - Highest Gross Movies",
+  "subtitleNullable": "Top 1000 global box office by Box Office Mojo",
+  "descriptionNullable": "This dataset was built from the list of the 1000 highest-grossing movies according to the website Box Office Mojo, the data was obtained in June 2022. In addition to the budget data, there are complementary data of the movies such as genre, year of launch, runtime, plus IMDb, Rotten Tomatoes, Metacritic, and Metascore rating, and the number of votes recorded on the IMDb website.\n\nThe 'Gross' value is the worldwide box office (domestic + international).",
+  "datasetId": 2313191,
+  "datasetSlug": "top1000moviesgross",
+  "hasDatasetSlug": true,
+  "ownerUser": "crisleyoliveira",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 878,
+  "totalVotes": 5,
+  "totalDownloads": 123,
+  "title": "Top 1000 - Highest Gross Movies",
+  "hasTitle": true,
+  "subtitle": "Top 1000 global box office by Box Office Mojo",
+  "hasSubtitle": true,
+  "description": "This dataset was built from the list of the 1000 highest-grossing movies according to the website Box Office Mojo, the data was obtained in June 2022. In addition to the budget data, there are complementary data of the movies such as genre, year of launch, runtime, plus IMDb, Rotten Tomatoes, Metacritic, and Metascore rating, and the number of votes recorded on the IMDb website.\n\nThe 'Gross' value is the worldwide box office (domestic + international).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

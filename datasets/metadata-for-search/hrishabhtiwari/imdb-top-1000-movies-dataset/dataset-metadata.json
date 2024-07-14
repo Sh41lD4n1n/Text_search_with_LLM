@@ -1,0 +1,43 @@
+{
+  "id": "hrishabhtiwari/imdb-top-1000-movies-dataset",
+  "id_no": 1974046,
+  "datasetSlugNullable": "imdb-top-1000-movies-dataset",
+  "ownerUserNullable": "hrishabhtiwari",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "IMDb Top 1000 Movies Dataset",
+  "subtitleNullable": "IMDb's Top 1000 rated movies dataset with personalized data such as HD posters.",
+  "descriptionNullable": "### Content\n\nIMDb is a goldmine for those who are learning the concepts of Data and ML/AI. The dataset has been scraped to meet one's need with various personalised touches such as the addition of movie posters, descriptions and runtime.\n",
+  "datasetId": 1974046,
+  "datasetSlug": "imdb-top-1000-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hrishabhtiwari",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 656,
+  "totalVotes": 3,
+  "totalDownloads": 106,
+  "title": "IMDb Top 1000 Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "IMDb's Top 1000 rated movies dataset with personalized data such as HD posters.",
+  "hasSubtitle": true,
+  "description": "### Content\n\nIMDb is a goldmine for those who are learning the concepts of Data and ML/AI. The dataset has been scraped to meet one's need with various personalised touches such as the addition of movie posters, descriptions and runtime.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "categorical",
+    "intermediate",
+    "pandas",
+    "PIL"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sahil23009/gurgoan-properties-cleaned-dataset",
+  "id_no": 4735384,
+  "datasetSlugNullable": "gurgoan-properties-cleaned-dataset",
+  "ownerUserNullable": "sahil23009",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Gurgoan properties (Cleaned) dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Welcome to the Gurgaon Real Estate Dataset tailored specifically for training predictive models to forecast house prices in one of India's most dynamic urban centers. This dataset is meticulously curated, merged, and cleaned to facilitate seamless model training and accurate predictions.\n\nEncompassing a diverse array of attributes crucial for predictive modeling, this dataset provides an unparalleled opportunity for data scientists, machine learning enthusiasts, and real estate professionals to develop robust pricing models. Each entry in the dataset represents a unique property, meticulously curated and standardized to ensure consistency and reliability.\n\nKey attributes included in the dataset comprise property type, location, area, number of bedrooms and bathrooms, amenities, parking facilities, and additional features. Additionally, historical transaction data, such as previous sale prices and dates, are provided to enrich the predictive modeling process.\n\nBy leveraging this dataset, users can embark on a journey to:\n\n1. Develop sophisticated machine learning models to accurately predict house prices in Gurgaon.\n2. Identify significant predictors and drivers of house prices, aiding in market analysis and decision-making.\n3. Explore feature engineering techniques to enhance model performance and interpretability.\n4. Evaluate the impact of location, amenities, and other property attributes on pricing dynamics.\n5. Assess model performance through rigorous evaluation metrics and validation techniques.\n\nThis dataset serves as a catalyst for innovation and collaboration within the data science community, empowering practitioners to unlock insights and drive value in the real estate domain. Whether you're a seasoned data scientist or an aspiring enthusiast, this dataset offers an exciting opportunity to delve into the complexities of real estate pricing dynamics and make meaningful contributions to the field.\n\nWe encourage users to explore, analyze, and experiment with this dataset, pushing the boundaries of predictive modeling and advancing our understanding of house price dynamics in Gurgaon. Together, let's harness the power of data to unravel the mysteries of real estate pricing and pave the way for informed decision-making in one of India's most vibrant urban landscapes.",
+  "datasetId": 4735384,
+  "datasetSlug": "gurgoan-properties-cleaned-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sahil23009",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 48,
+  "totalVotes": 2,
+  "totalDownloads": 17,
+  "title": "Gurgoan properties (Cleaned) dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Welcome to the Gurgaon Real Estate Dataset tailored specifically for training predictive models to forecast house prices in one of India's most dynamic urban centers. This dataset is meticulously curated, merged, and cleaned to facilitate seamless model training and accurate predictions.\n\nEncompassing a diverse array of attributes crucial for predictive modeling, this dataset provides an unparalleled opportunity for data scientists, machine learning enthusiasts, and real estate professionals to develop robust pricing models. Each entry in the dataset represents a unique property, meticulously curated and standardized to ensure consistency and reliability.\n\nKey attributes included in the dataset comprise property type, location, area, number of bedrooms and bathrooms, amenities, parking facilities, and additional features. Additionally, historical transaction data, such as previous sale prices and dates, are provided to enrich the predictive modeling process.\n\nBy leveraging this dataset, users can embark on a journey to:\n\n1. Develop sophisticated machine learning models to accurately predict house prices in Gurgaon.\n2. Identify significant predictors and drivers of house prices, aiding in market analysis and decision-making.\n3. Explore feature engineering techniques to enhance model performance and interpretability.\n4. Evaluate the impact of location, amenities, and other property attributes on pricing dynamics.\n5. Assess model performance through rigorous evaluation metrics and validation techniques.\n\nThis dataset serves as a catalyst for innovation and collaboration within the data science community, empowering practitioners to unlock insights and drive value in the real estate domain. Whether you're a seasoned data scientist or an aspiring enthusiast, this dataset offers an exciting opportunity to delve into the complexities of real estate pricing dynamics and make meaningful contributions to the field.\n\nWe encourage users to explore, analyze, and experiment with this dataset, pushing the boundaries of predictive modeling and advancing our understanding of house price dynamics in Gurgaon. Together, let's harness the power of data to unravel the mysteries of real estate pricing and pave the way for informed decision-making in one of India's most vibrant urban landscapes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

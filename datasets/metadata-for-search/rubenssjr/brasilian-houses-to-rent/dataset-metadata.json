@@ -1,0 +1,40 @@
+{
+  "id": "rubenssjr/brasilian-houses-to-rent",
+  "id_no": 554905,
+  "datasetSlugNullable": "brasilian-houses-to-rent",
+  "ownerUserNullable": "rubenssjr",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "brazilian_houses_to_rent",
+  "subtitleNullable": "Dataset houses to rent in diferents cities in Brazil",
+  "descriptionNullable": "# Dados de casas para alugar (2020) / Houses to rent data (2020)\n\n## Descri\u00e7\u00e3o / Description\n\nEste dataset possui 10962 casas para alugar com 13 classes diferentes./This dataset contains 10962 houses to rent with 13 diferent features.\n\n## FAQ\n\n**Outliers **\nPodem conter alguns valores no dataset que s\u00e3o considerados outlier para analise. Tendo em vista que foi utilizado um WebCrawler apenas para pegar os dados, os mesmos est\u00e3o sujeitos a problemas como erros no cadastros.\n\nCould be some values in dataset that can be consider outlier to analysis. Bearing in mind that a Web Crawler only to get the data, it\u00b4s possible find some errors like registration error\n\n**Mudan\u00e7as de dados entre as vers\u00f5es de dataset/ Changes in data between versions of dataset **\nVisto que WebCrawler foi rodado em dias diferentes para cada vers\u00e3o do dataset, podem haver diferen\u00e7as como adi\u00e7\u00e3o ou exclus\u00e3o de casas (alem das cidades adicionadas).\n\nSince the o WebCrawler was runned in differents days to each version of dataset, there may be differences like adding or deleting houses (in addition to the cities added)\n\n##### --------------------------------------------------------------------------------------------------------------------------------------------------------\nEu n\u00e3o tenho propriedade de nenhum desses dados, todos eles foram retirados de informa\u00e7\u00f5es dispon\u00edveis gratuitamente na internet e compilados apenas para facilitar o acesso.\nI do not own any of these data, they were all taken from information available for free on the internet and compiled just for easy access.",
+  "datasetId": 554905,
+  "datasetSlug": "brasilian-houses-to-rent",
+  "hasDatasetSlug": true,
+  "ownerUser": "rubenssjr",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 105129,
+  "totalVotes": 302,
+  "totalDownloads": 12923,
+  "title": "brazilian_houses_to_rent",
+  "hasTitle": true,
+  "subtitle": "Dataset houses to rent in diferents cities in Brazil",
+  "hasSubtitle": true,
+  "description": "# Dados de casas para alugar (2020) / Houses to rent data (2020)\n\n## Descri\u00e7\u00e3o / Description\n\nEste dataset possui 10962 casas para alugar com 13 classes diferentes./This dataset contains 10962 houses to rent with 13 diferent features.\n\n## FAQ\n\n**Outliers **\nPodem conter alguns valores no dataset que s\u00e3o considerados outlier para analise. Tendo em vista que foi utilizado um WebCrawler apenas para pegar os dados, os mesmos est\u00e3o sujeitos a problemas como erros no cadastros.\n\nCould be some values in dataset that can be consider outlier to analysis. Bearing in mind that a Web Crawler only to get the data, it\u00b4s possible find some errors like registration error\n\n**Mudan\u00e7as de dados entre as vers\u00f5es de dataset/ Changes in data between versions of dataset **\nVisto que WebCrawler foi rodado em dias diferentes para cada vers\u00e3o do dataset, podem haver diferen\u00e7as como adi\u00e7\u00e3o ou exclus\u00e3o de casas (alem das cidades adicionadas).\n\nSince the o WebCrawler was runned in differents days to each version of dataset, there may be differences like adding or deleting houses (in addition to the cities added)\n\n##### --------------------------------------------------------------------------------------------------------------------------------------------------------\nEu n\u00e3o tenho propriedade de nenhum desses dados, todos eles foram retirados de informa\u00e7\u00f5es dispon\u00edveis gratuitamente na internet e compilados apenas para facilitar o acesso.\nI do not own any of these data, they were all taken from information available for free on the internet and compiled just for easy access.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

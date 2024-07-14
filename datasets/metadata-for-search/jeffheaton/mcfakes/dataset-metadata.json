@@ -1,0 +1,41 @@
+{
+  "id": "jeffheaton/mcfakes",
+  "id_no": 1280250,
+  "datasetSlugNullable": "mcfakes",
+  "ownerUserNullable": "jeffheaton",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Minecraft Images Fake or Real",
+  "subtitleNullable": "Determine if a Minecraft image is real or created by a GAN",
+  "descriptionNullable": "This dataset allows you to try your hand at detecting fake images from real images.  I trained a [model](https://github.com/jeffheaton/pretrained-gan-minecraft) on images that I collected from the [Minecraft video game](https://en.wikipedia.org/wiki/Minecraft).  From the provided link, you have access to my trained model, and can generate more fake data, if you like.  However, if you would like additional real data, you will need to capture it from Minecraft yourself.\n\nThe following is a real image from Minecraft:\n![Real Minecraft](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-34.jpg?raw=true)\n\nThis Minecraft image is obviously fake:\n\n![alt](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-202.jpg?raw=true)\n\nSome images are not as easily guessed, such as this fake image:\n\n![alt](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-493.jpg?raw=true)\n\nYou will also have to contend with multiple times of the day.  Darker images will be more difficult for your model.\n\n![alt](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-477.jpg?raw=true)\n\n",
+  "datasetId": 1280250,
+  "datasetSlug": "mcfakes",
+  "hasDatasetSlug": true,
+  "ownerUser": "jeffheaton",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 7568,
+  "totalVotes": 15,
+  "totalDownloads": 218,
+  "title": "Minecraft Images Fake or Real",
+  "hasTitle": true,
+  "subtitle": "Determine if a Minecraft image is real or created by a GAN",
+  "hasSubtitle": true,
+  "description": "This dataset allows you to try your hand at detecting fake images from real images.  I trained a [model](https://github.com/jeffheaton/pretrained-gan-minecraft) on images that I collected from the [Minecraft video game](https://en.wikipedia.org/wiki/Minecraft).  From the provided link, you have access to my trained model, and can generate more fake data, if you like.  However, if you would like additional real data, you will need to capture it from Minecraft yourself.\n\nThe following is a real image from Minecraft:\n![Real Minecraft](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-34.jpg?raw=true)\n\nThis Minecraft image is obviously fake:\n\n![alt](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-202.jpg?raw=true)\n\nSome images are not as easily guessed, such as this fake image:\n\n![alt](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-493.jpg?raw=true)\n\nYou will also have to contend with multiple times of the day.  Darker images will be more difficult for your model.\n\n![alt](https://github.com/jeffheaton/jheaton_images/blob/main/kaggle/spring-2021/mc-477.jpg?raw=true)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "gan",
+    "gpu"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

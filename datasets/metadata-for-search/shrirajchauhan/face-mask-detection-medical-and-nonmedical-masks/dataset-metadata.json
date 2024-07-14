@@ -1,0 +1,43 @@
+{
+  "id": "shrirajchauhan/face-mask-detection-medical-and-nonmedical-masks",
+  "id_no": 1055072,
+  "datasetSlugNullable": "face-mask-detection-medical-and-nonmedical-masks",
+  "ownerUserNullable": "shrirajchauhan",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Face Mask Detection Medical and Non-medical Masks",
+  "subtitleNullable": "Face mask detection medical and non medical masks",
+  "descriptionNullable": "",
+  "datasetId": 1055072,
+  "datasetSlug": "face-mask-detection-medical-and-nonmedical-masks",
+  "hasDatasetSlug": true,
+  "ownerUser": "shrirajchauhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 3858,
+  "totalVotes": 4,
+  "totalDownloads": 154,
+  "title": "Face Mask Detection Medical and Non-medical Masks",
+  "hasTitle": true,
+  "subtitle": "Face mask detection medical and non medical masks",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "artificial intelligence",
+    "computer science",
+    "computer vision",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

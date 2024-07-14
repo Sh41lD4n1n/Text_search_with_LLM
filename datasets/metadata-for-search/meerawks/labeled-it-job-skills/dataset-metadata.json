@@ -1,0 +1,43 @@
+{
+  "id": "meerawks/labeled-it-job-skills",
+  "id_no": 5291545,
+  "datasetSlugNullable": "labeled-it-job-skills",
+  "ownerUserNullable": "meerawks",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Labeled IT Job skills",
+  "subtitleNullable": "labeled IT skills in job descriptions.",
+  "descriptionNullable": "Contains a small dataset of labeled IT skills, IT Tools, IT technologies to train named entity recognition (NER) model for extracting skills from job description using spaCy. it will be updated weekly to increase the number of rows.",
+  "datasetId": 5291545,
+  "datasetSlug": "labeled-it-job-skills",
+  "hasDatasetSlug": true,
+  "ownerUser": "meerawks",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Labeled IT Job skills",
+  "hasTitle": true,
+  "subtitle": "labeled IT skills in job descriptions.",
+  "hasSubtitle": true,
+  "description": "Contains a small dataset of labeled IT skills, IT Tools, IT technologies to train named entity recognition (NER) model for extracting skills from job description using spaCy. it will be updated weekly to increase the number of rows.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "classification",
+    "text",
+    "json"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "alejopaullier/daigt-external-dataset",
+  "id_no": 3936750,
+  "datasetSlugNullable": "daigt-external-dataset",
+  "ownerUserNullable": "alejopaullier",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "DAIGT | External Dataset",
+  "subtitleNullable": "External Dataset for the LLM- Detect AI Generated Text competition",
+  "descriptionNullable": "**Important Note:** the `text` column is NOT AI generated. However, the `source_text` is, which can still be used as AI generated text. I will update the dataset accordingly. Consequently, this dataset provides 2421 student generated texts (`text` column) and 2421 AI generated texts (`source_text` column). I will update as soon as possible.\n\nIn the [LLM- Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) competition you are required to distinguish between student-made and AI-generated texts. However, the competition's data only provides student-made texts. \n\nLuckily, for CommonLit's competition I made a dataset with AI generated texts to use for that competition. Surprisingly, it's very much alike the data we need for in this competition!\n\nMy dataset not only has **2421 Chat GPT generated texts** but also their prompts and source texts! That's **double** the data we are given in this competition!\n\nAlso, it's **very diverse** since the texts are generated from unique prompts.\n\nThe best of luck to all of you in this competition! \ud83c\udf40\n\n### Dataset Description\n\n- `id`: unique identifier for each text.\n- `text`: extracted text from FeedBack Prize 3 competition. Can be used as student text.\n- `instructions`: the instruction for ChatGPT to generate the text.\n- `source_text`: AI generated text.",
+  "datasetId": 3936750,
+  "datasetSlug": "daigt-external-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alejopaullier",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 10970,
+  "totalVotes": 158,
+  "totalDownloads": 1902,
+  "title": "DAIGT | External Dataset",
+  "hasTitle": true,
+  "subtitle": "External Dataset for the LLM- Detect AI Generated Text competition",
+  "hasSubtitle": true,
+  "description": "**Important Note:** the `text` column is NOT AI generated. However, the `source_text` is, which can still be used as AI generated text. I will update the dataset accordingly. Consequently, this dataset provides 2421 student generated texts (`text` column) and 2421 AI generated texts (`source_text` column). I will update as soon as possible.\n\nIn the [LLM- Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) competition you are required to distinguish between student-made and AI-generated texts. However, the competition's data only provides student-made texts. \n\nLuckily, for CommonLit's competition I made a dataset with AI generated texts to use for that competition. Surprisingly, it's very much alike the data we need for in this competition!\n\nMy dataset not only has **2421 Chat GPT generated texts** but also their prompts and source texts! That's **double** the data we are given in this competition!\n\nAlso, it's **very diverse** since the texts are generated from unique prompts.\n\nThe best of luck to all of you in this competition! \ud83c\udf40\n\n### Dataset Description\n\n- `id`: unique identifier for each text.\n- `text`: extracted text from FeedBack Prize 3 competition. Can be used as student text.\n- `instructions`: the instruction for ChatGPT to generate the text.\n- `source_text`: AI generated text.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "education",
+    "law",
+    "linguistics",
+    "text",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

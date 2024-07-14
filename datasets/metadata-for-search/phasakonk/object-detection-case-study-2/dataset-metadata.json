@@ -1,0 +1,37 @@
+{
+  "id": "phasakonk/object-detection-case-study-2",
+  "id_no": 5002523,
+  "datasetSlugNullable": "object-detection-case-study-2",
+  "ownerUserNullable": "phasakonk",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "object-detection-case-study-2",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5002523,
+  "datasetSlug": "object-detection-case-study-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "phasakonk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "object-detection-case-study-2",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

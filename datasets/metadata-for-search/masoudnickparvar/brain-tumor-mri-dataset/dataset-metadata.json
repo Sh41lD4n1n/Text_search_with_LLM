@@ -1,0 +1,45 @@
+{
+  "id": "masoudnickparvar/brain-tumor-mri-dataset",
+  "id_no": 1608934,
+  "datasetSlugNullable": "brain-tumor-mri-dataset",
+  "ownerUserNullable": "masoudnickparvar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Brain Tumor MRI Dataset",
+  "subtitleNullable": "A dataset for classify brain tumors",
+  "descriptionNullable": "# What is a brain tumor?\nA brain tumor is a collection, or mass, of abnormal cells in your brain. Your skull, which encloses your brain, is very rigid. Any growth inside such a restricted space can cause problems. Brain tumors can be cancerous (malignant) or noncancerous (benign). When benign or malignant tumors grow, they can cause the pressure inside your skull to increase. This can cause brain damage, and it can be life-threatening.\n\n# The importance of the subject\nEarly detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore \n\n# Methods\nThe application of deep learning approaches in context to improve health diagnosis is providing impactful solutions. According to the World Health Organization (WHO), proper brain tumor diagnosis involves detection, brain tumor location identification, and classification of the tumor on the basis of malignancy, grade, and type. This experimental work in the diagnosis of brain tumors using Magnetic Resonance Imaging (MRI) involves detecting the tumor, classifying the tumor in terms of grade, type, and identification of tumor location. This method has experimented in terms of utilizing one model for classifying brain MRI on different classification tasks rather than an individual model for each classification task. The Convolutional Neural Network (CNN) based multi-task classification is equipped for the classification and detection of tumors. The identification of brain tumor location is also done using a CNN-based model by segmenting the brain tumor.\n\n# About Dataset\nThis dataset is a combination of the following three datasets : \n[figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)\n[SARTAJ dataset](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)\n[Br35H](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no)\n\nThis dataset contains **7023** images of human brain MRI images which are classified into 4 classes: **glioma** - **meningioma** - **no tumor** and **pituitary**. \n\nno tumor class images were taken from the Br35H dataset.\n\nI think SARTAJ dataset has a problem that the glioma class images are not categorized correctly, I realized this from the results of other people's work as well as the different models I trained, which is why I deleted the images in this folder and used the images on the figshare site instead.\n\n## Note\nPay attention that The size of the images in this dataset is different. You can resize the image to the desired size after pre-processing and removing the extra margins. This work will improve the accuracy of the model **[pre-processing code](https://github.com/masoudnick/Brain-Tumor-MRI-Classification/blob/main/Preprocessing.py)**\n\nIf you find this dataset helpful, feel free to upvote it!\nAnd do give me your suggestions or opinions. Thank you  :wink:",
+  "datasetId": 1608934,
+  "datasetSlug": "brain-tumor-mri-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "masoudnickparvar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 282844,
+  "totalVotes": 497,
+  "totalDownloads": 45351,
+  "title": "Brain Tumor MRI Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset for classify brain tumors",
+  "hasSubtitle": true,
+  "description": "# What is a brain tumor?\nA brain tumor is a collection, or mass, of abnormal cells in your brain. Your skull, which encloses your brain, is very rigid. Any growth inside such a restricted space can cause problems. Brain tumors can be cancerous (malignant) or noncancerous (benign). When benign or malignant tumors grow, they can cause the pressure inside your skull to increase. This can cause brain damage, and it can be life-threatening.\n\n# The importance of the subject\nEarly detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore \n\n# Methods\nThe application of deep learning approaches in context to improve health diagnosis is providing impactful solutions. According to the World Health Organization (WHO), proper brain tumor diagnosis involves detection, brain tumor location identification, and classification of the tumor on the basis of malignancy, grade, and type. This experimental work in the diagnosis of brain tumors using Magnetic Resonance Imaging (MRI) involves detecting the tumor, classifying the tumor in terms of grade, type, and identification of tumor location. This method has experimented in terms of utilizing one model for classifying brain MRI on different classification tasks rather than an individual model for each classification task. The Convolutional Neural Network (CNN) based multi-task classification is equipped for the classification and detection of tumors. The identification of brain tumor location is also done using a CNN-based model by segmenting the brain tumor.\n\n# About Dataset\nThis dataset is a combination of the following three datasets : \n[figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)\n[SARTAJ dataset](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)\n[Br35H](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no)\n\nThis dataset contains **7023** images of human brain MRI images which are classified into 4 classes: **glioma** - **meningioma** - **no tumor** and **pituitary**. \n\nno tumor class images were taken from the Br35H dataset.\n\nI think SARTAJ dataset has a problem that the glioma class images are not categorized correctly, I realized this from the results of other people's work as well as the different models I trained, which is why I deleted the images in this folder and used the images on the figshare site instead.\n\n## Note\nPay attention that The size of the images in this dataset is different. You can resize the image to the desired size after pre-processing and removing the extra margins. This work will improve the accuracy of the model **[pre-processing code](https://github.com/masoudnick/Brain-Tumor-MRI-Classification/blob/main/Preprocessing.py)**\n\nIf you find this dataset helpful, feel free to upvote it!\nAnd do give me your suggestions or opinions. Thank you  :wink:",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "transfer learning",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

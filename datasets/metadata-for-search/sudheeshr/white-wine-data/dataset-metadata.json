@@ -1,0 +1,39 @@
+{
+  "id": "sudheeshr/white-wine-data",
+  "id_no": 2934636,
+  "datasetSlugNullable": "white-wine-data",
+  "ownerUserNullable": "sudheeshr",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "White Wine Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "The data consist of variants of the Portuguese Vinho-Verde wine and has 1599 observations of Red wine and 4898 observations of White wine. For each, we have the wine quality (scored between 0 and 10) and eleven chemical attributes (quantitative), which are as follows: Fixed acidity, Volatile acidity, Citric acid, Residual sugar, Chlorides, Free sulfur dioxide, Total sulfur dioxide, Density, PH, Sulphates, and Alcohol\n\nFixed acidity - Most acids involved wine or fixed or nonvolatile\nVolatile acidity - The number of acetic acids in wine which at too high of levels can lead to an unpleasant, vinegar taste\nCitric acid - Can be found in small quantities, add freshness and the flavor to the wine\nResidual sugar - The amount of sugar remaining after fermentation stops, it's rare to find wines with less than 1g/L and wines with greater than 45g/L considered as sweet.\nChlorides - The amount of salt in the wine\nFree sulfur dioxide - The free form of sulfur dioxide that is not bound to other molecules, and is used to calculate molecular sulfur dioxide\nTotal sulfur dioxide - The amount of free and bound forms of sulfur dioxide\nDensity - The density of water is close to that of water depending on the percent of alcohol and the sugar\nPH - Describe how acidic or basic a wine in on a scale from 0 to 14\nSulfates - A wine additive which can contribute to sulfur dioxide gas levels, which act as an antimicrobial and antioxidant\nAlcohol - The percent alcohol content of the wine",
+  "datasetId": 2934636,
+  "datasetSlug": "white-wine-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudheeshr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 596,
+  "totalVotes": 23,
+  "totalDownloads": 80,
+  "title": "White Wine Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The data consist of variants of the Portuguese Vinho-Verde wine and has 1599 observations of Red wine and 4898 observations of White wine. For each, we have the wine quality (scored between 0 and 10) and eleven chemical attributes (quantitative), which are as follows: Fixed acidity, Volatile acidity, Citric acid, Residual sugar, Chlorides, Free sulfur dioxide, Total sulfur dioxide, Density, PH, Sulphates, and Alcohol\n\nFixed acidity - Most acids involved wine or fixed or nonvolatile\nVolatile acidity - The number of acetic acids in wine which at too high of levels can lead to an unpleasant, vinegar taste\nCitric acid - Can be found in small quantities, add freshness and the flavor to the wine\nResidual sugar - The amount of sugar remaining after fermentation stops, it's rare to find wines with less than 1g/L and wines with greater than 45g/L considered as sweet.\nChlorides - The amount of salt in the wine\nFree sulfur dioxide - The free form of sulfur dioxide that is not bound to other molecules, and is used to calculate molecular sulfur dioxide\nTotal sulfur dioxide - The amount of free and bound forms of sulfur dioxide\nDensity - The density of water is close to that of water depending on the percent of alcohol and the sugar\nPH - Describe how acidic or basic a wine in on a scale from 0 to 14\nSulfates - A wine additive which can contribute to sulfur dioxide gas levels, which act as an antimicrobial and antioxidant\nAlcohol - The percent alcohol content of the wine",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

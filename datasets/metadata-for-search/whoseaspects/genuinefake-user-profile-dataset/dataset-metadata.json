@@ -1,0 +1,39 @@
+{
+  "id": "whoseaspects/genuinefake-user-profile-dataset",
+  "id_no": 823092,
+  "datasetSlugNullable": "genuinefake-user-profile-dataset",
+  "ownerUserNullable": "whoseaspects",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Genuine/Fake User Profile Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "From the file data.csv\n\n\u00b7        Id: Contains the user ID of the user\n\n\u00b7        Name : Contains the actual name of the user\n\n\u00b7        screen_name : Variable contains the name of the user as appeared on the OSN Network\n\n\u00b7        favorite_no: Contains the amount of post which the user has favorited\n\n\u00b7        statuses_count: Contains the amount of times the user has changed the status\n\n\u00b7        followers_count: Variable contains the amount of followers the user currently has in the account\n\n\u00b7        friends_count: Contains the count of friends the user has in the profile\n\n\u00b7        favourites_count: Contains the count of favourite friends in the list\n\n\u00b7        listed_count: The count of the listed posts in the account\n\n\u00b7        created_at: The timestamp contains the day, month, year and time the profile was created\n\n\u00b7        url: Contains the profile URL of the user\n\n\u00b7        lang: Contains the language that the user has chosen\n\n\u00b7        time_zone: Contains the information of the time zone the profile is in\n\n\u00b7        location: Contains the location the profile was created at\n\n\u00b7        default_profile: Contains basic integer values\n\n\u00b7        default_profile_image: Contains information if the user still has the default profile image which was given during the account creation\n\n\u00b7        geo_enabled: Contains information if the profile is geographically enabled\n\n\u00b7        profile_image_url: Contains the information of the profile image URL\n\n\u00b7        profile_banner_url: The HTTPS-based URL pointing to the standard web representation of the user\u2019s uploaded profile banner.\n\n\u00b7        profile_use_background_image: URL pointing at the users background image\n\n\u00b7        profile_background_image_url_https: The URL link to the background image of the user\n\n\u00b7        profile_text_color: The colour code of the colour chosen by the user for the profile information\n\n\u00b7        profile_image_url_https: The HTTPS based URL link to the background image of the user\n\n\u00b7        profile_sidebar_border_color: Information of the border colour code\n\n\u00b7        profile_background_tile: Binary number whether the background has a tile or no\n\n\u00b7        profile_sidebar_fill_color: Contains the colour code of the sidebar in the profile\n\n\u00b7        profile_background_image_url: Contains the current profile background image URL of the user\n\n\u00b7        profile_background_color: Contains the colour code of the profile background\n\n\u00b7        profile_link_color: Contains the colour code of the profile link\n\n\u00b7        utc_offset: UTC offset mainly contains the geographical time and zone code\n\n\u00b7        protected: Ideally there is no data in the column but it indicates whether the user has chosen to protect his/her posts or no\n\n\u00b7        verified: Whether the profile is verified or no\n\n\u00b7        description: Contains short description of the profile user   \n\n\u00b7        updated: Contains the time and date when the profile was last updated\n\n\u00b7       Dataset: This is the labelled column that contain information whether the account is fake or not. With this regards 1 indicates that the account is fake and 0 indicated that the account is real.",
+  "datasetId": 823092,
+  "datasetSlug": "genuinefake-user-profile-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "whoseaspects",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 6444,
+  "totalVotes": 5,
+  "totalDownloads": 683,
+  "title": "Genuine/Fake User Profile Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "From the file data.csv\n\n\u00b7        Id: Contains the user ID of the user\n\n\u00b7        Name : Contains the actual name of the user\n\n\u00b7        screen_name : Variable contains the name of the user as appeared on the OSN Network\n\n\u00b7        favorite_no: Contains the amount of post which the user has favorited\n\n\u00b7        statuses_count: Contains the amount of times the user has changed the status\n\n\u00b7        followers_count: Variable contains the amount of followers the user currently has in the account\n\n\u00b7        friends_count: Contains the count of friends the user has in the profile\n\n\u00b7        favourites_count: Contains the count of favourite friends in the list\n\n\u00b7        listed_count: The count of the listed posts in the account\n\n\u00b7        created_at: The timestamp contains the day, month, year and time the profile was created\n\n\u00b7        url: Contains the profile URL of the user\n\n\u00b7        lang: Contains the language that the user has chosen\n\n\u00b7        time_zone: Contains the information of the time zone the profile is in\n\n\u00b7        location: Contains the location the profile was created at\n\n\u00b7        default_profile: Contains basic integer values\n\n\u00b7        default_profile_image: Contains information if the user still has the default profile image which was given during the account creation\n\n\u00b7        geo_enabled: Contains information if the profile is geographically enabled\n\n\u00b7        profile_image_url: Contains the information of the profile image URL\n\n\u00b7        profile_banner_url: The HTTPS-based URL pointing to the standard web representation of the user\u2019s uploaded profile banner.\n\n\u00b7        profile_use_background_image: URL pointing at the users background image\n\n\u00b7        profile_background_image_url_https: The URL link to the background image of the user\n\n\u00b7        profile_text_color: The colour code of the colour chosen by the user for the profile information\n\n\u00b7        profile_image_url_https: The HTTPS based URL link to the background image of the user\n\n\u00b7        profile_sidebar_border_color: Information of the border colour code\n\n\u00b7        profile_background_tile: Binary number whether the background has a tile or no\n\n\u00b7        profile_sidebar_fill_color: Contains the colour code of the sidebar in the profile\n\n\u00b7        profile_background_image_url: Contains the current profile background image URL of the user\n\n\u00b7        profile_background_color: Contains the colour code of the profile background\n\n\u00b7        profile_link_color: Contains the colour code of the profile link\n\n\u00b7        utc_offset: UTC offset mainly contains the geographical time and zone code\n\n\u00b7        protected: Ideally there is no data in the column but it indicates whether the user has chosen to protect his/her posts or no\n\n\u00b7        verified: Whether the profile is verified or no\n\n\u00b7        description: Contains short description of the profile user   \n\n\u00b7        updated: Contains the time and date when the profile was last updated\n\n\u00b7       Dataset: This is the labelled column that contain information whether the account is fake or not. With this regards 1 indicates that the account is fake and 0 indicated that the account is real.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

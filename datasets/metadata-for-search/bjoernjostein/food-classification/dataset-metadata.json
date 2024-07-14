@@ -1,0 +1,43 @@
+{
+  "id": "bjoernjostein/food-classification",
+  "id_no": 1801357,
+  "datasetSlugNullable": "food-classification",
+  "ownerUserNullable": "bjoernjostein",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Food Classification",
+  "subtitleNullable": "Classify 61 different food types from images",
+  "descriptionNullable": "### Context\nMaintaining a healthy diet is difficult. As the saying goes, the best way to escape a problem is to solve it. So why not leverage the power of deep learning and computer vision to build the foundation of a semi-automated food tracking application?\n\n### Content\nThe dataset is a set of images of food items and a CSV file linking each image to its annotated food class. For simplification, each image contains only a single food item in it. The images are of varying sizes. A total of 61 classes of different food items are present like egg, bread, and water to name a few. The list of classes is present in dataset_info.txt.\n\nWith over 9300 hand-annotated images with 61 classes, the challenge is to train accurate models that can look at images of food items and detect the food items present in the image. It's time to unleash the food (data)scientist in you! Given any image, identify the food item present in it.\n\nWe also present the test data here, but there is no ground truth available for this data. Annotation of this would be appreciated. Until then we encourage you to do cross-validation on the train data.\n\n### Acknowledgements\nThis dataset was published on AI Crowd in a so-called KIIT AI (mini)Blitz\u26a1 Challenge. AI Blitz\u26a1 is a series of educational challenges by AIcrowd, with an aim to make it really easy for anyone to get started with the world of AI. This AI Blitz\u26a1challenge was an exclusive challenge just for the students and the faculty of the Kalinga Institute of Industrial Technology.",
+  "datasetId": 1801357,
+  "datasetSlug": "food-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "bjoernjostein",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 10002,
+  "totalVotes": 8,
+  "totalDownloads": 943,
+  "title": "Food Classification",
+  "hasTitle": true,
+  "subtitle": "Classify 61 different food types from images",
+  "hasSubtitle": true,
+  "description": "### Context\nMaintaining a healthy diet is difficult. As the saying goes, the best way to escape a problem is to solve it. So why not leverage the power of deep learning and computer vision to build the foundation of a semi-automated food tracking application?\n\n### Content\nThe dataset is a set of images of food items and a CSV file linking each image to its annotated food class. For simplification, each image contains only a single food item in it. The images are of varying sizes. A total of 61 classes of different food items are present like egg, bread, and water to name a few. The list of classes is present in dataset_info.txt.\n\nWith over 9300 hand-annotated images with 61 classes, the challenge is to train accurate models that can look at images of food items and detect the food items present in the image. It's time to unleash the food (data)scientist in you! Given any image, identify the food item present in it.\n\nWe also present the test data here, but there is no ground truth available for this data. Annotation of this would be appreciated. Until then we encourage you to do cross-validation on the train data.\n\n### Acknowledgements\nThis dataset was published on AI Crowd in a so-called KIIT AI (mini)Blitz\u26a1 Challenge. AI Blitz\u26a1 is a series of educational challenges by AIcrowd, with an aim to make it really easy for anyone to get started with the world of AI. This AI Blitz\u26a1challenge was an exclusive challenge just for the students and the faculty of the Kalinga Institute of Industrial Technology.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "multiclass classification",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

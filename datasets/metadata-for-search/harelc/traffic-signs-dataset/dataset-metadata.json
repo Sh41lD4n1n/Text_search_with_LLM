@@ -1,0 +1,44 @@
+{
+  "id": "harelc/traffic-signs-dataset",
+  "id_no": 2888972,
+  "datasetSlugNullable": "traffic-signs-dataset",
+  "ownerUserNullable": "harelc",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Traffic Signs Dataset",
+  "subtitleNullable": "Dataset of 18K images of 15 different traffic signs.",
+  "descriptionNullable": "Dataset:\n1.\tCollect 120-180 images for each traffic sign.\n\n2.\tPerform Data Augmentation on the traffic signs:\n     a.\tHigh Brightness\n     b.\tLow Brightness\n     c.\tGaussian Blur (3x3 kernel)\n     d.\tZoom in (25%)\n     e.\tRotate Right (angle of 20)\n     f.\t        Rotate Left (angle of -20)\n3.\tAfter collecting all the samples and performing data augmentation there will be between 12600-18900 images in the dataset.\n\n4.\tThe division of the Dataset is: 10% Testing, 90% Training (You can divide the training to validation and train however you like)\n\n5.\tImages size is 50x50.\n\nThe Traffic signs are:\n1.\tStop Sign.\n2.\tYield Sign.\n3.\tAccess Denied Sign.\n4.\tClose Road Sign.\n5.\t30 Speed Limit Sign.\n6.\t50 Speed Limit Sign.\n7.\t70 Speed Limit Sign.\n8.\tRoundabout Sign.\n9.\tGo Left Sign.\n10.\tGo Right Sign.\n11.\tOne Way Road Sign.\n12.\tBumper Ahead Sign.\n13.\tParking Sign.\n14.\tPedestrian Cross Walk Sign.\n15.\t Uneven Road Sign.\n",
+  "datasetId": 2888972,
+  "datasetSlug": "traffic-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harelc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 924,
+  "totalVotes": 4,
+  "totalDownloads": 131,
+  "title": "Traffic Signs Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 18K images of 15 different traffic signs.",
+  "hasSubtitle": true,
+  "description": "Dataset:\n1.\tCollect 120-180 images for each traffic sign.\n\n2.\tPerform Data Augmentation on the traffic signs:\n     a.\tHigh Brightness\n     b.\tLow Brightness\n     c.\tGaussian Blur (3x3 kernel)\n     d.\tZoom in (25%)\n     e.\tRotate Right (angle of 20)\n     f.\t        Rotate Left (angle of -20)\n3.\tAfter collecting all the samples and performing data augmentation there will be between 12600-18900 images in the dataset.\n\n4.\tThe division of the Dataset is: 10% Testing, 90% Training (You can divide the training to validation and train however you like)\n\n5.\tImages size is 50x50.\n\nThe Traffic signs are:\n1.\tStop Sign.\n2.\tYield Sign.\n3.\tAccess Denied Sign.\n4.\tClose Road Sign.\n5.\t30 Speed Limit Sign.\n6.\t50 Speed Limit Sign.\n7.\t70 Speed Limit Sign.\n8.\tRoundabout Sign.\n9.\tGo Left Sign.\n10.\tGo Right Sign.\n11.\tOne Way Road Sign.\n12.\tBumper Ahead Sign.\n13.\tParking Sign.\n14.\tPedestrian Cross Walk Sign.\n15.\t Uneven Road Sign.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "michnag",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mayankray/imdb-top-1000-movies-dataset",
+  "id_no": 3854015,
+  "datasetSlugNullable": "imdb-top-1000-movies-dataset",
+  "ownerUserNullable": "mayankray",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "IMDb Top 1000 Movies Dataset",
+  "subtitleNullable": "Web Scraped data from IMDb Website",
+  "descriptionNullable": "This dataset contains information about top 1000 IMDB movies, including their titles, certificates, durations, genres, IMDb ratings, Metascores, directors, cast members, the number of votes they received, grossed earnings, and plot summaries. The data is a curated list of highly acclaimed and popular movies.\n\nColumns/Variables:\n\nMovie Name: The title of the movie.\nCertificate: The certificate or rating assigned to the movie.\nDuration: The duration of the movie in minutes.\nGenre: The genre(s) to which the movie belongs.\nIMDb Rating: The IMDb rating of the movie.\nMetascore: The Metascore rating of the movie.\nDirector: The director of the movie.\nStars: The main cast members of the movie.\nVotes: The number of user votes/ratings the movie has received.\nGrossed in $: The gross earnings in dollars (if available).\nPlot: A brief summary or plot description of the movie.\nSize: The dataset contains 1000 rows and 11 columns.\n\n\nData Quality: The dataset appears to be well-structured and complete. There are no missing values, and it seems to be ready for analysis.\n\nUse Cases: This dataset can be used for various analyses, such as exploring the relationship between IMDb ratings and Metascores, identifying top-rated directors, or understanding the distribution of movie ratings across genres.",
+  "datasetId": 3854015,
+  "datasetSlug": "imdb-top-1000-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mayankray",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1050,
+  "totalVotes": 7,
+  "totalDownloads": 242,
+  "title": "IMDb Top 1000 Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Web Scraped data from IMDb Website",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about top 1000 IMDB movies, including their titles, certificates, durations, genres, IMDb ratings, Metascores, directors, cast members, the number of votes they received, grossed earnings, and plot summaries. The data is a curated list of highly acclaimed and popular movies.\n\nColumns/Variables:\n\nMovie Name: The title of the movie.\nCertificate: The certificate or rating assigned to the movie.\nDuration: The duration of the movie in minutes.\nGenre: The genre(s) to which the movie belongs.\nIMDb Rating: The IMDb rating of the movie.\nMetascore: The Metascore rating of the movie.\nDirector: The director of the movie.\nStars: The main cast members of the movie.\nVotes: The number of user votes/ratings the movie has received.\nGrossed in $: The gross earnings in dollars (if available).\nPlot: A brief summary or plot description of the movie.\nSize: The dataset contains 1000 rows and 11 columns.\n\n\nData Quality: The dataset appears to be well-structured and complete. There are no missing values, and it seems to be ready for analysis.\n\nUse Cases: This dataset can be used for various analyses, such as exploring the relationship between IMDb ratings and Metascores, identifying top-rated directors, or understanding the distribution of movie ratings across genres.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

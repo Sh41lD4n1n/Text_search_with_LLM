@@ -1,0 +1,43 @@
+{
+  "id": "die9origephit/fifa-world-cup-2022-complete-dataset",
+  "id_no": 2703009,
+  "datasetSlugNullable": "fifa-world-cup-2022-complete-dataset",
+  "ownerUserNullable": "die9origephit",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fifa World Cup 2022: Complete Dataset",
+  "subtitleNullable": "Statistics of all the matches in the Fifa World Cup 2022",
+  "descriptionNullable": "The dataset contains all the matches, updated daily, of the Qatar Fifa World Cup 2022.\nAlong with the scores and the football teams several statistics for each match were reported; for instance, assists, possession, crosses, number of red and yellow cards, passes, fouls, attempts, switches of play, offsides, and the number of times a certain are of the pitch has been crossed.\n\n** **\n###  **Inspiration**\n\nThis dataset is ideal for performing data analysis of the matches of the 2022 Fifa World Cup.\nSince a vast array of features are present, not only can a wide range of exploratory data analysis techniques be deployed, but also different plots and visualization techniques can be used.\nPython libraries, for example, can be used to perform these tasks.\n\n**Remember to upvote if you found the dataset useful :)**.\n\n** **\n###  **Collection methodology**\n\nThe dataset was obtained through web scraping from www.fifa.com.\nThe data were also cleaned and the unnecessary information were discarded.",
+  "datasetId": 2703009,
+  "datasetSlug": "fifa-world-cup-2022-complete-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "die9origephit",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 92507,
+  "totalVotes": 352,
+  "totalDownloads": 17106,
+  "title": "Fifa World Cup 2022: Complete Dataset",
+  "hasTitle": true,
+  "subtitle": "Statistics of all the matches in the Fifa World Cup 2022",
+  "hasSubtitle": true,
+  "description": "The dataset contains all the matches, updated daily, of the Qatar Fifa World Cup 2022.\nAlong with the scores and the football teams several statistics for each match were reported; for instance, assists, possession, crosses, number of red and yellow cards, passes, fouls, attempts, switches of play, offsides, and the number of times a certain are of the pitch has been crossed.\n\n** **\n###  **Inspiration**\n\nThis dataset is ideal for performing data analysis of the matches of the 2022 Fifa World Cup.\nSince a vast array of features are present, not only can a wide range of exploratory data analysis techniques be deployed, but also different plots and visualization techniques can be used.\nPython libraries, for example, can be used to perform these tasks.\n\n**Remember to upvote if you found the dataset useful :)**.\n\n** **\n###  **Collection methodology**\n\nThe dataset was obtained through web scraping from www.fifa.com.\nThe data were also cleaned and the unnecessary information were discarded.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "beginner",
+    "data visualization",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

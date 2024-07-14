@@ -1,0 +1,39 @@
+{
+  "id": "ouaraskhelilrafik/mawqif-dataset",
+  "id_no": 4933508,
+  "datasetSlugNullable": "mawqif-dataset",
+  "ownerUserNullable": "ouaraskhelilrafik",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Mawqif Dataset",
+  "subtitleNullable": "Stance Detection in Arabic Language Shared Task",
+  "descriptionNullable": "The vast growth of social media platforms, online news outlets, and digital communication has increased user-generated content exponentially in recent years. This unprecedented surge in online discourse has sparked an urgent need to develop automated tools and techniques to effectively analyze the opinions and attitudes expressed within these expansive streams of text. Stance detection, a critical task within the field of Natural Language Processing (NLP), aims to identify the position or perspective of a writer towards a specific topic or entity by analyzing their written text and/or social media activity, such as preferences and connections. The applications of stance detection are diverse and encompass domains such as politics, marketing, and social media analysis.\n\n## **Classes**\nThe possible stance labels are:\n\n**FAVOR** means that we can infer from the post that the author supports the target (e.g., explicitly supporting the target or something aligned with the target, or if the post contains information such as news, a quote, a story, which reveals that the author is in favor of the target).\n\n**AGAINST** means that we can infer from the tweet that the author is against the target (e.g., explicitly opposing the target or something aligned with the target, or if the post contains information such as news, a quote, a story, which reveals that the author is against the target).\n\n**NONE** means that the tweet provides no hint as to the author's stance toward the target (e.g., there is no evidence in the tweet to judge the author's stance, such as inquiries, or news that does not express any positive or negative position).\n\n# **Dataset**\nMawqif comprises 4,121 entries distributed across \"COVID-19 vaccine\" (1,373 entries), \"digital transformation\" (1,348 entries), and \"women empowerment\" (1,400 entries). \n\nIt is structured as a multi-label dataset with labels including  stance (Favor, Against, None), sentiment (Positive, Negative, Neutral), and sarcasm (Sarcastic and Non-sarcastic).",
+  "datasetId": 4933508,
+  "datasetSlug": "mawqif-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ouaraskhelilrafik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 54,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "Mawqif Dataset",
+  "hasTitle": true,
+  "subtitle": "Stance Detection in Arabic Language Shared Task",
+  "hasSubtitle": true,
+  "description": "The vast growth of social media platforms, online news outlets, and digital communication has increased user-generated content exponentially in recent years. This unprecedented surge in online discourse has sparked an urgent need to develop automated tools and techniques to effectively analyze the opinions and attitudes expressed within these expansive streams of text. Stance detection, a critical task within the field of Natural Language Processing (NLP), aims to identify the position or perspective of a writer towards a specific topic or entity by analyzing their written text and/or social media activity, such as preferences and connections. The applications of stance detection are diverse and encompass domains such as politics, marketing, and social media analysis.\n\n## **Classes**\nThe possible stance labels are:\n\n**FAVOR** means that we can infer from the post that the author supports the target (e.g., explicitly supporting the target or something aligned with the target, or if the post contains information such as news, a quote, a story, which reveals that the author is in favor of the target).\n\n**AGAINST** means that we can infer from the tweet that the author is against the target (e.g., explicitly opposing the target or something aligned with the target, or if the post contains information such as news, a quote, a story, which reveals that the author is against the target).\n\n**NONE** means that the tweet provides no hint as to the author's stance toward the target (e.g., there is no evidence in the tweet to judge the author's stance, such as inquiries, or news that does not express any positive or negative position).\n\n# **Dataset**\nMawqif comprises 4,121 entries distributed across \"COVID-19 vaccine\" (1,373 entries), \"digital transformation\" (1,348 entries), and \"women empowerment\" (1,400 entries). \n\nIt is structured as a multi-label dataset with labels including  stance (Favor, Against, None), sentiment (Positive, Negative, Neutral), and sarcasm (Sarcastic and Non-sarcastic).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

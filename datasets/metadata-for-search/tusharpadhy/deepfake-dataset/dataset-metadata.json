@@ -1,0 +1,40 @@
+{
+  "id": "tusharpadhy/deepfake-dataset",
+  "id_no": 4269909,
+  "datasetSlugNullable": "deepfake-dataset",
+  "ownerUserNullable": "tusharpadhy",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Deepfake-dataset (140k + dataset real or fake)",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4269909,
+  "datasetSlug": "deepfake-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tusharpadhy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 399,
+  "totalVotes": 5,
+  "totalDownloads": 101,
+  "title": "Deepfake-dataset (140k + dataset real or fake)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

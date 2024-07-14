@@ -1,0 +1,37 @@
+{
+  "id": "heidielhalwagy/sales-dataset",
+  "id_no": 5296094,
+  "datasetSlugNullable": "sales-dataset",
+  "ownerUserNullable": "heidielhalwagy",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Sales dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5296094,
+  "datasetSlug": "sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "heidielhalwagy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 13,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Sales dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

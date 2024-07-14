@@ -1,0 +1,40 @@
+{
+  "id": "halimedogan/real-estate-dataset",
+  "id_no": 1715492,
+  "datasetSlugNullable": "real-estate-dataset",
+  "ownerUserNullable": "halimedogan",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Real Estate DataSet",
+  "subtitleNullable": "House Prices Forecasting",
+  "descriptionNullable": "",
+  "datasetId": 1715492,
+  "datasetSlug": "real-estate-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "halimedogan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 2925,
+  "totalVotes": 40,
+  "totalDownloads": 203,
+  "title": "Real Estate DataSet",
+  "hasTitle": true,
+  "subtitle": "House Prices Forecasting",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "carlmcbrideellis/house-prices-advanced-regression-solution-file",
+  "id_no": 734439,
+  "datasetSlugNullable": "house-prices-advanced-regression-solution-file",
+  "ownerUserNullable": "carlmcbrideellis",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "House Prices: Advanced Regression 'solution' file",
+  "subtitleNullable": "(for use offline, without the risk of ruining the public leaderboard)",
+  "descriptionNullable": "### Context\n\nOne of the most popular competitions on kaggle is the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The original data comes from the publication [Dean De Cock \"Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project\", Journal of Statistics Education, Volume 19, Number 3 (2011)](http://jse.amstat.org/v19n3/decock.pdf).  Recently a 'demonstration' notebook has been published [\"First place is meaningless in this way!\"](https://www.kaggle.com/diegojohnson/first-place-is-meaningless-in-this-way) that extracts the 'solution' from the [full dataset](https://www.kaggle.com/prevek18/ames-housing-dataset). Now that the 'solution' is readily available the possibility has opened for people to reproduce the competition at home without any daily submission limit. This will open up the possibility of experimenting with advanced techniques such as pipelines with/or various estimators/models in the same notebook, extensive hyper-parameter tuning etc. And all without the risk of 'upsetting' the public leaderboard. Simply download this `solution.csv` file and import it into your script or notebook and evaluate the [Root-Mean-Squared-Error (RMSE)](https://en.wikipedia.org/wiki/Root-mean-square_deviation) between the logarithm of the predicted value and the logarithm of the data in this file. \n \n\n### Content\n\nThis dataset is the `submission.csv` file that will produce a public leaderboard score of `0.00000`.\n\n\n### Acknowledgements\n\n* [Ames Housing Dataset](https://www.kaggle.com/prevek18/ames-housing-dataset/metadata) (on kaggle) by @prevek18 \n* [First place is meaningless in this way!](https://www.kaggle.com/diegojohnson/first-place-is-meaningless-in-this-way) by @diegojohnson ",
+  "datasetId": 734439,
+  "datasetSlug": "house-prices-advanced-regression-solution-file",
+  "hasDatasetSlug": true,
+  "ownerUser": "carlmcbrideellis",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14155,
+  "totalVotes": 45,
+  "totalDownloads": 1320,
+  "title": "House Prices: Advanced Regression 'solution' file",
+  "hasTitle": true,
+  "subtitle": "(for use offline, without the risk of ruining the public leaderboard)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOne of the most popular competitions on kaggle is the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The original data comes from the publication [Dean De Cock \"Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project\", Journal of Statistics Education, Volume 19, Number 3 (2011)](http://jse.amstat.org/v19n3/decock.pdf).  Recently a 'demonstration' notebook has been published [\"First place is meaningless in this way!\"](https://www.kaggle.com/diegojohnson/first-place-is-meaningless-in-this-way) that extracts the 'solution' from the [full dataset](https://www.kaggle.com/prevek18/ames-housing-dataset). Now that the 'solution' is readily available the possibility has opened for people to reproduce the competition at home without any daily submission limit. This will open up the possibility of experimenting with advanced techniques such as pipelines with/or various estimators/models in the same notebook, extensive hyper-parameter tuning etc. And all without the risk of 'upsetting' the public leaderboard. Simply download this `solution.csv` file and import it into your script or notebook and evaluate the [Root-Mean-Squared-Error (RMSE)](https://en.wikipedia.org/wiki/Root-mean-square_deviation) between the logarithm of the predicted value and the logarithm of the data in this file. \n \n\n### Content\n\nThis dataset is the `submission.csv` file that will produce a public leaderboard score of `0.00000`.\n\n\n### Acknowledgements\n\n* [Ames Housing Dataset](https://www.kaggle.com/prevek18/ames-housing-dataset/metadata) (on kaggle) by @prevek18 \n* [First place is meaningless in this way!](https://www.kaggle.com/diegojohnson/first-place-is-meaningless-in-this-way) by @diegojohnson ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pavan9065/fake-news-content-detection",
+  "id_no": 873465,
+  "datasetSlugNullable": "fake-news-content-detection",
+  "ownerUserNullable": "pavan9065",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Fake News Content Detection",
+  "subtitleNullable": "Multi Label Classification Of Fake News Content, BERT can be used.",
+  "descriptionNullable": "",
+  "datasetId": 873465,
+  "datasetSlug": "fake-news-content-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavan9065",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3062,
+  "totalVotes": 7,
+  "totalDownloads": 266,
+  "title": "Fake News Content Detection",
+  "hasTitle": true,
+  "subtitle": "Multi Label Classification Of Fake News Content, BERT can be used.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "multiclass classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

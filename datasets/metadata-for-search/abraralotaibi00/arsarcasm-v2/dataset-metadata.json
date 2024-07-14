@@ -1,0 +1,37 @@
+{
+  "id": "abraralotaibi00/arsarcasm-v2",
+  "id_no": 3102610,
+  "datasetSlugNullable": "arsarcasm-v2",
+  "ownerUserNullable": "abraralotaibi00",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "ArSarcasm-V2",
+  "subtitleNullable": "",
+  "descriptionNullable": "ArSarcasm-v2 is provided in a CSV format, we provide the same split that was used for the shared task. The training set contains 12,548 tweets, while the test set contains 3,000 tweets.\n\nThe dataset contains the following fields:\n\n- tweet: the original tweet text.\n- sarcasm: boolean that indicates whether a tweet is sarcastic or not.\n- sentiment: the sentiment of the tweet (positive, negative, neutral).\n- dialect: the dialect used in the tweet, we used the 5 main regions in the Arab world, follows the labels and their - meanings:\n- msa: modern standard Arabic.\n- egypt: the dialect of Egypt and Sudan.\n- levant: the Levantine dialect including Palestine, Jordan, Syria and Lebanon.\n- gulf: the Gulf countries including Saudi Arabia, UAE, Qatar, Bahrain, Yemen, Oman, Iraq and Kuwait.\n- magreb: the North African Arab countries including Algeria, Libya, Tunisia and Morocco.\n\nSource: https://github.com/iabufarha/ArSarcasm-v2\n\n@inproceedings{abufarha-etal-2021-arsarcasm-v2,\ntitle = \"Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic\",\n    author = \"Abu Farha, Ibrahim  and\n    Zaghouani, Wajdi  and\n    Magdy, Walid\",\n    booktitle = \"Proceedings of the Sixth Arabic Natural Language Processing Workshop\",\n    month = april,\n    year = \"2021\",\n    }\n",
+  "datasetId": 3102610,
+  "datasetSlug": "arsarcasm-v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "abraralotaibi00",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 334,
+  "totalVotes": 1,
+  "totalDownloads": 64,
+  "title": "ArSarcasm-V2",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "ArSarcasm-v2 is provided in a CSV format, we provide the same split that was used for the shared task. The training set contains 12,548 tweets, while the test set contains 3,000 tweets.\n\nThe dataset contains the following fields:\n\n- tweet: the original tweet text.\n- sarcasm: boolean that indicates whether a tweet is sarcastic or not.\n- sentiment: the sentiment of the tweet (positive, negative, neutral).\n- dialect: the dialect used in the tweet, we used the 5 main regions in the Arab world, follows the labels and their - meanings:\n- msa: modern standard Arabic.\n- egypt: the dialect of Egypt and Sudan.\n- levant: the Levantine dialect including Palestine, Jordan, Syria and Lebanon.\n- gulf: the Gulf countries including Saudi Arabia, UAE, Qatar, Bahrain, Yemen, Oman, Iraq and Kuwait.\n- magreb: the North African Arab countries including Algeria, Libya, Tunisia and Morocco.\n\nSource: https://github.com/iabufarha/ArSarcasm-v2\n\n@inproceedings{abufarha-etal-2021-arsarcasm-v2,\ntitle = \"Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic\",\n    author = \"Abu Farha, Ibrahim  and\n    Zaghouani, Wajdi  and\n    Magdy, Walid\",\n    booktitle = \"Proceedings of the Sixth Arabic Natural Language Processing Workshop\",\n    month = april,\n    year = \"2021\",\n    }\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

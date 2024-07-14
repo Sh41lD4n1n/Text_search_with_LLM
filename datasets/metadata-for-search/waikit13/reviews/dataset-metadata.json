@@ -1,0 +1,39 @@
+{
+  "id": "waikit13/reviews",
+  "id_no": 1412270,
+  "datasetSlugNullable": "reviews",
+  "ownerUserNullable": "waikit13",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1412270,
+  "datasetSlug": "reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "waikit13",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 714,
+  "totalVotes": 1,
+  "totalDownloads": 17,
+  "title": "Reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

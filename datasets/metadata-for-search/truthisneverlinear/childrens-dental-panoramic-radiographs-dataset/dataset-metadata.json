@@ -1,0 +1,43 @@
+{
+  "id": "truthisneverlinear/childrens-dental-panoramic-radiographs-dataset",
+  "id_no": 3480288,
+  "datasetSlugNullable": "childrens-dental-panoramic-radiographs-dataset",
+  "ownerUserNullable": "truthisneverlinear",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Children's Dental Panoramic Radiographs Dataset",
+  "subtitleNullable": "caries segmentation and dental disease detection",
+  "descriptionNullable": "World\u2019s first dataset of children\u2019s dental panoramic radiographs for caries segmentation and dental disease detection by segmenting and detecting annotations is published in this dataset.\n\nThere are three folders: i) adult tooth segmentation (semantic segmentation), ii) children's dental caries segmentation (instance segmentation), and iii) pediatric dental disease detection (object detection). \n\nA pipeline with Mask-RCNN for the second dataset children's dental caries is created in the notebooks section for being a guide (EDA, Training, Inference).\n\nDental data is pretty important, however, the importance of this field is not sufficiently appreciated.\n\nPaper: https://www.nature.com/articles/s41597-023-02237-5",
+  "datasetId": 3480288,
+  "datasetSlug": "childrens-dental-panoramic-radiographs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "truthisneverlinear",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9179,
+  "totalVotes": 16,
+  "totalDownloads": 1116,
+  "title": "Children's Dental Panoramic Radiographs Dataset",
+  "hasTitle": true,
+  "subtitle": "caries segmentation and dental disease detection",
+  "hasSubtitle": true,
+  "description": "World\u2019s first dataset of children\u2019s dental panoramic radiographs for caries segmentation and dental disease detection by segmenting and detecting annotations is published in this dataset.\n\nThere are three folders: i) adult tooth segmentation (semantic segmentation), ii) children's dental caries segmentation (instance segmentation), and iii) pediatric dental disease detection (object detection). \n\nA pipeline with Mask-RCNN for the second dataset children's dental caries is created in the notebooks section for being a guide (EDA, Training, Inference).\n\nDental data is pretty important, however, the importance of this field is not sufficiently appreciated.\n\nPaper: https://www.nature.com/articles/s41597-023-02237-5",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "dentistry",
+    "computer vision",
+    "image",
+    "object detection",
+    "segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

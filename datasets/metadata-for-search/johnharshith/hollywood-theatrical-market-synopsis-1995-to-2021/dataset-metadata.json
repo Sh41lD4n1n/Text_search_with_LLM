@@ -1,0 +1,43 @@
+{
+  "id": "johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
+  "id_no": 1718843,
+  "datasetSlugNullable": "hollywood-theatrical-market-synopsis-1995-to-2021",
+  "ownerUserNullable": "johnharshith",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Hollywood Theatrical Market Synopsis 1995 to 2021",
+  "subtitleNullable": "North American Domestic Movies Theatrical Market Synopsis ",
+  "descriptionNullable": "![Hollywood Films](https://images7.alphacoders.com/116/thumb-350-1165584.jpg)\n\n### Context\n\nThis Dataset contains the data of market analysis built on The Numbers unique categorization system, which uses 6 different criteria to identify a movie. All movies released since 1995 are categorized according to the following attributes: Creative type (factual, contemporary fiction, fantasy etc.), Source (book, play, original screenplay etc.), Genre (drama, horror, documentary etc.), MPAA rating, Production method (live action, digital animation etc.) and Distributor. In order to provide a fair comparison between movies released in different years, all rankings are based on ticket sales, which are calculated using average ticket prices announced by the MPAA in their annual state of the industry report.\n\n### Content\n\nThe Dataset contains various files illustrating statistics such as annual ticket sales, highest grossers each year since 1995, top grossing creative types, top grossing distributors, top grossing genres, top grossing MPAA ratings, top grossing sources, top grossing production methods and the number of wide releases each year by various distributors.\n\n### Acknowledgements\n\nThe data was obtained from The Numbers website. Their theatrical market pages are based on the domestic theatrical market performance only. The domestic market is defined as the North American movie region (consisting of the United States, Canada, Puerto Rico and Guam). This data can be found from the website https://www.the-numbers.com/market/ with detailed analysis.\n\n### Inspiration\n\n2020 and 2021 have been rough years for the movie industry, and being a huge movie fanatic inspired me to share a dataset showing the exponential growth of box office collections as well as ticket sales over time (and the decline after 2020 due to the Covid-19 pandemic) indirectly indicating the quality of modern day films. This Dataset can also be used to study the genres which attract audience the most and encourage one to create an amazing genre specific plot in order to take one step closer to becoming the next most successful director!",
+  "datasetId": 1718843,
+  "datasetSlug": "hollywood-theatrical-market-synopsis-1995-to-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "johnharshith",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 98926,
+  "totalVotes": 567,
+  "totalDownloads": 17219,
+  "title": "Hollywood Theatrical Market Synopsis 1995 to 2021",
+  "hasTitle": true,
+  "subtitle": "North American Domestic Movies Theatrical Market Synopsis ",
+  "hasSubtitle": true,
+  "description": "![Hollywood Films](https://images7.alphacoders.com/116/thumb-350-1165584.jpg)\n\n### Context\n\nThis Dataset contains the data of market analysis built on The Numbers unique categorization system, which uses 6 different criteria to identify a movie. All movies released since 1995 are categorized according to the following attributes: Creative type (factual, contemporary fiction, fantasy etc.), Source (book, play, original screenplay etc.), Genre (drama, horror, documentary etc.), MPAA rating, Production method (live action, digital animation etc.) and Distributor. In order to provide a fair comparison between movies released in different years, all rankings are based on ticket sales, which are calculated using average ticket prices announced by the MPAA in their annual state of the industry report.\n\n### Content\n\nThe Dataset contains various files illustrating statistics such as annual ticket sales, highest grossers each year since 1995, top grossing creative types, top grossing distributors, top grossing genres, top grossing MPAA ratings, top grossing sources, top grossing production methods and the number of wide releases each year by various distributors.\n\n### Acknowledgements\n\nThe data was obtained from The Numbers website. Their theatrical market pages are based on the domestic theatrical market performance only. The domestic market is defined as the North American movie region (consisting of the United States, Canada, Puerto Rico and Guam). This data can be found from the website https://www.the-numbers.com/market/ with detailed analysis.\n\n### Inspiration\n\n2020 and 2021 have been rough years for the movie industry, and being a huge movie fanatic inspired me to share a dataset showing the exponential growth of box office collections as well as ticket sales over time (and the decline after 2020 due to the Covid-19 pandemic) indirectly indicating the quality of modern day films. This Dataset can also be used to study the genres which attract audience the most and encourage one to create an amazing genre specific plot in order to take one step closer to becoming the next most successful director!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "united states",
+    "business",
+    "finance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sahirmaharajj/school-student-daily-attendance",
+  "id_no": 4907070,
+  "datasetSlugNullable": "school-student-daily-attendance",
+  "ownerUserNullable": "sahirmaharajj",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "School Student Daily Attendance",
+  "subtitleNullable": "Daily counts of students registered, present, absent and released",
+  "descriptionNullable": "Daily listing (counts) of students registered, present, absent and released by School DBN.\n\nEach record includes the date, total enrollment, number of students absent, present, and released on that day. This structured data is pivotal for understanding daily attendance trends, student engagement, and the operational dynamics of the school environment over time.\n\nFrom a data science perspective, this dataset is a treasure trove for analyzing educational trends, attendance patterns, and their correlations with academic performance and other socio-economic factors. Analyzing these patterns over time or across different schools can help in identifying critical issues such as chronic absenteeism, the effectiveness of attendance policies, and the impact of external factors on student attendance.\n\nVarious types of analyses can be performed on this dataset to extract meaningful insights:\n\n- **Time Series Analysis**: This involves examining the data across time to identify trends, seasonal patterns, or anomalies in student attendance.\n- **Predictive Modeling**: Using historical attendance data to predict future trends. This could help in forecasting future attendance patterns and planning necessary interventions early.\n- **Correlation Analysis**: This type of analysis can be used to explore correlations between attendance rates and other variables, possibly external, like local events, weather conditions, or public health issues.\n- **Cluster Analysis**: By clustering different days based on attendance figures, schools can categorize 'types' of days (e.g., high attendance vs. low attendance days) and possibly link these to specific events or conditions.\n\n\n\n",
+  "datasetId": 4907070,
+  "datasetSlug": "school-student-daily-attendance",
+  "hasDatasetSlug": true,
+  "ownerUser": "sahirmaharajj",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 36137,
+  "totalVotes": 168,
+  "totalDownloads": 8540,
+  "title": "School Student Daily Attendance",
+  "hasTitle": true,
+  "subtitle": "Daily counts of students registered, present, absent and released",
+  "hasSubtitle": true,
+  "description": "Daily listing (counts) of students registered, present, absent and released by School DBN.\n\nEach record includes the date, total enrollment, number of students absent, present, and released on that day. This structured data is pivotal for understanding daily attendance trends, student engagement, and the operational dynamics of the school environment over time.\n\nFrom a data science perspective, this dataset is a treasure trove for analyzing educational trends, attendance patterns, and their correlations with academic performance and other socio-economic factors. Analyzing these patterns over time or across different schools can help in identifying critical issues such as chronic absenteeism, the effectiveness of attendance policies, and the impact of external factors on student attendance.\n\nVarious types of analyses can be performed on this dataset to extract meaningful insights:\n\n- **Time Series Analysis**: This involves examining the data across time to identify trends, seasonal patterns, or anomalies in student attendance.\n- **Predictive Modeling**: Using historical attendance data to predict future trends. This could help in forecasting future attendance patterns and planning necessary interventions early.\n- **Correlation Analysis**: This type of analysis can be used to explore correlations between attendance rates and other variables, possibly external, like local events, weather conditions, or public health issues.\n- **Cluster Analysis**: By clustering different days based on attendance figures, schools can categorize 'types' of days (e.g., high attendance vs. low attendance days) and possibly link these to specific events or conditions.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "people",
+    "business",
+    "education",
+    "primary and secondary schools"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

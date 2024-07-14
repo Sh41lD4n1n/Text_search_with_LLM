@@ -1,0 +1,45 @@
+{
+  "id": "dataclusterlabs/face-mask-dataset",
+  "id_no": 2296651,
+  "datasetSlugNullable": "face-mask-dataset",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Face Mask Dataset",
+  "subtitleNullable": "Face mask detecion, face cover detection, face detection with mask",
+  "descriptionNullable": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 2000+ image of people wearing mask which are captured and crowdsourced from over 1000+ urban and rural locations, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs.\n\n### **Dataset Features**\n\n- Dataset size : 2000+ images\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution   : HD and above (1920x1080 and above)\n- Location     : Captured with 100+ locations across India\n- Diversity    : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2022  \n- Usage \t   : Mask Detection, Face Cover Detection, Face Detection, Object Detection, Computer Vision, etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    ",
+  "datasetId": 2296651,
+  "datasetSlug": "face-mask-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2647,
+  "totalVotes": 15,
+  "totalDownloads": 158,
+  "title": "Face Mask Dataset",
+  "hasTitle": true,
+  "subtitle": "Face mask detecion, face cover detection, face detection with mask",
+  "hasSubtitle": true,
+  "description": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 2000+ image of people wearing mask which are captured and crowdsourced from over 1000+ urban and rural locations, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs.\n\n### **Dataset Features**\n\n- Dataset size : 2000+ images\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution   : HD and above (1920x1080 and above)\n- Location     : Captured with 100+ locations across India\n- Diversity    : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2022  \n- Usage \t   : Mask Detection, Face Cover Detection, Face Detection, Object Detection, Computer Vision, etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "artificial intelligence",
+    "computer vision",
+    "deep learning",
+    "image",
+    "online communities",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

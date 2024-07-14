@@ -1,0 +1,40 @@
+{
+  "id": "destin369y/interactivehandgesture1",
+  "id_no": 3121,
+  "datasetSlugNullable": "interactivehandgesture1",
+  "ownerUserNullable": "destin369y",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Interactive Hand Gesture",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThere's a story behind every dataset and here's your opportunity to share yours.\n\nInteractive Hand Gesture.\nHere are color images and as well depth images of hand gestures grouped by their classes. \n\nCopyright:\nAuthor: Chengyin Liu;\nEmail: destin369y at gmail.com;\nYear: 2015.\n\nPlease acknowledge my name if you use this dataset, thank you.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\nRGB-D hand gesture images taken by depth camera. \nGrouped by classes. Please refer to \"class.txt\" \nUsed for hand gesture recognition evaluation.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\nThis dataset is used for my hand gesture recognition research at National Taiwan University, in the Intelligent Robot Lab under the lead of Prof. Li-Chen Fu.\nMore details about our lab, please visit http://robotlab.csie.ntu.edu.tw/\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 3121,
+  "datasetSlug": "interactivehandgesture1",
+  "hasDatasetSlug": true,
+  "ownerUser": "destin369y",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 12741,
+  "totalVotes": 11,
+  "totalDownloads": 862,
+  "title": "Interactive Hand Gesture",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThere's a story behind every dataset and here's your opportunity to share yours.\n\nInteractive Hand Gesture.\nHere are color images and as well depth images of hand gestures grouped by their classes. \n\nCopyright:\nAuthor: Chengyin Liu;\nEmail: destin369y at gmail.com;\nYear: 2015.\n\nPlease acknowledge my name if you use this dataset, thank you.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\nRGB-D hand gesture images taken by depth camera. \nGrouped by classes. Please refer to \"class.txt\" \nUsed for hand gesture recognition evaluation.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\nThis dataset is used for my hand gesture recognition research at National Taiwan University, in the Intelligent Robot Lab under the lead of Prof. Li-Chen Fu.\nMore details about our lab, please visit http://robotlab.csie.ntu.edu.tw/\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

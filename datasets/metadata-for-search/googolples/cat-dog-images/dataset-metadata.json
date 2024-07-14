@@ -1,0 +1,43 @@
+{
+  "id": "googolples/cat-dog-images",
+  "id_no": 1835138,
+  "datasetSlugNullable": "cat-dog-images",
+  "ownerUserNullable": "googolples",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cat and Dog Images",
+  "subtitleNullable": "1000 cat images and 1000 dog images",
+  "descriptionNullable": "### Introduction\nThis dataset contains 1000 cat images and 1000 dogs images collected from Internet. You can use them for machine learning tasks, such as image classification.",
+  "datasetId": 1835138,
+  "datasetSlug": "cat-dog-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "googolples",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2702,
+  "totalVotes": 5,
+  "totalDownloads": 450,
+  "title": "Cat and Dog Images",
+  "hasTitle": true,
+  "subtitle": "1000 cat images and 1000 dog images",
+  "hasSubtitle": true,
+  "description": "### Introduction\nThis dataset contains 1000 cat images and 1000 dogs images collected from Internet. You can use them for machine learning tasks, such as image classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

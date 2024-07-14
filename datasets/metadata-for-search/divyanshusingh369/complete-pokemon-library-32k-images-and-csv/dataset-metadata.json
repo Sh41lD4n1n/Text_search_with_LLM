@@ -1,0 +1,43 @@
+{
+  "id": "divyanshusingh369/complete-pokemon-library-32k-images-and-csv",
+  "id_no": 4688703,
+  "datasetSlugNullable": "complete-pokemon-library-32k-images-and-csv",
+  "ownerUserNullable": "divyanshusingh369",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dataset of 32000 Pokemon Images & CSV, JSON",
+  "subtitleNullable": "Discover the Ultimate Pok\u00e9mon Collection: 32K Images Await Your Exploration!!!",
+  "descriptionNullable": "This dataset includes two directories with a collection of approximately 32,000 Pok\u00e9mon images, along with two important files: a CSV file and a JSON file. The CSV file contains various details about each Pok\u00e9mon, such as its name, type, species, height, weight, abilities, EV yield, catch rate, base friendship, base exp, growth rate, egg groups, gender, egg cycles, and base stats.\n\n**CSV and JSON File Descriptors**\n\n1. **Pokemon**: Name of the Pok\u00e9mon.\n2. **Type**: One or dual type determining weaknesses or resistances to attacks.\n3. **Species**: Identifies the Pok\u00e9mon based on defining biological characteristics.\n4. **Height**: Height of each Pok\u00e9mon.\n5. **Weight**: Weight of each Pok\u00e9mon.\n6. **Abilities**: Special attributes aiding Pok\u00e9mon in battle, introduced in Generation 3.\n7. **EV Yield**: Stats gained by defeating specific Pok\u00e9mon.\n8. **Catch Rate**: Chances of catching a Pok\u00e9mon with a Pok\u00e9 Ball.\n9. **Base Friendship**: Default friendship value when encountering a Pok\u00e9mon.\n10. **Base Exp**: EXP yield when defeating a Pok\u00e9mon at level 1.\n11. **Growth Rate**: Amount of EXP needed for leveling up.\n12. **Egg Groups**: Classification used in Pok\u00e9mon breeding.\n13. **Gender**: Chance of Pok\u00e9mon being male or female.\n14. **Egg Cycles**: Time unit for hatching Pok\u00e9mon eggs.\n15. **Base Stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)**: Determine Pok\u00e9mon strengths and weaknesses.\n\n**Pokemon Dataset Directory**\n\nThis directory contains 973 Pok\u00e9mon across all generations from 1 to 9, totaling 29,534 sprite images. Images may vary in dimensions, and animated GIFs are included for each Pok\u00e9mon.\n\n**Pokemon Images DB Directory**\n\nIn the Project Images DB directory, you'll find images of 1187 Pok\u00e9mon, each accompanied by an original image and an image with the background removed. These images are ideal for projects like Pok\u00e9mon Library, where you can display the images in your project just like the examples provided below.\n\n![Pokemon Library Project Display](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9519298%2Fe4750c0e9b93719e083aad63e9fabb70%2Fnationaldex.jpg?generation=1711662453395190&alt=media)\n\n![Pokemon Library Project Display 2](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9519298%2Faf62ce7c03756cdc44221b7dbbaba31f%2FFMo-WBjaMAUuPHE2.jpeg?generation=1711662948388237&alt=media)\n\nThe dataset is sourced from the [Pok\u00e9monDB](https://pokemondb.net/pokedex/all) database, ensuring reliability and accuracy.\n\nThe images are sourced from Google. \n\n**Sources**\n\nAll data and images are collected from the [Pok\u00e9monDB](https://pokemondb.net/pokedex/all) database, maintaining authenticity and credibility. Additionally, a JSON file is provided for simplicity.\n\n**If you find this dataset valuable for your projects, consider making a contribution of any amount to my PayPal Account. Even a small donation of $0.1 keeps me motivated to create more amazing datasets like this. Your support helps fuel further innovation and development. Additionally, feel free to leave comments about your experience with this dataset and contribute by applying it to machine learning algorithms in your Kaggle Notebook. Together, we can continue to drive progress and make meaningful advancements in the field.**\n\nPaypal Account - **https://www.paypal.com/paypalme/divyanshu3690**\n\nI hope you will learn something great from this dataset and will make amazing **Projects** by using this dataset.",
+  "datasetId": 4688703,
+  "datasetSlug": "complete-pokemon-library-32k-images-and-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "divyanshusingh369",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9645,
+  "totalVotes": 69,
+  "totalDownloads": 1450,
+  "title": "Dataset of 32000 Pokemon Images & CSV, JSON",
+  "hasTitle": true,
+  "subtitle": "Discover the Ultimate Pok\u00e9mon Collection: 32K Images Await Your Exploration!!!",
+  "hasSubtitle": true,
+  "description": "This dataset includes two directories with a collection of approximately 32,000 Pok\u00e9mon images, along with two important files: a CSV file and a JSON file. The CSV file contains various details about each Pok\u00e9mon, such as its name, type, species, height, weight, abilities, EV yield, catch rate, base friendship, base exp, growth rate, egg groups, gender, egg cycles, and base stats.\n\n**CSV and JSON File Descriptors**\n\n1. **Pokemon**: Name of the Pok\u00e9mon.\n2. **Type**: One or dual type determining weaknesses or resistances to attacks.\n3. **Species**: Identifies the Pok\u00e9mon based on defining biological characteristics.\n4. **Height**: Height of each Pok\u00e9mon.\n5. **Weight**: Weight of each Pok\u00e9mon.\n6. **Abilities**: Special attributes aiding Pok\u00e9mon in battle, introduced in Generation 3.\n7. **EV Yield**: Stats gained by defeating specific Pok\u00e9mon.\n8. **Catch Rate**: Chances of catching a Pok\u00e9mon with a Pok\u00e9 Ball.\n9. **Base Friendship**: Default friendship value when encountering a Pok\u00e9mon.\n10. **Base Exp**: EXP yield when defeating a Pok\u00e9mon at level 1.\n11. **Growth Rate**: Amount of EXP needed for leveling up.\n12. **Egg Groups**: Classification used in Pok\u00e9mon breeding.\n13. **Gender**: Chance of Pok\u00e9mon being male or female.\n14. **Egg Cycles**: Time unit for hatching Pok\u00e9mon eggs.\n15. **Base Stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)**: Determine Pok\u00e9mon strengths and weaknesses.\n\n**Pokemon Dataset Directory**\n\nThis directory contains 973 Pok\u00e9mon across all generations from 1 to 9, totaling 29,534 sprite images. Images may vary in dimensions, and animated GIFs are included for each Pok\u00e9mon.\n\n**Pokemon Images DB Directory**\n\nIn the Project Images DB directory, you'll find images of 1187 Pok\u00e9mon, each accompanied by an original image and an image with the background removed. These images are ideal for projects like Pok\u00e9mon Library, where you can display the images in your project just like the examples provided below.\n\n![Pokemon Library Project Display](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9519298%2Fe4750c0e9b93719e083aad63e9fabb70%2Fnationaldex.jpg?generation=1711662453395190&alt=media)\n\n![Pokemon Library Project Display 2](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9519298%2Faf62ce7c03756cdc44221b7dbbaba31f%2FFMo-WBjaMAUuPHE2.jpeg?generation=1711662948388237&alt=media)\n\nThe dataset is sourced from the [Pok\u00e9monDB](https://pokemondb.net/pokedex/all) database, ensuring reliability and accuracy.\n\nThe images are sourced from Google. \n\n**Sources**\n\nAll data and images are collected from the [Pok\u00e9monDB](https://pokemondb.net/pokedex/all) database, maintaining authenticity and credibility. Additionally, a JSON file is provided for simplicity.\n\n**If you find this dataset valuable for your projects, consider making a contribution of any amount to my PayPal Account. Even a small donation of $0.1 keeps me motivated to create more amazing datasets like this. Your support helps fuel further innovation and development. Additionally, feel free to leave comments about your experience with this dataset and contribute by applying it to machine learning algorithms in your Kaggle Notebook. Together, we can continue to drive progress and make meaningful advancements in the field.**\n\nPaypal Account - **https://www.paypal.com/paypalme/divyanshu3690**\n\nI hope you will learn something great from this dataset and will make amazing **Projects** by using this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "michellevp/mental-health-dataset-bipolar",
+  "id_no": 4562890,
+  "datasetSlugNullable": "mental-health-dataset-bipolar",
+  "ownerUserNullable": "michellevp",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health Dataset (Bipolar)",
+  "subtitleNullable": "\"Exploring Language Patterns and Sentiment Dynamics in Bipolar Disorder Discussi",
+  "descriptionNullable": "This dataset provides a comprehensive collection of textual features extracted from Reddit posts in a subreddit focused on bipolar disorder. Each entry includes various readability indices, sentiment analysis scores, linguistic features, and TF-IDF values for common terms related to mental health and emotional experiences. With this dataset, researchers and practitioners can explore language patterns, sentiment dynamics, and linguistic markers associated with bipolar disorder discussions on Reddit. This resource can support studies on mental health discourse, sentiment analysis, and natural language processing tasks.\n\nThis dataset could be beneficial for several purposes related to bipolar disorder research, mental health analysis, and natural language processing (NLP) tasks. Here are some potential benefits:\n\n- Understanding Bipolar Disorder: Researchers and mental health professionals can use the dataset to gain insights into the language patterns and characteristics of individuals with bipolar disorder. By analyzing the content of posts made by individuals with bipolar disorder, researchers can better understand their experiences, challenges, and thought processes.\n- Predictive Modeling: Machine learning models can be trained on this dataset to predict various aspects related to bipolar disorder, such as sentiment, symptom severity, or the likelihood of certain behaviors (e.g., substance use, suicidal ideation). These models can help identify individuals at risk and provide timely interventions or support.\n- Text Classification: Natural language processing techniques can be applied to classify posts based on their content, sentiment, or topic. For example, posts could be classified into different categories such as manic episodes, depressive episodes, treatment experiences, or coping strategies. This classification can assist in organizing and analyzing large volumes of text data efficiently.",
+  "datasetId": 4562890,
+  "datasetSlug": "mental-health-dataset-bipolar",
+  "hasDatasetSlug": true,
+  "ownerUser": "michellevp",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6943,
+  "totalVotes": 29,
+  "totalDownloads": 1134,
+  "title": "Mental Health Dataset (Bipolar)",
+  "hasTitle": true,
+  "subtitle": "\"Exploring Language Patterns and Sentiment Dynamics in Bipolar Disorder Discussi",
+  "hasSubtitle": true,
+  "description": "This dataset provides a comprehensive collection of textual features extracted from Reddit posts in a subreddit focused on bipolar disorder. Each entry includes various readability indices, sentiment analysis scores, linguistic features, and TF-IDF values for common terms related to mental health and emotional experiences. With this dataset, researchers and practitioners can explore language patterns, sentiment dynamics, and linguistic markers associated with bipolar disorder discussions on Reddit. This resource can support studies on mental health discourse, sentiment analysis, and natural language processing tasks.\n\nThis dataset could be beneficial for several purposes related to bipolar disorder research, mental health analysis, and natural language processing (NLP) tasks. Here are some potential benefits:\n\n- Understanding Bipolar Disorder: Researchers and mental health professionals can use the dataset to gain insights into the language patterns and characteristics of individuals with bipolar disorder. By analyzing the content of posts made by individuals with bipolar disorder, researchers can better understand their experiences, challenges, and thought processes.\n- Predictive Modeling: Machine learning models can be trained on this dataset to predict various aspects related to bipolar disorder, such as sentiment, symptom severity, or the likelihood of certain behaviors (e.g., substance use, suicidal ideation). These models can help identify individuals at risk and provide timely interventions or support.\n- Text Classification: Natural language processing techniques can be applied to classify posts based on their content, sentiment, or topic. For example, posts could be classified into different categories such as manic episodes, depressive episodes, treatment experiences, or coping strategies. This classification can assist in organizing and analyzing large volumes of text data efficiently.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "social science",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

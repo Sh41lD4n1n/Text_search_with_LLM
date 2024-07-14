@@ -1,0 +1,44 @@
+{
+  "id": "shubhamchambhare/pokemons-and-there-stats",
+  "id_no": 1376668,
+  "datasetSlugNullable": "pokemons-and-there-stats",
+  "ownerUserNullable": "shubhamchambhare",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Pokemons and their stats",
+  "subtitleNullable": "1045 Pokemons with there features and names",
+  "descriptionNullable": "This data set includes **1045 Pokemons**, including their number, name, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.\n\nThis are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (NOT pokemon cards or Pokemon Go).\n\nThe data as described by Shubham Chambhare contains the following columns:\n\n- #: ID for each pokemon\n- Name: Name of each pokemon\n- Total: sum of all stats that come after this, a general guide to how strong a pokemon is\n- HP: hit points, or health, defines how much damage a pokemon can withstand before fainting\n- Attack: the base modifier for normal attacks (eg. Scratch, Punch)\n- Defense: the base damage resistance against normal attacks\n- SP Atk: special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)\n- SP Def: the base damage resistance against special attacks\n- Speed: determines which pokemon attacks first each round\n- The data for this table has been acquired from several different sites, including:\nhttps://pokemondb.net/pokedex/all\nhttps://www.serebii.net/pokedex-dp/stat/all.shtml",
+  "datasetId": 1376668,
+  "datasetSlug": "pokemons-and-there-stats",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubhamchambhare",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 10599,
+  "totalVotes": 63,
+  "totalDownloads": 1932,
+  "title": "Pokemons and their stats",
+  "hasTitle": true,
+  "subtitle": "1045 Pokemons with there features and names",
+  "hasSubtitle": true,
+  "description": "This data set includes **1045 Pokemons**, including their number, name, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.\n\nThis are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (NOT pokemon cards or Pokemon Go).\n\nThe data as described by Shubham Chambhare contains the following columns:\n\n- #: ID for each pokemon\n- Name: Name of each pokemon\n- Total: sum of all stats that come after this, a general guide to how strong a pokemon is\n- HP: hit points, or health, defines how much damage a pokemon can withstand before fainting\n- Attack: the base modifier for normal attacks (eg. Scratch, Punch)\n- Defense: the base damage resistance against normal attacks\n- SP Atk: special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)\n- SP Def: the base damage resistance against special attacks\n- Speed: determines which pokemon attacks first each round\n- The data for this table has been acquired from several different sites, including:\nhttps://pokemondb.net/pokedex/all\nhttps://www.serebii.net/pokedex-dp/stat/all.shtml",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "card games",
+    "tabular",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

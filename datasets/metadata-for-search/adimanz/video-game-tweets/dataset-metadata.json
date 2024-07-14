@@ -1,0 +1,44 @@
+{
+  "id": "adimanz/video-game-tweets",
+  "id_no": 1383337,
+  "datasetSlugNullable": "video-game-tweets",
+  "ownerUserNullable": "adimanz",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Video game tweets",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThis dataset consists of tweets scraped from Twitter containing the hashtag \"videogames\". There are 1135 tweets from August 2020 to December 2020.\nFor simplicity of use, I have added another column that consists of clean tweets in tokenized form.\n\n\n### Content\n\nThis dataset consists of 1135 tweets and 5 columns:\n**timestamp**: Contains both the dates in YYYY-MM-DD format and time in HH:MM:SS format from August 2020 to December 2020.\n**text**: Tweets in their raw text format.\n**likes**: Number of likes the tweet received.\n**retweets**: Number of times the tweet was retweeted.\n**clean_text**: Tweets after they were cleaned (punctuations, stopwords, emojis and URLs removed, lemmatized, tokenized)\n\n\n### Inspiration\n- Predict the number of likes or retweets for a given tweet.\n- Find the sentiment polarity of tweets.\n- Predict the sentiments of the given tweets using a pre-trained model.\n- Analyze the tweets to understand the positive and negative aspects of games through the perception of a user.\n- Frequency of Positive vs Negative tweets.\n- Topic modeling to group the most recurrent topic for a given sentiment.",
+  "datasetId": 1383337,
+  "datasetSlug": "video-game-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "adimanz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3152,
+  "totalVotes": 5,
+  "totalDownloads": 198,
+  "title": "Video game tweets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset consists of tweets scraped from Twitter containing the hashtag \"videogames\". There are 1135 tweets from August 2020 to December 2020.\nFor simplicity of use, I have added another column that consists of clean tweets in tokenized form.\n\n\n### Content\n\nThis dataset consists of 1135 tweets and 5 columns:\n**timestamp**: Contains both the dates in YYYY-MM-DD format and time in HH:MM:SS format from August 2020 to December 2020.\n**text**: Tweets in their raw text format.\n**likes**: Number of likes the tweet received.\n**retweets**: Number of times the tweet was retweeted.\n**clean_text**: Tweets after they were cleaned (punctuations, stopwords, emojis and URLs removed, lemmatized, tokenized)\n\n\n### Inspiration\n- Predict the number of likes or retweets for a given tweet.\n- Find the sentiment polarity of tweets.\n- Predict the sentiments of the given tweets using a pre-trained model.\n- Analyze the tweets to understand the positive and negative aspects of games through the perception of a user.\n- Frequency of Positive vs Negative tweets.\n- Topic modeling to group the most recurrent topic for a given sentiment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "data cleaning",
+    "text mining",
+    "data visualization",
+    "classification",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

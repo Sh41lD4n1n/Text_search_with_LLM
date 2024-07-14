@@ -1,0 +1,45 @@
+{
+  "id": "perke986/face-mask-segmentation-dataset",
+  "id_no": 1225360,
+  "datasetSlugNullable": "face-mask-segmentation-dataset",
+  "ownerUserNullable": "perke986",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Face Mask Mask Dataset",
+  "subtitleNullable": "Face Mask Segmentation Dataset",
+  "descriptionNullable": "Face mask segmentation mask dataset for more efficient detection and localization.\n\n\n- 222 images, 222 masks.\n- Original images are in \"images\" folder.\n- Segmentation masks with the same name as the images are in \"masks\" images.\n- If more masks are present on the image, each has a unique color in order to instance each of them (max 3 masks per image):\n   - Mask 1: #ffffff\n   - Mask 2: #fdeded\n   - Mask 3: #fcdbdb\n\nContact: https://www.linkedin.com/in/pericnikola/\n\n- Big thanks to all users on Pexels and Unsplash - find their user names in the names of the images.\n\n\n- Why I made this? I was bored. \n- No animals were hurt during the creation of this dataset (dataset was presented to them and they had absolutely no idea what to do with it).\n\n",
+  "datasetId": 1225360,
+  "datasetSlug": "face-mask-segmentation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "perke986",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7146,
+  "totalVotes": 13,
+  "totalDownloads": 407,
+  "title": "Face Mask Mask Dataset",
+  "hasTitle": true,
+  "subtitle": "Face Mask Segmentation Dataset",
+  "hasSubtitle": true,
+  "description": "Face mask segmentation mask dataset for more efficient detection and localization.\n\n\n- 222 images, 222 masks.\n- Original images are in \"images\" folder.\n- Segmentation masks with the same name as the images are in \"masks\" images.\n- If more masks are present on the image, each has a unique color in order to instance each of them (max 3 masks per image):\n   - Mask 1: #ffffff\n   - Mask 2: #fdeded\n   - Mask 3: #fcdbdb\n\nContact: https://www.linkedin.com/in/pericnikola/\n\n- Big thanks to all users on Pexels and Unsplash - find their user names in the names of the images.\n\n\n- Why I made this? I was bored. \n- No animals were hurt during the creation of this dataset (dataset was presented to them and they had absolutely no idea what to do with it).\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "public health",
+    "earth and nature",
+    "health",
+    "computer vision",
+    "deep learning",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

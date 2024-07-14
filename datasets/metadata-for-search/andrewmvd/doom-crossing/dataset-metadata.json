@@ -1,0 +1,41 @@
+{
+  "id": "andrewmvd/doom-crossing",
+  "id_no": 693767,
+  "datasetSlugNullable": "doom-crossing",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Doom or Animal Crossing? (Image Classification)",
+  "subtitleNullable": "Classifying digits? pffffff....This is the real deal",
+  "descriptionNullable": "# Abstract\n&gt; Tired of MNIST? Want to apply your skills to a relevant issue of the 21st century?\nYou came to the wrong place my guy or girl - but it might be fun!\n&gt; Classify the source of memes into two classes: **Doom or Animal Crossing**.\n\n\n# About this dataset\n&gt; This dataset contains **1597 image posts** extracted from both r/doom and r/animalcrossing, including metadata.\nImages vary in dimensions and images were selected as best of the month in july 2020.\n\n\n# How to use this dataset\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# Acknowledgements\nYou shouldn't use this on your research, but hey I'm a description, not a science cop.\nAnyway its public license so have fun (If you need a DOI to publish let me know but I'll be pretty surprised if anyone does).\n\n&gt; ### License\nOriginal Author, Public Domain\n\n&gt; ### Splash banner\nArtwork by [RY Spirit](https://www.deviantart.com/ry-spirit) available on [deviantart](https://www.deviantart.com/ry-spirit/art/Animal-Crossing-Over-831049396).",
+  "datasetId": 693767,
+  "datasetSlug": "doom-crossing",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 26925,
+  "totalVotes": 134,
+  "totalDownloads": 1415,
+  "title": "Doom or Animal Crossing? (Image Classification)",
+  "hasTitle": true,
+  "subtitle": "Classifying digits? pffffff....This is the real deal",
+  "hasSubtitle": true,
+  "description": "# Abstract\n&gt; Tired of MNIST? Want to apply your skills to a relevant issue of the 21st century?\nYou came to the wrong place my guy or girl - but it might be fun!\n&gt; Classify the source of memes into two classes: **Doom or Animal Crossing**.\n\n\n# About this dataset\n&gt; This dataset contains **1597 image posts** extracted from both r/doom and r/animalcrossing, including metadata.\nImages vary in dimensions and images were selected as best of the month in july 2020.\n\n\n# How to use this dataset\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# Acknowledgements\nYou shouldn't use this on your research, but hey I'm a description, not a science cop.\nAnyway its public license so have fun (If you need a DOI to publish let me know but I'll be pretty surprised if anyone does).\n\n&gt; ### License\nOriginal Author, Public Domain\n\n&gt; ### Splash banner\nArtwork by [RY Spirit](https://www.deviantart.com/ry-spirit) available on [deviantart](https://www.deviantart.com/ry-spirit/art/Animal-Crossing-Over-831049396).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "education",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

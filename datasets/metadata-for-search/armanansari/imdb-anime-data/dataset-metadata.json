@@ -1,0 +1,39 @@
+{
+  "id": "armanansari/imdb-anime-data",
+  "id_no": 3805714,
+  "datasetSlugNullable": "imdb-anime-data",
+  "ownerUserNullable": "armanansari",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "IMDB Anime Data",
+  "subtitleNullable": "Most Popular Animes of all Time on IMDB",
+  "descriptionNullable": "This Dataset displays only the top 1000 Anime of all time on IMDB. It is in the same order as displayed on the IMDB website which is filtered by - \"Most Popular Movies and TV Shows tagged with keyword \"anime\". [**Source**](https://www.imdb.com/search/keyword/?keywords=anime&mode=detail&page=1&ref_=kw_nxt&sort=moviemeter,asc)\n\n\n**DATA DICTIONARY:**<br>\n`Title`: The name of the Anime.\n`Release Year`: The year the anime was released and till which year it is Ended, The OA in the values tells that the anime is still airing.\n`Genre`: Categories where the anime belongs.\n`Duration`: Anime running time in minutes.\n`Rating`: Ratings given by IMDb registered users (on a scale of 1 to 10)\n`Description`: Summary of the Anime which gives a brief description what it is about.\n`No. of Votes`: Number of votes cast by IMDb registered users.\n\n\n*Note: There are NA values present in most of the columns, because the value is not available on the source*",
+  "datasetId": 3805714,
+  "datasetSlug": "imdb-anime-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "armanansari",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 367,
+  "totalVotes": 6,
+  "totalDownloads": 55,
+  "title": "IMDB Anime Data",
+  "hasTitle": true,
+  "subtitle": "Most Popular Animes of all Time on IMDB",
+  "hasSubtitle": true,
+  "description": "This Dataset displays only the top 1000 Anime of all time on IMDB. It is in the same order as displayed on the IMDB website which is filtered by - \"Most Popular Movies and TV Shows tagged with keyword \"anime\". [**Source**](https://www.imdb.com/search/keyword/?keywords=anime&mode=detail&page=1&ref_=kw_nxt&sort=moviemeter,asc)\n\n\n**DATA DICTIONARY:**<br>\n`Title`: The name of the Anime.\n`Release Year`: The year the anime was released and till which year it is Ended, The OA in the values tells that the anime is still airing.\n`Genre`: Categories where the anime belongs.\n`Duration`: Anime running time in minutes.\n`Rating`: Ratings given by IMDb registered users (on a scale of 1 to 10)\n`Description`: Summary of the Anime which gives a brief description what it is about.\n`No. of Votes`: Number of votes cast by IMDb registered users.\n\n\n*Note: There are NA values present in most of the columns, because the value is not available on the source*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

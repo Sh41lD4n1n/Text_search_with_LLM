@@ -1,0 +1,47 @@
+{
+  "id": "pradeepisawasan/malaysian-sign-language-msl-image-dataset",
+  "id_no": 4116951,
+  "datasetSlugNullable": "malaysian-sign-language-msl-image-dataset",
+  "ownerUserNullable": "pradeepisawasan",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Malaysian Sign Language (MSL) Image Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is a collection of images designed for training machine learning models in the recognition and classification of Malaysian Sign Language (MSL) signs. It encompasses three distinct categories, each critical for a comprehensive understanding of MSL:\n\nAlphabets (Alphabet_MSL): This segment consists of images depicting individual letters of the MSL alphabet. Each image is a clear, focused representation of a hand gesture corresponding to an MSL letter, formatted in .jpg for optimal compatibility with machine learning algorithms.\n\nSingle Words (SingleWord_MSL): Here, key basic words used in MSL communication are visually represented. This category is vital for models intended to recognize common vocabulary in sign language.\n\nNumbers (Number_MSL): This part contains images illustrating numeric signs in MSL, covering a range from simple digits.",
+  "datasetId": 4116951,
+  "datasetSlug": "malaysian-sign-language-msl-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pradeepisawasan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 438,
+  "totalVotes": 1,
+  "totalDownloads": 94,
+  "title": "Malaysian Sign Language (MSL) Image Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is a collection of images designed for training machine learning models in the recognition and classification of Malaysian Sign Language (MSL) signs. It encompasses three distinct categories, each critical for a comprehensive understanding of MSL:\n\nAlphabets (Alphabet_MSL): This segment consists of images depicting individual letters of the MSL alphabet. Each image is a clear, focused representation of a hand gesture corresponding to an MSL letter, formatted in .jpg for optimal compatibility with machine learning algorithms.\n\nSingle Words (SingleWord_MSL): Here, key basic words used in MSL communication are visually represented. This category is vital for models intended to recognize common vocabulary in sign language.\n\nNumbers (Number_MSL): This part contains images illustrating numeric signs in MSL, covering a range from simple digits.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "earth and nature",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nuratikahzolkefly",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

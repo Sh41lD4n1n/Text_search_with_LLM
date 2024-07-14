@@ -1,0 +1,44 @@
+{
+  "id": "lakshmipragnakollu/road-accident-data-set",
+  "id_no": 5285207,
+  "datasetSlugNullable": "road-accident-data-set",
+  "ownerUserNullable": "lakshmipragnakollu",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Road Accident Data Analysis using Microsoft Excel.",
+  "subtitleNullable": "Analyzing Road Safety: An Interactive Excel Dashboard for Accident Data Insights",
+  "descriptionNullable": "This project entails the development of an advanced data analysis dashboard using Microsoft Excel to evaluate and visualize road accident and casualty statistics for the years 2021 and 2022. The primary objective is to provide a comprehensive, user-friendly interface that offers insightful analysis into the patterns, trends, and factors contributing to road accidents and their resultant casualties.\n\n** Column Descriptions:\n\n1. **Accident_Index**: A unique identifier for each accident recorded in the dataset. This ensures that each accident can be referenced individually.\n\n2. **Accident Date**: The date on which the accident occurred. This includes day, month, and year.\n\n3. **Month**: The month in which the accident occurred, extracted from the accident date. This helps in analyzing monthly trends.\n\n4. **Year**: The year in which the accident occurred, extracted from the accident date. Useful for annual trend analysis.\n\n5. **Day_of_Week**: The day of the week on which the accident occurred. This can help in understanding if there are more accidents on specific days.\n\n6. **Junction_Control**: Indicates the type of control present at the junction where the accident occurred (e.g., traffic lights, stop sign).\n\n7. **Junction_Detail**: Provides more detailed information about the junction's layout (e.g., T-junction, roundabout).\n\n8. **Accident_Severity**: The severity of the accident, which can range from slight, serious, to fatal.\n\n9. **Latitude**: The geographical latitude where the accident occurred. This helps in mapping the location of accidents.\n\n10. **Light_Conditions**: Describes the lighting conditions at the time of the accident (e.g., daylight, darkness with street lighting).\n\n11. **Local_Authority_(District)**: The local authority district where the accident took place. This is useful for regional analysis.\n\n12. **Carriageway_Hazards**: Any hazards present on the carriageway that might have contributed to the accident (e.g., roadworks, oil spill).\n\n13. **Longitude**: The geographical longitude where the accident occurred. Used in conjunction with latitude for mapping.\n\n14. **Number_of_Casualties**: The total number of casualties resulting from the accident. This includes all levels of injury severity.\n\n15. **Number_of_Vehicles**: The number of vehicles involved in the accident. This helps in understanding the scale of the accident.\n\n16. **Police_Force**: The police force that responded to and recorded the accident. This can indicate jurisdiction and reporting standards.\n\n17. **Road_Surface_Conditions**: Describes the condition of the road surface at the time of the accident (e.g., dry, wet).\n\n18. **Road_Type**: The type of road where the accident occurred (e.g., single carriageway, dual carriageway).\n\n19. **Speed_limit**: The speed limit in effect on the road where the accident occurred. This can be a factor in accident severity.\n\n20. **Time**: The exact time of day when the accident occurred. This can help in analyzing patterns related to time.\n\n21. **Urban_or_Rural_Area**: Indicates whether the accident occurred in an urban or rural area. This can influence accident characteristics.\n\n22. **Weather_Conditions**: The weather conditions at the time of the accident (e.g., fine, raining). This can impact driving conditions.\n\n23. **Vehicle_Type**: The type of vehicle(s) involved in the accident. This can help in understanding which types of vehicles are most frequently involved in accidents.**",
+  "datasetId": 5285207,
+  "datasetSlug": "road-accident-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "lakshmipragnakollu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 15,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Road Accident Data Analysis using Microsoft Excel.",
+  "hasTitle": true,
+  "subtitle": "Analyzing Road Safety: An Interactive Excel Dashboard for Accident Data Insights",
+  "hasSubtitle": true,
+  "description": "This project entails the development of an advanced data analysis dashboard using Microsoft Excel to evaluate and visualize road accident and casualty statistics for the years 2021 and 2022. The primary objective is to provide a comprehensive, user-friendly interface that offers insightful analysis into the patterns, trends, and factors contributing to road accidents and their resultant casualties.\n\n** Column Descriptions:\n\n1. **Accident_Index**: A unique identifier for each accident recorded in the dataset. This ensures that each accident can be referenced individually.\n\n2. **Accident Date**: The date on which the accident occurred. This includes day, month, and year.\n\n3. **Month**: The month in which the accident occurred, extracted from the accident date. This helps in analyzing monthly trends.\n\n4. **Year**: The year in which the accident occurred, extracted from the accident date. Useful for annual trend analysis.\n\n5. **Day_of_Week**: The day of the week on which the accident occurred. This can help in understanding if there are more accidents on specific days.\n\n6. **Junction_Control**: Indicates the type of control present at the junction where the accident occurred (e.g., traffic lights, stop sign).\n\n7. **Junction_Detail**: Provides more detailed information about the junction's layout (e.g., T-junction, roundabout).\n\n8. **Accident_Severity**: The severity of the accident, which can range from slight, serious, to fatal.\n\n9. **Latitude**: The geographical latitude where the accident occurred. This helps in mapping the location of accidents.\n\n10. **Light_Conditions**: Describes the lighting conditions at the time of the accident (e.g., daylight, darkness with street lighting).\n\n11. **Local_Authority_(District)**: The local authority district where the accident took place. This is useful for regional analysis.\n\n12. **Carriageway_Hazards**: Any hazards present on the carriageway that might have contributed to the accident (e.g., roadworks, oil spill).\n\n13. **Longitude**: The geographical longitude where the accident occurred. Used in conjunction with latitude for mapping.\n\n14. **Number_of_Casualties**: The total number of casualties resulting from the accident. This includes all levels of injury severity.\n\n15. **Number_of_Vehicles**: The number of vehicles involved in the accident. This helps in understanding the scale of the accident.\n\n16. **Police_Force**: The police force that responded to and recorded the accident. This can indicate jurisdiction and reporting standards.\n\n17. **Road_Surface_Conditions**: Describes the condition of the road surface at the time of the accident (e.g., dry, wet).\n\n18. **Road_Type**: The type of road where the accident occurred (e.g., single carriageway, dual carriageway).\n\n19. **Speed_limit**: The speed limit in effect on the road where the accident occurred. This can be a factor in accident severity.\n\n20. **Time**: The exact time of day when the accident occurred. This can help in analyzing patterns related to time.\n\n21. **Urban_or_Rural_Area**: Indicates whether the accident occurred in an urban or rural area. This can influence accident characteristics.\n\n22. **Weather_Conditions**: The weather conditions at the time of the accident (e.g., fine, raining). This can impact driving conditions.\n\n23. **Vehicle_Type**: The type of vehicle(s) involved in the accident. This can help in understanding which types of vehicles are most frequently involved in accidents.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software",
+    "transportation",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "utkarshsaxenadn/fast-food-classification-dataset",
+  "id_no": 2631527,
+  "datasetSlugNullable": "fast-food-classification-dataset",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Fast Food Classification Dataset - V2 | 20k Images",
+  "subtitleNullable": "Burger, Sandwich, Donut,Hot Dog, Pizza, Baked Potato, Fries, Crispy Chicken, etc",
+  "descriptionNullable": "---\n# Version 2\n\nVersion 2 extends the version 1 of the fastfood classification data set and introduces some new classes with new images. These new classes are : \n* **Baked Potato**\n* **Crispy Chicken**\n* **Fries**\n* **Taco**\n* **Taquito**\n\nThe data set is **divided into 4 parts**, the **Tensorflow Records**, **Training Data**Validation Data** and **Testing Data**.\nThe tensorflow records directory is further **divided into 3 parts**, the **Train**, **Valid** and **Test**. These images are **resized to 256 by 256 pixels**. No other augmentation is applied. While loading the tensorflow records files, **you can apply any augmentation you want**.\n\n  * **Train** : Contains **15,000** training images, with each class having **1,500 images**.\n\n  * **Valid** : Contains **3,500** validation images, with each class having **400 images**.\n\n  * **Test** : Contains **1,500** validation images, with each class having **100/200 images**.\n\n* Unlike the **Tensorflow records data**, the **Training data, validation data and testing data** contains **direct images**. These are raw images. So **any kind of augmentation**, and specially **resizing**, can be applied on them. \n\n  * **Training Data** : This directory contains **5 subdirectories**. Each **directory representing a class**. Each **class have 1,500 training images**.\n\n * **Validation Data** : This directory also contains **10 subdirectories**. Each **directory representing a class**. Each **class have 400 images for monitoring model's performance.\n\n * **Testing Data** : This directory also contains **10 subdirectories**. Each **directory representing a class**. Each **class have 100 /200 images for evaluating model's performance.\n\n---\n# Version 1\n\nThis is **Fast Food Classification** data set containing images of **5 different** types of **fast food**. Each directory represents a **class**, and **each class** represents a **food type**. The Classes are :\n* **Burger**\n* **Donut**\n* **Hot Dog**\n* **Pizza**\n* **Sandwich**\n\nThe data set is **divided into 3 parts**, the **Tensorflow records**, **Training data set** and **Validation data set**. \n* The tensorflow records directory is further **divided into 2 parts**, the **training images** and the **validation images**.These images are **resized to 256 by 256 pixels**. No other augmentation is applied. While loading the tensorflow records files, **you can apply any augmentation you want**.\n * **Training Images** : Contains **7,500** training images, with each class having **1,500 images**.\n * **Validation Images** : Contains **2,500** validation images, with each class having **500 images**.\n\n\n* Unlike the **Tensorflow records data**, the **Training data and validation data** contains **direct images**. These are raw images. So **any kind of augmentation**, and specially **resizing**, can be applied on them. \n * **Training Data** : This directory contains **5 subdirectories**. Each **directory representing a class**. Each **class have 1,500 training images**.\n * **Validation Data** : This directory also contains **5 subdirectories**. Each **directory representing a class**. Each **class have 500 images for monitoring model's performance.",
+  "datasetId": 2631527,
+  "datasetSlug": "fast-food-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 43240,
+  "totalVotes": 116,
+  "totalDownloads": 6183,
+  "title": "Fast Food Classification Dataset - V2 | 20k Images",
+  "hasTitle": true,
+  "subtitle": "Burger, Sandwich, Donut,Hot Dog, Pizza, Baked Potato, Fries, Crispy Chicken, etc",
+  "hasSubtitle": true,
+  "description": "---\n# Version 2\n\nVersion 2 extends the version 1 of the fastfood classification data set and introduces some new classes with new images. These new classes are : \n* **Baked Potato**\n* **Crispy Chicken**\n* **Fries**\n* **Taco**\n* **Taquito**\n\nThe data set is **divided into 4 parts**, the **Tensorflow Records**, **Training Data**Validation Data** and **Testing Data**.\nThe tensorflow records directory is further **divided into 3 parts**, the **Train**, **Valid** and **Test**. These images are **resized to 256 by 256 pixels**. No other augmentation is applied. While loading the tensorflow records files, **you can apply any augmentation you want**.\n\n  * **Train** : Contains **15,000** training images, with each class having **1,500 images**.\n\n  * **Valid** : Contains **3,500** validation images, with each class having **400 images**.\n\n  * **Test** : Contains **1,500** validation images, with each class having **100/200 images**.\n\n* Unlike the **Tensorflow records data**, the **Training data, validation data and testing data** contains **direct images**. These are raw images. So **any kind of augmentation**, and specially **resizing**, can be applied on them. \n\n  * **Training Data** : This directory contains **5 subdirectories**. Each **directory representing a class**. Each **class have 1,500 training images**.\n\n * **Validation Data** : This directory also contains **10 subdirectories**. Each **directory representing a class**. Each **class have 400 images for monitoring model's performance.\n\n * **Testing Data** : This directory also contains **10 subdirectories**. Each **directory representing a class**. Each **class have 100 /200 images for evaluating model's performance.\n\n---\n# Version 1\n\nThis is **Fast Food Classification** data set containing images of **5 different** types of **fast food**. Each directory represents a **class**, and **each class** represents a **food type**. The Classes are :\n* **Burger**\n* **Donut**\n* **Hot Dog**\n* **Pizza**\n* **Sandwich**\n\nThe data set is **divided into 3 parts**, the **Tensorflow records**, **Training data set** and **Validation data set**. \n* The tensorflow records directory is further **divided into 2 parts**, the **training images** and the **validation images**.These images are **resized to 256 by 256 pixels**. No other augmentation is applied. While loading the tensorflow records files, **you can apply any augmentation you want**.\n * **Training Images** : Contains **7,500** training images, with each class having **1,500 images**.\n * **Validation Images** : Contains **2,500** validation images, with each class having **500 images**.\n\n\n* Unlike the **Tensorflow records data**, the **Training data and validation data** contains **direct images**. These are raw images. So **any kind of augmentation**, and specially **resizing**, can be applied on them. \n * **Training Data** : This directory contains **5 subdirectories**. Each **directory representing a class**. Each **class have 1,500 training images**.\n * **Validation Data** : This directory also contains **5 subdirectories**. Each **directory representing a class**. Each **class have 500 images for monitoring model's performance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "computer vision",
+    "classification",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

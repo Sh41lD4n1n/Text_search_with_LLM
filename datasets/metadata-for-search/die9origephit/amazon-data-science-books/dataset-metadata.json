@@ -1,0 +1,43 @@
+{
+  "id": "die9origephit/amazon-data-science-books",
+  "id_no": 2487916,
+  "datasetSlugNullable": "amazon-data-science-books",
+  "ownerUserNullable": "die9origephit",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Data Science Books Dataset",
+  "subtitleNullable": "Amazon most popular data science books",
+  "descriptionNullable": "\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6372737%2Fc913ddc103f20c3668a67eda7a92336b%2Famazon-text-books.jpg?generation=1663537491733005&alt=media)\n\n\nThe dataset contains 946 books obtained from scraping [Amazon](https://www.amazon.com) books related to data science, statistics, data analysis, Python, deep learning, and machine learning.\nThere are 18 columns:\n\n\n- **title**: title of the book\n- **author**: author (or the authors) of the book\n- **price**: price (in dollars)\n- **price (including used books)**: price range of new and used books (in dollars)\n- **pages**: number of pages\n- **avg_reviews**: average reviews (out of 5)\n- **n_reviews**: reviews done for each book\n- **star5**: percentage of 5 star reviews\n- **star4**: percentage of 4 star reviews\n- **star3**: percentage of 3 star reviews\n- **star2**: percentage of 2 star reviews\n- **star1**: percentage of 1 star reviews\n- **dimensions**: size of the book (in inches)\n- **weight**: weight (in pounds or ounces)\n- **language**: language of the book\n- **publisher**: publisher\n- **ISBN-13**: ISBN_13 code\n- **link**: link of the Amazon book\n- **complete_link**: complete link of the Amazon book (including the domain `https://amazon.com`)\n\n###  **Inspiration**\n\nYou can perform an exploratory data analysis of the dataset, working with `Pandas` or `Numpy`.\nInteresting visualizations can be performed too using, for instance, Python libraries to plot the different features.\nThis dataset can be also used to practice queries using `SQL` or `Pandas`.\nMoreover, you can rank the books based on the number of positive reviews, or you can explore the dataset to have a reference for buying data-science-related books in the future. <br>\n\n**Remember to upvote if you found the dataset useful :)**.\n\n###  **Collection methodology**\n\nThe dataset was obtained through web scraping from Amazon.\n\nMore than 1700 books were scraped, fetching the most important information for each book.\nDuplicated were deleted, each column was formatted and made easy to use for data analysis purposes.\nRows containing a lot of missing values were deleted, and in some cases, were filled with an appropriate value based on the column. Thus, the total number of books passed from 1788 to 946.\n\n<br>\n",
+  "datasetId": 2487916,
+  "datasetSlug": "amazon-data-science-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "die9origephit",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 37683,
+  "totalVotes": 100,
+  "totalDownloads": 5700,
+  "title": "Amazon Data Science Books Dataset",
+  "hasTitle": true,
+  "subtitle": "Amazon most popular data science books",
+  "hasSubtitle": true,
+  "description": "\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6372737%2Fc913ddc103f20c3668a67eda7a92336b%2Famazon-text-books.jpg?generation=1663537491733005&alt=media)\n\n\nThe dataset contains 946 books obtained from scraping [Amazon](https://www.amazon.com) books related to data science, statistics, data analysis, Python, deep learning, and machine learning.\nThere are 18 columns:\n\n\n- **title**: title of the book\n- **author**: author (or the authors) of the book\n- **price**: price (in dollars)\n- **price (including used books)**: price range of new and used books (in dollars)\n- **pages**: number of pages\n- **avg_reviews**: average reviews (out of 5)\n- **n_reviews**: reviews done for each book\n- **star5**: percentage of 5 star reviews\n- **star4**: percentage of 4 star reviews\n- **star3**: percentage of 3 star reviews\n- **star2**: percentage of 2 star reviews\n- **star1**: percentage of 1 star reviews\n- **dimensions**: size of the book (in inches)\n- **weight**: weight (in pounds or ounces)\n- **language**: language of the book\n- **publisher**: publisher\n- **ISBN-13**: ISBN_13 code\n- **link**: link of the Amazon book\n- **complete_link**: complete link of the Amazon book (including the domain `https://amazon.com`)\n\n###  **Inspiration**\n\nYou can perform an exploratory data analysis of the dataset, working with `Pandas` or `Numpy`.\nInteresting visualizations can be performed too using, for instance, Python libraries to plot the different features.\nThis dataset can be also used to practice queries using `SQL` or `Pandas`.\nMoreover, you can rank the books based on the number of positive reviews, or you can explore the dataset to have a reference for buying data-science-related books in the future. <br>\n\n**Remember to upvote if you found the dataset useful :)**.\n\n###  **Collection methodology**\n\nThe dataset was obtained through web scraping from Amazon.\n\nMore than 1700 books were scraped, fetching the most important information for each book.\nDuplicated were deleted, each column was formatted and made easy to use for data analysis purposes.\nRows containing a lot of missing values were deleted, and in some cases, were filled with an appropriate value based on the column. Thus, the total number of books passed from 1788 to 946.\n\n<br>\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "programming",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

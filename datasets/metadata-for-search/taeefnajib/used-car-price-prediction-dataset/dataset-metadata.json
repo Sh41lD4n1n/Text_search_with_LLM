@@ -1,0 +1,42 @@
+{
+  "id": "taeefnajib/used-car-price-prediction-dataset",
+  "id_no": 3742543,
+  "datasetSlugNullable": "used-car-price-prediction-dataset",
+  "ownerUserNullable": "taeefnajib",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Used Car Price Prediction Dataset",
+  "subtitleNullable": "Predict the price of a used vehicle",
+  "descriptionNullable": "Used Car Price Prediction Dataset is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, [https://www.cars.com](https://www.cars.com). This dataset comprises 4,009 data points, each representing a unique vehicle listing, and includes nine distinct features providing valuable insights into the world of automobiles.\n\n- **Brand & Model:** Identify the brand or company name along with the specific model of each vehicle.\n- **Model Year:** Discover the manufacturing year of the vehicles, crucial for assessing depreciation and technology advancements.\n- **Mileage:** Obtain the mileage of each vehicle, a key indicator of wear and tear and potential maintenance requirements.\n- **Fuel Type:** Learn about the type of fuel the vehicles run on, whether it's gasoline, diesel, electric, or hybrid.\n- **Engine Type:** Understand the engine specifications, shedding light on performance and efficiency.\n- **Transmission:** Determine the transmission type, whether automatic, manual, or another variant.\n- **Exterior & Interior Colors:** Explore the aesthetic aspects of the vehicles, including exterior and interior color options.\n- **Accident History:** Discover whether a vehicle has a prior history of accidents or damage, crucial for informed decision-making.\n- **Clean Title:** Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.\n- **Price:** Access the listed prices for each vehicle, aiding in price comparison and budgeting.\n\nThis dataset is a valuable resource for automotive enthusiasts, buyers, and researchers interested in analyzing trends, making informed purchasing decisions or conducting studies related to the automotive industry and consumer preferences. Whether you are a data analyst, car buyer, or researcher, this dataset offers a wealth of information to explore and analyze.",
+  "datasetId": 3742543,
+  "datasetSlug": "used-car-price-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "taeefnajib",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 26815,
+  "totalVotes": 69,
+  "totalDownloads": 4875,
+  "title": "Used Car Price Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "Predict the price of a used vehicle",
+  "hasSubtitle": true,
+  "description": "Used Car Price Prediction Dataset is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, [https://www.cars.com](https://www.cars.com). This dataset comprises 4,009 data points, each representing a unique vehicle listing, and includes nine distinct features providing valuable insights into the world of automobiles.\n\n- **Brand & Model:** Identify the brand or company name along with the specific model of each vehicle.\n- **Model Year:** Discover the manufacturing year of the vehicles, crucial for assessing depreciation and technology advancements.\n- **Mileage:** Obtain the mileage of each vehicle, a key indicator of wear and tear and potential maintenance requirements.\n- **Fuel Type:** Learn about the type of fuel the vehicles run on, whether it's gasoline, diesel, electric, or hybrid.\n- **Engine Type:** Understand the engine specifications, shedding light on performance and efficiency.\n- **Transmission:** Determine the transmission type, whether automatic, manual, or another variant.\n- **Exterior & Interior Colors:** Explore the aesthetic aspects of the vehicles, including exterior and interior color options.\n- **Accident History:** Discover whether a vehicle has a prior history of accidents or damage, crucial for informed decision-making.\n- **Clean Title:** Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.\n- **Price:** Access the listed prices for each vehicle, aiding in price comparison and budgeting.\n\nThis dataset is a valuable resource for automotive enthusiasts, buyers, and researchers interested in analyzing trends, making informed purchasing decisions or conducting studies related to the automotive industry and consumer preferences. Whether you are a data analyst, car buyer, or researcher, this dataset offers a wealth of information to explore and analyze.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "marketing",
+    "automobiles and vehicles",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nikhil1e9/myanimelist-anime-and-manga",
+  "id_no": 3495075,
+  "datasetSlugNullable": "myanimelist-anime-and-manga",
+  "ownerUserNullable": "nikhil1e9",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime and Manga dataset (2023)",
+  "subtitleNullable": "Comprehensive Anime and Manga Dataset: Explore MyAnimeList's full collection",
+  "descriptionNullable": "## Motivation\n&gt;Being a huge fan of anime and manga myself, I was not able to find a good dataset containing a wide variety of anime and manga titles that could satisfy my needs. So, I decided to create this dataset for all the anime otakus like me in the Kaggle community who are looking to get insights into their favorite mangas and anime. \n\n## Description\n&gt;This dataset has been scraped from [MyAnimeList](https://myanimelist.net) and contains information about all the anime and manga currently listed on MyAnimeList. It contains separate files, one for anime and the other for manga. The features are explained below:-\n\n## Features\n&gt;- **Title**: Name of the anime/manga\n- **Rank**: Ranking of the anime/manga\n- **Type**: Category of anime/manga e.g. One-shot, Light-novel, etc\n- **Episodes**(*anime*): Number of episodes of the anime\n- **Volumes**(*manga*): Number of volumes of the manga\n- **Aired**(*anime*): Date of airing of an anime\n- **Published**(*manga*): Date of publishing of a manga\n- **Members**: Number of members who have watched/read the anime/manga\n- **page_url**: The URL link to the page of the particular anime/manga\n- **image_url**: The URL link to the cover image of the particular anime/manga\n- **Score**: Average user rating/score of the anime/manga\n\n## Use cases\n&gt;The dataset can be used for a variety of purposes including exploratory data analysis and visualization, predictive modeling tasks, and much more. Also, try merging the anime and manga files for some exciting insights. Good luck!\n\nPlease, provide an upvote\ud83d\udc4dif the dataset was useful for your task. It would be much appreciated\ud83d\ude04",
+  "datasetId": 3495075,
+  "datasetSlug": "myanimelist-anime-and-manga",
+  "hasDatasetSlug": true,
+  "ownerUser": "nikhil1e9",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7325,
+  "totalVotes": 56,
+  "totalDownloads": 1054,
+  "title": "Anime and Manga dataset (2023)",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Anime and Manga Dataset: Explore MyAnimeList's full collection",
+  "hasSubtitle": true,
+  "description": "## Motivation\n&gt;Being a huge fan of anime and manga myself, I was not able to find a good dataset containing a wide variety of anime and manga titles that could satisfy my needs. So, I decided to create this dataset for all the anime otakus like me in the Kaggle community who are looking to get insights into their favorite mangas and anime. \n\n## Description\n&gt;This dataset has been scraped from [MyAnimeList](https://myanimelist.net) and contains information about all the anime and manga currently listed on MyAnimeList. It contains separate files, one for anime and the other for manga. The features are explained below:-\n\n## Features\n&gt;- **Title**: Name of the anime/manga\n- **Rank**: Ranking of the anime/manga\n- **Type**: Category of anime/manga e.g. One-shot, Light-novel, etc\n- **Episodes**(*anime*): Number of episodes of the anime\n- **Volumes**(*manga*): Number of volumes of the manga\n- **Aired**(*anime*): Date of airing of an anime\n- **Published**(*manga*): Date of publishing of a manga\n- **Members**: Number of members who have watched/read the anime/manga\n- **page_url**: The URL link to the page of the particular anime/manga\n- **image_url**: The URL link to the cover image of the particular anime/manga\n- **Score**: Average user rating/score of the anime/manga\n\n## Use cases\n&gt;The dataset can be used for a variety of purposes including exploratory data analysis and visualization, predictive modeling tasks, and much more. Also, try merging the anime and manga files for some exciting insights. Good luck!\n\nPlease, provide an upvote\ud83d\udc4dif the dataset was useful for your task. It would be much appreciated\ud83d\ude04",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "exploratory data analysis",
+    "data analytics",
+    "tabular",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

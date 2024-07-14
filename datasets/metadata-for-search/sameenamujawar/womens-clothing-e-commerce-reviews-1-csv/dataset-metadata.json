@@ -1,0 +1,37 @@
+{
+  "id": "sameenamujawar/womens-clothing-e-commerce-reviews-1-csv",
+  "id_no": 4834551,
+  "datasetSlugNullable": "womens-clothing-e-commerce-reviews-1-csv",
+  "ownerUserNullable": "sameenamujawar",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Womens Clothing E-Commerce Reviews (1).csv",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4834551,
+  "datasetSlug": "womens-clothing-e-commerce-reviews-1-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "sameenamujawar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 41,
+  "totalVotes": 2,
+  "totalDownloads": 5,
+  "title": "Womens Clothing E-Commerce Reviews (1).csv",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

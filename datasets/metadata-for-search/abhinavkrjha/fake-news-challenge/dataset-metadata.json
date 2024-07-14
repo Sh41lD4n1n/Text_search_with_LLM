@@ -1,0 +1,43 @@
+{
+  "id": "abhinavkrjha/fake-news-challenge",
+  "id_no": 1249857,
+  "datasetSlugNullable": "fake-news-challenge",
+  "ownerUserNullable": "abhinavkrjha",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Fake News Challenge",
+  "subtitleNullable": "Detecting abnormal news articles ",
+  "descriptionNullable": "### Context\n\nThe issue of \u201cfake news\u201d has arisen recently as a potential threat to high-quality journalism\nand well-informed public discourse. The Fake News Challenge was organized in early\n2017 to encourage development of machine learning-based classification systems that\nperform \u201cstance detection\u201d -- i.e. identifying whether a particular news headline \u201cagrees\u201d\nwith, \u201cdisagrees\u201d with, \u201cdiscusses,\u201d or is unrelated to a particular news article -- in order to\nallow journalists and others to more easily find and investigate possible instances of \u201cfake\nnews.\u201d\n\n\n### Content\n\nThe data provided is `(headline, body, stance)` instances, where `stance` is one of `{unrelated, discuss, agree, disagree}`. The dataset is provided as two CSVs:\n\n\n### `train_bodies.csv`\n\nThis file contains the body text of articles (the `articleBody` column) with corresponding IDs (`Body ID`)\n\n### `train_stances.csv`\n\nThis file contains the labeled stances (the `Stance` column) for pairs of article headlines (`Headline`) and article bodies (`Body ID`, referring to entries in `train_bodies.csv`).\n\n### Distribution of the data\n\nThe distribution of `Stance` classes in `train_stances.csv` is as follows:\n\n|   rows |   unrelated |   discuss |     agree |   disagree |\n|-------:|------------:|----------:|----------:|-----------:|\n|  49972 |    0.73131  |  0.17828  | 0.0736012 |  0.0168094 |\n\n\n There are 4 possible classifications:\n1. The article text agrees with the headline.\n2. The article text disagrees with the headline.\n3. The article text is a discussion of the headline, without taking a position on it.\n4. The article text is unrelated to the headline (i.e. it doesn\u2019t address the same topic).\n\n### Acknowledgements\n\nFor details of the task, see [FakeNewsChallenge.org](http://fakenewschallenge.org)\n\n\n",
+  "datasetId": 1249857,
+  "datasetSlug": "fake-news-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhinavkrjha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 8726,
+  "totalVotes": 16,
+  "totalDownloads": 595,
+  "title": "Fake News Challenge",
+  "hasTitle": true,
+  "subtitle": "Detecting abnormal news articles ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe issue of \u201cfake news\u201d has arisen recently as a potential threat to high-quality journalism\nand well-informed public discourse. The Fake News Challenge was organized in early\n2017 to encourage development of machine learning-based classification systems that\nperform \u201cstance detection\u201d -- i.e. identifying whether a particular news headline \u201cagrees\u201d\nwith, \u201cdisagrees\u201d with, \u201cdiscusses,\u201d or is unrelated to a particular news article -- in order to\nallow journalists and others to more easily find and investigate possible instances of \u201cfake\nnews.\u201d\n\n\n### Content\n\nThe data provided is `(headline, body, stance)` instances, where `stance` is one of `{unrelated, discuss, agree, disagree}`. The dataset is provided as two CSVs:\n\n\n### `train_bodies.csv`\n\nThis file contains the body text of articles (the `articleBody` column) with corresponding IDs (`Body ID`)\n\n### `train_stances.csv`\n\nThis file contains the labeled stances (the `Stance` column) for pairs of article headlines (`Headline`) and article bodies (`Body ID`, referring to entries in `train_bodies.csv`).\n\n### Distribution of the data\n\nThe distribution of `Stance` classes in `train_stances.csv` is as follows:\n\n|   rows |   unrelated |   discuss |     agree |   disagree |\n|-------:|------------:|----------:|----------:|-----------:|\n|  49972 |    0.73131  |  0.17828  | 0.0736012 |  0.0168094 |\n\n\n There are 4 possible classifications:\n1. The article text agrees with the headline.\n2. The article text disagrees with the headline.\n3. The article text is a discussion of the headline, without taking a position on it.\n4. The article text is unrelated to the headline (i.e. it doesn\u2019t address the same topic).\n\n### Acknowledgements\n\nFor details of the task, see [FakeNewsChallenge.org](http://fakenewschallenge.org)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "health",
+    "intermediate",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

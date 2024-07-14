@@ -1,0 +1,44 @@
+{
+  "id": "shivapan/classified-nih-dataset",
+  "id_no": 5299148,
+  "datasetSlugNullable": "classified-nih-dataset",
+  "ownerUserNullable": "shivapan",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Classified NIH Dataset",
+  "subtitleNullable": "NIH x-ray dataset in classified format.",
+  "descriptionNullable": "I took this dataset from (https://www.kaggle.com/datasets/nih-chest-xrays/data). Because the original dataset was not classified very well so I performed classification and create 2 folders with Normal and Abnormal Chest x-ray images. Original dataset contains around 1 lac+ images in 12 folder (folders were not classified with labels). The csv file does not contains information about all the images present in folders. So I did preprocess over folders and create 2 folders out of it. Classified NIH dataset contains 84999 images. Now we can create a model and train the model very well because this dataset has a lot of images. I created this dataset just to train your model for classification. If you want to do more you can visit the official dataset.\n\nInformation given by NIH:\n\nThis NIH Chest X-ray Dataset is comprised of 84999 X-ray images with disease labels from 30,805 unique patients. To create these labels, the authors used Natural Language Processing to text-mine disease classifications from the associated radiological reports. The labels are expected to be &gt;90% accurate and suitable for weakly-supervised learning. The original radiology reports are not publicly available but you can find more details on the labeling process in this Open Access paper: \"ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.\" (Wang et al.)\n\n\nFile contents:\nNormal_chest -  39810 images of 1024*1024\nAbnormal_chest - 46189 images of 1024*10124\n\nData_entry_2017.csv: Class labels and patient data for the entire dataset\n\nImage Index: File name\nFinding Labels: Disease type (Class label)\nFollow-up #\nPatient ID\nPatient Age\nPatient Gender\nView Position: X-ray orientation\nOriginalImageWidth\nOriginalImageHeight\nOriginalImagePixelSpacing_x\nOriginalImagePixelSpacing_y\n",
+  "datasetId": 5299148,
+  "datasetSlug": "classified-nih-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivapan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Classified NIH Dataset",
+  "hasTitle": true,
+  "subtitle": "NIH x-ray dataset in classified format.",
+  "hasSubtitle": true,
+  "description": "I took this dataset from (https://www.kaggle.com/datasets/nih-chest-xrays/data). Because the original dataset was not classified very well so I performed classification and create 2 folders with Normal and Abnormal Chest x-ray images. Original dataset contains around 1 lac+ images in 12 folder (folders were not classified with labels). The csv file does not contains information about all the images present in folders. So I did preprocess over folders and create 2 folders out of it. Classified NIH dataset contains 84999 images. Now we can create a model and train the model very well because this dataset has a lot of images. I created this dataset just to train your model for classification. If you want to do more you can visit the official dataset.\n\nInformation given by NIH:\n\nThis NIH Chest X-ray Dataset is comprised of 84999 X-ray images with disease labels from 30,805 unique patients. To create these labels, the authors used Natural Language Processing to text-mine disease classifications from the associated radiological reports. The labels are expected to be &gt;90% accurate and suitable for weakly-supervised learning. The original radiology reports are not publicly available but you can find more details on the labeling process in this Open Access paper: \"ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.\" (Wang et al.)\n\n\nFile contents:\nNormal_chest -  39810 images of 1024*1024\nAbnormal_chest - 46189 images of 1024*10124\n\nData_entry_2017.csv: Class labels and patient data for the entire dataset\n\nImage Index: File name\nFinding Labels: Disease type (Class label)\nFollow-up #\nPatient ID\nPatient Age\nPatient Gender\nView Position: X-ray orientation\nOriginalImageWidth\nOriginalImageHeight\nOriginalImagePixelSpacing_x\nOriginalImagePixelSpacing_y\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "classification",
+    "deep learning",
+    "cnn",
+    "health conditions",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

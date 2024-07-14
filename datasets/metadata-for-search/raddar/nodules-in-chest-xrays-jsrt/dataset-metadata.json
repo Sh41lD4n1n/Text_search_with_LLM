@@ -1,0 +1,39 @@
+{
+  "id": "raddar/nodules-in-chest-xrays-jsrt",
+  "id_no": 518432,
+  "datasetSlugNullable": "nodules-in-chest-xrays-jsrt",
+  "ownerUserNullable": "raddar",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Nodules in Chest X-rays (JSRT)",
+  "subtitleNullable": "",
+  "descriptionNullable": "Nodule Chest X-ray dataset originating from Japan, year ~2000 - official site http://db.jsrt.or.jp/eng.php.\nChest X-rays provided are scanned films with high quality digital camera. Each nodule case contains 1 nodule only, which is rated by 20 different radiologists - AUC ranging from 0.72 to 0.89. This is an ideal dataset to test nodule detection performance on different levels of nodule subtlety.\n\nFull dataset description provided in https://www.ajronline.org/doi/pdf/10.2214/ajr.174.1.1740071.\n",
+  "datasetId": 518432,
+  "datasetSlug": "nodules-in-chest-xrays-jsrt",
+  "hasDatasetSlug": true,
+  "ownerUser": "raddar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 18475,
+  "totalVotes": 47,
+  "totalDownloads": 2585,
+  "title": "Nodules in Chest X-rays (JSRT)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Nodule Chest X-ray dataset originating from Japan, year ~2000 - official site http://db.jsrt.or.jp/eng.php.\nChest X-rays provided are scanned films with high quality digital camera. Each nodule case contains 1 nodule only, which is rated by 20 different radiologists - AUC ranging from 0.72 to 0.89. This is an ideal dataset to test nodule detection performance on different levels of nodule subtlety.\n\nFull dataset description provided in https://www.ajronline.org/doi/pdf/10.2214/ajr.174.1.1740071.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

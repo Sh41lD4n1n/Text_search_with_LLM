@@ -1,0 +1,44 @@
+{
+  "id": "spritan1/yolo-annotated-chestxray-8-object-detection",
+  "id_no": 5155714,
+  "datasetSlugNullable": "yolo-annotated-chestxray-8-object-detection",
+  "ownerUserNullable": "spritan1",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ChestXray 8 Object Detection Yolo and Pascal VOC",
+  "subtitleNullable": "YOLO and Pascal VOC Scheme Dataset for Chest X-ray 8 Object Detection",
+  "descriptionNullable": "# Overview\nThe Chest X-ray 8 Subset dataset is a curated collection of chest radiographs specifically designed for the development and evaluation of object detection models focused on thoracic diseases. This subset consists of 790 images and 984 annotated bounding boxes, capturing various abnormalities within the lungs and surrounding structures. The annotations are provided in both YOLO and Pascal VOC formats, facilitating their use in a wide range of machine learning frameworks.\n\n# Data Composition\n- Total Images: 790\n- Total Bounding Boxes: 984\n- Image Format: PNG\n- Annotation Formats: YOLO and Pascal VOC\n- All Images are resized to 512x512 pixels.\n\nTest set: 631 images\nVal set: 159 images\n\n# Classes and Labels\nThe dataset includes annotations for 14 different classes of thoracic diseases:\n\n1. Atelectasis,\n2. Cardiomegaly,\n3. Effusion,\n4. Infiltrate,\n5. Nodule,\n6. Mass,\n7. Pneumonia,\n8. Pneumothorax\n\n",
+  "datasetId": 5155714,
+  "datasetSlug": "yolo-annotated-chestxray-8-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "spritan1",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 365,
+  "totalVotes": 3,
+  "totalDownloads": 44,
+  "title": "ChestXray 8 Object Detection Yolo and Pascal VOC",
+  "hasTitle": true,
+  "subtitle": "YOLO and Pascal VOC Scheme Dataset for Chest X-ray 8 Object Detection",
+  "hasSubtitle": true,
+  "description": "# Overview\nThe Chest X-ray 8 Subset dataset is a curated collection of chest radiographs specifically designed for the development and evaluation of object detection models focused on thoracic diseases. This subset consists of 790 images and 984 annotated bounding boxes, capturing various abnormalities within the lungs and surrounding structures. The annotations are provided in both YOLO and Pascal VOC formats, facilitating their use in a wide range of machine learning frameworks.\n\n# Data Composition\n- Total Images: 790\n- Total Bounding Boxes: 984\n- Image Format: PNG\n- Annotation Formats: YOLO and Pascal VOC\n- All Images are resized to 512x512 pixels.\n\nTest set: 631 images\nVal set: 159 images\n\n# Classes and Labels\nThe dataset includes annotations for 14 different classes of thoracic diseases:\n\n1. Atelectasis,\n2. Cardiomegaly,\n3. Effusion,\n4. Infiltrate,\n5. Nodule,\n6. Mass,\n7. Pneumonia,\n8. Pneumothorax\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "computer vision",
+    "image",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

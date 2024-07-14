@@ -1,0 +1,39 @@
+{
+  "id": "omertalhaturkmen/sample-outputs",
+  "id_no": 4887602,
+  "datasetSlugNullable": "sample-outputs",
+  "ownerUserNullable": "omertalhaturkmen",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Hand Gesture Recognition Sample Outputs",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4887602,
+  "datasetSlug": "sample-outputs",
+  "hasDatasetSlug": true,
+  "ownerUser": "omertalhaturkmen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 36,
+  "totalVotes": 12,
+  "totalDownloads": 2,
+  "title": "Hand Gesture Recognition Sample Outputs",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

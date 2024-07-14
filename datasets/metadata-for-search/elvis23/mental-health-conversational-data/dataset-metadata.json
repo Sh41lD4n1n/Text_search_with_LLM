@@ -1,0 +1,43 @@
+{
+  "id": "elvis23/mental-health-conversational-data",
+  "id_no": 2594075,
+  "datasetSlugNullable": "mental-health-conversational-data",
+  "ownerUserNullable": "elvis23",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Mental Health Conversational Data",
+  "subtitleNullable": "Dataset containing conversations regarding mental health",
+  "descriptionNullable": "A dataset containing basic conversations, mental health FAQ, classical therapy conversations, and general advice provided to people suffering from anxiety and depression.\n\nThis dataset can be used to train a model for a chatbot that can behave like a therapist in order to provide emotional support to people with anxiety & depression.\n\nThe dataset contains intents. An \u201cintent\u201d is the intention behind a user's message. For instance, If I were to say \u201cI am sad\u201d to the chatbot, the intent, in this case, would be \u201csad\u201d. Depending upon the intent, there is a set of Patterns and Responses appropriate for the intent. Patterns are some examples of a user\u2019s message which aligns with the intent while Responses are the replies that the chatbot provides in accordance with the intent. Various intents are defined and their patterns and responses are used as the model\u2019s training data to identify a particular intent.",
+  "datasetId": 2594075,
+  "datasetSlug": "mental-health-conversational-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "elvis23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 46080,
+  "totalVotes": 97,
+  "totalDownloads": 10750,
+  "title": "Mental Health Conversational Data",
+  "hasTitle": true,
+  "subtitle": "Dataset containing conversations regarding mental health",
+  "hasSubtitle": true,
+  "description": "A dataset containing basic conversations, mental health FAQ, classical therapy conversations, and general advice provided to people suffering from anxiety and depression.\n\nThis dataset can be used to train a model for a chatbot that can behave like a therapist in order to provide emotional support to people with anxiety & depression.\n\nThe dataset contains intents. An \u201cintent\u201d is the intention behind a user's message. For instance, If I were to say \u201cI am sad\u201d to the chatbot, the intent, in this case, would be \u201csad\u201d. Depending upon the intent, there is a set of Patterns and Responses appropriate for the intent. Patterns are some examples of a user\u2019s message which aligns with the intent while Responses are the replies that the chatbot provides in accordance with the intent. Various intents are defined and their patterns and responses are used as the model\u2019s training data to identify a particular intent.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "nlp",
+    "deep learning",
+    "text",
+    "json"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

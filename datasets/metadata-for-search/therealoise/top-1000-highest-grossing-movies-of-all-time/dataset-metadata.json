@@ -1,0 +1,39 @@
+{
+  "id": "therealoise/top-1000-highest-grossing-movies-of-all-time",
+  "id_no": 2554135,
+  "datasetSlugNullable": "top-1000-highest-grossing-movies-of-all-time",
+  "ownerUserNullable": "therealoise",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Top 1000 Highest Grossing Movies Of All Time",
+  "subtitleNullable": "",
+  "descriptionNullable": "This Dataset displays only the top 1000 highest grossing feature films of all time as of `September 5, 2022`.  It is in the same order as displayed on the Box Office Mojo website. **[SOURCE](https://www.imdb.com/list/ls098063263/)**.\n\n**DATA DICTIONARY:**\n`Movie Title`: The name of the movie.\n`Year of Release`: The year the movie was released.\n`Genre`: Categories where the movie belongs.\n`Movie Rating`: Ratings given by IMDb registered users (on a scale of 1 to 10)\n`Duration`: Movie running time in minutes.\n`Gross`: Gross earnings in U.S. dollars.\n`Worldwide LT Gross`: Worldwide Lifetime Gross (International + Domestic totals.\n`Metascore`: Weighted average of many reviews coming from reputed critics (on a scale of 0 to 100)\n`Votes`: Number of votes cast by IMDb registered users.\n`Logline`: A one or two sentence summary of the film.\n",
+  "datasetId": 2554135,
+  "datasetSlug": "top-1000-highest-grossing-movies-of-all-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "therealoise",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 9806,
+  "totalVotes": 38,
+  "totalDownloads": 1643,
+  "title": "Top 1000 Highest Grossing Movies Of All Time",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This Dataset displays only the top 1000 highest grossing feature films of all time as of `September 5, 2022`.  It is in the same order as displayed on the Box Office Mojo website. **[SOURCE](https://www.imdb.com/list/ls098063263/)**.\n\n**DATA DICTIONARY:**\n`Movie Title`: The name of the movie.\n`Year of Release`: The year the movie was released.\n`Genre`: Categories where the movie belongs.\n`Movie Rating`: Ratings given by IMDb registered users (on a scale of 1 to 10)\n`Duration`: Movie running time in minutes.\n`Gross`: Gross earnings in U.S. dollars.\n`Worldwide LT Gross`: Worldwide Lifetime Gross (International + Domestic totals.\n`Metascore`: Weighted average of many reviews coming from reputed critics (on a scale of 0 to 100)\n`Votes`: Number of votes cast by IMDb registered users.\n`Logline`: A one or two sentence summary of the film.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

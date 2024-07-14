@@ -1,0 +1,43 @@
+{
+  "id": "whenamancodes/wild-animals-images",
+  "id_no": 2589825,
+  "datasetSlugNullable": "wild-animals-images",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Wild Animals Images",
+  "subtitleNullable": "Dataset containing Images of Wild Animals",
+  "descriptionNullable": "### Motivation:\nThis was built as I found some merit in the Problem statement of Classifying wild animals, as a lot of times we get confused.\nEspecially the animals coming from dog and cat families have a lot of similar features to other animals in the family and classifying them can be a good idea.\n\n### Tasks\nThis dataset is built for Computer Vision Tasks in general and can be used to do Classifications Tasks, Detections Tasks to Generative Adversarial Networks to generate synthetic images of Animals.\n\n### About the Data\nData is segregated into directories that go with the name of the Animal itself.\n\n### What is there in the Data\nResized Images of Wildlife Animals, all resized to a size of 224,224. I also Plan to resize them all to 300,300 and other sizes for better usability.\n\n### Source\nWeb scraping and using Javascript Manipulation to download images directly from Google Images",
+  "datasetId": 2589825,
+  "datasetSlug": "wild-animals-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 8816,
+  "totalVotes": 31,
+  "totalDownloads": 1425,
+  "title": "Wild Animals Images",
+  "hasTitle": true,
+  "subtitle": "Dataset containing Images of Wild Animals",
+  "hasSubtitle": true,
+  "description": "### Motivation:\nThis was built as I found some merit in the Problem statement of Classifying wild animals, as a lot of times we get confused.\nEspecially the animals coming from dog and cat families have a lot of similar features to other animals in the family and classifying them can be a good idea.\n\n### Tasks\nThis dataset is built for Computer Vision Tasks in general and can be used to do Classifications Tasks, Detections Tasks to Generative Adversarial Networks to generate synthetic images of Animals.\n\n### About the Data\nData is segregated into directories that go with the name of the Animal itself.\n\n### What is there in the Data\nResized Images of Wildlife Animals, all resized to a size of 224,224. I also Plan to resize them all to 300,300 and other sizes for better usability.\n\n### Source\nWeb scraping and using Javascript Manipulation to download images directly from Google Images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

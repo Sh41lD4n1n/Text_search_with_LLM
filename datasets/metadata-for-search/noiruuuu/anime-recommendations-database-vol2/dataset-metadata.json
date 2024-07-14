@@ -1,0 +1,41 @@
+{
+  "id": "noiruuuu/anime-recommendations-database-vol2",
+  "id_no": 1294932,
+  "datasetSlugNullable": "anime-recommendations-database-vol2",
+  "ownerUserNullable": "noiruuuu",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Anime Recommendations Database vol.2",
+  "subtitleNullable": "Recommendation data from 108,000 users at myanimelist.net",
+  "descriptionNullable": "\n### Context\nThis data set contains information on user preference data from 108,024 users on 15,221 animes. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.\nThis data set includes animes up to 2020 winter.\n108,024 users are targeted at any anime fan around the world between the ages of 14 to 34.\n\n\n### Content\n**Anime.csv**\n- anime_id - myanimelist.net's unique id identifying an anime.\n- title - full title name of anime.\n- genres - comma separated list of genres for this anime.\n- media - movie, TV, OVA, etc.\n- episodes - how many episodes in this show. (1 if movie or ova).\n- rating - average rating out of 10 for this anime.\n- members - number of community members that are in this anime's \"group\".\n- start_date - when this anime started.\n- season - what season this anime started.\n- source - manga, light_novel, original, etc.\n\n\n**Rating.csv**\n- user_id - non identifiable randomly generated user id.\n- anime_id - the anime that this user has rated.\n- rating - rating out of 10 this user has assigned (0 if the user watched it but didn't assign a rating).\n\n### Acknowledgements\nThanks to myanimelist.net API for providing anime data and user ratings,\nand thanks to CooperUnion(https://www.kaggle.com/CooperUnion/anime-recommendations-database)\n\n### Inspiration\nBuilding a better anime recommendation system based only on user viewing history.\n\n\n",
+  "datasetId": 1294932,
+  "datasetSlug": "anime-recommendations-database-vol2",
+  "hasDatasetSlug": true,
+  "ownerUser": "noiruuuu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 3466,
+  "totalVotes": 12,
+  "totalDownloads": 274,
+  "title": "Anime Recommendations Database vol.2",
+  "hasTitle": true,
+  "subtitle": "Recommendation data from 108,000 users at myanimelist.net",
+  "hasSubtitle": true,
+  "description": "\n### Context\nThis data set contains information on user preference data from 108,024 users on 15,221 animes. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.\nThis data set includes animes up to 2020 winter.\n108,024 users are targeted at any anime fan around the world between the ages of 14 to 34.\n\n\n### Content\n**Anime.csv**\n- anime_id - myanimelist.net's unique id identifying an anime.\n- title - full title name of anime.\n- genres - comma separated list of genres for this anime.\n- media - movie, TV, OVA, etc.\n- episodes - how many episodes in this show. (1 if movie or ova).\n- rating - average rating out of 10 for this anime.\n- members - number of community members that are in this anime's \"group\".\n- start_date - when this anime started.\n- season - what season this anime started.\n- source - manga, light_novel, original, etc.\n\n\n**Rating.csv**\n- user_id - non identifiable randomly generated user id.\n- anime_id - the anime that this user has rated.\n- rating - rating out of 10 this user has assigned (0 if the user watched it but didn't assign a rating).\n\n### Acknowledgements\nThanks to myanimelist.net API for providing anime data and user ratings,\nand thanks to CooperUnion(https://www.kaggle.com/CooperUnion/anime-recommendations-database)\n\n### Inspiration\nBuilding a better anime recommendation system based only on user viewing history.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

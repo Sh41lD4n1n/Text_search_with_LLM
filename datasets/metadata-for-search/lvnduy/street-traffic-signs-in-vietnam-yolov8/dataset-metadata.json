@@ -1,0 +1,39 @@
+{
+  "id": "lvnduy/street-traffic-signs-in-vietnam-yolov8",
+  "id_no": 3478906,
+  "datasetSlugNullable": "street-traffic-signs-in-vietnam-yolov8",
+  "ownerUserNullable": "lvnduy",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Street Traffic Signs in Vietnam-Yolov8",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3478906,
+  "datasetSlug": "street-traffic-signs-in-vietnam-yolov8",
+  "hasDatasetSlug": true,
+  "ownerUser": "lvnduy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 300,
+  "totalVotes": 4,
+  "totalDownloads": 34,
+  "title": "Street Traffic Signs in Vietnam-Yolov8",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "slothkong/10-monkey-species",
+  "id_no": 10449,
+  "datasetSlugNullable": "10-monkey-species",
+  "ownerUserNullable": "slothkong",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "10 Monkey Species",
+  "subtitleNullable": "Image dataset for fine-grain classification ",
+  "descriptionNullable": "\n### Content\nThe dataset consists of two files, training and validation. Each folder contains 10 subforders labeled as n0~n9, each corresponding a species form [Wikipedia's monkey cladogram][1]. Images are 400x300 px or larger and JPEG format (almost 1400 images).  Images were downloaded with help of the [googliser][2] open source code.\n\n    Label mapping:\n    n0, alouatta_palliata\n    n1, erythrocebus_patas\n    n2, cacajao_calvus \n    n3, macaca_fuscata   \n    n4, cebuella_pygmea\n    n5, cebus_capucinus\n    n6, mico_argentatus\n    n7, saimiri_sciureus \n    n8, aotus_nigriceps\n    n9, trachypithecus_johnii\n\n\n - For more information on the monkey species and number of images per class make sure to check `monkey_labels.txt` file. \n\n\n### Aim\n\nThis dataset is intended as a test case for fine-grain classification tasks, perhaps best  used in combination with transfer learning. Hopefully someone can help us expand the number of classes or number of images. \n\n### Acknowledgements\n\nThanks to Romain Renard for his help with the code implementation. Also, thanks to Gustavo Montoya, Jacky Zhang and Sofia Loaiciga  for their help with the dataset curation.\n\n### Notes\nSome demo code for usage of the dataset in combination with Keras can be found in this [repo][3].\n\n\n  [1]: https://en.wikipedia.org/wiki/Monkey\n  [2]: https://github.com/teracow/googliser\n  [3]: https://github.com/slothkong/CNN_classification_10_monkey_species\n",
+  "datasetId": 10449,
+  "datasetSlug": "10-monkey-species",
+  "hasDatasetSlug": true,
+  "ownerUser": "slothkong",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 151838,
+  "totalVotes": 488,
+  "totalDownloads": 27426,
+  "title": "10 Monkey Species",
+  "hasTitle": true,
+  "subtitle": "Image dataset for fine-grain classification ",
+  "hasSubtitle": true,
+  "description": "\n### Content\nThe dataset consists of two files, training and validation. Each folder contains 10 subforders labeled as n0~n9, each corresponding a species form [Wikipedia's monkey cladogram][1]. Images are 400x300 px or larger and JPEG format (almost 1400 images).  Images were downloaded with help of the [googliser][2] open source code.\n\n    Label mapping:\n    n0, alouatta_palliata\n    n1, erythrocebus_patas\n    n2, cacajao_calvus \n    n3, macaca_fuscata   \n    n4, cebuella_pygmea\n    n5, cebus_capucinus\n    n6, mico_argentatus\n    n7, saimiri_sciureus \n    n8, aotus_nigriceps\n    n9, trachypithecus_johnii\n\n\n - For more information on the monkey species and number of images per class make sure to check `monkey_labels.txt` file. \n\n\n### Aim\n\nThis dataset is intended as a test case for fine-grain classification tasks, perhaps best  used in combination with transfer learning. Hopefully someone can help us expand the number of classes or number of images. \n\n### Acknowledgements\n\nThanks to Romain Renard for his help with the code implementation. Also, thanks to Gustavo Montoya, Jacky Zhang and Sofia Loaiciga  for their help with the dataset curation.\n\n### Notes\nSome demo code for usage of the dataset in combination with Keras can be found in this [repo][3].\n\n\n  [1]: https://en.wikipedia.org/wiki/Monkey\n  [2]: https://github.com/teracow/googliser\n  [3]: https://github.com/slothkong/CNN_classification_10_monkey_species\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "animals",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

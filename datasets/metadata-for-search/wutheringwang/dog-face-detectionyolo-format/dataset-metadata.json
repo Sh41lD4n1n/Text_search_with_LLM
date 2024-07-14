@@ -1,0 +1,43 @@
+{
+  "id": "wutheringwang/dog-face-detectionyolo-format",
+  "id_no": 2222985,
+  "datasetSlugNullable": "dog-face-detectionyolo-format",
+  "ownerUserNullable": "wutheringwang",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Dog Face Detection(YOLO Format)",
+  "subtitleNullable": "A Dataset born for dog face deetction!",
+  "descriptionNullable": "This is a dataset created for dog face detection. All the dog faces are labeled in YOLO format.\nThe source of this dataset comes from dog images in Stanfod Dogs Dataset and Oxford-IIIT Pet Dataset.",
+  "datasetId": 2222985,
+  "datasetSlug": "dog-face-detectionyolo-format",
+  "hasDatasetSlug": true,
+  "ownerUser": "wutheringwang",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2771,
+  "totalVotes": 11,
+  "totalDownloads": 312,
+  "title": "Dog Face Detection(YOLO Format)",
+  "hasTitle": true,
+  "subtitle": "A Dataset born for dog face deetction!",
+  "hasSubtitle": true,
+  "description": "This is a dataset created for dog face detection. All the dog faces are labeled in YOLO format.\nThe source of this dataset comes from dog images in Stanfod Dogs Dataset and Oxford-IIIT Pet Dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "computer vision",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

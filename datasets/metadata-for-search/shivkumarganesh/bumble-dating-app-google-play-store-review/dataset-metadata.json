@@ -1,0 +1,43 @@
+{
+  "id": "shivkumarganesh/bumble-dating-app-google-play-store-review",
+  "id_no": 2012818,
+  "datasetSlugNullable": "bumble-dating-app-google-play-store-review",
+  "ownerUserNullable": "shivkumarganesh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bumble Dating App - Google Play Store Review",
+  "subtitleNullable": "Latest user reviews for Bumble app available at Google Play Store",
+  "descriptionNullable": "### Context\n\nBumble is an online dating application. Profiles of potential matches are displayed to users, who can \"swipe left\" to reject a candidate or \"swipe right\" to indicate interest. In heterosexual matches, only female users can make the first contact with matched male users, while in same-sex matches either person can send a message first. The app is a product of Bumble Inc.\n\nUsers can sign up using their phone number or Facebook profile, and have options of searching for romantic matches or, in \"BFF mode\", friends. Bumble Bizz facilitates business communications. Bumble was founded by Whitney Wolfe Herd shortly after she left Tinder, a dating app she says she co-founded, due to growing tensions with other company executives. Wolfe Herd has described Bumble as a \"feminist dating app\". As of January 2021, with a monthly user base of 42 million, Bumble is the second-most popular dating app in the U.S. after Tinder. According to a June 2016 survey, 46.2% of its users are female. According to Forbes, by 2017 the company was valued at more than $1 billion, and the company reports having over 55 million users in 150 countries as of 2019.[Source: [Wikipedia](https://en.wikipedia.org/wiki/Bumble)]\n\nThis dataset belongs to the Bumble app available on the Google Play Store. The Dataset mostly has user reviews and the various comments made by the users.\n\n\n\n### Content\nThe content of the various columns is listed below. Please find the description for each column.\n\n| Column Name | Column Description |\n| --- | --- |\n| **userName** | Name of a User |\n|**userImage**  | Profile Image that a user has |\n|**content**  |This represents the comments made by a user  |\n|**score**  | Scores/Rating between 1 to 5 |\n| **thumbsUpCount** |Number of Thumbs up received by a person  |\n| **reviewCreatedVersion** | Version number on which the review is created |\n| **at** | Created At|\n| **replyContent** | Reply to the comment by the Company |\n| **repliedAt** |  Date and time of the above reply|\n| **reviewId** | unique identifier |\n   \n\n\n### Acknowledgements\n\nBanner image - Bumble",
+  "datasetId": 2012818,
+  "datasetSlug": "bumble-dating-app-google-play-store-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivkumarganesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13283,
+  "totalVotes": 40,
+  "totalDownloads": 1124,
+  "title": "Bumble Dating App - Google Play Store Review",
+  "hasTitle": true,
+  "subtitle": "Latest user reviews for Bumble app available at Google Play Store",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBumble is an online dating application. Profiles of potential matches are displayed to users, who can \"swipe left\" to reject a candidate or \"swipe right\" to indicate interest. In heterosexual matches, only female users can make the first contact with matched male users, while in same-sex matches either person can send a message first. The app is a product of Bumble Inc.\n\nUsers can sign up using their phone number or Facebook profile, and have options of searching for romantic matches or, in \"BFF mode\", friends. Bumble Bizz facilitates business communications. Bumble was founded by Whitney Wolfe Herd shortly after she left Tinder, a dating app she says she co-founded, due to growing tensions with other company executives. Wolfe Herd has described Bumble as a \"feminist dating app\". As of January 2021, with a monthly user base of 42 million, Bumble is the second-most popular dating app in the U.S. after Tinder. According to a June 2016 survey, 46.2% of its users are female. According to Forbes, by 2017 the company was valued at more than $1 billion, and the company reports having over 55 million users in 150 countries as of 2019.[Source: [Wikipedia](https://en.wikipedia.org/wiki/Bumble)]\n\nThis dataset belongs to the Bumble app available on the Google Play Store. The Dataset mostly has user reviews and the various comments made by the users.\n\n\n\n### Content\nThe content of the various columns is listed below. Please find the description for each column.\n\n| Column Name | Column Description |\n| --- | --- |\n| **userName** | Name of a User |\n|**userImage**  | Profile Image that a user has |\n|**content**  |This represents the comments made by a user  |\n|**score**  | Scores/Rating between 1 to 5 |\n| **thumbsUpCount** |Number of Thumbs up received by a person  |\n| **reviewCreatedVersion** | Version number on which the review is created |\n| **at** | Created At|\n| **replyContent** | Reply to the comment by the Company |\n| **repliedAt** |  Date and time of the above reply|\n| **reviewId** | unique identifier |\n   \n\n\n### Acknowledgements\n\nBanner image - Bumble",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "people and society",
+    "business",
+    "nlp",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

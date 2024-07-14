@@ -1,0 +1,39 @@
+{
+  "id": "tkm2261/ndda-dataset",
+  "id_no": 4920750,
+  "datasetSlugNullable": "ndda-dataset",
+  "ownerUserNullable": "tkm2261",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "NDDA Dataset",
+  "subtitleNullable": "[CVPR 2024] Intriguing Properties of Diffusion Models",
+  "descriptionNullable": "## Dataset for the paper entitled \"Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models\" (CVPR 2024) \n\nThe Natural Denoising Diffusion Attack (NDDA) dataset is designed to systematically evaluate the natural attack capability in diffusion models. The latest NDDA dataset consists of the following 15 classes: stop sign, car, dog, hot dog, traffic light, zebra, fire hydrant, frog, horse, bird, boat, air plane, bicycle, cat, and carrot with 6 diffusion models (Dall-E 2, Dall-E 3, Stable Diffusion 2, Deepfloyd IF, Stable Diffusion 1.5, MidJourney, and Google Duet). \n\nThe NDSS dataset is organized into `diffusion parent folder` that separate each diffusion model's set of images, which in turn contains multiple folders for each of the 15 object classes from COCO. Each object class folder then contains multiple subfolders that hold the NDD attack images, and these subfolders' names are the text prompts used to generate the set of NDD attack images. For example, if images were generated using Stable Diffusion 2 with the text prompt, `blue dog`, the path to this prompt subfolder would be `diffusion_output\\_diffusion\\_2/blue\\_dog`. \n\nMore details are on our website: https://sites.google.com/view/cav-sec/ndd-attack?authuser=0\n\n\n```bibtex\n@InProceedings{sato2022towards,\n  author    = {Takami Sato and Qi Alfred Chen},\n  title     = {{Towards Driving-Oriented Metric for Lane Detection Models}},\n  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year      = {2022}\n}\n```\n",
+  "datasetId": 4920750,
+  "datasetSlug": "ndda-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tkm2261",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 99,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "NDDA Dataset",
+  "hasTitle": true,
+  "subtitle": "[CVPR 2024] Intriguing Properties of Diffusion Models",
+  "hasSubtitle": true,
+  "description": "## Dataset for the paper entitled \"Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models\" (CVPR 2024) \n\nThe Natural Denoising Diffusion Attack (NDDA) dataset is designed to systematically evaluate the natural attack capability in diffusion models. The latest NDDA dataset consists of the following 15 classes: stop sign, car, dog, hot dog, traffic light, zebra, fire hydrant, frog, horse, bird, boat, air plane, bicycle, cat, and carrot with 6 diffusion models (Dall-E 2, Dall-E 3, Stable Diffusion 2, Deepfloyd IF, Stable Diffusion 1.5, MidJourney, and Google Duet). \n\nThe NDSS dataset is organized into `diffusion parent folder` that separate each diffusion model's set of images, which in turn contains multiple folders for each of the 15 object classes from COCO. Each object class folder then contains multiple subfolders that hold the NDD attack images, and these subfolders' names are the text prompts used to generate the set of NDD attack images. For example, if images were generated using Stable Diffusion 2 with the text prompt, `blue dog`, the path to this prompt subfolder would be `diffusion_output\\_diffusion\\_2/blue\\_dog`. \n\nMore details are on our website: https://sites.google.com/view/cav-sec/ndd-attack?authuser=0\n\n\n```bibtex\n@InProceedings{sato2022towards,\n  author    = {Takami Sato and Qi Alfred Chen},\n  title     = {{Towards Driving-Oriented Metric for Lane Detection Models}},\n  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year      = {2022}\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

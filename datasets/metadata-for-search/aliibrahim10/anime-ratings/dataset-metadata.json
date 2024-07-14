@@ -1,0 +1,42 @@
+{
+  "id": "aliibrahim10/anime-ratings",
+  "id_no": 2171451,
+  "datasetSlugNullable": "anime-ratings",
+  "ownerUserNullable": "aliibrahim10",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Ratings ",
+  "subtitleNullable": "20,000+ anime with MAL rating and popularity scores",
+  "descriptionNullable": "Note - All data from MyAnimeList (MAL): https://myanimelist.net/\n\n# Description\nList of all anime on My Anime List database with titles, rankings, ratings and popularity scores. The dataset also includes related genres, **if provided on the website**, along with number of episodes / episode length and release season.\n\nMany of the titles were not given certain attributes such as genre, release season etc.. so they are given null values.\n***This dataset can be used to practice cleaning the data as a result.***\n\n# Columns\n### Title\nName of the anime on the website.\n\n### Genres\nGenres attributed to the anime, can contain a single genre or multiple separated by commas.\nNULL if no genre was given to the anime on the website.\n\n### Rank\nRank of anime based on the score given.\nScore calculation explained below in score section.\n\n\"Please note that while R18+ entries calculate a weighted score, they are excluded from the rankings.\"\n\n### Popularity\nRank of anime based on the number of people subscribed to it on MyAnimeList.\n\n### Score\nThe score is a weighted number based on the data below.\n\nWeighted Score = (v / (v + m)) * S + (m / (v + m)) * C\nS = Average score for the anime/manga\nv = Number users giving a score for the anime/manga \u2020\nm = Minimum number of scored users required to get a calculated score\nC = The mean score across the entire Anime/Manga database\nsource: https://myanimelist.net/info.php?go=topanime\n\n### Episodes\nTotal number of episodes in the anime.\nOngoing Anime have episode value of \"Unknown\"\n\n### Episode length\nLength of each individual episode in the format:\nx hr. xx min. per episode.\n\n### Release date\nSeason and year of public release of the anime. ",
+  "datasetId": 2171451,
+  "datasetSlug": "anime-ratings",
+  "hasDatasetSlug": true,
+  "ownerUser": "aliibrahim10",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8202,
+  "totalVotes": 39,
+  "totalDownloads": 1270,
+  "title": "Anime Ratings ",
+  "hasTitle": true,
+  "subtitle": "20,000+ anime with MAL rating and popularity scores",
+  "hasSubtitle": true,
+  "description": "Note - All data from MyAnimeList (MAL): https://myanimelist.net/\n\n# Description\nList of all anime on My Anime List database with titles, rankings, ratings and popularity scores. The dataset also includes related genres, **if provided on the website**, along with number of episodes / episode length and release season.\n\nMany of the titles were not given certain attributes such as genre, release season etc.. so they are given null values.\n***This dataset can be used to practice cleaning the data as a result.***\n\n# Columns\n### Title\nName of the anime on the website.\n\n### Genres\nGenres attributed to the anime, can contain a single genre or multiple separated by commas.\nNULL if no genre was given to the anime on the website.\n\n### Rank\nRank of anime based on the score given.\nScore calculation explained below in score section.\n\n\"Please note that while R18+ entries calculate a weighted score, they are excluded from the rankings.\"\n\n### Popularity\nRank of anime based on the number of people subscribed to it on MyAnimeList.\n\n### Score\nThe score is a weighted number based on the data below.\n\nWeighted Score = (v / (v + m)) * S + (m / (v + m)) * C\nS = Average score for the anime/manga\nv = Number users giving a score for the anime/manga \u2020\nm = Minimum number of scored users required to get a calculated score\nC = The mean score across the entire Anime/Manga database\nsource: https://myanimelist.net/info.php?go=topanime\n\n### Episodes\nTotal number of episodes in the anime.\nOngoing Anime have episode value of \"Unknown\"\n\n### Episode length\nLength of each individual episode in the format:\nx hr. xx min. per episode.\n\n### Release date\nSeason and year of public release of the anime. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "text",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

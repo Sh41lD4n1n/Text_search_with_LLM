@@ -1,0 +1,39 @@
+{
+  "id": "mohitbhadauria/red-wine-quality-prediction",
+  "id_no": 2489445,
+  "datasetSlugNullable": "red-wine-quality-prediction",
+  "ownerUserNullable": "mohitbhadauria",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Red Wine Quality Prediction",
+  "subtitleNullable": "",
+  "descriptionNullable": "For this project, I have done the exploratory data analysis with the data we got from UCI Machine Learning, then we have found the ML model that will best predict the quality of our wine based on the data and understand how different physicochemical properties affect the quality of the wine. It covers below important aspects of data science:\n\n\n\nObjective:\n\n1. To do Exploratory data Analysis.\n\n2. To analyze the features of given dataset.\n\n3. Train a model using the Machine Learning Algorithm i.e Logistic Regression, Decision Tree, Support Vector Machine and Random Forest.\n\n\n\n\n\n",
+  "datasetId": 2489445,
+  "datasetSlug": "red-wine-quality-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohitbhadauria",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 821,
+  "totalVotes": 1,
+  "totalDownloads": 102,
+  "title": "Red Wine Quality Prediction",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "For this project, I have done the exploratory data analysis with the data we got from UCI Machine Learning, then we have found the ML model that will best predict the quality of our wine based on the data and understand how different physicochemical properties affect the quality of the wine. It covers below important aspects of data science:\n\n\n\nObjective:\n\n1. To do Exploratory data Analysis.\n\n2. To analyze the features of given dataset.\n\n3. Train a model using the Machine Learning Algorithm i.e Logistic Regression, Decision Tree, Support Vector Machine and Random Forest.\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

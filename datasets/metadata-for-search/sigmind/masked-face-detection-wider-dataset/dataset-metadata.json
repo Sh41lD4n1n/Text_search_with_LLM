@@ -1,0 +1,46 @@
+{
+  "id": "sigmind/masked-face-detection-wider-dataset",
+  "id_no": 656302,
+  "datasetSlugNullable": "masked-face-detection-wider-dataset",
+  "ownerUserNullable": "sigmind",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Masked Face Detection In the Wild dataset",
+  "subtitleNullable": "WIDER Face data subset of Clear and Occluded/Masked faces",
+  "descriptionNullable": "### Context\n\nCOVID-19\n\n### Content\n\nThe dataset contains 12,941 training and 3,287 validation images containing wide variety of faces with no/partial/heavy occlusion on 62 diverse scenarios.\n\n\n\n### Acknowledgements\n\nWIDER Face Dataset\n\n### Inspiration\n\nMask4All",
+  "datasetId": 656302,
+  "datasetSlug": "masked-face-detection-wider-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sigmind",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10711,
+  "totalVotes": 21,
+  "totalDownloads": 813,
+  "title": "Masked Face Detection In the Wild dataset",
+  "hasTitle": true,
+  "subtitle": "WIDER Face data subset of Clear and Occluded/Masked faces",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCOVID-19\n\n### Content\n\nThe dataset contains 12,941 training and 3,287 validation images containing wide variety of faces with no/partial/heavy occlusion on 62 diverse scenarios.\n\n\n\n### Acknowledgements\n\nWIDER Face Dataset\n\n### Inspiration\n\nMask4All",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sigmind",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

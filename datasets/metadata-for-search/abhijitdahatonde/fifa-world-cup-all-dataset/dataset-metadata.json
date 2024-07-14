@@ -1,0 +1,39 @@
+{
+  "id": "abhijitdahatonde/fifa-world-cup-all-dataset",
+  "id_no": 3573725,
+  "datasetSlugNullable": "fifa-world-cup-all-dataset",
+  "ownerUserNullable": "abhijitdahatonde",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FIFA World Cup All Dataset",
+  "subtitleNullable": "FIFA Tournament Information",
+  "descriptionNullable": "This dataset contains comprehensive historical information about the FIFA World Cup, the premier international football (soccer) tournament organized by FIFA (F\u00e9d\u00e9ration International de Football Association). The dataset spans multiple decades and covers various aspects of the tournament, including match results, player statistics, team details, and other relevant information related to the tournament.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13571604%2Fce4d4e613ed35074326ddc5537f50381%2FScreenshot%202023-07-30%20195415.png?generation=1690771057695850&alt=media)",
+  "datasetId": 3573725,
+  "datasetSlug": "fifa-world-cup-all-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhijitdahatonde",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5021,
+  "totalVotes": 104,
+  "totalDownloads": 1066,
+  "title": "FIFA World Cup All Dataset",
+  "hasTitle": true,
+  "subtitle": "FIFA Tournament Information",
+  "hasSubtitle": true,
+  "description": "This dataset contains comprehensive historical information about the FIFA World Cup, the premier international football (soccer) tournament organized by FIFA (F\u00e9d\u00e9ration International de Football Association). The dataset spans multiple decades and covers various aspects of the tournament, including match results, player statistics, team details, and other relevant information related to the tournament.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13571604%2Fce4d4e613ed35074326ddc5537f50381%2FScreenshot%202023-07-30%20195415.png?generation=1690771057695850&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sinatavakoli/people-slurs-dataset",
+  "id_no": 5300316,
+  "datasetSlugNullable": "people-slurs-dataset",
+  "ownerUserNullable": "sinatavakoli",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "People Slurs Dataset",
+  "subtitleNullable": "The dataset appears to be a collection of text",
+  "descriptionNullable": "The dataset appears to be a collection of text entries with associated emotional responses and metadata. Here are some insights:\n\nColumns:\n\nThe dataset includes columns such as text, condition, recalled, slur_source, slur_gender, subj_anger, f_pain, f_fear, f_panic, f_anger, f_guilt, and f_humiliation.\n\nEntries:\nThere are 504 entries in total.\n\nTypes of Data:\nThe data types include text, integers, and floats, indicating a mixture of qualitative and quantitative data.",
+  "datasetId": 5300316,
+  "datasetSlug": "people-slurs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sinatavakoli",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "People Slurs Dataset",
+  "hasTitle": true,
+  "subtitle": "The dataset appears to be a collection of text",
+  "hasSubtitle": true,
+  "description": "The dataset appears to be a collection of text entries with associated emotional responses and metadata. Here are some insights:\n\nColumns:\n\nThe dataset includes columns such as text, condition, recalled, slur_source, slur_gender, subj_anger, f_pain, f_fear, f_panic, f_anger, f_guilt, and f_humiliation.\n\nEntries:\nThere are 504 entries in total.\n\nTypes of Data:\nThe data types include text, integers, and floats, indicating a mixture of qualitative and quantitative data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "psychology",
+    "nlp",
+    "text",
+    "text classification",
+    "bert"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

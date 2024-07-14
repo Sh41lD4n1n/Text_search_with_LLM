@@ -1,0 +1,41 @@
+{
+  "id": "saurabhshahane/twitter-sentiment-dataset",
+  "id_no": 1340873,
+  "datasetSlugNullable": "twitter-sentiment-dataset",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Twitter Sentiment Dataset",
+  "subtitleNullable": "Twitter Sentiment Analysis",
+  "descriptionNullable": "### Context\n\nThe dataset has three sentiments namely, negative(-1), neutral(0), and positive(+1). It contains two fields for the tweet and label.\n\n\n### Acknowledgements\n\nHUSSEIN, SHERIF (2021), \u201cTwitter Sentiments Dataset\u201d, Mendeley Data, V1, doi: 10.17632/z9zw7nt5h2.1\n",
+  "datasetId": 1340873,
+  "datasetSlug": "twitter-sentiment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 84666,
+  "totalVotes": 98,
+  "totalDownloads": 14769,
+  "title": "Twitter Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "Twitter Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset has three sentiments namely, negative(-1), neutral(0), and positive(+1). It contains two fields for the tweet and label.\n\n\n### Acknowledgements\n\nHUSSEIN, SHERIF (2021), \u201cTwitter Sentiments Dataset\u201d, Mendeley Data, V1, doi: 10.17632/z9zw7nt5h2.1\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "text",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

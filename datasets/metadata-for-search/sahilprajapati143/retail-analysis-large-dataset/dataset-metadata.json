@@ -1,0 +1,45 @@
+{
+  "id": "sahilprajapati143/retail-analysis-large-dataset",
+  "id_no": 5213392,
+  "datasetSlugNullable": "retail-analysis-large-dataset",
+  "ownerUserNullable": "sahilprajapati143",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Retail Analysis on Large Dataset",
+  "subtitleNullable": "In this dataset i founded so many insights also in last i developed Recom.. Sys.",
+  "descriptionNullable": "##Dataset Description:\n* The dataset represents retail transactional data. It contains information about customers, their purchases, products, and transaction details. The data includes various attributes such as customer ID, name, email, phone, address, city, state, zipcode, country, age, gender, income, customer segment, last purchase date, total purchases, amount spent, product category, product brand, product type, feedback, shipping method, payment method, and order status.\n\n##Key Points:\n##Customer Information:\n* Includes customer details like ID, name, email, phone, address, city, state, zipcode, country, age, and gender.\nCustomer segments are categorized into Premium, Regular, and New.\n##Transaction Details:\n* Transaction-specific data such as transaction ID, last purchase date, total purchases, amount spent, total purchase amount, feedback, shipping method, payment method, and order status.\n##Product Information:\n* Contains product-related details such as product category, brand, and type.\nProducts are categorized into electronics, clothing, grocery, books, and home decor.\n##Geographic Information:\n* Contains location details including city, state, and country.\nAvailable for various countries including USA, UK, Canada, Australia, and Germany.\n##Temporal Information:\n* Last purchase date is provided along with separate columns for year, month, date, and time.\nAllows analysis based on temporal patterns and trends.\n##Data Quality:\n* Some rows contain null values, and others are duplicates, which may need to be handled during data preprocessing.\nNull values are randomly distributed across rows.\nDuplicate rows are available at different parts of the dataset.\n##Potential Analysis:\n* Customer segmentation analysis based on demographics, purchase behavior, and feedback.\nSales trend analysis over time to identify peak seasons or trends.\nProduct performance analysis to determine popular categories, brands, or types.\nGeographic analysis to understand regional preferences and trends.\nPayment and shipping method analysis to optimize services.\nCustomer satisfaction analysis based on feedback and order status.\n##Data Preprocessing:\n* Handling null values and duplicates.\nParsing and formatting temporal data.\nEncoding categorical variables.\nScaling numerical variables if required.\nSplitting data into training and testing sets for modeling.",
+  "datasetId": 5213392,
+  "datasetSlug": "retail-analysis-large-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sahilprajapati143",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6737,
+  "totalVotes": 27,
+  "totalDownloads": 1640,
+  "title": "Retail Analysis on Large Dataset",
+  "hasTitle": true,
+  "subtitle": "In this dataset i founded so many insights also in last i developed Recom.. Sys.",
+  "hasSubtitle": true,
+  "description": "##Dataset Description:\n* The dataset represents retail transactional data. It contains information about customers, their purchases, products, and transaction details. The data includes various attributes such as customer ID, name, email, phone, address, city, state, zipcode, country, age, gender, income, customer segment, last purchase date, total purchases, amount spent, product category, product brand, product type, feedback, shipping method, payment method, and order status.\n\n##Key Points:\n##Customer Information:\n* Includes customer details like ID, name, email, phone, address, city, state, zipcode, country, age, and gender.\nCustomer segments are categorized into Premium, Regular, and New.\n##Transaction Details:\n* Transaction-specific data such as transaction ID, last purchase date, total purchases, amount spent, total purchase amount, feedback, shipping method, payment method, and order status.\n##Product Information:\n* Contains product-related details such as product category, brand, and type.\nProducts are categorized into electronics, clothing, grocery, books, and home decor.\n##Geographic Information:\n* Contains location details including city, state, and country.\nAvailable for various countries including USA, UK, Canada, Australia, and Germany.\n##Temporal Information:\n* Last purchase date is provided along with separate columns for year, month, date, and time.\nAllows analysis based on temporal patterns and trends.\n##Data Quality:\n* Some rows contain null values, and others are duplicates, which may need to be handled during data preprocessing.\nNull values are randomly distributed across rows.\nDuplicate rows are available at different parts of the dataset.\n##Potential Analysis:\n* Customer segmentation analysis based on demographics, purchase behavior, and feedback.\nSales trend analysis over time to identify peak seasons or trends.\nProduct performance analysis to determine popular categories, brands, or types.\nGeographic analysis to understand regional preferences and trends.\nPayment and shipping method analysis to optimize services.\nCustomer satisfaction analysis based on feedback and order status.\n##Data Preprocessing:\n* Handling null values and duplicates.\nParsing and formatting temporal data.\nEncoding categorical variables.\nScaling numerical variables if required.\nSplitting data into training and testing sets for modeling.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "geography",
+    "business",
+    "computer science",
+    "exploratory data analysis",
+    "data cleaning",
+    "data analytics",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

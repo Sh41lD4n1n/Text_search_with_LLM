@@ -1,0 +1,40 @@
+{
+  "id": "kamalmoha/local-ocean-conservation-sea-turtle-face-detection",
+  "id_no": 4812390,
+  "datasetSlugNullable": "local-ocean-conservation-sea-turtle-face-detection",
+  "ownerUserNullable": "kamalmoha",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Local Ocean Conservation Sea Turtle Face Detection",
+  "subtitleNullable": "Create a model that detects the bounding box around a sea turtle\u2019s face",
+  "descriptionNullable": "Being able to identify individual animals is a critical aspect of modern conservation. In the case of sea turtle conservation efforts, tracking where and when individuals are spotted can help reveal patterns of movement and residency, and allow more accurate estimates of population. Sea turtles can be identified using their facial scales, which are as unique as a human fingerprint.\n\nLocal Ocean Conservation (LOC) would like to use the unique fingerprint of turtle faces to integrate facial image recognition into their existing turtle applications, which would speed up many routine conservation tasks. As a first step towards such a system, we need to develop a tool that can crop a given image to show only the important facial region, reducing the chances of an accidental match down the line.\n\nThe goal of this competition is to develop an algorithm or model that can take in an image of a sea turtle and output the position of a bounding box around that all-important scale pattern. A labelled training set with bounding box annotations has been provided.",
+  "datasetId": 4812390,
+  "datasetSlug": "local-ocean-conservation-sea-turtle-face-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "kamalmoha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 63,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "Local Ocean Conservation Sea Turtle Face Detection",
+  "hasTitle": true,
+  "subtitle": "Create a model that detects the bounding box around a sea turtle\u2019s face",
+  "hasSubtitle": true,
+  "description": "Being able to identify individual animals is a critical aspect of modern conservation. In the case of sea turtle conservation efforts, tracking where and when individuals are spotted can help reveal patterns of movement and residency, and allow more accurate estimates of population. Sea turtles can be identified using their facial scales, which are as unique as a human fingerprint.\n\nLocal Ocean Conservation (LOC) would like to use the unique fingerprint of turtle faces to integrate facial image recognition into their existing turtle applications, which would speed up many routine conservation tasks. As a first step towards such a system, we need to develop a tool that can crop a given image to show only the important facial region, reducing the chances of an accidental match down the line.\n\nThe goal of this competition is to develop an algorithm or model that can take in an image of a sea turtle and output the position of a bounding box around that all-important scale pattern. A labelled training set with bounding box annotations has been provided.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

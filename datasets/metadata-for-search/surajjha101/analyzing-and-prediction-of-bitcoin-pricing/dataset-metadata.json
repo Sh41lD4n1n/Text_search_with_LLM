@@ -1,0 +1,39 @@
+{
+  "id": "surajjha101/analyzing-and-prediction-of-bitcoin-pricing",
+  "id_no": 1989305,
+  "datasetSlugNullable": "analyzing-and-prediction-of-bitcoin-pricing",
+  "ownerUserNullable": "surajjha101",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Analyzing and Predicting Bitcoin pricing trend",
+  "subtitleNullable": "Visualization and time series analysis exercise ",
+  "descriptionNullable": "## Context \n\nWith the rise of crypto currency markets the interest in creating automated trading strategies, or trading bots, has grown. Developing algorithmic trading strategies however requires intensive backtesting to ensure profitable performance. It follows that access to high resolution historical trading data is the foundation of every successful algorithmic trading strategy. This dataset therefore provides open, high, low, close (OHLC) data at 1 minute resolution of various crypto currency pairs for the development of automated trading systems.\n\n## Content \n\nIt is the data of last 8 years approx. of the most famous cryptocurrency \"Bitcoin\", having attributes such as date itself, it's opening bid price, high and low of the days, close price and the volume of trade.\n\nCertain targets can be set while accessing the dataset dataset such as:\n\nQ: Adding an attribute of \"percent change\" on each day (as compared to last day close price of-coarse)\nQ: Visualization of the BTC and its highest and lowest values across years\nQ: At what days of the week it shows uptrend & downtrend more often (if it shows any such specific trend at all)\nQ: When it showed dramatic bullish trend and the possible potential reason behind it?\nQ: (Most important) Possible estimation where it is headed for in 2022? What is the potential min and max values? (Do time-series forecasting)\n\n## Acknowledgement \n\nData has been obtained through the Bitfinex API ",
+  "datasetId": 1989305,
+  "datasetSlug": "analyzing-and-prediction-of-bitcoin-pricing",
+  "hasDatasetSlug": true,
+  "ownerUser": "surajjha101",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11746,
+  "totalVotes": 115,
+  "totalDownloads": 1433,
+  "title": "Analyzing and Predicting Bitcoin pricing trend",
+  "hasTitle": true,
+  "subtitle": "Visualization and time series analysis exercise ",
+  "hasSubtitle": true,
+  "description": "## Context \n\nWith the rise of crypto currency markets the interest in creating automated trading strategies, or trading bots, has grown. Developing algorithmic trading strategies however requires intensive backtesting to ensure profitable performance. It follows that access to high resolution historical trading data is the foundation of every successful algorithmic trading strategy. This dataset therefore provides open, high, low, close (OHLC) data at 1 minute resolution of various crypto currency pairs for the development of automated trading systems.\n\n## Content \n\nIt is the data of last 8 years approx. of the most famous cryptocurrency \"Bitcoin\", having attributes such as date itself, it's opening bid price, high and low of the days, close price and the volume of trade.\n\nCertain targets can be set while accessing the dataset dataset such as:\n\nQ: Adding an attribute of \"percent change\" on each day (as compared to last day close price of-coarse)\nQ: Visualization of the BTC and its highest and lowest values across years\nQ: At what days of the week it shows uptrend & downtrend more often (if it shows any such specific trend at all)\nQ: When it showed dramatic bullish trend and the possible potential reason behind it?\nQ: (Most important) Possible estimation where it is headed for in 2022? What is the potential min and max values? (Do time-series forecasting)\n\n## Acknowledgement \n\nData has been obtained through the Bitfinex API ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

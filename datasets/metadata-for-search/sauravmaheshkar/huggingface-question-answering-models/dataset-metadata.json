@@ -1,0 +1,43 @@
+{
+  "id": "sauravmaheshkar/huggingface-question-answering-models",
+  "id_no": 1534752,
+  "datasetSlugNullable": "huggingface-question-answering-models",
+  "ownerUserNullable": "sauravmaheshkar",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Huggingface Question Answering Models",
+  "subtitleNullable": "PyTorch and Tensorflow Models from HuggingFace Hub",
+  "descriptionNullable": "<div>\n<a href=\"https://github.com/SauravMaheshkar/chaii-Hindi-Tamil-QA/blob/main/assets/HF-QA-Dataset-Banner.png?raw=true\">\n</a></div><a href=\"https://github.com/SauravMaheshkar/chaii-Hindi-Tamil-QA/blob/main/assets/HF-QA-Dataset-Banner.png?raw=true\">\n### All the models are taken directly from [Huggingface Hub](https://huggingface.co/models)</a>",
+  "datasetId": 1534752,
+  "datasetSlug": "huggingface-question-answering-models",
+  "hasDatasetSlug": true,
+  "ownerUser": "sauravmaheshkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4313,
+  "totalVotes": 16,
+  "totalDownloads": 64,
+  "title": "Huggingface Question Answering Models",
+  "hasTitle": true,
+  "subtitle": "PyTorch and Tensorflow Models from HuggingFace Hub",
+  "hasSubtitle": true,
+  "description": "<div>\n<a href=\"https://github.com/SauravMaheshkar/chaii-Hindi-Tamil-QA/blob/main/assets/HF-QA-Dataset-Banner.png?raw=true\">\n</a></div><a href=\"https://github.com/SauravMaheshkar/chaii-Hindi-Tamil-QA/blob/main/assets/HF-QA-Dataset-Banner.png?raw=true\">\n### All the models are taken directly from [Huggingface Hub](https://huggingface.co/models)</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "beginner",
+    "text",
+    "transfer learning",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

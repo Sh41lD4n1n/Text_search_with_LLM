@@ -1,0 +1,41 @@
+{
+  "id": "mathewribeiro/spiderscorpioncochroach",
+  "id_no": 1439021,
+  "datasetSlugNullable": "spiderscorpioncochroach",
+  "ownerUserNullable": "mathewribeiro",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "spider-scorpion-cockroach",
+  "subtitleNullable": "Identify creepy crawlies at or around home",
+  "descriptionNullable": "### Context\n\nThis dataset was collected with the goal of performing inference on cheap old cell phones for real-time detection of creepy creatures that may roam the house (and that you wish would vacate). My original desire was to find scorpions before they found me or my loved ones, but thought spiders may be a strong false positive class. I lastly selected cockroaches because they're on the list of \"creepy creatures\" and they sort of look like most six-legged insects that happen upon my dwelling place.\n\n### Content\n\nI collected at least 300 images of each class. I was not looking for incredibly clear or pristine examples, but almost the opposite. I wanted images of what I thought an old cell phone might see positioned in a poorly lit corner of the room. I also included images of scorpions illuminated by a black light, because that is the only way you'd probably see them on a cell phone after dark.\n\nSince all images were collected through the same method, there really isn't a clear delineation between training and test, so for now all classes of images exist in the train folder.\n ",
+  "datasetId": 1439021,
+  "datasetSlug": "spiderscorpioncochroach",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathewribeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2363,
+  "totalVotes": 6,
+  "totalDownloads": 211,
+  "title": "spider-scorpion-cockroach",
+  "hasTitle": true,
+  "subtitle": "Identify creepy crawlies at or around home",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was collected with the goal of performing inference on cheap old cell phones for real-time detection of creepy creatures that may roam the house (and that you wish would vacate). My original desire was to find scorpions before they found me or my loved ones, but thought spiders may be a strong false positive class. I lastly selected cockroaches because they're on the list of \"creepy creatures\" and they sort of look like most six-legged insects that happen upon my dwelling place.\n\n### Content\n\nI collected at least 300 images of each class. I was not looking for incredibly clear or pristine examples, but almost the opposite. I wanted images of what I thought an old cell phone might see positioned in a poorly lit corner of the room. I also included images of scorpions illuminated by a black light, because that is the only way you'd probably see them on a cell phone after dark.\n\nSince all images were collected through the same method, there really isn't a clear delineation between training and test, so for now all classes of images exist in the train folder.\n ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

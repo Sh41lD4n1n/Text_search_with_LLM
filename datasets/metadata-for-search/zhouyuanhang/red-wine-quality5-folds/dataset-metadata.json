@@ -1,0 +1,40 @@
+{
+  "id": "zhouyuanhang/red-wine-quality5-folds",
+  "id_no": 4683733,
+  "datasetSlugNullable": "red-wine-quality5-folds",
+  "ownerUserNullable": "zhouyuanhang",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Red Wine Quality(5 Folds)",
+  "subtitleNullable": "Red Wine Quality dataset after 5-folds Cross-validation ",
+  "descriptionNullable": "# Description\n\nThis dataset is obtained by cross-validation on the basis of Red Wine Quality dataset, which is convenient for preventing overfitting in model inference and training. this dataset uses the k-fold cross-validation in which k equal to 5.\n\nThe datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).The task is to predict the quality of wine using the given data.\n\nA simple yet challenging project, to anticipate the quality of wine.\nThe complexity arises due to the fact that the dataset has fewer samples, & is highly imbalanced.\n\n# Features contained\n\n## Input variables (on the basis of physicochemical tests)\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\n\n## Output variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\n# Challenges\n\n1. Which chemical characteristics are most important in predicting wine quality?\n2. Are specific types of wines (red or white) of higher quality?\n3. are wines with higher alcohol content rated higher?\nDo wines with sweeter flavors (more residual sugar) receive higher ratings?\n4. what level of acidity (pH) indicates higher quality?\n\n# Ideas\n1. Look at the correlation between each chemical characteristic and the quality scores to find out which ones will have a greater impact on the quality of the wine;\n2. Using overall scores for red and white wines to compare conclusions;\n3. Observing the relationship between alcohol content and quality scores;\n4. Observing the relationship between residual sugar and quality scores;\n5. Which pH range is concentrated when quality scores are high.\n",
+  "datasetId": 4683733,
+  "datasetSlug": "red-wine-quality5-folds",
+  "hasDatasetSlug": true,
+  "ownerUser": "zhouyuanhang",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 476,
+  "totalVotes": 5,
+  "totalDownloads": 78,
+  "title": "Red Wine Quality(5 Folds)",
+  "hasTitle": true,
+  "subtitle": "Red Wine Quality dataset after 5-folds Cross-validation ",
+  "hasSubtitle": true,
+  "description": "# Description\n\nThis dataset is obtained by cross-validation on the basis of Red Wine Quality dataset, which is convenient for preventing overfitting in model inference and training. this dataset uses the k-fold cross-validation in which k equal to 5.\n\nThe datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).The task is to predict the quality of wine using the given data.\n\nA simple yet challenging project, to anticipate the quality of wine.\nThe complexity arises due to the fact that the dataset has fewer samples, & is highly imbalanced.\n\n# Features contained\n\n## Input variables (on the basis of physicochemical tests)\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\n\n## Output variable (based on sensory data):\n12 - quality (score between 0 and 10)\n\n# Challenges\n\n1. Which chemical characteristics are most important in predicting wine quality?\n2. Are specific types of wines (red or white) of higher quality?\n3. are wines with higher alcohol content rated higher?\nDo wines with sweeter flavors (more residual sugar) receive higher ratings?\n4. what level of acidity (pH) indicates higher quality?\n\n# Ideas\n1. Look at the correlation between each chemical characteristic and the quality scores to find out which ones will have a greater impact on the quality of the wine;\n2. Using overall scores for red and white wines to compare conclusions;\n3. Observing the relationship between alcohol content and quality scores;\n4. Observing the relationship between residual sugar and quality scores;\n5. Which pH range is concentrated when quality scores are high.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "categorical"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

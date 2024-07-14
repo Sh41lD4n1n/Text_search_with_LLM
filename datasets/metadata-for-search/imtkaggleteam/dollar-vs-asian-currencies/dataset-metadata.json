@@ -1,0 +1,39 @@
+{
+  "id": "imtkaggleteam/dollar-vs-asian-currencies",
+  "id_no": 3212348,
+  "datasetSlugNullable": "dollar-vs-asian-currencies",
+  "ownerUserNullable": "imtkaggleteam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dollar Vs Asian Currencies",
+  "subtitleNullable": "Comparing the currencies of 37 Asian countries with the US dollar",
+  "descriptionNullable": "Examining the amount of changes in the exchange rate of two currencies can help us with many issues. Like investment, life, and more.\nIn this dataset, the exchange rates of a 37 Asian countries have been compared against the dollar.\nThis is a time series dataset and has been recorded from 2004 to 2022. Based on the Asian Development Bank website, it has been collected in order to compare different Asian countries in relation to the dollar. By fully comparing this dataset, you can compare different countries in terms of currency value.\nEnjoy the analysis of this data set and make it more visible by **voting** for this data.\ud83d\udcaf\u2714\ufe0f\nMore information about currencies:\nCNY = Chinese Yuan\nOMR = Omani Rial\nIRR = Irani Rial\nTHB = Thai Baht\nSYP = Syrian Pound\nMYR = Malaysian Ringgit\nYER = Yemenei Rial\nVND = Vietnamese Dong\nILS = Israeli New Shekel\nJPY = Japanese Yen\nLKR = Sri Lanka Rupee\nIQD = Iraqi Dinar\nPKR = Pakistani Rupee\nKWD = Kuwaiti Dinar\nKHR = Cambodian Riel\nUZS = Uzbekistani SOM\nSGD = Singapore Dollar\nINR = Indian Rupee\nBDT = Bangladeshi Taka\nPHP = Philippine Peso\nJOD = Jordanian Dinar\nLAK = Lao Kip\nIDR = Indonesian Rupiah\nKRW = South Korean Won\nKZT = Kazakhstani Tenge\nADE = UAE Dirham\nBHD = Bahraini Dinar\nLBP = Lebanese Pound\nTRY = Turkish Lira\nTMT = Turkmenistani Manat\nSAR = Saudi Riyal\nMVR = Maldivian Rufiyaa\nQAR = Qatari Riyal\nMMK = Burmese Kyat\nNPR = Nepalese Rupee\nBND = Brunei Dollar\nAFN = Afghan Afghani",
+  "datasetId": 3212348,
+  "datasetSlug": "dollar-vs-asian-currencies",
+  "hasDatasetSlug": true,
+  "ownerUser": "imtkaggleteam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2655,
+  "totalVotes": 126,
+  "totalDownloads": 528,
+  "title": "Dollar Vs Asian Currencies",
+  "hasTitle": true,
+  "subtitle": "Comparing the currencies of 37 Asian countries with the US dollar",
+  "hasSubtitle": true,
+  "description": "Examining the amount of changes in the exchange rate of two currencies can help us with many issues. Like investment, life, and more.\nIn this dataset, the exchange rates of a 37 Asian countries have been compared against the dollar.\nThis is a time series dataset and has been recorded from 2004 to 2022. Based on the Asian Development Bank website, it has been collected in order to compare different Asian countries in relation to the dollar. By fully comparing this dataset, you can compare different countries in terms of currency value.\nEnjoy the analysis of this data set and make it more visible by **voting** for this data.\ud83d\udcaf\u2714\ufe0f\nMore information about currencies:\nCNY = Chinese Yuan\nOMR = Omani Rial\nIRR = Irani Rial\nTHB = Thai Baht\nSYP = Syrian Pound\nMYR = Malaysian Ringgit\nYER = Yemenei Rial\nVND = Vietnamese Dong\nILS = Israeli New Shekel\nJPY = Japanese Yen\nLKR = Sri Lanka Rupee\nIQD = Iraqi Dinar\nPKR = Pakistani Rupee\nKWD = Kuwaiti Dinar\nKHR = Cambodian Riel\nUZS = Uzbekistani SOM\nSGD = Singapore Dollar\nINR = Indian Rupee\nBDT = Bangladeshi Taka\nPHP = Philippine Peso\nJOD = Jordanian Dinar\nLAK = Lao Kip\nIDR = Indonesian Rupiah\nKRW = South Korean Won\nKZT = Kazakhstani Tenge\nADE = UAE Dirham\nBHD = Bahraini Dinar\nLBP = Lebanese Pound\nTRY = Turkish Lira\nTMT = Turkmenistani Manat\nSAR = Saudi Riyal\nMVR = Maldivian Rufiyaa\nQAR = Qatari Riyal\nMMK = Burmese Kyat\nNPR = Nepalese Rupee\nBND = Brunei Dollar\nAFN = Afghan Afghani",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "world-bank",
+      "name": "world-bank",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

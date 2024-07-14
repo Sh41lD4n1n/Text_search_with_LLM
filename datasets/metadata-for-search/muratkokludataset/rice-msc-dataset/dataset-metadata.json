@@ -1,0 +1,44 @@
+{
+  "id": "muratkokludataset/rice-msc-dataset",
+  "id_no": 2048990,
+  "datasetSlugNullable": "rice-msc-dataset",
+  "ownerUserNullable": "muratkokludataset",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Rice MSC Dataset",
+  "subtitleNullable": "Five different Rice MSC Dataset. Arborio, Basmati, Ipsala, Jasmine, Karacadag",
+  "descriptionNullable": "Rice MSC Dataset\nDATASET: https://www.muratkoklu.com/datasets/\nCitation Request: See the articles for more detailed information on the data.\nKoklu, M., Cinar, I., & Taspinar, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285. https://doi.org/10.1016/j.compag.2021.106285\n\nCinar, I., & Koklu, M. (2021). Determination of Effective and Specific Physical Features of Rice Varieties by Computer Vision In Exterior Quality Inspection. Selcuk Journal of Agriculture and Food Sciences, 35(3), 229-243. https://doi.org/10.15316/SJAFS.2021.252\n\nCinar, I., & Koklu, M. (2022). Identification of Rice Varieties Using Machine Learning Algorithms. Journal of Agricultural Sciences https://doi.org/10.15832/ankutbd.862482\n\nCinar, I., & Koklu, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, 7(3), 188-194. https://doi.org/10.18201/ijisae.2019355381\nDATASET: https://www.muratkoklu.com/datasets/\n\nFeature extraction processes were performed based on the image processing techniques using morphological, shape and color features for five different rice varieties of the same brand. A total of 75 thousand pieces of rice grain were obtained, including 15 thousand pieces of each variety of rice. Pre-processing operations were applied to the images and made available for feature extraction. A total of 106 features were inferred from the images; 12 morphological features and 4 shape features obtained using morphological features and 90 color features obtained from five different color spaces (RGB, HSV, L*a*b*, YCbCr, XYZ). In addition, for the 106 features obtained, features were selected by ANOVA, X2 and Gain Ratio tests and useful features were determined. In all tests, out of 106 features, the 5 most effective and specific features were obtained roundness, compactness, shape factor 3, aspect ratio and eccentricity. The color features were listed in different order following these features.",
+  "datasetId": 2048990,
+  "datasetSlug": "rice-msc-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muratkokludataset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 19050,
+  "totalVotes": 1449,
+  "totalDownloads": 1564,
+  "title": "Rice MSC Dataset",
+  "hasTitle": true,
+  "subtitle": "Five different Rice MSC Dataset. Arborio, Basmati, Ipsala, Jasmine, Karacadag",
+  "hasSubtitle": true,
+  "description": "Rice MSC Dataset\nDATASET: https://www.muratkoklu.com/datasets/\nCitation Request: See the articles for more detailed information on the data.\nKoklu, M., Cinar, I., & Taspinar, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285. https://doi.org/10.1016/j.compag.2021.106285\n\nCinar, I., & Koklu, M. (2021). Determination of Effective and Specific Physical Features of Rice Varieties by Computer Vision In Exterior Quality Inspection. Selcuk Journal of Agriculture and Food Sciences, 35(3), 229-243. https://doi.org/10.15316/SJAFS.2021.252\n\nCinar, I., & Koklu, M. (2022). Identification of Rice Varieties Using Machine Learning Algorithms. Journal of Agricultural Sciences https://doi.org/10.15832/ankutbd.862482\n\nCinar, I., & Koklu, M. (2019). Classification of Rice Varieties Using Artificial Intelligence Methods. International Journal of Intelligent Systems and Applications in Engineering, 7(3), 188-194. https://doi.org/10.18201/ijisae.2019355381\nDATASET: https://www.muratkoklu.com/datasets/\n\nFeature extraction processes were performed based on the image processing techniques using morphological, shape and color features for five different rice varieties of the same brand. A total of 75 thousand pieces of rice grain were obtained, including 15 thousand pieces of each variety of rice. Pre-processing operations were applied to the images and made available for feature extraction. A total of 106 features were inferred from the images; 12 morphological features and 4 shape features obtained using morphological features and 90 color features obtained from five different color spaces (RGB, HSV, L*a*b*, YCbCr, XYZ). In addition, for the 106 features obtained, features were selected by ANOVA, X2 and Gain Ratio tests and useful features were determined. In all tests, out of 106 features, the 5 most effective and specific features were obtained roundness, compactness, shape factor 3, aspect ratio and eccentricity. The color features were listed in different order following these features.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "earth and nature",
+    "agriculture",
+    "computer science",
+    "computer vision",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

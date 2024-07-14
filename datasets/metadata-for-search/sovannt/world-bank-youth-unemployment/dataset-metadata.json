@@ -1,0 +1,40 @@
+{
+  "id": "sovannt/world-bank-youth-unemployment",
+  "id_no": 317,
+  "datasetSlugNullable": "world-bank-youth-unemployment",
+  "ownerUserNullable": "sovannt",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "World Bank Youth Unemployment Rates",
+  "subtitleNullable": "Youth Unemployment rates by country from 2010-2014",
+  "descriptionNullable": "**Context** \nA data driven look into answering the common question while travelling overseas: \n*\"how easy is it to get a job in your country?\"*\n\n**Content**\nThis dataset contains youth unemployment rates (% of total labor force ages 15-24) (modeled ILO estimate)\nLatest data available from 2010 to 2014.\n\n**Acknowledgements**\nInternational Labour Organization.\n\nhttp://data.worldbank.org/indicator/SL.UEM.TOTL.ZS\n\nReleased under Open license.",
+  "datasetId": 317,
+  "datasetSlug": "world-bank-youth-unemployment",
+  "hasDatasetSlug": true,
+  "ownerUser": "sovannt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 49021,
+  "totalVotes": 86,
+  "totalDownloads": 6880,
+  "title": "World Bank Youth Unemployment Rates",
+  "hasTitle": true,
+  "subtitle": "Youth Unemployment rates by country from 2010-2014",
+  "hasSubtitle": true,
+  "description": "**Context** \nA data driven look into answering the common question while travelling overseas: \n*\"how easy is it to get a job in your country?\"*\n\n**Content**\nThis dataset contains youth unemployment rates (% of total labor force ages 15-24) (modeled ILO estimate)\nLatest data available from 2010 to 2014.\n\n**Acknowledgements**\nInternational Labour Organization.\n\nhttp://data.worldbank.org/indicator/SL.UEM.TOTL.ZS\n\nReleased under Open license.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "finance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

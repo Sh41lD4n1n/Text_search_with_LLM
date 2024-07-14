@@ -1,0 +1,40 @@
+{
+  "id": "sshikamaru/face-mask-detection",
+  "id_no": 832691,
+  "datasetSlugNullable": "face-mask-detection",
+  "ownerUserNullable": "sshikamaru",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Face Mask Detection",
+  "subtitleNullable": "149 Images | Let's Help The World",
+  "descriptionNullable": "### Overview\n\nThe `Mask Wearing` dataset is an object detection dataset of individuals wearing various types of masks and those without masks. \nOne could use this dataset to build a system for detecting if an individual is wearing a mask in a given photo.\n### Content\n\nEach photo in the data set is a 416x416-black-padding image either with people wearing masks or not.\n\n",
+  "datasetId": 832691,
+  "datasetSlug": "face-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sshikamaru",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 13597,
+  "totalVotes": 41,
+  "totalDownloads": 1171,
+  "title": "Face Mask Detection",
+  "hasTitle": true,
+  "subtitle": "149 Images | Let's Help The World",
+  "hasSubtitle": true,
+  "description": "### Overview\n\nThe `Mask Wearing` dataset is an object detection dataset of individuals wearing various types of masks and those without masks. \nOne could use this dataset to build a system for detecting if an individual is wearing a mask in a given photo.\n### Content\n\nEach photo in the data set is a 416x416-black-padding image either with people wearing masks or not.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

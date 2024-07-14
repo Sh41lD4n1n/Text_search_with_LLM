@@ -1,0 +1,43 @@
+{
+  "id": "akashguna/lfw-dataset-with-masks",
+  "id_no": 1499376,
+  "datasetSlugNullable": "lfw-dataset-with-masks",
+  "ownerUserNullable": "akashguna",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "LFW Dataset with Masks",
+  "subtitleNullable": "Masks applied to Faces for mask detection",
+  "descriptionNullable": "### Context\n\nThe Dataset was created keeping in mind of rising COVID-19 cases . The dataset contains faces of celebrities from Labeled Faces in the Wild Dataset wrapped with a Face Mask which could be used for novel tasks such as Mask Detection and Masked Face Recognition.\n\n\n### Content\n\nThe dataset contains two folders : \n          1. Masked Faces\n          2. Unmasked Faces \nBoth  folders contain images of 400+ celebrities . Masks are applied in two colours blue and black and in three positions low , mid and high which represent the diffferent ways people wear mask. Both folders only contain sub folders of LFW which were picked for Masked Face Recognition.\n\n\n### Acknowledgements\nThe Dataset was created with tools provided by : https://medium.com/mlearning-ai/facial-mask-overlay-with-opencv-dlib-4d948964cc4d\nThe Original LFW dataset : http://vis-www.cs.umass.edu/lfw/\n",
+  "datasetId": 1499376,
+  "datasetSlug": "lfw-dataset-with-masks",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashguna",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 6824,
+  "totalVotes": 23,
+  "totalDownloads": 311,
+  "title": "LFW Dataset with Masks",
+  "hasTitle": true,
+  "subtitle": "Masks applied to Faces for mask detection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Dataset was created keeping in mind of rising COVID-19 cases . The dataset contains faces of celebrities from Labeled Faces in the Wild Dataset wrapped with a Face Mask which could be used for novel tasks such as Mask Detection and Masked Face Recognition.\n\n\n### Content\n\nThe dataset contains two folders : \n          1. Masked Faces\n          2. Unmasked Faces \nBoth  folders contain images of 400+ celebrities . Masks are applied in two colours blue and black and in three positions low , mid and high which represent the diffferent ways people wear mask. Both folders only contain sub folders of LFW which were picked for Masked Face Recognition.\n\n\n### Acknowledgements\nThe Dataset was created with tools provided by : https://medium.com/mlearning-ai/facial-mask-overlay-with-opencv-dlib-4d948964cc4d\nThe Original LFW dataset : http://vis-www.cs.umass.edu/lfw/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "categorical",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

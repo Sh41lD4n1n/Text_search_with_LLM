@@ -1,0 +1,42 @@
+{
+  "id": "pyrotech/twitterdata",
+  "id_no": 4694170,
+  "datasetSlugNullable": "twitterdata",
+  "ownerUserNullable": "pyrotech",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Indian Political Sentiment on Twitter ",
+  "subtitleNullable": "Unveiling Public Sentiment on Politics: A Comprehensive Analysis of India",
+  "descriptionNullable": "This dataset provides a comprehensive collection of public sentiment and discourse related to Indian politics. The entries cover a wide range of opinions, news, social media posts, and other forms of public communication. \nEach entry is meticulously labeled with a sentiment score, capturing the polarity of the opinion from strongly negative to strongly positive. \n\nThis dataset is structured to facilitate detailed sentiment analysis and examination of political sentiments in India.\n\nUse Cases\n\nThis dataset is ideal for:\n\nSentiment Analysis: Researchers can use this dataset to train and evaluate sentiment analysis models specifically tailored to the political context in India.\nTrend Analysis: Analysts can track the evolution of public sentiment over time, identifying key events that influenced public opinion.\nPolitical Studies: Scholars can investigate the relationship between public sentiment and political events, figures, and policies in India.\nNatural Language Processing (NLP): NLP practitioners can leverage this dataset for various tasks such as text classification, opinion mining, and more.\n",
+  "datasetId": 4694170,
+  "datasetSlug": "twitterdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "pyrotech",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 25,
+  "totalVotes": 0,
+  "totalDownloads": 7,
+  "title": "Indian Political Sentiment on Twitter ",
+  "hasTitle": true,
+  "subtitle": "Unveiling Public Sentiment on Politics: A Comprehensive Analysis of India",
+  "hasSubtitle": true,
+  "description": "This dataset provides a comprehensive collection of public sentiment and discourse related to Indian politics. The entries cover a wide range of opinions, news, social media posts, and other forms of public communication. \nEach entry is meticulously labeled with a sentiment score, capturing the polarity of the opinion from strongly negative to strongly positive. \n\nThis dataset is structured to facilitate detailed sentiment analysis and examination of political sentiments in India.\n\nUse Cases\n\nThis dataset is ideal for:\n\nSentiment Analysis: Researchers can use this dataset to train and evaluate sentiment analysis models specifically tailored to the political context in India.\nTrend Analysis: Analysts can track the evolution of public sentiment over time, identifying key events that influenced public opinion.\nPolitical Studies: Scholars can investigate the relationship between public sentiment and political events, figures, and policies in India.\nNatural Language Processing (NLP): NLP practitioners can leverage this dataset for various tasks such as text classification, opinion mining, and more.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "politics",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

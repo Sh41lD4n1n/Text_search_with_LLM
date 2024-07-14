@@ -1,0 +1,42 @@
+{
+  "id": "wordsforthewise/lending-club",
+  "id_no": 902,
+  "datasetSlugNullable": "lending-club",
+  "ownerUserNullable": "wordsforthewise",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "All Lending Club loan data",
+  "subtitleNullable": "2007 through current Lending Club accepted and rejected loan data",
+  "descriptionNullable": "# Context \n\nUpdate: I probably won't be able to update the data anymore, as LendingClub now has a scary 'TOS' popup when downloading the data.  Worst case, they will ask me/Kaggle to take it down from here.\n\nThis dataset contains the full LendingClub data available from [their site][1].  There are separate files for accepted and rejected loans.  The accepted loans also include the FICO scores, which can only be downloaded when you are signed in to LendingClub and download the data.\n\nSee the Python and R getting started kernels to get started:\n\n- R: https://www.kaggle.com/wordsforthewise/eda-in-r-arggghh\n- Python: https://www.kaggle.com/wordsforthewise/eda-with-python\n\nI created a git repo for the code which is used to create this data: https://github.com/nateGeorge/preprocess_lending_club_data\n\n# Background\n\nI wanted an easy way to share all the lending club data with others.  Unfortunately, the [data on their site][1] is fragmented into many smaller files.  There is another lending club [dataset on Kaggle][2], but it wasn't updated in years.  It seems like the \"Kaggle Team\" is updating it now.  I think it also doesn't include the full rejected loans, which are included here.  It seems like the [other dataset][3] confusingly has some of the rejected loans mixed into the accepted ones.  Now there are a ton of other [LendingClub datasets on here too][4], most of which seem to have no documentation or explanation of what the data actually is.\n\n\n# Content\n\nThe definitions for the fields are on the [LendingClub site][5], at the bottom of the page.  Kaggle won't let me upload the .xlsx file for some reason since it seems to be in multiple other data repos.  This file seems to be in the [other main repo][6], but again, it's better to get it directly from the [source][5].\n\nUnfortunately, there is (maybe \"was\" now?) a limit of 500MB for dataset files, so I had to compress the files with gzip in the Python pandas package.  \n\nI cleaned the data a tiny bit:  I removed percent symbols (%) from `int_rate` and `revol_util` columns in the accepted loans and converted those columns to floats.\n\n# Update\nThe URL column is in the dataset for completeness, as of 2018 Q2.\n\n\n  [1]: https://www.lendingclub.com/info/download-data.action\n  [2]: https://www.kaggle.com/wendykan/lending-club-loan-data\n  [3]: https://www.kaggle.com/wendykan/lending-club-loan-data\n  [4]: https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=lending%20club&page=1&pageSize=20&size=all&filetype=all&license=all\n  [5]: https://www.lendingclub.com/info/download-data.action\n  [6]: https://www.kaggle.com/wendykan/lending-club-loan-data",
+  "datasetId": 902,
+  "datasetSlug": "lending-club",
+  "hasDatasetSlug": true,
+  "ownerUser": "wordsforthewise",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 406960,
+  "totalVotes": 725,
+  "totalDownloads": 57133,
+  "title": "All Lending Club loan data",
+  "hasTitle": true,
+  "subtitle": "2007 through current Lending Club accepted and rejected loan data",
+  "hasSubtitle": true,
+  "description": "# Context \n\nUpdate: I probably won't be able to update the data anymore, as LendingClub now has a scary 'TOS' popup when downloading the data.  Worst case, they will ask me/Kaggle to take it down from here.\n\nThis dataset contains the full LendingClub data available from [their site][1].  There are separate files for accepted and rejected loans.  The accepted loans also include the FICO scores, which can only be downloaded when you are signed in to LendingClub and download the data.\n\nSee the Python and R getting started kernels to get started:\n\n- R: https://www.kaggle.com/wordsforthewise/eda-in-r-arggghh\n- Python: https://www.kaggle.com/wordsforthewise/eda-with-python\n\nI created a git repo for the code which is used to create this data: https://github.com/nateGeorge/preprocess_lending_club_data\n\n# Background\n\nI wanted an easy way to share all the lending club data with others.  Unfortunately, the [data on their site][1] is fragmented into many smaller files.  There is another lending club [dataset on Kaggle][2], but it wasn't updated in years.  It seems like the \"Kaggle Team\" is updating it now.  I think it also doesn't include the full rejected loans, which are included here.  It seems like the [other dataset][3] confusingly has some of the rejected loans mixed into the accepted ones.  Now there are a ton of other [LendingClub datasets on here too][4], most of which seem to have no documentation or explanation of what the data actually is.\n\n\n# Content\n\nThe definitions for the fields are on the [LendingClub site][5], at the bottom of the page.  Kaggle won't let me upload the .xlsx file for some reason since it seems to be in multiple other data repos.  This file seems to be in the [other main repo][6], but again, it's better to get it directly from the [source][5].\n\nUnfortunately, there is (maybe \"was\" now?) a limit of 500MB for dataset files, so I had to compress the files with gzip in the Python pandas package.  \n\nI cleaned the data a tiny bit:  I removed percent symbols (%) from `int_rate` and `revol_util` columns in the accepted loans and converted those columns to floats.\n\n# Update\nThe URL column is in the dataset for completeness, as of 2018 Q2.\n\n\n  [1]: https://www.lendingclub.com/info/download-data.action\n  [2]: https://www.kaggle.com/wendykan/lending-club-loan-data\n  [3]: https://www.kaggle.com/wendykan/lending-club-loan-data\n  [4]: https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=lending%20club&page=1&pageSize=20&size=all&filetype=all&license=all\n  [5]: https://www.lendingclub.com/info/download-data.action\n  [6]: https://www.kaggle.com/wendykan/lending-club-loan-data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "lending",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

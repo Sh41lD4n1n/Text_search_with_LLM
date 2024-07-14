@@ -1,0 +1,44 @@
+{
+  "id": "surajjha101/myntra-reviews-on-women-dresses-comprehensive",
+  "id_no": 2265536,
+  "datasetSlugNullable": "myntra-reviews-on-women-dresses-comprehensive",
+  "ownerUserNullable": "surajjha101",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon reviews on Women dresses (23K Datapoints) ",
+  "subtitleNullable": "Analyzing feedback women customers has given on dresses they'd bought ",
+  "descriptionNullable": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. While one purchases a product, platform gives them the leverage to share the experience with their product. Through feedbacks of all kind, any platform seeks to get better and better and to satisfy their customers as best as they can. After analyzing what they rate the product as, what they write for it etc. etc. we can derive many patterns out of customers satisfaction sphere which can be taken care of in the future. ",
+  "datasetId": 2265536,
+  "datasetSlug": "myntra-reviews-on-women-dresses-comprehensive",
+  "hasDatasetSlug": true,
+  "ownerUser": "surajjha101",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14421,
+  "totalVotes": 117,
+  "totalDownloads": 2531,
+  "title": "Amazon reviews on Women dresses (23K Datapoints) ",
+  "hasTitle": true,
+  "subtitle": "Analyzing feedback women customers has given on dresses they'd bought ",
+  "hasSubtitle": true,
+  "description": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. While one purchases a product, platform gives them the leverage to share the experience with their product. Through feedbacks of all kind, any platform seeks to get better and better and to satisfy their customers as best as they can. After analyzing what they rate the product as, what they write for it etc. etc. we can derive many patterns out of customers satisfaction sphere which can be taken care of in the future. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "intermediate",
+    "advanced",
+    "ratings and reviews",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

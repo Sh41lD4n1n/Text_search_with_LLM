@@ -1,0 +1,43 @@
+{
+  "id": "phucthaiv02/butterfly-image-classification",
+  "id_no": 3442424,
+  "datasetSlugNullable": "butterfly-image-classification",
+  "ownerUserNullable": "phucthaiv02",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Butterfly Image Classification",
+  "subtitleNullable": "Identify the class to which each butterfly belongs to",
+  "descriptionNullable": "The dataset features 75 different classes of Butterflies. The dataset contains about 1000+ labelled images including the validation images. Each image belongs to only one butterfly category.\n\nThe label of each image are saved in **Training_set.csv**.\n\nThe **Testing_set.csv** contains names of image in **test** folder, which you need to predict the label and submit to  [Data Sprint 107 - Butterfly Image Classification](https://aiplanet.com/challenges/325/butterfly_identification).\n\n\n",
+  "datasetId": 3442424,
+  "datasetSlug": "butterfly-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "phucthaiv02",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 31368,
+  "totalVotes": 102,
+  "totalDownloads": 6438,
+  "title": "Butterfly Image Classification",
+  "hasTitle": true,
+  "subtitle": "Identify the class to which each butterfly belongs to",
+  "hasSubtitle": true,
+  "description": "The dataset features 75 different classes of Butterflies. The dataset contains about 1000+ labelled images including the validation images. Each image belongs to only one butterfly category.\n\nThe label of each image are saved in **Training_set.csv**.\n\nThe **Testing_set.csv** contains names of image in **test** folder, which you need to predict the label and submit to  [Data Sprint 107 - Butterfly Image Classification](https://aiplanet.com/challenges/325/butterfly_identification).\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "beginner",
+    "computer vision",
+    "transfer learning",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

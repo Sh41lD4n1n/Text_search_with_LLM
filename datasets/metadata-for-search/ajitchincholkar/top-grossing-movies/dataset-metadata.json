@@ -1,0 +1,39 @@
+{
+  "id": "ajitchincholkar/top-grossing-movies",
+  "id_no": 1936064,
+  "datasetSlugNullable": "top-grossing-movies",
+  "ownerUserNullable": "ajitchincholkar",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Top Grossing Movies",
+  "subtitleNullable": "1000 top movies of all time",
+  "descriptionNullable": "This is my first ever dataset on kaggle. \nCreated using Excel and data is extracted from web.\n\nTotal columns = 4\nrank \ntitle\nlifetime gross\nyear \n\nData is clean with no missing or null values.",
+  "datasetId": 1936064,
+  "datasetSlug": "top-grossing-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "ajitchincholkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 124,
+  "totalVotes": 1,
+  "totalDownloads": 30,
+  "title": "Top Grossing Movies",
+  "hasTitle": true,
+  "subtitle": "1000 top movies of all time",
+  "hasSubtitle": true,
+  "description": "This is my first ever dataset on kaggle. \nCreated using Excel and data is extracted from web.\n\nTotal columns = 4\nrank \ntitle\nlifetime gross\nyear \n\nData is clean with no missing or null values.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

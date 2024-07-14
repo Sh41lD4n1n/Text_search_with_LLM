@@ -1,0 +1,43 @@
+{
+  "id": "saurabhshahane/sigmadolphin",
+  "id_no": 1115964,
+  "datasetSlugNullable": "sigmadolphin",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "SigmaDolphin",
+  "subtitleNullable": "Solve Math Problems Written In a Natural Language",
+  "descriptionNullable": "### Context\n\nBuilding a computer system to automatically solve math word problems written in natural language. SigmaDolphin is a project initiated in early 2013 at Microsoft Research Asia, with the primary goal of building a computer intelligent system with natural language understanding and reasoning capacities. We focus on the application of automatic problem solving, i.e., automatically solving problems (especially math word problems) written in natural language.\nSource - https://www.microsoft.com/en-us/research/project/sigmadolphin-2/\n### Content\nThere are two datasets:\n**Dolphin18K** is a dataset created for math word problem solving, containing 18,460 problems posted by users on the community question answering site, Yahoo! Answers. Check the dolphin18k.pdf for more details.\n**number_word_std** -  A problem collection containing 1,878 number word problems, used as evaluation data in  EMNLP\u201915 paper. Some subsets are included: linear, linear_t2, and linear_t6. Each subset is further divided into a dev set and a test set. Refer to sigmadolphin.datasets.pdf for more details.\n\n### Acknowledgements\nThanks to all original authors of this dataset.\nThe original source of the dataset - https://msropendata.com/datasets/f0e63bb3-717a-4a53-aa79-da339b0d7992\nProject SigmaDolphin - http://research.microsoft.com/en-us/projects/dolphin/\n\n\nReferences\n[1] Shuming Shi, Yuehui Wang, Chin-Yew Lin, Xiaojiang Liu and Yong Rui. 2015. Automatically Solving Number\nWord Problems by Semantic Parsing and Reasoning. In Proceedings of the Conference on Empirical Methods in\nNatural Language Processing (EMNLP), Lisbon, Portugal.\n[2] Danqing Huang, Shuming Shi, Chin-Yew Lin, Jian Yin and Wei-Ying\nMa. How Well Do Computers Solve Math Word Problems? Large-Scale\nDataset Construction and Evaluation. ACL 2016.\n[3] JSON: http://json.org/\n\n\n### License - [Computational Use of Data Agreement v1.0](https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view)",
+  "datasetId": 1115964,
+  "datasetSlug": "sigmadolphin",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 4941,
+  "totalVotes": 17,
+  "totalDownloads": 218,
+  "title": "SigmaDolphin",
+  "hasTitle": true,
+  "subtitle": "Solve Math Problems Written In a Natural Language",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBuilding a computer system to automatically solve math word problems written in natural language. SigmaDolphin is a project initiated in early 2013 at Microsoft Research Asia, with the primary goal of building a computer intelligent system with natural language understanding and reasoning capacities. We focus on the application of automatic problem solving, i.e., automatically solving problems (especially math word problems) written in natural language.\nSource - https://www.microsoft.com/en-us/research/project/sigmadolphin-2/\n### Content\nThere are two datasets:\n**Dolphin18K** is a dataset created for math word problem solving, containing 18,460 problems posted by users on the community question answering site, Yahoo! Answers. Check the dolphin18k.pdf for more details.\n**number_word_std** -  A problem collection containing 1,878 number word problems, used as evaluation data in  EMNLP\u201915 paper. Some subsets are included: linear, linear_t2, and linear_t6. Each subset is further divided into a dev set and a test set. Refer to sigmadolphin.datasets.pdf for more details.\n\n### Acknowledgements\nThanks to all original authors of this dataset.\nThe original source of the dataset - https://msropendata.com/datasets/f0e63bb3-717a-4a53-aa79-da339b0d7992\nProject SigmaDolphin - http://research.microsoft.com/en-us/projects/dolphin/\n\n\nReferences\n[1] Shuming Shi, Yuehui Wang, Chin-Yew Lin, Xiaojiang Liu and Yong Rui. 2015. Automatically Solving Number\nWord Problems by Semantic Parsing and Reasoning. In Proceedings of the Conference on Empirical Methods in\nNatural Language Processing (EMNLP), Lisbon, Portugal.\n[2] Danqing Huang, Shuming Shi, Chin-Yew Lin, Jian Yin and Wei-Ying\nMa. How Well Do Computers Solve Math Word Problems? Large-Scale\nDataset Construction and Evaluation. ACL 2016.\n[3] JSON: http://json.org/\n\n\n### License - [Computational Use of Data Agreement v1.0](https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "beginner",
+    "intermediate",
+    "advanced",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

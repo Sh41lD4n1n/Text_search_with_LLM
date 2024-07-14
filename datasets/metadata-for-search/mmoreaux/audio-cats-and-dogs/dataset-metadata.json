@@ -1,0 +1,40 @@
+{
+  "id": "mmoreaux/audio-cats-and-dogs",
+  "id_no": 2749,
+  "datasetSlugNullable": "audio-cats-and-dogs",
+  "ownerUserNullable": "mmoreaux",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Audio Cats and Dogs",
+  "subtitleNullable": "Classify raw sound events",
+  "descriptionNullable": "### Context\n\nWith this dataset we hope to do a nice cheeky wink to the \"cats and dogs\" image dataset.\nIn fact, this dataset is aimed to be the audio counterpart of the famous \"cats and dogs\" image classification task, here available on Kaggle.\n\n\n### Content\n\nThe dataset consists in many \"wav\" files for both the cat and dog classes : \n\n- cat has 164 WAV files to which corresponds 1323 sec of audio\n- dog has 113 WAV files to which corresponds 598 sec of audio\n\nYou can have an visual description of the Wav here : [Visualizing woofs & meows \ud83d\udc31][1]. In [Accessing the Dataset 2][2] we propose a train / test split which can be used.\n\nAll the WAV files contains 16KHz audio and have variable length.\n\n### Acknowledgements\n\nWe have not much credit in proposing the dataset here. Much of the work have been done by the [AE-Dataset][3] creator (From which we extracted the two classes) and by the humans behind [FreeSound][4] From which was extracted the AE-Dataset.\n\nPS: the AE-Dataset has a policy saying you can mention them: Naoya Takahashi, Michael Gygli, Beat Pfister and Luc Van Gool, \"Deep Convolutional Neural Networks and Data Augmentation for Acoustic Event Recognition\", Proc. Interspeech 2016, San Fransisco. \n\n\n### Inspiration\n\nYou might use this dataset to test raw audio classification challenge ;)  \nA more challenging dataset is available [here][5]\n\n\n  [1]: https://www.kaggle.com/rtatman/visualizing-woofs-meows\n  [2]: https://www.kaggle.com/mmoreaux/accessing-the-data-2/\n  [3]: https://data.vision.ee.ethz.ch/cvl/ae_dataset/\n  [4]: https://freesound.org/\n  [5]: https://www.kaggle.com/mmoreaux/environmental-sound-classification-50",
+  "datasetId": 2749,
+  "datasetSlug": "audio-cats-and-dogs",
+  "hasDatasetSlug": true,
+  "ownerUser": "mmoreaux",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 94665,
+  "totalVotes": 255,
+  "totalDownloads": 13907,
+  "title": "Audio Cats and Dogs",
+  "hasTitle": true,
+  "subtitle": "Classify raw sound events",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWith this dataset we hope to do a nice cheeky wink to the \"cats and dogs\" image dataset.\nIn fact, this dataset is aimed to be the audio counterpart of the famous \"cats and dogs\" image classification task, here available on Kaggle.\n\n\n### Content\n\nThe dataset consists in many \"wav\" files for both the cat and dog classes : \n\n- cat has 164 WAV files to which corresponds 1323 sec of audio\n- dog has 113 WAV files to which corresponds 598 sec of audio\n\nYou can have an visual description of the Wav here : [Visualizing woofs & meows \ud83d\udc31][1]. In [Accessing the Dataset 2][2] we propose a train / test split which can be used.\n\nAll the WAV files contains 16KHz audio and have variable length.\n\n### Acknowledgements\n\nWe have not much credit in proposing the dataset here. Much of the work have been done by the [AE-Dataset][3] creator (From which we extracted the two classes) and by the humans behind [FreeSound][4] From which was extracted the AE-Dataset.\n\nPS: the AE-Dataset has a policy saying you can mention them: Naoya Takahashi, Michael Gygli, Beat Pfister and Luc Van Gool, \"Deep Convolutional Neural Networks and Data Augmentation for Acoustic Event Recognition\", Proc. Interspeech 2016, San Fransisco. \n\n\n### Inspiration\n\nYou might use this dataset to test raw audio classification challenge ;)  \nA more challenging dataset is available [here][5]\n\n\n  [1]: https://www.kaggle.com/rtatman/visualizing-woofs-meows\n  [2]: https://www.kaggle.com/mmoreaux/accessing-the-data-2/\n  [3]: https://data.vision.ee.ethz.ch/cvl/ae_dataset/\n  [4]: https://freesound.org/\n  [5]: https://www.kaggle.com/mmoreaux/environmental-sound-classification-50",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

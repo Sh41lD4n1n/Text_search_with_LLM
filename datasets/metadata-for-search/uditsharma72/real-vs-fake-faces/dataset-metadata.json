@@ -1,0 +1,43 @@
+{
+  "id": "uditsharma72/real-vs-fake-faces",
+  "id_no": 2144922,
+  "datasetSlugNullable": "real-vs-fake-faces",
+  "ownerUserNullable": "uditsharma72",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Real vs fake faces",
+  "subtitleNullable": "Discriminate Real and Fake Face Images",
+  "descriptionNullable": "**About Dataset**\nThis dataset contains real and fake images of human faces.\nReal and Fake Face Detection\nFake Face Photos by Photoshop Experts\nIntroduction\nWhen using social networks, have you ever encountered a 'fake identity'?\nAnyone can create a fake profile image using image editing tools, or even using deep learning based generators.\nIf you are interested in making the world wide web a better place by recognizing such fake faces, you should check this dataset.",
+  "datasetId": 2144922,
+  "datasetSlug": "real-vs-fake-faces",
+  "hasDatasetSlug": true,
+  "ownerUser": "uditsharma72",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 11468,
+  "totalVotes": 47,
+  "totalDownloads": 1320,
+  "title": "Real vs fake faces",
+  "hasTitle": true,
+  "subtitle": "Discriminate Real and Fake Face Images",
+  "hasSubtitle": true,
+  "description": "**About Dataset**\nThis dataset contains real and fake images of human faces.\nReal and Fake Face Detection\nFake Face Photos by Photoshop Experts\nIntroduction\nWhen using social networks, have you ever encountered a 'fake identity'?\nAnyone can create a fake profile image using image editing tools, or even using deep learning based generators.\nIf you are interested in making the world wide web a better place by recognizing such fake faces, you should check this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "mathurinache/twitter-edge-nodes",
+  "id_no": 1199006,
+  "datasetSlugNullable": "twitter-edge-nodes",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Twitter Edge Nodes",
+  "subtitleNullable": "Graphical relations between Twitter Users",
+  "descriptionNullable": "Abstract: Twitter is a social news website. It can be viewed as a hybrid of email, instant messaging and sms messaging all rolled into one neat and simple package. It's a new and easy way to discover the latest news related to subjects you care about.\nNumber of Nodes: 11,316,811\nNumber of Edges: 85,331,846\nMissing Values: No\n\nSource:\n==========================================================================\n\nData Set Information:\n==========================================================================\n[I]. Brief description\nTwitter is a social news website. It can be viewed as a hybrid of email, instant messaging and sms messaging all rolled into one neat and simple package. It's a new and easy way to discover the latest news related to subjects you care about.\n\n[II]. Basic statistics\nNumber of Nodes: 11,316,811\nNumber of Edges: 85,331,846\n\n[III]. The data format\n2 files are included:\n\n1. nodes.csv\n-- it's the file of all the users. This file works as a dictionary of all the users in this data set. It's useful for fast reference. It contains\nall the node ids used in the dataset\n\n2. edges.csv\n-- this is the friendship/followership network among the bloggers. The friends/followers are represented using edges. Edges are directed.  \nHere is an example. \n\n1,2\n\nThis means user with id \"1\" is followering user with id \"2\".\n\n\nRelevant Papers:\n==========================================================================\n",
+  "datasetId": 1199006,
+  "datasetSlug": "twitter-edge-nodes",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 39434,
+  "totalVotes": 193,
+  "totalDownloads": 3211,
+  "title": "Twitter Edge Nodes",
+  "hasTitle": true,
+  "subtitle": "Graphical relations between Twitter Users",
+  "hasSubtitle": true,
+  "description": "Abstract: Twitter is a social news website. It can be viewed as a hybrid of email, instant messaging and sms messaging all rolled into one neat and simple package. It's a new and easy way to discover the latest news related to subjects you care about.\nNumber of Nodes: 11,316,811\nNumber of Edges: 85,331,846\nMissing Values: No\n\nSource:\n==========================================================================\n\nData Set Information:\n==========================================================================\n[I]. Brief description\nTwitter is a social news website. It can be viewed as a hybrid of email, instant messaging and sms messaging all rolled into one neat and simple package. It's a new and easy way to discover the latest news related to subjects you care about.\n\n[II]. Basic statistics\nNumber of Nodes: 11,316,811\nNumber of Edges: 85,331,846\n\n[III]. The data format\n2 files are included:\n\n1. nodes.csv\n-- it's the file of all the users. This file works as a dictionary of all the users in this data set. It's useful for fast reference. It contains\nall the node ids used in the dataset\n\n2. edges.csv\n-- this is the friendship/followership network among the bloggers. The friends/followers are represented using edges. Edges are directed.  \nHere is an example. \n\n1,2\n\nThis means user with id \"1\" is followering user with id \"2\".\n\n\nRelevant Papers:\n==========================================================================\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "email and messaging",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

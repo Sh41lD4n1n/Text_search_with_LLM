@@ -1,0 +1,45 @@
+{
+  "id": "tapakah68/selfies-and-video-dataset-4-000-people",
+  "id_no": 2298921,
+  "datasetSlugNullable": "selfies-and-video-dataset-4-000-people",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Selfies and Videos Dataset - 4,200+ sets",
+  "subtitleNullable": "Dataset for identification system, face recognition dataset",
+  "descriptionNullable": "# Selfies and video - Face Dataset\n\n4,200+ sets in this dataset. Each person took a selfie on a webcam, took a selfie on a mobile phone. In addition, people recorded video from the phone and from the webcam, on which they pronounced a given set of numbers.\n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 34,000+ files, leave a request on **[TrainingData](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-and-video-dataset-4-000-people)** to buy the dataset\n\n### Metadata for the full dataset:\n- **assignment_id** - unique identifier of the media file\n- **worker_id** - unique identifier of the person\n- **age** - age of the person\n- **true_gender** - gender of the person\n- **country** - country of the person\n- **ethnicity** - ethnicity of the person\n- **media_1_extension, media_2_extension, media_5_extension, media_6_extension** - photo extensions in the dataset\n- **media_1_resolution, media_2_resolution, media_5_resolution, media_6_resolution** - photo resolution in the dataset\n- **media_3_extension, media_4_extension, media_7_extension, media_8_extension** - video extensions in the dataset\n- **media_3_resolution, media_4_resolution, media_7_resolution, media_8_resolution** - video resolution in the dataset\n- **media_3_fps, media_4_fps, media_7_fps, media_8_fps** - frames per second for video in the dataset\n- **media_3_duration, media_7_duration** - duration of the long videos in the dataset\n- **media_4_duration, media_8_duration** - duration of the short videos in the dataset\n\n# Content\n\nIncludes folders corresponding to people in the dataset. Each folder includes 8 files (4 images and 4 videos).\n\n![](https://sun9-12.userapi.com/impg/tr2ZsdvaJJW0wQK97qbble5OFBCc9NXPqIS9JA/MVzdHsHifWU.jpg?size=2560x1003&quality=95&sign=9dcfd62d7faae77019fb424bee1bea78&type=album)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-and-video-dataset-4-000-people) to learn about the price and buy the dataset**\n\n# **[TrainingData](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-and-video-dataset-4-000-people)** provides high-quality data annotation tailored to your needs.\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human videos dataset, human faces dataset, machine learning, video-to-image, re-identification, verification models, video dataset, video classification, video recognition, photos and videos*",
+  "datasetId": 2298921,
+  "datasetSlug": "selfies-and-video-dataset-4-000-people",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 8550,
+  "totalVotes": 33,
+  "totalDownloads": 762,
+  "title": "Selfies and Videos Dataset - 4,200+ sets",
+  "hasTitle": true,
+  "subtitle": "Dataset for identification system, face recognition dataset",
+  "hasSubtitle": true,
+  "description": "# Selfies and video - Face Dataset\n\n4,200+ sets in this dataset. Each person took a selfie on a webcam, took a selfie on a mobile phone. In addition, people recorded video from the phone and from the webcam, on which they pronounced a given set of numbers.\n\n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 34,000+ files, leave a request on **[TrainingData](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-and-video-dataset-4-000-people)** to buy the dataset\n\n### Metadata for the full dataset:\n- **assignment_id** - unique identifier of the media file\n- **worker_id** - unique identifier of the person\n- **age** - age of the person\n- **true_gender** - gender of the person\n- **country** - country of the person\n- **ethnicity** - ethnicity of the person\n- **media_1_extension, media_2_extension, media_5_extension, media_6_extension** - photo extensions in the dataset\n- **media_1_resolution, media_2_resolution, media_5_resolution, media_6_resolution** - photo resolution in the dataset\n- **media_3_extension, media_4_extension, media_7_extension, media_8_extension** - video extensions in the dataset\n- **media_3_resolution, media_4_resolution, media_7_resolution, media_8_resolution** - video resolution in the dataset\n- **media_3_fps, media_4_fps, media_7_fps, media_8_fps** - frames per second for video in the dataset\n- **media_3_duration, media_7_duration** - duration of the long videos in the dataset\n- **media_4_duration, media_8_duration** - duration of the short videos in the dataset\n\n# Content\n\nIncludes folders corresponding to people in the dataset. Each folder includes 8 files (4 images and 4 videos).\n\n![](https://sun9-12.userapi.com/impg/tr2ZsdvaJJW0wQK97qbble5OFBCc9NXPqIS9JA/MVzdHsHifWU.jpg?size=2560x1003&quality=95&sign=9dcfd62d7faae77019fb424bee1bea78&type=album)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-and-video-dataset-4-000-people) to learn about the price and buy the dataset**\n\n# **[TrainingData](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-and-video-dataset-4-000-people)** provides high-quality data annotation tailored to your needs.\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human videos dataset, human faces dataset, machine learning, video-to-image, re-identification, verification models, video dataset, video classification, video recognition, photos and videos*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "people",
+    "computer vision",
+    "deep learning",
+    "image",
+    "video",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

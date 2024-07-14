@@ -1,0 +1,41 @@
+{
+  "id": "markminerov/88500-car-images",
+  "id_no": 3242724,
+  "datasetSlugNullable": "88500-car-images",
+  "ownerUserNullable": "markminerov",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "88,000+ Images of Cars",
+  "subtitleNullable": "Car images dataset for image generation and object detection purposes ",
+  "descriptionNullable": "The 88,000+ Images of Cars dataset is a comprehensive collection of high-quality images of cars for use in image generation and object detection tasks. This dataset includes a wide variety of car images, including sedans, SUVs, sports cars, trucks, and more. ",
+  "datasetId": 3242724,
+  "datasetSlug": "88500-car-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "markminerov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3158,
+  "totalVotes": 31,
+  "totalDownloads": 384,
+  "title": "88,000+ Images of Cars",
+  "hasTitle": true,
+  "subtitle": "Car images dataset for image generation and object detection purposes ",
+  "hasSubtitle": true,
+  "description": "The 88,000+ Images of Cars dataset is a comprehensive collection of high-quality images of cars for use in image generation and object detection tasks. This dataset includes a wide variety of car images, including sedans, SUVs, sports cars, trucks, and more. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "image generator",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

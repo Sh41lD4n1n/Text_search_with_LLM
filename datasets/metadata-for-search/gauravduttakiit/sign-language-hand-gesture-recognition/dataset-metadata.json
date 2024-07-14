@@ -1,0 +1,37 @@
+{
+  "id": "gauravduttakiit/sign-language-hand-gesture-recognition",
+  "id_no": 2391489,
+  "datasetSlugNullable": "sign-language-hand-gesture-recognition",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Sign Language Hand Gesture Recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "Problem Overview\nNew technologies are emerging that can assist those with hearing disabilities, but there is still plenty of work to be done. Computer vision applications, for example, could improve communication with the deaf and hard-of-hearing even more due to advancements in machine learning algorithms.\n\n \n\nYou are required to build a machine learning model that is capable of identifying American Sign Language (ASL) hand gestures. ",
+  "datasetId": 2391489,
+  "datasetSlug": "sign-language-hand-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 4316,
+  "totalVotes": 6,
+  "totalDownloads": 362,
+  "title": "Sign Language Hand Gesture Recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Problem Overview\nNew technologies are emerging that can assist those with hearing disabilities, but there is still plenty of work to be done. Computer vision applications, for example, could improve communication with the deaf and hard-of-hearing even more due to advancements in machine learning algorithms.\n\n \n\nYou are required to build a machine learning model that is capable of identifying American Sign Language (ASL) hand gestures. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ahmedhaytham/car-detection",
+  "id_no": 2022265,
+  "datasetSlugNullable": "car-detection",
+  "ownerUserNullable": "ahmedhaytham",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Car_detection",
+  "subtitleNullable": "Get car and it's type from image ",
+  "descriptionNullable": "# here ?\n1. just uploaded it here to make it easy for me and others to use  \n2. There is no data similar to it on kaggle\n\n# Vehicles-OpenImages &gt; 416x416\nhttps://public.roboflow.ai/object-detection/vehicles-openimages\n\nProvided by [Jacob Solawetz](https://roboflow.ai)\nLicense: CC BY 4.0\n\n![Image example](https://i.imgur.com/ztezlER.png)\n\n# Overview \n\nThis dataset contains 627 images of various vehicle classes for object detection. These images are derived from the [Open Images](https://arxiv.org/pdf/1811.00982.pdf) open source computer vision datasets.\n\nThis dataset only scratches the surface of the Open Images dataset for vehicles!\n\n![Image example](https://i.imgur.com/4ZHN8kk.png)\n\n# Use Cases\n\n* Train object detector to differentiate between a car, bus, motorcycle, ambulance, and truck.\n* Checkpoint object detector for autonomous vehicle detector\n* Test object detector on high density of ambulances in vehicles\n* Train ambulance detector\n* Explore the quality and range of Open Image dataset\n\n# Tools Used to Derive Dataset\n\n![Image example](https://i.imgur.com/1U0M573.png)\n\nThese images were gathered via the [OIDv4 Toolkit](https://github.com/EscVM/OIDv4_ToolKit) This toolkit allows you to pick an object class and retrieve a set number of images from that class **with bound box lables**. \n\nWe provide this dataset as an example of the ability to query the OID for a given subdomain. This dataset can easily be scaled up - please reach out to us if that interests you. \n\n",
+  "datasetId": 2022265,
+  "datasetSlug": "car-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedhaytham",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 7881,
+  "totalVotes": 34,
+  "totalDownloads": 792,
+  "title": "Car_detection",
+  "hasTitle": true,
+  "subtitle": "Get car and it's type from image ",
+  "hasSubtitle": true,
+  "description": "# here ?\n1. just uploaded it here to make it easy for me and others to use  \n2. There is no data similar to it on kaggle\n\n# Vehicles-OpenImages &gt; 416x416\nhttps://public.roboflow.ai/object-detection/vehicles-openimages\n\nProvided by [Jacob Solawetz](https://roboflow.ai)\nLicense: CC BY 4.0\n\n![Image example](https://i.imgur.com/ztezlER.png)\n\n# Overview \n\nThis dataset contains 627 images of various vehicle classes for object detection. These images are derived from the [Open Images](https://arxiv.org/pdf/1811.00982.pdf) open source computer vision datasets.\n\nThis dataset only scratches the surface of the Open Images dataset for vehicles!\n\n![Image example](https://i.imgur.com/4ZHN8kk.png)\n\n# Use Cases\n\n* Train object detector to differentiate between a car, bus, motorcycle, ambulance, and truck.\n* Checkpoint object detector for autonomous vehicle detector\n* Test object detector on high density of ambulances in vehicles\n* Train ambulance detector\n* Explore the quality and range of Open Image dataset\n\n# Tools Used to Derive Dataset\n\n![Image example](https://i.imgur.com/1U0M573.png)\n\nThese images were gathered via the [OIDv4 Toolkit](https://github.com/EscVM/OIDv4_ToolKit) This toolkit allows you to pick an object class and retrieve a set number of images from that class **with bound box lables**. \n\nWe provide this dataset as an example of the ability to query the OID for a given subdomain. This dataset can easily be scaled up - please reach out to us if that interests you. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

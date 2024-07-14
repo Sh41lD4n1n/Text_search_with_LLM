@@ -1,0 +1,40 @@
+{
+  "id": "utkarshsaxenadn/facenet-keras",
+  "id_no": 2988105,
+  "datasetSlugNullable": "facenet-keras",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FaceNet | Keras",
+  "subtitleNullable": "Face Recognition with FaceNet : A Unified Embedding for Face Recognition.",
+  "descriptionNullable": "FaceNet is a deep learning-based facial recognition system developed by researchers at Google. It was introduced in a research paper titled \"FaceNet: A Unified Embedding for Face Recognition and Clustering\" published in 2015.\n\nThe primary goal of FaceNet is to map facial images to a high-dimensional vector space where the distance between vectors corresponds to the similarity of the faces. This is achieved by training a neural network with millions of images of faces, where each image is labeled with a unique identity. The neural network learns to encode facial features into a compact, fixed-length vector, known as an embedding, that captures the identity and distinguishing features of the face.\n\nThe architecture of FaceNet consists of a convolutional neural network (CNN) followed by a few fully connected layers. The CNN is responsible for extracting high-level features from facial images, such as edges, textures, and facial landmarks. The fully connected layers transform these features into an embedding that is invariant to variations in lighting, pose, and facial expressions.\n\nOne of the unique features of FaceNet is that it uses a triplet loss function during training. The triplet loss encourages the network to produce embeddings that have a small distance between images of the same person and a large distance between images of different people. This loss function helps to create a high-quality embedding that captures the identity of the face and is suitable for face recognition tasks.\n\nFaceNet has achieved state-of-the-art performance on several benchmark face recognition datasets, such as the Labeled Faces in the Wild (LFW) and the MegaFace Challenge. It has been integrated into various commercial applications, such as mobile authentication, access control systems, and surveillance systems.\n\nIn summary, FaceNet is a deep learning-based facial recognition system that maps facial images to a high-dimensional vector space using a convolutional neural network and triplet loss function. It has achieved state-of-the-art performance on several benchmark datasets and has been integrated into various commercial applications.",
+  "datasetId": 2988105,
+  "datasetSlug": "facenet-keras",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11397,
+  "totalVotes": 43,
+  "totalDownloads": 1536,
+  "title": "FaceNet | Keras",
+  "hasTitle": true,
+  "subtitle": "Face Recognition with FaceNet : A Unified Embedding for Face Recognition.",
+  "hasSubtitle": true,
+  "description": "FaceNet is a deep learning-based facial recognition system developed by researchers at Google. It was introduced in a research paper titled \"FaceNet: A Unified Embedding for Face Recognition and Clustering\" published in 2015.\n\nThe primary goal of FaceNet is to map facial images to a high-dimensional vector space where the distance between vectors corresponds to the similarity of the faces. This is achieved by training a neural network with millions of images of faces, where each image is labeled with a unique identity. The neural network learns to encode facial features into a compact, fixed-length vector, known as an embedding, that captures the identity and distinguishing features of the face.\n\nThe architecture of FaceNet consists of a convolutional neural network (CNN) followed by a few fully connected layers. The CNN is responsible for extracting high-level features from facial images, such as edges, textures, and facial landmarks. The fully connected layers transform these features into an embedding that is invariant to variations in lighting, pose, and facial expressions.\n\nOne of the unique features of FaceNet is that it uses a triplet loss function during training. The triplet loss encourages the network to produce embeddings that have a small distance between images of the same person and a large distance between images of different people. This loss function helps to create a high-quality embedding that captures the identity of the face and is suitable for face recognition tasks.\n\nFaceNet has achieved state-of-the-art performance on several benchmark face recognition datasets, such as the Labeled Faces in the Wild (LFW) and the MegaFace Challenge. It has been integrated into various commercial applications, such as mobile authentication, access control systems, and surveillance systems.\n\nIn summary, FaceNet is a deep learning-based facial recognition system that maps facial images to a high-dimensional vector space using a convolutional neural network and triplet loss function. It has achieved state-of-the-art performance on several benchmark datasets and has been integrated into various commercial applications.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

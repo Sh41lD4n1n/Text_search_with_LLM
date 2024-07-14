@@ -1,0 +1,39 @@
+{
+  "id": "arslanabdulghaffar/ecommerce-products-reviews",
+  "id_no": 1759945,
+  "datasetSlugNullable": "ecommerce-products-reviews",
+  "ownerUserNullable": "arslanabdulghaffar",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "E-commerce products reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1759945,
+  "datasetSlug": "ecommerce-products-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "arslanabdulghaffar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1274,
+  "totalVotes": 1,
+  "totalDownloads": 47,
+  "title": "E-commerce products reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "programmerrdai/mental-health-dataset",
+  "id_no": 2245104,
+  "datasetSlugNullable": "mental-health-dataset",
+  "ownerUserNullable": "programmerrdai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health Dataset",
+  "subtitleNullable": "Mental Health is a big problem for everyone :(",
+  "descriptionNullable": "\nMental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. 1. Mental health is important at every stage of life, from childhood and adolescence through adulthood.",
+  "datasetId": 2245104,
+  "datasetSlug": "mental-health-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "programmerrdai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 67953,
+  "totalVotes": 104,
+  "totalDownloads": 9266,
+  "title": "Mental Health Dataset",
+  "hasTitle": true,
+  "subtitle": "Mental Health is a big problem for everyone :(",
+  "hasSubtitle": true,
+  "description": "\nMental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. 1. Mental health is important at every stage of life, from childhood and adolescence through adulthood.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "health",
+    "beginner",
+    "intermediate",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

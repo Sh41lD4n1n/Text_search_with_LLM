@@ -1,0 +1,42 @@
+{
+  "id": "divyansh22/flight-delay-prediction",
+  "id_no": 599747,
+  "datasetSlugNullable": "flight-delay-prediction",
+  "ownerUserNullable": "divyansh22",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "January Flight Delay Prediction",
+  "subtitleNullable": "US Flight Data for the month of Jan 2019 and Jan 2020.",
+  "descriptionNullable": "This is the first part of flight delay prediction i.e. for the month of January. To check the second part i.e. for the month of February, please have a look at this dataset: [February Flight Delay Prediction](https://www.kaggle.com/divyansh22/february-flight-delay-prediction#Feb_2020_ontime.csv)\n\nThis data is collected from the Bureau of Transportation Statistics, Govt. of the USA. This data is open-sourced under U.S. Govt. Works. This dataset contains all the flights in the month of January 2019 and January 2020. There are more than 400,000 flights in the month of January itself throughout the United States. The features were manually chosen to do a primary time series analysis. There are several other features available on their website. \n\nThis data could well be used to predict the flight delay at the destination airport specifically for the month of January in upcoming years as the data is for January only.   ",
+  "datasetId": 599747,
+  "datasetSlug": "flight-delay-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "divyansh22",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 127296,
+  "totalVotes": 294,
+  "totalDownloads": 13812,
+  "title": "January Flight Delay Prediction",
+  "hasTitle": true,
+  "subtitle": "US Flight Data for the month of Jan 2019 and Jan 2020.",
+  "hasSubtitle": true,
+  "description": "This is the first part of flight delay prediction i.e. for the month of January. To check the second part i.e. for the month of February, please have a look at this dataset: [February Flight Delay Prediction](https://www.kaggle.com/divyansh22/february-flight-delay-prediction#Feb_2020_ontime.csv)\n\nThis data is collected from the Bureau of Transportation Statistics, Govt. of the USA. This data is open-sourced under U.S. Govt. Works. This dataset contains all the flights in the month of January 2019 and January 2020. There are more than 400,000 flights in the month of January itself throughout the United States. The features were manually chosen to do a primary time series analysis. There are several other features available on their website. \n\nThis data could well be used to predict the flight delay at the destination airport specifically for the month of January in upcoming years as the data is for January only.   ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "business",
+    "government",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

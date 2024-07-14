@@ -1,0 +1,43 @@
+{
+  "id": "stefanoleone992/fifa-23-complete-player-dataset",
+  "id_no": 2850202,
+  "datasetSlugNullable": "fifa-23-complete-player-dataset",
+  "ownerUserNullable": "stefanoleone992",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FIFA 23 complete player dataset",
+  "subtitleNullable": "19k+ players and 110 attributes extracted from the latest edition of FIFA",
+  "descriptionNullable": "### Context\n\nThe datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 23. The data allows multiple comparisons for the same players across the last 9 versions of the videogame.\n\nSome ideas of possible analysis:\n\n- Historical comparison between Messi and Ronaldo (what skill attributes changed the most during time - compared to real-life stats);\n\n- Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men lineup. An extra is the same comparison with the Potential attribute for the lineup instead of the Overall attribute;\n\n- Sample analysis of top n% players (e.g. top 5% of the player) to see if some important attributes as Agility or BallControl or Strength have been popular or not acroos the FIFA versions.\n\n<br>\n\n### Content\n\n- Every player, coach, and team available in FIFA 15, 16, 17, 18, 19, 20, 21, 22, and also FIFA 23\n\n- All FIFA updates from 10th September 2015 until 13th January 2023\n\n- 110 attributes for players, 8 attributes for coaches, and 54 attributes for teams\n\n- URL of the scraped players, coaches, and teams\n\n- Player positions, with the role in the club and in the national team\n\n- Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.\n\n- Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.\n\n- Team data regarding their coaches, their overall value, and tactics\n\n<br>\n\nUpdates from previous FIFA 22 dataset are the following:\n\n- Inclusion of FIFA 23 data\n\n- Inclusion of all FIFA updates for each version from 15 to 23\n\n- Addition of coaches and teams data\n\n- Data provided only with the 2nd yearly FIFA update - like done in the previous datasets - is still available in files called 'male_players (legacy)' and 'female_players (legacy)'\n\n- Players data for each gender is now combined in a single file for all FIFA versions and updates\n\n- Only CSV files uploaded (Excel files excluded)\n\n- Other minor changes (e.g. field in players' data called 'sofifa_id' has been updated to 'player_id', since teams and coaches are now included too)\n\n<br>\n\n### Acknowledgements\n\nData has been scraped from the publicly available website [sofifa.com](https://sofifa.com).\n\nAs described in https://sofifa.com/robots.txt, there is no limitation at the time of scraping for collecting data for FIFA players, coaches, and teams.\n\nLimitations to scraping the website only relate to player comparisons and API.",
+  "datasetId": 2850202,
+  "datasetSlug": "fifa-23-complete-player-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "stefanoleone992",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 35440,
+  "totalVotes": 115,
+  "totalDownloads": 6762,
+  "title": "FIFA 23 complete player dataset",
+  "hasTitle": true,
+  "subtitle": "19k+ players and 110 attributes extracted from the latest edition of FIFA",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 23. The data allows multiple comparisons for the same players across the last 9 versions of the videogame.\n\nSome ideas of possible analysis:\n\n- Historical comparison between Messi and Ronaldo (what skill attributes changed the most during time - compared to real-life stats);\n\n- Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men lineup. An extra is the same comparison with the Potential attribute for the lineup instead of the Overall attribute;\n\n- Sample analysis of top n% players (e.g. top 5% of the player) to see if some important attributes as Agility or BallControl or Strength have been popular or not acroos the FIFA versions.\n\n<br>\n\n### Content\n\n- Every player, coach, and team available in FIFA 15, 16, 17, 18, 19, 20, 21, 22, and also FIFA 23\n\n- All FIFA updates from 10th September 2015 until 13th January 2023\n\n- 110 attributes for players, 8 attributes for coaches, and 54 attributes for teams\n\n- URL of the scraped players, coaches, and teams\n\n- Player positions, with the role in the club and in the national team\n\n- Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.\n\n- Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.\n\n- Team data regarding their coaches, their overall value, and tactics\n\n<br>\n\nUpdates from previous FIFA 22 dataset are the following:\n\n- Inclusion of FIFA 23 data\n\n- Inclusion of all FIFA updates for each version from 15 to 23\n\n- Addition of coaches and teams data\n\n- Data provided only with the 2nd yearly FIFA update - like done in the previous datasets - is still available in files called 'male_players (legacy)' and 'female_players (legacy)'\n\n- Players data for each gender is now combined in a single file for all FIFA versions and updates\n\n- Only CSV files uploaded (Excel files excluded)\n\n- Other minor changes (e.g. field in players' data called 'sofifa_id' has been updated to 'player_id', since teams and coaches are now included too)\n\n<br>\n\n### Acknowledgements\n\nData has been scraped from the publicly available website [sofifa.com](https://sofifa.com).\n\nAs described in https://sofifa.com/robots.txt, there is no limitation at the time of scraping for collecting data for FIFA players, coaches, and teams.\n\nLimitations to scraping the website only relate to player comparisons and API.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "football",
+    "sports",
+    "simulations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

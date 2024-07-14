@@ -1,0 +1,41 @@
+{
+  "id": "vishalmane109/anime-recommendations-database",
+  "id_no": 728949,
+  "datasetSlugNullable": "anime-recommendations-database",
+  "ownerUserNullable": "vishalmane109",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Anime  Database for Recommendation system",
+  "subtitleNullable": "anime information database for developing recommendation system or data analysis",
+  "descriptionNullable": "### Context\nThis dataset contains a total of 16737 unique animes. The reason for creating this dataset is the requirement of a  clean dataset of Anime. I found a few datasets on anime, most of the datasets had the major anime but some dataset 1) doesn't have 'Genre' or 'Synopsis' of anime. For content-based recommendation, it is helpful if we have more information about anime 2) have duplicate data 3) missing data is represented by different notations.\n\n\n### Content\nAnime_id    :anime Id (as per  myanimelist.net)\nTitle            : name of anime\nGenre         :Main genre   \nSynopsis    :Brief Discription\nType            \nProducer \nStudio\nRating            :Rating of anime as pe myanimelist.net/ \nScoredBy      : Total no user scored given anime\nPopularity     :Rank of anime based on popularity\nMembers      :No of members added given anime on their list\nEpisodes      : No. of episodes\nSource     \nAired\nLink\n\n### Acknowledgements\n\nThis dataset is a combination of 2 datasets\n\n1. https://docs.google.com/spreadsheets/d/1brguO5nGfXS-Fr1Xcf3pqPTQoBUPGLTYM_EMAA9yJFw/export?format=csv&id=1brguO5nGfXS-Fr1Xcf3pqPTQoBUPGLTYM_EMAA9yJFw&gid=0 \n2. https://www.kaggle.com/CooperUnion/anime-recommendations-database\n",
+  "datasetId": 728949,
+  "datasetSlug": "anime-recommendations-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "vishalmane109",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 11527,
+  "totalVotes": 28,
+  "totalDownloads": 993,
+  "title": "Anime  Database for Recommendation system",
+  "hasTitle": true,
+  "subtitle": "anime information database for developing recommendation system or data analysis",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset contains a total of 16737 unique animes. The reason for creating this dataset is the requirement of a  clean dataset of Anime. I found a few datasets on anime, most of the datasets had the major anime but some dataset 1) doesn't have 'Genre' or 'Synopsis' of anime. For content-based recommendation, it is helpful if we have more information about anime 2) have duplicate data 3) missing data is represented by different notations.\n\n\n### Content\nAnime_id    :anime Id (as per  myanimelist.net)\nTitle            : name of anime\nGenre         :Main genre   \nSynopsis    :Brief Discription\nType            \nProducer \nStudio\nRating            :Rating of anime as pe myanimelist.net/ \nScoredBy      : Total no user scored given anime\nPopularity     :Rank of anime based on popularity\nMembers      :No of members added given anime on their list\nEpisodes      : No. of episodes\nSource     \nAired\nLink\n\n### Acknowledgements\n\nThis dataset is a combination of 2 datasets\n\n1. https://docs.google.com/spreadsheets/d/1brguO5nGfXS-Fr1Xcf3pqPTQoBUPGLTYM_EMAA9yJFw/export?format=csv&id=1brguO5nGfXS-Fr1Xcf3pqPTQoBUPGLTYM_EMAA9yJFw&gid=0 \n2. https://www.kaggle.com/CooperUnion/anime-recommendations-database\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "recommender systems",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

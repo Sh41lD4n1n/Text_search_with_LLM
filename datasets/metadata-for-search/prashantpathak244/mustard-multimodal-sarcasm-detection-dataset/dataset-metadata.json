@@ -1,0 +1,41 @@
+{
+  "id": "prashantpathak244/mustard-multimodal-sarcasm-detection-dataset",
+  "id_no": 2638462,
+  "datasetSlugNullable": "mustard-multimodal-sarcasm-detection-dataset",
+  "ownerUserNullable": "prashantpathak244",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "MUStARD (Multimodal Sarcasm Detection Dataset)",
+  "subtitleNullable": "Sarcasm Detection Dataset",
+  "descriptionNullable": "This is MUStARD (Multimodal Sarcasm Detection Dataset).\nThese are sarcasm data taken from various famous TV Series.\n\nYou can find paper attached with dataset here:\nhttps://github.com/soujanyaporia/MUStARD",
+  "datasetId": 2638462,
+  "datasetSlug": "mustard-multimodal-sarcasm-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "prashantpathak244",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1596,
+  "totalVotes": 7,
+  "totalDownloads": 178,
+  "title": "MUStARD (Multimodal Sarcasm Detection Dataset)",
+  "hasTitle": true,
+  "subtitle": "Sarcasm Detection Dataset",
+  "hasSubtitle": true,
+  "description": "This is MUStARD (Multimodal Sarcasm Detection Dataset).\nThese are sarcasm data taken from various famous TV Series.\n\nYou can find paper attached with dataset here:\nhttps://github.com/soujanyaporia/MUStARD",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "text",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

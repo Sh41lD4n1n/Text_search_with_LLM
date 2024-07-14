@@ -1,0 +1,41 @@
+{
+  "id": "haopengcheng/wildlife",
+  "id_no": 5100271,
+  "datasetSlugNullable": "wildlife",
+  "ownerUserNullable": "haopengcheng",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Wildlife",
+  "subtitleNullable": "",
+  "descriptionNullable": "We have integrated this dataset through field photography and online collection, which includes seven categories: birds, egrets, deer, sheep, hares, wild cats, and wild boars, and can be used in deep learning target detection.",
+  "datasetId": 5100271,
+  "datasetSlug": "wildlife",
+  "hasDatasetSlug": true,
+  "ownerUser": "haopengcheng",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 20,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Wildlife",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "We have integrated this dataset through field photography and online collection, which includes seven categories: birds, egrets, deer, sheep, hares, wild cats, and wild boars, and can be used in deep learning target detection.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

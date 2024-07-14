@@ -1,0 +1,44 @@
+{
+  "id": "nelgiriyewithana/apple-quality",
+  "id_no": 4291772,
+  "datasetSlugNullable": "apple-quality",
+  "ownerUserNullable": "nelgiriyewithana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Apple Quality",
+  "subtitleNullable": "Explore the World of Fruits",
+  "descriptionNullable": "# Description:\n\n&gt; This dataset contains information about various attributes of a set of fruits, providing insights into their characteristics. The dataset includes details such as fruit ID, size, weight, sweetness, crunchiness, juiciness, ripeness, acidity, and quality.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7384155.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt;- **A_id**: *Unique identifier for each fruit*\n- **Size**: *Size of the fruit*\n- **Weight**: *Weight of the fruit*\n- **Sweetness**: *Degree of sweetness of the fruit*\n- **Crunchiness**: *Texture indicating the crunchiness of the fruit*\n- **Juiciness**: *Level of juiciness of the fruit*\n- **Ripeness**: *Stage of ripeness of the fruit*\n- **Acidity**: *Acidity level of the fruit*\n- **Quality**: *Overall quality of the fruit*\n\n# Potential Use Cases:\n\n&gt;- **Fruit Classification:** Develop a classification model to categorize fruits based on their features.\n- **Quality Prediction:** Build a model to predict the quality rating of fruits using various attributes.\n\n\nThe dataset was generously provided by an American agriculture company. The data has been scaled and cleaned for ease of use.\n\nIf you find this dataset useful, your support through an upvote would be greatly appreciated \u2764\ufe0f\ud83d\ude42 Thank you",
+  "datasetId": 4291772,
+  "datasetSlug": "apple-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelgiriyewithana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 153696,
+  "totalVotes": 625,
+  "totalDownloads": 33850,
+  "title": "Apple Quality",
+  "hasTitle": true,
+  "subtitle": "Explore the World of Fruits",
+  "hasSubtitle": true,
+  "description": "# Description:\n\n&gt; This dataset contains information about various attributes of a set of fruits, providing insights into their characteristics. The dataset includes details such as fruit ID, size, weight, sweetness, crunchiness, juiciness, ripeness, acidity, and quality.\n\n[![DOI](https://zenodo.org/badge/DOI/10.34740/KAGGLE/DSV/7384155.svg)](https://www.kaggle.com/nelgiriyewithana/datasets)\n\n\n# Key Features:\n\n&gt;- **A_id**: *Unique identifier for each fruit*\n- **Size**: *Size of the fruit*\n- **Weight**: *Weight of the fruit*\n- **Sweetness**: *Degree of sweetness of the fruit*\n- **Crunchiness**: *Texture indicating the crunchiness of the fruit*\n- **Juiciness**: *Level of juiciness of the fruit*\n- **Ripeness**: *Stage of ripeness of the fruit*\n- **Acidity**: *Acidity level of the fruit*\n- **Quality**: *Overall quality of the fruit*\n\n# Potential Use Cases:\n\n&gt;- **Fruit Classification:** Develop a classification model to categorize fruits based on their features.\n- **Quality Prediction:** Build a model to predict the quality rating of fruits using various attributes.\n\n\nThe dataset was generously provided by an American agriculture company. The data has been scaled and cleaned for ease of use.\n\nIf you find this dataset useful, your support through an upvote would be greatly appreciated \u2764\ufe0f\ud83d\ude42 Thank you",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

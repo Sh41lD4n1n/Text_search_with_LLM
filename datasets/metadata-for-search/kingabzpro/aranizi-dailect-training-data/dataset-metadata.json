@@ -1,0 +1,43 @@
+{
+  "id": "kingabzpro/aranizi-dailect-training-data",
+  "id_no": 1169552,
+  "datasetSlugNullable": "aranizi-dailect-training-data",
+  "ownerUserNullable": "kingabzpro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Arabizi Dialect Training Data",
+  "subtitleNullable": "Arabizi Dialect twitter tweets sentiments",
+  "descriptionNullable": "### Context\n\nTUNIZI is the first 100% Tunisian Arabizi sentiment analysis dataset, developed as part of AI4D\u2019s ongoing NLP project for African languages. Tunisian Arabizi is the representation of the Tunisian dialect written in Latin characters and numbers rather than Arabic letters.\n\niCompass gathered comments from social media platforms that express sentiment about popular topics. For this purpose, we extracted 100k comments using public streaming APIs.\n\nTunizi was preprocessed by removing links, emoji symbols, and punctuations.\n\nThe collected comments were manually annotated using an overall polarity: positive (1), negative (-1) and neutral (0). The annotators were diverse in gender, age and social background.\n\n\n### Content\n\n**Variable definition:**\n\ntext_id: Unique identifier of the text\ntext: Text\nlabel: Sentiment of the tweet (-1 for negative, 0 for neutral, 1 for positive)\n\n**Files available for download are:**\n\nTrain.csv - contains text on which to train your model.\nTest.csv - contains text on which you must classify using your trained model.\nSampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the ID must be correct. Values in the 'label' column should -1, 0 or 1.\n\n\n### Acknowledgements\n\nAbout AI4D-Africa; Artificial Intelligence for Development-Africa Network (ai4d.ai)\n\n\nAI4D-Africa is a network of excellence in AI in sub-Saharan Africa. It is aimed at strengthening and developing community, scientific and technological excellence in a range of AI-related areas. It is composed of African Artificial Intelligence researchers, practitioners and policy makers.\n",
+  "datasetId": 1169552,
+  "datasetSlug": "aranizi-dailect-training-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "kingabzpro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5428,
+  "totalVotes": 5,
+  "totalDownloads": 307,
+  "title": "Arabizi Dialect Training Data",
+  "hasTitle": true,
+  "subtitle": "Arabizi Dialect twitter tweets sentiments",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTUNIZI is the first 100% Tunisian Arabizi sentiment analysis dataset, developed as part of AI4D\u2019s ongoing NLP project for African languages. Tunisian Arabizi is the representation of the Tunisian dialect written in Latin characters and numbers rather than Arabic letters.\n\niCompass gathered comments from social media platforms that express sentiment about popular topics. For this purpose, we extracted 100k comments using public streaming APIs.\n\nTunizi was preprocessed by removing links, emoji symbols, and punctuations.\n\nThe collected comments were manually annotated using an overall polarity: positive (1), negative (-1) and neutral (0). The annotators were diverse in gender, age and social background.\n\n\n### Content\n\n**Variable definition:**\n\ntext_id: Unique identifier of the text\ntext: Text\nlabel: Sentiment of the tweet (-1 for negative, 0 for neutral, 1 for positive)\n\n**Files available for download are:**\n\nTrain.csv - contains text on which to train your model.\nTest.csv - contains text on which you must classify using your trained model.\nSampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the ID must be correct. Values in the 'label' column should -1, 0 or 1.\n\n\n### Acknowledgements\n\nAbout AI4D-Africa; Artificial Intelligence for Development-Africa Network (ai4d.ai)\n\n\nAI4D-Africa is a network of excellence in AI in sub-Saharan Africa. It is aimed at strengthening and developing community, scientific and technological excellence in a range of AI-related areas. It is composed of African Artificial Intelligence researchers, practitioners and policy makers.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "africa",
+    "education",
+    "text",
+    "binary classification",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

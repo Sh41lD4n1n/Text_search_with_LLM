@@ -1,0 +1,43 @@
+{
+  "id": "samuelcortinhas/cats-and-dogs-image-classification",
+  "id_no": 2716794,
+  "datasetSlugNullable": "cats-and-dogs-image-classification",
+  "ownerUserNullable": "samuelcortinhas",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cats and Dogs image classification",
+  "subtitleNullable": "Binary classification between cats and dogs",
+  "descriptionNullable": "Over a 1000 images of cats and dogs scraped off of google images. The problem statement is to build a model that can classify between a cat and a dog in an image as accurately as possible.\n\nImage sizes range from roughly 100x100 pixels to 2000x1000 pixels. \n\nImage format is jpeg.\n\nDuplicates have been removed.",
+  "datasetId": 2716794,
+  "datasetSlug": "cats-and-dogs-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "samuelcortinhas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 58115,
+  "totalVotes": 122,
+  "totalDownloads": 17116,
+  "title": "Cats and Dogs image classification",
+  "hasTitle": true,
+  "subtitle": "Binary classification between cats and dogs",
+  "hasSubtitle": true,
+  "description": "Over a 1000 images of cats and dogs scraped off of google images. The problem statement is to build a model that can classify between a cat and a dog in an image as accurately as possible.\n\nImage sizes range from roughly 100x100 pixels to 2000x1000 pixels. \n\nImage format is jpeg.\n\nDuplicates have been removed.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "beginner",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

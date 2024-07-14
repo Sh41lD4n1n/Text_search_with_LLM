@@ -1,0 +1,45 @@
+{
+  "id": "saigeethac/red-and-white-wine-quality-datasets",
+  "id_no": 1772233,
+  "datasetSlugNullable": "red-and-white-wine-quality-datasets",
+  "ownerUserNullable": "saigeethac",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Red and White Wine Quality Analysis",
+  "subtitleNullable": "Wine quality analysis for ML beginners. Follows a standard ML pipeline approach.",
+  "descriptionNullable": "# Wine Quality Data Set\n\nThis data set is available in UCI at https://archive.ics.uci.edu/ml/datasets/Wine+Quality. \n\n**Abstract:** Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests.\n\n#### Data Set Information:\n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\n\n\n#### Attribute Information:\n\nInput variables (based on physicochemical tests):\n\n1. fixed acidity\n2. volatile acidity\n3. citric acid\n4. residual sugar\n5. chlorides\n6. free sulfur dioxide\n7. total sulfur dioxide\n8. density\n9. pH\n10. sulphates\n11. alcohol\n\nOutput variable (based on sensory data):\n\n12. quality (score between 0 and 10)\n\n*These columns have been described in the Kaggle Data Explorer.*\n\n### Context\n\nThe authors state *\"we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\"* We have briefly explored this aspect and see that Red wine quality prediction on the test and training datasets is almost the same (~88%) with just three features. Likewise White wine quality prediction appears to depend on just one feature. This may be due to the privacy and logistics issues mentioned by the dataset authors.\n \n### Content\n\nTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. Both these datasets are analyzed and linear regression models are developed in Python 3. The github link provided for the source code also includes a Flask web application for deployment on the local machine or on Heroku.\n\n### Acknowledgements\n\n**Datasets:**\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.\nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.\n\n**Banner Image:**\nPhoto by <a href=\"https://unsplash.com/@robertina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Roberta Sorge</a> on <a href=\"https://unsplash.com/s/photos/wine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n\n### Github Link\nComplete code has been uploaded onto github at https://github.com/saigeethachandrashekar/wine_quality.\n\nPlease clone the repo - this contains both the datasets, the code required for building and saving the model on to your local system. Code for a Flask app is provided for deploying the models on your local machine. The app can also be deployed on Heroku - the requirements.txt and Procfile are also provided for this.\n\n### Next Steps\n\n1. White wine quality prediction appears to depend on just one feature. This may be due to the privacy and logistics issues mentioned by the dataset authors (e.g. there is no data about grape types, wine brand, wine selling price, etc.) or it may be due to other factors that are not clear. This is an area that might be worth exploring further.\n\n2. Other ML techniques may be applied to improve the accuracy.\n",
+  "datasetId": 1772233,
+  "datasetSlug": "red-and-white-wine-quality-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "saigeethac",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 4535,
+  "totalVotes": 6,
+  "totalDownloads": 646,
+  "title": "Red and White Wine Quality Analysis",
+  "hasTitle": true,
+  "subtitle": "Wine quality analysis for ML beginners. Follows a standard ML pipeline approach.",
+  "hasSubtitle": true,
+  "description": "# Wine Quality Data Set\n\nThis data set is available in UCI at https://archive.ics.uci.edu/ml/datasets/Wine+Quality. \n\n**Abstract:** Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests.\n\n#### Data Set Information:\n\nThe two datasets are related to red and white variants of the Portuguese \"Vinho Verde\" wine. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).\n\nThese datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\n\n\n#### Attribute Information:\n\nInput variables (based on physicochemical tests):\n\n1. fixed acidity\n2. volatile acidity\n3. citric acid\n4. residual sugar\n5. chlorides\n6. free sulfur dioxide\n7. total sulfur dioxide\n8. density\n9. pH\n10. sulphates\n11. alcohol\n\nOutput variable (based on sensory data):\n\n12. quality (score between 0 and 10)\n\n*These columns have been described in the Kaggle Data Explorer.*\n\n### Context\n\nThe authors state *\"we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.\"* We have briefly explored this aspect and see that Red wine quality prediction on the test and training datasets is almost the same (~88%) with just three features. Likewise White wine quality prediction appears to depend on just one feature. This may be due to the privacy and logistics issues mentioned by the dataset authors.\n \n### Content\n\nTwo datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. Both these datasets are analyzed and linear regression models are developed in Python 3. The github link provided for the source code also includes a Flask web application for deployment on the local machine or on Heroku.\n\n### Acknowledgements\n\n**Datasets:**\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.\nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.\n\n**Banner Image:**\nPhoto by <a href=\"https://unsplash.com/@robertina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Roberta Sorge</a> on <a href=\"https://unsplash.com/s/photos/wine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n\n### Github Link\nComplete code has been uploaded onto github at https://github.com/saigeethachandrashekar/wine_quality.\n\nPlease clone the repo - this contains both the datasets, the code required for building and saving the model on to your local system. Code for a Flask app is provided for deploying the models on your local machine. The app can also be deployed on Heroku - the requirements.txt and Procfile are also provided for this.\n\n### Next Steps\n\n1. White wine quality prediction appears to depend on just one feature. This may be due to the privacy and logistics issues mentioned by the dataset authors (e.g. there is no data about grape types, wine brand, wine selling price, etc.) or it may be due to other factors that are not clear. This is an area that might be worth exploring further.\n\n2. Other ML techniques may be applied to improve the accuracy.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "computer science",
+    "programming",
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

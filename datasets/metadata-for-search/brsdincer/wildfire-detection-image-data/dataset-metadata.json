@@ -1,0 +1,45 @@
+{
+  "id": "brsdincer/wildfire-detection-image-data",
+  "id_no": 1351460,
+  "datasetSlugNullable": "wildfire-detection-image-data",
+  "ownerUserNullable": "brsdincer",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Wildfire Detection Image Data",
+  "subtitleNullable": "For Machine Learning Process",
+  "descriptionNullable": "## Wildfire Detection Image Data\n\nYou can use that data for Machine Learning and Deep Learning Process.\n\n2 LABELS:\n\n- Fire\n- No Fire",
+  "datasetId": 1351460,
+  "datasetSlug": "wildfire-detection-image-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "brsdincer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 24722,
+  "totalVotes": 34,
+  "totalDownloads": 2920,
+  "title": "Wildfire Detection Image Data",
+  "hasTitle": true,
+  "subtitle": "For Machine Learning Process",
+  "hasSubtitle": true,
+  "description": "## Wildfire Detection Image Data\n\nYou can use that data for Machine Learning and Deep Learning Process.\n\n2 LABELS:\n\n- Fire\n- No Fire",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "earth science",
+    "animals",
+    "education",
+    "computer science",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

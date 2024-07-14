@@ -1,0 +1,45 @@
+{
+  "id": "tapakah68/selfies-id-images-dataset",
+  "id_no": 2298863,
+  "datasetSlugNullable": "selfies-id-images-dataset",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Selfies & ID Images Dataset, 95,000 files",
+  "subtitleNullable": "Dataset for identification system, face recognition dataset",
+  "descriptionNullable": "# Selfies, ID Images Face Dataset\n5 591 sets, which includes 2 photos of a person from his documents and 13 selfies. 571 sets of Hispanics and 3512 sets of Caucasians.\n### **Photo documents contains only a photo of a person. All personal information from the document is hidden**\n \n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 95 000+ photos of people, leave a request on **[TrainingData](https://trainingdata.pro/datasets/document-photos-and-selfies?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-id-images-dataset)** to buy the dataset\n\n### Metadata for the full dataset:\n- **assignment_id** - unique identifier of the media file\n- **worker_id** - unique identifier of the person\n- **age** - age of the person\n- **true_gender** - gender of the person\n- **country** - country of the person\n- **ethnicity** - ethnicity of the person\n- **photo_1_extension, photo_2_extension, \u2026, photo_15_extension** - photo extensions in the dataset\n- **photo_1_resolution, photo_2_resolution, \u2026, photo_15_resolution** - photo resolution in the dataset\n\n# Content\n\nThe dataset includes 2 folders:\n- 18_sets_Caucasians - images of Caucasian people\n- 11_sets_Hispanics - images Hispanic people\n\nIn each folder there are folders for every person in dataset. Files are named \"ID_1\", \"ID_2\" for ID images and \"Selfie_1\",...\"Selfie_13\" for selfies.\n\n![](https://sun9-53.userapi.com/impg/dOFVs6YsLexi-rM0LBud5rc6bVsCQPq5bIvrnA/S-3MRJPo-IE.jpg?size=2560x1054&quality=95&sign=16fc124e8f61d43a371cf4f0712f6a14&type=album)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/document-photos-and-selfies?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-id-images-dataset) to learn about the price and buy the dataset**\n\n# **[TrainingData](https://trainingdata.pro/datasets/document-photos-and-selfies?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-id-images-dataset)** provides high-quality data annotation tailored to your needs.\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human faces dataset, machine learning, image-to-image, re-identification, id photos, selfies and paired id, photos, id verification models, passport, id card image, digital photo-identification*",
+  "datasetId": 2298863,
+  "datasetSlug": "selfies-id-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13937,
+  "totalVotes": 44,
+  "totalDownloads": 1345,
+  "title": "Selfies & ID Images Dataset, 95,000 files",
+  "hasTitle": true,
+  "subtitle": "Dataset for identification system, face recognition dataset",
+  "hasSubtitle": true,
+  "description": "# Selfies, ID Images Face Dataset\n5 591 sets, which includes 2 photos of a person from his documents and 13 selfies. 571 sets of Hispanics and 3512 sets of Caucasians.\n### **Photo documents contains only a photo of a person. All personal information from the document is hidden**\n \n# \ud83d\udcb4 For Commercial Usage: Full version of the dataset includes 95 000+ photos of people, leave a request on **[TrainingData](https://trainingdata.pro/datasets/document-photos-and-selfies?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-id-images-dataset)** to buy the dataset\n\n### Metadata for the full dataset:\n- **assignment_id** - unique identifier of the media file\n- **worker_id** - unique identifier of the person\n- **age** - age of the person\n- **true_gender** - gender of the person\n- **country** - country of the person\n- **ethnicity** - ethnicity of the person\n- **photo_1_extension, photo_2_extension, \u2026, photo_15_extension** - photo extensions in the dataset\n- **photo_1_resolution, photo_2_resolution, \u2026, photo_15_resolution** - photo resolution in the dataset\n\n# Content\n\nThe dataset includes 2 folders:\n- 18_sets_Caucasians - images of Caucasian people\n- 11_sets_Hispanics - images Hispanic people\n\nIn each folder there are folders for every person in dataset. Files are named \"ID_1\", \"ID_2\" for ID images and \"Selfie_1\",...\"Selfie_13\" for selfies.\n\n![](https://sun9-53.userapi.com/impg/dOFVs6YsLexi-rM0LBud5rc6bVsCQPq5bIvrnA/S-3MRJPo-IE.jpg?size=2560x1054&quality=95&sign=16fc124e8f61d43a371cf4f0712f6a14&type=album)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/document-photos-and-selfies?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-id-images-dataset) to learn about the price and buy the dataset**\n\n# **[TrainingData](https://trainingdata.pro/datasets/document-photos-and-selfies?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfies-id-images-dataset)** provides high-quality data annotation tailored to your needs.\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human faces dataset, machine learning, image-to-image, re-identification, id photos, selfies and paired id, photos, id verification models, passport, id card image, digital photo-identification*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "people",
+    "computer vision",
+    "deep learning",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "andrewteplov/car-object-detection",
+  "id_no": 2447548,
+  "datasetSlugNullable": "car-object-detection",
+  "ownerUserNullable": "andrewteplov",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Car object detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "Dataset for car object detection\n```train``` - train images\n```annotation_car_train.csv``` - annotations for train images\n\n[Car plate object detection dataset](https://www.kaggle.com/datasets/andrewteplov/car-plate-object-detetcion)\n\nP.S: images from Digital breakthrough: season AI (Ulyanovsk region) competition\n",
+  "datasetId": 2447548,
+  "datasetSlug": "car-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewteplov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 2374,
+  "totalVotes": 5,
+  "totalDownloads": 181,
+  "title": "Car object detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Dataset for car object detection\n```train``` - train images\n```annotation_car_train.csv``` - annotations for train images\n\n[Car plate object detection dataset](https://www.kaggle.com/datasets/andrewteplov/car-plate-object-detetcion)\n\nP.S: images from Digital breakthrough: season AI (Ulyanovsk region) competition\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "gpu",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "trainingdatapro/roads-segmentation-dataset",
+  "id_no": 3732636,
+  "datasetSlugNullable": "roads-segmentation-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Road Segmentation Dataset - vehicle dataset",
+  "subtitleNullable": "Roads images captured through DVRs - vehicle dataset",
+  "descriptionNullable": "# Road Segmentation Dataset\nThis dataset comprises a collection of images captured through **DVRs** (Digital Video Recorders) showcasing roads. Each image is accompanied by segmentation masks demarcating different entities (**road surface, cars, road signs, marking and background**) within the scene. \n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/roads-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=roads-segmentation-dataset)** to buy the dataset\n\nThe dataset can be utilized for enhancing computer vision algorithms involved in road surveillance, navigation, and intelligent transportation systemsand and in autonomous driving systems.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fb0789a0ec8075d9c7abdb0aa9faced59%2FFrame%2012.png?generation=1694606364403023&alt=media)\n\n## DATASETS WITH VEHICLES :\n- **[License Plates - 1 209 438 OCR Plates](https://www.kaggle.com/datasets/trainingdatapro/license-plates-1-209-438-ocr-plates)**\n- **[Car Object Detection & Tracking](https://www.kaggle.com/datasets/trainingdatapro/cars-video-object-tracking)**\n- **[Vehicle Images & Segmentation](https://www.kaggle.com/datasets/trainingdatapro/car-masks)**\n- **[Parking Space Detection & Classification Dataset](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset)**\n- **[Videos around cars](https://www.kaggle.com/datasets/tapakah68/videos-around-cars)**\n\n# Dataset structure\n- **images** - contains of original images of roads\n- **masks** - includes segmentation masks created for the original images\n-  **annotations.xml** -  contains coordinates of the polygons, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the polygons and labels . For each point, the x and y coordinates are provided.\n\n### \u0421lasses:\n- **road_surface**: surface of the road,\n- **marking**: white and yellow marking on the road,\n- **road_sign**: road signs,\n- **car**: cars on the road,\n- **background**: side of the road and surronding objects\n\n# Example of XML file structure\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fa74a4214f4dd89a35527ef008abfc151%2Fcarbon.png?generation=1694608637609153&alt=media)\n\n# Roads Segmentation might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/roads-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=roads-segmentation-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n## **[TrainingData](https://trainingdata.pro/datasets/roads-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=roads-segmentation-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: road surface, road scene, off-road, vehicle segmentation dataset, semantic segmentation for self driving cars, self driving cars dataset, semantic segmentation for autonomous driving, car segmentation dataset, car dataset, car images, car parts segmentation, self-driving cars deep learning, cctv, image dataset, image classification, semantic segmentation*",
+  "datasetId": 3732636,
+  "datasetSlug": "roads-segmentation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11232,
+  "totalVotes": 41,
+  "totalDownloads": 1242,
+  "title": "Road Segmentation Dataset - vehicle dataset",
+  "hasTitle": true,
+  "subtitle": "Roads images captured through DVRs - vehicle dataset",
+  "hasSubtitle": true,
+  "description": "# Road Segmentation Dataset\nThis dataset comprises a collection of images captured through **DVRs** (Digital Video Recorders) showcasing roads. Each image is accompanied by segmentation masks demarcating different entities (**road surface, cars, road signs, marking and background**) within the scene. \n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/roads-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=roads-segmentation-dataset)** to buy the dataset\n\nThe dataset can be utilized for enhancing computer vision algorithms involved in road surveillance, navigation, and intelligent transportation systemsand and in autonomous driving systems.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fb0789a0ec8075d9c7abdb0aa9faced59%2FFrame%2012.png?generation=1694606364403023&alt=media)\n\n## DATASETS WITH VEHICLES :\n- **[License Plates - 1 209 438 OCR Plates](https://www.kaggle.com/datasets/trainingdatapro/license-plates-1-209-438-ocr-plates)**\n- **[Car Object Detection & Tracking](https://www.kaggle.com/datasets/trainingdatapro/cars-video-object-tracking)**\n- **[Vehicle Images & Segmentation](https://www.kaggle.com/datasets/trainingdatapro/car-masks)**\n- **[Parking Space Detection & Classification Dataset](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset)**\n- **[Videos around cars](https://www.kaggle.com/datasets/tapakah68/videos-around-cars)**\n\n# Dataset structure\n- **images** - contains of original images of roads\n- **masks** - includes segmentation masks created for the original images\n-  **annotations.xml** -  contains coordinates of the polygons, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the polygons and labels . For each point, the x and y coordinates are provided.\n\n### \u0421lasses:\n- **road_surface**: surface of the road,\n- **marking**: white and yellow marking on the road,\n- **road_sign**: road signs,\n- **car**: cars on the road,\n- **background**: side of the road and surronding objects\n\n# Example of XML file structure\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fa74a4214f4dd89a35527ef008abfc151%2Fcarbon.png?generation=1694608637609153&alt=media)\n\n# Roads Segmentation might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/roads-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=roads-segmentation-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n## **[TrainingData](https://trainingdata.pro/datasets/roads-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=roads-segmentation-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: road surface, road scene, off-road, vehicle segmentation dataset, semantic segmentation for self driving cars, self driving cars dataset, semantic segmentation for autonomous driving, car segmentation dataset, car dataset, car images, car parts segmentation, self-driving cars deep learning, cctv, image dataset, image classification, semantic segmentation*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

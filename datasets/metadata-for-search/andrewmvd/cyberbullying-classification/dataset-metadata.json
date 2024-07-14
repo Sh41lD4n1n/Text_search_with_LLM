@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/cyberbullying-classification",
+  "id_no": 1869236,
+  "datasetSlugNullable": "cyberbullying-classification",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cyberbullying Classification",
+  "subtitleNullable": "47k tweets belonging to 6 balanced classes.",
+  "descriptionNullable": "# Abstract\n&gt; With rise of social media coupled with the Covid-19 pandemic, cyberbullying has reached all time highs. We can combat this by creating models to automatically flag potentially harmful tweets as well as break down the patterns of hatred.\n\n# About this dataset\n&gt; As social media usage becomes increasingly prevalent in every age group, a vast majority of citizens rely on this essential medium for day-to-day communication. Social media\u2019s ubiquity means that cyberbullying can effectively impact anyone at any time or anywhere, and the relative anonymity\nof the internet makes such personal attacks more difficult to stop than traditional bullying.\n\n&gt; On April 15th, 2020, UNICEF issued a warning in response to the increased risk of cyberbullying during the COVID-19 pandemic due to widespread school closures, increased screen time, and decreased face-to-face social interaction. The statistics of cyberbullying are outright alarming: 36.5% of middle and high school students have felt cyberbullied and 87% have observed cyberbullying, with effects ranging from decreased academic performance to depression to suicidal thoughts.\n\n&gt; In light of all of this, this dataset contains more than **47000** tweets labelled according to the class of cyberbullying:\n- Age;\n- Ethnicity;\n- Gender;\n- Religion;\n- Other type of cyberbullying;\n- Not cyberbullying\n\n&gt; The data has been balanced in order to contain ~8000 of each class.\n\n&gt; **Trigger Warning** These tweets either describe a bullying event or are the offense themselves, therefore explore it to the point where you feel comfortable.\n\n\n\n# How to use this dataset\n&gt; - Create a multiclassification model to predict cyberbullying type;\n- Create a binary classification model to flag potentially harmful tweets;\n- Explore words and patterns associated with each type of cyberbullying.\n\n\n# Highlighted Notebooks\n&gt; - [Cyberbullying on Twitter Visualization \ud83e\udd2c](https://www.kaggle.com/lizakonopelko/cyberbullying-on-twitter-visualization) by [Liza Konopelko](https://www.kaggle.com/lizakonopelko)\n- Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the authors.\n&gt; ### Citation\n&gt; J. Wang, K. Fu, C.T. Lu, \u201c[SOSNet: A Graph Convolutional Network Approach to Fine-Grained Cyberbullying Detection](https://ieeexplore.ieee.org/document/9378065),\u201d Proceedings of the 2020 IEEE International Conference on Big Data (IEEE BigData 2020), December 10-13, 2020.\n\n&gt; ### License\nCC BY 4.0\n\n\n&gt; ### Splash banner\nIcons by [Freepik](https://www.flaticon.com/authors/freepik) and [Juicy Fish](https://www.flaticon.com/authors/juicy-fish).",
+  "datasetId": 1869236,
+  "datasetSlug": "cyberbullying-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 111142,
+  "totalVotes": 177,
+  "totalDownloads": 14256,
+  "title": "Cyberbullying Classification",
+  "hasTitle": true,
+  "subtitle": "47k tweets belonging to 6 balanced classes.",
+  "hasSubtitle": true,
+  "description": "# Abstract\n&gt; With rise of social media coupled with the Covid-19 pandemic, cyberbullying has reached all time highs. We can combat this by creating models to automatically flag potentially harmful tweets as well as break down the patterns of hatred.\n\n# About this dataset\n&gt; As social media usage becomes increasingly prevalent in every age group, a vast majority of citizens rely on this essential medium for day-to-day communication. Social media\u2019s ubiquity means that cyberbullying can effectively impact anyone at any time or anywhere, and the relative anonymity\nof the internet makes such personal attacks more difficult to stop than traditional bullying.\n\n&gt; On April 15th, 2020, UNICEF issued a warning in response to the increased risk of cyberbullying during the COVID-19 pandemic due to widespread school closures, increased screen time, and decreased face-to-face social interaction. The statistics of cyberbullying are outright alarming: 36.5% of middle and high school students have felt cyberbullied and 87% have observed cyberbullying, with effects ranging from decreased academic performance to depression to suicidal thoughts.\n\n&gt; In light of all of this, this dataset contains more than **47000** tweets labelled according to the class of cyberbullying:\n- Age;\n- Ethnicity;\n- Gender;\n- Religion;\n- Other type of cyberbullying;\n- Not cyberbullying\n\n&gt; The data has been balanced in order to contain ~8000 of each class.\n\n&gt; **Trigger Warning** These tweets either describe a bullying event or are the offense themselves, therefore explore it to the point where you feel comfortable.\n\n\n\n# How to use this dataset\n&gt; - Create a multiclassification model to predict cyberbullying type;\n- Create a binary classification model to flag potentially harmful tweets;\n- Explore words and patterns associated with each type of cyberbullying.\n\n\n# Highlighted Notebooks\n&gt; - [Cyberbullying on Twitter Visualization \ud83e\udd2c](https://www.kaggle.com/lizakonopelko/cyberbullying-on-twitter-visualization) by [Liza Konopelko](https://www.kaggle.com/lizakonopelko)\n- Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the authors.\n&gt; ### Citation\n&gt; J. Wang, K. Fu, C.T. Lu, \u201c[SOSNet: A Graph Convolutional Network Approach to Fine-Grained Cyberbullying Detection](https://ieeexplore.ieee.org/document/9378065),\u201d Proceedings of the 2020 IEEE International Conference on Big Data (IEEE BigData 2020), December 10-13, 2020.\n\n&gt; ### License\nCC BY 4.0\n\n\n&gt; ### Splash banner\nIcons by [Freepik](https://www.flaticon.com/authors/freepik) and [Juicy Fish](https://www.flaticon.com/authors/juicy-fish).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people and society",
+    "nlp",
+    "text",
+    "social issues and advocacy",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

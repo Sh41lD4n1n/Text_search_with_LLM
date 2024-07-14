@@ -1,0 +1,42 @@
+{
+  "id": "neelkamal692/delhi-house-price-prediction",
+  "id_no": 452607,
+  "datasetSlugNullable": "delhi-house-price-prediction",
+  "ownerUserNullable": "neelkamal692",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Delhi House Price Prediction",
+  "subtitleNullable": "Delhi property Prices of some well known localities like Saket,Rohini etc.",
+  "descriptionNullable": "\n### Content\nThis is not a comprehensive list, some of the attributes i left intentionally and some just couldn't extract. Dataset consists of 12 columns and 1259 rows. 6 of the features are numerical valued and rest are categorical. code for extracting Data is available at my [Github](https://github.com/Neelkamal692/Machine-Learning/blob/master/MagicBricks.ipynb) account.\n\n\n\n### Acknowledgements\n\n\nThe Data has been extracted from [MagicBricks](https://www.magicbricks.com/) (a website, provides common platform to property buyer and seller ).\n\n\n### Inspiration\n\nI have done property price prediction on Boston Dataset, so i was wondering, if i can do it for Delhi properties too.",
+  "datasetId": 452607,
+  "datasetSlug": "delhi-house-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "neelkamal692",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 30051,
+  "totalVotes": 51,
+  "totalDownloads": 4157,
+  "title": "Delhi House Price Prediction",
+  "hasTitle": true,
+  "subtitle": "Delhi property Prices of some well known localities like Saket,Rohini etc.",
+  "hasSubtitle": true,
+  "description": "\n### Content\nThis is not a comprehensive list, some of the attributes i left intentionally and some just couldn't extract. Dataset consists of 12 columns and 1259 rows. 6 of the features are numerical valued and rest are categorical. code for extracting Data is available at my [Github](https://github.com/Neelkamal692/Machine-Learning/blob/master/MagicBricks.ipynb) account.\n\n\n\n### Acknowledgements\n\n\nThe Data has been extracted from [MagicBricks](https://www.magicbricks.com/) (a website, provides common platform to property buyer and seller ).\n\n\n### Inspiration\n\nI have done property price prediction on Boston Dataset, so i was wondering, if i can do it for Delhi properties too.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "exploratory data analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

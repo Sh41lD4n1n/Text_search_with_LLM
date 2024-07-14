@@ -1,0 +1,43 @@
+{
+  "id": "fardinrangrezz/emotion-detection",
+  "id_no": 4574120,
+  "datasetSlugNullable": "emotion-detection",
+  "ownerUserNullable": "fardinrangrezz",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Emotion Detection",
+  "subtitleNullable": "This is 1000 unique images",
+  "descriptionNullable": "",
+  "datasetId": 4574120,
+  "datasetSlug": "emotion-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "fardinrangrezz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 398,
+  "totalVotes": 2,
+  "totalDownloads": 75,
+  "title": "Emotion Detection",
+  "hasTitle": true,
+  "subtitle": "This is 1000 unique images",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "people",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "yasserh/wine-quality-dataset",
+  "id_no": 1866301,
+  "datasetSlugNullable": "wine-quality-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wine Quality Dataset",
+  "subtitleNullable": "Wine Quality Prediction - Classification Prediction",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Wine_Quality_Investigation/main/wq.jpg)\n\n### Description:\n\nThis datasets is related to red variants of the Portuguese \"Vinho Verde\" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).Your task is to predict the quality of wine using the given data.\n\nA simple yet challenging project, to anticipate the quality of wine.\nThe complexity arises due to the fact that the dataset has fewer samples, & is highly imbalanced.\nCan you overcome these obstacles & build a good predictive model to classify them?\n\n**This data frame contains the following columns:**\n\nInput variables (based on physicochemical tests):\\\n1 - fixed acidity\\\n2 - volatile acidity\\\n3 - citric acid\\\n4 - residual sugar\\\n5 - chlorides\\\n6 - free sulfur dioxide\\\n7 - total sulfur dioxide\\\n8 - density\\\n9 - pH\\\n10 - sulphates\\\n11 - alcohol\\\nOutput variable (based on sensory data):\\\n12 - quality (score between 0 and 10)\n\n### Acknowledgements:\nThis dataset is also available from Kaggle & UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality.\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build classification models to predict the wine quality.\n- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.",
+  "datasetId": 1866301,
+  "datasetSlug": "wine-quality-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 308482,
+  "totalVotes": 640,
+  "totalDownloads": 55250,
+  "title": "Wine Quality Dataset",
+  "hasTitle": true,
+  "subtitle": "Wine Quality Prediction - Classification Prediction",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Wine_Quality_Investigation/main/wq.jpg)\n\n### Description:\n\nThis datasets is related to red variants of the Portuguese \"Vinho Verde\" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).Your task is to predict the quality of wine using the given data.\n\nA simple yet challenging project, to anticipate the quality of wine.\nThe complexity arises due to the fact that the dataset has fewer samples, & is highly imbalanced.\nCan you overcome these obstacles & build a good predictive model to classify them?\n\n**This data frame contains the following columns:**\n\nInput variables (based on physicochemical tests):\\\n1 - fixed acidity\\\n2 - volatile acidity\\\n3 - citric acid\\\n4 - residual sugar\\\n5 - chlorides\\\n6 - free sulfur dioxide\\\n7 - total sulfur dioxide\\\n8 - density\\\n9 - pH\\\n10 - sulphates\\\n11 - alcohol\\\nOutput variable (based on sensory data):\\\n12 - quality (score between 0 and 10)\n\n### Acknowledgements:\nThis dataset is also available from Kaggle & UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality.\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build classification models to predict the wine quality.\n- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "earth and nature",
+    "beginner",
+    "classification",
+    "tabular",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

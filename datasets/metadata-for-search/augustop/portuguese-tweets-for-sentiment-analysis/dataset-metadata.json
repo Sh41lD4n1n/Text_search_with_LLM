@@ -1,0 +1,41 @@
+{
+  "id": "augustop/portuguese-tweets-for-sentiment-analysis",
+  "id_no": 73907,
+  "datasetSlugNullable": "portuguese-tweets-for-sentiment-analysis",
+  "ownerUserNullable": "augustop",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Portuguese Tweets for Sentiment Analysis",
+  "subtitleNullable": "800k portuguese tweets separated in positive, negative and neutral classes",
+  "descriptionNullable": "### Context\n\nThis dataset has portuguese tweets divided in positive, negative and neutral classes for sentiment polarity classification.\n\nIn order to collect and label the positive and negative cases, the distant supervision method of using positive and negative emoticons used by Go et al. (2009) was employed.\n\nFor the neutral ones, objective text from popular newsletter accounts and specific hashtags adapted from Kouloumpis et al. (2011) were used.\n\n### Content\n\nThe tweets in the datasets were collected from Twitter mainly from 01/08/2018 to 20/10/2018.\n\nThere are 4 main datasets:\n\n - Tweets with Theme: collected using around 100 political terms together with positive and negative emoticons. Contains around 60k tweets.\n\n - No Theme Tweets: collected using only positive and negative emoticons. Contains around 780k tweets. \n \n - Neutral Tweets  from Hashtags: collected using hashtags. Contains around 15k tweets.\n\n - Neutral Tweets from News accounts: collected directly from popular news accounts. Contains around 35k tweets.\n\nFrom them were created the following datasets that can be used to train and validate classification algorithms:\n\n - Training datasets:\n    - 50k, 100k, 200k, 300k, 400k, 500k positive and negative tweets without any theme\n    - 50k positive and negative tweets with political tweets\n    - 100k positive, negative and neutral tweets without any theme \n\n - Test datasets:\n   - 5k positive and negative tweets without any theme\n   - 5k positive and negative tweets with political tweets\n   - 5k positive, negative and neutral tweets without theme\n\nAll of them have an equal number of instances between classes. Their sentiment labels were transformed as follow:\n\n - Negative label: 0\n - Positive label: 1\n - Neutral label: 2\n\n### References\n\n[Sentiment Classification using Distant Supervision. 2009.][1]\n\n[Twitter Sentiment Analysis: The Good the Bad and the OMG! 2011.][2]\n\n\n  [1]: https://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf\n  [2]: https://www.researchgate.net/publication/221297835_Twitter_Sentiment_Analysis_The_Good_the_Bad_and_the_OMG",
+  "datasetId": 73907,
+  "datasetSlug": "portuguese-tweets-for-sentiment-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "augustop",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 29451,
+  "totalVotes": 69,
+  "totalDownloads": 4566,
+  "title": "Portuguese Tweets for Sentiment Analysis",
+  "hasTitle": true,
+  "subtitle": "800k portuguese tweets separated in positive, negative and neutral classes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset has portuguese tweets divided in positive, negative and neutral classes for sentiment polarity classification.\n\nIn order to collect and label the positive and negative cases, the distant supervision method of using positive and negative emoticons used by Go et al. (2009) was employed.\n\nFor the neutral ones, objective text from popular newsletter accounts and specific hashtags adapted from Kouloumpis et al. (2011) were used.\n\n### Content\n\nThe tweets in the datasets were collected from Twitter mainly from 01/08/2018 to 20/10/2018.\n\nThere are 4 main datasets:\n\n - Tweets with Theme: collected using around 100 political terms together with positive and negative emoticons. Contains around 60k tweets.\n\n - No Theme Tweets: collected using only positive and negative emoticons. Contains around 780k tweets. \n \n - Neutral Tweets  from Hashtags: collected using hashtags. Contains around 15k tweets.\n\n - Neutral Tweets from News accounts: collected directly from popular news accounts. Contains around 35k tweets.\n\nFrom them were created the following datasets that can be used to train and validate classification algorithms:\n\n - Training datasets:\n    - 50k, 100k, 200k, 300k, 400k, 500k positive and negative tweets without any theme\n    - 50k positive and negative tweets with political tweets\n    - 100k positive, negative and neutral tweets without any theme \n\n - Test datasets:\n   - 5k positive and negative tweets without any theme\n   - 5k positive and negative tweets with political tweets\n   - 5k positive, negative and neutral tweets without theme\n\nAll of them have an equal number of instances between classes. Their sentiment labels were transformed as follow:\n\n - Negative label: 0\n - Positive label: 1\n - Neutral label: 2\n\n### References\n\n[Sentiment Classification using Distant Supervision. 2009.][1]\n\n[Twitter Sentiment Analysis: The Good the Bad and the OMG! 2011.][2]\n\n\n  [1]: https://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf\n  [2]: https://www.researchgate.net/publication/221297835_Twitter_Sentiment_Analysis_The_Good_the_Bad_and_the_OMG",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "classification",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

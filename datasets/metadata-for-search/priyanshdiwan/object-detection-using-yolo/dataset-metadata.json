@@ -1,0 +1,40 @@
+{
+  "id": "priyanshdiwan/object-detection-using-yolo",
+  "id_no": 2051052,
+  "datasetSlugNullable": "object-detection-using-yolo",
+  "ownerUserNullable": "priyanshdiwan",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Object Detection Dataset",
+  "subtitleNullable": "This Dataset can be used to train self-driving car models like jetbots",
+  "descriptionNullable": "The dataset has images of human figures, an animal figure, stop signs, traffic lights (individual colors) & cones these Images are from IITD's Tryst challenge they are annotated with a bounding box in the format YOLO requires I also trained a YOLO algorithm with the below 0.7 average class loss you can find the code in the notebook section. ",
+  "datasetId": 2051052,
+  "datasetSlug": "object-detection-using-yolo",
+  "hasDatasetSlug": true,
+  "ownerUser": "priyanshdiwan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1262,
+  "totalVotes": 1,
+  "totalDownloads": 66,
+  "title": "Object Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "This Dataset can be used to train self-driving car models like jetbots",
+  "hasSubtitle": true,
+  "description": "The dataset has images of human figures, an animal figure, stop signs, traffic lights (individual colors) & cones these Images are from IITD's Tryst challenge they are annotated with a bounding box in the format YOLO requires I also trained a YOLO algorithm with the below 0.7 average class loss you can find the code in the notebook section. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "robotics",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

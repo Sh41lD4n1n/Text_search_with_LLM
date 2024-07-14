@@ -1,0 +1,44 @@
+{
+  "id": "sachsene/carla-traffic-signs-images",
+  "id_no": 1944932,
+  "datasetSlugNullable": "carla-traffic-signs-images",
+  "ownerUserNullable": "sachsene",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Carla Traffic Signs Images",
+  "subtitleNullable": "Contains stop, different speed and speed limit signs and their backside",
+  "descriptionNullable": "### Context\n\n2842 images of traffic signs defined by following classes: speed signs (30, 60, 90, speed limit 30 and 40), stop signs and signs from the back. Class 'back' indicates looking at the sign from the back or from the side. Images were gathered from CARLA, which is an open-source autonomous driving simulator, nonetheless images themselves can be used for real-world traffic lights.\n\n### Content\n\nThere are two folders:\n\ntrain - contains 8 folders with 1750 images\nval -  contains 8 folders with 1092 images",
+  "datasetId": 1944932,
+  "datasetSlug": "carla-traffic-signs-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "sachsene",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2872,
+  "totalVotes": 7,
+  "totalDownloads": 200,
+  "title": "Carla Traffic Signs Images",
+  "hasTitle": true,
+  "subtitle": "Contains stop, different speed and speed limit signs and their backside",
+  "hasSubtitle": true,
+  "description": "### Context\n\n2842 images of traffic signs defined by following classes: speed signs (30, 60, 90, speed limit 30 and 40), stop signs and signs from the back. Class 'back' indicates looking at the sign from the back or from the side. Images were gathered from CARLA, which is an open-source autonomous driving simulator, nonetheless images themselves can be used for real-world traffic lights.\n\n### Content\n\nThere are two folders:\n\ntrain - contains 8 folders with 1750 images\nval -  contains 8 folders with 1092 images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "auto racing",
+    "law",
+    "artificial intelligence",
+    "automobiles and vehicles",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

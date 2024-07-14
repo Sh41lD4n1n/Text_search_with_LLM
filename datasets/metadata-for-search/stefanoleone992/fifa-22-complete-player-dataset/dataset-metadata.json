@@ -1,0 +1,43 @@
+{
+  "id": "stefanoleone992/fifa-22-complete-player-dataset",
+  "id_no": 1617785,
+  "datasetSlugNullable": "fifa-22-complete-player-dataset",
+  "ownerUserNullable": "stefanoleone992",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FIFA 22 complete player dataset",
+  "subtitleNullable": "19k+ players, 100+ attributes extracted from the latest edition of FIFA",
+  "descriptionNullable": "### Context\n\nThe datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 22 (\"players_22.csv\"). The data allows multiple comparisons for the same players across the last 8 version of the videogame.\n\nSome ideas of possible analysis:\n\n- Historical comparison between Messi and Ronaldo (what skill attributes changed the most during time - compared to real-life stats);\n\n- Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men lineup. An extra is the same comparison with the Potential attribute for the lineup instead of the Overall attribute;\n\n- Sample analysis of top n% players (e.g. top 5% of the player) to see if some important attributes as Agility or BallControl or Strength have been popular or not acroos the FIFA versions. An example would be seeing that the top 5% players of FIFA 20 are faster (higher Acceleration and Agility) compared to FIFA 15. The trend of attributes is also an important indication of how some attributes are necessary for players to win games (a version with more top 5% players with high BallControl stats would indicate that the game is more focused on the technique rather than the physicial aspect).\n\n<br>\n\n### Content\n\n- Every player available in FIFA 15, 16, 17, 18, 19, 20, 21, and also FIFA 22\n\n- 100+ attributes\n\n- URL of the scraped players\n\n- URL of the uploaded player faces, club and nation logos\n\n- Player positions, with the role in the club and in the national team\n\n- Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.\n\n- Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.\n\n<br>\n\nUpdates from previous FIFA 21 dataset are the following:\n\n- Inclusion of FIFA 22 data\n\n- Inclusion of all female players\n\n- Columns reorder - to increase readability\n\n- Removal of duplicate GK attribute fields\n\n- The field *defending marking* has been renamed *defending marking awareness* and includes both the *marking* (old attribute name - up to FIFA 19) and *defensive awareness* values (new attribute name - from FIFA 20)\n\n- All data from FIFA 15 was re-scraped, as one Kaggle user noted in [this discussion](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset/discussion/232504) that sofifa updated some historical player market values over time\n\n<br>\n\n### Acknowledgements\n\nData has been scraped from the publicly available website [sofifa.com](https://sofifa.com).",
+  "datasetId": 1617785,
+  "datasetSlug": "fifa-22-complete-player-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "stefanoleone992",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 162191,
+  "totalVotes": 387,
+  "totalDownloads": 27452,
+  "title": "FIFA 22 complete player dataset",
+  "hasTitle": true,
+  "subtitle": "19k+ players, 100+ attributes extracted from the latest edition of FIFA",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 22 (\"players_22.csv\"). The data allows multiple comparisons for the same players across the last 8 version of the videogame.\n\nSome ideas of possible analysis:\n\n- Historical comparison between Messi and Ronaldo (what skill attributes changed the most during time - compared to real-life stats);\n\n- Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men lineup. An extra is the same comparison with the Potential attribute for the lineup instead of the Overall attribute;\n\n- Sample analysis of top n% players (e.g. top 5% of the player) to see if some important attributes as Agility or BallControl or Strength have been popular or not acroos the FIFA versions. An example would be seeing that the top 5% players of FIFA 20 are faster (higher Acceleration and Agility) compared to FIFA 15. The trend of attributes is also an important indication of how some attributes are necessary for players to win games (a version with more top 5% players with high BallControl stats would indicate that the game is more focused on the technique rather than the physicial aspect).\n\n<br>\n\n### Content\n\n- Every player available in FIFA 15, 16, 17, 18, 19, 20, 21, and also FIFA 22\n\n- 100+ attributes\n\n- URL of the scraped players\n\n- URL of the uploaded player faces, club and nation logos\n\n- Player positions, with the role in the club and in the national team\n\n- Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.\n\n- Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.\n\n<br>\n\nUpdates from previous FIFA 21 dataset are the following:\n\n- Inclusion of FIFA 22 data\n\n- Inclusion of all female players\n\n- Columns reorder - to increase readability\n\n- Removal of duplicate GK attribute fields\n\n- The field *defending marking* has been renamed *defending marking awareness* and includes both the *marking* (old attribute name - up to FIFA 19) and *defensive awareness* values (new attribute name - from FIFA 20)\n\n- All data from FIFA 15 was re-scraped, as one Kaggle user noted in [this discussion](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset/discussion/232504) that sofifa updated some historical player market values over time\n\n<br>\n\n### Acknowledgements\n\nData has been scraped from the publicly available website [sofifa.com](https://sofifa.com).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "football",
+    "sports",
+    "simulations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

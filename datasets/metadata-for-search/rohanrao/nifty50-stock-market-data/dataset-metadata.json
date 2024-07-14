@@ -1,0 +1,41 @@
+{
+  "id": "rohanrao/nifty50-stock-market-data",
+  "id_no": 423609,
+  "datasetSlugNullable": "nifty50-stock-market-data",
+  "ownerUserNullable": "rohanrao",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "NIFTY-50 Stock Market Data (2000 - 2021)",
+  "subtitleNullable": "Stock price data of the fifty stocks in NIFTY-50 index from NSE India",
+  "descriptionNullable": "### Context\nStock market data is widely analyzed for educational, business and personal interests. \n\n### Content\nThe data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from [NSE (National Stock Exchange) India](https://www.nseindia.com/). All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 30th April, 2021.\n\n### Update Frequency\nSince new stock market data is generated and made available every day, in order to have the latest and most useful information, the dataset will be updated once a month.\n\n### Acknowledgements\nNSE India: https://www.nseindia.com/    \nThanks to NSE for providing all the data publicly.\n\n### Inspiration\nVarious machine learning techniques can be applied and explored to stock market data, especially for trading algorithms and learning time series models.",
+  "datasetId": 423609,
+  "datasetSlug": "nifty50-stock-market-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohanrao",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 353171,
+  "totalVotes": 792,
+  "totalDownloads": 66935,
+  "title": "NIFTY-50 Stock Market Data (2000 - 2021)",
+  "hasTitle": true,
+  "subtitle": "Stock price data of the fifty stocks in NIFTY-50 index from NSE India",
+  "hasSubtitle": true,
+  "description": "### Context\nStock market data is widely analyzed for educational, business and personal interests. \n\n### Content\nThe data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from [NSE (National Stock Exchange) India](https://www.nseindia.com/). All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 30th April, 2021.\n\n### Update Frequency\nSince new stock market data is generated and made available every day, in order to have the latest and most useful information, the dataset will be updated once a month.\n\n### Acknowledgements\nNSE India: https://www.nseindia.com/    \nThanks to NSE for providing all the data publicly.\n\n### Inspiration\nVarious machine learning techniques can be applied and explored to stock market data, especially for trading algorithms and learning time series models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

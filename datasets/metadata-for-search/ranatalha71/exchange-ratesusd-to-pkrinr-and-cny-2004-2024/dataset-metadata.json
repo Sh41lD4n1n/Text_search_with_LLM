@@ -1,0 +1,40 @@
+{
+  "id": "ranatalha71/exchange-ratesusd-to-pkrinr-and-cny-2004-2024",
+  "id_no": 5299423,
+  "datasetSlugNullable": "exchange-ratesusd-to-pkrinr-and-cny-2004-2024",
+  "ownerUserNullable": "ranatalha71",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Exchange Rates:USD to PKR,INR, and CNY (2004-2024)",
+  "subtitleNullable": "",
+  "descriptionNullable": "## Introduction:\n\nThis dataset contains historical daily exchange rates for the US Dollar (USD) against three major currencies: Pakistani Rupee (PKR), Indian Rupee (INR), and Chinese Yuan (CNY). The data covers the period from January 2004 to June 2024, providing a comprehensive view of currency fluctuations over time.\n\n## About the Dataset\n\nThis dataset contain daily exchange rate from (2004 - 2024) of Dollar to PKR, Dollar to INR, Dollar to Chinese Yuan and contains 9 columns.\n\n## Columns:\n\n- `Date`: The date of the exchange rate.\n- `Open_pkr, High_pkr, Low_pkr, Close_pkr, Adj Close_pkr`: Exchange rate details from USD to PKR.\n- `Open_inr, High_inr, Low_inr, Close_inr, Adj Close_inr`: Exchange rate details from USD to INR.\n- `Open, High, Low, Close, Adj Close`: Exchange rate details from USD to CNY.\n- `PKR_pct_change`: Daily percentage change in the exchange rate from USD to PKR.\n- `INR_pct_change`: Daily percentage change in the exchange rate from USD to INR.\n- `CNY_pct_change`: Daily percentage change in the exchange rate from USD to CNY.\n\n## Source:\nThe data has been compiled from various reliable financial sources to ensure accuracy and consistency.\n\n## Usage:\nThis dataset is valuable for financial analysts, economists, and researchers interested in studying currency trends, economic events, and their impacts on exchange rates. It can also be used for machine learning projects involving time series analysis, forecasting, and financial modeling.\n\n## Acknowledgements:\nWe acknowledge the data sources for providing the necessary exchange rate information.",
+  "datasetId": 5299423,
+  "datasetSlug": "exchange-ratesusd-to-pkrinr-and-cny-2004-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "ranatalha71",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 12,
+  "totalVotes": 4,
+  "totalDownloads": 1,
+  "title": "Exchange Rates:USD to PKR,INR, and CNY (2004-2024)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "## Introduction:\n\nThis dataset contains historical daily exchange rates for the US Dollar (USD) against three major currencies: Pakistani Rupee (PKR), Indian Rupee (INR), and Chinese Yuan (CNY). The data covers the period from January 2004 to June 2024, providing a comprehensive view of currency fluctuations over time.\n\n## About the Dataset\n\nThis dataset contain daily exchange rate from (2004 - 2024) of Dollar to PKR, Dollar to INR, Dollar to Chinese Yuan and contains 9 columns.\n\n## Columns:\n\n- `Date`: The date of the exchange rate.\n- `Open_pkr, High_pkr, Low_pkr, Close_pkr, Adj Close_pkr`: Exchange rate details from USD to PKR.\n- `Open_inr, High_inr, Low_inr, Close_inr, Adj Close_inr`: Exchange rate details from USD to INR.\n- `Open, High, Low, Close, Adj Close`: Exchange rate details from USD to CNY.\n- `PKR_pct_change`: Daily percentage change in the exchange rate from USD to PKR.\n- `INR_pct_change`: Daily percentage change in the exchange rate from USD to INR.\n- `CNY_pct_change`: Daily percentage change in the exchange rate from USD to CNY.\n\n## Source:\nThe data has been compiled from various reliable financial sources to ensure accuracy and consistency.\n\n## Usage:\nThis dataset is valuable for financial analysts, economists, and researchers interested in studying currency trends, economic events, and their impacts on exchange rates. It can also be used for machine learning projects involving time series analysis, forecasting, and financial modeling.\n\n## Acknowledgements:\nWe acknowledge the data sources for providing the necessary exchange rate information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

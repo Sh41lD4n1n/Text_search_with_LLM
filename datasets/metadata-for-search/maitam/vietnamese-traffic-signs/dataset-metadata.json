@@ -1,0 +1,43 @@
+{
+  "id": "maitam/vietnamese-traffic-signs",
+  "id_no": 3954252,
+  "datasetSlugNullable": "vietnamese-traffic-signs",
+  "ownerUserNullable": "maitam",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Vietnam Traffic Signs",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Vietnam Road Signs Dataset (VNTS)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14355248%2Fb4948e06e2ac21268f5c9dbcadf0133e%2Ftraffic%20sign.png?generation=1699122027753806&alt=media)\n\n\n**Description**:\n\nThe Vietnam Road Signs Dataset (VNTS) is a collection of data containing information about traffic signs at various locations in Vietnam. This dataset includes images containing traffic signs and labeled information for each traffic sign in the images, marked with XYWH coordinates. The data in this dataset can be used to build and train machine learning models and computer vision systems to aid in the recognition and classification of traffic signs in Vietnam.\n\n\n**Dataset Information**:\n\nNumber of Images: Approximately 3200 images containing traffic signs with varying lighting conditions (brightness, darkness), blur, and noise.\n\n**Image Format**: JPG format.\n\n**Coordinate Labeling**: Each traffic sign in the images is labeled with XYWH coordinates (x, y, w, h) specifying the bounding box around the sign. This allows for the determination of the position and size of each traffic sign in the image.\n\nIntended Use:\n\n - To facilitate the recognition and classification of traffic signs on roads and at traffic locations in Vietnam.\n - To develop and train machine learning and computer vision models for the automatic recognition of traffic signs.\n - To provide real-world and standardized data for research in the fields of traffic and computer vision.\n   \n**Adding Filters to Increase the Number of Images and Diversify Data:**\n\nAdding various filters to the original images to generate different variations. This process enhances the diversity within the dataset and supports the training of machine learning and computer vision models.\n\nLink: [Github](https://github.com/nguyenmai333/labeled-image-enhancement) \n\n**Usage License**:\n\nThe data in the Vietnam Road Signs Dataset is made available under a Creative Commons (CC0) license, granting users the freedom to use, copy, modify, and distribute the data without the need for individual permissions.\n\n**Dataset Creator**:\n\nThis dataset has been created and collected by the **Data Palpating Team**.",
+  "datasetId": 3954252,
+  "datasetSlug": "vietnamese-traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "maitam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1730,
+  "totalVotes": 8,
+  "totalDownloads": 212,
+  "title": "Vietnam Traffic Signs",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Vietnam Road Signs Dataset (VNTS)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14355248%2Fb4948e06e2ac21268f5c9dbcadf0133e%2Ftraffic%20sign.png?generation=1699122027753806&alt=media)\n\n\n**Description**:\n\nThe Vietnam Road Signs Dataset (VNTS) is a collection of data containing information about traffic signs at various locations in Vietnam. This dataset includes images containing traffic signs and labeled information for each traffic sign in the images, marked with XYWH coordinates. The data in this dataset can be used to build and train machine learning models and computer vision systems to aid in the recognition and classification of traffic signs in Vietnam.\n\n\n**Dataset Information**:\n\nNumber of Images: Approximately 3200 images containing traffic signs with varying lighting conditions (brightness, darkness), blur, and noise.\n\n**Image Format**: JPG format.\n\n**Coordinate Labeling**: Each traffic sign in the images is labeled with XYWH coordinates (x, y, w, h) specifying the bounding box around the sign. This allows for the determination of the position and size of each traffic sign in the image.\n\nIntended Use:\n\n - To facilitate the recognition and classification of traffic signs on roads and at traffic locations in Vietnam.\n - To develop and train machine learning and computer vision models for the automatic recognition of traffic signs.\n - To provide real-world and standardized data for research in the fields of traffic and computer vision.\n   \n**Adding Filters to Increase the Number of Images and Diversify Data:**\n\nAdding various filters to the original images to generate different variations. This process enhances the diversity within the dataset and supports the training of machine learning and computer vision models.\n\nLink: [Github](https://github.com/nguyenmai333/labeled-image-enhancement) \n\n**Usage License**:\n\nThe data in the Vietnam Road Signs Dataset is made available under a Creative Commons (CC0) license, granting users the freedom to use, copy, modify, and distribute the data without the need for individual permissions.\n\n**Dataset Creator**:\n\nThis dataset has been created and collected by the **Data Palpating Team**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "image",
+    "pytorch",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

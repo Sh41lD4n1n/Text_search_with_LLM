@@ -1,0 +1,41 @@
+{
+  "id": "sudalairajkumar/cryptocurrencypricehistory",
+  "id_no": 1869,
+  "datasetSlugNullable": "cryptocurrencypricehistory",
+  "ownerUserNullable": "sudalairajkumar",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Cryptocurrency Historical Prices",
+  "subtitleNullable": "Prices of top cryptocurrencies including BTC, ETH, ADA, DOT and BNB",
+  "descriptionNullable": "### Context\n\nThings like Block chain, Bitcoin, Bitcoin cash, Ethereum, Ripple etc are constantly coming in the news articles I read. So I wanted to understand more about it and [this post][1] helped me get started. Once the basics are done, the data scientist inside me started raising questions like:\n\n1. How many cryptocurrencies are there and what are their prices and valuations?\n2. Why is there a sudden surge in the interest in recent days? \n\n\n\nSo what next? \nNow that we have the price data, I wanted to dig a little more about the factors affecting the price of coins. I started of with Bitcoin and there are quite a few parameters which affect the price of Bitcoin. Thanks to [Blockchain Info][3], I was able to get quite a few parameters on once in two day basis.\n\nThis will help understand the other factors related to Bitcoin price and also help one make future predictions in a better way than just using the historical price.\n\n\n### Content\n\nThe dataset has one csv file for each currency. Price history is available on a daily basis from April 28, 2013.  This dataset has the historical price information of some of the top crypto currencies by market capitalization. \n\n\n - Date : date of observation \n - Open : Opening price on the given day\n - High : Highest price on the given day\n - Low : Lowest price on the given day\n - Close : Closing price on the given day\n - Volume : Volume of transactions on the given day\n - Market Cap : Market capitalization in USD\n\n\n\n### Acknowledgements\n\nThis data is taken from [coinmarketcap][5] and it is [free][6] to use the data.\n\n\nCover Image : Photo by Thomas Malama on Unsplash\n\n### Inspiration\n\nSome of the questions which could be inferred from this dataset are:\n\n 1. How did the historical prices / market capitalizations of various currencies change over time?\n 2. Predicting the future price of the currencies\n 3. Which currencies are more volatile and which ones are more stable?\n 4. How does the price fluctuations of currencies correlate with each other?\n 5. Seasonal trend in the price fluctuations\n\n\n\n  [1]: https://www.linkedin.com/pulse/blockchain-absolute-beginners-mohit-mamoria\n  [2]: https://coinmarketcap.com/\n  [3]: https://blockchain.info/\n  [4]: https://etherscan.io/charts\n  [5]: https://coinmarketcap.com/\n  [6]: https://coinmarketcap.com/faq/\n  [7]: https://blockchain.info/\n  [8]: https://etherscan.io/charts\n  [9]: http://cs229.stanford.edu/proj2014/Isaac%20Madan,%20Shaurya%20Saluja,%20Aojia%20Zhao,Automated%20Bitcoin%20Trading%20via%20Machine%20Learning%20Algorithms.pdf",
+  "datasetId": 1869,
+  "datasetSlug": "cryptocurrencypricehistory",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudalairajkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 566059,
+  "totalVotes": 1093,
+  "totalDownloads": 84817,
+  "title": "Cryptocurrency Historical Prices",
+  "hasTitle": true,
+  "subtitle": "Prices of top cryptocurrencies including BTC, ETH, ADA, DOT and BNB",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThings like Block chain, Bitcoin, Bitcoin cash, Ethereum, Ripple etc are constantly coming in the news articles I read. So I wanted to understand more about it and [this post][1] helped me get started. Once the basics are done, the data scientist inside me started raising questions like:\n\n1. How many cryptocurrencies are there and what are their prices and valuations?\n2. Why is there a sudden surge in the interest in recent days? \n\n\n\nSo what next? \nNow that we have the price data, I wanted to dig a little more about the factors affecting the price of coins. I started of with Bitcoin and there are quite a few parameters which affect the price of Bitcoin. Thanks to [Blockchain Info][3], I was able to get quite a few parameters on once in two day basis.\n\nThis will help understand the other factors related to Bitcoin price and also help one make future predictions in a better way than just using the historical price.\n\n\n### Content\n\nThe dataset has one csv file for each currency. Price history is available on a daily basis from April 28, 2013.  This dataset has the historical price information of some of the top crypto currencies by market capitalization. \n\n\n - Date : date of observation \n - Open : Opening price on the given day\n - High : Highest price on the given day\n - Low : Lowest price on the given day\n - Close : Closing price on the given day\n - Volume : Volume of transactions on the given day\n - Market Cap : Market capitalization in USD\n\n\n\n### Acknowledgements\n\nThis data is taken from [coinmarketcap][5] and it is [free][6] to use the data.\n\n\nCover Image : Photo by Thomas Malama on Unsplash\n\n### Inspiration\n\nSome of the questions which could be inferred from this dataset are:\n\n 1. How did the historical prices / market capitalizations of various currencies change over time?\n 2. Predicting the future price of the currencies\n 3. Which currencies are more volatile and which ones are more stable?\n 4. How does the price fluctuations of currencies correlate with each other?\n 5. Seasonal trend in the price fluctuations\n\n\n\n  [1]: https://www.linkedin.com/pulse/blockchain-absolute-beginners-mohit-mamoria\n  [2]: https://coinmarketcap.com/\n  [3]: https://blockchain.info/\n  [4]: https://etherscan.io/charts\n  [5]: https://coinmarketcap.com/\n  [6]: https://coinmarketcap.com/faq/\n  [7]: https://blockchain.info/\n  [8]: https://etherscan.io/charts\n  [9]: http://cs229.stanford.edu/proj2014/Isaac%20Madan,%20Shaurya%20Saluja,%20Aojia%20Zhao,Automated%20Bitcoin%20Trading%20via%20Machine%20Learning%20Algorithms.pdf",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history",
+    "finance",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

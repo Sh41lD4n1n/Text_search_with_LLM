@@ -1,0 +1,41 @@
+{
+  "id": "jpmiller/police-violence-in-the-us",
+  "id_no": 697683,
+  "datasetSlugNullable": "police-violence-in-the-us",
+  "ownerUserNullable": "jpmiller",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Police Violence & Racial Equity - Part 1 of 2",
+  "subtitleNullable": "Citizen deaths, police deaths, and other outcomes",
+  "descriptionNullable": "This dataset is one of three that pull together data from several different sources regarding police-related violence and racial equity in the United States. The datasets currently include these types of data:\n\nPart 1: [Citizen deaths, police deaths, and other outcomes](https://www.kaggle.com/jpmiller/police-violence-in-the-us)\n- Police shootings\n- Citizen fatalities involving police\n- Police officer deaths suffered in the line of duty\n\n\nPart 2: [Demographics, crime stats, protests, and other data](https://www.kaggle.com/jpmiller/police-violence-racial-equity)\n- Social and economic data\n- Political leanings of citizens\n- Sales of DoD equipment to law enforcement agencies\n- City budgets\n- Police department headcounts\n- Police department policies and contract provisions\n- Juvenile arrests by type of crime and race\n- Crimes and arrests for the prime city in the four largest metro areas.\n- Protest activity\n- Police response\n- Press activity\n- Video clips of incidents\n\nI don't believe that any amount of data can fully describe the social dysfunction we have. At the same time, I hope these datasets can be an objective source for providing thoughtful, fact-based analysis of this important issue. ",
+  "datasetId": 697683,
+  "datasetSlug": "police-violence-in-the-us",
+  "hasDatasetSlug": true,
+  "ownerUser": "jpmiller",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 55585,
+  "totalVotes": 192,
+  "totalDownloads": 5669,
+  "title": "Police Violence & Racial Equity - Part 1 of 2",
+  "hasTitle": true,
+  "subtitle": "Citizen deaths, police deaths, and other outcomes",
+  "hasSubtitle": true,
+  "description": "This dataset is one of three that pull together data from several different sources regarding police-related violence and racial equity in the United States. The datasets currently include these types of data:\n\nPart 1: [Citizen deaths, police deaths, and other outcomes](https://www.kaggle.com/jpmiller/police-violence-in-the-us)\n- Police shootings\n- Citizen fatalities involving police\n- Police officer deaths suffered in the line of duty\n\n\nPart 2: [Demographics, crime stats, protests, and other data](https://www.kaggle.com/jpmiller/police-violence-racial-equity)\n- Social and economic data\n- Political leanings of citizens\n- Sales of DoD equipment to law enforcement agencies\n- City budgets\n- Police department headcounts\n- Police department policies and contract provisions\n- Juvenile arrests by type of crime and race\n- Crimes and arrests for the prime city in the four largest metro areas.\n- Protest activity\n- Police response\n- Press activity\n- Video clips of incidents\n\nI don't believe that any amount of data can fully describe the social dysfunction we have. At the same time, I hope these datasets can be an objective source for providing thoughtful, fact-based analysis of this important issue. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mortality",
+    "social issues and advocacy",
+    "racial equity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

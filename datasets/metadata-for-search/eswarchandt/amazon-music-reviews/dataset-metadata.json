@@ -1,0 +1,44 @@
+{
+  "id": "eswarchandt/amazon-music-reviews",
+  "id_no": 573774,
+  "datasetSlugNullable": "amazon-music-reviews",
+  "ownerUserNullable": "eswarchandt",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Musical Instruments Reviews ",
+  "subtitleNullable": "Understand the Customer Feedback",
+  "descriptionNullable": "### Context\n\nWebportals like Bhuvan get vast amount of feedback from the users. To go through all the feedback's can be a tedious job.  You have to categorize opinions expressed in feedback forums. This can be utilized for feedback management system. We Classification of individual comments/reviews.and we also determining overall rating based on individual comments/reviews. So that company can get a complete idea on feedback's provided by customers and can take care on those particular fields. This makes more loyal Customers to the  company, increase in business , fame ,brand value ,profits.\n\n\n### Content\n\nThis file has reviewer ID , User ID, Reviewer Name, Reviewer text, helpful, Summary(obtained from Reviewer text),Overall Rating on a scale 5, Review time\nDescription of columns in the file:\n1. reviewerID - ID of the reviewer, e.g. A2SUAM1J3GNN3B\n2. asin - ID of the product, e.g. 0000013714\n3. reviewerName - name of the reviewer\n4. helpful - helpfulness rating of the review, e.g. 2/3\n5. reviewText - text of the review\n6. overall - rating of the product\n7. summary - summary of the review\n8. unixReviewTime - time of the review (unix time)\n9. reviewTime - time of the review (raw)\n\n\n### Task\n\nYou have to perform Sentimental Analysis for this data. Help the organization to understand better about their customer feedback's So that they can concentrate on those issues customer's are facing. Build the model which has highest accuracy in classifying the feedback as positive,Negative and neutral.\n **Task :1**\n You have to categorize opinions expressed in feedback forums\n**Task :2**\n  You have to classify  individual comments/reviews and you have to determine overall rating based on individual \n  comments/reviews.\n\n\n### Inspiration\n\nThis is the Problem Statement given by ISRO to classify the customer comments. This would be helpful for the organization to understand Customer feedbacks. ",
+  "datasetId": 573774,
+  "datasetSlug": "amazon-music-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "eswarchandt",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 133124,
+  "totalVotes": 299,
+  "totalDownloads": 17383,
+  "title": "Amazon Musical Instruments Reviews ",
+  "hasTitle": true,
+  "subtitle": "Understand the Customer Feedback",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWebportals like Bhuvan get vast amount of feedback from the users. To go through all the feedback's can be a tedious job.  You have to categorize opinions expressed in feedback forums. This can be utilized for feedback management system. We Classification of individual comments/reviews.and we also determining overall rating based on individual comments/reviews. So that company can get a complete idea on feedback's provided by customers and can take care on those particular fields. This makes more loyal Customers to the  company, increase in business , fame ,brand value ,profits.\n\n\n### Content\n\nThis file has reviewer ID , User ID, Reviewer Name, Reviewer text, helpful, Summary(obtained from Reviewer text),Overall Rating on a scale 5, Review time\nDescription of columns in the file:\n1. reviewerID - ID of the reviewer, e.g. A2SUAM1J3GNN3B\n2. asin - ID of the product, e.g. 0000013714\n3. reviewerName - name of the reviewer\n4. helpful - helpfulness rating of the review, e.g. 2/3\n5. reviewText - text of the review\n6. overall - rating of the product\n7. summary - summary of the review\n8. unixReviewTime - time of the review (unix time)\n9. reviewTime - time of the review (raw)\n\n\n### Task\n\nYou have to perform Sentimental Analysis for this data. Help the organization to understand better about their customer feedback's So that they can concentrate on those issues customer's are facing. Build the model which has highest accuracy in classifying the feedback as positive,Negative and neutral.\n **Task :1**\n You have to categorize opinions expressed in feedback forums\n**Task :2**\n  You have to classify  individual comments/reviews and you have to determine overall rating based on individual \n  comments/reviews.\n\n\n### Inspiration\n\nThis is the Problem Statement given by ISRO to classify the customer comments. This would be helpful for the organization to understand Customer feedbacks. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "science and technology",
+    "nlp",
+    "text mining",
+    "text",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

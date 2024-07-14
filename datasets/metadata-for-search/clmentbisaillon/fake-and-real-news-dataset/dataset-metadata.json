@@ -1,0 +1,43 @@
+{
+  "id": "clmentbisaillon/fake-and-real-news-dataset",
+  "id_no": 4831777,
+  "datasetSlugNullable": "fake-and-real-news-dataset",
+  "ownerUserNullable": "clmentbisaillon",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "fake-and-real-news-dataset",
+  "subtitleNullable": "nlp fake news detection dataset",
+  "descriptionNullable": "# **Fake News detection dataset**\n## \nDataset separated in two files:\n1. Fake.csv (23502 fake news article)\n2. True.csv (21417 true news article)\n\nDataset columns:\n1. Title: title of news article\n2. Text: body text of news article\n3. Subject: subject of news article\n4. Date: publish date of news article",
+  "datasetId": 4831777,
+  "datasetSlug": "fake-and-real-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "clmentbisaillon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 23740,
+  "totalVotes": 68,
+  "totalDownloads": 5030,
+  "title": "fake-and-real-news-dataset",
+  "hasTitle": true,
+  "subtitle": "nlp fake news detection dataset",
+  "hasSubtitle": true,
+  "description": "# **Fake News detection dataset**\n## \nDataset separated in two files:\n1. Fake.csv (23502 fake news article)\n2. True.csv (21417 true news article)\n\nDataset columns:\n1. Title: title of news article\n2. Text: body text of news article\n3. Subject: subject of news article\n4. Date: publish date of news article",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "news",
+    "text classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

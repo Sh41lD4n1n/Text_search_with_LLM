@@ -1,0 +1,41 @@
+{
+  "id": "residentmario/wheres-waldo",
+  "id_no": 3350,
+  "datasetSlugNullable": "wheres-waldo",
+  "ownerUserNullable": "residentmario",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Where's Waldo",
+  "subtitleNullable": "Find Waldo with image recognition",
+  "descriptionNullable": "### Context\n\nWhere's Waldo is a popular children's book series where the reader is presented with a sequence of scenes. Each scene contains potentially hundreds of individuals doing different things. Exactly one of these figures is Waldo: a tall man in a striped red shirt, red beanie, and glasses, and the objective of the game is to find Waldo is the least time possible. This dataset is raw data from the books for these challenges.\n\n### Content\n\nThis dataset contains a number of cuts of Where's Waldo scenes, including scenes. See [the complimentary kernel](https://www.kaggle.com/residentmario/finding-waldo-a-primer) to learn more about the dataset contents!\n\n### Acknowledgements\n\nThis dataset was collected and published as-is by Valentino Constantinou (vc1492a) on GitHub ([here](https://github.com/vc1492a/Hey-Waldo)).\n\n### Inspiration\n\nCan you come up with a strategy better than randomly scanning the page for this task? Can you identify Waldos and not-Waldos?",
+  "datasetId": 3350,
+  "datasetSlug": "wheres-waldo",
+  "hasDatasetSlug": true,
+  "ownerUser": "residentmario",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 33809,
+  "totalVotes": 87,
+  "totalDownloads": 3164,
+  "title": "Where's Waldo",
+  "hasTitle": true,
+  "subtitle": "Find Waldo with image recognition",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWhere's Waldo is a popular children's book series where the reader is presented with a sequence of scenes. Each scene contains potentially hundreds of individuals doing different things. Exactly one of these figures is Waldo: a tall man in a striped red shirt, red beanie, and glasses, and the objective of the game is to find Waldo is the least time possible. This dataset is raw data from the books for these challenges.\n\n### Content\n\nThis dataset contains a number of cuts of Where's Waldo scenes, including scenes. See [the complimentary kernel](https://www.kaggle.com/residentmario/finding-waldo-a-primer) to learn more about the dataset contents!\n\n### Acknowledgements\n\nThis dataset was collected and published as-is by Valentino Constantinou (vc1492a) on GitHub ([here](https://github.com/vc1492a/Hey-Waldo)).\n\n### Inspiration\n\nCan you come up with a strategy better than randomly scanning the page for this task? Can you identify Waldos and not-Waldos?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "art",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

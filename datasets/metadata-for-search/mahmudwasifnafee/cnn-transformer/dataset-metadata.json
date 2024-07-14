@@ -1,0 +1,39 @@
+{
+  "id": "mahmudwasifnafee/cnn-transformer",
+  "id_no": 5275397,
+  "datasetSlugNullable": "cnn-transformer",
+  "ownerUserNullable": "mahmudwasifnafee",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "CNN-Transformer",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5275397,
+  "datasetSlug": "cnn-transformer",
+  "hasDatasetSlug": true,
+  "ownerUser": "mahmudwasifnafee",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 0,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "CNN-Transformer",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

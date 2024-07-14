@@ -1,0 +1,44 @@
+{
+  "id": "danielvareta/damaged-signs-dataset",
+  "id_no": 4143552,
+  "datasetSlugNullable": "damaged-signs-dataset",
+  "ownerUserNullable": "danielvareta",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Damaged Signs Dataset",
+  "subtitleNullable": "Detection dataset of traffic signs in poor conditions (vandalism, rust, etc.)",
+  "descriptionNullable": "This dataset collects images of Portuguese traffic signs in both regular and unfavorable conditions, which include:\n- Discoloration\n- Paint peeling off;\n- Scratches;\n- Being bent;\n- Rust;\n- Graffiti;\n- Stickers;\n- Partial Occlusion;\n- Design flaws;\n- Reflections;\n- Blurring;\n- And other types of deterioration.\n\nThe pictures were collected with the intent of being used for traffic sign detection and classification problems.",
+  "datasetId": 4143552,
+  "datasetSlug": "damaged-signs-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "danielvareta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 317,
+  "totalVotes": 1,
+  "totalDownloads": 32,
+  "title": "Damaged Signs Dataset",
+  "hasTitle": true,
+  "subtitle": "Detection dataset of traffic signs in poor conditions (vandalism, rust, etc.)",
+  "hasSubtitle": true,
+  "description": "This dataset collects images of Portuguese traffic signs in both regular and unfavorable conditions, which include:\n- Discoloration\n- Paint peeling off;\n- Scratches;\n- Being bent;\n- Rust;\n- Graffiti;\n- Stickers;\n- Partial Occlusion;\n- Design flaws;\n- Reflections;\n- Blurring;\n- And other types of deterioration.\n\nThe pictures were collected with the intent of being used for traffic sign detection and classification problems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "europe",
+    "law",
+    "computer vision",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

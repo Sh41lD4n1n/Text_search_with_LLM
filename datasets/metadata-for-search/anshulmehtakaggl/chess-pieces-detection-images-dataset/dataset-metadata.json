@@ -1,0 +1,43 @@
+{
+  "id": "anshulmehtakaggl/chess-pieces-detection-images-dataset",
+  "id_no": 1855453,
+  "datasetSlugNullable": "chess-pieces-detection-images-dataset",
+  "ownerUserNullable": "anshulmehtakaggl",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Chess Pieces Detection Images Dataset",
+  "subtitleNullable": "Image Dataset for Chess Pieces Identification.",
+  "descriptionNullable": "### Context\n\nThis can be a great Computer Vision or Multi-Class Deep Learning Project.\n\n\n### Content\nThe Folder names are self-explanator, they contain the names of the Pieces and the Images are singular images so that the dataset tidy. Multiple object images have been deleted making it an easy dataset to work with.\n\n\n### Inspiration\nI am an amateur chess player and a Chess fan, plus I did not come across any great datasets like this on the Internet and so decided to make this one.",
+  "datasetId": 1855453,
+  "datasetSlug": "chess-pieces-detection-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anshulmehtakaggl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 25591,
+  "totalVotes": 86,
+  "totalDownloads": 2808,
+  "title": "Chess Pieces Detection Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Image Dataset for Chess Pieces Identification.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis can be a great Computer Vision or Multi-Class Deep Learning Project.\n\n\n### Content\nThe Folder names are self-explanator, they contain the names of the Pieces and the Images are singular images so that the dataset tidy. Multiple object images have been deleted making it an easy dataset to work with.\n\n\n### Inspiration\nI am an amateur chess player and a Chess fan, plus I did not come across any great datasets like this on the Internet and so decided to make this one.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "intermediate",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

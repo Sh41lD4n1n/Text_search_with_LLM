@@ -1,0 +1,48 @@
+{
+  "id": "trngvhong/mfvt-dataset",
+  "id_no": 2278284,
+  "datasetSlugNullable": "mfvt-dataset",
+  "ownerUserNullable": "trngvhong",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "MFVT Dataset for Real-time Masked Facial Detection",
+  "subtitleNullable": "A new masked facial dataset with more accurate mask-wearing conventions",
+  "descriptionNullable": "The dataset introduced in the paper [\"MFVT Dataset for Real-time Masked Facial Detection\"](https://drive.google.com/file/d/1ZDmdQHI9KFFFDYbhKxun_44QBhsRDNt5/view)\n\nNowadays, there has been quite a lot of research done on the Masked Facial Detection problem, including the introduction of new datasets and improvements to existing baseline models. However, many of the datasets that have been introduced have some limitations.\n- Some datasets, such as **MAFA**, **Moxa3K**, and **AIZOOTech**, only consider whether a person is wearing a mask or not. The detail that a person is wearing a mask in a proper way as recommended by medical experts has been ignored.\n- For that point, there are also some datasets that take it into account as well, such as **PWMFD** and **FMLD**. However, the way the authors annotate those datasets has some unreasonableness about the material of the mask and the items used alternatively for masks (scarfs, hijabs for example). Furthermore, the bounding boxes of the objects in those datasets are drawn quite carelessly.\n\nTherefore, we introduce the MFVT dataset in order to address those shortcomings of the datasets used for the Masked Facial Detection problem. To build the MFVT dataset, we selected images from previously published datasets and carefully re-annotated the entire dataset with our mask-wearing conventions.\n\nThe MFVT dataset has total of 13507 images. The overall statistics for this dataset are given in the below table:\n<img src=\"https://i.imgur.com/V5c1Ipb.jpeg\">\n\nWe provide the COCO annotation format version of this dataset. For the meaning of class indexes, **0**, **1** and **2** correspond to **OK**, **NONE** and **WRONG**.",
+  "datasetId": 2278284,
+  "datasetSlug": "mfvt-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trngvhong",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2756,
+  "totalVotes": 22,
+  "totalDownloads": 110,
+  "title": "MFVT Dataset for Real-time Masked Facial Detection",
+  "hasTitle": true,
+  "subtitle": "A new masked facial dataset with more accurate mask-wearing conventions",
+  "hasSubtitle": true,
+  "description": "The dataset introduced in the paper [\"MFVT Dataset for Real-time Masked Facial Detection\"](https://drive.google.com/file/d/1ZDmdQHI9KFFFDYbhKxun_44QBhsRDNt5/view)\n\nNowadays, there has been quite a lot of research done on the Masked Facial Detection problem, including the introduction of new datasets and improvements to existing baseline models. However, many of the datasets that have been introduced have some limitations.\n- Some datasets, such as **MAFA**, **Moxa3K**, and **AIZOOTech**, only consider whether a person is wearing a mask or not. The detail that a person is wearing a mask in a proper way as recommended by medical experts has been ignored.\n- For that point, there are also some datasets that take it into account as well, such as **PWMFD** and **FMLD**. However, the way the authors annotate those datasets has some unreasonableness about the material of the mask and the items used alternatively for masks (scarfs, hijabs for example). Furthermore, the bounding boxes of the objects in those datasets are drawn quite carelessly.\n\nTherefore, we introduce the MFVT dataset in order to address those shortcomings of the datasets used for the Masked Facial Detection problem. To build the MFVT dataset, we selected images from previously published datasets and carefully re-annotated the entire dataset with our mask-wearing conventions.\n\nThe MFVT dataset has total of 13507 images. The overall statistics for this dataset are given in the below table:\n<img src=\"https://i.imgur.com/V5c1Ipb.jpeg\">\n\nWe provide the COCO annotation format version of this dataset. For the meaning of class indexes, **0**, **1** and **2** correspond to **OK**, **NONE** and **WRONG**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer vision",
+    "deep learning",
+    "covid19",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "tranhuuthien",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

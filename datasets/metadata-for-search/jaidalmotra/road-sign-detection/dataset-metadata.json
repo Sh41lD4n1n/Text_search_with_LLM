@@ -1,0 +1,44 @@
+{
+  "id": "jaidalmotra/road-sign-detection",
+  "id_no": 3889052,
+  "datasetSlugNullable": "road-sign-detection",
+  "ownerUserNullable": "jaidalmotra",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Road Sign Detection",
+  "subtitleNullable": "One of the datasets for backdoor attacks  detection",
+  "descriptionNullable": "This road sign detection dataset is a comprehensive collection of images specifically curated for the development and evaluation of road sign detection algorithms. The dataset encompasses a diverse range of real-world scenarios, capturing various environmental conditions, lighting situations, and traffic scenarios.\n\nKey Features:\n\nImage Variety: The dataset includes a wide variety of images, each containing one or more road signs. The images are sourced from different locations, ensuring a broad representation of urban, suburban, and rural settings.\n\nAnnotation: All images are meticulously annotated with bounding boxes around individual road signs, providing ground truth information for training and evaluating detection models. The annotations specify the type of road sign, facilitating detailed analysis and model performance assessment.\n\nRoad Sign Types: The dataset covers a comprehensive set of road sign types, including but not limited to regulatory, warning, and informational signs. This diversity enables the development of robust models capable of detecting various sign categories.\n\nChallenges: To enhance the robustness of detection models, the dataset includes challenging scenarios such as occlusions, partial visibility, and varying weather conditions. This ensures that algorithms trained on this dataset can handle real-world complexities.\n\nIntended Use:\n\nThe dataset is intended for researchers, developers, and enthusiasts working on road sign detection and recognition tasks.\nIt serves as a valuable resource for training machine learning models, conducting experiments, and benchmarking the performance of different algorithms in the context of road sign detection.\nUsage Guidelines:\n\nUsers are encouraged to cite the source of the dataset in their research papers, publications, or any other work derived from the dataset.\nThe dataset is made available for non-commercial purposes, and users are expected to adhere to the specified terms and conditions outlined by the dataset provider.\nBy utilizing this dataset, researchers and developers can contribute to advancements in road sign detection technology, ultimately enhancing the safety and efficiency of transportation systems.",
+  "datasetId": 3889052,
+  "datasetSlug": "road-sign-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaidalmotra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1146,
+  "totalVotes": 56,
+  "totalDownloads": 121,
+  "title": "Road Sign Detection",
+  "hasTitle": true,
+  "subtitle": "One of the datasets for backdoor attacks  detection",
+  "hasSubtitle": true,
+  "description": "This road sign detection dataset is a comprehensive collection of images specifically curated for the development and evaluation of road sign detection algorithms. The dataset encompasses a diverse range of real-world scenarios, capturing various environmental conditions, lighting situations, and traffic scenarios.\n\nKey Features:\n\nImage Variety: The dataset includes a wide variety of images, each containing one or more road signs. The images are sourced from different locations, ensuring a broad representation of urban, suburban, and rural settings.\n\nAnnotation: All images are meticulously annotated with bounding boxes around individual road signs, providing ground truth information for training and evaluating detection models. The annotations specify the type of road sign, facilitating detailed analysis and model performance assessment.\n\nRoad Sign Types: The dataset covers a comprehensive set of road sign types, including but not limited to regulatory, warning, and informational signs. This diversity enables the development of robust models capable of detecting various sign categories.\n\nChallenges: To enhance the robustness of detection models, the dataset includes challenging scenarios such as occlusions, partial visibility, and varying weather conditions. This ensures that algorithms trained on this dataset can handle real-world complexities.\n\nIntended Use:\n\nThe dataset is intended for researchers, developers, and enthusiasts working on road sign detection and recognition tasks.\nIt serves as a valuable resource for training machine learning models, conducting experiments, and benchmarking the performance of different algorithms in the context of road sign detection.\nUsage Guidelines:\n\nUsers are encouraged to cite the source of the dataset in their research papers, publications, or any other work derived from the dataset.\nThe dataset is made available for non-commercial purposes, and users are expected to adhere to the specified terms and conditions outlined by the dataset provider.\nBy utilizing this dataset, researchers and developers can contribute to advancements in road sign detection technology, ultimately enhancing the safety and efficiency of transportation systems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "prateek2002154",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

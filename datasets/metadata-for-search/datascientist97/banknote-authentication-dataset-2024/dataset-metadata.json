@@ -1,0 +1,48 @@
+{
+  "id": "datascientist97/banknote-authentication-dataset-2024",
+  "id_no": 4222940,
+  "datasetSlugNullable": "banknote-authentication-dataset-2024",
+  "ownerUserNullable": "datascientist97",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Banknote-authentication-dataset-2024",
+  "subtitleNullable": "Build a Model that detect fake Currency Notes",
+  "descriptionNullable": "Dataset Name: **Banknote Authentication Dataset**\n\n**Description:**\n\nThis dataset contains a collection of features extracted from images of genuine and counterfeit banknotes. It's commonly used to train and evaluate machine learning models for automated banknote authentication, aiming to distinguish real banknotes from forgeries.\n\n**Features:**\n\nEach data point represents a single banknote and includes the following features:\nVariance of Wavelet Transformed image (continuous): Measures image texture variation.\nSkewness of Wavelet Transformed image (continuous): Quantifies image asymmetry.\nCurtosis of Wavelet Transformed image (continuous): Captures image tailedness.\nEntropy of image (continuous): Reflects image randomness or information content.\nClass (categorical): Indicates whether the banknote is genuine (1) or counterfeit (0).\nNumber of Instances:\n\nThe dataset typically contains several hundred banknote images, with approximately equal proportions of genuine and counterfeit examples.\nSource:\n\nThe dataset was originally collected by researchers at the University of Applied Sciences, Ostwestfalen-Lippe, Germany.\nApplications:\n\nDevelop and evaluate machine learning models for banknote authentication.\nCompare the performance of different classification algorithms in this domain.\nExplore feature engineering techniques to improve model accuracy.\nInvestigate the effectiveness of various feature selection methods for identifying the most informative features for authentication.\nAdditional Notes:\n\nThe dataset is often used as a benchmark for classification tasks due to its balanced class distribution and relatively simple feature set.\nIt's essential to consider data preprocessing techniques (e.g., normalization, handling missing values) before model training.\nModel evaluation should involve metrics suitable for imbalanced classes if the distribution of genuine and counterfeit notes is skewed.",
+  "datasetId": 4222940,
+  "datasetSlug": "banknote-authentication-dataset-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "datascientist97",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 485,
+  "totalVotes": 7,
+  "totalDownloads": 86,
+  "title": "Banknote-authentication-dataset-2024",
+  "hasTitle": true,
+  "subtitle": "Build a Model that detect fake Currency Notes",
+  "hasSubtitle": true,
+  "description": "Dataset Name: **Banknote Authentication Dataset**\n\n**Description:**\n\nThis dataset contains a collection of features extracted from images of genuine and counterfeit banknotes. It's commonly used to train and evaluate machine learning models for automated banknote authentication, aiming to distinguish real banknotes from forgeries.\n\n**Features:**\n\nEach data point represents a single banknote and includes the following features:\nVariance of Wavelet Transformed image (continuous): Measures image texture variation.\nSkewness of Wavelet Transformed image (continuous): Quantifies image asymmetry.\nCurtosis of Wavelet Transformed image (continuous): Captures image tailedness.\nEntropy of image (continuous): Reflects image randomness or information content.\nClass (categorical): Indicates whether the banknote is genuine (1) or counterfeit (0).\nNumber of Instances:\n\nThe dataset typically contains several hundred banknote images, with approximately equal proportions of genuine and counterfeit examples.\nSource:\n\nThe dataset was originally collected by researchers at the University of Applied Sciences, Ostwestfalen-Lippe, Germany.\nApplications:\n\nDevelop and evaluate machine learning models for banknote authentication.\nCompare the performance of different classification algorithms in this domain.\nExplore feature engineering techniques to improve model accuracy.\nInvestigate the effectiveness of various feature selection methods for identifying the most informative features for authentication.\nAdditional Notes:\n\nThe dataset is often used as a benchmark for classification tasks due to its balanced class distribution and relatively simple feature set.\nIt's essential to consider data preprocessing techniques (e.g., normalization, handling missing values) before model training.\nModel evaluation should involve metrics suitable for imbalanced classes if the distribution of genuine and counterfeit notes is skewed.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "advanced",
+    "data analytics",
+    "classification",
+    "automl"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ahmedaliraja",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

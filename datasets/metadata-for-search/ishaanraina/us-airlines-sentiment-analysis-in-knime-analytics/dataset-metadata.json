@@ -1,0 +1,39 @@
+{
+  "id": "ishaanraina/us-airlines-sentiment-analysis-in-knime-analytics",
+  "id_no": 3946208,
+  "datasetSlugNullable": "us-airlines-sentiment-analysis-in-knime-analytics",
+  "ownerUserNullable": "ishaanraina",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "US Airlines Sentiment Analysis in Knime Analytics",
+  "subtitleNullable": "Made by a group of students from FORE School of Management",
+  "descriptionNullable": "Project: **Predictive Model for Twitter US Airline Comments Classification**\nThe project was developed by a group of students from FORE School of Management, It was aimed to develop a predictive model for classifying passengers' tweets about different US airlines into three categories: positive, negative, and neutral. The primary objective was to predict a tweet's classification based on its content.\n****The workflow and all the steps in the workflow have been explained in the attached project report with the dataset***",
+  "datasetId": 3946208,
+  "datasetSlug": "us-airlines-sentiment-analysis-in-knime-analytics",
+  "hasDatasetSlug": true,
+  "ownerUser": "ishaanraina",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 145,
+  "totalVotes": 1,
+  "totalDownloads": 28,
+  "title": "US Airlines Sentiment Analysis in Knime Analytics",
+  "hasTitle": true,
+  "subtitle": "Made by a group of students from FORE School of Management",
+  "hasSubtitle": true,
+  "description": "Project: **Predictive Model for Twitter US Airline Comments Classification**\nThe project was developed by a group of students from FORE School of Management, It was aimed to develop a predictive model for classifying passengers' tweets about different US airlines into three categories: positive, negative, and neutral. The primary objective was to predict a tweet's classification based on its content.\n****The workflow and all the steps in the workflow have been explained in the attached project report with the dataset***",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

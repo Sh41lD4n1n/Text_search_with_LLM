@@ -1,0 +1,41 @@
+{
+  "id": "humansintheloop/medical-mask-detection",
+  "id_no": 1242000,
+  "datasetSlugNullable": "medical-mask-detection",
+  "ownerUserNullable": "humansintheloop",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Medical Mask detection",
+  "subtitleNullable": "6000 images of people wearing masks, scarves, face shields and other accessories",
+  "descriptionNullable": "### Context\n\nHumans in the Loop is publishing an open access dataset annotated as a contribution to the worldwide fight against COVID-19. \n\n### Content\n\nThe dataset consists of 6k images acquired from the public domain with an extreme attention to diversity, featuring people of all ethnicities, ages, and regions. In addition, the dataset covers 20 classes of different accessories as well as a classification of faces with a mask, without a mask, or with an incorrectly worn mask (class list is available in meta.json).\n\n### Acknowledgements\n\nThe images were collected and annotated by the refugee workforce of Humans in the Loop in Bulgaria. The platform used for annotation is Supervise.ly.",
+  "datasetId": 1242000,
+  "datasetSlug": "medical-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "humansintheloop",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4716,
+  "totalVotes": 8,
+  "totalDownloads": 368,
+  "title": "Medical Mask detection",
+  "hasTitle": true,
+  "subtitle": "6000 images of people wearing masks, scarves, face shields and other accessories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHumans in the Loop is publishing an open access dataset annotated as a contribution to the worldwide fight against COVID-19. \n\n### Content\n\nThe dataset consists of 6k images acquired from the public domain with an extreme attention to diversity, featuring people of all ethnicities, ages, and regions. In addition, the dataset covers 20 classes of different accessories as well as a classification of faces with a mask, without a mask, or with an incorrectly worn mask (class list is available in meta.json).\n\n### Acknowledgements\n\nThe images were collected and annotated by the refugee workforce of Humans in the Loop in Bulgaria. The platform used for annotation is Supervise.ly.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

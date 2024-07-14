@@ -1,0 +1,39 @@
+{
+  "id": "procomp/red-wine-quality",
+  "id_no": 1815185,
+  "datasetSlugNullable": "red-wine-quality",
+  "ownerUserNullable": "procomp",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "red wine quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1815185,
+  "datasetSlug": "red-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "procomp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 470,
+  "totalVotes": 1,
+  "totalDownloads": 8,
+  "title": "red wine quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

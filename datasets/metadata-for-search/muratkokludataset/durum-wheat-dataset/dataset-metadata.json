@@ -1,0 +1,44 @@
+{
+  "id": "muratkokludataset/durum-wheat-dataset",
+  "id_no": 2048888,
+  "datasetSlugNullable": "durum-wheat-dataset",
+  "ownerUserNullable": "muratkokludataset",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Durum Wheat Dataset",
+  "subtitleNullable": "Durum wheat dataset, morphological, colour, wavelet and gaborlet features",
+  "descriptionNullable": "https://www.muratkoklu.com/datasets/\n\nKAYA Esra (a), SARITAS Ismail (b)\n\n(a) Department of Electrical and Electronics Engineering, Faculty of Technology, Sel\u00e7uk University, Konya, Turkey\n\tesrakaya@selcuk.edu.tr\n(b) Department of Electrical and Electronics Engineering, Faculty of Technology, Sel\u00e7uk University, Konya, Turkey\n\tisaritas@selcuk.edu.tr\n\nCitation Request:\nKaya, E., & Saritas, \u0130. (2019). Towards a real-time sorting system: identification of vitreous durum wheat kernels using ANN based on their morphological, colour, wavelet and gaborlet features. Computers and Electronics in Agriculture, 166, 105016.\n\nLink: https://doi.org/10.1016/j.compag.2019.105016\n\nDATASET:\nHighlights:\n\u2022Vitreousness is a requisite factor for durum wheat to obtain quality food product.\n\u2022Accurate classification of various products on a dynamic setting is preferable with respect to a stable setting.\n\u2022Lighting equipment of a conveyor belt system is especially important for cereal grains to prevent shadow formation.\n\u2022Gaborlet texture features are more prominent to identify vitreous durum wheat kernels.\n\nAbstract: \nWheat is the main ingredient of most common food products in our daily lives and obtaining good quality wheat kernels is an important matter for the production of food supplies. In this study, type-1252 durum wheat kernels which have vast harvest areas in Turkey and is the principal ingredient of pasta and semolina products were examined and classified to obtain top quality wheat kernels based on their vitreousness. Also, top quality provision of food supplies means that the products must be refined from all foreign materials so a classification process has been applied to extract foreign materials from wheat kernels. In this study, we have used a total of 236 morphological, colour, wavelet and gaborlet features to classify vitreous, starchy durum wheat kernels and foreign objects by training several Artificial Neural Networks (ANNs) with different amount of features based on the feature rank list obtained with ANOVA test. The data we have used in this study was video images of wheat kernels and foreign objects present on a conveyor belt camera system with illumination provided by daylight colour powerleds. The maximum classification accuracy was 93.46% obtained with 210 feature neural network function which was generated and applied on the video containing a mixture of wheat kernels and foreign objects.\n\nKeywords: ANN, Durum wheat, Gaborlet, Vitreousness, Wavelet\n\nDATASET Description:\n\n-The first dataset contains the videos of durum wheat kernels; vitreous durum wheat kernels are in the first video, starchy durum wheat kernels are in the second video, foreign matters (impurities) are in the third video and the mixture of all of them is in the fourth video.\n\n-The second dataset contains the video frame pictures of durum wheat kernels; vitreous durum wheat kernel images are in the first folder, starchy durum wheat kernel images are in the second folder, foreign matters (impurities) are in the third folder, the mixture of all of them are in the fourth folder and the fifth folder contains the labeled images of the frame images in the fourth folder.\n\n-The third dataset contains the 236 feature values of vitreous and starchy durum wheat kernels and foreign matters obtained from the first three videos (frame images) where the objects are monotype.\n\nLabeled Frame Images:\n- Green - Vitreous Durum Wheat Kernels\n- Orange - Starchy Durum Wheat Kernels\n- Red - Foreign Matters",
+  "datasetId": 2048888,
+  "datasetSlug": "durum-wheat-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muratkokludataset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 13769,
+  "totalVotes": 1466,
+  "totalDownloads": 848,
+  "title": "Durum Wheat Dataset",
+  "hasTitle": true,
+  "subtitle": "Durum wheat dataset, morphological, colour, wavelet and gaborlet features",
+  "hasSubtitle": true,
+  "description": "https://www.muratkoklu.com/datasets/\n\nKAYA Esra (a), SARITAS Ismail (b)\n\n(a) Department of Electrical and Electronics Engineering, Faculty of Technology, Sel\u00e7uk University, Konya, Turkey\n\tesrakaya@selcuk.edu.tr\n(b) Department of Electrical and Electronics Engineering, Faculty of Technology, Sel\u00e7uk University, Konya, Turkey\n\tisaritas@selcuk.edu.tr\n\nCitation Request:\nKaya, E., & Saritas, \u0130. (2019). Towards a real-time sorting system: identification of vitreous durum wheat kernels using ANN based on their morphological, colour, wavelet and gaborlet features. Computers and Electronics in Agriculture, 166, 105016.\n\nLink: https://doi.org/10.1016/j.compag.2019.105016\n\nDATASET:\nHighlights:\n\u2022Vitreousness is a requisite factor for durum wheat to obtain quality food product.\n\u2022Accurate classification of various products on a dynamic setting is preferable with respect to a stable setting.\n\u2022Lighting equipment of a conveyor belt system is especially important for cereal grains to prevent shadow formation.\n\u2022Gaborlet texture features are more prominent to identify vitreous durum wheat kernels.\n\nAbstract: \nWheat is the main ingredient of most common food products in our daily lives and obtaining good quality wheat kernels is an important matter for the production of food supplies. In this study, type-1252 durum wheat kernels which have vast harvest areas in Turkey and is the principal ingredient of pasta and semolina products were examined and classified to obtain top quality wheat kernels based on their vitreousness. Also, top quality provision of food supplies means that the products must be refined from all foreign materials so a classification process has been applied to extract foreign materials from wheat kernels. In this study, we have used a total of 236 morphological, colour, wavelet and gaborlet features to classify vitreous, starchy durum wheat kernels and foreign objects by training several Artificial Neural Networks (ANNs) with different amount of features based on the feature rank list obtained with ANOVA test. The data we have used in this study was video images of wheat kernels and foreign objects present on a conveyor belt camera system with illumination provided by daylight colour powerleds. The maximum classification accuracy was 93.46% obtained with 210 feature neural network function which was generated and applied on the video containing a mixture of wheat kernels and foreign objects.\n\nKeywords: ANN, Durum wheat, Gaborlet, Vitreousness, Wavelet\n\nDATASET Description:\n\n-The first dataset contains the videos of durum wheat kernels; vitreous durum wheat kernels are in the first video, starchy durum wheat kernels are in the second video, foreign matters (impurities) are in the third video and the mixture of all of them is in the fourth video.\n\n-The second dataset contains the video frame pictures of durum wheat kernels; vitreous durum wheat kernel images are in the first folder, starchy durum wheat kernel images are in the second folder, foreign matters (impurities) are in the third folder, the mixture of all of them are in the fourth folder and the fifth folder contains the labeled images of the frame images in the fourth folder.\n\n-The third dataset contains the 236 feature values of vitreous and starchy durum wheat kernels and foreign matters obtained from the first three videos (frame images) where the objects are monotype.\n\nLabeled Frame Images:\n- Green - Vitreous Durum Wheat Kernels\n- Orange - Starchy Durum Wheat Kernels\n- Red - Foreign Matters",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "earth and nature",
+    "agriculture",
+    "computer science",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

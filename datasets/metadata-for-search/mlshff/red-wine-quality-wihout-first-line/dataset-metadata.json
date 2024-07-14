@@ -1,0 +1,39 @@
+{
+  "id": "mlshff/red-wine-quality-wihout-first-line",
+  "id_no": 8693,
+  "datasetSlugNullable": "red-wine-quality-wihout-first-line",
+  "ownerUserNullable": "mlshff",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Red Wine Quality wihout first line",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 8693,
+  "datasetSlug": "red-wine-quality-wihout-first-line",
+  "hasDatasetSlug": true,
+  "ownerUser": "mlshff",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1612,
+  "totalVotes": 1,
+  "totalDownloads": 43,
+  "title": "Red Wine Quality wihout first line",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

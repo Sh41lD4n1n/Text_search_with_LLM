@@ -1,0 +1,43 @@
+{
+  "id": "mohamedashrafkhalifa/car-plates-numbers",
+  "id_no": 4704008,
+  "datasetSlugNullable": "car-plates-numbers",
+  "ownerUserNullable": "mohamedashrafkhalifa",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "EGYPlate",
+  "subtitleNullable": "EGYPlate: Egyptian Car License Plate Detection Dataset for Object Detection",
+  "descriptionNullable": "This meticulously curated dataset is a comprehensive collection of annotated images featuring Egyptian car license plates, tailored specifically for object detection tasks. With a focus on facilitating advanced computer vision research and development, this dataset is an invaluable resource for training, testing, and benchmarking state-of-the-art algorithms in license plate detection.",
+  "datasetId": 4704008,
+  "datasetSlug": "car-plates-numbers",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedashrafkhalifa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 216,
+  "totalVotes": 6,
+  "totalDownloads": 14,
+  "title": "EGYPlate",
+  "hasTitle": true,
+  "subtitle": "EGYPlate: Egyptian Car License Plate Detection Dataset for Object Detection",
+  "hasSubtitle": true,
+  "description": "This meticulously curated dataset is a comprehensive collection of annotated images featuring Egyptian car license plates, tailored specifically for object detection tasks. With a focus on facilitating advanced computer vision research and development, this dataset is an invaluable resource for training, testing, and benchmarking state-of-the-art algorithms in license plate detection.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "image",
+    "yolo",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

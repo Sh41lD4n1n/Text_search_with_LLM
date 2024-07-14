@@ -1,0 +1,42 @@
+{
+  "id": "behnamhasanbeygi/persian-car-interior-design",
+  "id_no": 2368695,
+  "datasetSlugNullable": "persian-car-interior-design",
+  "ownerUserNullable": "behnamhasanbeygi",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Persian Car Interior Design",
+  "subtitleNullable": "iranian car interior Design ",
+  "descriptionNullable": "total images : 276\npersian car like : samand , pegout206, dena,saina, queek,pride,pegout405\nthey are created  by two major company in iran : irankhodro and saipa\nfor object detection and classification task",
+  "datasetId": 2368695,
+  "datasetSlug": "persian-car-interior-design",
+  "hasDatasetSlug": true,
+  "ownerUser": "behnamhasanbeygi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1129,
+  "totalVotes": 9,
+  "totalDownloads": 70,
+  "title": "Persian Car Interior Design",
+  "hasTitle": true,
+  "subtitle": "iranian car interior Design ",
+  "hasSubtitle": true,
+  "description": "total images : 276\npersian car like : samand , pegout206, dena,saina, queek,pride,pegout405\nthey are created  by two major company in iran : irankhodro and saipa\nfor object detection and classification task",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "manufacturing",
+    "automobiles and vehicles",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

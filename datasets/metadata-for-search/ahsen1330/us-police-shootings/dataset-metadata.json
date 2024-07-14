@@ -1,0 +1,43 @@
+{
+  "id": "ahsen1330/us-police-shootings",
+  "id_no": 806447,
+  "datasetSlugNullable": "us-police-shootings",
+  "ownerUserNullable": "ahsen1330",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "US Police Shootings",
+  "subtitleNullable": "Prepared for Visualization",
+  "descriptionNullable": "### Context\n\nIn the recent killings, a hot topic came into being, \"Racism\".\nSo, I chose to gather some data to take out some insights and analyze the story around racism in America.\nI downloaded the raw data from kaggle and prepared it for visualization while correcting values, handling missing content, normalization and categorization\n\n### Content\n\nIt contains basic data about people like their name, age, gender and race. Along with it, is the shooting/killing information, like date of event, where it happened? how they were shot? did they attack? Were they holding weapons? Did they show any mental illness? Was the policeman wearing a camera/was the incident recorded? Did the suspect flee? Apart from that, a category column holds type of weapon used by the suspect\n\n\n### Acknowledgements\nKagglers\n",
+  "datasetId": 806447,
+  "datasetSlug": "us-police-shootings",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahsen1330",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 113432,
+  "totalVotes": 378,
+  "totalDownloads": 15188,
+  "title": "US Police Shootings",
+  "hasTitle": true,
+  "subtitle": "Prepared for Visualization",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn the recent killings, a hot topic came into being, \"Racism\".\nSo, I chose to gather some data to take out some insights and analyze the story around racism in America.\nI downloaded the raw data from kaggle and prepared it for visualization while correcting values, handling missing content, normalization and categorization\n\n### Content\n\nIt contains basic data about people like their name, age, gender and race. Along with it, is the shooting/killing information, like date of event, where it happened? how they were shot? did they attack? Were they holding weapons? Did they show any mental illness? Was the policeman wearing a camera/was the incident recorded? Did the suspect flee? Apart from that, a category column holds type of weapon used by the suspect\n\n\n### Acknowledgements\nKagglers\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "crime",
+    "education",
+    "time series analysis",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

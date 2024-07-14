@@ -1,0 +1,42 @@
+{
+  "id": "jeyasrisenthil/hand-signs-asl-hand-sign-data",
+  "id_no": 3136120,
+  "datasetSlugNullable": "hand-signs-asl-hand-sign-data",
+  "ownerUserNullable": "jeyasrisenthil",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Hand Signs | ASL Hand Sign Data",
+  "subtitleNullable": "Comprehensive Collection of ASL Hand Signs - Numbers & Alphabets",
+  "descriptionNullable": "The dataset contains a wide range of ASL hand signs, including letters & numbers, captured in various lighting conditions and camera angles. Each hand sign is labeled with its corresponding ASL symbol, making it easy to use for training and testing machine learning algorithms. With its diverse range of hand signs and high-quality image data, the \"Hand Signs | ASL Hand Sign Data\" dataset is a valuable resource for researchers and developers working on applications related to sign language translation, gesture recognition, and human-computer interaction.",
+  "datasetId": 3136120,
+  "datasetSlug": "hand-signs-asl-hand-sign-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jeyasrisenthil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1765,
+  "totalVotes": 11,
+  "totalDownloads": 269,
+  "title": "Hand Signs | ASL Hand Sign Data",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Collection of ASL Hand Signs - Numbers & Alphabets",
+  "hasSubtitle": true,
+  "description": "The dataset contains a wide range of ASL hand signs, including letters & numbers, captured in various lighting conditions and camera angles. Each hand sign is labeled with its corresponding ASL symbol, making it easy to use for training and testing machine learning algorithms. With its diverse range of hand signs and high-quality image data, the \"Hand Signs | ASL Hand Sign Data\" dataset is a valuable resource for researchers and developers working on applications related to sign language translation, gesture recognition, and human-computer interaction.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "united states",
+    "image",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

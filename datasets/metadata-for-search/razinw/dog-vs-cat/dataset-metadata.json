@@ -1,0 +1,44 @@
+{
+  "id": "razinw/dog-vs-cat",
+  "id_no": 948146,
+  "datasetSlugNullable": "dog-vs-cat",
+  "ownerUserNullable": "razinw",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "DOG VS CAT",
+  "subtitleNullable": "BINARY CLASSIFICATION OF DOGS AND CATS (550 IMAGES 512x512)",
+  "descriptionNullable": "### Context\n\nI just want to upload this simple dataset on kaggle.\n\n\n### Content\n\nThe images were downloaded from free photostocks.\n\n\n### Acknowledgements\n\nI will be glad to any of your activity.\n\n\n### Inspiration\n\nThis dataset is good for beginners and not only them.",
+  "datasetId": 948146,
+  "datasetSlug": "dog-vs-cat",
+  "hasDatasetSlug": true,
+  "ownerUser": "razinw",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 6715,
+  "totalVotes": 22,
+  "totalDownloads": 1181,
+  "title": "DOG VS CAT",
+  "hasTitle": true,
+  "subtitle": "BINARY CLASSIFICATION OF DOGS AND CATS (550 IMAGES 512x512)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI just want to upload this simple dataset on kaggle.\n\n\n### Content\n\nThe images were downloaded from free photostocks.\n\n\n### Acknowledgements\n\nI will be glad to any of your activity.\n\n\n### Inspiration\n\nThis dataset is good for beginners and not only them.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "education",
+    "computer science",
+    "image",
+    "binary classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

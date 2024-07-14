@@ -1,0 +1,42 @@
+{
+  "id": "abdallahwagih/books-dataset",
+  "id_no": 4155764,
+  "datasetSlugNullable": "books-dataset",
+  "ownerUserNullable": "abdallahwagih",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Books Dataset",
+  "subtitleNullable": "Books Dataset for Recommendation Systems and Chatbots",
+  "descriptionNullable": "This dataset is a comprehensive collection of information about books, designed for use in recommendation systems and chatbot development. It includes details about a wide range of books, making it suitable for various applications in the fields of machine learning, natural language processing, and artificial intelligence.\n\n**Key Features**\nBook Information: Each entry contains details such as title, author, genre, publication year, and synopsis.\n\n**User Ratings**: User-generated ratings and reviews, allowing for collaborative filtering and personalized recommendations.\n\n**Cover Images**: URLs or file paths to cover images for visual representation.\n\n**Links and References**: Links to external databases, Amazon pages, or other relevant sources for more in-depth information.\n\n**Potential Use Cases**\n**Recommendation Systems**: Utilize the dataset to build and train recommendation models for suggesting books based on user preferences.\n\n**Chatbot Development**: Enhance chatbots with a rich source of book-related information, enabling more engaging and context-aware conversations.\n\n**Natural Language Processing (NLP)**: Use the dataset for text analysis, sentiment analysis, and other NLP tasks related to book reviews and synopses.\n\n**Data Exploration and Analysis**: Explore trends in book preferences, popular genres, and author popularity.",
+  "datasetId": 4155764,
+  "datasetSlug": "books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdallahwagih",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10500,
+  "totalVotes": 64,
+  "totalDownloads": 2301,
+  "title": "Books Dataset",
+  "hasTitle": true,
+  "subtitle": "Books Dataset for Recommendation Systems and Chatbots",
+  "hasSubtitle": true,
+  "description": "This dataset is a comprehensive collection of information about books, designed for use in recommendation systems and chatbot development. It includes details about a wide range of books, making it suitable for various applications in the fields of machine learning, natural language processing, and artificial intelligence.\n\n**Key Features**\nBook Information: Each entry contains details such as title, author, genre, publication year, and synopsis.\n\n**User Ratings**: User-generated ratings and reviews, allowing for collaborative filtering and personalized recommendations.\n\n**Cover Images**: URLs or file paths to cover images for visual representation.\n\n**Links and References**: Links to external databases, Amazon pages, or other relevant sources for more in-depth information.\n\n**Potential Use Cases**\n**Recommendation Systems**: Utilize the dataset to build and train recommendation models for suggesting books based on user preferences.\n\n**Chatbot Development**: Enhance chatbots with a rich source of book-related information, enabling more engaging and context-aware conversations.\n\n**Natural Language Processing (NLP)**: Use the dataset for text analysis, sentiment analysis, and other NLP tasks related to book reviews and synopses.\n\n**Data Exploration and Analysis**: Explore trends in book preferences, popular genres, and author popularity.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "deep learning",
+    "recommender systems",
+    "sentence similarity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

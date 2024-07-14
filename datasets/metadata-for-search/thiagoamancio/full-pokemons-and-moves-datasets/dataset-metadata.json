@@ -1,0 +1,42 @@
+{
+  "id": "thiagoamancio/full-pokemons-and-moves-datasets",
+  "id_no": 3792824,
+  "datasetSlugNullable": "full-pokemons-and-moves-datasets",
+  "ownerUserNullable": "thiagoamancio",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Full Pokemons and Moves Datasets",
+  "subtitleNullable": "A Comprehensive Collection of Pok\u00e9mon and Their Signature Moves.",
+  "descriptionNullable": "This comprehensive dataset combines detailed information about Pok\u00e9mon and their moves into a single resource. It contains data on names, unique identification numbers, base statistics, height, weight, types, and move information, including accuracy, power points, power, priority, type, generation, brief description, and damage class.\n\n**Pok\u00e9mon Dataset Key Columns:**\n\n1. **name**: Pok\u00e9mon name.\n2. **id**: Unique identification number for Pok\u00e9mon.\n3. **hp**: Pok\u00e9mon's Hit Points (HP).\n4. **attack**: Pok\u00e9mon's Attack value.\n5. **defense**: Pok\u00e9mon's Defense value.\n6. **special_attack**: Pok\u00e9mon's Special Attack value.\n7. **special_defense**: Pok\u00e9mon's Special Defense value.\n8. **speed**: Pok\u00e9mon's Speed.\n9. **height**: Pok\u00e9mon's height (in decimeters).\n10. **weight**: Pok\u00e9mon's weight (in grams).\n11. **type_1**: Pok\u00e9mon's primary type.\n12. **type_2**: Pok\u00e9mon's secondary type (if applicable).\n\n**Move Dataset Key Columns:**\n\n1. **name**: Move name.\n2. **id**: Unique identification number for the move.\n3. **accuracy**: Move accuracy (in percentage).\n4. **pp**: Move's Power Points (PP).\n5. **power**: Move's power.\n6. **priority**: Move priority.\n7. **type**: Move type.\n8. **generation**: Generation in which the move was introduced.\n9. **short_description**: Brief description of the move's effect.\n10. **damage_class**: Move's damage class (Physical, Special, or Status).\n\nThis dataset is a valuable tool for Pok\u00e9mon trainers, data researchers, and enthusiasts looking to explore relationships between Pok\u00e9mon and their moves. You can conduct in-depth analyses, identify effective battle strategies, and much more.\n\nRemember to give credit to the original creators of the Pok\u00e9mon and move data, and make the most of the wealth of information available in this combined dataset!",
+  "datasetId": 3792824,
+  "datasetSlug": "full-pokemons-and-moves-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "thiagoamancio",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1376,
+  "totalVotes": 9,
+  "totalDownloads": 228,
+  "title": "Full Pokemons and Moves Datasets",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Collection of Pok\u00e9mon and Their Signature Moves.",
+  "hasSubtitle": true,
+  "description": "This comprehensive dataset combines detailed information about Pok\u00e9mon and their moves into a single resource. It contains data on names, unique identification numbers, base statistics, height, weight, types, and move information, including accuracy, power points, power, priority, type, generation, brief description, and damage class.\n\n**Pok\u00e9mon Dataset Key Columns:**\n\n1. **name**: Pok\u00e9mon name.\n2. **id**: Unique identification number for Pok\u00e9mon.\n3. **hp**: Pok\u00e9mon's Hit Points (HP).\n4. **attack**: Pok\u00e9mon's Attack value.\n5. **defense**: Pok\u00e9mon's Defense value.\n6. **special_attack**: Pok\u00e9mon's Special Attack value.\n7. **special_defense**: Pok\u00e9mon's Special Defense value.\n8. **speed**: Pok\u00e9mon's Speed.\n9. **height**: Pok\u00e9mon's height (in decimeters).\n10. **weight**: Pok\u00e9mon's weight (in grams).\n11. **type_1**: Pok\u00e9mon's primary type.\n12. **type_2**: Pok\u00e9mon's secondary type (if applicable).\n\n**Move Dataset Key Columns:**\n\n1. **name**: Move name.\n2. **id**: Unique identification number for the move.\n3. **accuracy**: Move accuracy (in percentage).\n4. **pp**: Move's Power Points (PP).\n5. **power**: Move's power.\n6. **priority**: Move priority.\n7. **type**: Move type.\n8. **generation**: Generation in which the move was introduced.\n9. **short_description**: Brief description of the move's effect.\n10. **damage_class**: Move's damage class (Physical, Special, or Status).\n\nThis dataset is a valuable tool for Pok\u00e9mon trainers, data researchers, and enthusiasts looking to explore relationships between Pok\u00e9mon and their moves. You can conduct in-depth analyses, identify effective battle strategies, and much more.\n\nRemember to give credit to the original creators of the Pok\u00e9mon and move data, and make the most of the wealth of information available in this combined dataset!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "beginner",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

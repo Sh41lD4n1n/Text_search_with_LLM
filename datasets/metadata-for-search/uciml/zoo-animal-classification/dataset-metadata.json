@@ -1,0 +1,41 @@
+{
+  "id": "/zoo-animal-classification",
+  "id_no": 586,
+  "datasetSlugNullable": "zoo-animal-classification",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Zoo Animal Classification",
+  "subtitleNullable": "Use Machine Learning Methods to Correctly Classify Animals Based Upon Attributes",
+  "descriptionNullable": "This dataset consists of 101 animals from a zoo. \nThere are 16 variables with various traits to describe the animals. \nThe 7 Class Types are: Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate\n\n\n\nThe purpose for this dataset is to be able to predict the classification of the animals, based upon the variables. \nIt is the perfect dataset for those who are new to learning Machine Learning.\n\n\n# zoo.csv\n\nAttribute Information: (name of attribute and type of value domain)\n\n 1. animal_name:      Unique for each instance\n 2. hair\t\tBoolean\n 3. feathers\t\tBoolean\n 4. eggs\t\tBoolean\n 5. milk\t\tBoolean\n 6. airborne\t\tBoolean\n 7. aquatic\t\tBoolean\n 8. predator\t\tBoolean\n 9. toothed\t\tBoolean\n 10. backbone\t\tBoolean\n 11. breathes\t\tBoolean\n 12. venomous\t\tBoolean\n 13. fins\t\tBoolean\n 14.  legs\t\tNumeric (set of values: {0,2,4,5,6,8})\n 15.  tail\t\tBoolean\n 16.  domestic\t\tBoolean\n 17.   catsize\t\tBoolean\n 18.   class_type\t\tNumeric (integer values in range [1,7]) \n\n# class.csv\nThis csv describes the dataset\n\n 1. Class_Number               Numeric (integer values in range [1,7])\n 2. Number_Of_Animal_Species_In_Class     Numeric\n 3. Class_Type                 character -- The actual word description of the class\n 4.  Animal_Names          character -- The list of the animals that fall in the category of the class\n\n# Acknowledgements\n\nUCI Machine Learning: https://archive.ics.uci.edu/ml/datasets/Zoo\n\nSource Information\n   -- Creator: Richard Forsyth\n   -- Donor: Richard S. Forsyth \n             8 Grosvenor Avenue\n             Mapperley Park\n             Nottingham NG3 5DX\n             0602-621676\n   -- Date: 5/15/1990\n\n\n\n# Inspiration\n\nWhat are the best machine learning ensembles/methods for classifying these animals based upon the variables given?",
+  "datasetId": 586,
+  "datasetSlug": "zoo-animal-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 305154,
+  "totalVotes": 423,
+  "totalDownloads": 42143,
+  "title": "Zoo Animal Classification",
+  "hasTitle": true,
+  "subtitle": "Use Machine Learning Methods to Correctly Classify Animals Based Upon Attributes",
+  "hasSubtitle": true,
+  "description": "This dataset consists of 101 animals from a zoo. \nThere are 16 variables with various traits to describe the animals. \nThe 7 Class Types are: Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate\n\n\n\nThe purpose for this dataset is to be able to predict the classification of the animals, based upon the variables. \nIt is the perfect dataset for those who are new to learning Machine Learning.\n\n\n# zoo.csv\n\nAttribute Information: (name of attribute and type of value domain)\n\n 1. animal_name:      Unique for each instance\n 2. hair\t\tBoolean\n 3. feathers\t\tBoolean\n 4. eggs\t\tBoolean\n 5. milk\t\tBoolean\n 6. airborne\t\tBoolean\n 7. aquatic\t\tBoolean\n 8. predator\t\tBoolean\n 9. toothed\t\tBoolean\n 10. backbone\t\tBoolean\n 11. breathes\t\tBoolean\n 12. venomous\t\tBoolean\n 13. fins\t\tBoolean\n 14.  legs\t\tNumeric (set of values: {0,2,4,5,6,8})\n 15.  tail\t\tBoolean\n 16.  domestic\t\tBoolean\n 17.   catsize\t\tBoolean\n 18.   class_type\t\tNumeric (integer values in range [1,7]) \n\n# class.csv\nThis csv describes the dataset\n\n 1. Class_Number               Numeric (integer values in range [1,7])\n 2. Number_Of_Animal_Species_In_Class     Numeric\n 3. Class_Type                 character -- The actual word description of the class\n 4.  Animal_Names          character -- The list of the animals that fall in the category of the class\n\n# Acknowledgements\n\nUCI Machine Learning: https://archive.ics.uci.edu/ml/datasets/Zoo\n\nSource Information\n   -- Creator: Richard Forsyth\n   -- Donor: Richard S. Forsyth \n             8 Grosvenor Avenue\n             Mapperley Park\n             Nottingham NG3 5DX\n             0602-621676\n   -- Date: 5/15/1990\n\n\n\n# Inspiration\n\nWhat are the best machine learning ensembles/methods for classifying these animals based upon the variables given?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

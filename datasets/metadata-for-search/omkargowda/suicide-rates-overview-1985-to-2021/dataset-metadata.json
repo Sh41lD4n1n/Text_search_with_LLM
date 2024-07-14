@@ -1,0 +1,43 @@
+{
+  "id": "omkargowda/suicide-rates-overview-1985-to-2021",
+  "id_no": 2784001,
+  "datasetSlugNullable": "suicide-rates-overview-1985-to-2021",
+  "ownerUserNullable": "omkargowda",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Suicide Rates Overview (1985 to 2021)",
+  "subtitleNullable": "Compares socio-economic info with suicide rates by year and country",
+  "descriptionNullable": "**Content**\nThis dataset is an addition to the [original dataset](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). This compiled dataset was pulled from four other datasets linked by time and place and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.\n\n**References**\nUnited Nations Development Program. (2018). Human development index (HDI). Retrieved from [http://hdr.undp.org/en/indicators/137506](http://hdr.undp.org/en/indicators/137506)\n\nWorld Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from [http://databank.worldbank.org/data/source/world-development-indicators#](http://databank.worldbank.org/data/source/world-development-indicators#)\n\n[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from [https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook](https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook)\n\nWorld Health Organization. (2018). Suicide prevention. Retrieved from [http://www.who.int/mental_health/suicide-prevention/en/](http://www.who.int/mental_health/suicide-prevention/en/)\n\n**Inspiration**\nSuicide Prevention.\n\nIf you're reading this, please upvote.",
+  "datasetId": 2784001,
+  "datasetSlug": "suicide-rates-overview-1985-to-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "omkargowda",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 22064,
+  "totalVotes": 114,
+  "totalDownloads": 4178,
+  "title": "Suicide Rates Overview (1985 to 2021)",
+  "hasTitle": true,
+  "subtitle": "Compares socio-economic info with suicide rates by year and country",
+  "hasSubtitle": true,
+  "description": "**Content**\nThis dataset is an addition to the [original dataset](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). This compiled dataset was pulled from four other datasets linked by time and place and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.\n\n**References**\nUnited Nations Development Program. (2018). Human development index (HDI). Retrieved from [http://hdr.undp.org/en/indicators/137506](http://hdr.undp.org/en/indicators/137506)\n\nWorld Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from [http://databank.worldbank.org/data/source/world-development-indicators#](http://databank.worldbank.org/data/source/world-development-indicators#)\n\n[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from [https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook](https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook)\n\nWorld Health Organization. (2018). Suicide prevention. Retrieved from [http://www.who.int/mental_health/suicide-prevention/en/](http://www.who.int/mental_health/suicide-prevention/en/)\n\n**Inspiration**\nSuicide Prevention.\n\nIf you're reading this, please upvote.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "mental health",
+    "demographics",
+    "economics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

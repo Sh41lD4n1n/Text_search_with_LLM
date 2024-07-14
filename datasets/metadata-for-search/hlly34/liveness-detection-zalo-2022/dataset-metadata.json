@@ -1,0 +1,43 @@
+{
+  "id": "hlly34/liveness-detection-zalo-2022",
+  "id_no": 2808626,
+  "datasetSlugNullable": "liveness-detection-zalo-2022",
+  "ownerUserNullable": "hlly34",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Liveness Detection - Zalo AI Challenge 2022",
+  "subtitleNullable": "Replay-attack Video Anti-Spoofing Dataset",
+  "descriptionNullable": "Problem statement\n\nIn verification services related to face recognition (such as eKYC and face access control), the key question is whether the input face video is real (from a live person present at the point of capture), or fake (from a spoof artifact or lifeless body). Liveness detection is the AI problem to answer that question.\n\nIn this challenge, participants will build a liveness detection model to classify if a given facial video is real or spoofed.\n\n- Input: a video of selfie/portrait face with a length of 1-5 seconds (you can use any frames you like).\n\n- Output: Liveness score in [0...1] (0 = Fake, 1 = Real).\n\nExample:\n\n- Input: VideoID.mp4\n\n- Output: Predict.csv\n\nfname, liveness_score\nVideoID.mp4, 0.10372\n...\t...\n...\t...",
+  "datasetId": 2808626,
+  "datasetSlug": "liveness-detection-zalo-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "hlly34",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 5360,
+  "totalVotes": 7,
+  "totalDownloads": 623,
+  "title": "Liveness Detection - Zalo AI Challenge 2022",
+  "hasTitle": true,
+  "subtitle": "Replay-attack Video Anti-Spoofing Dataset",
+  "hasSubtitle": true,
+  "description": "Problem statement\n\nIn verification services related to face recognition (such as eKYC and face access control), the key question is whether the input face video is real (from a live person present at the point of capture), or fake (from a spoof artifact or lifeless body). Liveness detection is the AI problem to answer that question.\n\nIn this challenge, participants will build a liveness detection model to classify if a given facial video is real or spoofed.\n\n- Input: a video of selfie/portrait face with a length of 1-5 seconds (you can use any frames you like).\n\n- Output: Liveness score in [0...1] (0 = Fake, 1 = Real).\n\nExample:\n\n- Input: VideoID.mp4\n\n- Output: Predict.csv\n\nfname, liveness_score\nVideoID.mp4, 0.10372\n...\t...\n...\t...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "video",
+    "binary classification",
+    "image classification",
+    "video classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

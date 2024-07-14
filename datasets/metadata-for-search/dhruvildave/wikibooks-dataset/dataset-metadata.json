@@ -1,0 +1,46 @@
+{
+  "id": "dhruvildave/wikibooks-dataset",
+  "id_no": 1167113,
+  "datasetSlugNullable": "wikibooks-dataset",
+  "ownerUserNullable": "dhruvildave",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wikibooks Dataset",
+  "subtitleNullable": "Complete text of over 270,000 chapters of Wikibooks in 12 languages",
+  "descriptionNullable": "This is the complete dataset of contents of all the [Wikibooks](https://www.wikibooks.org/) in 12 languages. The content contains books of the following languages: English, French, German, Spanish, Portuguese, Italian and Russian, Japanese, Dutch, Polish, Hungarian, and Hebrew; each in its own directory. Wikibooks are divided into chapters and each chapter has its own webpage. This dataset can be used for tasks like Machine Translation, Text Generation, Text Parsing, and Sematic Understanding of Natural Language. Body contents are provided in both newline delimited textual format as would be visible on the page along with its HTML for better semantic parsing.\n\nRefer to the starter notebook: [Starter: Wikibooks dataset](https://www.kaggle.com/dhruvildave/starter-wikibooks-dataset)\n\nData as of October 22, 2021.\n\nImage Credits: [Unsplash - itfeelslikefilm](https://unsplash.com/photos/sfL_QOnmy00)",
+  "datasetId": 1167113,
+  "datasetSlug": "wikibooks-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhruvildave",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 89109,
+  "totalVotes": 362,
+  "totalDownloads": 6485,
+  "title": "Wikibooks Dataset",
+  "hasTitle": true,
+  "subtitle": "Complete text of over 270,000 chapters of Wikibooks in 12 languages",
+  "hasSubtitle": true,
+  "description": "This is the complete dataset of contents of all the [Wikibooks](https://www.wikibooks.org/) in 12 languages. The content contains books of the following languages: English, French, German, Spanish, Portuguese, Italian and Russian, Japanese, Dutch, Polish, Hungarian, and Hebrew; each in its own directory. Wikibooks are divided into chapters and each chapter has its own webpage. This dataset can be used for tasks like Machine Translation, Text Generation, Text Parsing, and Sematic Understanding of Natural Language. Body contents are provided in both newline delimited textual format as would be visible on the page along with its HTML for better semantic parsing.\n\nRefer to the starter notebook: [Starter: Wikibooks dataset](https://www.kaggle.com/dhruvildave/starter-wikibooks-dataset)\n\nData as of October 22, 2021.\n\nImage Credits: [Unsplash - itfeelslikefilm](https://unsplash.com/photos/sfL_QOnmy00)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "aneridalwadi",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

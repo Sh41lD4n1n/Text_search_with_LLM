@@ -1,0 +1,40 @@
+{
+  "id": "scolianni/mnistasjpg",
+  "id_no": 1272,
+  "datasetSlugNullable": "mnistasjpg",
+  "ownerUserNullable": "scolianni",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "MNIST as .jpg",
+  "subtitleNullable": "Kaggle Digit Recognizer Competition Dataset as .jpg Image Files",
+  "descriptionNullable": "# Context \n\nThe [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition uses the popular MNIST dataset to challenge Kagglers to classify digits correctly.  In this dataset, the images are represented as strings of pixel values in `train.csv` and `test.csv`.  Often, it is beneficial for image data to be in an image format rather than a string format.  Therefore, I have converted the aforementioned datasets from text in .csv files to organized .jpg files.\n\n# Content\n\nThis dataset is composed of four files:\n\n1.  `trainingSet.tar.gz` (10.2 MB) - This file contains ten sub folders labeled 0 to 9.  Each of the sub folders contains .jpg images from the [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition's `train.csv` dataset, corresponding to the folder name (ie. folder 2 contains images of 2's, etc.).  In total, there are 42,000 images in the training set.\n2.  `testSet.tar.gz` (6.8 MB) - This file contains the .jpg images from the [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition's `test.csv` dataset.  In total, there are 28,000 images in the test set.\n3.  `trainingSample.zip` (407 KB) - This file contains ten sub folders labeled 0 to 9.  Each sub folder contains 60 .jpg images from the training set, for a total of 600 images.\n4.  `testSample.zip` (233 KB) - This file contains a 350 image sample from the test set.\n\n# Acknowledgements\n\nAs previously mentioned, all data presented here is simply a cleaned version of the data presented in Kaggle's [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition.  The division of the MNIST dataset into training and test sets exactly mirrors that presented in the competition.\n\n# Inspiration\n\nI created this dataset when exploring TensorFlow's Inception model.  Inception is a massive CNN built by Google to compete in the ImageNet competition.  By way of Transfer Learning, the final layer of Inception can be retrained, rendering the model useful for general classification tasks.  In retraining the model, .jpg images must be used, thereby necessitating to the creation of this dataset.\n\nMy hope in experimenting with Inception was to achieve an accuracy of around 98.5% or higher on the MNIST dataset.  Unfortunately, the maximum accuracy I reached with Inception was only 95.314%.  If you are interested in my code for said attempt, it is available on my GitHub repository [Kaggle MNIST Inception CNN](https://github.com/scoliann/Kaggle-MNIST-Inception-CNN).\n\nTo learn more about retraining Inception, check out [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0).",
+  "datasetId": 1272,
+  "datasetSlug": "mnistasjpg",
+  "hasDatasetSlug": true,
+  "ownerUser": "scolianni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 171956,
+  "totalVotes": 335,
+  "totalDownloads": 44132,
+  "title": "MNIST as .jpg",
+  "hasTitle": true,
+  "subtitle": "Kaggle Digit Recognizer Competition Dataset as .jpg Image Files",
+  "hasSubtitle": true,
+  "description": "# Context \n\nThe [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition uses the popular MNIST dataset to challenge Kagglers to classify digits correctly.  In this dataset, the images are represented as strings of pixel values in `train.csv` and `test.csv`.  Often, it is beneficial for image data to be in an image format rather than a string format.  Therefore, I have converted the aforementioned datasets from text in .csv files to organized .jpg files.\n\n# Content\n\nThis dataset is composed of four files:\n\n1.  `trainingSet.tar.gz` (10.2 MB) - This file contains ten sub folders labeled 0 to 9.  Each of the sub folders contains .jpg images from the [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition's `train.csv` dataset, corresponding to the folder name (ie. folder 2 contains images of 2's, etc.).  In total, there are 42,000 images in the training set.\n2.  `testSet.tar.gz` (6.8 MB) - This file contains the .jpg images from the [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition's `test.csv` dataset.  In total, there are 28,000 images in the test set.\n3.  `trainingSample.zip` (407 KB) - This file contains ten sub folders labeled 0 to 9.  Each sub folder contains 60 .jpg images from the training set, for a total of 600 images.\n4.  `testSample.zip` (233 KB) - This file contains a 350 image sample from the test set.\n\n# Acknowledgements\n\nAs previously mentioned, all data presented here is simply a cleaned version of the data presented in Kaggle's [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition.  The division of the MNIST dataset into training and test sets exactly mirrors that presented in the competition.\n\n# Inspiration\n\nI created this dataset when exploring TensorFlow's Inception model.  Inception is a massive CNN built by Google to compete in the ImageNet competition.  By way of Transfer Learning, the final layer of Inception can be retrained, rendering the model useful for general classification tasks.  In retraining the model, .jpg images must be used, thereby necessitating to the creation of this dataset.\n\nMy hope in experimenting with Inception was to achieve an accuracy of around 98.5% or higher on the MNIST dataset.  Unfortunately, the maximum accuracy I reached with Inception was only 95.314%.  If you are interested in my code for said attempt, it is available on my GitHub repository [Kaggle MNIST Inception CNN](https://github.com/scoliann/Kaggle-MNIST-Inception-CNN).\n\nTo learn more about retraining Inception, check out [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sadikaljarif/new-dataset",
+  "id_no": 5041452,
+  "datasetSlugNullable": "new-dataset",
+  "ownerUserNullable": "sadikaljarif",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Facial Keypoint Detection Dataset",
+  "subtitleNullable": "Accurate Facial Keypoint Detection for Real-World Applications",
+  "descriptionNullable": "# Description:\n```\nThe Facial Keypoint Detection Dataset is a comprehensive collection designed for advancing the capabilities of computer vision systems in identifying key facial landmarks. This dataset comprises a diverse set of facial images paired with corresponding annotations of 15 key facial keypoints, facilitating the training and evaluation of facial keypoint detection models.\n```\n# Features:\n\n* Left Eye Center\n* Right Eye Center\n* Left Eye Inner Corner\n* Left Eye Outer Corner\n* Right Eye Inner Corner\n* Right Eye Outer Corner\n* Left Eyebrow Inner End\n* Left Eyebrow Outer End\n* Right Eyebrow Inner End\n* Right Eyebrow Outer End\n* Nose Tip\n* Mouth Left Corner\n* Mouth Right Corner\n* Mouth Center Top Lip\n* Mouth Center Bottom Lip\n\n# Dataset Content:\n```\nEach instance in the dataset consists of an image along with corresponding (x, y) coordinates representing the locations of the 15 facial keypoints. The images cover a wide range of variability in terms of pose, size, position, viewing angle, and illumination conditions, challenging the robustness of facial keypoint detection algorithms.\n```\n\n# Potential Applications:\n```\nThe Facial Keypoint Detection Dataset holds significant potential for various applications in computer vision, including but not limited to:\n```\n* Facial recognition systems\n* Expression analysis\n* Human-computer interaction\n* Augmented reality\n* Emotion detection\n* Head pose estimation\n\n# Project Objective:\n```\nThe primary objective of this dataset is to facilitate the development and evaluation of accurate and robust facial keypoint detection models. By improving the accuracy of facial keypoint detection, this dataset aims to enhance the performance of facial analysis systems, thereby benefiting a wide range of real-world applications.\n```\n# Conclusion:\n```\nThe Facial Keypoint Detection Dataset offers researchers and practitioners in the field of computer vision a valuable resource for advancing the state-of-the-art in facial keypoint detection. By providing high-quality annotations paired with diverse facial images, this dataset encourages the development of innovative algorithms capable of addressing the challenges associated with facial feature variability. Success in this endeavor has the potential to significantly impact various domains relying on facial analysis, paving the way for more accurate and reliable computer vision systems.\n```",
+  "datasetId": 5041452,
+  "datasetSlug": "new-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadikaljarif",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 384,
+  "totalVotes": 6,
+  "totalDownloads": 48,
+  "title": "Facial Keypoint Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Accurate Facial Keypoint Detection for Real-World Applications",
+  "hasSubtitle": true,
+  "description": "# Description:\n```\nThe Facial Keypoint Detection Dataset is a comprehensive collection designed for advancing the capabilities of computer vision systems in identifying key facial landmarks. This dataset comprises a diverse set of facial images paired with corresponding annotations of 15 key facial keypoints, facilitating the training and evaluation of facial keypoint detection models.\n```\n# Features:\n\n* Left Eye Center\n* Right Eye Center\n* Left Eye Inner Corner\n* Left Eye Outer Corner\n* Right Eye Inner Corner\n* Right Eye Outer Corner\n* Left Eyebrow Inner End\n* Left Eyebrow Outer End\n* Right Eyebrow Inner End\n* Right Eyebrow Outer End\n* Nose Tip\n* Mouth Left Corner\n* Mouth Right Corner\n* Mouth Center Top Lip\n* Mouth Center Bottom Lip\n\n# Dataset Content:\n```\nEach instance in the dataset consists of an image along with corresponding (x, y) coordinates representing the locations of the 15 facial keypoints. The images cover a wide range of variability in terms of pose, size, position, viewing angle, and illumination conditions, challenging the robustness of facial keypoint detection algorithms.\n```\n\n# Potential Applications:\n```\nThe Facial Keypoint Detection Dataset holds significant potential for various applications in computer vision, including but not limited to:\n```\n* Facial recognition systems\n* Expression analysis\n* Human-computer interaction\n* Augmented reality\n* Emotion detection\n* Head pose estimation\n\n# Project Objective:\n```\nThe primary objective of this dataset is to facilitate the development and evaluation of accurate and robust facial keypoint detection models. By improving the accuracy of facial keypoint detection, this dataset aims to enhance the performance of facial analysis systems, thereby benefiting a wide range of real-world applications.\n```\n# Conclusion:\n```\nThe Facial Keypoint Detection Dataset offers researchers and practitioners in the field of computer vision a valuable resource for advancing the state-of-the-art in facial keypoint detection. By providing high-quality annotations paired with diverse facial images, this dataset encourages the development of innovative algorithms capable of addressing the challenges associated with facial feature variability. Success in this endeavor has the potential to significantly impact various domains relying on facial analysis, paving the way for more accurate and reliable computer vision systems.\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "deep learning",
+    "cnn",
+    "image",
+    "resnet v2 50"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

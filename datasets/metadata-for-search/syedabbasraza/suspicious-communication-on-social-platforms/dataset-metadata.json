@@ -1,0 +1,43 @@
+{
+  "id": "syedabbasraza/suspicious-communication-on-social-platforms",
+  "id_no": 1382245,
+  "datasetSlugNullable": "suspicious-communication-on-social-platforms",
+  "ownerUserNullable": "syedabbasraza",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Suspicious Communication on Social Platforms",
+  "subtitleNullable": "Abusive Behavior of peoples on social platforms",
+  "descriptionNullable": "### Context\n\nWe collected this data in the research of hate and abusive behaviors of the people on social platforms.\n\n\n### Content\n\nIn this dataset we have collected data from Twitter and Facebook groups, this dataset is based on suspicious activities like racism, discrimination, abusive language, threatening, which mostly comes in cyberbullying.\n\nThe tagging of the data is based on suspicious words which are being used in the tweets and comments. Suspicious data is tagged with 1 and Non-suspicious data is tagged with 0 manually after scraping the data.\n\nThe dataset contains up to 20 thousand rows of sentiments. Around 12 thousands of the data is tagged with a negative sentiment like (racism, discrimination, abuse) while 8 thousands of the data is tagged positive or neutral sentiment which shows the data is not suspicious.\n\n\n### Acknowledgements\n\nI would like to express my gratitude to my research partner, Mr. Muhammad Zohaib Azad for his invaluable advice, guidance and his enormous patience throughout the development of the research.\n\n\n### Inspiration\n\nA system to help people identify and investigate suspicious communications can be developed if we analyze text messages. The system will detect suspect communication on social networks in chats, posts or user tweets, identifying suspicious words.",
+  "datasetId": 1382245,
+  "datasetSlug": "suspicious-communication-on-social-platforms",
+  "hasDatasetSlug": true,
+  "ownerUser": "syedabbasraza",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 5315,
+  "totalVotes": 9,
+  "totalDownloads": 751,
+  "title": "Suspicious Communication on Social Platforms",
+  "hasTitle": true,
+  "subtitle": "Abusive Behavior of peoples on social platforms",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe collected this data in the research of hate and abusive behaviors of the people on social platforms.\n\n\n### Content\n\nIn this dataset we have collected data from Twitter and Facebook groups, this dataset is based on suspicious activities like racism, discrimination, abusive language, threatening, which mostly comes in cyberbullying.\n\nThe tagging of the data is based on suspicious words which are being used in the tweets and comments. Suspicious data is tagged with 1 and Non-suspicious data is tagged with 0 manually after scraping the data.\n\nThe dataset contains up to 20 thousand rows of sentiments. Around 12 thousands of the data is tagged with a negative sentiment like (racism, discrimination, abuse) while 8 thousands of the data is tagged positive or neutral sentiment which shows the data is not suspicious.\n\n\n### Acknowledgements\n\nI would like to express my gratitude to my research partner, Mr. Muhammad Zohaib Azad for his invaluable advice, guidance and his enormous patience throughout the development of the research.\n\n\n### Inspiration\n\nA system to help people identify and investigate suspicious communications can be developed if we analyze text messages. The system will detect suspect communication on social networks in chats, posts or user tweets, identifying suspicious words.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "classification",
+    "text",
+    "binary classification",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

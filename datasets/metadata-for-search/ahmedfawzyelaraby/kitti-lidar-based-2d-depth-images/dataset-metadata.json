@@ -1,0 +1,42 @@
+{
+  "id": "ahmedfawzyelaraby/kitti-lidar-based-2d-depth-images",
+  "id_no": 752974,
+  "datasetSlugNullable": "kitti-lidar-based-2d-depth-images",
+  "ownerUserNullable": "ahmedfawzyelaraby",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "KITTI LiDAR Based 2D Depth Images",
+  "subtitleNullable": "2D Depth Images Converted and Representing the LiDAR Frames in KITTI Dataset",
+  "descriptionNullable": "# Introduction\nLight Detection And Ranging ([LiDAR](https://en.wikipedia.org/wiki/Lidar)) is a sensor that is used to measure distances between the sensor and the surroundings. It depends on sending multiple laser beams and sense them back after being reflected to calculate the distance between the sensor and the objected they were reflected on. Since the rise of the research in the field of self-driving cars, LiDAR has been widely used and was even developed to be with lower cost than before.\n\n[KITTI](http://www.cvlibs.net/datasets/kitti/) dataset is one of the most famous datasets targeting the field of self-driving cars. It contains recorded data from camera, LiDAR and other sensors mounted on top of a car that moves in many streets with many different scenes and scenarios.\n\nThis dataset contains the LiDAR frames of KITTI dataset converted to 2D depth images and it was converted using this [code](https://github.com/ahmedfawzyelaraby/lidar-to-depth-image-converter). These 2D depth images represents the same scene of the corresponding LiDAR frame but in an easier to process format.\n\n# Content\nThis dataset contains 2D depth images, like the one represented below. The 360 LiDAR frames like those in KITTI dataset are in a cylindrical format around the sensor itself. The 2D depth images in this dataset could be represented as if you have made a cut in the cylinder of the LiDAR frame and straightened it to be in a 2D plane. The pixels of these 2D depth images represent the distance of the reflecting object from the LiDAR sensor. The vertical resolution of the 2D depth image (64 in our case) represents the number of laser beams of the LiDAR sensor used to scan the surroundings. These 2D depth images could be used for segmentation, detection, recognition and etc. tasks and could make use of the huge literature of computer vision on 2D images. \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3283916%2F71fcde75b3e94ab78896aa75d7efea09%2F0000000077.png?generation=1595578603898080&alt=media)",
+  "datasetId": 752974,
+  "datasetSlug": "kitti-lidar-based-2d-depth-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedfawzyelaraby",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 11936,
+  "totalVotes": 18,
+  "totalDownloads": 472,
+  "title": "KITTI LiDAR Based 2D Depth Images",
+  "hasTitle": true,
+  "subtitle": "2D Depth Images Converted and Representing the LiDAR Frames in KITTI Dataset",
+  "hasSubtitle": true,
+  "description": "# Introduction\nLight Detection And Ranging ([LiDAR](https://en.wikipedia.org/wiki/Lidar)) is a sensor that is used to measure distances between the sensor and the surroundings. It depends on sending multiple laser beams and sense them back after being reflected to calculate the distance between the sensor and the objected they were reflected on. Since the rise of the research in the field of self-driving cars, LiDAR has been widely used and was even developed to be with lower cost than before.\n\n[KITTI](http://www.cvlibs.net/datasets/kitti/) dataset is one of the most famous datasets targeting the field of self-driving cars. It contains recorded data from camera, LiDAR and other sensors mounted on top of a car that moves in many streets with many different scenes and scenarios.\n\nThis dataset contains the LiDAR frames of KITTI dataset converted to 2D depth images and it was converted using this [code](https://github.com/ahmedfawzyelaraby/lidar-to-depth-image-converter). These 2D depth images represents the same scene of the corresponding LiDAR frame but in an easier to process format.\n\n# Content\nThis dataset contains 2D depth images, like the one represented below. The 360 LiDAR frames like those in KITTI dataset are in a cylindrical format around the sensor itself. The 2D depth images in this dataset could be represented as if you have made a cut in the cylinder of the LiDAR frame and straightened it to be in a 2D plane. The pixels of these 2D depth images represent the distance of the reflecting object from the LiDAR sensor. The vertical resolution of the 2D depth image (64 in our case) represents the number of laser beams of the LiDAR sensor used to scan the surroundings. These 2D depth images could be used for segmentation, detection, recognition and etc. tasks and could make use of the huge literature of computer vision on 2D images. \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3283916%2F71fcde75b3e94ab78896aa75d7efea09%2F0000000077.png?generation=1595578603898080&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "automobiles and vehicles",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

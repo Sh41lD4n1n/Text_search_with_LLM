@@ -1,0 +1,43 @@
+{
+  "id": "akashguna/fish-detection-dataset",
+  "id_no": 2335813,
+  "datasetSlugNullable": "fish-detection-dataset",
+  "ownerUserNullable": "akashguna",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fish Detection Dataset",
+  "subtitleNullable": "Object Detection Dataset containing Fishes. ",
+  "descriptionNullable": "This Dataset Contains 4 Fish Species and thier annoted .xml files. This could be used for object detection.\nThe Species are : \n- Catla\n- Silver\n- Gulfaam\n- Grass\nThe Dataset was annoted based on the classes\n\nThe Images Annotated here are from the following dataset : [Dataset Source](https://www.researchgate.net/publication/336268961_Fish-Pak_Fish_Species_Dataset_from_Pakistan_for_Visual_Features_Based_Classification)",
+  "datasetId": 2335813,
+  "datasetSlug": "fish-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashguna",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 13162,
+  "totalVotes": 39,
+  "totalDownloads": 985,
+  "title": "Fish Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Object Detection Dataset containing Fishes. ",
+  "hasSubtitle": true,
+  "description": "This Dataset Contains 4 Fish Species and thier annoted .xml files. This could be used for object detection.\nThe Species are : \n- Catla\n- Silver\n- Gulfaam\n- Grass\nThe Dataset was annoted based on the classes\n\nThe Images Annotated here are from the following dataset : [Dataset Source](https://www.researchgate.net/publication/336268961_Fish-Pak_Fish_Species_Dataset_from_Pakistan_for_Visual_Features_Based_Classification)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "animals",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "andrewmvd/sheep-detection",
+  "id_no": 687125,
+  "datasetSlugNullable": "sheep-detection",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Sheep Detection",
+  "subtitleNullable": "203 images of sheeps with bounding box annotations.",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2F8adcd9d2a2fee9165981e41b94a7d5fe%2Fsheeps.png?generation=1591505350786838&alt=media)\n\n\n# About this Dataset\n&gt; This dataset contains **203** images of **1 class: sheeps** for the objective of **sheep detection!**.\nBounding box annotations are provided in the PASCAL VOC format\n\n# How to use this dataset\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# How to Cite this Dataset\nIf you use this dataset in your research, please credit the authors\n\n&gt; ### BibTeX\n@misc{make ml,\n title={Sheeps Dataset},\n url={https://makeml.app/datasets/sheep},\n journal={Make ML}}\n\n&gt; ### License\nPublic Domain\n\n&gt; ### Splash Banner\nPhoto by [Luke Stackpoole](https://unsplash.com/@withluke) on [Unsplash](https://unsplash.com/photos/sfB_Nw9sggw).",
+  "datasetId": 687125,
+  "datasetSlug": "sheep-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10603,
+  "totalVotes": 12,
+  "totalDownloads": 992,
+  "title": "Sheep Detection",
+  "hasTitle": true,
+  "subtitle": "203 images of sheeps with bounding box annotations.",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2F8adcd9d2a2fee9165981e41b94a7d5fe%2Fsheeps.png?generation=1591505350786838&alt=media)\n\n\n# About this Dataset\n&gt; This dataset contains **203** images of **1 class: sheeps** for the objective of **sheep detection!**.\nBounding box annotations are provided in the PASCAL VOC format\n\n# How to use this dataset\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# How to Cite this Dataset\nIf you use this dataset in your research, please credit the authors\n\n&gt; ### BibTeX\n@misc{make ml,\n title={Sheeps Dataset},\n url={https://makeml.app/datasets/sheep},\n journal={Make ML}}\n\n&gt; ### License\nPublic Domain\n\n&gt; ### Splash Banner\nPhoto by [Luke Stackpoole](https://unsplash.com/@withluke) on [Unsplash](https://unsplash.com/photos/sfB_Nw9sggw).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

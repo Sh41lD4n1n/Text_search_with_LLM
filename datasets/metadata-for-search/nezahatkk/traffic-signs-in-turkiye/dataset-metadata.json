@@ -1,0 +1,39 @@
+{
+  "id": "nezahatkk/traffic-signs-in-turkiye",
+  "id_no": 4382546,
+  "datasetSlugNullable": "traffic-signs-in-turkiye",
+  "ownerUserNullable": "nezahatkk",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "TRAFFIC SIGNS IN TURKIYE",
+  "subtitleNullable": "Turkiyedeki trafik isaretleri icin cok genis skaynaklar\u0131n harmanlandigi veriseti",
+  "descriptionNullable": "Dataset Description\nThis dataset contains information about traffic signs and road markings classified into 24 different categories. The dataset shows the names and number of signs (\"nc\" column) in each category.\n\nColumns:\n\nnc: Number of signs in each category.\nnames: Names of the signs in each category.\n\nCategories:\n 20: Speed limit 20 km/h\n 30: Speed limit 30 km/h\n dur: Stop sign\n durak: Bus stop\n girisyok: No entry\n ilerisag: Go straight\n ilerisol: No left turn\n kirmizi: Red light\n park: Parking lot\n parkyasak: No parking\n sag: Right turn\n sagadonulmez: No right turn\n sari: Yellow light\n sol: Left turn\n soladonulmez: No left turn\n yesil: Green light\n parkyasak2: No parking zone\n arac: Vehicle\n yaya: Pedestrian\n otobus: Bus\n bisikletli: Cyclist\n yap\u0131lar: Buildings\n yayagecidi: Crosswalk\n tasitrafiginekapali: Closed to vehicle traffic\n\nApplications of the dataset:\n   To learn about traffic signs and road markings\n   To develop visual recognition systems for traffic signs and road markings\n   To perform data analysis on traffic signs and road markings",
+  "datasetId": 4382546,
+  "datasetSlug": "traffic-signs-in-turkiye",
+  "hasDatasetSlug": true,
+  "ownerUser": "nezahatkk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 365,
+  "totalVotes": 17,
+  "totalDownloads": 63,
+  "title": "TRAFFIC SIGNS IN TURKIYE",
+  "hasTitle": true,
+  "subtitle": "Turkiyedeki trafik isaretleri icin cok genis skaynaklar\u0131n harmanlandigi veriseti",
+  "hasSubtitle": true,
+  "description": "Dataset Description\nThis dataset contains information about traffic signs and road markings classified into 24 different categories. The dataset shows the names and number of signs (\"nc\" column) in each category.\n\nColumns:\n\nnc: Number of signs in each category.\nnames: Names of the signs in each category.\n\nCategories:\n 20: Speed limit 20 km/h\n 30: Speed limit 30 km/h\n dur: Stop sign\n durak: Bus stop\n girisyok: No entry\n ilerisag: Go straight\n ilerisol: No left turn\n kirmizi: Red light\n park: Parking lot\n parkyasak: No parking\n sag: Right turn\n sagadonulmez: No right turn\n sari: Yellow light\n sol: Left turn\n soladonulmez: No left turn\n yesil: Green light\n parkyasak2: No parking zone\n arac: Vehicle\n yaya: Pedestrian\n otobus: Bus\n bisikletli: Cyclist\n yap\u0131lar: Buildings\n yayagecidi: Crosswalk\n tasitrafiginekapali: Closed to vehicle traffic\n\nApplications of the dataset:\n   To learn about traffic signs and road markings\n   To develop visual recognition systems for traffic signs and road markings\n   To perform data analysis on traffic signs and road markings",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lovishbansal123/ai-face-recognition",
+  "id_no": 4450691,
+  "datasetSlugNullable": "ai-face-recognition",
+  "ownerUserNullable": "lovishbansal123",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "AI Face Recognition",
+  "subtitleNullable": "Faces in the Data: A Dataset for AI Face Recognition",
+  "descriptionNullable": "Unlock the potential of AI-driven face recognition systems with this comprehensive dataset designed to fuel innovation and advancements in facial recognition technology. Featuring a diverse collection of facial images meticulously curated from various sources, including public databases, social media platforms, and research datasets, this dataset offers a rich repository for training and testing face recognition algorithms. Each image is labeled with metadata, including gender, age, ethnicity, and pose, facilitating detailed analysis and benchmarking of facial recognition models. Researchers, developers, and enthusiasts alike can explore this dataset to develop robust algorithms, evaluate performance metrics, and address ethical considerations in facial recognition technology. Whether you're working on improving accuracy, enhancing privacy measures, or exploring novel applications, this dataset provides a solid foundation for pushing the boundaries of AI-powered face recognition systems. Unlock the potential of facial data and embark on a journey towards more secure, inclusive, and ethically-driven facial recognition solutions.",
+  "datasetId": 4450691,
+  "datasetSlug": "ai-face-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "lovishbansal123",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 714,
+  "totalVotes": 31,
+  "totalDownloads": 96,
+  "title": "AI Face Recognition",
+  "hasTitle": true,
+  "subtitle": "Faces in the Data: A Dataset for AI Face Recognition",
+  "hasSubtitle": true,
+  "description": "Unlock the potential of AI-driven face recognition systems with this comprehensive dataset designed to fuel innovation and advancements in facial recognition technology. Featuring a diverse collection of facial images meticulously curated from various sources, including public databases, social media platforms, and research datasets, this dataset offers a rich repository for training and testing face recognition algorithms. Each image is labeled with metadata, including gender, age, ethnicity, and pose, facilitating detailed analysis and benchmarking of facial recognition models. Researchers, developers, and enthusiasts alike can explore this dataset to develop robust algorithms, evaluate performance metrics, and address ethical considerations in facial recognition technology. Whether you're working on improving accuracy, enhancing privacy measures, or exploring novel applications, this dataset provides a solid foundation for pushing the boundaries of AI-powered face recognition systems. Unlock the potential of facial data and embark on a journey towards more secure, inclusive, and ethically-driven facial recognition solutions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "snehaanbhawal/anime-list-for-recommendation-system-june-2021",
+  "id_no": 1403569,
+  "datasetSlugNullable": "anime-list-for-recommendation-system-june-2021",
+  "ownerUserNullable": "snehaanbhawal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime List for Recommendation System (June 2021)",
+  "subtitleNullable": "List of 18,000 anime for content based recommendation. Updated each season.",
+  "descriptionNullable": "### Context\n\nDataset contains the list and metadata of all published anime (released/unreleased) currently about 18,000 on the MyAnimeList site.\n\n\n### Content\n\nanime_list.csv\n\n- mal_id            : Unique anime identifier.\n- title                : Title of the anime.\n- synopsis        :  Synopsis of the anime, 1139 null values were found...initialized to \"-\".\n- background   : Could not scrape this field successfully and thus is totally empty..will be fixed in next update.\n- aired               : Range of time anime was airing. example format: \"Sep 30, 2004 to Sep 29, 2005\".\n- airing               : If it is currently airing or not. 0 if anime has ended 1 if it is ongoing\n- duration          : Duration of each episode.\n- episodes         : Number of episodes in the given anime. 485 null values found, initialized to -1.\n- type                 : Type of anime ['TV', 'Movie', 'OVA', 'Special', 'ONA', 'Music', 'Unknown']\n- favorites          : Number of people who favorited this anime.\n- members         : Number of members.\n- rank                 : Ranking as per June '21. 1760 Null values found, initialized to -1.\n- popularity        : Popularity Rankings as per June '21.\n- score               : Average score given by the users.    5296 Null values found.\n- scored_by       : Number of people to score the anime. 5296 Null values found.\n- rating               : Rating given to the anime.['PG - Children', 'PG-13 - Teens 13 or older', 'G - All Ages', 'R+ - Mild Nudity', 'R - 17+','Rx - Hentai']\n- premiered        : Year and season of premiere. 13296 Null values found.\n- genres              : Genre the anime belongs to.\n- related              : Related anime.(String format, will be converted to dictionaries in next update)\n- status               : Status of anime if airing currently or not.\n- licensors          : Names of Licensor. (String format separated by \",\")\n- producers        : Names of Producer. (String format separated by \",)\n- studios             : Names of studio.   (String format separated by \",\")\n\n\n### Acknowledgements\n\nThis is collected from MyAnimeList.com\nAnime ID collected by web scrapping through the anime ranking pages to get mal_id followed by single page search for each collected ID.\n\n\n### Fixes on Next update (Summer 2021):\n\n-The issue of \"background\" will be fixed.\n-\"related\" will be in dictionary format for easy processing.\n-Will upload separate filtered_anime_list.csv without NSFW hentai listings for people who needs a SFW list.\n\n\n### Ending Notes\n\nThis dataset was made as to store list of all anime and its metadata published on the site. If requested, Reviews and Score per user can be added to the dataset for collaborative filtering approach.\nThis was my first web scraping experience for recommendation project I am working on, please upvote if this was of help, Thank You.",
+  "datasetId": 1403569,
+  "datasetSlug": "anime-list-for-recommendation-system-june-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "snehaanbhawal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5293,
+  "totalVotes": 15,
+  "totalDownloads": 490,
+  "title": "Anime List for Recommendation System (June 2021)",
+  "hasTitle": true,
+  "subtitle": "List of 18,000 anime for content based recommendation. Updated each season.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset contains the list and metadata of all published anime (released/unreleased) currently about 18,000 on the MyAnimeList site.\n\n\n### Content\n\nanime_list.csv\n\n- mal_id            : Unique anime identifier.\n- title                : Title of the anime.\n- synopsis        :  Synopsis of the anime, 1139 null values were found...initialized to \"-\".\n- background   : Could not scrape this field successfully and thus is totally empty..will be fixed in next update.\n- aired               : Range of time anime was airing. example format: \"Sep 30, 2004 to Sep 29, 2005\".\n- airing               : If it is currently airing or not. 0 if anime has ended 1 if it is ongoing\n- duration          : Duration of each episode.\n- episodes         : Number of episodes in the given anime. 485 null values found, initialized to -1.\n- type                 : Type of anime ['TV', 'Movie', 'OVA', 'Special', 'ONA', 'Music', 'Unknown']\n- favorites          : Number of people who favorited this anime.\n- members         : Number of members.\n- rank                 : Ranking as per June '21. 1760 Null values found, initialized to -1.\n- popularity        : Popularity Rankings as per June '21.\n- score               : Average score given by the users.    5296 Null values found.\n- scored_by       : Number of people to score the anime. 5296 Null values found.\n- rating               : Rating given to the anime.['PG - Children', 'PG-13 - Teens 13 or older', 'G - All Ages', 'R+ - Mild Nudity', 'R - 17+','Rx - Hentai']\n- premiered        : Year and season of premiere. 13296 Null values found.\n- genres              : Genre the anime belongs to.\n- related              : Related anime.(String format, will be converted to dictionaries in next update)\n- status               : Status of anime if airing currently or not.\n- licensors          : Names of Licensor. (String format separated by \",\")\n- producers        : Names of Producer. (String format separated by \",)\n- studios             : Names of studio.   (String format separated by \",\")\n\n\n### Acknowledgements\n\nThis is collected from MyAnimeList.com\nAnime ID collected by web scrapping through the anime ranking pages to get mal_id followed by single page search for each collected ID.\n\n\n### Fixes on Next update (Summer 2021):\n\n-The issue of \"background\" will be fixed.\n-\"related\" will be in dictionary format for easy processing.\n-Will upload separate filtered_anime_list.csv without NSFW hentai listings for people who needs a SFW list.\n\n\n### Ending Notes\n\nThis dataset was made as to store list of all anime and its metadata published on the site. If requested, Reviews and Score per user can be added to the dataset for collaborative filtering approach.\nThis was my first web scraping experience for recommendation project I am working on, please upvote if this was of help, Thank You.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "recommender systems",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

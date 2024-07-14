@@ -1,0 +1,42 @@
+{
+  "id": "nanditapore/credit-risk-analysis",
+  "id_no": 3674197,
+  "datasetSlugNullable": "credit-risk-analysis",
+  "ownerUserNullable": "nanditapore",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Credit_Risk_Analysis",
+  "subtitleNullable": " Predicting Loan Default with Simplified Features",
+  "descriptionNullable": "\n\n**Description**:\nWelcome to the \"Loan Applicant Data for Credit Risk Analysis\" dataset on Kaggle! This dataset provides essential information about loan applicants and their characteristics. Your task is to develop predictive models to determine the likelihood of loan default based on these simplified features.\n\nIn today's financial landscape, assessing credit risk is crucial for lenders and financial institutions. This dataset offers a simplified view of the factors that contribute to credit risk, making it an excellent opportunity for data scientists to apply their skills in machine learning and predictive modeling.\n\n**Column Descriptions**:\n\n- **ID**: Unique identifier for each loan applicant.\n- **Age**: Age of the loan applicant.\n- **Income**: Income of the loan applicant.\n- **Home**: Home ownership status (Own, Mortgage, Rent).\n- **Emp_Length**: Employment length in years.\n- **Intent**: Purpose of the loan (e.g., education, home improvement).\n- **Amount**: Loan amount applied for.\n- **Rate**: Interest rate on the loan.\n- **Status**: Loan approval status (Fully Paid, Charged Off, Current).\n- **Percent_Income**: Loan amount as a percentage of income.\n- **Default**: Whether the applicant has defaulted on a loan previously (Yes, No).\n- **Cred_Length**: Length of the applicant's credit history.\n\nExplore this dataset, preprocess the data as needed, and develop machine learning models, especially using Random Forest, to predict loan default. Your insights and solutions could contribute to better credit risk assessment methods and potentially help lenders make more informed decisions.\n\nRemember to respect data privacy and ethics guidelines while working with this data. Good luck, and happy analyzing!\n\n",
+  "datasetId": 3674197,
+  "datasetSlug": "credit-risk-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "nanditapore",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 11668,
+  "totalVotes": 27,
+  "totalDownloads": 2212,
+  "title": "Credit_Risk_Analysis",
+  "hasTitle": true,
+  "subtitle": " Predicting Loan Default with Simplified Features",
+  "hasSubtitle": true,
+  "description": "\n\n**Description**:\nWelcome to the \"Loan Applicant Data for Credit Risk Analysis\" dataset on Kaggle! This dataset provides essential information about loan applicants and their characteristics. Your task is to develop predictive models to determine the likelihood of loan default based on these simplified features.\n\nIn today's financial landscape, assessing credit risk is crucial for lenders and financial institutions. This dataset offers a simplified view of the factors that contribute to credit risk, making it an excellent opportunity for data scientists to apply their skills in machine learning and predictive modeling.\n\n**Column Descriptions**:\n\n- **ID**: Unique identifier for each loan applicant.\n- **Age**: Age of the loan applicant.\n- **Income**: Income of the loan applicant.\n- **Home**: Home ownership status (Own, Mortgage, Rent).\n- **Emp_Length**: Employment length in years.\n- **Intent**: Purpose of the loan (e.g., education, home improvement).\n- **Amount**: Loan amount applied for.\n- **Rate**: Interest rate on the loan.\n- **Status**: Loan approval status (Fully Paid, Charged Off, Current).\n- **Percent_Income**: Loan amount as a percentage of income.\n- **Default**: Whether the applicant has defaulted on a loan previously (Yes, No).\n- **Cred_Length**: Length of the applicant's credit history.\n\nExplore this dataset, preprocess the data as needed, and develop machine learning models, especially using Random Forest, to predict loan default. Your insights and solutions could contribute to better credit risk assessment methods and potentially help lenders make more informed decisions.\n\nRemember to respect data privacy and ethics guidelines while working with this data. Good luck, and happy analyzing!\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "random forest",
+    "decision tree",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

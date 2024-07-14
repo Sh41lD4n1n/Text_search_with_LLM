@@ -1,0 +1,47 @@
+{
+  "id": "albertnathaniel12/indonesian-spices-dataset",
+  "id_no": 5090807,
+  "datasetSlugNullable": "indonesian-spices-dataset",
+  "ownerUserNullable": "albertnathaniel12",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Indonesian Spices Dataset",
+  "subtitleNullable": "A dataset consisting of classifications of Indonesian spice images",
+  "descriptionNullable": "This dataset consists of 31 folders, each containing image files of different spices commonly used in Indonesian cuisine. Each folder is dedicated to a specific type of spice, ensuring a well-organized structure for easy access and analysis. The spices included range from common ones like garlic and shallots to more unique ingredients such as kaffir lime leaves and basil leaves. This dataset is ideal for projects related to image classification, culinary applications, and educational purposes.",
+  "datasetId": 5090807,
+  "datasetSlug": "indonesian-spices-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "albertnathaniel12",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3003,
+  "totalVotes": 19,
+  "totalDownloads": 381,
+  "title": "Indonesian Spices Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset consisting of classifications of Indonesian spice images",
+  "hasSubtitle": true,
+  "description": "This dataset consists of 31 folders, each containing image files of different spices commonly used in Indonesian cuisine. Each folder is dedicated to a specific type of spice, ensuring a well-organized structure for easy access and analysis. The spices included range from common ones like garlic and shallots to more unique ingredients such as kaffir lime leaves and basil leaves. This dataset is ideal for projects related to image classification, culinary applications, and educational purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "image",
+    "food",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "alwinr",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

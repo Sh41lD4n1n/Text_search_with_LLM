@@ -1,0 +1,43 @@
+{
+  "id": "diegosilvadefrana/depression-dataset",
+  "id_no": 3517453,
+  "datasetSlugNullable": "depression-dataset",
+  "ownerUserNullable": "diegosilvadefrana",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Depression Dataset",
+  "subtitleNullable": "Reddit Users Reports About Depression.",
+  "descriptionNullable": "# Depression User Reports Dataset\n## Dataset Overview\nThis dataset contains user reports about depression collected from various Reddit forums focused on depression-related topics. The dataset has been anonymized to protect user privacy by removing the user ID and publication dates. It consists of three main columns: `title`, `content`, and `score`.\n\n## Dataset Columns\nThe dataset contains the following columns:\n\n`title`: This column represents the title of the user report. It provides a concise summary or description of the report's content.\n\n`content`: The content column contains the detailed report provided by the user. It may include personal experiences, thoughts, feelings, or any relevant information related to depression.\n\n`score`: The score column represents the score or rating assigned to the publication by other users. The score could indicate the level of engagement, agreement, or relevance as determined by the Reddit community.\n\n## Data Usage\nThe dataset can be used for various purposes, including but not limited to:\n\n* Text analysis and natural language processing tasks\n* Sentiment analysis and emotion detection\n* Topic modeling and clustering\n* Depression research and analysis\n* Machine learning model training and evaluation",
+  "datasetId": 3517453,
+  "datasetSlug": "depression-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "diegosilvadefrana",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3599,
+  "totalVotes": 6,
+  "totalDownloads": 451,
+  "title": "Depression Dataset",
+  "hasTitle": true,
+  "subtitle": "Reddit Users Reports About Depression.",
+  "hasSubtitle": true,
+  "description": "# Depression User Reports Dataset\n## Dataset Overview\nThis dataset contains user reports about depression collected from various Reddit forums focused on depression-related topics. The dataset has been anonymized to protect user privacy by removing the user ID and publication dates. It consists of three main columns: `title`, `content`, and `score`.\n\n## Dataset Columns\nThe dataset contains the following columns:\n\n`title`: This column represents the title of the user report. It provides a concise summary or description of the report's content.\n\n`content`: The content column contains the detailed report provided by the user. It may include personal experiences, thoughts, feelings, or any relevant information related to depression.\n\n`score`: The score column represents the score or rating assigned to the publication by other users. The score could indicate the level of engagement, agreement, or relevance as determined by the Reddit community.\n\n## Data Usage\nThe dataset can be used for various purposes, including but not limited to:\n\n* Text analysis and natural language processing tasks\n* Sentiment analysis and emotion detection\n* Topic modeling and clustering\n* Depression research and analysis\n* Machine learning model training and evaluation",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "data analytics",
+    "clustering",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

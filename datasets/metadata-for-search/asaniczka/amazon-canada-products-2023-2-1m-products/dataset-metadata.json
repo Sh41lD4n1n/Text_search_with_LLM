@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/amazon-canada-products-2023-2-1m-products",
+  "id_no": 3892743,
+  "datasetSlugNullable": "amazon-canada-products-2023-2-1m-products",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Canada Products 2023 (2.1M Products)",
+  "subtitleNullable": "Extensive dataset scraped from Amazon.ca in 2023",
+  "descriptionNullable": "With over 2.1 million unique products, this dataset offers a comprehensive view of the products available on Amazon.ca, one of Canada's leading online retailers. Collected through a web scraping process in 2023, this dataset provides valuable insights into product titles, pricing, ratings, and more.\n\n&gt;If you find this dataset helpful for your project or analysis, don't forget to upvote! \u2b50\ufe0f\n\n### Similar datasets:\n\n[Amazon UK Products](https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023)\n\n[Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products/data)\n\n[Amazon USA Products](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)\n\n## Interesting Task Ideas:\n\n1. Analyze pricing trends across different product categories.\n2. Explore the correlation between customer ratings and the number of reviews.\n3. Identify the best-selling products on Amazon.ca.\n4. Study the relationship between pricing and customer reviews.\n5. Create a recommendation system based on customer ratings and product categories.\n6. Analyze the availability of products in different price ranges.\n\n",
+  "datasetId": 3892743,
+  "datasetSlug": "amazon-canada-products-2023-2-1m-products",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10101,
+  "totalVotes": 93,
+  "totalDownloads": 1872,
+  "title": "Amazon Canada Products 2023 (2.1M Products)",
+  "hasTitle": true,
+  "subtitle": "Extensive dataset scraped from Amazon.ca in 2023",
+  "hasSubtitle": true,
+  "description": "With over 2.1 million unique products, this dataset offers a comprehensive view of the products available on Amazon.ca, one of Canada's leading online retailers. Collected through a web scraping process in 2023, this dataset provides valuable insights into product titles, pricing, ratings, and more.\n\n&gt;If you find this dataset helpful for your project or analysis, don't forget to upvote! \u2b50\ufe0f\n\n### Similar datasets:\n\n[Amazon UK Products](https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023)\n\n[Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products/data)\n\n[Amazon USA Products](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)\n\n## Interesting Task Ideas:\n\n1. Analyze pricing trends across different product categories.\n2. Explore the correlation between customer ratings and the number of reviews.\n3. Identify the best-selling products on Amazon.ca.\n4. Study the relationship between pricing and customer reviews.\n5. Create a recommendation system based on customer ratings and product categories.\n6. Analyze the availability of products in different price ranges.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "business",
+    "economics",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

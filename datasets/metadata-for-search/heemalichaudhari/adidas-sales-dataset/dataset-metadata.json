@@ -1,0 +1,43 @@
+{
+  "id": "heemalichaudhari/adidas-sales-dataset",
+  "id_no": 2756597,
+  "datasetSlugNullable": "adidas-sales-dataset",
+  "ownerUserNullable": "heemalichaudhari",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Adidas Sales Dataset",
+  "subtitleNullable": "Adidas Sales in United States",
+  "descriptionNullable": "An Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This type of dataset may include details such as the number of units sold, the total sales revenue, the location of the sales, the type of product sold, and any other relevant information.\n\nAdidas sales data can be useful for a variety of purposes, such as analyzing sales trends, identifying successful products or marketing campaigns, and developing strategies for future sales. It can also be used to compare Adidas sales to those of competitors, or to analyze the effectiveness of different marketing or sales channels.\n\nThere are a variety of sources that could potentially provide an Adidas sales dataset, including Adidas itself, market research firms, government agencies, or other organizations that track sales data. The specific data points included in an Adidas sales dataset may vary depending on the source and the purpose for which it is being used.\n\n\n\n",
+  "datasetId": 2756597,
+  "datasetSlug": "adidas-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "heemalichaudhari",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 109452,
+  "totalVotes": 166,
+  "totalDownloads": 28959,
+  "title": "Adidas Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Adidas Sales in United States",
+  "hasSubtitle": true,
+  "description": "An Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This type of dataset may include details such as the number of units sold, the total sales revenue, the location of the sales, the type of product sold, and any other relevant information.\n\nAdidas sales data can be useful for a variety of purposes, such as analyzing sales trends, identifying successful products or marketing campaigns, and developing strategies for future sales. It can also be used to compare Adidas sales to those of competitors, or to analyze the effectiveness of different marketing or sales channels.\n\nThere are a variety of sources that could potentially provide an Adidas sales dataset, including Adidas itself, market research firms, government agencies, or other organizations that track sales data. The specific data points included in an Adidas sales dataset may vary depending on the source and the purpose for which it is being used.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "sports",
+    "beginner",
+    "intermediate",
+    "advanced"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

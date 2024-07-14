@@ -1,0 +1,40 @@
+{
+  "id": "jr2ngb/superstore-data",
+  "id_no": 112707,
+  "datasetSlugNullable": "superstore-data",
+  "ownerUserNullable": "jr2ngb",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "superstore_data",
+  "subtitleNullable": "retail sales",
+  "descriptionNullable": "### Context\n\nRetail dataset of a global superstore for 4 years.\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 112707,
+  "datasetSlug": "superstore-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jr2ngb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 145953,
+  "totalVotes": 178,
+  "totalDownloads": 17905,
+  "title": "superstore_data",
+  "hasTitle": true,
+  "subtitle": "retail sales",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRetail dataset of a global superstore for 4 years.\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

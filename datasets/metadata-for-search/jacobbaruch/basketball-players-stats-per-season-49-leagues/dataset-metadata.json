@@ -1,0 +1,42 @@
+{
+  "id": "jacobbaruch/basketball-players-stats-per-season-49-leagues",
+  "id_no": 832499,
+  "datasetSlugNullable": "basketball-players-stats-per-season-49-leagues",
+  "ownerUserNullable": "jacobbaruch",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Basketball Players Stats per Season - 49 Leagues",
+  "subtitleNullable": "Se. 1999-2020, 11K Players Stats & Details, 49 Leagues - NBA, Euroleague Etc.",
+  "descriptionNullable": "### Context\n\nI felt that Israeli players scoring Free throws in poor percentage.\nwith this thought, I wanted to check several Free throws analysis: Israeli players vs. other nationalities, Israeli Leagues vs. other Leagues etc.\n\nI didn't found any free datasets that could help me to do the analyze, so I decided to create one.\nas always happens to me, I created a dataset that stores a lot more than the first intention, that could support many analysis about basketball players & Leagues.\nI created a dataset that stores a lot more than my first intention, this dataset could support many analysis about basketball players and Leagues.\n\n### Content\n\nThis Dataset Includes:\n1. Seasons 1999-2020\n2. 49 Leagues, ~11K players details & stats per Season\n3. Player Details: Birth Date, Height, Weight, Nationality, High School\n4. Stats per Season: Scoring Stats, Free Throws, Rebounds, Blocks, Assists, Minutes, Games etc.\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\nyou can find the available season per league data in the [Seasons per League - Dataset Information kernel][3]\nthe scraping source code is available in my [GitHub repository][4]\n\n### Acknowledgements\n\nData scraped from the wonderful site: [basketball real gm][1]\nPhoto by [Pexels on pixabay.com][2]\n\n\n\n  [1]: https://basketball.realgm.com/\n  [2]: https://pixabay.com/photos/backboard-backlit-basketball-board-1866968/\n  [3]:https://www.kaggle.com/jacobbaruch/seasons-per-league-dataset-information\n  [4]:https://github.com/jacobbaruch/NBA_data_scraping_and_analysis",
+  "datasetId": 832499,
+  "datasetSlug": "basketball-players-stats-per-season-49-leagues",
+  "hasDatasetSlug": true,
+  "ownerUser": "jacobbaruch",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 51529,
+  "totalVotes": 125,
+  "totalDownloads": 7444,
+  "title": "Basketball Players Stats per Season - 49 Leagues",
+  "hasTitle": true,
+  "subtitle": "Se. 1999-2020, 11K Players Stats & Details, 49 Leagues - NBA, Euroleague Etc.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI felt that Israeli players scoring Free throws in poor percentage.\nwith this thought, I wanted to check several Free throws analysis: Israeli players vs. other nationalities, Israeli Leagues vs. other Leagues etc.\n\nI didn't found any free datasets that could help me to do the analyze, so I decided to create one.\nas always happens to me, I created a dataset that stores a lot more than the first intention, that could support many analysis about basketball players & Leagues.\nI created a dataset that stores a lot more than my first intention, this dataset could support many analysis about basketball players and Leagues.\n\n### Content\n\nThis Dataset Includes:\n1. Seasons 1999-2020\n2. 49 Leagues, ~11K players details & stats per Season\n3. Player Details: Birth Date, Height, Weight, Nationality, High School\n4. Stats per Season: Scoring Stats, Free Throws, Rebounds, Blocks, Assists, Minutes, Games etc.\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\nyou can find the available season per league data in the [Seasons per League - Dataset Information kernel][3]\nthe scraping source code is available in my [GitHub repository][4]\n\n### Acknowledgements\n\nData scraped from the wonderful site: [basketball real gm][1]\nPhoto by [Pexels on pixabay.com][2]\n\n\n\n  [1]: https://basketball.realgm.com/\n  [2]: https://pixabay.com/photos/backboard-backlit-basketball-board-1866968/\n  [3]:https://www.kaggle.com/jacobbaruch/seasons-per-league-dataset-information\n  [4]:https://github.com/jacobbaruch/NBA_data_scraping_and_analysis",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "basketball",
+    "united states",
+    "europe",
+    "asia"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

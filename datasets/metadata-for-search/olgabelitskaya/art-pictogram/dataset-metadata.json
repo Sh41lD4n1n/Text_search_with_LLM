@@ -1,0 +1,47 @@
+{
+  "id": "olgabelitskaya/art-pictogram",
+  "id_no": 785141,
+  "datasetSlugNullable": "art-pictogram",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Art Pictograms",
+  "subtitleNullable": "Let's Teach Neural Networks to Draw :)",
+  "descriptionNullable": "### Context\n\nThis dataset is planned for usage in the deep and transfer learning experiments. Mostly, for the process of generating new images based on the data.\n\n### Content\n\nDataset creating is in progress, so the full description will be a little bit later.\n\nThe images are labeled by the file prefixes. Labels correspond to the following classification.\n\n1) The first label (a manner): \n\n01=&gt;pictogram; 02=&gt;contour; 03=&gt;sketch.\n\n2) The second label (an object): \n\n001=&gt;flower; 002=&gt;bird; 003=&gt;butterfly; 004=&gt;tree; 005=&gt;plane; 006=&gt;crane;  007=&gt;dog;\n\n008=&gt;horse; 009=&gt;deer; 010=&gt;truck; 011=&gt;car; 012=&gt;cat; 013=&gt;frog; 014=&gt;ship;\n\n015=&gt;fish; 016=&gt;house.\n\n### Inspiration\n\nIs it possible for neural networks and other algorithms to be able to draw like a professional artist? At least, can they repeat a manner of human artists?",
+  "datasetId": 785141,
+  "datasetSlug": "art-pictogram",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 14295,
+  "totalVotes": 21,
+  "totalDownloads": 359,
+  "title": "Art Pictograms",
+  "hasTitle": true,
+  "subtitle": "Let's Teach Neural Networks to Draw :)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is planned for usage in the deep and transfer learning experiments. Mostly, for the process of generating new images based on the data.\n\n### Content\n\nDataset creating is in progress, so the full description will be a little bit later.\n\nThe images are labeled by the file prefixes. Labels correspond to the following classification.\n\n1) The first label (a manner): \n\n01=&gt;pictogram; 02=&gt;contour; 03=&gt;sketch.\n\n2) The second label (an object): \n\n001=&gt;flower; 002=&gt;bird; 003=&gt;butterfly; 004=&gt;tree; 005=&gt;plane; 006=&gt;crane;  007=&gt;dog;\n\n008=&gt;horse; 009=&gt;deer; 010=&gt;truck; 011=&gt;car; 012=&gt;cat; 013=&gt;frog; 014=&gt;ship;\n\n015=&gt;fish; 016=&gt;house.\n\n### Inspiration\n\nIs it possible for neural networks and other algorithms to be able to draw like a professional artist? At least, can they repeat a manner of human artists?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "earth and nature",
+    "business",
+    "computer science",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

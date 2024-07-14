@@ -1,0 +1,39 @@
+{
+  "id": "abhayku2002/detection-of-fake-news",
+  "id_no": 2880639,
+  "datasetSlugNullable": "detection-of-fake-news",
+  "ownerUserNullable": "abhayku2002",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Detection of Fake News",
+  "subtitleNullable": "Detecting Fake News with Python",
+  "descriptionNullable": "A type of yellow journalism, fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media. This is often done to further or impose certain ideas and is often achieved with political agendas. Such news items may contain false and/or exaggerated claims, and may end up being viralized by algorithms, and users may end up in a filter bubble.",
+  "datasetId": 2880639,
+  "datasetSlug": "detection-of-fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhayku2002",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1305,
+  "totalVotes": 5,
+  "totalDownloads": 173,
+  "title": "Detection of Fake News",
+  "hasTitle": true,
+  "subtitle": "Detecting Fake News with Python",
+  "hasSubtitle": true,
+  "description": "A type of yellow journalism, fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media. This is often done to further or impose certain ideas and is often achieved with political agendas. Such news items may contain false and/or exaggerated claims, and may end up being viralized by algorithms, and users may end up in a filter bubble.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

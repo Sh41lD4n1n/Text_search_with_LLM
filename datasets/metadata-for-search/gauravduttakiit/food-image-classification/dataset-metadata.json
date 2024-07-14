@@ -1,0 +1,41 @@
+{
+  "id": "gauravduttakiit/food-image-classification",
+  "id_no": 3491535,
+  "datasetSlugNullable": "food-image-classification",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Food Image Classification",
+  "subtitleNullable": "Food Image Classification",
+  "descriptionNullable": "Food Image Classification Dataset\n\n- The dataset contains 24K unique images obtained from various Google resources\n- Focuses on 35 varieties of both Indian and Western appetizers\n- Meticulously curated images ensuring diversity and representativeness\n- Provides a solid foundation for developing robust and precise image classification algorithms\n- Encourages exploration in the fascinating field of food image classification",
+  "datasetId": 3491535,
+  "datasetSlug": "food-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1077,
+  "totalVotes": 3,
+  "totalDownloads": 231,
+  "title": "Food Image Classification",
+  "hasTitle": true,
+  "subtitle": "Food Image Classification",
+  "hasSubtitle": true,
+  "description": "Food Image Classification Dataset\n\n- The dataset contains 24K unique images obtained from various Google resources\n- Focuses on 35 varieties of both Indian and Western appetizers\n- Meticulously curated images ensuring diversity and representativeness\n- Provides a solid foundation for developing robust and precise image classification algorithms\n- Encourages exploration in the fascinating field of food image classification",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cooking and recipes",
+    "food",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cprimozi/robinhood-stock-popularity-history",
+  "id_no": 213411,
+  "datasetSlugNullable": "robinhood-stock-popularity-history",
+  "ownerUserNullable": "cprimozi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Robinhood Stock Popularity History",
+  "subtitleNullable": "1 year of hourly data of the number of Robinhood users that own each stock",
+  "descriptionNullable": "### Context\n\nThis data set consists of &gt;1 year of historical data about the number of users that hold each stock available on the Robinhood stock brokerage.  It is the dataset that powers https://robintrack.net/\n\n### Content\n\nData was collected from the Robinhood API once per hour over the entire period.\n\nThe popularity metric represents the **number of unique accounts** that hold at least one **share** of the asset.  This only includes normal, long shares (not options).\n\n### Acknowledgements\n\nRobinhood provides their popularity data publicly, which I feel is a great step in the right direction for an industry (finance) where data has traditionally been expensive, low-quality, and hard to find.  I feel it's only right that I share this historical popularity data freely as well.\n\n### Caveats + Possible Issues\n\nRobinhood gives free shares of a certain set of stocks as rewards to users for referring others to their platform.  Some of the most popular stocks are at the top because of this.\n\nThe popularity metrics change over weekends and when the market is closed due to the fact that Robinhood accounts can be created/closed/transferred over those periods.  The metric reported at each timestamp is the exact value that the Robinhood API reported at that instant.\n\n### Inspiration\n\nThis data can be used as a measure of retail sentiment.  By seeing what traders do in response to changes in price and different news events, it can be determined if retail traders are \"buying the dip\" or panicking and leaving the market.\n\nI didn't include price data due to possible legal limitations.  However, it should be relatively easy to obtain this data yourself from a different source and combine it with this data set.",
+  "datasetId": 213411,
+  "datasetSlug": "robinhood-stock-popularity-history",
+  "hasDatasetSlug": true,
+  "ownerUser": "cprimozi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 46517,
+  "totalVotes": 126,
+  "totalDownloads": 1858,
+  "title": "Robinhood Stock Popularity History",
+  "hasTitle": true,
+  "subtitle": "1 year of hourly data of the number of Robinhood users that own each stock",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data set consists of &gt;1 year of historical data about the number of users that hold each stock available on the Robinhood stock brokerage.  It is the dataset that powers https://robintrack.net/\n\n### Content\n\nData was collected from the Robinhood API once per hour over the entire period.\n\nThe popularity metric represents the **number of unique accounts** that hold at least one **share** of the asset.  This only includes normal, long shares (not options).\n\n### Acknowledgements\n\nRobinhood provides their popularity data publicly, which I feel is a great step in the right direction for an industry (finance) where data has traditionally been expensive, low-quality, and hard to find.  I feel it's only right that I share this historical popularity data freely as well.\n\n### Caveats + Possible Issues\n\nRobinhood gives free shares of a certain set of stocks as rewards to users for referring others to their platform.  Some of the most popular stocks are at the top because of this.\n\nThe popularity metrics change over weekends and when the market is closed due to the fact that Robinhood accounts can be created/closed/transferred over those periods.  The metric reported at each timestamp is the exact value that the Robinhood API reported at that instant.\n\n### Inspiration\n\nThis data can be used as a measure of retail sentiment.  By seeing what traders do in response to changes in price and different news events, it can be determined if retail traders are \"buying the dip\" or panicking and leaving the market.\n\nI didn't include price data due to possible legal limitations.  However, it should be relatively easy to obtain this data yourself from a different source and combine it with this data set.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

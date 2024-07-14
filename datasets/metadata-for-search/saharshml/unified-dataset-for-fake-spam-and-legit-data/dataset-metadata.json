@@ -1,0 +1,41 @@
+{
+  "id": "saharshml/unified-dataset-for-fake-spam-and-legit-data",
+  "id_no": 5278816,
+  "datasetSlugNullable": "unified-dataset-for-fake-spam-and-legit-data",
+  "ownerUserNullable": "saharshml",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Unified Dataset for Fake, Spam and Legit data",
+  "subtitleNullable": "A Diverse Text Dataset for Classifying Fake, Spam, and Legit Information",
+  "descriptionNullable": "# Information Classification Dataset\n\n## Description\n\nThis dataset is designed for classifying information into three categories: fake, spam, and legit. It combines data from multiple sources to provide a diverse and comprehensive collection.\n\n## Source Attribution\n\n1. **YouTube Spam and Ham Data**:\n   - Source: [YouTube Spam Collection](https://doi.org/10.24432/C58885)\n   - Description: Contains spam and legitimate comments from YouTube videos.\n\n2. **Email Spam Dataset**:\n   - Source: [Email Spam Collection](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)\n   - Description: Collection of spam and legitimate emails.\n\n3. **SMS Spam Dataset**:\n   - Source: [SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)\n   - Description: Dataset of spam and legitimate SMS messages.\n\n4. **WELFake Dataset**:\n   - Source: [WELFake Fake News Dataset](https://www.kaggle.com/datasets/vcclab/welfake-dataset)\n   - Description: Contains fake and legitimate news articles.\n\n5. **GossipCop Dataset**:\n   - Source: [GossipCop Fake News Dataset](Retrieved from https://github.com/KaiDMML/FakeNewsNet )\n   - Description: Dataset of fake and legitimate news articles from GossipCop.\n\nThe dataset was carefully cleaned and processed to ensure quality and consistency. Duplicate entries were removed.\n\n## Files\n\n- `data.csv`: The main dataset file.\n- `README.md`: Detailed description of the dataset creation process and source attribution.\n",
+  "datasetId": 5278816,
+  "datasetSlug": "unified-dataset-for-fake-spam-and-legit-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "saharshml",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 53,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "Unified Dataset for Fake, Spam and Legit data",
+  "hasTitle": true,
+  "subtitle": "A Diverse Text Dataset for Classifying Fake, Spam, and Legit Information",
+  "hasSubtitle": true,
+  "description": "# Information Classification Dataset\n\n## Description\n\nThis dataset is designed for classifying information into three categories: fake, spam, and legit. It combines data from multiple sources to provide a diverse and comprehensive collection.\n\n## Source Attribution\n\n1. **YouTube Spam and Ham Data**:\n   - Source: [YouTube Spam Collection](https://doi.org/10.24432/C58885)\n   - Description: Contains spam and legitimate comments from YouTube videos.\n\n2. **Email Spam Dataset**:\n   - Source: [Email Spam Collection](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)\n   - Description: Collection of spam and legitimate emails.\n\n3. **SMS Spam Dataset**:\n   - Source: [SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)\n   - Description: Dataset of spam and legitimate SMS messages.\n\n4. **WELFake Dataset**:\n   - Source: [WELFake Fake News Dataset](https://www.kaggle.com/datasets/vcclab/welfake-dataset)\n   - Description: Contains fake and legitimate news articles.\n\n5. **GossipCop Dataset**:\n   - Source: [GossipCop Fake News Dataset](Retrieved from https://github.com/KaiDMML/FakeNewsNet )\n   - Description: Dataset of fake and legitimate news articles from GossipCop.\n\nThe dataset was carefully cleaned and processed to ensure quality and consistency. Duplicate entries were removed.\n\n## Files\n\n- `data.csv`: The main dataset file.\n- `README.md`: Detailed description of the dataset creation process and source attribution.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "tabular",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kartik2112/fraud-detection",
+  "id_no": 817870,
+  "datasetSlugNullable": "fraud-detection",
+  "ownerUserNullable": "kartik2112",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Credit Card Transactions Fraud Detection Dataset",
+  "subtitleNullable": "Simulated Credit Card Transactions generated using Sparkov",
+  "descriptionNullable": "# About the Dataset\n\nThis is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.\n\n# Source of Simulation\n\nThis was generated using [Sparkov Data Generation | Github](https://github.com/namebrandon/Sparkov_Data_Generation) tool created by Brandon Harris. This simulation was run for the duration - 1 Jan 2019 to 31 Dec 2020. The files were combined and converted into a standard format.\n\n\n# Information about the Simulator\n\nI do not own the simulator. I used the one used by Brandon Harris and just to understand how it works, I went through few portions of the code. This is what I understood from what I read:\n\nThe simulator has certain pre-defined list of merchants, customers and transaction categories. And then using a python library called \"faker\", and with the number of customers, merchants that you mention during simulation, an intermediate list is created.\n\nAfter this, depending on the profile you choose for e.g. \"adults 2550 female rural.json\" (which means simulation properties of adult females in the age range of 25-50 who are from rural areas), the transactions are created. Say, for this profile, you could check [\"Sparkov | Github | adults_2550_female_rural.json\"](https://github.com/namebrandon/Sparkov_Data_Generation/blob/master/profiles/adults_2550_female_rural.json), there are parameter value ranges defined in terms of min, max transactions per day, distribution of transactions across days of the week and normal distribution properties (mean, standard deviation) for amounts in various categories. Using these measures of distributions, the transactions are generated using faker.\n\nWhat I did was generate transactions across all profiles and then merged them together to create a more realistic representation of simulated transactions.\n\n# Acknowledgements\n\n* Brandon Harris for his amazing work in creating this easy-to-use simulation tool for creating fraud transaction datasets.",
+  "datasetId": 817870,
+  "datasetSlug": "fraud-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "kartik2112",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 373300,
+  "totalVotes": 389,
+  "totalDownloads": 50041,
+  "title": "Credit Card Transactions Fraud Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Simulated Credit Card Transactions generated using Sparkov",
+  "hasSubtitle": true,
+  "description": "# About the Dataset\n\nThis is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.\n\n# Source of Simulation\n\nThis was generated using [Sparkov Data Generation | Github](https://github.com/namebrandon/Sparkov_Data_Generation) tool created by Brandon Harris. This simulation was run for the duration - 1 Jan 2019 to 31 Dec 2020. The files were combined and converted into a standard format.\n\n\n# Information about the Simulator\n\nI do not own the simulator. I used the one used by Brandon Harris and just to understand how it works, I went through few portions of the code. This is what I understood from what I read:\n\nThe simulator has certain pre-defined list of merchants, customers and transaction categories. And then using a python library called \"faker\", and with the number of customers, merchants that you mention during simulation, an intermediate list is created.\n\nAfter this, depending on the profile you choose for e.g. \"adults 2550 female rural.json\" (which means simulation properties of adult females in the age range of 25-50 who are from rural areas), the transactions are created. Say, for this profile, you could check [\"Sparkov | Github | adults_2550_female_rural.json\"](https://github.com/namebrandon/Sparkov_Data_Generation/blob/master/profiles/adults_2550_female_rural.json), there are parameter value ranges defined in terms of min, max transactions per day, distribution of transactions across days of the week and normal distribution properties (mean, standard deviation) for amounts in various categories. Using these measures of distributions, the transactions are generated using faker.\n\nWhat I did was generate transactions across all profiles and then merged them together to create a more realistic representation of simulated transactions.\n\n# Acknowledgements\n\n* Brandon Harris for his amazing work in creating this easy-to-use simulation tool for creating fraud transaction datasets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "finance",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

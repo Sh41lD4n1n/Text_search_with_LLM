@@ -1,0 +1,39 @@
+{
+  "id": "mathurinache/pretrained-models-emotion-recognition",
+  "id_no": 857547,
+  "datasetSlugNullable": "pretrained-models-emotion-recognition",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Pretrained Models Emotion Recognition",
+  "subtitleNullable": "Emotion Recognition in Conversations",
+  "descriptionNullable": "https://github.com/declare-lab/conv-emotion\nConversational transfer learning for emotion recognition. Hazarika, D., Poria, S., Zimmermann, R., & Mihalcea, R. (2020). Information Fusion.\n\n\n\n26/07/2020\tNew DialogueGCN code has been released. Please visit https://github.com/declare-lab/conv-emotion/tree/master/DialogueGCN-mianzhang. All the credit goes to the Mian Zhang (https://github.com/mianzhang/)\n11/07/2020\tInterested in reading the papers on ERC or related tasks such as sarcasm detection in conversations? We have compiled a comprehensive reading list for papers. Please visit https://github.com/declare-lab/awesome-erc\n07/06/2020:\tNew state-of-the-art results for the ERC task will be released soon.\n07/06/2020:\tThe conv-emotion repo will be maintained on https://github.com/declare-lab/\n22/12/2019:\tCode for DialogueGCN has been released.\n11/10/2019:\tNew Paper: Conversational Transfer Learning for Emotion Recognition.\n09/08/2019:\tNew paper on Emotion Recognition in Conversation (ERC).\n06/03/2019:\tFeatures and codes to train DialogueRNN on the MELD dataset have been released.\n20/11/2018:\tEnd-to-end version of ICON and DialogueRNN have been released.",
+  "datasetId": 857547,
+  "datasetSlug": "pretrained-models-emotion-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 10737,
+  "totalVotes": 15,
+  "totalDownloads": 489,
+  "title": "Pretrained Models Emotion Recognition",
+  "hasTitle": true,
+  "subtitle": "Emotion Recognition in Conversations",
+  "hasSubtitle": true,
+  "description": "https://github.com/declare-lab/conv-emotion\nConversational transfer learning for emotion recognition. Hazarika, D., Poria, S., Zimmermann, R., & Mihalcea, R. (2020). Information Fusion.\n\n\n\n26/07/2020\tNew DialogueGCN code has been released. Please visit https://github.com/declare-lab/conv-emotion/tree/master/DialogueGCN-mianzhang. All the credit goes to the Mian Zhang (https://github.com/mianzhang/)\n11/07/2020\tInterested in reading the papers on ERC or related tasks such as sarcasm detection in conversations? We have compiled a comprehensive reading list for papers. Please visit https://github.com/declare-lab/awesome-erc\n07/06/2020:\tNew state-of-the-art results for the ERC task will be released soon.\n07/06/2020:\tThe conv-emotion repo will be maintained on https://github.com/declare-lab/\n22/12/2019:\tCode for DialogueGCN has been released.\n11/10/2019:\tNew Paper: Conversational Transfer Learning for Emotion Recognition.\n09/08/2019:\tNew paper on Emotion Recognition in Conversation (ERC).\n06/03/2019:\tFeatures and codes to train DialogueRNN on the MELD dataset have been released.\n20/11/2018:\tEnd-to-end version of ICON and DialogueRNN have been released.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "raoofnaushad/emotion-data-anger-sadness-joy-fear",
+  "id_no": 828055,
+  "datasetSlugNullable": "emotion-data-anger-sadness-joy-fear",
+  "ownerUserNullable": "raoofnaushad",
+  "usabilityRatingNullable": 0.17647058823529413,
+  "titleNullable": "Emotion Data (Anger, Sadness, Joy, Fear)",
+  "subtitleNullable": "Dataset for Emotion Detection with 4 classes ",
+  "descriptionNullable": "",
+  "datasetId": 828055,
+  "datasetSlug": "emotion-data-anger-sadness-joy-fear",
+  "hasDatasetSlug": true,
+  "ownerUser": "raoofnaushad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.17647058823529413,
+  "hasUsabilityRating": true,
+  "totalViews": 2213,
+  "totalVotes": 2,
+  "totalDownloads": 93,
+  "title": "Emotion Data (Anger, Sadness, Joy, Fear)",
+  "hasTitle": true,
+  "subtitle": "Dataset for Emotion Detection with 4 classes ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

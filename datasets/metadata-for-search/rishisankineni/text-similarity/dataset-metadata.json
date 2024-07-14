@@ -1,0 +1,44 @@
+{
+  "id": "rishisankineni/text-similarity",
+  "id_no": 1008,
+  "datasetSlugNullable": "text-similarity",
+  "ownerUserNullable": "rishisankineni",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Text Similarity",
+  "subtitleNullable": "Natural Language Processing on Stock data",
+  "descriptionNullable": "**Context:**\n\n Natural Language Processing(NLP), Text Similarity(lexical and semantic)\n\n**Content:**  \n\nIn each row of the included datasets(train.csv and test.csv), products X(description_x) and Y(description_y) are considered to refer to the same security(same_security) if they have the same ticker(ticker_x,ticker_y), even if the descriptions don't exactly match. You can make use of these descriptions to predict whether each pair in the test set also refers to the same security.\n\n**Dataset info:**\n\n**Train** - description_x, description_y, ticker_x, ticker_y, same_security.\n**Test** - description_x, description_y, same_security(to be predicted)\n\n**Past Research:** \n\nThis dataset is pretty similar to the [Quora Question Pairs ][1]. You can also check out my kernel for dataset exploration and n-gram analysis [N-gram analysis on stock data][2].\n\n**How to Approach:** \n\nThere are several good ways to approach this, check out this algorithm, and see how far you can go with it: [https://en.wikipedia.org/wiki/Tf\u2013idf http://scikit learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html][3]. You can also try doing n-gram analysis(check out my kernel). I would suggest using log-loss as your evaluation metric since it gives you a number between 0 and 1 instead of binary classification, which is not so effective in this case.\n\n**Acknowledgements:**\n\nQuovo stock data.\n\n  [1]: https://www.kaggle.com/c/quora-question-pairs\n  [2]: https://www.kaggle.com/rishisankineni/d/rishisankineni/text-similarity/n-gram-analysis-on-stock-data-log-loss-0-70\n  [3]: http://Check%20out%20this%20algorithm,%20and%20see%20how%20far%20you%20can%20go%20with%20it:%20https://en.wikipedia.org/wiki/Tf%E2%80%93idf%20http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html",
+  "datasetId": 1008,
+  "datasetSlug": "text-similarity",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishisankineni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 77962,
+  "totalVotes": 134,
+  "totalDownloads": 6327,
+  "title": "Text Similarity",
+  "hasTitle": true,
+  "subtitle": "Natural Language Processing on Stock data",
+  "hasSubtitle": true,
+  "description": "**Context:**\n\n Natural Language Processing(NLP), Text Similarity(lexical and semantic)\n\n**Content:**  \n\nIn each row of the included datasets(train.csv and test.csv), products X(description_x) and Y(description_y) are considered to refer to the same security(same_security) if they have the same ticker(ticker_x,ticker_y), even if the descriptions don't exactly match. You can make use of these descriptions to predict whether each pair in the test set also refers to the same security.\n\n**Dataset info:**\n\n**Train** - description_x, description_y, ticker_x, ticker_y, same_security.\n**Test** - description_x, description_y, same_security(to be predicted)\n\n**Past Research:** \n\nThis dataset is pretty similar to the [Quora Question Pairs ][1]. You can also check out my kernel for dataset exploration and n-gram analysis [N-gram analysis on stock data][2].\n\n**How to Approach:** \n\nThere are several good ways to approach this, check out this algorithm, and see how far you can go with it: [https://en.wikipedia.org/wiki/Tf\u2013idf http://scikit learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html][3]. You can also try doing n-gram analysis(check out my kernel). I would suggest using log-loss as your evaluation metric since it gives you a number between 0 and 1 instead of binary classification, which is not so effective in this case.\n\n**Acknowledgements:**\n\nQuovo stock data.\n\n  [1]: https://www.kaggle.com/c/quora-question-pairs\n  [2]: https://www.kaggle.com/rishisankineni/d/rishisankineni/text-similarity/n-gram-analysis-on-stock-data-log-loss-0-70\n  [3]: http://Check%20out%20this%20algorithm,%20and%20see%20how%20far%20you%20can%20go%20with%20it:%20https://en.wikipedia.org/wiki/Tf%E2%80%93idf%20http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "earth and nature",
+    "finance",
+    "social science",
+    "linguistics",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

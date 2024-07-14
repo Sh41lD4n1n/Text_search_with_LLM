@@ -1,0 +1,44 @@
+{
+  "id": "karkavelrajaj/amazon-sales-dataset",
+  "id_no": 2818963,
+  "datasetSlugNullable": "amazon-sales-dataset",
+  "ownerUserNullable": "karkavelrajaj",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Sales Dataset",
+  "subtitleNullable": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews",
+  "descriptionNullable": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon\n\n**Features**\n\n- product_id  - Product ID\n- product_name - Name of the Product\n- category - Category of the Product\n- discounted_price - Discounted Price of the Product\n- actual_price - Actual Price of the Product\n- discount_percentage - Percentage of Discount for the Product\n- rating - Rating of the Product\n- rating_count - Number of people who voted for the Amazon rating\n- about_product - Description about the Product\n- user_id - ID of the user who wrote review for the Product\n- user_name - Name of the user who wrote review for the Product\n- review_id - ID of the user review\n- review_title - Short review\n- review_content - Long review\n- img_link - Image Link of the Product\n- product_link - Official Website Link of the Product\n\n**Inspiration**\n\nAmazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n- Dataset Walkthrough\n- Understanding Dataset Hierarchy\n- Data Preprocessing\n- Exploratory Data Analysis\n- Data Visualization\n- Making Recommendation System\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.",
+  "datasetId": 2818963,
+  "datasetSlug": "amazon-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "karkavelrajaj",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 401559,
+  "totalVotes": 599,
+  "totalDownloads": 89135,
+  "title": "Amazon Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews",
+  "hasSubtitle": true,
+  "description": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon\n\n**Features**\n\n- product_id  - Product ID\n- product_name - Name of the Product\n- category - Category of the Product\n- discounted_price - Discounted Price of the Product\n- actual_price - Actual Price of the Product\n- discount_percentage - Percentage of Discount for the Product\n- rating - Rating of the Product\n- rating_count - Number of people who voted for the Amazon rating\n- about_product - Description about the Product\n- user_id - ID of the user who wrote review for the Product\n- user_name - Name of the user who wrote review for the Product\n- review_id - ID of the user review\n- review_title - Short review\n- review_content - Long review\n- img_link - Image Link of the Product\n- product_link - Official Website Link of the Product\n\n**Inspiration**\n\nAmazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n- Dataset Walkthrough\n- Understanding Dataset Hierarchy\n- Data Preprocessing\n- Exploratory Data Analysis\n- Data Visualization\n- Making Recommendation System\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "retail and shopping",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

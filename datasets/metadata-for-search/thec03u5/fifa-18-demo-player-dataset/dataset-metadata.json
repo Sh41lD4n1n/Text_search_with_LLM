@@ -1,0 +1,43 @@
+{
+  "id": "thec03u5/fifa-18-demo-player-dataset",
+  "id_no": 2547,
+  "datasetSlugNullable": "fifa-18-demo-player-dataset",
+  "ownerUserNullable": "thec03u5",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "FIFA 18 Complete Player Dataset",
+  "subtitleNullable": "17k+ players, 70+ attributes extracted from the latest edition of FIFA",
+  "descriptionNullable": "**The Dataset you can play with.** \n\n\n----------\n\n\n### Context\n\nDataset for people who love data science and have grown up playing FIFA.\n\n\n----------\n\n\n### Content\n\n - Every player featuring in FIFA 18\n - 70+ attributes \n - Player and Flag Images\n - Playing Position Data\n - Attributes based on actual data of the latest  EA's FIFA 18 game\n - Attributes include on all player style statistics like Dribbling, Aggression, GK Skills etc.\n - Player personal data like Nationality, Photo, Club, Age, Wage, Salary etc.\n\n----------\n\n\n**Upcoming Update will Include :**\n\n - Team (National and Club) Data\n - Player Images in Zip folder\n - Betting Odds\n\nThe dataset contains all the statistics and playing attributes of all the players in the Full version of FIFA 18.\n\n\n----------\n\n\n### Data Source\n\nThe data is scraped from the website [https://sofifa.com][1] by extracting the Player personal data and Player Ids and then the playing and style statistics.\n\n\n----------\n![][2]\n\n----------\n\n\n### [Github Project][3]\n\n\n----------\n\n\n### Possible Explorations\n\n - Make your dream team\n - Analyse which Club or National Team has the best-rated players\n - Assess the strength of a team at a particular position\n - Analyse the team with the best dribbling speed\n - Co-relate between Age and Overall rating\n - Co-relate between Age and Nationality \n - Co-relate between Age and Potential \n\n*Could prove of immense value to Fantasy Premier League enthusiasts.*\n\nThese are just basic examples, sky is the limit. \n\n\n----------\n\n\n### Acknowledgements\n\nThe data has been crawled from the [https://sofifa.com][4] website.\n\n\n----------\n\n\n### Inspiration\n\nSeveral insights and correlations between player value, wage, age, and performance can be derived from the dataset. Furthermore, how do the players in this dataset compare against themselves in [last year's dataset](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global/data)?\n\n\n----------\n\n### Contributing\n\nChanges and Improvement suggestions are welcome. Feel free to comment new additions that you think are useful or drop a PR on the [github][5] project.\n\n\n  [1]: https://sofifa.com\n  [2]: https://wallpapershome.com/images/wallpapers/fifa-18-5120x2880-4k-screenshot-poster-e3-2017-13691.jpg\n  [3]: https://github.com/amanthedorkknight/fifa18-all-player-statistics\n  [4]: https://sofifa.com\n  [5]: https://github.com/amanthedorkknight/fifa18-all-player-statistics\n  [6]: https://www.paypal.me/AShrivastava961",
+  "datasetId": 2547,
+  "datasetSlug": "fifa-18-demo-player-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "thec03u5",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 214224,
+  "totalVotes": 415,
+  "totalDownloads": 28899,
+  "title": "FIFA 18 Complete Player Dataset",
+  "hasTitle": true,
+  "subtitle": "17k+ players, 70+ attributes extracted from the latest edition of FIFA",
+  "hasSubtitle": true,
+  "description": "**The Dataset you can play with.** \n\n\n----------\n\n\n### Context\n\nDataset for people who love data science and have grown up playing FIFA.\n\n\n----------\n\n\n### Content\n\n - Every player featuring in FIFA 18\n - 70+ attributes \n - Player and Flag Images\n - Playing Position Data\n - Attributes based on actual data of the latest  EA's FIFA 18 game\n - Attributes include on all player style statistics like Dribbling, Aggression, GK Skills etc.\n - Player personal data like Nationality, Photo, Club, Age, Wage, Salary etc.\n\n----------\n\n\n**Upcoming Update will Include :**\n\n - Team (National and Club) Data\n - Player Images in Zip folder\n - Betting Odds\n\nThe dataset contains all the statistics and playing attributes of all the players in the Full version of FIFA 18.\n\n\n----------\n\n\n### Data Source\n\nThe data is scraped from the website [https://sofifa.com][1] by extracting the Player personal data and Player Ids and then the playing and style statistics.\n\n\n----------\n![][2]\n\n----------\n\n\n### [Github Project][3]\n\n\n----------\n\n\n### Possible Explorations\n\n - Make your dream team\n - Analyse which Club or National Team has the best-rated players\n - Assess the strength of a team at a particular position\n - Analyse the team with the best dribbling speed\n - Co-relate between Age and Overall rating\n - Co-relate between Age and Nationality \n - Co-relate between Age and Potential \n\n*Could prove of immense value to Fantasy Premier League enthusiasts.*\n\nThese are just basic examples, sky is the limit. \n\n\n----------\n\n\n### Acknowledgements\n\nThe data has been crawled from the [https://sofifa.com][4] website.\n\n\n----------\n\n\n### Inspiration\n\nSeveral insights and correlations between player value, wage, age, and performance can be derived from the dataset. Furthermore, how do the players in this dataset compare against themselves in [last year's dataset](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global/data)?\n\n\n----------\n\n### Contributing\n\nChanges and Improvement suggestions are welcome. Feel free to comment new additions that you think are useful or drop a PR on the [github][5] project.\n\n\n  [1]: https://sofifa.com\n  [2]: https://wallpapershome.com/images/wallpapers/fifa-18-5120x2880-4k-screenshot-poster-e3-2017-13691.jpg\n  [3]: https://github.com/amanthedorkknight/fifa18-all-player-statistics\n  [4]: https://sofifa.com\n  [5]: https://github.com/amanthedorkknight/fifa18-all-player-statistics\n  [6]: https://www.paypal.me/AShrivastava961",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "games",
+    "video games",
+    "football",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

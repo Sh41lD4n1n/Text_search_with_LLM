@@ -1,0 +1,44 @@
+{
+  "id": "dataclusterlabs/indian-sign-board-image-dataset",
+  "id_no": 1475704,
+  "datasetSlugNullable": "indian-sign-board-image-dataset",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Indian Traffic Sign Image Dataset",
+  "subtitleNullable": "Datasets for Indian traffic signs",
+  "descriptionNullable": "### **This dataset is collected by Datacluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 2000+ original Indian Traffic Sign images captured and crowdsourced from over 400+ urban and rural areas, where each image is **manually reviewed and verified** by computer vision professionals at DC Labs.\n\n### **Dataset Features**\n\n- Dataset size   : 2000+\n- Captured by  : Over 400+ crowdsource contributors\n- Resolution     : 100% of images HD and above (1920x1080 and above)\n- Location        : Captured with 400+ cities accross India\n- Diversity        : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2021\n- Usage            : Traffic sign detection, Self-driving systems, traffic detection, sign detection, etc.\n\n### **Available Annotation formats**\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    ",
+  "datasetId": 1475704,
+  "datasetSlug": "indian-sign-board-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 22328,
+  "totalVotes": 30,
+  "totalDownloads": 2053,
+  "title": "Indian Traffic Sign Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Datasets for Indian traffic signs",
+  "hasSubtitle": true,
+  "description": "### **This dataset is collected by Datacluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 2000+ original Indian Traffic Sign images captured and crowdsourced from over 400+ urban and rural areas, where each image is **manually reviewed and verified** by computer vision professionals at DC Labs.\n\n### **Dataset Features**\n\n- Dataset size   : 2000+\n- Captured by  : Over 400+ crowdsource contributors\n- Resolution     : 100% of images HD and above (1920x1080 and above)\n- Location        : Captured with 400+ cities accross India\n- Diversity        : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2021\n- Usage            : Traffic sign detection, Self-driving systems, traffic detection, sign detection, etc.\n\n### **Available Annotation formats**\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "transportation",
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

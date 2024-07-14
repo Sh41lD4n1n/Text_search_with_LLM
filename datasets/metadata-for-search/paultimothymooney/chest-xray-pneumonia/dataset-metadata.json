@@ -1,0 +1,43 @@
+{
+  "id": "paultimothymooney/chest-xray-pneumonia",
+  "id_no": 17810,
+  "datasetSlugNullable": "chest-xray-pneumonia",
+  "ownerUserNullable": "paultimothymooney",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Chest X-Ray Images (Pneumonia)",
+  "subtitleNullable": "5,863 images, 2 categories",
+  "descriptionNullable": "### Context\n\nhttp://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n![](https://i.imgur.com/jZqpV51.png)\n\nFigure S6. Illustrative Examples of Chest X-Rays in Patients with Pneumonia, Related to Figure 6\nThe normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse \u2018\u2018interstitial\u2019\u2019 pattern in both lungs.\nhttp://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n### Content\n\nThe dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal).  There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). \n\nChest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children\u2019s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients\u2019 routine clinical care. \n\nFor the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality or unreadable scans. The diagnoses for the images were then graded by two expert physicians before being cleared for training the AI system. In order to account for any grading errors, the evaluation set was also checked by a third expert.\n\n### Acknowledgements\n\nData: https://data.mendeley.com/datasets/rscbjbr9sj/2\n\nLicense: [CC BY 4.0][1]\n\nCitation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n![enter image description here][2]\n\n\n### Inspiration\n\nAutomated methods to detect and classify human diseases from medical images.\n\n\n  [1]: https://creativecommons.org/licenses/by/4.0/\n  [2]: https://i.imgur.com/8AUJkin.png",
+  "datasetId": 17810,
+  "datasetSlug": "chest-xray-pneumonia",
+  "hasDatasetSlug": true,
+  "ownerUser": "paultimothymooney",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2387387,
+  "totalVotes": 6370,
+  "totalDownloads": 298305,
+  "title": "Chest X-Ray Images (Pneumonia)",
+  "hasTitle": true,
+  "subtitle": "5,863 images, 2 categories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nhttp://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n![](https://i.imgur.com/jZqpV51.png)\n\nFigure S6. Illustrative Examples of Chest X-Rays in Patients with Pneumonia, Related to Figure 6\nThe normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse \u2018\u2018interstitial\u2019\u2019 pattern in both lungs.\nhttp://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n### Content\n\nThe dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal).  There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). \n\nChest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children\u2019s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients\u2019 routine clinical care. \n\nFor the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality or unreadable scans. The diagnoses for the images were then graded by two expert physicians before being cleared for training the AI system. In order to account for any grading errors, the evaluation set was also checked by a third expert.\n\n### Acknowledgements\n\nData: https://data.mendeley.com/datasets/rscbjbr9sj/2\n\nLicense: [CC BY 4.0][1]\n\nCitation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n![enter image description here][2]\n\n\n### Inspiration\n\nAutomated methods to detect and classify human diseases from medical images.\n\n\n  [1]: https://creativecommons.org/licenses/by/4.0/\n  [2]: https://i.imgur.com/8AUJkin.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "health",
+    "medicine",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

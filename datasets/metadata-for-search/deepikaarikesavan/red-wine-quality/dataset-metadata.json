@@ -1,0 +1,39 @@
+{
+  "id": "deepikaarikesavan/red-wine-quality",
+  "id_no": 5210406,
+  "datasetSlugNullable": "red-wine-quality",
+  "ownerUserNullable": "deepikaarikesavan",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Red Wine Quality",
+  "subtitleNullable": "Evaluating factors influencing the quality and characteristics of red wine",
+  "descriptionNullable": "",
+  "datasetId": 5210406,
+  "datasetSlug": "red-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepikaarikesavan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 23,
+  "totalVotes": 11,
+  "totalDownloads": 2,
+  "title": "Red Wine Quality",
+  "hasTitle": true,
+  "subtitle": "Evaluating factors influencing the quality and characteristics of red wine",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

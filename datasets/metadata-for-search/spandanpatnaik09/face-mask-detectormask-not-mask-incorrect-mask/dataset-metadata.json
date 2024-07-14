@@ -1,0 +1,45 @@
+{
+  "id": "spandanpatnaik09/face-mask-detectormask-not-mask-incorrect-mask",
+  "id_no": 1030364,
+  "datasetSlugNullable": "face-mask-detectormask-not-mask-incorrect-mask",
+  "ownerUserNullable": "spandanpatnaik09",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Face mask detector(mask ,not mask, incorrect mask)",
+  "subtitleNullable": "Dataset created for training face mask detection model using CV techniques.",
+  "descriptionNullable": "Covid-19 pandemic paused our world for a while but people know how to cope up with situations like these. \nMy main motive for creating this dataset is because people can use it according to their understanding and create products which would ensure that everyone remains safe.\n\nThis dataset can be used for face mask detection. I have divided it into 3 categories:\n1. People wearing mask\n2. People not wearing mask\n3. People wearing mask but in an incorrect manner\n",
+  "datasetId": 1030364,
+  "datasetSlug": "face-mask-detectormask-not-mask-incorrect-mask",
+  "hasDatasetSlug": true,
+  "ownerUser": "spandanpatnaik09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 19170,
+  "totalVotes": 42,
+  "totalDownloads": 2927,
+  "title": "Face mask detector(mask ,not mask, incorrect mask)",
+  "hasTitle": true,
+  "subtitle": "Dataset created for training face mask detection model using CV techniques.",
+  "hasSubtitle": true,
+  "description": "Covid-19 pandemic paused our world for a while but people know how to cope up with situations like these. \nMy main motive for creating this dataset is because people can use it according to their understanding and create products which would ensure that everyone remains safe.\n\nThis dataset can be used for face mask detection. I have divided it into 3 categories:\n1. People wearing mask\n2. People not wearing mask\n3. People wearing mask but in an incorrect manner\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "health",
+    "computer vision",
+    "deep learning",
+    "image",
+    "keras",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

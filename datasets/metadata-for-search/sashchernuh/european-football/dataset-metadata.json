@@ -1,0 +1,41 @@
+{
+  "id": "sashchernuh/european-football",
+  "id_no": 2414,
+  "datasetSlugNullable": "european-football",
+  "ownerUserNullable": "sashchernuh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "World Soccer DB: archive of odds [01-JUN-2021]",
+  "subtitleNullable": "26 countries, 33 leagues, 186k+ matches with bookies odds (01-JUN-2021)",
+  "descriptionNullable": "### Context\n\nWe have a few soccer datasets that are already uploaded to the Kaggle platform. \nHowever, after [playing with some hypothesis][1], we found that we need to have updates more often to complete started framework. \n\nMain difference between well-known European Soccer Database are:\n\n- added not only odds per match, but Under Over, Asian Handicaps.\n- more seasons, leagues and matches;\n- up to date data and regular updates of DB\n\nSince, that is first release of dataset, we will fix all bugs to have good training history. \n\n### Content\n\nData Dictionary is described fully here - http://www.football-data.co.uk/notes.txt\n\n### Acknowledgements\n\nThanks to \n\n1. football-data.co.uk for collected results, fixtures and odds\n2. phoebet.com - for technical consultancies and helping to generate the dataset \n\n### Inspiration\n\n- Is it possible to get statistical advantage in long game?\n- When better to use different financial strategies?\n- What is  more promising Ordinar's Or Accumulator Systems?\n\n  [1]: https://www.linkedin.com/pulse/betting-analytics-financial-management-does-matter-part-chernukh/\n\nPS. We are not encourage to play bets or have bonuses from advertisements! We just focused to share and open knowledge to community about this domain as particular case of Arbitrage",
+  "datasetId": 2414,
+  "datasetSlug": "european-football",
+  "hasDatasetSlug": true,
+  "ownerUser": "sashchernuh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 58389,
+  "totalVotes": 182,
+  "totalDownloads": 5542,
+  "title": "World Soccer DB: archive of odds [01-JUN-2021]",
+  "hasTitle": true,
+  "subtitle": "26 countries, 33 leagues, 186k+ matches with bookies odds (01-JUN-2021)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe have a few soccer datasets that are already uploaded to the Kaggle platform. \nHowever, after [playing with some hypothesis][1], we found that we need to have updates more often to complete started framework. \n\nMain difference between well-known European Soccer Database are:\n\n- added not only odds per match, but Under Over, Asian Handicaps.\n- more seasons, leagues and matches;\n- up to date data and regular updates of DB\n\nSince, that is first release of dataset, we will fix all bugs to have good training history. \n\n### Content\n\nData Dictionary is described fully here - http://www.football-data.co.uk/notes.txt\n\n### Acknowledgements\n\nThanks to \n\n1. football-data.co.uk for collected results, fixtures and odds\n2. phoebet.com - for technical consultancies and helping to generate the dataset \n\n### Inspiration\n\n- Is it possible to get statistical advantage in long game?\n- When better to use different financial strategies?\n- What is  more promising Ordinar's Or Accumulator Systems?\n\n  [1]: https://www.linkedin.com/pulse/betting-analytics-financial-management-does-matter-part-chernukh/\n\nPS. We are not encourage to play bets or have bonuses from advertisements! We just focused to share and open knowledge to community about this domain as particular case of Arbitrage",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "gambling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

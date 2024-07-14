@@ -1,0 +1,43 @@
+{
+  "id": "tannerolstad0947/2022-uk-road-safety-data",
+  "id_no": 4238366,
+  "datasetSlugNullable": "2022-uk-road-safety-data",
+  "ownerUserNullable": "tannerolstad0947",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "2022 UK Road Safety Data",
+  "subtitleNullable": "Casualty, Collision and Vehicle information for vehicular accidents in the UK",
+  "descriptionNullable": "This dataset is sourced from the United Kingdom's Open Data website (https://www.data.gov.uk/).\n\nIn this dataset, you will find extensive information on the characteristics of individual vehicular accidents. The data is split into three main datasets and one data guide which can be used to reference dummy variables.\n\nThe three main data sets are:\n\n- Casualty\n- Collision\n- Vehicle\n\nThe data sets can be combined using the 'accident_index' key across the data sets.",
+  "datasetId": 4238366,
+  "datasetSlug": "2022-uk-road-safety-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "tannerolstad0947",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 134,
+  "totalVotes": 0,
+  "totalDownloads": 22,
+  "title": "2022 UK Road Safety Data",
+  "hasTitle": true,
+  "subtitle": "Casualty, Collision and Vehicle information for vehicular accidents in the UK",
+  "hasSubtitle": true,
+  "description": "This dataset is sourced from the United Kingdom's Open Data website (https://www.data.gov.uk/).\n\nIn this dataset, you will find extensive information on the characteristics of individual vehicular accidents. The data is split into three main datasets and one data guide which can be used to reference dummy variables.\n\nThe three main data sets are:\n\n- Casualty\n- Collision\n- Vehicle\n\nThe data sets can be combined using the 'accident_index' key across the data sets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "law",
+    "transportation",
+    "travel",
+    "urban planning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

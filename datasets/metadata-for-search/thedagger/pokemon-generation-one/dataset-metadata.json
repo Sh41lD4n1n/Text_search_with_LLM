@@ -1,0 +1,42 @@
+{
+  "id": "thedagger/pokemon-generation-one",
+  "id_no": 40205,
+  "datasetSlugNullable": "pokemon-generation-one",
+  "ownerUserNullable": "thedagger",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Pokemon Generation One",
+  "subtitleNullable": "Gotta train 'em all!",
+  "descriptionNullable": "#Context\nThe dataset was built out of necessity as there was not much sanitised data available online for images of Pokemon based on their \nGeneration and names.\n\nThis dataset aims at solving this problem, all the images of Pokemons are separated based on folders with names of Pokemon so that it's easy for the user to run a training algorithm on it.\n\n### Content\n\nThe dataset contains 151 folders, one for each gen 1 pokemon and each folder contains 60 image for every pokemon.\nIn all there are over 10,000+ images\n\n\n### Acknowledgements\n\nThis wouldn't have been possible without the awesome linux guru [@Prajjwal][1] who helped me in scraping the data and cleaning it up.\n\n\n### Inspiration\n\nGotta train 'em all!\nCreating a real life Pok\u00e9dex was the inspiration behind collecting this dataset.\n\n  [1]: https://github.com/Prajjwal",
+  "datasetId": 40205,
+  "datasetSlug": "pokemon-generation-one",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedagger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 64189,
+  "totalVotes": 262,
+  "totalDownloads": 8549,
+  "title": "Pokemon Generation One",
+  "hasTitle": true,
+  "subtitle": "Gotta train 'em all!",
+  "hasSubtitle": true,
+  "description": "#Context\nThe dataset was built out of necessity as there was not much sanitised data available online for images of Pokemon based on their \nGeneration and names.\n\nThis dataset aims at solving this problem, all the images of Pokemons are separated based on folders with names of Pokemon so that it's easy for the user to run a training algorithm on it.\n\n### Content\n\nThe dataset contains 151 folders, one for each gen 1 pokemon and each folder contains 60 image for every pokemon.\nIn all there are over 10,000+ images\n\n\n### Acknowledgements\n\nThis wouldn't have been possible without the awesome linux guru [@Prajjwal][1] who helped me in scraping the data and cleaning it up.\n\n\n### Inspiration\n\nGotta train 'em all!\nCreating a real life Pok\u00e9dex was the inspiration behind collecting this dataset.\n\n  [1]: https://github.com/Prajjwal",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "video games",
+    "internet",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

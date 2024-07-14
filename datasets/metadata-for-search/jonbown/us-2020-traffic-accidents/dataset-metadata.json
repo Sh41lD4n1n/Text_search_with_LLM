@@ -1,0 +1,43 @@
+{
+  "id": "jonbown/us-2020-traffic-accidents",
+  "id_no": 2940627,
+  "datasetSlugNullable": "us-2020-traffic-accidents",
+  "ownerUserNullable": "jonbown",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "US Traffic Accidents",
+  "subtitleNullable": "NHTSA CRSS Accident Records 2016-2020",
+  "descriptionNullable": "-----------------------------------------------------------------------------------------------------------\n\n# US Traffic Accidents\n\n## Demographics, Injury Severity, Location, Weather, and Other Factors\n\nBy NHTSA [[source](https://cdan.nhtsa.gov)]\n\n\n-----------------------------------------------------------------------------------------------------------\n\n\n\n&gt;The US Traffic Accidents dataset contains detailed information on 259,077 car accidents that occurred in all US states (except remote areas of Alaska and Hawaii) between 2016 and 2020. The datasets have very detailed information on each accident including location, time, weather, contributing factors and demographic information of the motorists involved in the accident. The sampling program was deeply impacted by the COVID19 pandemic, thus there is nothing beyond the year 2020 due to a major overhaul of the program to accommodate remote work. The 2020 data may be very sparse for the months of March through May given the fact that these reports come from local police departments and many of those were impacted in the spring of 2020. \n\n-----------------------------------------------------------------------------------------------------------\n\n&gt; Each year has three files, 'acc' = accident information, 'pers' = demographic and other information relating to individuals involved in the accident, 'veh' detailed vehicle information for the vehicles involved in the reported accident. All these files will join on the variable 'CASENUM'\n\n## Background\n\n&gt; From the data manual: \"CRSS is a sample of police-reported crashes involving all types of motor vehicles, pedestrians, and cyclists, ranging from property-damage-only crashes to those that result in fatalities. CRSS is used to estimate the overall crash picture, identify highway safety problem areas, measure trends, drive consumer information initiatives, and form the basis for cost and benefit analyses of highway safety initiatives and regulations.\"\n\n### Sampling Strategy\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1506047%2Fa8d8c1ae8519acbec6fa19a330624728%2Fscreenshot.png?generation=1677429824169629&alt=media)\n\n\n## How To Use\n\n&gt; For a very detailed explanation of the data and collection methodology, please click [[here](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813236)]\n\n## Acknowledgements\n\n&gt; If you use this dataset in your research, please credit NHTSA.\n\n",
+  "datasetId": 2940627,
+  "datasetSlug": "us-2020-traffic-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonbown",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 14863,
+  "totalVotes": 56,
+  "totalDownloads": 2414,
+  "title": "US Traffic Accidents",
+  "hasTitle": true,
+  "subtitle": "NHTSA CRSS Accident Records 2016-2020",
+  "hasSubtitle": true,
+  "description": "-----------------------------------------------------------------------------------------------------------\n\n# US Traffic Accidents\n\n## Demographics, Injury Severity, Location, Weather, and Other Factors\n\nBy NHTSA [[source](https://cdan.nhtsa.gov)]\n\n\n-----------------------------------------------------------------------------------------------------------\n\n\n\n&gt;The US Traffic Accidents dataset contains detailed information on 259,077 car accidents that occurred in all US states (except remote areas of Alaska and Hawaii) between 2016 and 2020. The datasets have very detailed information on each accident including location, time, weather, contributing factors and demographic information of the motorists involved in the accident. The sampling program was deeply impacted by the COVID19 pandemic, thus there is nothing beyond the year 2020 due to a major overhaul of the program to accommodate remote work. The 2020 data may be very sparse for the months of March through May given the fact that these reports come from local police departments and many of those were impacted in the spring of 2020. \n\n-----------------------------------------------------------------------------------------------------------\n\n&gt; Each year has three files, 'acc' = accident information, 'pers' = demographic and other information relating to individuals involved in the accident, 'veh' detailed vehicle information for the vehicles involved in the reported accident. All these files will join on the variable 'CASENUM'\n\n## Background\n\n&gt; From the data manual: \"CRSS is a sample of police-reported crashes involving all types of motor vehicles, pedestrians, and cyclists, ranging from property-damage-only crashes to those that result in fatalities. CRSS is used to estimate the overall crash picture, identify highway safety problem areas, measure trends, drive consumer information initiatives, and form the basis for cost and benefit analyses of highway safety initiatives and regulations.\"\n\n### Sampling Strategy\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1506047%2Fa8d8c1ae8519acbec6fa19a330624728%2Fscreenshot.png?generation=1677429824169629&alt=media)\n\n\n## How To Use\n\n&gt; For a very detailed explanation of the data and collection methodology, please click [[here](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813236)]\n\n## Acknowledgements\n\n&gt; If you use this dataset in your research, please credit NHTSA.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "government",
+    "law",
+    "economics",
+    "automobiles and vehicles",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

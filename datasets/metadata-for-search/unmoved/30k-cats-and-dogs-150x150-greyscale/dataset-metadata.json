@@ -1,0 +1,43 @@
+{
+  "id": "unmoved/30k-cats-and-dogs-150x150-greyscale",
+  "id_no": 2889098,
+  "datasetSlugNullable": "30k-cats-and-dogs-150x150-greyscale",
+  "ownerUserNullable": "unmoved",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "30k Cats and Dogs 150x150 Greyscale",
+  "subtitleNullable": "Only 139MB Folder Size!",
+  "descriptionNullable": "A massive collection of cats and dogs.\n\n- Mass Instagram Downloads From Popular Cat and Dog Pages\n- Public Facing Official Datasets Such As Oxford-IIIT Pet Dataset\n- Public Facing Kaggle Datasets (Shoutout if your cats and dogs made it in)\n- Google Images Cats And Dogs",
+  "datasetId": 2889098,
+  "datasetSlug": "30k-cats-and-dogs-150x150-greyscale",
+  "hasDatasetSlug": true,
+  "ownerUser": "unmoved",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6396,
+  "totalVotes": 47,
+  "totalDownloads": 1029,
+  "title": "30k Cats and Dogs 150x150 Greyscale",
+  "hasTitle": true,
+  "subtitle": "Only 139MB Folder Size!",
+  "hasSubtitle": true,
+  "description": "A massive collection of cats and dogs.\n\n- Mass Instagram Downloads From Popular Cat and Dog Pages\n- Public Facing Official Datasets Such As Oxford-IIIT Pet Dataset\n- Public Facing Kaggle Datasets (Shoutout if your cats and dogs made it in)\n- Google Images Cats And Dogs",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "classification",
+    "binary classification",
+    "convolution"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

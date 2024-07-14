@@ -1,0 +1,44 @@
+{
+  "id": "soumicksarker/ipn-hand-dataset",
+  "id_no": 3542339,
+  "datasetSlugNullable": "ipn-hand-dataset",
+  "ownerUserNullable": "soumicksarker",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IPN Hand Dataset",
+  "subtitleNullable": "A new benchmark video dataset for continuous Hand Gesture Recognition (HGR)",
+  "descriptionNullable": "The IPN Hand dataset contains more than 4,000 gesture instances and 800,000 frames from 50 subjects. 13 static and dynamic gestures for interaction with touchless screens. Compared to other publicly available hand gesture datasets, IPN Hand includes the largest number of continuous gestures per video, and the largest speed of intra-class variation.\n\nThe data collection was designed considering real-world issues of continuous HGR, including continuous gestures performed without transitional states, natural movements as non-gesture segments, scenes including clutter backgrounds, extreme illumination conditions, as well as static and dynamic environments.\n\nThe subjects from the dataset were asked to record gestures using their own PC keeping the defined resolution and frame rate. Thus, only RGB videos were captured, and the distance between the camera and each subject varies. All videos were recorded in the resolution of 640x480 at 30 fps.\n\nEach subject continuously performed 21 gestures with three random breaks in a single video. We defined 13 gestures to control the pointer and actions focused on the interaction with touchless screens.",
+  "datasetId": 3542339,
+  "datasetSlug": "ipn-hand-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "soumicksarker",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2297,
+  "totalVotes": 14,
+  "totalDownloads": 207,
+  "title": "IPN Hand Dataset",
+  "hasTitle": true,
+  "subtitle": "A new benchmark video dataset for continuous Hand Gesture Recognition (HGR)",
+  "hasSubtitle": true,
+  "description": "The IPN Hand dataset contains more than 4,000 gesture instances and 800,000 frames from 50 subjects. 13 static and dynamic gestures for interaction with touchless screens. Compared to other publicly available hand gesture datasets, IPN Hand includes the largest number of continuous gestures per video, and the largest speed of intra-class variation.\n\nThe data collection was designed considering real-world issues of continuous HGR, including continuous gestures performed without transitional states, natural movements as non-gesture segments, scenes including clutter backgrounds, extreme illumination conditions, as well as static and dynamic environments.\n\nThe subjects from the dataset were asked to record gestures using their own PC keeping the defined resolution and frame rate. Thus, only RGB videos were captured, and the distance between the camera and each subject varies. All videos were recorded in the resolution of 640x480 at 30 fps.\n\nEach subject continuously performed 21 gestures with three random breaks in a single video. We defined 13 gestures to control the pointer and actions focused on the interaction with touchless screens.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "advanced",
+    "computer vision",
+    "video",
+    "video classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

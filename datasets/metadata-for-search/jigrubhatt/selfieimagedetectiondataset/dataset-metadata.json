@@ -1,0 +1,43 @@
+{
+  "id": "jigrubhatt/selfieimagedetectiondataset",
+  "id_no": 927596,
+  "datasetSlugNullable": "selfieimagedetectiondataset",
+  "ownerUserNullable": "jigrubhatt",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Selfie-Image-Detection-Dataset",
+  "subtitleNullable": "Detecting given images as selfie or not a selfie.",
+  "descriptionNullable": "The selfie image detection dataset consists of 78619 images including both selfie and non-selfie images. This dataset was integrated data from two different sources for sel\ufb01e and non-sel\ufb01e images respectively. Sel\ufb01e Images were collected from the University of Florida, Center of Research in Computer Vision Dataset, and Normal Images were collected from Flickr30K Dataset. This was done for the MTech thesis project where we were required to detect a given image as a selfie, this is helpful for database segregation.\n\nVarious annotations were taken care of: \n\u2022\tRegular sel\ufb01e images. \n\u2022\tSel\ufb01e with no background. \n\u2022\tSel\ufb01e with no full face. \n\u2022\tSel\ufb01e with side face. \n\u2022\tSel\ufb01e with a phone in the mirror.\n\u2022\tImages of eyes, legs, hands. \n\u2022\tImage of people taking sel\ufb01e. \n\u2022\tImages of objects, animals, etc. \n\u2022\tSel\ufb01e of a group of images.\n",
+  "datasetId": 927596,
+  "datasetSlug": "selfieimagedetectiondataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jigrubhatt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9566,
+  "totalVotes": 16,
+  "totalDownloads": 843,
+  "title": "Selfie-Image-Detection-Dataset",
+  "hasTitle": true,
+  "subtitle": "Detecting given images as selfie or not a selfie.",
+  "hasSubtitle": true,
+  "description": "The selfie image detection dataset consists of 78619 images including both selfie and non-selfie images. This dataset was integrated data from two different sources for sel\ufb01e and non-sel\ufb01e images respectively. Sel\ufb01e Images were collected from the University of Florida, Center of Research in Computer Vision Dataset, and Normal Images were collected from Flickr30K Dataset. This was done for the MTech thesis project where we were required to detect a given image as a selfie, this is helpful for database segregation.\n\nVarious annotations were taken care of: \n\u2022\tRegular sel\ufb01e images. \n\u2022\tSel\ufb01e with no background. \n\u2022\tSel\ufb01e with no full face. \n\u2022\tSel\ufb01e with side face. \n\u2022\tSel\ufb01e with a phone in the mirror.\n\u2022\tImages of eyes, legs, hands. \n\u2022\tImage of people taking sel\ufb01e. \n\u2022\tImages of objects, animals, etc. \n\u2022\tSel\ufb01e of a group of images.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "software",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

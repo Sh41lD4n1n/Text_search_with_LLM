@@ -1,0 +1,39 @@
+{
+  "id": "ksaivenketpatro/fake-news-detection-dataset",
+  "id_no": 108217,
+  "datasetSlugNullable": "fake-news-detection-dataset",
+  "ownerUserNullable": "ksaivenketpatro",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake News Detection Dataset",
+  "subtitleNullable": "Detection of Fake News",
+  "descriptionNullable": "",
+  "datasetId": 108217,
+  "datasetSlug": "fake-news-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ksaivenketpatro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 11678,
+  "totalVotes": 16,
+  "totalDownloads": 1433,
+  "title": "Fake News Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Detection of Fake News",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dhanushrajm/images",
+  "id_no": 4487849,
+  "datasetSlugNullable": "images",
+  "ownerUserNullable": "dhanushrajm",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Object Detection using YOLOV3",
+  "subtitleNullable": "",
+  "descriptionNullable": "YOLO (You Only Look Once) is a popular object detection algorithm that processes images in a single pass through a neural network to simultaneously predict bounding boxes and class probabilities for objects within those boxes. YOLOv3 is one of the versions of this algorithm, known for its balance between speed and accuracy.\n\nFor training and testing YOLOv3, you can use a variety of datasets depending on your application. Some commonly used datasets for object detection tasks, including those suitable for YOLOv3, are:\n\nCOCO (Common Objects in Context): This dataset is widely used for object detection, segmentation, and captioning tasks. It contains over 200,000 labeled images with 80 object categories.\n\nPascal VOC (Visual Object Classes): This dataset consists of images annotated with object bounding boxes and class labels. It includes 20 object categories such as person, car, dog, etc.\n\nOpen Images Dataset: This is a large-scale dataset with millions of images annotated with object bounding boxes and class labels. It covers a wide range of object categories.\n\nKITTI Vision Benchmark Suite: Primarily used for autonomous driving research, this dataset contains images captured from a moving vehicle with annotations for object detection, tracking, and scene understanding.\n\nImageNet: Although primarily known for image classification, ImageNet also contains bounding box annotations for object detection tasks. It consists of millions of images across thousands of categories.\n\nThese datasets provide a diverse range of objects in various contexts, making them suitable for training and evaluating object detection models like YOLOv3.",
+  "datasetId": 4487849,
+  "datasetSlug": "images",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhanushrajm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 173,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "Object Detection using YOLOV3",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "YOLO (You Only Look Once) is a popular object detection algorithm that processes images in a single pass through a neural network to simultaneously predict bounding boxes and class probabilities for objects within those boxes. YOLOv3 is one of the versions of this algorithm, known for its balance between speed and accuracy.\n\nFor training and testing YOLOv3, you can use a variety of datasets depending on your application. Some commonly used datasets for object detection tasks, including those suitable for YOLOv3, are:\n\nCOCO (Common Objects in Context): This dataset is widely used for object detection, segmentation, and captioning tasks. It contains over 200,000 labeled images with 80 object categories.\n\nPascal VOC (Visual Object Classes): This dataset consists of images annotated with object bounding boxes and class labels. It includes 20 object categories such as person, car, dog, etc.\n\nOpen Images Dataset: This is a large-scale dataset with millions of images annotated with object bounding boxes and class labels. It covers a wide range of object categories.\n\nKITTI Vision Benchmark Suite: Primarily used for autonomous driving research, this dataset contains images captured from a moving vehicle with annotations for object detection, tracking, and scene understanding.\n\nImageNet: Although primarily known for image classification, ImageNet also contains bounding box annotations for object detection tasks. It consists of millions of images across thousands of categories.\n\nThese datasets provide a diverse range of objects in various contexts, making them suitable for training and evaluating object detection models like YOLOv3.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

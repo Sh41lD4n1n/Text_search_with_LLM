@@ -1,0 +1,44 @@
+{
+  "id": "mayankchandak/voc2012-processed-data-for-yolov5",
+  "id_no": 4285036,
+  "datasetSlugNullable": "voc2012-processed-data-for-yolov5",
+  "ownerUserNullable": "mayankchandak",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Processed_data_for_yolov5_20ClassObjectDetection",
+  "subtitleNullable": "VOC_2012 Ready to use Dataset for yolo 20 class object detection",
+  "descriptionNullable": "This data was taken from VOC 2012 competition dataset. I have extracted the data from the .xml files into .txt files in the correct directories as required for yolo. There are 20 classes \n--&gt; labels_dictionary = {'person':0, 'car':1, 'chair':2, 'bottle':3, 'pottedplant':4, 'bird':5, 'dog':6,\n'sofa':7, 'bicycle':8, 'horse':9, 'boat':10, 'motorbike':11, 'cat':12, 'tvmonitor':13,\n'cow':14, 'sheep':15, 'aeroplane':16, 'train':17, 'diningtable':18, 'bus':19}. \n",
+  "datasetId": 4285036,
+  "datasetSlug": "voc2012-processed-data-for-yolov5",
+  "hasDatasetSlug": true,
+  "ownerUser": "mayankchandak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 382,
+  "totalVotes": 4,
+  "totalDownloads": 34,
+  "title": "Processed_data_for_yolov5_20ClassObjectDetection",
+  "hasTitle": true,
+  "subtitle": "VOC_2012 Ready to use Dataset for yolo 20 class object detection",
+  "hasSubtitle": true,
+  "description": "This data was taken from VOC 2012 competition dataset. I have extracted the data from the .xml files into .txt files in the correct directories as required for yolo. There are 20 classes \n--&gt; labels_dictionary = {'person':0, 'car':1, 'chair':2, 'bottle':3, 'pottedplant':4, 'bird':5, 'dog':6,\n'sofa':7, 'bicycle':8, 'horse':9, 'boat':10, 'motorbike':11, 'cat':12, 'tvmonitor':13,\n'cow':14, 'sheep':15, 'aeroplane':16, 'train':17, 'diningtable':18, 'bus':19}. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "intermediate",
+    "cv2",
+    "multilabel classification",
+    "image classification",
+    "yolov5"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

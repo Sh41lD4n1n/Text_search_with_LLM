@@ -1,0 +1,43 @@
+{
+  "id": "swathiunnikrishnan/amazon-consumer-behaviour-dataset",
+  "id_no": 3486077,
+  "datasetSlugNullable": "amazon-consumer-behaviour-dataset",
+  "ownerUserNullable": "swathiunnikrishnan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon consumer Behaviour Dataset",
+  "subtitleNullable": "Unveiling Customer Insights: Analyzing Amazon Consumer Behavior Dataset",
+  "descriptionNullable": "\n1.age=                                                     age\n\n2.gender=                                               gender\n\n3.Purchase_Frequency=                        How frequently do you make purchases on Amazon? \n\n4.Purchase_Categories=                       What product categories do you typically purchase on Amazon?\n\n5.Personalized_Recommendation_Frequency  =   Have you ever made a purchase based on personalized product recommendations from Amazon?\n\n6.Browsing_Frequency                     =How often do you browse Amazon's website or app? \n\n7.Product_Search_Method                  =How do you search for products on Amazon?\n\n8.Search_Result_Exploration               =Do you tend to explore multiple pages of search results or focus on the first page?\n\n9.Customer_Reviews_Importance             =How important are customer reviews in your decision-making process?\n\n10.Add_to_Cart_Browsing                   =Do you add products to your cart while browsing on Amazon?\n\n11.Cart_Completion_Frequency               =How often do you complete the purchase after adding products to your cart?\n\n12.Cart_Abandonment_Factors                =What factors influence your decision to abandon a purchase in your cart? \n\n13.Saveforlater_Frequency                 =Do you use Amazon's \"Save for Later\" feature, and if so, how often?\n\n14.Review_Left                            =Have you ever left a product review on Amazon?\n\n15.Review_Reliability                    =How much do you rely on product reviews when making a purchase?\n\n16.Review_Helpfulness                     =Do you find helpful information from other customers' reviews?\n\n17.Personalized_Recommendation_Frequency         =How often do you receive personalized product recommendations from Amazon?\n\n18.Recommendation_Helpfulness                    =Do you find the recommendations helpful?\n\n19.Rating_Accuracy                 =How would you rate the relevance and accuracy of the recommendations you receive\n\n20.Shopping_Satisfaction         =How satisfied are you with your overall shopping experience on Amazon?\n\n23.Service_Appreciation         =What aspects of Amazon's services do you appreciate the most?\n\n24.Improvement_Areas            =Are there any areas where you think Amazon can improve?",
+  "datasetId": 3486077,
+  "datasetSlug": "amazon-consumer-behaviour-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "swathiunnikrishnan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 44293,
+  "totalVotes": 109,
+  "totalDownloads": 8524,
+  "title": "Amazon consumer Behaviour Dataset",
+  "hasTitle": true,
+  "subtitle": "Unveiling Customer Insights: Analyzing Amazon Consumer Behavior Dataset",
+  "hasSubtitle": true,
+  "description": "\n1.age=                                                     age\n\n2.gender=                                               gender\n\n3.Purchase_Frequency=                        How frequently do you make purchases on Amazon? \n\n4.Purchase_Categories=                       What product categories do you typically purchase on Amazon?\n\n5.Personalized_Recommendation_Frequency  =   Have you ever made a purchase based on personalized product recommendations from Amazon?\n\n6.Browsing_Frequency                     =How often do you browse Amazon's website or app? \n\n7.Product_Search_Method                  =How do you search for products on Amazon?\n\n8.Search_Result_Exploration               =Do you tend to explore multiple pages of search results or focus on the first page?\n\n9.Customer_Reviews_Importance             =How important are customer reviews in your decision-making process?\n\n10.Add_to_Cart_Browsing                   =Do you add products to your cart while browsing on Amazon?\n\n11.Cart_Completion_Frequency               =How often do you complete the purchase after adding products to your cart?\n\n12.Cart_Abandonment_Factors                =What factors influence your decision to abandon a purchase in your cart? \n\n13.Saveforlater_Frequency                 =Do you use Amazon's \"Save for Later\" feature, and if so, how often?\n\n14.Review_Left                            =Have you ever left a product review on Amazon?\n\n15.Review_Reliability                    =How much do you rely on product reviews when making a purchase?\n\n16.Review_Helpfulness                     =Do you find helpful information from other customers' reviews?\n\n17.Personalized_Recommendation_Frequency         =How often do you receive personalized product recommendations from Amazon?\n\n18.Recommendation_Helpfulness                    =Do you find the recommendations helpful?\n\n19.Rating_Accuracy                 =How would you rate the relevance and accuracy of the recommendations you receive\n\n20.Shopping_Satisfaction         =How satisfied are you with your overall shopping experience on Amazon?\n\n23.Service_Appreciation         =What aspects of Amazon's services do you appreciate the most?\n\n24.Improvement_Areas            =Are there any areas where you think Amazon can improve?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "economics",
+    "ratings and reviews",
+    "e-commerce services",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

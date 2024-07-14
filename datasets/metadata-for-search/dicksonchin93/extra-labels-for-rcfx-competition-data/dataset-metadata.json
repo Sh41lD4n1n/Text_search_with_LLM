@@ -1,0 +1,46 @@
+{
+  "id": "dicksonchin93/extra-labels-for-rcfx-competition-data",
+  "id_no": 1167564,
+  "datasetSlugNullable": "extra-labels-for-rcfx-competition-data",
+  "ownerUserNullable": "dicksonchin93",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Extra Labels for RFCX competition data",
+  "subtitleNullable": "Extra Labels for RFCX competition data",
+  "descriptionNullable": "### Context\n\nThis dataset consist of extra complementary true positive labels of the audio data listed in the Rainforest Connecttion Species Audio Detection Competition https://www.kaggle.com/c/rfcx-species-audio-detection/data . All data provided here are hand labelled\n\n### Content\n\n-  extra_labels_v1.csv : initial extra labels of train_tp.csv\n-  extra_labels_v2.csv : additional extra labels on top of extra_labels_v1.csv and including extra_labels_v1.csv\n-  extra_labels_v3.csv : additional extra labels on top of extra_labels_v2.csv and including extra_labels_v2.csv\n-  extra_labels_v4.csv : additional extra labels on top of extra_labels_v3.csv and including extra_labels_v3.csv\n- extra_labels_v5.csv : corrected what I thought was wrongly annotated for species 15 and replace with species 12\n- extra_labels_v6.csv : removed some false species 15 true positives from  extra_labels_v4.csv\n- extra_labels_v7.csv : additional extra labels on top of extra_labels_v6.csv and including extra_labels_v6.csv\n- extra_labels_v8.csv : additional extra labels on top of extra_labels_v7.csv and including extra_labels_v7.csv\n- extra_labels_v9.csv: remove false true positives from extra_labels_v8.csv based on train_fp.csv\n- extra_labels_v71.csv : removed some rows from extra_labels_v7.csv and change column names\n- extra_fp_label_v2.csv : extra true positive labels for train_fp.csv\n- extra_fp_label_v3.csv :  additional extra labels on top of extra_fp_label_v2.csv and including extra_fp_label_v2.csv\n- extra_fp_label_v4.csv :  additional extra labels on top of extra_fp_label_v3.csv and including extra_fp_label_v3.csv\n- extra_fp_label_v5.csv :  additional extra labels on top of extra_fp_label_v4.csv and including extra_fp_label_v4.csv\n- noisy_indexes_fp_tp_v5.csv : noisy or not noisy for the recording ids in extra_fp_label_v*.csv\n- noisy_tp_rec_ids.csv: noisy or not noisy for the recording ids in train_tp.csv based on extra labels in extra_labels_v7.csv\n\n\n### Acknowledgements\n\nCredits to @meaninglesslives for creating extra_labels_v71.csv",
+  "datasetId": 1167564,
+  "datasetSlug": "extra-labels-for-rcfx-competition-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "dicksonchin93",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2774,
+  "totalVotes": 7,
+  "totalDownloads": 58,
+  "title": "Extra Labels for RFCX competition data",
+  "hasTitle": true,
+  "subtitle": "Extra Labels for RFCX competition data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset consist of extra complementary true positive labels of the audio data listed in the Rainforest Connecttion Species Audio Detection Competition https://www.kaggle.com/c/rfcx-species-audio-detection/data . All data provided here are hand labelled\n\n### Content\n\n-  extra_labels_v1.csv : initial extra labels of train_tp.csv\n-  extra_labels_v2.csv : additional extra labels on top of extra_labels_v1.csv and including extra_labels_v1.csv\n-  extra_labels_v3.csv : additional extra labels on top of extra_labels_v2.csv and including extra_labels_v2.csv\n-  extra_labels_v4.csv : additional extra labels on top of extra_labels_v3.csv and including extra_labels_v3.csv\n- extra_labels_v5.csv : corrected what I thought was wrongly annotated for species 15 and replace with species 12\n- extra_labels_v6.csv : removed some false species 15 true positives from  extra_labels_v4.csv\n- extra_labels_v7.csv : additional extra labels on top of extra_labels_v6.csv and including extra_labels_v6.csv\n- extra_labels_v8.csv : additional extra labels on top of extra_labels_v7.csv and including extra_labels_v7.csv\n- extra_labels_v9.csv: remove false true positives from extra_labels_v8.csv based on train_fp.csv\n- extra_labels_v71.csv : removed some rows from extra_labels_v7.csv and change column names\n- extra_fp_label_v2.csv : extra true positive labels for train_fp.csv\n- extra_fp_label_v3.csv :  additional extra labels on top of extra_fp_label_v2.csv and including extra_fp_label_v2.csv\n- extra_fp_label_v4.csv :  additional extra labels on top of extra_fp_label_v3.csv and including extra_fp_label_v3.csv\n- extra_fp_label_v5.csv :  additional extra labels on top of extra_fp_label_v4.csv and including extra_fp_label_v4.csv\n- noisy_indexes_fp_tp_v5.csv : noisy or not noisy for the recording ids in extra_fp_label_v*.csv\n- noisy_tp_rec_ids.csv: noisy or not noisy for the recording ids in train_tp.csv based on extra labels in extra_labels_v7.csv\n\n\n### Acknowledgements\n\nCredits to @meaninglesslives for creating extra_labels_v71.csv",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "meaninglesslives",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

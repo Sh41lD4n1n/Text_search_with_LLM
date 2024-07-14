@@ -1,0 +1,39 @@
+{
+  "id": "sejalhanmante/imdb-top-1000-movies-dataset",
+  "id_no": 3855500,
+  "datasetSlugNullable": "imdb-top-1000-movies-dataset",
+  "ownerUserNullable": "sejalhanmante",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "IMDB TOP 1000 MOVIES DATASET",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3855500,
+  "datasetSlug": "imdb-top-1000-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sejalhanmante",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 53,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "IMDB TOP 1000 MOVIES DATASET",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

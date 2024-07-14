@@ -1,0 +1,41 @@
+{
+  "id": "harry418/dataset-for-mask-detection",
+  "id_no": 789764,
+  "datasetSlugNullable": "dataset-for-mask-detection",
+  "ownerUserNullable": "harry418",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "dataset for mask detection",
+  "subtitleNullable": "This dataset contains masked and non-masked images for mask detection",
+  "descriptionNullable": "This dataset is used for mask-detection . this dataset has only 2 folders mask and without_mask. each folder has approx 600 image of human face with different angles with mask and without mask respectively.\n   **Examples-**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2Ffa8633339498fc5003476f8b8147791c%2F15.jpeg?generation=1595289995870877&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2F3b623f4d7ad2b7b0524dfd09d3dd2860%2F47.jpeg?generation=1595290037406713&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2F7c1b22267e877d946fb6d74e6d02c2a8%2F88.jpeg?generation=1595290074821950&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2Fb3611feba41a66c38cd5eb5a6ef6554c%2F73.jpg?generation=1595290172683026&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2F41c4427433b419cd67ae4fe45f137339%2F439.jpg?generation=1595290198481630&alt=media)\n",
+  "datasetId": 789764,
+  "datasetSlug": "dataset-for-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "harry418",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4404,
+  "totalVotes": 7,
+  "totalDownloads": 344,
+  "title": "dataset for mask detection",
+  "hasTitle": true,
+  "subtitle": "This dataset contains masked and non-masked images for mask detection",
+  "hasSubtitle": true,
+  "description": "This dataset is used for mask-detection . this dataset has only 2 folders mask and without_mask. each folder has approx 600 image of human face with different angles with mask and without mask respectively.\n   **Examples-**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2Ffa8633339498fc5003476f8b8147791c%2F15.jpeg?generation=1595289995870877&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2F3b623f4d7ad2b7b0524dfd09d3dd2860%2F47.jpeg?generation=1595290037406713&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2F7c1b22267e877d946fb6d74e6d02c2a8%2F88.jpeg?generation=1595290074821950&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2Fb3611feba41a66c38cd5eb5a6ef6554c%2F73.jpg?generation=1595290172683026&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2803757%2F41c4427433b419cd67ae4fe45f137339%2F439.jpg?generation=1595290198481630&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "earth and nature",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

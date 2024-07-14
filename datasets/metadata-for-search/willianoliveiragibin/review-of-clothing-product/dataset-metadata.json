@@ -1,0 +1,48 @@
+{
+  "id": "willianoliveiragibin/review-of-clothing-product",
+  "id_no": 3931470,
+  "datasetSlugNullable": "review-of-clothing-product",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Review of Clothing Product",
+  "subtitleNullable": "Fit, Feel, and Fashion: A Deep Dive into Clothing Reviews 2023",
+  "descriptionNullable": "The dataset is collected on our own from various sources. This dataset comprises a comprehensive collection of reviews pertaining to clothing products and serves as a valuable resource for multilabel classification research. Each data entry is meticulously annotated with relevant labels, allowing researchers to explore various dimensions of the clothing products being reviewed. The dataset offers a rich diversity of perspectives and opinions, enabling the development and evaluation of robust classification models that can accurately predict multiple aspects of a given clothing item. With its focus on multilabel classification, this data contributes significantly to advancing the understanding and application of machine learning algorithms in the fashion industry.\n\nGirawan, Nadhif ; Alamsyah, Andry (2023), \u201cConsumer Review of Clothing Product\u201d, Mendeley Data, V2, doi: 10.17632/pg3s4hw68k.2\nThe files associated with this dataset are licensed under a Creative Commons Attribution 4.0 International licence.",
+  "datasetId": 3931470,
+  "datasetSlug": "review-of-clothing-product",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 957,
+  "totalVotes": 7,
+  "totalDownloads": 155,
+  "title": "Review of Clothing Product",
+  "hasTitle": true,
+  "subtitle": "Fit, Feel, and Fashion: A Deep Dive into Clothing Reviews 2023",
+  "hasSubtitle": true,
+  "description": "The dataset is collected on our own from various sources. This dataset comprises a comprehensive collection of reviews pertaining to clothing products and serves as a valuable resource for multilabel classification research. Each data entry is meticulously annotated with relevant labels, allowing researchers to explore various dimensions of the clothing products being reviewed. The dataset offers a rich diversity of perspectives and opinions, enabling the development and evaluation of robust classification models that can accurately predict multiple aspects of a given clothing item. With its focus on multilabel classification, this data contributes significantly to advancing the understanding and application of machine learning algorithms in the fashion industry.\n\nGirawan, Nadhif ; Alamsyah, Andry (2023), \u201cConsumer Review of Clothing Product\u201d, Mendeley Data, V2, doi: 10.17632/pg3s4hw68k.2\nThe files associated with this dataset are licensed under a Creative Commons Attribution 4.0 International licence.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "banking",
+    "exploratory data analysis",
+    "statistical analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "jocelyndumlao",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

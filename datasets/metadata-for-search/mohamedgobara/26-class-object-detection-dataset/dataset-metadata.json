@@ -1,0 +1,43 @@
+{
+  "id": "mohamedgobara/26-class-object-detection-dataset",
+  "id_no": 4408472,
+  "datasetSlugNullable": "26-class-object-detection-dataset",
+  "ownerUserNullable": "mohamedgobara",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "26 Class Object detection dataset",
+  "subtitleNullable": "Comprehensive 26-Class Object Detection Dataset for Urban Scenes",
+  "descriptionNullable": "\nThe \"26 Class Object Detection Dataset\" comprises a comprehensive collection of images annotated with objects belonging to 26 distinct classes. Each class represents a common urban or outdoor element encountered in various scenarios. The dataset includes the following classes:\n\nBench\nBicycle\nBranch\nBus\nBushes\nCar\nCrosswalk\nDoor\nElevator\nFire Hydrant\nGreen Light\nGun\nMotorcycle\nPerson\nPothole\nRat\nRed Light\nScooter\nStairs\nStop Sign\nTraffic Cone\nTrain\nTree\nTruck\nUmbrella\nYellow Light\nThese classes encompass a wide range of objects commonly encountered in urban and outdoor environments, including transportation vehicles, traffic signs, pedestrian-related elements, and natural features. The dataset serves as a valuable resource for training and evaluating object detection models, particularly those focused on urban scene understanding and safety applications.",
+  "datasetId": 4408472,
+  "datasetSlug": "26-class-object-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedgobara",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6100,
+  "totalVotes": 36,
+  "totalDownloads": 849,
+  "title": "26 Class Object detection dataset",
+  "hasTitle": true,
+  "subtitle": "Comprehensive 26-Class Object Detection Dataset for Urban Scenes",
+  "hasSubtitle": true,
+  "description": "\nThe \"26 Class Object Detection Dataset\" comprises a comprehensive collection of images annotated with objects belonging to 26 distinct classes. Each class represents a common urban or outdoor element encountered in various scenarios. The dataset includes the following classes:\n\nBench\nBicycle\nBranch\nBus\nBushes\nCar\nCrosswalk\nDoor\nElevator\nFire Hydrant\nGreen Light\nGun\nMotorcycle\nPerson\nPothole\nRat\nRed Light\nScooter\nStairs\nStop Sign\nTraffic Cone\nTrain\nTree\nTruck\nUmbrella\nYellow Light\nThese classes encompass a wide range of objects commonly encountered in urban and outdoor environments, including transportation vehicles, traffic signs, pedestrian-related elements, and natural features. The dataset serves as a valuable resource for training and evaluating object detection models, particularly those focused on urban scene understanding and safety applications.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "image",
+    "multiclass classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

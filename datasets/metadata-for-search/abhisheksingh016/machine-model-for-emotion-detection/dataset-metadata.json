@@ -1,0 +1,44 @@
+{
+  "id": "abhisheksingh016/machine-model-for-emotion-detection",
+  "id_no": 4374471,
+  "datasetSlugNullable": "machine-model-for-emotion-detection",
+  "ownerUserNullable": "abhisheksingh016",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Pre Trained Model For Emotion Detection",
+  "subtitleNullable": "Ready to use machine model for detecting emotions on images or webcam feed",
+  "descriptionNullable": "**FER2013 (Facial Expression Recognition 2013)** dataset is a widely used dataset for training and evaluating facial expression recognition models. Here are key details about the FER2013 dataset:\n\n**Overview:**\n\nFER2013 is a dataset designed for facial expression recognition tasks, particularly the classification of facial expressions into seven different emotion categories.\nThe dataset was introduced for the Emotion Recognition in the Wild (EmotiW) Challenge in 2013.\n\n**Emotion Categories:**\n\nThe dataset consists of images labeled with seven emotion categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.\n\n**Image Size:**\n\nEach image in the FER2013 dataset is grayscale and has a resolution of 48x48 pixels.\n\n**Number of Images:**\n\nThe dataset contains a total of 35,887 labeled images, with approximately 5,000 images per emotion category.\nPartitioning:\n\nFER2013 is often divided into training, validation, and test sets. The original split has 28,709 images for training, 3,589 images for validation, and 3,589 images for testing.\n\n**Usage in Research:**\n\nFER2013 has been widely used in research for benchmarking and training facial expression recognition models, particularly deep learning models.\nIt provides a standard dataset for evaluating the performance of models on real-world facial expressions.\nChallenges:\n\nThe FER2013 dataset is known for its relatively simple and posed facial expressions. In real-world scenarios, facial expressions can be more complex and spontaneous, and there are datasets addressing these challenges.\n\n**Challenges and Criticisms:**\n\nSome criticisms of the dataset include its relatively small size, limited diversity in facial expressions, and the fact that some expressions (e.g., \"Disgust\") are challenging to recognize accurately.\n\nThis pre trained machine model implements a **Convolutional Neural Network (CNN)** for emotion detection using the **TensorFlow** and **Keras frameworks.** The model architecture includes convolutional layers, batch normalization, and dropout for effective feature extraction and classification. The training process utilizes an **ImageDataGenerator** for data augmentation, enhancing the model's ability to generalize to various facial expressions.\n\n**Key Steps:**\n\n**Model Training:**\nThe CNN model is trained on an emotion dataset using an ImageDataGenerator for dynamic data augmentation.\nTraining is performed over a specified number of epochs with a reduced batch size for efficient learning.\n\n**Model Checkpoint:**\nModelCheckpoint is employed to save the best-performing model during training, ensuring that the most accurate model is retained.\n\n**Save Model and Memory Cleanup:**\nThe trained model is saved in both HDF5 and JSON formats.\nMemory is efficiently managed by deallocating resources, clearing the Keras session, and performing garbage collection.",
+  "datasetId": 4374471,
+  "datasetSlug": "machine-model-for-emotion-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhisheksingh016",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5127,
+  "totalVotes": 28,
+  "totalDownloads": 760,
+  "title": "Pre Trained Model For Emotion Detection",
+  "hasTitle": true,
+  "subtitle": "Ready to use machine model for detecting emotions on images or webcam feed",
+  "hasSubtitle": true,
+  "description": "**FER2013 (Facial Expression Recognition 2013)** dataset is a widely used dataset for training and evaluating facial expression recognition models. Here are key details about the FER2013 dataset:\n\n**Overview:**\n\nFER2013 is a dataset designed for facial expression recognition tasks, particularly the classification of facial expressions into seven different emotion categories.\nThe dataset was introduced for the Emotion Recognition in the Wild (EmotiW) Challenge in 2013.\n\n**Emotion Categories:**\n\nThe dataset consists of images labeled with seven emotion categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.\n\n**Image Size:**\n\nEach image in the FER2013 dataset is grayscale and has a resolution of 48x48 pixels.\n\n**Number of Images:**\n\nThe dataset contains a total of 35,887 labeled images, with approximately 5,000 images per emotion category.\nPartitioning:\n\nFER2013 is often divided into training, validation, and test sets. The original split has 28,709 images for training, 3,589 images for validation, and 3,589 images for testing.\n\n**Usage in Research:**\n\nFER2013 has been widely used in research for benchmarking and training facial expression recognition models, particularly deep learning models.\nIt provides a standard dataset for evaluating the performance of models on real-world facial expressions.\nChallenges:\n\nThe FER2013 dataset is known for its relatively simple and posed facial expressions. In real-world scenarios, facial expressions can be more complex and spontaneous, and there are datasets addressing these challenges.\n\n**Challenges and Criticisms:**\n\nSome criticisms of the dataset include its relatively small size, limited diversity in facial expressions, and the fact that some expressions (e.g., \"Disgust\") are challenging to recognize accurately.\n\nThis pre trained machine model implements a **Convolutional Neural Network (CNN)** for emotion detection using the **TensorFlow** and **Keras frameworks.** The model architecture includes convolutional layers, batch normalization, and dropout for effective feature extraction and classification. The training process utilizes an **ImageDataGenerator** for data augmentation, enhancing the model's ability to generalize to various facial expressions.\n\n**Key Steps:**\n\n**Model Training:**\nThe CNN model is trained on an emotion dataset using an ImageDataGenerator for dynamic data augmentation.\nTraining is performed over a specified number of epochs with a reduced batch size for efficient learning.\n\n**Model Checkpoint:**\nModelCheckpoint is employed to save the best-performing model during training, ensuring that the most accurate model is retained.\n\n**Save Model and Memory Cleanup:**\nThe trained model is saved in both HDF5 and JSON formats.\nMemory is efficiently managed by deallocating resources, clearing the Keras session, and performing garbage collection.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "image",
+    "pre-trained model",
+    "image augmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

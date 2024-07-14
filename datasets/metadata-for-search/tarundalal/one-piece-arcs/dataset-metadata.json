@@ -1,0 +1,43 @@
+{
+  "id": "tarundalal/one-piece-arcs",
+  "id_no": 2410792,
+  "datasetSlugNullable": "one-piece-arcs",
+  "ownerUserNullable": "tarundalal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "One Piece Arcs",
+  "subtitleNullable": "Anime Vyuh- A Fusion Of Coding And Anime",
+  "descriptionNullable": "[One Piece](https://animevyuh.org/category/one-piece) is a manga written and illustrated by Eiichiro Oda and published in Weekly Sh\u014dnen Jump magazine since 1997, which tells the adventures of Monkey D. Luffy and the Straw Hat Pirates in search of the One Piece treasure.\n\nHere is a dataset that contains the list of every Arc with the following columns:\n- Arc: The name of the Arc\n- TotalChapters - Total number of chapters drawn In Manga Volume\n- TotalPages - Total number of pages used for that particular Arc\n- Manga% - The overall contribution of that particular Arc in One Piece Manga\n- TotalEpisode - Total number of episode animated by Toei Animation\n- TotalMinutes - Total number of minutes that particluar Arc was telecasted in Anime\n- Anime% - The overall contribution of that particular Arc in One Piece Anime\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n",
+  "datasetId": 2410792,
+  "datasetSlug": "one-piece-arcs",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarundalal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9858,
+  "totalVotes": 57,
+  "totalDownloads": 1157,
+  "title": "One Piece Arcs",
+  "hasTitle": true,
+  "subtitle": "Anime Vyuh- A Fusion Of Coding And Anime",
+  "hasSubtitle": true,
+  "description": "[One Piece](https://animevyuh.org/category/one-piece) is a manga written and illustrated by Eiichiro Oda and published in Weekly Sh\u014dnen Jump magazine since 1997, which tells the adventures of Monkey D. Luffy and the Straw Hat Pirates in search of the One Piece treasure.\n\nHere is a dataset that contains the list of every Arc with the following columns:\n- Arc: The name of the Arc\n- TotalChapters - Total number of chapters drawn In Manga Volume\n- TotalPages - Total number of pages used for that particular Arc\n- Manga% - The overall contribution of that particular Arc in One Piece Manga\n- TotalEpisode - Total number of episode animated by Toei Animation\n- TotalMinutes - Total number of minutes that particluar Arc was telecasted in Anime\n- Anime% - The overall contribution of that particular Arc in One Piece Anime\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "tabular",
+    "anime and manga",
+    "pandas",
+    "plotly"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

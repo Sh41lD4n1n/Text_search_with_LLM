@@ -1,0 +1,44 @@
+{
+  "id": "dipankarsrirag/topic-modelling-on-emails",
+  "id_no": 887149,
+  "datasetSlugNullable": "topic-modelling-on-emails",
+  "ownerUserNullable": "dipankarsrirag",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Text Classification on Emails",
+  "subtitleNullable": "Email exchanges among journalists",
+  "descriptionNullable": "### Context\n\nIf you are working, then you are bound to face the problem of reading all the emails that are cluttered in your inbox. Some may be relevant and some may just try to loot you. Now our client is an editor for a major newspaper who is fed up of reading the emails that his/her journalists send and segregate them in their categories. So let us make his life a little easier.\n\n\n### Content\n\n- Data, given by the editor contains folders labelled by their categories and within them are text files which are unstructured data.\n- The text files are named as a unique identifier. Ex: 14831.txt.\n- Unfortunately, the IT department of the newspaper didn't do a great job maintaining the data and the result is the text files are labelled in multiple folders. Ex: 14147.txt is labelled under 'Crime', 'Entertainment' and 'Science'.",
+  "datasetId": 887149,
+  "datasetSlug": "topic-modelling-on-emails",
+  "hasDatasetSlug": true,
+  "ownerUser": "dipankarsrirag",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 24913,
+  "totalVotes": 31,
+  "totalDownloads": 2373,
+  "title": "Text Classification on Emails",
+  "hasTitle": true,
+  "subtitle": "Email exchanges among journalists",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIf you are working, then you are bound to face the problem of reading all the emails that are cluttered in your inbox. Some may be relevant and some may just try to loot you. Now our client is an editor for a major newspaper who is fed up of reading the emails that his/her journalists send and segregate them in their categories. So let us make his life a little easier.\n\n\n### Content\n\n- Data, given by the editor contains folders labelled by their categories and within them are text files which are unstructured data.\n- The text files are named as a unique identifier. Ex: 14831.txt.\n- Unfortunately, the IT department of the newspaper didn't do a great job maintaining the data and the result is the text files are labelled in multiple folders. Ex: 14147.txt is labelled under 'Crime', 'Entertainment' and 'Science'.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "nlp",
+    "classification",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

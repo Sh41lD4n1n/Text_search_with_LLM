@@ -1,0 +1,41 @@
+{
+  "id": "shariful07/student-mental-health",
+  "id_no": 2168167,
+  "datasetSlugNullable": "student-mental-health",
+  "ownerUserNullable": "shariful07",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Student Mental health",
+  "subtitleNullable": "A STATISTICAL RESEARCH ON THE EFFECTS OF MENTAL HEALTH ON STUDENTS\u2019 CGPA dataset",
+  "descriptionNullable": "A STATISTICAL RESEARCH ON THE EFFECTS OF MENTAL HEALTH ON STUDENTS\u2019 CGPA dataset\nThis Data set was collected by a survey conducted by Google forms from University student in order to examine their current academic situation and mental health.\n\nAll the data was based on Malaysia and collected from Iium (International Icamil University Malaysia).",
+  "datasetId": 2168167,
+  "datasetSlug": "student-mental-health",
+  "hasDatasetSlug": true,
+  "ownerUser": "shariful07",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 258139,
+  "totalVotes": 475,
+  "totalDownloads": 46043,
+  "title": "Student Mental health",
+  "hasTitle": true,
+  "subtitle": "A STATISTICAL RESEARCH ON THE EFFECTS OF MENTAL HEALTH ON STUDENTS\u2019 CGPA dataset",
+  "hasSubtitle": true,
+  "description": "A STATISTICAL RESEARCH ON THE EFFECTS OF MENTAL HEALTH ON STUDENTS\u2019 CGPA dataset\nThis Data set was collected by a survey conducted by Google forms from University student in order to examine their current academic situation and mental health.\n\nAll the data was based on Malaysia and collected from Iium (International Icamil University Malaysia).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "jmmvutu/summer-products-and-sales-in-ecommerce-wish",
+  "id_no": 819786,
+  "datasetSlugNullable": "summer-products-and-sales-in-ecommerce-wish",
+  "ownerUserNullable": "jmmvutu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sales of summer clothes in E-commerce Wish",
+  "subtitleNullable": "Top products with ratings and sales performance, unlike many other datasets",
+  "descriptionNullable": "### Foreword\n\nThis users dataset is a preview of a _much bigger_ dataset, with lots of related data (_product listings_ of sellers, _comments_ on listed products, etc...).\n\nMy [Telegram bot](https://t.me/JfreexDatasets_bot) will answer your queries and allow you to contact me.\n\n### Context\n\nStudying top products requires more than just product listings. You also need to know what sells well and what does not.\n\n### Content\n\nThis dataset contains product listings as well as products **ratings** and **sales performance**, which you would not find in other datasets.\n\nWith this, you can finally start to look for correlations and patterns regarding the success of a product and the various components.\n\n\n### Inspiration\n\n- How about trying to validate the established idea of human sensitiveness to price drops ? (discounted `price` compared to original `retail_price`)\n- You may look for top categories of products so that you know what sells best\n- Do bad products sell ? How about the relationship between the quality of a product (ratings) and its success ? Does the price factor into this ?\n\n\n### Collection Methodology\n\nThe data comes from the [Wish](wish.com) platform.\nBasically, the products listed in the dataset are those that would appear if you type \"summer\" in the search field of the platform.\n\nYou can browse the Wish website or app to get a feel of the type of information you can get from there and how they are presented. This might give you some ideas and a better understanding.\n\nIf you are confused about some columns, you can either look at the column descriptions, browse [the Wish website](wish.com)/app, or you can ask in the comments.\n\nThe data was scraped with *french* as settings (hence the presence of some non-ascii latin characters such as \u00ab *\u00e9* \u00bb and \u00ab *\u00e0* \u00bb) in the `title` column.\n\n### Features and Columns\n\nThe data was scraped in the *french localisation* (hence some non-ascii latin characters such as \u00ab *\u00e9* \u00bb and \u00ab *\u00e0* \u00bb) in the `title` column.\n\nThe `title_orig` on the other hand contains the original title (the base title) that is displayed by default. When a translation is provided by the seller, it appears in the `title` column. When the `title` and `title_orig` columns are the same, it generally means that the seller did not specify a translation that would be displayed to users with french settings.\n\n\n*A picture is worth a thousand words*. In the following screenshot you see some features and how to interpret them.\n\n![Search results page and columns explained](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488294%2F308810459ae5232399672ba3eef228ef%2Fannotated-search-results-wish-website.jpg?generation=1598785563117062&alt=media)\n",
+  "datasetId": 819786,
+  "datasetSlug": "summer-products-and-sales-in-ecommerce-wish",
+  "hasDatasetSlug": true,
+  "ownerUser": "jmmvutu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 212209,
+  "totalVotes": 476,
+  "totalDownloads": 28051,
+  "title": "Sales of summer clothes in E-commerce Wish",
+  "hasTitle": true,
+  "subtitle": "Top products with ratings and sales performance, unlike many other datasets",
+  "hasSubtitle": true,
+  "description": "### Foreword\n\nThis users dataset is a preview of a _much bigger_ dataset, with lots of related data (_product listings_ of sellers, _comments_ on listed products, etc...).\n\nMy [Telegram bot](https://t.me/JfreexDatasets_bot) will answer your queries and allow you to contact me.\n\n### Context\n\nStudying top products requires more than just product listings. You also need to know what sells well and what does not.\n\n### Content\n\nThis dataset contains product listings as well as products **ratings** and **sales performance**, which you would not find in other datasets.\n\nWith this, you can finally start to look for correlations and patterns regarding the success of a product and the various components.\n\n\n### Inspiration\n\n- How about trying to validate the established idea of human sensitiveness to price drops ? (discounted `price` compared to original `retail_price`)\n- You may look for top categories of products so that you know what sells best\n- Do bad products sell ? How about the relationship between the quality of a product (ratings) and its success ? Does the price factor into this ?\n\n\n### Collection Methodology\n\nThe data comes from the [Wish](wish.com) platform.\nBasically, the products listed in the dataset are those that would appear if you type \"summer\" in the search field of the platform.\n\nYou can browse the Wish website or app to get a feel of the type of information you can get from there and how they are presented. This might give you some ideas and a better understanding.\n\nIf you are confused about some columns, you can either look at the column descriptions, browse [the Wish website](wish.com)/app, or you can ask in the comments.\n\nThe data was scraped with *french* as settings (hence the presence of some non-ascii latin characters such as \u00ab *\u00e9* \u00bb and \u00ab *\u00e0* \u00bb) in the `title` column.\n\n### Features and Columns\n\nThe data was scraped in the *french localisation* (hence some non-ascii latin characters such as \u00ab *\u00e9* \u00bb and \u00ab *\u00e0* \u00bb) in the `title` column.\n\nThe `title_orig` on the other hand contains the original title (the base title) that is displayed by default. When a translation is provided by the seller, it appears in the `title` column. When the `title` and `title_orig` columns are the same, it generally means that the seller did not specify a translation that would be displayed to users with french settings.\n\n\n*A picture is worth a thousand words*. In the following screenshot you see some features and how to interpret them.\n\n![Search results page and columns explained](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488294%2F308810459ae5232399672ba3eef228ef%2Fannotated-search-results-wish-website.jpg?generation=1598785563117062&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "ratings and reviews",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

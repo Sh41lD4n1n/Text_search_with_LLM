@@ -1,0 +1,43 @@
+{
+  "id": "ahemateja19bec1025/traffic-sign-dataset-classification",
+  "id_no": 1794080,
+  "datasetSlugNullable": "traffic-sign-dataset-classification",
+  "ownerUserNullable": "ahemateja19bec1025",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Traffic Sign Dataset - Classification",
+  "subtitleNullable": "\ud83d\udea6\ud83d\udea8\ud83d\ude91\ud83d\ude94\ud83d\udea6\ud83d\udea8\ud83d\ude91\ud83d\ude94\ud83d\udea6\ud83d\udea8\ud83d\ude91\ud83d\ude94",
+  "descriptionNullable": "Here is the dataset for classifying the different classes of traffic signs. There are around 58 classes and each class has around 120 images. the labels.csv file has the respective description of the traffic sign class. You can change the assignment of these classIDs with descriptions. We can use the basic CNN model to get decent val accuracy. We have around 2000 files for testing.\n\nYou can view the notebook named official in the code section to train and test basic cnn model.\n\nPlease upvote the notebook and dataset if you like this.",
+  "datasetId": 1794080,
+  "datasetSlug": "traffic-sign-dataset-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahemateja19bec1025",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 55742,
+  "totalVotes": 101,
+  "totalDownloads": 8320,
+  "title": "Traffic Sign Dataset - Classification",
+  "hasTitle": true,
+  "subtitle": "\ud83d\udea6\ud83d\udea8\ud83d\ude91\ud83d\ude94\ud83d\udea6\ud83d\udea8\ud83d\ude91\ud83d\ude94\ud83d\udea6\ud83d\udea8\ud83d\ude91\ud83d\ude94",
+  "hasSubtitle": true,
+  "description": "Here is the dataset for classifying the different classes of traffic signs. There are around 58 classes and each class has around 120 images. the labels.csv file has the respective description of the traffic sign class. You can change the assignment of these classIDs with descriptions. We can use the basic CNN model to get decent val accuracy. We have around 2000 files for testing.\n\nYou can view the notebook named official in the code section to train and test basic cnn model.\n\nPlease upvote the notebook and dataset if you like this.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "computer vision",
+    "cnn",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

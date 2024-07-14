@@ -1,0 +1,39 @@
+{
+  "id": "ekatra/fake-or-real-news",
+  "id_no": 1068264,
+  "datasetSlugNullable": "fake-or-real-news",
+  "ownerUserNullable": "ekatra",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Fake or Real News",
+  "subtitleNullable": "fake or real news dataset",
+  "descriptionNullable": "",
+  "datasetId": 1068264,
+  "datasetSlug": "fake-or-real-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "ekatra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2401,
+  "totalVotes": 6,
+  "totalDownloads": 139,
+  "title": "Fake or Real News",
+  "hasTitle": true,
+  "subtitle": "fake or real news dataset",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

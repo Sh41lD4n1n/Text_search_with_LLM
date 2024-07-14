@@ -1,0 +1,43 @@
+{
+  "id": "chirantanacharyya/normal-tuberculosis-covid",
+  "id_no": 4999933,
+  "datasetSlugNullable": "normal-tuberculosis-covid",
+  "ownerUserNullable": "chirantanacharyya",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Normal Tuberculosis Covid-19 Chest Xrays images",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Content\nThe dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Normal/Covid-19/Tuberculosis). A total of 7135 x-ray images are present.\n\n### Acknowledgements\nSources:\nhttps://www.kaggle.com/paultimothymooney/chest-xray-pneumonia\nhttps://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset\nhttps://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia\nhttps://github.com/ieee8023/covid-chestxray-dataset\n\n### Inspiration\nApplication of Deep Learning techniques to detect and classify lung diseases from x-ray images",
+  "datasetId": 4999933,
+  "datasetSlug": "normal-tuberculosis-covid",
+  "hasDatasetSlug": true,
+  "ownerUser": "chirantanacharyya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 109,
+  "totalVotes": 0,
+  "totalDownloads": 31,
+  "title": "Normal Tuberculosis Covid-19 Chest Xrays images",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Content\nThe dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Normal/Covid-19/Tuberculosis). A total of 7135 x-ray images are present.\n\n### Acknowledgements\nSources:\nhttps://www.kaggle.com/paultimothymooney/chest-xray-pneumonia\nhttps://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset\nhttps://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia\nhttps://github.com/ieee8023/covid-chestxray-dataset\n\n### Inspiration\nApplication of Deep Learning techniques to detect and classify lung diseases from x-ray images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "multiclass classification",
+    "keras",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

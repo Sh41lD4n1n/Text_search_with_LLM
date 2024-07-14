@@ -1,0 +1,40 @@
+{
+  "id": "kashnitsky/hierarchical-text-classification",
+  "id_no": 583824,
+  "datasetSlugNullable": "hierarchical-text-classification",
+  "ownerUserNullable": "kashnitsky",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hierarchical text classification",
+  "subtitleNullable": "Exploring approaches to text classification with structured classes",
+  "descriptionNullable": "### Context\n\nIt's interesting to explore various approaches to hierarchical text classification. \n\n\n### Content\n\nLet's start with a dataset with Amazon product reviews, classes are structured: 6 \"level 1\" classes, 64 \"level 2\" classes, and 510 \"level 3\" classes.\nI share 3 files:\n - train_40k.csv - training 40k Amazon product reviews\n - valid_10k.csv - 10k reviews left for validation\n - unlabeled_150k.csv - raw 150k Amazon product reviews, these can be used for language model finetuning.\n\nLevel 1 classes are: health personal care, toys games, beauty, pet supplies, baby products, and grocery gourmet food. \n\n\n### Inspiration\n\nIdeas to explore:\n - a \"flat\" approach \u2013 concatenate class names like \"level1/level2/level3\", then train a basic mutli-class model\n - simple hierarchical approach: first, level 1 model classifies reviews into 6 level 1 classes, then one of 6 level 2 models is picked up, and so on. \n - fancy approaches like seq2seq with reviews as input and \"level1 level2 level3\" strings as outputs",
+  "datasetId": 583824,
+  "datasetSlug": "hierarchical-text-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "kashnitsky",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 48207,
+  "totalVotes": 61,
+  "totalDownloads": 3396,
+  "title": "Hierarchical text classification",
+  "hasTitle": true,
+  "subtitle": "Exploring approaches to text classification with structured classes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIt's interesting to explore various approaches to hierarchical text classification. \n\n\n### Content\n\nLet's start with a dataset with Amazon product reviews, classes are structured: 6 \"level 1\" classes, 64 \"level 2\" classes, and 510 \"level 3\" classes.\nI share 3 files:\n - train_40k.csv - training 40k Amazon product reviews\n - valid_10k.csv - 10k reviews left for validation\n - unlabeled_150k.csv - raw 150k Amazon product reviews, these can be used for language model finetuning.\n\nLevel 1 classes are: health personal care, toys games, beauty, pet supplies, baby products, and grocery gourmet food. \n\n\n### Inspiration\n\nIdeas to explore:\n - a \"flat\" approach \u2013 concatenate class names like \"level1/level2/level3\", then train a basic mutli-class model\n - simple hierarchical approach: first, level 1 model classifies reviews into 6 level 1 classes, then one of 6 level 2 models is picked up, and so on. \n - fancy approaches like seq2seq with reviews as input and \"level1 level2 level3\" strings as outputs",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

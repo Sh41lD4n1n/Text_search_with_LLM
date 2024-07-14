@@ -1,0 +1,39 @@
+{
+  "id": "junaidk0012/anime-dataset-2024",
+  "id_no": 5029735,
+  "datasetSlugNullable": "anime-dataset-2024",
+  "ownerUserNullable": "junaidk0012",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Anime Dataset 2024",
+  "subtitleNullable": "Latest dataset for Animes",
+  "descriptionNullable": "This dataset is a comprehensive collection of anime data, fetched from the MyAnimeList website using the Jikan API. It includes information on the latest animes, making it a valuable resource for up-to-date recommendations.\n\nThe dataset is primed for building an anime recommendation system. But you can also perform Exploratory data analysis , Data Cleaning .\n\nOverall, this dataset provides a rich source of information for anime enthusiasts and data scientists alike, offering a solid foundation for developing sophisticated recommendation systems and conducting insightful data analysis. It stands as a testament to the power of data in enhancing user experiences and driving innovation in the entertainment industry.",
+  "datasetId": 5029735,
+  "datasetSlug": "anime-dataset-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "junaidk0012",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 596,
+  "totalVotes": 4,
+  "totalDownloads": 66,
+  "title": "Anime Dataset 2024",
+  "hasTitle": true,
+  "subtitle": "Latest dataset for Animes",
+  "hasSubtitle": true,
+  "description": "This dataset is a comprehensive collection of anime data, fetched from the MyAnimeList website using the Jikan API. It includes information on the latest animes, making it a valuable resource for up-to-date recommendations.\n\nThe dataset is primed for building an anime recommendation system. But you can also perform Exploratory data analysis , Data Cleaning .\n\nOverall, this dataset provides a rich source of information for anime enthusiasts and data scientists alike, offering a solid foundation for developing sophisticated recommendation systems and conducting insightful data analysis. It stands as a testament to the power of data in enhancing user experiences and driving innovation in the entertainment industry.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "mylesoneill/pokemon-sun-and-moon-gen-7-stats",
+  "id_no": 385,
+  "datasetSlugNullable": "pokemon-sun-and-moon-gen-7-stats",
+  "ownerUserNullable": "mylesoneill",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Pokemon Sun and Moon (Gen 7) Stats",
+  "subtitleNullable": "Explore all 802 Pokemon from the newly released 7th Generation",
+  "descriptionNullable": "[Pokemon Sun and Moon][1] (released November 18th, 2016) are the latest games in the widely popular Pokemon video game franchise. Pokemon games are usually released in pairs (red and blue, gold and silver, x and y, etc.) and collectively each pair that introduces new pokemon to the game is known as a Generation. Pokemon Sun and Moon are the 7th Generation, adding new pokemon to the franchise as well as adjusting the stats and movesets of some of the older pokemon. (Please note that the recently popular PokemonGo games are unrelated to the Pokemon Video Games).\n\nThis dataset contains a full set of in-game statistics for all 802 pokemon in the Sun and Moon. It also includes full information on which pokemon can learn which moves (movesets.csv), what moves can do (moves.csv), and how damage is modified by pokemon type (type-chart.csv).\n\n**Pokemon Battle Simulation**\n\nWith the level of detail in the data provided here it is possible to almost fully simulate pokemon battles using the information provided (status effects and some other nuances are still missing). If you are interested in simulating how Pokemon battles would pan out between different opponents make sure to [read up on the math behind how Pokemon battles work][2].\n\n![Damage Calculation][3]\n\n![Damage Modifier][4]\n\n  [1]: https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon\n  [2]: http://bulbapedia.bulbagarden.net/wiki/Damage\n  [3]: http://cdn.bulbagarden.net/upload/4/47/DamageCalc.png\n  [4]: http://cdn.bulbagarden.net/upload/3/32/ModifierCalc.png",
+  "datasetId": 385,
+  "datasetSlug": "pokemon-sun-and-moon-gen-7-stats",
+  "hasDatasetSlug": true,
+  "ownerUser": "mylesoneill",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 36694,
+  "totalVotes": 81,
+  "totalDownloads": 3527,
+  "title": "Pokemon Sun and Moon (Gen 7) Stats",
+  "hasTitle": true,
+  "subtitle": "Explore all 802 Pokemon from the newly released 7th Generation",
+  "hasSubtitle": true,
+  "description": "[Pokemon Sun and Moon][1] (released November 18th, 2016) are the latest games in the widely popular Pokemon video game franchise. Pokemon games are usually released in pairs (red and blue, gold and silver, x and y, etc.) and collectively each pair that introduces new pokemon to the game is known as a Generation. Pokemon Sun and Moon are the 7th Generation, adding new pokemon to the franchise as well as adjusting the stats and movesets of some of the older pokemon. (Please note that the recently popular PokemonGo games are unrelated to the Pokemon Video Games).\n\nThis dataset contains a full set of in-game statistics for all 802 pokemon in the Sun and Moon. It also includes full information on which pokemon can learn which moves (movesets.csv), what moves can do (moves.csv), and how damage is modified by pokemon type (type-chart.csv).\n\n**Pokemon Battle Simulation**\n\nWith the level of detail in the data provided here it is possible to almost fully simulate pokemon battles using the information provided (status effects and some other nuances are still missing). If you are interested in simulating how Pokemon battles would pan out between different opponents make sure to [read up on the math behind how Pokemon battles work][2].\n\n![Damage Calculation][3]\n\n![Damage Modifier][4]\n\n  [1]: https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon\n  [2]: http://bulbapedia.bulbagarden.net/wiki/Damage\n  [3]: http://cdn.bulbagarden.net/upload/4/47/DamageCalc.png\n  [4]: http://cdn.bulbagarden.net/upload/3/32/ModifierCalc.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mathan/fifa-2018-match-statistics",
+  "id_no": 32736,
+  "datasetSlugNullable": "fifa-2018-match-statistics",
+  "ownerUserNullable": "mathan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Predict FIFA 2018 Man of the Match",
+  "subtitleNullable": "Match statistics with which team player has won Man of the match",
+  "descriptionNullable": "### Context\n\nI thought of consolidating and sharing this public data to see how the data science world uses it discover interesting patterns. The data has been collected from 2018 FIFA World Cup Russia Official App.\n\n### Content\nThe data will be updated after each match daily.\n\nNote: On the column '1st Goal', any goal that was scored in the extra time will be denoted as 45 or 90 based on 1st or 2nd half of the game (ex. if 1st goal was scored in 45+2 mins then it will be mentioned as 45 instead of 47, likewise for the 2nd half)\n\n### Acknowledgements\n\nThanks to the FIFA 2018 World Cup App.\n\n\n### Inspiration\nI thought of consolidating and sharing this public data to see how the data science world uses it discover interesting patterns. Can we predict the Man of the match award using this statistics before the official announcement that will be made right after the match?",
+  "datasetId": 32736,
+  "datasetSlug": "fifa-2018-match-statistics",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 95519,
+  "totalVotes": 326,
+  "totalDownloads": 16491,
+  "title": "Predict FIFA 2018 Man of the Match",
+  "hasTitle": true,
+  "subtitle": "Match statistics with which team player has won Man of the match",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI thought of consolidating and sharing this public data to see how the data science world uses it discover interesting patterns. The data has been collected from 2018 FIFA World Cup Russia Official App.\n\n### Content\nThe data will be updated after each match daily.\n\nNote: On the column '1st Goal', any goal that was scored in the extra time will be denoted as 45 or 90 based on 1st or 2nd half of the game (ex. if 1st goal was scored in 45+2 mins then it will be mentioned as 45 instead of 47, likewise for the 2nd half)\n\n### Acknowledgements\n\nThanks to the FIFA 2018 World Cup App.\n\n\n### Inspiration\nI thought of consolidating and sharing this public data to see how the data science world uses it discover interesting patterns. Can we predict the Man of the match award using this statistics before the official announcement that will be made right after the match?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

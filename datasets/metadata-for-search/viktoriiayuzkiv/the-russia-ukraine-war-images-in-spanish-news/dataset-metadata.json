@@ -1,0 +1,50 @@
+{
+  "id": "viktoriiayuzkiv/the-russia-ukraine-war-images-in-spanish-news",
+  "id_no": 5279051,
+  "datasetSlugNullable": "the-russia-ukraine-war-images-in-spanish-news",
+  "ownerUserNullable": "viktoriiayuzkiv",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "The Russia-Ukraine War Images on Spanish News",
+  "subtitleNullable": "Annotated News Images from Spanish Broadcasts Covering the Russia-Ukraine War",
+  "descriptionNullable": "This dataset contains over 10,000 manually annotated images extracted from nightly news broadcasts of three Spanish television channels: Antena 3 (a3), La Sexta (la6), and Telecinco (t5). The images span a period from December 2022 to April 2024.\n\nEach image has been labelled into one of three categories: Military, Physical Damage from the War, and Not War. These two positive classes serve as proxies for \u201cwar images\u201d, covering the vast majority of war images shown in news broadcasts. Although this categorisation does not include all aspects of war (e.g., injured civilians), we believe it strikes a balance between a feasible classification task and an appropriate representation of war-related images. Moreover, images were labelled based on their content alone, without additional context. For an image to be classified as one of the positive classes, it had to clearly depict war-related content without relying on the context that all of these images may be related to war in some capacity.\n\nThis dataset serves as a valuable resource for exploring media coverage of the Russia-Ukraine war, providing a structured and annotated collection that can be used for training and evaluating machine learning models in image classification and analysis.\n\nKey features:\n\n- Total Images: 10,000+\n- Categories: Military, Physical Damage from the War, Not War\n- Channels: Antena 3 (a3), La Sexta (la6), Telecinco (t5)\n- Period: December 2022 - April 2024\n\nClass distribution:\n- Not War - 8,179 images\n- Military - 1,298 images\n- Physical Damage from the War - 862 images\n",
+  "datasetId": 5279051,
+  "datasetSlug": "the-russia-ukraine-war-images-in-spanish-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "viktoriiayuzkiv",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "The Russia-Ukraine War Images on Spanish News",
+  "hasTitle": true,
+  "subtitle": "Annotated News Images from Spanish Broadcasts Covering the Russia-Ukraine War",
+  "hasSubtitle": true,
+  "description": "This dataset contains over 10,000 manually annotated images extracted from nightly news broadcasts of three Spanish television channels: Antena 3 (a3), La Sexta (la6), and Telecinco (t5). The images span a period from December 2022 to April 2024.\n\nEach image has been labelled into one of three categories: Military, Physical Damage from the War, and Not War. These two positive classes serve as proxies for \u201cwar images\u201d, covering the vast majority of war images shown in news broadcasts. Although this categorisation does not include all aspects of war (e.g., injured civilians), we believe it strikes a balance between a feasible classification task and an appropriate representation of war-related images. Moreover, images were labelled based on their content alone, without additional context. For an image to be classified as one of the positive classes, it had to clearly depict war-related content without relying on the context that all of these images may be related to war in some capacity.\n\nThis dataset serves as a valuable resource for exploring media coverage of the Russia-Ukraine war, providing a structured and annotated collection that can be used for training and evaluating machine learning models in image classification and analysis.\n\nKey features:\n\n- Total Images: 10,000+\n- Categories: Military, Physical Damage from the War, Not War\n- Channels: Antena 3 (a3), La Sexta (la6), Telecinco (t5)\n- Period: December 2022 - April 2024\n\nClass distribution:\n- Not War - 8,179 images\n- Military - 1,298 images\n- Physical Damage from the War - 862 images\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "olivergatland",
+      "role": "writer"
+    },
+    {
+      "username": "adigianv",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

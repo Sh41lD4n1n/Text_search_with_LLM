@@ -1,0 +1,41 @@
+{
+  "id": "bhavyadhingra00020/longest-running-indian-television-series",
+  "id_no": 5298110,
+  "datasetSlugNullable": "longest-running-indian-television-series",
+  "ownerUserNullable": "bhavyadhingra00020",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Longest Running Indian Television Series",
+  "subtitleNullable": "A Journey Through Timeless Classics",
+  "descriptionNullable": "This dataset provides detailed information on the longest-running Indian television series in the Hindi language, specifically focusing on non-fiction genres. The data encompasses various attributes, including the length of time each show has been on air, the title, the network it was broadcasted on, the genre, start and end dates, the number of episodes, and additional notes. Below is a summary of the dataset structure:\n\n## Dataset Columns:\n- **Length (years)**: The duration for which the show has been running, expressed in years.\n- **Title**: The name of the television series.\n- **Network**: The TV network(s) that aired the show.\n- **Genre**: The category or type of the show (e.g., Agriculture, Music, Reality, Game show, Talk show, Cooking show, Stunt based Reality show, Cultural).\n- **Start date**: The date when the show first premiered.\n- **End date**: The date when the show ended, if applicable.\n- **No. of episodes**: The total number of episodes aired.\n- **Notes**: Additional information or significant achievements related to the show.",
+  "datasetId": 5298110,
+  "datasetSlug": "longest-running-indian-television-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavyadhingra00020",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "Longest Running Indian Television Series",
+  "hasTitle": true,
+  "subtitle": "A Journey Through Timeless Classics",
+  "hasSubtitle": true,
+  "description": "This dataset provides detailed information on the longest-running Indian television series in the Hindi language, specifically focusing on non-fiction genres. The data encompasses various attributes, including the length of time each show has been on air, the title, the network it was broadcasted on, the genre, start and end dates, the number of episodes, and additional notes. Below is a summary of the dataset structure:\n\n## Dataset Columns:\n- **Length (years)**: The duration for which the show has been running, expressed in years.\n- **Title**: The name of the television series.\n- **Network**: The TV network(s) that aired the show.\n- **Genre**: The category or type of the show (e.g., Agriculture, Music, Reality, Game show, Talk show, Cooking show, Stunt based Reality show, Cultural).\n- **Start date**: The date when the show first premiered.\n- **End date**: The date when the show ended, if applicable.\n- **No. of episodes**: The total number of episodes aired.\n- **Notes**: Additional information or significant achievements related to the show.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

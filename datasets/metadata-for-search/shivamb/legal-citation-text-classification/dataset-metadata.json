@@ -1,0 +1,43 @@
+{
+  "id": "shivamb/legal-citation-text-classification",
+  "id_no": 1710559,
+  "datasetSlugNullable": "legal-citation-text-classification",
+  "ownerUserNullable": "shivamb",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Legal Citation Text Classification",
+  "subtitleNullable": "Legal Industry - Citations Text Classification",
+  "descriptionNullable": "### Context\n\nThis dataset contains Australian legal cases from the Federal Court of Australia (FCA). The cases were downloaded from AustLII. All cases from the year 2006,2007,2008 and 2009 are included. For each document , catchphrases, citations sentences, citation catchphrases, and citation classes are captured. Citation classes are indicated in the document, and indicate the type of treatment given to the cases cited by the present case.\n\n### Exploration Ideas \n\n- Create a model to perform text classification on legal data\n- EDA to identify top keywords related to every type of case category\n\n### Acknowledgements \n\nCredits: Filippo Galgani\ngalganif '@' cse.unsw.edu.au\nSchool of Computer Science and Engineering\nThe Univeristy of New South Wales, Australia\n",
+  "datasetId": 1710559,
+  "datasetSlug": "legal-citation-text-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamb",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23027,
+  "totalVotes": 54,
+  "totalDownloads": 2074,
+  "title": "Legal Citation Text Classification",
+  "hasTitle": true,
+  "subtitle": "Legal Industry - Citations Text Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains Australian legal cases from the Federal Court of Australia (FCA). The cases were downloaded from AustLII. All cases from the year 2006,2007,2008 and 2009 are included. For each document , catchphrases, citations sentences, citation catchphrases, and citation classes are captured. Citation classes are indicated in the document, and indicate the type of treatment given to the cases cited by the present case.\n\n### Exploration Ideas \n\n- Create a model to perform text classification on legal data\n- EDA to identify top keywords related to every type of case category\n\n### Acknowledgements \n\nCredits: Filippo Galgani\ngalganif '@' cse.unsw.edu.au\nSchool of Computer Science and Engineering\nThe Univeristy of New South Wales, Australia\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "australia",
+    "government",
+    "law",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "falgunipatel19/biomedical-text-publication-classification",
+  "id_no": 2389764,
+  "datasetSlugNullable": "biomedical-text-publication-classification",
+  "ownerUserNullable": "falgunipatel19",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Medical Text Dataset -Cancer Doc Classification",
+  "subtitleNullable": "Cancer Text Documents Classification",
+  "descriptionNullable": "For Biomedical text document classification, abstract and full papers(whose length less than or equal to 6 pages) available and used. This dataset focused on long research paper whose page size more than 6 pages. Dataset includes cancer documents to be classified into 3 categories like 'Thyroid_Cancer','Colon_Cancer','Lung_Cancer'. \nTotal publications=7569. it has 3 class labels in dataset.\nnumber of samples in each categories:\ncolon cancer=2579, lung cancer=2180,  thyroid cancer=2810",
+  "datasetId": 2389764,
+  "datasetSlug": "biomedical-text-publication-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "falgunipatel19",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 32792,
+  "totalVotes": 63,
+  "totalDownloads": 6107,
+  "title": "Medical Text Dataset -Cancer Doc Classification",
+  "hasTitle": true,
+  "subtitle": "Cancer Text Documents Classification",
+  "hasSubtitle": true,
+  "description": "For Biomedical text document classification, abstract and full papers(whose length less than or equal to 6 pages) available and used. This dataset focused on long research paper whose page size more than 6 pages. Dataset includes cancer documents to be classified into 3 categories like 'Thyroid_Cancer','Colon_Cancer','Lung_Cancer'. \nTotal publications=7569. it has 3 class labels in dataset.\nnumber of samples in each categories:\ncolon cancer=2579, lung cancer=2180,  thyroid cancer=2810",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "health",
+    "classification",
+    "text",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

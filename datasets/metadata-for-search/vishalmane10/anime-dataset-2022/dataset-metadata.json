@@ -1,0 +1,49 @@
+{
+  "id": "vishalmane10/anime-dataset-2022",
+  "id_no": 1867679,
+  "datasetSlugNullable": "anime-dataset-2022",
+  "ownerUserNullable": "vishalmane10",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Anime DataSet 2022",
+  "subtitleNullable": "Web scrape data from anime planet with 18000+ animes.",
+  "descriptionNullable": "### Context\n\nMy first Project on Web Scrapping.\n\n### Content\n\nThis Data consists of 18495 rows and 17 columns.\n\n\n### Acknowledgements\n\nThank You Anime Planet for providing such vast  Data on Animes.\n\n\n### Inspiration\nUse this information to build a better anime recommendation system.\n",
+  "datasetId": 1867679,
+  "datasetSlug": "anime-dataset-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "vishalmane10",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 38499,
+  "totalVotes": 124,
+  "totalDownloads": 5289,
+  "title": "Anime DataSet 2022",
+  "hasTitle": true,
+  "subtitle": "Web scrape data from anime planet with 18000+ animes.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMy first Project on Web Scrapping.\n\n### Content\n\nThis Data consists of 18495 rows and 17 columns.\n\n\n### Acknowledgements\n\nThank You Anime Planet for providing such vast  Data on Animes.\n\n\n### Inspiration\nUse this information to build a better anime recommendation system.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "exploratory data analysis",
+    "data cleaning",
+    "anime and manga",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "suhassable",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

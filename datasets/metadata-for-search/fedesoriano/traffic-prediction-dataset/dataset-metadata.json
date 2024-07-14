@@ -1,0 +1,43 @@
+{
+  "id": "fedesoriano/traffic-prediction-dataset",
+  "id_no": 1169027,
+  "datasetSlugNullable": "traffic-prediction-dataset",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Traffic Prediction Dataset",
+  "subtitleNullable": "Hourly traffic data on four different junctions",
+  "descriptionNullable": "### Context\n\nTraffic congestion is rising in cities around the world. Contributing factors include expanding urban populations, aging infrastructure, inefficient and uncoordinated traffic signal timing and a lack of real-time data.\n\nThe impacts are significant. Traffic data and analytics company INRIX estimates that traffic congestion cost U.S. commuters $305 billion in 2017 due to wasted fuel, lost time and the increased cost of transporting goods through congested areas. Given the physical and financial limitations around building additional roads, cities must use new strategies and technologies to improve traffic conditions.\n\n\n### Content\n\nThis dataset contains 48.1k (48120) observations of the number of vehicles each hour in four different junctions:\n1) DateTime\n2) Juction\n3) Vehicles\n4) ID\n\n\n### About the data\n\nThe sensors on each of these junctions were collecting data at different times, hence you will see traffic data from different time periods. Some of the junctions have provided limited or sparse data requiring thoughtfulness when creating future projections.\n\n\n### Source\n\n(**Confidential Source**) - *Use only for educational purposes*\nIf you use this dataset in your research, please credit the author.",
+  "datasetId": 1169027,
+  "datasetSlug": "traffic-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 146984,
+  "totalVotes": 173,
+  "totalDownloads": 17386,
+  "title": "Traffic Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "Hourly traffic data on four different junctions",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTraffic congestion is rising in cities around the world. Contributing factors include expanding urban populations, aging infrastructure, inefficient and uncoordinated traffic signal timing and a lack of real-time data.\n\nThe impacts are significant. Traffic data and analytics company INRIX estimates that traffic congestion cost U.S. commuters $305 billion in 2017 due to wasted fuel, lost time and the increased cost of transporting goods through congested areas. Given the physical and financial limitations around building additional roads, cities must use new strategies and technologies to improve traffic conditions.\n\n\n### Content\n\nThis dataset contains 48.1k (48120) observations of the number of vehicles each hour in four different junctions:\n1) DateTime\n2) Juction\n3) Vehicles\n4) ID\n\n\n### About the data\n\nThe sensors on each of these junctions were collecting data at different times, hence you will see traffic data from different time periods. Some of the junctions have provided limited or sparse data requiring thoughtfulness when creating future projections.\n\n\n### Source\n\n(**Confidential Source**) - *Use only for educational purposes*\nIf you use this dataset in your research, please credit the author.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pollution",
+    "social science",
+    "transportation",
+    "automobiles and vehicles",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

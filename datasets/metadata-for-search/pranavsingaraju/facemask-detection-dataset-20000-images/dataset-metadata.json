@@ -1,0 +1,45 @@
+{
+  "id": "pranavsingaraju/facemask-detection-dataset-20000-images",
+  "id_no": 799137,
+  "datasetSlugNullable": "facemask-detection-dataset-20000-images",
+  "ownerUserNullable": "pranavsingaraju",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Facemask Detection Dataset 20,000 Images",
+  "subtitleNullable": "This is a dataset for the purpose of building a face mask detector.",
+  "descriptionNullable": "First, I would like to thank @prasoonkottarathil for the original [dataset](https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset).\n\nThis dataset is an edited version, with smaller images (224 \u00d7 224 instead of 1024 \u00d7 1024 for the purpose of feeding it into MobileNetV2) that were converted to grayscale.\n\nThe inspiration was to create a face mask detector in order help identify people who need to take more precautionary actions in these difficult times with Coronavirus.\n\nMy partner @luka77 and I have accomplished this task. Our GitHub repository can be found [here](https://github.com/jp-singaraju/Face-Mask-Detection).",
+  "datasetId": 799137,
+  "datasetSlug": "facemask-detection-dataset-20000-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "pranavsingaraju",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 11191,
+  "totalVotes": 27,
+  "totalDownloads": 1271,
+  "title": "Facemask Detection Dataset 20,000 Images",
+  "hasTitle": true,
+  "subtitle": "This is a dataset for the purpose of building a face mask detector.",
+  "hasSubtitle": true,
+  "description": "First, I would like to thank @prasoonkottarathil for the original [dataset](https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset).\n\nThis dataset is an edited version, with smaller images (224 \u00d7 224 instead of 1024 \u00d7 1024 for the purpose of feeding it into MobileNetV2) that were converted to grayscale.\n\nThe inspiration was to create a face mask detector in order help identify people who need to take more precautionary actions in these difficult times with Coronavirus.\n\nMy partner @luka77 and I have accomplished this task. Our GitHub repository can be found [here](https://github.com/jp-singaraju/Face-Mask-Detection).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "luka77",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

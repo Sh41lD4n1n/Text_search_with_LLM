@@ -1,0 +1,42 @@
+{
+  "id": "unaissait/curated-chest-xray-image-dataset-for-covid19",
+  "id_no": 884411,
+  "datasetSlugNullable": "curated-chest-xray-image-dataset-for-covid19",
+  "ownerUserNullable": "unaissait",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Curated Chest X-Ray Image Dataset for COVID-19 ",
+  "subtitleNullable": "Curated Dataset for COVID-19 Posterior-Anterior Chest X-Rays Images",
+  "descriptionNullable": "This is a combined curated dataset of COVID-19 Chest X-ray images obtained by collating 15 publically available datasets as listed under the references section. The present dataset contains 1281 COVID-19 X-Rays, 3270 Normal X-Rays, 1656 viral-pneumonia X-Rays, and 3001 bacterial-pneumonia X-Rays.\n\nThe collected datasets\u2014as cited by this dataset\u2014are combined to form an integrated repository. This integrated repository contains a total of 4558 COVID-19 X-Rays, 5403 Normal X-Rays, 4497 Viral pneumonia X-Rays, and 5768 bacterial pneumonia X-Rays. Out of which 1379 COVID-19 X-Rays, 1476 normal X-Rays, 2690 viral pneumonia X-Rays, and 2588 bacterial pneumonia X-Rays are found to be duplicates\u2014based on the image similarities\u2014and thus are removed. Inception V3 architecture is used to obtain the image embeddings, which is followed by the use of unsupervised learning algorithms based on cosine similarity distances. These distances are clustered and then visualized to find different categories of image defects which are listed below:\u2014\n\n1.Noise\n2.Pixelated\n3.Compressed\n4.Medical Implants\n5.Washed out image\n6.Side View\n7.CT (sliced) image\n8.Aspect Ratio distortion / Cropped / Zoomed\n9.Rotated Images\n10.Images with annotations\n\nThese clusters of defective images are removed during the curation process and a refined dataset is obtained which is available for download.\nPlease [cite](http://dx.doi.org/10.17632/9xkhgts2s6.1) our dataset when you are using it for research activities.\nhttp://dx.doi.org/10.17632/9xkhgts2s6.1\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3220011%2Faeadce839cec8475beb345a1399ab149%2FCapture.JPG?generation=1600607387493688&alt=media)\n",
+  "datasetId": 884411,
+  "datasetSlug": "curated-chest-xray-image-dataset-for-covid19",
+  "hasDatasetSlug": true,
+  "ownerUser": "unaissait",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9849,
+  "totalVotes": 25,
+  "totalDownloads": 1196,
+  "title": "Curated Chest X-Ray Image Dataset for COVID-19 ",
+  "hasTitle": true,
+  "subtitle": "Curated Dataset for COVID-19 Posterior-Anterior Chest X-Rays Images",
+  "hasSubtitle": true,
+  "description": "This is a combined curated dataset of COVID-19 Chest X-ray images obtained by collating 15 publically available datasets as listed under the references section. The present dataset contains 1281 COVID-19 X-Rays, 3270 Normal X-Rays, 1656 viral-pneumonia X-Rays, and 3001 bacterial-pneumonia X-Rays.\n\nThe collected datasets\u2014as cited by this dataset\u2014are combined to form an integrated repository. This integrated repository contains a total of 4558 COVID-19 X-Rays, 5403 Normal X-Rays, 4497 Viral pneumonia X-Rays, and 5768 bacterial pneumonia X-Rays. Out of which 1379 COVID-19 X-Rays, 1476 normal X-Rays, 2690 viral pneumonia X-Rays, and 2588 bacterial pneumonia X-Rays are found to be duplicates\u2014based on the image similarities\u2014and thus are removed. Inception V3 architecture is used to obtain the image embeddings, which is followed by the use of unsupervised learning algorithms based on cosine similarity distances. These distances are clustered and then visualized to find different categories of image defects which are listed below:\u2014\n\n1.Noise\n2.Pixelated\n3.Compressed\n4.Medical Implants\n5.Washed out image\n6.Side View\n7.CT (sliced) image\n8.Aspect Ratio distortion / Cropped / Zoomed\n9.Rotated Images\n10.Images with annotations\n\nThese clusters of defective images are removed during the curation process and a refined dataset is obtained which is available for download.\nPlease [cite](http://dx.doi.org/10.17632/9xkhgts2s6.1) our dataset when you are using it for research activities.\nhttp://dx.doi.org/10.17632/9xkhgts2s6.1\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3220011%2Faeadce839cec8475beb345a1399ab149%2FCapture.JPG?generation=1600607387493688&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "health",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

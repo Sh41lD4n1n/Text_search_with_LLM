@@ -1,0 +1,42 @@
+{
+  "id": "pcbreviglieri/pneumonia-xray-images",
+  "id_no": 661308,
+  "datasetSlugNullable": "pneumonia-xray-images",
+  "ownerUserNullable": "pcbreviglieri",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Pneumonia X-Ray Images",
+  "subtitleNullable": "Adapted from 'Chest X-Ray Images (Pneumonia)'",
+  "descriptionNullable": "### Content\n\nAdapted version of Paul Mooney's 'Chest X-Ray Images (Pneumonia)' [dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), where the amount of observations for training and validation purposes was redistributed to allow for a more balanced machine learning exercise.\nTotal number of observations (images): 5,856\nTraining observations: 4,192 (1,082 normal cases, 3,110 lung opacity cases)\nValidation observations: 1,040 (267 normal cases, 773 lung opacity cases)\nTesting observations: 624 (234 normal cases, 390 lung opacity cases)",
+  "datasetId": 661308,
+  "datasetSlug": "pneumonia-xray-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "pcbreviglieri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 138729,
+  "totalVotes": 83,
+  "totalDownloads": 8785,
+  "title": "Pneumonia X-Ray Images",
+  "hasTitle": true,
+  "subtitle": "Adapted from 'Chest X-Ray Images (Pneumonia)'",
+  "hasSubtitle": true,
+  "description": "### Content\n\nAdapted version of Paul Mooney's 'Chest X-Ray Images (Pneumonia)' [dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), where the amount of observations for training and validation purposes was redistributed to allow for a more balanced machine learning exercise.\nTotal number of observations (images): 5,856\nTraining observations: 4,192 (1,082 normal cases, 3,110 lung opacity cases)\nValidation observations: 1,040 (267 normal cases, 773 lung opacity cases)\nTesting observations: 624 (234 normal cases, 390 lung opacity cases)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "deep learning",
+    "cnn",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

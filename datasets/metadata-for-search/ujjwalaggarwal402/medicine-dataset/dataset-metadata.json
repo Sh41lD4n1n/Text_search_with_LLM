@@ -1,0 +1,42 @@
+{
+  "id": "ujjwalaggarwal402/medicine-dataset",
+  "id_no": 5300093,
+  "datasetSlugNullable": "medicine-dataset",
+  "ownerUserNullable": "ujjwalaggarwal402",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Medicine Dataset",
+  "subtitleNullable": "Comprehensive Synthetic Dataset of Medicines: Categorizing 50,000 Unique Entries",
+  "descriptionNullable": "This comprehensive synthetic dataset of medicines includes 50,000 unique entries, meticulously crafted for modern pharmaceutical research. Each data point features realistic medicine names, categories, dosage forms, strengths, manufacturers, indications, and classifications (Prescription or Over-the-Counter). Designed to aid in the development and testing of machine learning models, this dataset provides a rich and varied collection of medicine-related information",
+  "datasetId": 5300093,
+  "datasetSlug": "medicine-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ujjwalaggarwal402",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 22,
+  "totalVotes": 3,
+  "totalDownloads": 2,
+  "title": "Medicine Dataset",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Synthetic Dataset of Medicines: Categorizing 50,000 Unique Entries",
+  "hasSubtitle": true,
+  "description": "This comprehensive synthetic dataset of medicines includes 50,000 unique entries, meticulously crafted for modern pharmaceutical research. Each data point features realistic medicine names, categories, dosage forms, strengths, manufacturers, indications, and classifications (Prescription or Over-the-Counter). Designed to aid in the development and testing of machine learning models, this dataset provides a rich and varied collection of medicine-related information",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "categorical",
+    "medicine",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

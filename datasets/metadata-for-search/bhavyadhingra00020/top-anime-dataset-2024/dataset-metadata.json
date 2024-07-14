@@ -1,0 +1,42 @@
+{
+  "id": "bhavyadhingra00020/top-anime-dataset-2024",
+  "id_no": 4892316,
+  "datasetSlugNullable": "top-anime-dataset-2024",
+  "ownerUserNullable": "bhavyadhingra00020",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top Anime Dataset 2024",
+  "subtitleNullable": "Data of the top 1000 anime 2024",
+  "descriptionNullable": "This dataset offers a comprehensive overview of the top animes of 2024, and is useful for building recommendation systems, visualizing trends in anime popularity and score, predicting scores and popularity, and such.\n\n## Contents\n\nThe dataset contains 22 features:\n\n- **Score:** The rating or score assigned to each anime title.\n- **Popularity:** Measure of how popular each anime is among viewers.\n- **Rank:** Ranking of each anime title within the dataset.\n- **Members:** The number of members or viewers associated with each anime.\n- **Description:** A brief overview or summary of the plot and themes of each anime.\n- **Synonyms:** Alternative titles or synonyms used for each anime.\n- **Japanese Title:** Original title of the anime in Japanese.\n- **English Title:** English-translated title of the anime.\n- **Type:** Classification of anime type (e.g., TV series, movie, OVA, etc.).\n- **Eps:** Total number of episodes in each anime series.\n- **Status:** Current status of the anime (e.g., ongoing, completed, etc.).\n- **Aired:** Date range of when the anime was aired.\n- **Premiered:** Date when the anime premiered for the first time.\n- **Broadcast:** Information about the broadcasting platform or channel.\n- **Producers:** Companies or studios involved in producing the anime.\n- **Licensors:** Organizations or companies holding the licensing rights for the anime.\n- **Studios:** Animation studios responsible for producing the anime.\n- **Source:** Original source material for the anime (e.g., manga, novel, original).\n- **Genres:** Categories or genres that the anime belongs to.\n- **Demographic:** Target demographic audience for the anime (e.g., shounen, shoujo, seinen, josei).\n- **Duration:** Duration of each episode or movie.\n- **Rating:** Content rating assigned to each anime (e.g., G, PG, PG-13, R).\n\n## Acknowledgements\nAll of the information in this dataset has been gathered by scraping the [MyAnimeList](https://myanimelist.net/topanime.php) website, and is available under the Creative Commons License.\n\nCover Photo by: [Playground.ai](https://playground.com/)",
+  "datasetId": 4892316,
+  "datasetSlug": "top-anime-dataset-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavyadhingra00020",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10212,
+  "totalVotes": 55,
+  "totalDownloads": 2255,
+  "title": "Top Anime Dataset 2024",
+  "hasTitle": true,
+  "subtitle": "Data of the top 1000 anime 2024",
+  "hasSubtitle": true,
+  "description": "This dataset offers a comprehensive overview of the top animes of 2024, and is useful for building recommendation systems, visualizing trends in anime popularity and score, predicting scores and popularity, and such.\n\n## Contents\n\nThe dataset contains 22 features:\n\n- **Score:** The rating or score assigned to each anime title.\n- **Popularity:** Measure of how popular each anime is among viewers.\n- **Rank:** Ranking of each anime title within the dataset.\n- **Members:** The number of members or viewers associated with each anime.\n- **Description:** A brief overview or summary of the plot and themes of each anime.\n- **Synonyms:** Alternative titles or synonyms used for each anime.\n- **Japanese Title:** Original title of the anime in Japanese.\n- **English Title:** English-translated title of the anime.\n- **Type:** Classification of anime type (e.g., TV series, movie, OVA, etc.).\n- **Eps:** Total number of episodes in each anime series.\n- **Status:** Current status of the anime (e.g., ongoing, completed, etc.).\n- **Aired:** Date range of when the anime was aired.\n- **Premiered:** Date when the anime premiered for the first time.\n- **Broadcast:** Information about the broadcasting platform or channel.\n- **Producers:** Companies or studios involved in producing the anime.\n- **Licensors:** Organizations or companies holding the licensing rights for the anime.\n- **Studios:** Animation studios responsible for producing the anime.\n- **Source:** Original source material for the anime (e.g., manga, novel, original).\n- **Genres:** Categories or genres that the anime belongs to.\n- **Demographic:** Target demographic audience for the anime (e.g., shounen, shoujo, seinen, josei).\n- **Duration:** Duration of each episode or movie.\n- **Rating:** Content rating assigned to each anime (e.g., G, PG, PG-13, R).\n\n## Acknowledgements\nAll of the information in this dataset has been gathered by scraping the [MyAnimeList](https://myanimelist.net/topanime.php) website, and is available under the Creative Commons License.\n\nCover Photo by: [Playground.ai](https://playground.com/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "recommender systems",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

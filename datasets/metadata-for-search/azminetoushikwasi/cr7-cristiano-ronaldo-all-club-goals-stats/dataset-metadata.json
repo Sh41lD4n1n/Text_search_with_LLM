@@ -1,0 +1,43 @@
+{
+  "id": "azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats",
+  "id_no": 2150776,
+  "datasetSlugNullable": "cr7-cristiano-ronaldo-all-club-goals-stats",
+  "ownerUserNullable": "azminetoushikwasi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cristiano Ronaldo | All Club Goals",
+  "subtitleNullable": "Date, Time, Opponent, Match - All 698/+ Club Goal stats of Cristiano Ronaldo-CR7",
+  "descriptionNullable": "# Context\nThis dataset contains all the stats of **all club goals** of **Cristiano Ronaldo dos Santos Aveiro**.\n\n# About Cristiano Ronaldo\n**Cristiano Ronaldo dos Santos Aveiro** is a Portuguese professional footballer who plays as a forward for Premier League club Manchester United and captains the Portugal national team.\n \n- Current team: Portugal national football team (#7 / Forward) Trending\n                                               \n- Born: February 5, 1985 (age 37 years), Hospital Dr. N\u00e9lio Mendon\u00e7a, Funchal, Portugal\n- Height: 1.87 m\n- Partner: Georgina Rodr\u00edguez (2017\u2013)\n- Salary: 26.52 million GBP (2022)\n- Children: Cristiano Ronaldo Jr., Alana Martina dos Santos Aveiro, Eva Maria Dos Santos, Mateo Ronaldo\n\n![CR7](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4851623938e7dbe9/625aea2f638d944cfb0c0dce/Cristiano_Ronaldo_Manchester_United_2021-22.jpg?auto=png&format=jpg&quality=100)\n\n# Content\n- data.csv file containing Goal_no, Season, Competition, Matchday, Venue, Team, Opponent, Result, Position, Minute, At_score, Type_of_goal\n\n# Featured Notebook\n[**CR7 - Extensive EDA & Analytics-Cristiano Ronaldo**](https://www.kaggle.com/azminetoushikwasi/cr7-extensive-eda-analytics-cristiano-ronaldo)\n\n# Related Datasets\n- [EPL 2021-22 | Stats | Matches and Players](https://www.kaggle.com/datasets/azminetoushikwasi/epl-21-22-matches-players)\n- [\u26bd Lionel Messi \u2b50 All Club Goals \ud83d\udcc8\ud83d\udcca](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals)\n\n# Download\nkaggle API Command\n\n`!kaggle datasets download -d azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats`\n\n## Disclaimer\nThe data collected are all publicly available and it's intended for educational purposes only.\n\n## Acknowledgement\nCover image credit - goal.com",
+  "datasetId": 2150776,
+  "datasetSlug": "cr7-cristiano-ronaldo-all-club-goals-stats",
+  "hasDatasetSlug": true,
+  "ownerUser": "azminetoushikwasi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18005,
+  "totalVotes": 111,
+  "totalDownloads": 3653,
+  "title": "Cristiano Ronaldo | All Club Goals",
+  "hasTitle": true,
+  "subtitle": "Date, Time, Opponent, Match - All 698/+ Club Goal stats of Cristiano Ronaldo-CR7",
+  "hasSubtitle": true,
+  "description": "# Context\nThis dataset contains all the stats of **all club goals** of **Cristiano Ronaldo dos Santos Aveiro**.\n\n# About Cristiano Ronaldo\n**Cristiano Ronaldo dos Santos Aveiro** is a Portuguese professional footballer who plays as a forward for Premier League club Manchester United and captains the Portugal national team.\n \n- Current team: Portugal national football team (#7 / Forward) Trending\n                                               \n- Born: February 5, 1985 (age 37 years), Hospital Dr. N\u00e9lio Mendon\u00e7a, Funchal, Portugal\n- Height: 1.87 m\n- Partner: Georgina Rodr\u00edguez (2017\u2013)\n- Salary: 26.52 million GBP (2022)\n- Children: Cristiano Ronaldo Jr., Alana Martina dos Santos Aveiro, Eva Maria Dos Santos, Mateo Ronaldo\n\n![CR7](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4851623938e7dbe9/625aea2f638d944cfb0c0dce/Cristiano_Ronaldo_Manchester_United_2021-22.jpg?auto=png&format=jpg&quality=100)\n\n# Content\n- data.csv file containing Goal_no, Season, Competition, Matchday, Venue, Team, Opponent, Result, Position, Minute, At_score, Type_of_goal\n\n# Featured Notebook\n[**CR7 - Extensive EDA & Analytics-Cristiano Ronaldo**](https://www.kaggle.com/azminetoushikwasi/cr7-extensive-eda-analytics-cristiano-ronaldo)\n\n# Related Datasets\n- [EPL 2021-22 | Stats | Matches and Players](https://www.kaggle.com/datasets/azminetoushikwasi/epl-21-22-matches-players)\n- [\u26bd Lionel Messi \u2b50 All Club Goals \ud83d\udcc8\ud83d\udcca](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals)\n\n# Download\nkaggle API Command\n\n`!kaggle datasets download -d azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats`\n\n## Disclaimer\nThe data collected are all publicly available and it's intended for educational purposes only.\n\n## Acknowledgement\nCover image credit - goal.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "exploratory data analysis",
+    "feature engineering",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

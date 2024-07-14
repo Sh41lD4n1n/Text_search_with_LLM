@@ -1,0 +1,48 @@
+{
+  "id": "muhammadshahbazkhan/covid19-pakistani-patients-xray-image-dataset",
+  "id_no": 2198367,
+  "datasetSlugNullable": "covid19-pakistani-patients-xray-image-dataset",
+  "ownerUserNullable": "muhammadshahbazkhan",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "COVID-19 Pakistani Patients X-ray Image Dataset",
+  "subtitleNullable": "COVID-19 Chest X-ray images of COVID and Normal Pakistani Patients",
+  "descriptionNullable": "# COVID-19 Pakistani Patients X-ray Image Dataset\nA team of researchers from Edinburgh Napier University UK, HITEC University Taxila, and PNEC Karachi, Pakistan along with their collaborators from Kingdom of Saudi Arabia and in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive and Normal images. This dataset has 390 COVID-19 and 60 Normal Images.\n\n# Please cite following article if you use this dataset:\n\nUmair, M.; Khan, M.S.; Ahmed, F.; Baothman, F.; Alqahtani, F.; Alian, M.; Ahmad, J. Detection of COVID-19 Using Transfer Learning and Grad-CAM Visualization on Indigenously Collected X-ray Dataset. Sensors 2021, 21, 5813. https://doi.org/10.3390/s21175813\n\n## Link to article: [https://www.mdpi.com/1424-8220/21/17/5813](https://www.mdpi.com/1424-8220/21/17/5813)\n\n\n",
+  "datasetId": 2198367,
+  "datasetSlug": "covid19-pakistani-patients-xray-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadshahbazkhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2711,
+  "totalVotes": 50,
+  "totalDownloads": 258,
+  "title": "COVID-19 Pakistani Patients X-ray Image Dataset",
+  "hasTitle": true,
+  "subtitle": "COVID-19 Chest X-ray images of COVID and Normal Pakistani Patients",
+  "hasSubtitle": true,
+  "description": "# COVID-19 Pakistani Patients X-ray Image Dataset\nA team of researchers from Edinburgh Napier University UK, HITEC University Taxila, and PNEC Karachi, Pakistan along with their collaborators from Kingdom of Saudi Arabia and in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive and Normal images. This dataset has 390 COVID-19 and 60 Normal Images.\n\n# Please cite following article if you use this dataset:\n\nUmair, M.; Khan, M.S.; Ahmed, F.; Baothman, F.; Alqahtani, F.; Alian, M.; Ahmad, J. Detection of COVID-19 Using Transfer Learning and Grad-CAM Visualization on Indigenously Collected X-ray Dataset. Sensors 2021, 21, 5813. https://doi.org/10.3390/s21175813\n\n## Link to article: [https://www.mdpi.com/1424-8220/21/17/5813](https://www.mdpi.com/1424-8220/21/17/5813)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "healthcare",
+    "classification",
+    "deep learning",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "muhammadumair800",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

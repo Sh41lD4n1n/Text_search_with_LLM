@@ -1,0 +1,40 @@
+{
+  "id": "nishkoder/clean-dataset",
+  "id_no": 4440761,
+  "datasetSlugNullable": "clean-dataset",
+  "ownerUserNullable": "nishkoder",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Clean-NLP with Disaster Tweets Dataset",
+  "subtitleNullable": "NLP with Disaster Tweets: Data Preprocessing",
+  "descriptionNullable": " Introduction\n\n Raw tweet data is often messy and requires cleaning and normalization before building an effective NLP model.  Here's a breakdown of common preprocessing steps and their purpose:\n\n 1. Data Gathering\n\nObtaining a suitable dataset of labeled tweets (e.g., from Twitter, existing NLP datasets, or Kaggle competitions).\n 2. Removing HTML Tags\n\nHTML tags can clutter the text and don't contribute to understanding a tweet's content or sentiment.\n 3. Removing URLs\n\nURLs often don't add significant meaning for disaster classification and may introduce unnecessary variability.\n 4. Converting to Lowercase\n\nMakes the text case-insensitive, ensuring that \"Disaster\" and \"disaster\" are treated as the same word, improving word frequency analysis.\n 5. Removing Emojis\n\nWhile emojis can carry sentiment, they require sophisticated techniques to interpret consistently. Basic preprocessing often removes them, although more advanced models might incorporate emoji analysis.\n 6. Removing Punctuation\n\nPunctuation marks rarely contribute to core meaning in disaster classification and can introduce noise.\n 7. Removing Stop Words\n\nRemoving common words like \"the,\" \"and,\" etc., that have little semantic value. This reduces computational load and lets the model focus on more informative words.\n 8. Handling Abbreviations/Slang\n\nExpanding abbreviations and slang terms (e.g., \"lol\" -&gt; \"laughing out loud\") aids in understanding the full meaning of the text and makes the vocabulary more standardized.\n 9. Stemming\n\nReduces different forms of words to their root (e.g., \"flooding,\" \"flooded\" -&gt; \"flood\"), potentially helping the model generalize better.\n 10. Spelling Correction\n\nFixing typos ensures words are correctly interpreted and can make word frequencies more accurate.\n 11. Tokenization\n\nSplits the text into individual words or meaningful units (e.g., \"New York\" is often better treated as a single token) to prepare the data for further analysis and model input.",
+  "datasetId": 4440761,
+  "datasetSlug": "clean-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nishkoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 139,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "Clean-NLP with Disaster Tweets Dataset",
+  "hasTitle": true,
+  "subtitle": "NLP with Disaster Tweets: Data Preprocessing",
+  "hasSubtitle": true,
+  "description": " Introduction\n\n Raw tweet data is often messy and requires cleaning and normalization before building an effective NLP model.  Here's a breakdown of common preprocessing steps and their purpose:\n\n 1. Data Gathering\n\nObtaining a suitable dataset of labeled tweets (e.g., from Twitter, existing NLP datasets, or Kaggle competitions).\n 2. Removing HTML Tags\n\nHTML tags can clutter the text and don't contribute to understanding a tweet's content or sentiment.\n 3. Removing URLs\n\nURLs often don't add significant meaning for disaster classification and may introduce unnecessary variability.\n 4. Converting to Lowercase\n\nMakes the text case-insensitive, ensuring that \"Disaster\" and \"disaster\" are treated as the same word, improving word frequency analysis.\n 5. Removing Emojis\n\nWhile emojis can carry sentiment, they require sophisticated techniques to interpret consistently. Basic preprocessing often removes them, although more advanced models might incorporate emoji analysis.\n 6. Removing Punctuation\n\nPunctuation marks rarely contribute to core meaning in disaster classification and can introduce noise.\n 7. Removing Stop Words\n\nRemoving common words like \"the,\" \"and,\" etc., that have little semantic value. This reduces computational load and lets the model focus on more informative words.\n 8. Handling Abbreviations/Slang\n\nExpanding abbreviations and slang terms (e.g., \"lol\" -&gt; \"laughing out loud\") aids in understanding the full meaning of the text and makes the vocabulary more standardized.\n 9. Stemming\n\nReduces different forms of words to their root (e.g., \"flooding,\" \"flooded\" -&gt; \"flood\"), potentially helping the model generalize better.\n 10. Spelling Correction\n\nFixing typos ensures words are correctly interpreted and can make word frequencies more accurate.\n 11. Tokenization\n\nSplits the text into individual words or meaningful units (e.g., \"New York\" is often better treated as a single token) to prepare the data for further analysis and model input.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

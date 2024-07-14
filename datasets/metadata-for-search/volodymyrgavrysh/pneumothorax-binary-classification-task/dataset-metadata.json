@@ -1,0 +1,43 @@
+{
+  "id": "volodymyrgavrysh/pneumothorax-binary-classification-task",
+  "id_no": 1490083,
+  "datasetSlugNullable": "pneumothorax-binary-classification-task",
+  "ownerUserNullable": "volodymyrgavrysh",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Pneumothorax Binary Classification task",
+  "subtitleNullable": "2027  medical images (chest x-ray) with and without pneumothorax",
+  "descriptionNullable": "### Context\n\nPneumothorax small dataset (2027 images) for binary classification task (Pneumothorax or not)\n\n### Content\n\nMedical images of lungs done by radiologist during chest x-ray of the patients\n\n### Acknowledgements\n\nSIIM Machine Learning Committee Co-Chairs, Steven G. Langer, PhD, CIIP and George Shih, MD, MS for tirelessly leading this effort and making the challenge possible in such a short period of time.\nSIIM Machine Learning Committee Members for their dedication in annotating the dataset, helping to define the most useful metrics and running tests to prepare the challenge for launch.\nSIIM Hackathon Committee, especially Mohannad Hussain, for their crucial technical support with data conversion.\n\n### Inspiration\nOriginal data [https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview ](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview )",
+  "datasetId": 1490083,
+  "datasetSlug": "pneumothorax-binary-classification-task",
+  "hasDatasetSlug": true,
+  "ownerUser": "volodymyrgavrysh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 17564,
+  "totalVotes": 31,
+  "totalDownloads": 1381,
+  "title": "Pneumothorax Binary Classification task",
+  "hasTitle": true,
+  "subtitle": "2027  medical images (chest x-ray) with and without pneumothorax",
+  "hasSubtitle": true,
+  "description": "### Context\n\nPneumothorax small dataset (2027 images) for binary classification task (Pneumothorax or not)\n\n### Content\n\nMedical images of lungs done by radiologist during chest x-ray of the patients\n\n### Acknowledgements\n\nSIIM Machine Learning Committee Co-Chairs, Steven G. Langer, PhD, CIIP and George Shih, MD, MS for tirelessly leading this effort and making the challenge possible in such a short period of time.\nSIIM Machine Learning Committee Members for their dedication in annotating the dataset, helping to define the most useful metrics and running tests to prepare the challenge for launch.\nSIIM Hackathon Committee, especially Mohannad Hussain, for their crucial technical support with data conversion.\n\n### Inspiration\nOriginal data [https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview ](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview )",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "image",
+    "binary classification",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

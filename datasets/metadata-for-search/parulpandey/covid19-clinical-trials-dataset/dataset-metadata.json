@@ -1,0 +1,45 @@
+{
+  "id": "parulpandey/covid19-clinical-trials-dataset",
+  "id_no": 756034,
+  "datasetSlugNullable": "covid19-clinical-trials-dataset",
+  "ownerUserNullable": "parulpandey",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "COVID-19 Clinical Trials dataset",
+  "subtitleNullable": "Database of COVID-19 related clinical studies being conducted worldwide",
+  "descriptionNullable": "### Dataset Description\n\n[ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/home) is a database of privately and publicly funded clinical studies conducted around the world. It is maintained by the National Institute of Health. All data is publicly available and the site provides a direct download feature which makes it super easy to use relevant data for analysis.\n\nThis dataset consists of clinical trials related to COVID 19 studies presented on the site. \n\nThe dataset consists of XML files where each XML file corresponds to one study. The filename is the NCT number which a unique identifier of a study in ClinicalTrials repository. Additionally, a CSV file has also been provided, which might not have as much information as contained in the XML file, but does give sufficient information.\n\nPlease refer to this notebook for details on the dataset : https://www.kaggle.com/parulpandey/eda-on-covid-19-clinical-trials\n### Acknowledgements\nClinicalTrials.gov is a resource provided by the U.S. National Library of Medicine.\n\n### IMPORTANT: \nListing a study does not mean it has been evaluated by the U.S. Federal Government. Read our disclaimer for details.\nBefore participating in a study, talk to your health care provider and learn about the risks and potential benefits.",
+  "datasetId": 756034,
+  "datasetSlug": "covid19-clinical-trials-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "parulpandey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 69990,
+  "totalVotes": 133,
+  "totalDownloads": 8784,
+  "title": "COVID-19 Clinical Trials dataset",
+  "hasTitle": true,
+  "subtitle": "Database of COVID-19 related clinical studies being conducted worldwide",
+  "hasSubtitle": true,
+  "description": "### Dataset Description\n\n[ClinicalTrials.gov](https://www.clinicaltrials.gov/ct2/home) is a database of privately and publicly funded clinical studies conducted around the world. It is maintained by the National Institute of Health. All data is publicly available and the site provides a direct download feature which makes it super easy to use relevant data for analysis.\n\nThis dataset consists of clinical trials related to COVID 19 studies presented on the site. \n\nThe dataset consists of XML files where each XML file corresponds to one study. The filename is the NCT number which a unique identifier of a study in ClinicalTrials repository. Additionally, a CSV file has also been provided, which might not have as much information as contained in the XML file, but does give sufficient information.\n\nPlease refer to this notebook for details on the dataset : https://www.kaggle.com/parulpandey/eda-on-covid-19-clinical-trials\n### Acknowledgements\nClinicalTrials.gov is a resource provided by the U.S. National Library of Medicine.\n\n### IMPORTANT: \nListing a study does not mean it has been evaluated by the U.S. Federal Government. Read our disclaimer for details.\nBefore participating in a study, talk to your health care provider and learn about the risks and potential benefits.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "gauravkantgoel",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

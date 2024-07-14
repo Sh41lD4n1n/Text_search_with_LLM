@@ -1,0 +1,43 @@
+{
+  "id": "mathurinache/the-lj-speech-dataset",
+  "id_no": 1159053,
+  "datasetSlugNullable": "the-lj-speech-dataset",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "The LJ Speech Dataset",
+  "subtitleNullable": "The LJ Speech Dataset",
+  "descriptionNullable": "This is a public domain speech dataset consisting of 13,100 short audio clips of a single speaker reading passages from 7 non-fiction books. A transcription is provided for each clip. Clips vary in length from 1 to 10 seconds and have a total length of approximately 24 hours.\n\nThe texts were published between 1884 and 1964, and are in the public domain. The audio was recorded in 2016-17 by the LibriVox project and is also in the public domain.",
+  "datasetId": 1159053,
+  "datasetSlug": "the-lj-speech-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 31143,
+  "totalVotes": 145,
+  "totalDownloads": 3461,
+  "title": "The LJ Speech Dataset",
+  "hasTitle": true,
+  "subtitle": "The LJ Speech Dataset",
+  "hasSubtitle": true,
+  "description": "This is a public domain speech dataset consisting of 13,100 short audio clips of a single speaker reading passages from 7 non-fiction books. A transcription is provided for each clip. Clips vary in length from 1 to 10 seconds and have a total length of approximately 24 hours.\n\nThe texts were published between 1884 and 1964, and are in the public domain. The audio was recorded in 2016-17 by the LibriVox project and is also in the public domain.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "advanced",
+    "signal processing",
+    "text",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

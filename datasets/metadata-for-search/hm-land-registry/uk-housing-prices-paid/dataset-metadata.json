@@ -1,0 +1,42 @@
+{
+  "id": "/uk-housing-prices-paid",
+  "id_no": 1953,
+  "datasetSlugNullable": "uk-housing-prices-paid",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "UK Housing Prices Paid",
+  "subtitleNullable": "Records of all individual transactions in England and Wales since 1995",
+  "descriptionNullable": "The Price Paid Data includes information on all registered property sales in England and Wales that are sold for full market value. Address details have been truncated to the town/city level. \n\nYou might also find the HM Land Registry transaction records to be a useful supplement to this dataset: https://www.kaggle.com/hm-land-registry/uk-land-registry-transactions\n\nThe available fields are as follows:\n\nTransaction unique identifier\tA reference number which is generated automatically recording each published sale. The number is unique and will change each time a sale is recorded.\n\nPrice\tSale price stated on the transfer deed.\n\nDate of Transfer\tDate when the sale was completed, as stated on the transfer deed.\n\nProperty Type\tD = Detached, S = Semi-Detached, T = Terraced, F = Flats/Maisonettes, O = Other \nNote that: \n- we only record the above categories to describe property type, we do not separately identify bungalows. \n- end-of-terrace properties are included in the Terraced category above. \n- \u2018Other\u2019 is only valid where the transaction relates to a property type that is not covered by existing values.\n\nOld/New\tIndicates the age of the property and applies to all price paid transactions, residential and non-residential.\nY = a newly built property, N = an established residential building\n\nDuration\tRelates to the tenure: F = Freehold, L= Leasehold etc.\nNote that HM Land Registry does not record leases of 7 years or less in the Price Paid Dataset.\n\nTown/City\t \n\nDistrict\t \n\nCounty\t \n\nPPD Category Type\tIndicates the type of Price Paid transaction.\nA = Standard Price Paid entry, includes single residential property sold for full market value.\nB = Additional Price Paid entry including transfers under a power of sale/repossessions, buy-to-lets (where they can be identified by a Mortgage) and transfers to non-private individuals. Note that category B does not separately identify the transaction types stated. HM Land Registry has been collecting information on Category A transactions from January 1995. Category B transactions were identified from October 2013. \n\nRecord Status - monthly file only\tIndicates additions, changes and deletions to the records.(see guide below).\nA = Addition\nC = Change\nD = Delete.\n\nNote that where a transaction changes category type due to misallocation (as above) it will be deleted from the original category type and added to the correct category with a new transaction unique identifier.\n\n\nThis data was kindly released by [HM Land Registry][1] under [the Open Government License 3.0][2]. You can find their current release [here](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).\n\nData produced by HM Land Registry \u00a9 Crown copyright 2017.\n\n\n  [1]: https://www.gov.uk/government/organisations/land-registry/about\n  [2]: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "datasetId": 1953,
+  "datasetSlug": "uk-housing-prices-paid",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 86043,
+  "totalVotes": 151,
+  "totalDownloads": 9216,
+  "title": "UK Housing Prices Paid",
+  "hasTitle": true,
+  "subtitle": "Records of all individual transactions in England and Wales since 1995",
+  "hasSubtitle": true,
+  "description": "The Price Paid Data includes information on all registered property sales in England and Wales that are sold for full market value. Address details have been truncated to the town/city level. \n\nYou might also find the HM Land Registry transaction records to be a useful supplement to this dataset: https://www.kaggle.com/hm-land-registry/uk-land-registry-transactions\n\nThe available fields are as follows:\n\nTransaction unique identifier\tA reference number which is generated automatically recording each published sale. The number is unique and will change each time a sale is recorded.\n\nPrice\tSale price stated on the transfer deed.\n\nDate of Transfer\tDate when the sale was completed, as stated on the transfer deed.\n\nProperty Type\tD = Detached, S = Semi-Detached, T = Terraced, F = Flats/Maisonettes, O = Other \nNote that: \n- we only record the above categories to describe property type, we do not separately identify bungalows. \n- end-of-terrace properties are included in the Terraced category above. \n- \u2018Other\u2019 is only valid where the transaction relates to a property type that is not covered by existing values.\n\nOld/New\tIndicates the age of the property and applies to all price paid transactions, residential and non-residential.\nY = a newly built property, N = an established residential building\n\nDuration\tRelates to the tenure: F = Freehold, L= Leasehold etc.\nNote that HM Land Registry does not record leases of 7 years or less in the Price Paid Dataset.\n\nTown/City\t \n\nDistrict\t \n\nCounty\t \n\nPPD Category Type\tIndicates the type of Price Paid transaction.\nA = Standard Price Paid entry, includes single residential property sold for full market value.\nB = Additional Price Paid entry including transfers under a power of sale/repossessions, buy-to-lets (where they can be identified by a Mortgage) and transfers to non-private individuals. Note that category B does not separately identify the transaction types stated. HM Land Registry has been collecting information on Category A transactions from January 1995. Category B transactions were identified from October 2013. \n\nRecord Status - monthly file only\tIndicates additions, changes and deletions to the records.(see guide below).\nA = Addition\nC = Change\nD = Delete.\n\nNote that where a transaction changes category type due to misallocation (as above) it will be deleted from the original category type and added to the correct category with a new transaction unique identifier.\n\n\nThis data was kindly released by [HM Land Registry][1] under [the Open Government License 3.0][2]. You can find their current release [here](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).\n\nData produced by HM Land Registry \u00a9 Crown copyright 2017.\n\n\n  [1]: https://www.gov.uk/government/organisations/land-registry/about\n  [2]: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "finance",
+    "government",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

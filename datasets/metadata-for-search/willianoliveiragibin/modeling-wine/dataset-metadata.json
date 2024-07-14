@@ -1,0 +1,43 @@
+{
+  "id": "willianoliveiragibin/modeling-wine",
+  "id_no": 5213775,
+  "datasetSlugNullable": "modeling-wine",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Modeling wine",
+  "subtitleNullable": "We propose a data mining approach to predict human wine.",
+  "descriptionNullable": "this graph was created in Loocker studio,PowerBi and Tableau:\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2Ff35dd0bdb2f87ea2badf1ea1d57086bc%2Fgraph1.jpg?generation=1718398785729815&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F52689afbe7380af61e578767366ac925%2Fgraph2.jpg?generation=1718398791128270&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F992bd2cc851499b2f8f0bcb34732fab7%2Fgraph3.png?generation=1718398796130065&alt=media)\n\nAbstract\nWe propose a data mining approach to predict human wine taste preferences that is based on easily available analytical tests at the certification step. A large dataset (when compared to other studies in this domain) is considered, with white and red vinho verde samples (from Portugal). Three regression techniques were applied, under a computationally efficient procedure that performs simultaneous variable and model selection. The support vector machine achieved promising results, outperforming the multiple regression and neural network methods. Such model is useful to support the oenologist wine tasting evaluations and improve wine production. Furthermore, similar techniques can help in target marketing by modeling consumer tastes from niche markets.\n\nIntroduction\nOnce viewed as a luxury good, nowadays wine is increasingly enjoyed by a wider range of consumers. Portugal is a top ten wine exporting country, with 3.17% of the market share in 2005 [11]. Exports of its vinho verde wine (from the northwest region) have increased by 36% from 1997 to 2007 [8]. To support its growth, the wine industry is investing in new technologies for both wine making and selling processes. Wine certification and quality assessment are key elements within this context. Certification prevents the illegal adulteration of wines (to safeguard human health) and assures quality for the wine market. Quality evaluation is often part of the certification process and can be used to improve wine making (by identifying the most influential factors) and to stratify wines such as premium brands (useful for setting prices).",
+  "datasetId": 5213775,
+  "datasetSlug": "modeling-wine",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 38,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Modeling wine",
+  "hasTitle": true,
+  "subtitle": "We propose a data mining approach to predict human wine.",
+  "hasSubtitle": true,
+  "description": "this graph was created in Loocker studio,PowerBi and Tableau:\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2Ff35dd0bdb2f87ea2badf1ea1d57086bc%2Fgraph1.jpg?generation=1718398785729815&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F52689afbe7380af61e578767366ac925%2Fgraph2.jpg?generation=1718398791128270&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F992bd2cc851499b2f8f0bcb34732fab7%2Fgraph3.png?generation=1718398796130065&alt=media)\n\nAbstract\nWe propose a data mining approach to predict human wine taste preferences that is based on easily available analytical tests at the certification step. A large dataset (when compared to other studies in this domain) is considered, with white and red vinho verde samples (from Portugal). Three regression techniques were applied, under a computationally efficient procedure that performs simultaneous variable and model selection. The support vector machine achieved promising results, outperforming the multiple regression and neural network methods. Such model is useful to support the oenologist wine tasting evaluations and improve wine production. Furthermore, similar techniques can help in target marketing by modeling consumer tastes from niche markets.\n\nIntroduction\nOnce viewed as a luxury good, nowadays wine is increasingly enjoyed by a wider range of consumers. Portugal is a top ten wine exporting country, with 3.17% of the market share in 2005 [11]. Exports of its vinho verde wine (from the northwest region) have increased by 36% from 1997 to 2007 [8]. To support its growth, the wine industry is investing in new technologies for both wine making and selling processes. Wine certification and quality assessment are key elements within this context. Certification prevents the illegal adulteration of wines (to safeguard human health) and assures quality for the wine market. Quality evaluation is often part of the certification process and can be used to improve wine making (by identifying the most influential factors) and to stratify wines such as premium brands (useful for setting prices).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "business",
+    "data cleaning",
+    "data analytics",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

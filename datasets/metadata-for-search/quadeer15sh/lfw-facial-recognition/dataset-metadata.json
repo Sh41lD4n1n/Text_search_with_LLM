@@ -1,0 +1,42 @@
+{
+  "id": "quadeer15sh/lfw-facial-recognition",
+  "id_no": 2259046,
+  "datasetSlugNullable": "lfw-facial-recognition",
+  "ownerUserNullable": "quadeer15sh",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "LFW - Facial Recognition",
+  "subtitleNullable": "Labelled Faces in the Wild to train a facial recognition model",
+  "descriptionNullable": "Labeled Faces in the Wild is a public benchmark for face verification, also known as pair matching. No matter what the performance of an algorithm on LFW, it should not be used to conclude that an algorithm is suitable for any commercial purpose. For more information please visit: http://vis-www.cs.umass.edu/lfw/#reference",
+  "datasetId": 2259046,
+  "datasetSlug": "lfw-facial-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "quadeer15sh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 8566,
+  "totalVotes": 53,
+  "totalDownloads": 785,
+  "title": "LFW - Facial Recognition",
+  "hasTitle": true,
+  "subtitle": "Labelled Faces in the Wild to train a facial recognition model",
+  "hasSubtitle": true,
+  "description": "Labeled Faces in the Wild is a public benchmark for face verification, also known as pair matching. No matter what the performance of an algorithm on LFW, it should not be used to conclude that an algorithm is suitable for any commercial purpose. For more information please visit: http://vis-www.cs.umass.edu/lfw/#reference",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

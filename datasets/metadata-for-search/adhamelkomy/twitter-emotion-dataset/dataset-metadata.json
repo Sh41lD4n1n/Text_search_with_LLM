@@ -1,0 +1,41 @@
+{
+  "id": "adhamelkomy/twitter-emotion-dataset",
+  "id_no": 4563739,
+  "datasetSlugNullable": "twitter-emotion-dataset",
+  "ownerUserNullable": "adhamelkomy",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Twitter Emotion Dataset",
+  "subtitleNullable": "Unveiling the Emotional Tapestry of Social Media",
+  "descriptionNullable": "Title: Twitter Emotion Dataset: Unveiling the Emotional Tapestry of Social Media\n\nDescription:\n\nDive into the intricate world of human emotions expressed through Twitter messages with our meticulously curated dataset. Each entry in this comprehensive collection features a text segment extracted from Twitter, accompanied by a corresponding label denoting the predominant emotion conveyed by the message. The emotions are thoughtfully categorized into six distinct classes: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5).\n\nThis dataset is tailor-made for researchers, data scientists, and enthusiasts keen on exploring the dynamic emotional landscape within the realm of social media. Whether you're delving into sentiment analysis, emotion classification, or text mining, our Twitter Emotion Dataset provides a rich foundation for unraveling the subtle nuances that define human emotions in the digital age.\n\n**Dataset Highlights:**\n- Over 416809 Twitter messages covering a diverse range of topics and user demographics.\n- Manually annotated labels ensure high-quality emotional classification.\n- Tweets sourced from a variety of geographies and languages, capturing a global perspective on emotions in social media.\n- A balanced distribution across the six emotion categories for robust model training.\n\n**Potential Applications:**\n- Sentiment Analysis: Explore sentiment trends and patterns to understand how users express emotions over time.\n- Emotion Classification: Develop models to accurately predict and categorize emotional states within tweets.\n- Text Mining: Extract valuable insights from the vast pool of emotional data to inform decision-making and marketing strategies.\n\n**Why Use Our Dataset?**\n- Enrich your research with a diverse and well-labeled dataset, ensuring the reliability and accuracy of your findings.\n- Leverage the global scope of the dataset for cross-cultural and multilingual analyses of emotional expression.\n- Contribute to advancements in emotional intelligence research and its applications in social media analytics.\n\n**Dataset Conclusions:**\nUncover the hidden gems within our Twitter Emotion Dataset and draw meaningful conclusions about the evolving emotional landscape of social media. Whether you're identifying sentiment shifts during significant events or tracking the ebb and flow of joy, anger, and surprise, this dataset provides the tools to delve into the intricacies of human emotion in the digital realm. As you analyze and model, contribute to the collective understanding of emotional intelligence on social platforms and pave the way for innovative applications in communication, mental health, and beyond. Join us in decoding the emotional tapestry of Twitter and shaping the future of emotion-aware technologies.",
+  "datasetId": 4563739,
+  "datasetSlug": "twitter-emotion-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "adhamelkomy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1257,
+  "totalVotes": 7,
+  "totalDownloads": 180,
+  "title": "Twitter Emotion Dataset",
+  "hasTitle": true,
+  "subtitle": "Unveiling the Emotional Tapestry of Social Media",
+  "hasSubtitle": true,
+  "description": "Title: Twitter Emotion Dataset: Unveiling the Emotional Tapestry of Social Media\n\nDescription:\n\nDive into the intricate world of human emotions expressed through Twitter messages with our meticulously curated dataset. Each entry in this comprehensive collection features a text segment extracted from Twitter, accompanied by a corresponding label denoting the predominant emotion conveyed by the message. The emotions are thoughtfully categorized into six distinct classes: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5).\n\nThis dataset is tailor-made for researchers, data scientists, and enthusiasts keen on exploring the dynamic emotional landscape within the realm of social media. Whether you're delving into sentiment analysis, emotion classification, or text mining, our Twitter Emotion Dataset provides a rich foundation for unraveling the subtle nuances that define human emotions in the digital age.\n\n**Dataset Highlights:**\n- Over 416809 Twitter messages covering a diverse range of topics and user demographics.\n- Manually annotated labels ensure high-quality emotional classification.\n- Tweets sourced from a variety of geographies and languages, capturing a global perspective on emotions in social media.\n- A balanced distribution across the six emotion categories for robust model training.\n\n**Potential Applications:**\n- Sentiment Analysis: Explore sentiment trends and patterns to understand how users express emotions over time.\n- Emotion Classification: Develop models to accurately predict and categorize emotional states within tweets.\n- Text Mining: Extract valuable insights from the vast pool of emotional data to inform decision-making and marketing strategies.\n\n**Why Use Our Dataset?**\n- Enrich your research with a diverse and well-labeled dataset, ensuring the reliability and accuracy of your findings.\n- Leverage the global scope of the dataset for cross-cultural and multilingual analyses of emotional expression.\n- Contribute to advancements in emotional intelligence research and its applications in social media analytics.\n\n**Dataset Conclusions:**\nUncover the hidden gems within our Twitter Emotion Dataset and draw meaningful conclusions about the evolving emotional landscape of social media. Whether you're identifying sentiment shifts during significant events or tracking the ebb and flow of joy, anger, and surprise, this dataset provides the tools to delve into the intricacies of human emotion in the digital realm. As you analyze and model, contribute to the collective understanding of emotional intelligence on social platforms and pave the way for innovative applications in communication, mental health, and beyond. Join us in decoding the emotional tapestry of Twitter and shaping the future of emotion-aware technologies.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

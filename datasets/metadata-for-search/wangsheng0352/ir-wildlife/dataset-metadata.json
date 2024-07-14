@@ -1,0 +1,43 @@
+{
+  "id": "wangsheng0352/ir-wildlife",
+  "id_no": 4243453,
+  "datasetSlugNullable": "ir-wildlife",
+  "ownerUserNullable": "wangsheng0352",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "IR wildlife",
+  "subtitleNullable": "Infrared Small Object Detection for Wildlife Conservation",
+  "descriptionNullable": "Monitoring of protected areas to curb illegal activities like poaching is a monumental task. Real-time data acquisition has become easier with advances in unmanned aerial vehicles (UAVs) and sensors like TIR cameras, which allow surveillance at night when poaching typically occurs. However, it is still a challenge to accurately and quickly process large amounts of the resulting TIR data. The Benchmarking IR Dataset for Surveillance with Aerial Intelligence (BIRDSAI, pronounced \u201cbird\u2019s-eye\u201d) is a long-wave thermal infrared (TIR) dataset containing nighttime images of animals and humans in Southern Africa. The dataset allows for testing of automatic detection and tracking of humans and animals with both real and synthetic videos, in order to protect animals in the real world.",
+  "datasetId": 4243453,
+  "datasetSlug": "ir-wildlife",
+  "hasDatasetSlug": true,
+  "ownerUser": "wangsheng0352",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 390,
+  "totalVotes": 2,
+  "totalDownloads": 26,
+  "title": "IR wildlife",
+  "hasTitle": true,
+  "subtitle": "Infrared Small Object Detection for Wildlife Conservation",
+  "hasSubtitle": true,
+  "description": "Monitoring of protected areas to curb illegal activities like poaching is a monumental task. Real-time data acquisition has become easier with advances in unmanned aerial vehicles (UAVs) and sensors like TIR cameras, which allow surveillance at night when poaching typically occurs. However, it is still a challenge to accurately and quickly process large amounts of the resulting TIR data. The Benchmarking IR Dataset for Surveillance with Aerial Intelligence (BIRDSAI, pronounced \u201cbird\u2019s-eye\u201d) is a long-wave thermal infrared (TIR) dataset containing nighttime images of animals and humans in Southern Africa. The dataset allows for testing of automatic detection and tracking of humans and animals with both real and synthetic videos, in order to protect animals in the real world.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "animals",
+    "beginner",
+    "image",
+    "automl"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

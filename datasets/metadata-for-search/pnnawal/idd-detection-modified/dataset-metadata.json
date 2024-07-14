@@ -1,0 +1,39 @@
+{
+  "id": "pnnawal/idd-detection-modified",
+  "id_no": 4978096,
+  "datasetSlugNullable": "idd-detection-modified",
+  "ownerUserNullable": "pnnawal",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "IDD Detection Modified",
+  "subtitleNullable": "A modified version of IDD-Detection dataset for YOLO object detection pipelines.",
+  "descriptionNullable": "Modified Version of Indian Driving Dataset to work for SSD and YOLO. \n\nWhat is Indian Driving Dataset?\n\nWhile several datasets for autonomous navigation have become available in recent years, they have tended to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strong adherence to traffic rules. We propose a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied. It consists of 10,000 images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads. The label set is expanded in comparison to popular benchmarks such as Cityscapes, to account for new classes.\n\nThe dataset consists of images obtained from a front facing camera attached to a car. The car was driven around Hyderabad, Bangalore cities and their outskirts. The images are mostly of 1080p resolution, but there is also some images with 720p and other resolutions.",
+  "datasetId": 4978096,
+  "datasetSlug": "idd-detection-modified",
+  "hasDatasetSlug": true,
+  "ownerUser": "pnnawal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 55,
+  "totalVotes": 0,
+  "totalDownloads": 9,
+  "title": "IDD Detection Modified",
+  "hasTitle": true,
+  "subtitle": "A modified version of IDD-Detection dataset for YOLO object detection pipelines.",
+  "hasSubtitle": true,
+  "description": "Modified Version of Indian Driving Dataset to work for SSD and YOLO. \n\nWhat is Indian Driving Dataset?\n\nWhile several datasets for autonomous navigation have become available in recent years, they have tended to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strong adherence to traffic rules. We propose a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied. It consists of 10,000 images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads. The label set is expanded in comparison to popular benchmarks such as Cityscapes, to account for new classes.\n\nThe dataset consists of images obtained from a front facing camera attached to a car. The car was driven around Hyderabad, Bangalore cities and their outskirts. The images are mostly of 1080p resolution, but there is also some images with 720p and other resolutions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

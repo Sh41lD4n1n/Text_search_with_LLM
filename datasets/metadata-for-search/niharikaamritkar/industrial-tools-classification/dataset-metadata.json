@@ -1,0 +1,44 @@
+{
+  "id": "niharikaamritkar/industrial-tools-classification",
+  "id_no": 5284533,
+  "datasetSlugNullable": "industrial-tools-classification",
+  "ownerUserNullable": "niharikaamritkar",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Industrial Tools Classification",
+  "subtitleNullable": "See It, Sort It: An Image Dataset for Industrial Tool Quality Control ",
+  "descriptionNullable": "This dataset contains images of industrial tools, specifically focusing on screws and ball screws, categorized as either defective or non-defective. The dataset is intended for use in training and evaluating machine learning models for automated defect detection in industrial settings.\n\nThis dataset is primarily designed for educational and research purposes, specifically to aid in the development and evaluation of machine learning models. The core objective is to provide a collection of images featuring industrial tools, like screws and ball screws, categorized as either defective or non-defective. This classification task allows researchers and students to experiment with various machine learning algorithms, aiming to train models that can accurately distinguish between faulty and functional tools based solely on image data.\n\nThe dataset is comprised of two main files: \"train\" and \"test\". Both files contain images of industrial tools, specifically focusing on screws and valves. Each image is categorized into one of two classes: \"defective\" or \"non-defective\". This classification is crucial for training machine learning models that can automatically distinguish faulty tools from functional ones based solely on image data. The \"train\" file serves as the foundation for the model's learning process, while the \"test\" file is used to evaluate the model's performance on unseen data. By analyzing the accuracy on the test data, we can gauge the model's effectiveness in real-world scenarios of identifying defects in industrial tools.",
+  "datasetId": 5284533,
+  "datasetSlug": "industrial-tools-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "niharikaamritkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 22,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "Industrial Tools Classification",
+  "hasTitle": true,
+  "subtitle": "See It, Sort It: An Image Dataset for Industrial Tool Quality Control ",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of industrial tools, specifically focusing on screws and ball screws, categorized as either defective or non-defective. The dataset is intended for use in training and evaluating machine learning models for automated defect detection in industrial settings.\n\nThis dataset is primarily designed for educational and research purposes, specifically to aid in the development and evaluation of machine learning models. The core objective is to provide a collection of images featuring industrial tools, like screws and ball screws, categorized as either defective or non-defective. This classification task allows researchers and students to experiment with various machine learning algorithms, aiming to train models that can accurately distinguish between faulty and functional tools based solely on image data.\n\nThe dataset is comprised of two main files: \"train\" and \"test\". Both files contain images of industrial tools, specifically focusing on screws and valves. Each image is categorized into one of two classes: \"defective\" or \"non-defective\". This classification is crucial for training machine learning models that can automatically distinguish faulty tools from functional ones based solely on image data. The \"train\" file serves as the foundation for the model's learning process, while the \"test\" file is used to evaluate the model's performance on unseen data. By analyzing the accuracy on the test data, we can gauge the model's effectiveness in real-world scenarios of identifying defects in industrial tools.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "computer vision",
+    "keras",
+    "image classification",
+    "image augmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

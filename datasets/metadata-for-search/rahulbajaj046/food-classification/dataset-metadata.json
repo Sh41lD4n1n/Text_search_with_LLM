@@ -1,0 +1,39 @@
+{
+  "id": "rahulbajaj046/food-classification",
+  "id_no": 874271,
+  "datasetSlugNullable": "food-classification",
+  "ownerUserNullable": "rahulbajaj046",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Food classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is used for food classification. One can use this dataset to build a classifier model. Different categories of food items present are : \n1. Bread\n2. Dairy Product\n3. Dessert\n4. Egg\n5. Fried Food\n6. Meat\n7. Noodles-Pasta\n8. Rice\n9. Seafood\n10. Soup\n11. Vegetable-Fruit\nUsing these categories, one can train the model and can predict for images present in the test category.",
+  "datasetId": 874271,
+  "datasetSlug": "food-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "rahulbajaj046",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 2471,
+  "totalVotes": 6,
+  "totalDownloads": 126,
+  "title": "Food classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is used for food classification. One can use this dataset to build a classifier model. Different categories of food items present are : \n1. Bread\n2. Dairy Product\n3. Dessert\n4. Egg\n5. Fried Food\n6. Meat\n7. Noodles-Pasta\n8. Rice\n9. Seafood\n10. Soup\n11. Vegetable-Fruit\nUsing these categories, one can train the model and can predict for images present in the test category.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

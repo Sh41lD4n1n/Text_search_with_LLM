@@ -1,0 +1,44 @@
+{
+  "id": "nowke9/ipldata",
+  "id_no": 29843,
+  "datasetSlugNullable": "ipldata",
+  "ownerUserNullable": "nowke9",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Indian Premier League 2008-2019",
+  "subtitleNullable": "Ball-by-ball Indian Premier League (IPL) cricket dataset",
+  "descriptionNullable": "### Context\n\nIndian Premier League (IPL) is a Twenty20 cricket format league in India. It is usually played in April and May every year. As of 2019, the title sponsor of the game is Vivo. The league was founded by Board of Control for Cricket India (BCCI) in 2008. \n\n\n### Content\n\n - Data till Season 11 (2008 - 2019)\n - `matches.csv` - Match by match data\n - `deliveries.csv` - Ball by ball data\n\n### Acknowledgements\n\n - Data source from 2008-2017 - [CricSheet.org][1] and [Manas - Kaggle][2]\n - Data source for 2018-2019 - [IPL T20 - Official website][3]\n\n### Inspiration\n\nDraw analysis, player/team performance, apply and learn statistical methods on real data\n\n### Kernels\n**Statistics**\n\n* [Summarizing quantitative data (mean, median, std. deviation, percentile, box plots etc.)](https://www.kaggle.com/nowke9/statistics-1-summarizing-quantitative-data)\n* [Distributions - Cumulative relative frequency, Normal distribution, PDF, Z-score, empirical rule, binomial distribution, Bernoulli distribution](https://www.kaggle.com/nowke9/statistics-2-distributions/)\n* [Bivariate data - Scatter plot, Correlation, Covariance, Least square regression, R-Squared, Root mean square error](https://www.kaggle.com/nowke9/statistics-3-bivariate-data)\n\n  [1]: https://cricsheet.org/ \"CricSheet\"\n  [2]: https://www.kaggle.com/manasgarg/ipl \"Kaggle - Indian Premier League (Cricket)\"\n  [3]: https://www.iplt20.com/ \"IPLT20.com\"",
+  "datasetId": 29843,
+  "datasetSlug": "ipldata",
+  "hasDatasetSlug": true,
+  "ownerUser": "nowke9",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 173144,
+  "totalVotes": 412,
+  "totalDownloads": 33063,
+  "title": "Indian Premier League 2008-2019",
+  "hasTitle": true,
+  "subtitle": "Ball-by-ball Indian Premier League (IPL) cricket dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIndian Premier League (IPL) is a Twenty20 cricket format league in India. It is usually played in April and May every year. As of 2019, the title sponsor of the game is Vivo. The league was founded by Board of Control for Cricket India (BCCI) in 2008. \n\n\n### Content\n\n - Data till Season 11 (2008 - 2019)\n - `matches.csv` - Match by match data\n - `deliveries.csv` - Ball by ball data\n\n### Acknowledgements\n\n - Data source from 2008-2017 - [CricSheet.org][1] and [Manas - Kaggle][2]\n - Data source for 2018-2019 - [IPL T20 - Official website][3]\n\n### Inspiration\n\nDraw analysis, player/team performance, apply and learn statistical methods on real data\n\n### Kernels\n**Statistics**\n\n* [Summarizing quantitative data (mean, median, std. deviation, percentile, box plots etc.)](https://www.kaggle.com/nowke9/statistics-1-summarizing-quantitative-data)\n* [Distributions - Cumulative relative frequency, Normal distribution, PDF, Z-score, empirical rule, binomial distribution, Bernoulli distribution](https://www.kaggle.com/nowke9/statistics-2-distributions/)\n* [Bivariate data - Scatter plot, Correlation, Covariance, Least square regression, R-Squared, Root mean square error](https://www.kaggle.com/nowke9/statistics-3-bivariate-data)\n\n  [1]: https://cricsheet.org/ \"CricSheet\"\n  [2]: https://www.kaggle.com/manasgarg/ipl \"Kaggle - Indian Premier League (Cricket)\"\n  [3]: https://www.iplt20.com/ \"IPLT20.com\"",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "cricket",
+    "india",
+    "sports",
+    "earth and nature",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

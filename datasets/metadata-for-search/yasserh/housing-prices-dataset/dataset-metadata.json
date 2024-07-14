@@ -1,0 +1,39 @@
+{
+  "id": "yasserh/housing-prices-dataset",
+  "id_no": 1859421,
+  "datasetSlugNullable": "housing-prices-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Housing Prices Dataset",
+  "subtitleNullable": "Housing Prices Prediction - Regression Problem",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Housing_Price_Prediction_/main/hs.jpg)\n\n### Description:\n\nA simple yet challenging project, to predict the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad, etc. The dataset is small yet, it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build a decent predictive model?\n\n\n### Acknowledgement: \nHarrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81\u2013102.\nBelsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifying Influential Data and Sources of Collinearity. New York: Wiley.\n\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build Regression models to predict the sales w.r.t a single & multiple feature.\n- Also evaluate the models & compare thier respective scores like R2, RMSE, etc.",
+  "datasetId": 1859421,
+  "datasetSlug": "housing-prices-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 241667,
+  "totalVotes": 237,
+  "totalDownloads": 54414,
+  "title": "Housing Prices Dataset",
+  "hasTitle": true,
+  "subtitle": "Housing Prices Prediction - Regression Problem",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Housing_Price_Prediction_/main/hs.jpg)\n\n### Description:\n\nA simple yet challenging project, to predict the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad, etc. The dataset is small yet, it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build a decent predictive model?\n\n\n### Acknowledgement: \nHarrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81\u2013102.\nBelsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifying Influential Data and Sources of Collinearity. New York: Wiley.\n\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build Regression models to predict the sales w.r.t a single & multiple feature.\n- Also evaluate the models & compare thier respective scores like R2, RMSE, etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nitishabharathi/scene-classification",
+  "id_no": 89296,
+  "datasetSlugNullable": "scene-classification",
+  "ownerUserNullable": "nitishabharathi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Scene Classification",
+  "subtitleNullable": "Contains ~25K images from a wide range of natural scenes",
+  "descriptionNullable": "This dataset contains about ~25k images from a wide range of natural scenes from all around the world. The task is to identify which kind of scene can the image be categorized into. \n\nIt is a 6 class problem\n1. Buildings\n2. Forests\n3. Mountains\n4. Glacier\n5. Street\n6. Sea\n",
+  "datasetId": 89296,
+  "datasetSlug": "scene-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "nitishabharathi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 36925,
+  "totalVotes": 74,
+  "totalDownloads": 4267,
+  "title": "Scene Classification",
+  "hasTitle": true,
+  "subtitle": "Contains ~25K images from a wide range of natural scenes",
+  "hasSubtitle": true,
+  "description": "This dataset contains about ~25k images from a wide range of natural scenes from all around the world. The task is to identify which kind of scene can the image be categorized into. \n\nIt is a 6 class problem\n1. Buildings\n2. Forests\n3. Mountains\n4. Glacier\n5. Street\n6. Sea\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

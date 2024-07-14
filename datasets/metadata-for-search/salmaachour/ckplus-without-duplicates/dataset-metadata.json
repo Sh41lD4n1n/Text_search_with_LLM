@@ -1,0 +1,39 @@
+{
+  "id": "salmaachour/ckplus-without-duplicates",
+  "id_no": 1081746,
+  "datasetSlugNullable": "ckplus-without-duplicates",
+  "ownerUserNullable": "salmaachour",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "CKPlus_Without_Duplicates",
+  "subtitleNullable": "This is the CKPlus dtaset but I removed the duplicated from all the classes",
+  "descriptionNullable": "This dataset will be used to train the emotion detection model\n\nThis CKPlus dataset contains 981 images from 7 emotion classes:\n\n- anger (135 images)\n- contempt (54 images)\n- disgust (177 images)\n- fear (75 images)\n- happy (207 images)\n- sadness (84 images)\n- surprise (249 images)\n\nEach image is in grey scale and has fixed size of 48*48.\n\nThe original Dataset can be downloaded [here](https://www.kaggle.com/shawon10/ckplus)",
+  "datasetId": 1081746,
+  "datasetSlug": "ckplus-without-duplicates",
+  "hasDatasetSlug": true,
+  "ownerUser": "salmaachour",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 1757,
+  "totalVotes": 2,
+  "totalDownloads": 54,
+  "title": "CKPlus_Without_Duplicates",
+  "hasTitle": true,
+  "subtitle": "This is the CKPlus dtaset but I removed the duplicated from all the classes",
+  "hasSubtitle": true,
+  "description": "This dataset will be used to train the emotion detection model\n\nThis CKPlus dataset contains 981 images from 7 emotion classes:\n\n- anger (135 images)\n- contempt (54 images)\n- disgust (177 images)\n- fear (75 images)\n- happy (207 images)\n- sadness (84 images)\n- surprise (249 images)\n\nEach image is in grey scale and has fixed size of 48*48.\n\nThe original Dataset can be downloaded [here](https://www.kaggle.com/shawon10/ckplus)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

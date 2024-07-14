@@ -1,0 +1,42 @@
+{
+  "id": "benroshan/ecommerce-data",
+  "id_no": 615631,
+  "datasetSlugNullable": "ecommerce-data",
+  "ownerUserNullable": "benroshan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "E-Commerce Data",
+  "subtitleNullable": "Sales details from Indian e-commerce website",
+  "descriptionNullable": "### Hello\n\nEver been excited to see a sales dataset ? Well, this data is perfectly curated to perform sales analysis. We have an e-commerce sales dataset from India with 3 csv files -List of Orders, Order details, Sales target\n\n\n### What's inside?\n\n1. List of Orders-This dataset contains purchase information. The information includes ID, Date of Purchase and customer details\n2. Order Details- This dataset contains order ID, with the order price, quantity,profit, category and subcategory of product\n3. Sales target-This dataset contains sales target amount and date for each product category\n\n### Acknowledgements\n\nDataset received from my University, Original Author unknown \n",
+  "datasetId": 615631,
+  "datasetSlug": "ecommerce-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "benroshan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 111956,
+  "totalVotes": 135,
+  "totalDownloads": 20527,
+  "title": "E-Commerce Data",
+  "hasTitle": true,
+  "subtitle": "Sales details from Indian e-commerce website",
+  "hasSubtitle": true,
+  "description": "### Hello\n\nEver been excited to see a sales dataset ? Well, this data is perfectly curated to perform sales analysis. We have an e-commerce sales dataset from India with 3 csv files -List of Orders, Order details, Sales target\n\n\n### What's inside?\n\n1. List of Orders-This dataset contains purchase information. The information includes ID, Date of Purchase and customer details\n2. Order Details- This dataset contains order ID, with the order price, quantity,profit, category and subcategory of product\n3. Sales target-This dataset contains sales target amount and date for each product category\n\n### Acknowledgements\n\nDataset received from my University, Original Author unknown \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data visualization",
+    "deep learning",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

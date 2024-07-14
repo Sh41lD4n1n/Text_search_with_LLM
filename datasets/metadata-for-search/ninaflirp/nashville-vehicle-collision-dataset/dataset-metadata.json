@@ -1,0 +1,40 @@
+{
+  "id": "ninaflirp/nashville-vehicle-collision-dataset",
+  "id_no": 2134982,
+  "datasetSlugNullable": "nashville-vehicle-collision-dataset",
+  "ownerUserNullable": "ninaflirp",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Nashville Vehicle Collision Dataset",
+  "subtitleNullable": "Personal project to play with Nashville\u2019s Car Crash Dataset.",
+  "descriptionNullable": "# Nashville Crash Data 2015-2021\n\nData Obtained From:  https://data.nashville.gov/Police/Traffic-Accidents/6v6w-hpcw\n\n## Business Task\n\nPersonal project to play with Nashville\u2019s Car Crash Dataset. To find out geographically within Nashville & surrounding areas:\n\nWhere accidents happen the most?\nHow many fatalities?\nHow many were injured?\nWhat Collision type occurs more often?\nDoes Daytime & or Nighttime affect accidents?\n\nFor now I decided to work with BigQuery to run some queries to count the Collision type Accidents in different parts of the car.\n\n\nSELECT COUNT (*) FROM `crash-347000.carcrash.trafficAccidents`\nWHERE  Collision_Type_Description = 'ANGLE'; =51385\n \nSELECT DISTINCT Collision_Type_Description FROM `crash-347000.carcrash.trafficAccidents` ;\n \nSo now I repeatedly ran queries to count how many of each different type of collision there had been for each.\n \n2\nANGLE =51385\n3\nOTHER=2490\n4\nHEAD-ON = 4570\n5\nUNKNOWN=2786\n6\nREAR-TO-REAR=1112\n7\nRear to Side=1531\n8\nFront to Rear=77898\n9\nSIDESWIPE - SAME DIRECTION=31032\n10\nSIDESWIPE - OPPOSITE DIRECTION=4693\n11\nNOT COLLISION W/MOTOR VEHICLE-TRANSPORT=37088\n\n \n##Discovery #1\n\nThe Highest Vehicle Collision Location was Front to Rear and the Lowest was Rear to Rear.\n\nNext Query was to find out the COUNT where Hit & Run = False and True\n\nSELECT COUNT (*) FROM `crash-347000.carcrash.trafficAccidents`\nWHERE Hit_and_Run= true; 48003 |  false; 166581\n \nAlso ran a query to see how many accidents happened during daylight:\n\nSELECT Date_and_Time, Weather_Description,Illumination_Description\nFROM `crash-347000.carcrash.trafficAccidents`\nWHERE Illumination_Code = 1;  146612\n \nNext Query for anything other than DAYLIGHT:\n \n SELECT Date_and_Time, Weather_Description,Illumination_Description\nFROM `crash-347000.carcrash.trafficAccidents`\nWHERE Illumination_Description NOT LIKE \"DAYLIGHT\"; 67700\n&\nFOG=450\n\n##Discovery #2\n\nAlthough most accidents happen in Daylight, I hypothesize it\u2019s because there are more cars on the road, due to work traffic.\n\nAlso ran an aggregate query to see what addresses in the Nashville area had the most accidents.\n \nSELECT Street_Address, COUNT (*)\nFROM `crash-347000.carcrash.trafficAccidents`\nGROUP BY Street_Address\nORDER BY COUNT(*) DESC ;\n\n\n##Discovery #3 (SEE PNG ATTATCHMENTS)\nWe can clearly see that most accidents occurred on;\n1) I-40 E EXIT RAMP & I-40\n2) I-40 W EXIT RAMP & I-40\n3) I-24 W EXIT RAMP & I-24\n \nSUM of Fatalities 2015-2021 =214601 \n\nAs I continued working on my data , I started to Visualize some data on Tableau and please look below for a couple of data Viz\u2019s.\n \n\n",
+  "datasetId": 2134982,
+  "datasetSlug": "nashville-vehicle-collision-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ninaflirp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 879,
+  "totalVotes": 1,
+  "totalDownloads": 85,
+  "title": "Nashville Vehicle Collision Dataset",
+  "hasTitle": true,
+  "subtitle": "Personal project to play with Nashville\u2019s Car Crash Dataset.",
+  "hasSubtitle": true,
+  "description": "# Nashville Crash Data 2015-2021\n\nData Obtained From:  https://data.nashville.gov/Police/Traffic-Accidents/6v6w-hpcw\n\n## Business Task\n\nPersonal project to play with Nashville\u2019s Car Crash Dataset. To find out geographically within Nashville & surrounding areas:\n\nWhere accidents happen the most?\nHow many fatalities?\nHow many were injured?\nWhat Collision type occurs more often?\nDoes Daytime & or Nighttime affect accidents?\n\nFor now I decided to work with BigQuery to run some queries to count the Collision type Accidents in different parts of the car.\n\n\nSELECT COUNT (*) FROM `crash-347000.carcrash.trafficAccidents`\nWHERE  Collision_Type_Description = 'ANGLE'; =51385\n \nSELECT DISTINCT Collision_Type_Description FROM `crash-347000.carcrash.trafficAccidents` ;\n \nSo now I repeatedly ran queries to count how many of each different type of collision there had been for each.\n \n2\nANGLE =51385\n3\nOTHER=2490\n4\nHEAD-ON = 4570\n5\nUNKNOWN=2786\n6\nREAR-TO-REAR=1112\n7\nRear to Side=1531\n8\nFront to Rear=77898\n9\nSIDESWIPE - SAME DIRECTION=31032\n10\nSIDESWIPE - OPPOSITE DIRECTION=4693\n11\nNOT COLLISION W/MOTOR VEHICLE-TRANSPORT=37088\n\n \n##Discovery #1\n\nThe Highest Vehicle Collision Location was Front to Rear and the Lowest was Rear to Rear.\n\nNext Query was to find out the COUNT where Hit & Run = False and True\n\nSELECT COUNT (*) FROM `crash-347000.carcrash.trafficAccidents`\nWHERE Hit_and_Run= true; 48003 |  false; 166581\n \nAlso ran a query to see how many accidents happened during daylight:\n\nSELECT Date_and_Time, Weather_Description,Illumination_Description\nFROM `crash-347000.carcrash.trafficAccidents`\nWHERE Illumination_Code = 1;  146612\n \nNext Query for anything other than DAYLIGHT:\n \n SELECT Date_and_Time, Weather_Description,Illumination_Description\nFROM `crash-347000.carcrash.trafficAccidents`\nWHERE Illumination_Description NOT LIKE \"DAYLIGHT\"; 67700\n&\nFOG=450\n\n##Discovery #2\n\nAlthough most accidents happen in Daylight, I hypothesize it\u2019s because there are more cars on the road, due to work traffic.\n\nAlso ran an aggregate query to see what addresses in the Nashville area had the most accidents.\n \nSELECT Street_Address, COUNT (*)\nFROM `crash-347000.carcrash.trafficAccidents`\nGROUP BY Street_Address\nORDER BY COUNT(*) DESC ;\n\n\n##Discovery #3 (SEE PNG ATTATCHMENTS)\nWe can clearly see that most accidents occurred on;\n1) I-40 E EXIT RAMP & I-40\n2) I-40 W EXIT RAMP & I-40\n3) I-24 W EXIT RAMP & I-24\n \nSUM of Fatalities 2015-2021 =214601 \n\nAs I continued working on my data , I started to Visualize some data on Tableau and please look below for a couple of data Viz\u2019s.\n \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

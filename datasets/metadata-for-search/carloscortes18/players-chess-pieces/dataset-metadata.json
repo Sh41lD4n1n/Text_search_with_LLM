@@ -1,0 +1,43 @@
+{
+  "id": "carloscortes18/players-chess-pieces",
+  "id_no": 5294455,
+  "datasetSlugNullable": "players-chess-pieces",
+  "ownerUserNullable": "carloscortes18",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "4 Players Chess Pieces",
+  "subtitleNullable": "Pieces Dataset for training",
+  "descriptionNullable": "Dataset created for training a neural network that can recognize four-player chess pieces. The dataset consists of photos taken based on the expected design, created with a 3D printer, for easy and straightforward recognition.",
+  "datasetId": 5294455,
+  "datasetSlug": "players-chess-pieces",
+  "hasDatasetSlug": true,
+  "ownerUser": "carloscortes18",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 9,
+  "totalVotes": 0,
+  "totalDownloads": 11,
+  "title": "4 Players Chess Pieces",
+  "hasTitle": true,
+  "subtitle": "Pieces Dataset for training",
+  "hasSubtitle": true,
+  "description": "Dataset created for training a neural network that can recognize four-player chess pieces. The dataset consists of photos taken based on the expected design, created with a 3D printer, for easy and straightforward recognition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "neural networks",
+    "cnn",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

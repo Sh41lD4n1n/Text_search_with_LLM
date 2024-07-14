@@ -1,0 +1,37 @@
+{
+  "id": "tronghopdo/twitter-nlp",
+  "id_no": 1406274,
+  "datasetSlugNullable": "twitter-nlp",
+  "ownerUserNullable": "tronghopdo",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "HK2-2021-2022 Twitter NLP ",
+  "subtitleNullable": "Dataset for sentiment classification",
+  "descriptionNullable": "",
+  "datasetId": 1406274,
+  "datasetSlug": "twitter-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "tronghopdo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 2653,
+  "totalVotes": 4,
+  "totalDownloads": 107,
+  "title": "HK2-2021-2022 Twitter NLP ",
+  "hasTitle": true,
+  "subtitle": "Dataset for sentiment classification",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tarundalal/anime-dataset",
+  "id_no": 2330260,
+  "datasetSlugNullable": "anime-dataset",
+  "ownerUserNullable": "tarundalal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anime Dataset",
+  "subtitleNullable": "A World of Latest Animes",
+  "descriptionNullable": "Anime Vyuh: A World Of Anime Dataset\n\nExplore Anime Dataset that consists of Anime data for the last 10 years including the Summer, Winter, and Spring seasons. \nColumns information:\n- Anime = Includes Anime Title\n- Genre = Includes Anime Genre\n- Description = Synopsis of Anime\n- Studio = The Animation Studio\n- Year = Release Year along with date and month\n- Rating = In terms of stars.\n\nGitHub Repository contains how the data was created along with EDA and Recommendation System Machine Learning. Do Star it and open a pull request for any suggestions: https://github.com/lucifertrj/AnimeWorldDataset_HUB\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n\nCredits: [MyAnimeList](https://myanimelist.net/anime) is the website from where I scraped the Dataset. \n\n",
+  "datasetId": 2330260,
+  "datasetSlug": "anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarundalal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9630,
+  "totalVotes": 33,
+  "totalDownloads": 1072,
+  "title": "Anime Dataset",
+  "hasTitle": true,
+  "subtitle": "A World of Latest Animes",
+  "hasSubtitle": true,
+  "description": "Anime Vyuh: A World Of Anime Dataset\n\nExplore Anime Dataset that consists of Anime data for the last 10 years including the Summer, Winter, and Spring seasons. \nColumns information:\n- Anime = Includes Anime Title\n- Genre = Includes Anime Genre\n- Description = Synopsis of Anime\n- Studio = The Animation Studio\n- Year = Release Year along with date and month\n- Rating = In terms of stars.\n\nGitHub Repository contains how the data was created along with EDA and Recommendation System Machine Learning. Do Star it and open a pull request for any suggestions: https://github.com/lucifertrj/AnimeWorldDataset_HUB\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n\nCredits: [MyAnimeList](https://myanimelist.net/anime) is the website from where I scraped the Dataset. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "environment",
+    "comics and animation",
+    "anime and manga",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

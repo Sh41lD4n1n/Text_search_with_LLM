@@ -1,0 +1,42 @@
+{
+  "id": "/leapgestrecog",
+  "id_no": 39466,
+  "datasetSlugNullable": "leapgestrecog",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Hand Gesture Recognition Database",
+  "subtitleNullable": "Acquired by Leap Motion",
+  "descriptionNullable": "### Context\n\nHand gesture recognition database is presented, composed by a set of near infrared images acquired by the Leap Motion sensor.\n\n\n### Content\n\nThe database is composed by 10 different hand-gestures  (showed above) that were performed by 10 different subjects (5 men and 5 women).\n\nThe database is structured in different folders as:\n\n - /00    (subject with identifier 00)\n    * /01_palm    (images for palm gesture of subject 00 )\n      + /01_palm/frame_197957_r.png,...,frame_198136_l.png, ...   (images that corresponds to different samples obtained for the palm gesture performed by the subject with identifier 00)\n   - /02_l    (images for l gesture of subject 00 )\n   - /10_down\n - /01\n - /02\n - /09    (last subject with identifier 09)\n\nEvery root folder (00, 01,...) contains the infrared images of one subject. The folder name is the identifier of each different subject.\n\n\n### Citation\n\nT. Mantec\u00f3n, C.R. del Blanco, F. Jaureguizar, N. Garc\u00eda, \u201cHand Gesture Recognition using Infrared Imagery Provided by Leap Motion Controller\u201d, Int. Conf. on Advanced Concepts for Intelligent Vision Systems, ACIVS 2016, Lecce, Italy, pp. 47-57, 24-27 Oct. 2016. (doi: 10.1007/978-3-319-48680-2_5)  ",
+  "datasetId": 39466,
+  "datasetSlug": "leapgestrecog",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 200784,
+  "totalVotes": 595,
+  "totalDownloads": 24469,
+  "title": "Hand Gesture Recognition Database",
+  "hasTitle": true,
+  "subtitle": "Acquired by Leap Motion",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHand gesture recognition database is presented, composed by a set of near infrared images acquired by the Leap Motion sensor.\n\n\n### Content\n\nThe database is composed by 10 different hand-gestures  (showed above) that were performed by 10 different subjects (5 men and 5 women).\n\nThe database is structured in different folders as:\n\n - /00    (subject with identifier 00)\n    * /01_palm    (images for palm gesture of subject 00 )\n      + /01_palm/frame_197957_r.png,...,frame_198136_l.png, ...   (images that corresponds to different samples obtained for the palm gesture performed by the subject with identifier 00)\n   - /02_l    (images for l gesture of subject 00 )\n   - /10_down\n - /01\n - /02\n - /09    (last subject with identifier 09)\n\nEvery root folder (00, 01,...) contains the infrared images of one subject. The folder name is the identifier of each different subject.\n\n\n### Citation\n\nT. Mantec\u00f3n, C.R. del Blanco, F. Jaureguizar, N. Garc\u00eda, \u201cHand Gesture Recognition using Infrared Imagery Provided by Leap Motion Controller\u201d, Int. Conf. on Advanced Concepts for Intelligent Vision Systems, ACIVS 2016, Lecce, Italy, pp. 47-57, 24-27 Oct. 2016. (doi: 10.1007/978-3-319-48680-2_5)  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "software",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

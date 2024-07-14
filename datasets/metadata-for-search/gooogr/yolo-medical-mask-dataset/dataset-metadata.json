@@ -1,0 +1,43 @@
+{
+  "id": "gooogr/yolo-medical-mask-dataset",
+  "id_no": 661525,
+  "datasetSlugNullable": "yolo-medical-mask-dataset",
+  "ownerUserNullable": "gooogr",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "YOLO medical mask dataset",
+  "subtitleNullable": "Photos of people with medical masks, labeled for odject detection",
+  "descriptionNullable": "### Context\nThis dataset based on [Mikolaj Witkowski's](https://www.kaggle.com/vtech6/medical-masks-dataset) dataset. Differences from the original:\n- All pictures are translated into jpg format.\n- All images contain only properly wearing medical masks\n- All annotation files are converted from xml to txt YOLO compatible format\n\n### Content\nThe following dataset contains pictures of people wearing medical masks along with txt files containing their descriptions.\n There are 632 pair overall.\n\n### Acknowledgements\nThis dataset based on Mikolaj Witkowski's [Medical Masks Dataset ](https://www.kaggle.com/vtech6/medical-masks-dataset).\nIf my version was useful for you, please, upvote his as well.\n",
+  "datasetId": 661525,
+  "datasetSlug": "yolo-medical-mask-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gooogr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 10615,
+  "totalVotes": 19,
+  "totalDownloads": 700,
+  "title": "YOLO medical mask dataset",
+  "hasTitle": true,
+  "subtitle": "Photos of people with medical masks, labeled for odject detection",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset based on [Mikolaj Witkowski's](https://www.kaggle.com/vtech6/medical-masks-dataset) dataset. Differences from the original:\n- All pictures are translated into jpg format.\n- All images contain only properly wearing medical masks\n- All annotation files are converted from xml to txt YOLO compatible format\n\n### Content\nThe following dataset contains pictures of people wearing medical masks along with txt files containing their descriptions.\n There are 632 pair overall.\n\n### Acknowledgements\nThis dataset based on Mikolaj Witkowski's [Medical Masks Dataset ](https://www.kaggle.com/vtech6/medical-masks-dataset).\nIf my version was useful for you, please, upvote his as well.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "public health",
+    "health",
+    "eyes and vision",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

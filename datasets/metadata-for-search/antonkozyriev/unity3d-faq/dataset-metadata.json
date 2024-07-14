@@ -1,0 +1,43 @@
+{
+  "id": "antonkozyriev/unity3d-faq",
+  "id_no": 1565666,
+  "datasetSlugNullable": "unity3d-faq",
+  "ownerUserNullable": "antonkozyriev",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Gamedev Chatbot: Domain-oriented intent dataset",
+  "subtitleNullable": "Questions and answers related to the Unity3D from the 'Unity Answers' forum",
+  "descriptionNullable": "### Context\n\nThe dataset is a collection of question-answer pairs gathered from game development forums. All data was web scraped using [Scrapy](https://scrapy.org) framework and preprocessed by [Apache Spark](https://spark.apache.org/). All intents (questions) variations are synthetically generated using a paraphrasing AI.\n\n**The dataset does not contain any personal information about users on a forum. User IDs, post IDs, and mentions were anonymized by a preprocessing pipeline.**\n\n\n### Content\n\nThe dataset is separated into two sections:\n - [raw.json](https://www.kaggle.com/datasets/antonkozyriev/unity3d-faq?select=raw.json) - unprocessed web scraped forum posts. Use this dataframe for an EDA researches.\n - [intents.json](https://www.kaggle.com/datasets/antonkozyriev/unity3d-faq?select=intents.json) - a cleaned and labeled collection of intents set and their corresponding answer. **Use this dataframe for build domain-oriented chatbot**.\n\n\n### Acknowledgements\n\nThe dataset was collected from [Unity Answers Forum](https://answers.unity.com).\n\n\n### Inspiration\n\nUse this dataset to train a domain-oriented chatbot, that provides answers to gaming-related questions. Combine it with dialogues dataframe to add a \"chit-chat\" intent to the bot. You can also perform other NLP/NLU related tasks, such as multilabel text classification of forum tags from the question input. ",
+  "datasetId": 1565666,
+  "datasetSlug": "unity3d-faq",
+  "hasDatasetSlug": true,
+  "ownerUser": "antonkozyriev",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7596,
+  "totalVotes": 18,
+  "totalDownloads": 447,
+  "title": "Gamedev Chatbot: Domain-oriented intent dataset",
+  "hasTitle": true,
+  "subtitle": "Questions and answers related to the Unity3D from the 'Unity Answers' forum",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset is a collection of question-answer pairs gathered from game development forums. All data was web scraped using [Scrapy](https://scrapy.org) framework and preprocessed by [Apache Spark](https://spark.apache.org/). All intents (questions) variations are synthetically generated using a paraphrasing AI.\n\n**The dataset does not contain any personal information about users on a forum. User IDs, post IDs, and mentions were anonymized by a preprocessing pipeline.**\n\n\n### Content\n\nThe dataset is separated into two sections:\n - [raw.json](https://www.kaggle.com/datasets/antonkozyriev/unity3d-faq?select=raw.json) - unprocessed web scraped forum posts. Use this dataframe for an EDA researches.\n - [intents.json](https://www.kaggle.com/datasets/antonkozyriev/unity3d-faq?select=intents.json) - a cleaned and labeled collection of intents set and their corresponding answer. **Use this dataframe for build domain-oriented chatbot**.\n\n\n### Acknowledgements\n\nThe dataset was collected from [Unity Answers Forum](https://answers.unity.com).\n\n\n### Inspiration\n\nUse this dataset to train a domain-oriented chatbot, that provides answers to gaming-related questions. Combine it with dialogues dataframe to add a \"chit-chat\" intent to the bot. You can also perform other NLP/NLU related tasks, such as multilabel text classification of forum tags from the question input. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "nlp",
+    "text",
+    "online communities",
+    "question answering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

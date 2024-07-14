@@ -1,0 +1,43 @@
+{
+  "id": "stoney71/aflstats",
+  "id_no": 1181,
+  "datasetSlugNullable": "aflstats",
+  "ownerUserNullable": "stoney71",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Australian Football League (AFL) Database",
+  "subtitleNullable": "All of the key stats, game by game, player by player",
+  "descriptionNullable": "# Context \n\nI wanted to study player stats for **Australian Rules Football (AFL)**, using Machine Learning to identify who the key players are, predict performance and results. My aim is to create the Ultimate Tipping predictor or maybe a Fantasy League tool. I couldn't find a dataset anywhere so I created my own GCD project and am sharing the database for anybody to explore.\n\n\n# Content\n\n*Every* key stat from **Kicks** to **Clangers** to **Bounces**. Every player, game by game.\n\n# Updates in the latest version:\n\n - Seasons 2012 to 2023\n - Progress scores at quarter time, half time and 3 quarter time breaks\n - Max & Min temperature on game day\n\n\n# Joining Data\nPrimary Keys are unique values in 'PlayerId' and 'GameId'. Do not join by 'DisplayName' as these are not guaranteed to be unique. There are various players with the same name. 'Year' and 'Round' columns are duplicated across stats.csv and games.csv for convenience when reading.\n\n# Future Versions\nIf you have any further suggestions please **Comment below**.\n\n# Acknowledgements\nData is taken with thanks from [afltables.com](http://afltables.com/afl/afl_index.html) and [www.footywire.com](http://www.footywire.com)\n\n# Inspiration\n\nI want to see key insights into the players' performance that nobody has realised before. With tipping contests in the AFL as popular as any other sport, surely this is just waiting for Data Science to take over and pick winners like never before!!",
+  "datasetId": 1181,
+  "datasetSlug": "aflstats",
+  "hasDatasetSlug": true,
+  "ownerUser": "stoney71",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 50023,
+  "totalVotes": 117,
+  "totalDownloads": 5166,
+  "title": "Australian Football League (AFL) Database",
+  "hasTitle": true,
+  "subtitle": "All of the key stats, game by game, player by player",
+  "hasSubtitle": true,
+  "description": "# Context \n\nI wanted to study player stats for **Australian Rules Football (AFL)**, using Machine Learning to identify who the key players are, predict performance and results. My aim is to create the Ultimate Tipping predictor or maybe a Fantasy League tool. I couldn't find a dataset anywhere so I created my own GCD project and am sharing the database for anybody to explore.\n\n\n# Content\n\n*Every* key stat from **Kicks** to **Clangers** to **Bounces**. Every player, game by game.\n\n# Updates in the latest version:\n\n - Seasons 2012 to 2023\n - Progress scores at quarter time, half time and 3 quarter time breaks\n - Max & Min temperature on game day\n\n\n# Joining Data\nPrimary Keys are unique values in 'PlayerId' and 'GameId'. Do not join by 'DisplayName' as these are not guaranteed to be unique. There are various players with the same name. 'Year' and 'Round' columns are duplicated across stats.csv and games.csv for convenience when reading.\n\n# Future Versions\nIf you have any further suggestions please **Comment below**.\n\n# Acknowledgements\nData is taken with thanks from [afltables.com](http://afltables.com/afl/afl_index.html) and [www.footywire.com](http://www.footywire.com)\n\n# Inspiration\n\nI want to see key insights into the players' performance that nobody has realised before. With tipping contests in the AFL as popular as any other sport, surely this is just waiting for Data Science to take over and pick winners like never before!!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "australia",
+    "sports",
+    "tabular",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

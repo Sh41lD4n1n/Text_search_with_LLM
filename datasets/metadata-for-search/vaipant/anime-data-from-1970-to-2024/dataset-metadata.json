@@ -1,0 +1,39 @@
+{
+  "id": "vaipant/anime-data-from-1970-to-2024",
+  "id_no": 3950467,
+  "datasetSlugNullable": "anime-data-from-1970-to-2024",
+  "ownerUserNullable": "vaipant",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Anime Data from 1970 to 2024",
+  "subtitleNullable": "Explore Anime Evolution: Comprehensive Dataset and Scraping Script (1970-2024)",
+  "descriptionNullable": "This dataset contains a comprehensive collection of anime titles spanning the years 1970 to 2024. The data was collected from MyAnimeList using web scraping techniques. It includes essential information about each anime, such as its unique ID, title, genre, description, studio, release year, and user ratings. The dataset offers a valuable resource for exploring the evolution of anime over the decades and understanding trends in the industry. Researchers, anime enthusiasts, and data analysts can use this dataset to analyze various aspects of anime production and consumption, including popular genres, top-rated studios, and changes in audience preferences over time. The dataset is presented in a CSV format and is suitable for a wide range of data analysis and machine learning applications.\n\n## Columns in the data.json :\nmal_id: Unique identifier for the anime entry.\ntitles: List of titles associated with the anime. In this case, \"Attack No.1\".\ntype: Type of the anime, e.g., TV series.\nsource: Source material of the anime, here it's based on a manga.\nepisodes: Number of episodes in the anime (104 in this case).\nrating: Audience rating category, PG-13 in this example.\nscore: Average score given to the anime by users.\nscored_by: Number of users who have scored the anime.\nrank: Ranking of the anime based on score or popularity.\npopularity: Popularity ranking of the anime.\nmembers: Number of members who have added this anime to their list.\nfavorites: Number of users who have favorited this anime.\nsynopsis: Plot summary or synopsis of the anime.\nstudios: Production studio responsible for creating the anime.\ngenres: List of genres the anime belongs to (e.g., Drama, Sports).\nthemes: List of themes present in the anime (e.g., Team Sports).\n\n## Columns in the  user_recommendation.csv :\nmal_id: This column represents the ID of an anime that users have watched or interacted with.\nmal_id_recomm: This column lists the IDs of anime recommended by users for a specific mal_id.\nvotes: The votes column indicates the number of votes or recommendations given by users for the recommendation of mal_id_recomm for mal_id.\n\n\nThe dataset is ready for exploration, analysis, and visualization to uncover insights into the world of anime and its dynamic landscape.",
+  "datasetId": 3950467,
+  "datasetSlug": "anime-data-from-1970-to-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "vaipant",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 363,
+  "totalVotes": 2,
+  "totalDownloads": 56,
+  "title": "Anime Data from 1970 to 2024",
+  "hasTitle": true,
+  "subtitle": "Explore Anime Evolution: Comprehensive Dataset and Scraping Script (1970-2024)",
+  "hasSubtitle": true,
+  "description": "This dataset contains a comprehensive collection of anime titles spanning the years 1970 to 2024. The data was collected from MyAnimeList using web scraping techniques. It includes essential information about each anime, such as its unique ID, title, genre, description, studio, release year, and user ratings. The dataset offers a valuable resource for exploring the evolution of anime over the decades and understanding trends in the industry. Researchers, anime enthusiasts, and data analysts can use this dataset to analyze various aspects of anime production and consumption, including popular genres, top-rated studios, and changes in audience preferences over time. The dataset is presented in a CSV format and is suitable for a wide range of data analysis and machine learning applications.\n\n## Columns in the data.json :\nmal_id: Unique identifier for the anime entry.\ntitles: List of titles associated with the anime. In this case, \"Attack No.1\".\ntype: Type of the anime, e.g., TV series.\nsource: Source material of the anime, here it's based on a manga.\nepisodes: Number of episodes in the anime (104 in this case).\nrating: Audience rating category, PG-13 in this example.\nscore: Average score given to the anime by users.\nscored_by: Number of users who have scored the anime.\nrank: Ranking of the anime based on score or popularity.\npopularity: Popularity ranking of the anime.\nmembers: Number of members who have added this anime to their list.\nfavorites: Number of users who have favorited this anime.\nsynopsis: Plot summary or synopsis of the anime.\nstudios: Production studio responsible for creating the anime.\ngenres: List of genres the anime belongs to (e.g., Drama, Sports).\nthemes: List of themes present in the anime (e.g., Team Sports).\n\n## Columns in the  user_recommendation.csv :\nmal_id: This column represents the ID of an anime that users have watched or interacted with.\nmal_id_recomm: This column lists the IDs of anime recommended by users for a specific mal_id.\nvotes: The votes column indicates the number of votes or recommendations given by users for the recommendation of mal_id_recomm for mal_id.\n\n\nThe dataset is ready for exploration, analysis, and visualization to uncover insights into the world of anime and its dynamic landscape.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hijest/genre-classification-dataset-imdb",
+  "id_no": 1417162,
+  "datasetSlugNullable": "genre-classification-dataset-imdb",
+  "ownerUserNullable": "hijest",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Genre Classification Dataset IMDb",
+  "subtitleNullable": "Test your NLP text classification skills",
+  "descriptionNullable": "IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. An additional fan feature, message boards, was abandoned in February 2017. Originally a fan-operated website, the database is now owned and operated by IMDb.com, Inc., a subsidiary of Amazon.\n\nAs of December 2020, IMDb has approximately 7.5 million titles (including episodes) and 10.4 million personalities in its database,[2] as well as 83 million registered users.\n\nIMDb began as a movie database on the Usenet group \"rec.arts.movies\" in 1990 and moved to the web in 1993.",
+  "datasetId": 1417162,
+  "datasetSlug": "genre-classification-dataset-imdb",
+  "hasDatasetSlug": true,
+  "ownerUser": "hijest",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 66491,
+  "totalVotes": 103,
+  "totalDownloads": 11218,
+  "title": "Genre Classification Dataset IMDb",
+  "hasTitle": true,
+  "subtitle": "Test your NLP text classification skills",
+  "hasSubtitle": true,
+  "description": "IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. An additional fan feature, message boards, was abandoned in February 2017. Originally a fan-operated website, the database is now owned and operated by IMDb.com, Inc., a subsidiary of Amazon.\n\nAs of December 2020, IMDb has approximately 7.5 million titles (including episodes) and 10.4 million personalities in its database,[2] as well as 83 million registered users.\n\nIMDb began as a movie database on the Usenet group \"rec.arts.movies\" in 1990 and moved to the web in 1993.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

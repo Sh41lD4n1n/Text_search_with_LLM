@@ -1,0 +1,42 @@
+{
+  "id": "gpandi007/usa-housing-dataset",
+  "id_no": 8855,
+  "datasetSlugNullable": "usa-housing-dataset",
+  "ownerUserNullable": "gpandi007",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "USA Housing dataset",
+  "subtitleNullable": "House Sales Price Predictions",
+  "descriptionNullable": "### Context\n\nThis data gives different sales prices with respect to type of houses in USA\n\n\n### Content\n\nThere are 72 Variables gives house property and predicted variable is in last Sales price of the house\n\n### Acknowledgements\n\nPlease compare all the variable with respect to sales price and try to create different model, come up with the solution for Sales price predictions of the house\n\n### Inspiration\n\nbusiness probes is predicting sales price ",
+  "datasetId": 8855,
+  "datasetSlug": "usa-housing-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpandi007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 100509,
+  "totalVotes": 66,
+  "totalDownloads": 8467,
+  "title": "USA Housing dataset",
+  "hasTitle": true,
+  "subtitle": "House Sales Price Predictions",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data gives different sales prices with respect to type of houses in USA\n\n\n### Content\n\nThere are 72 Variables gives house property and predicted variable is in last Sales price of the house\n\n### Acknowledgements\n\nPlease compare all the variable with respect to sales price and try to create different model, come up with the solution for Sales price predictions of the house\n\n### Inspiration\n\nbusiness probes is predicting sales price ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "business",
+    "finance",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

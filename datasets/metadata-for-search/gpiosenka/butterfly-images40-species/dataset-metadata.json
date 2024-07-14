@@ -1,0 +1,42 @@
+{
+  "id": "gpiosenka/butterfly-images40-species",
+  "id_no": 456014,
+  "datasetSlugNullable": "butterfly-images40-species",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Butterfly & Moths Image Classification 100 species",
+  "subtitleNullable": "12594 train, 500 test, 500 validation images 224 X 224 X 3 jpg format ",
+  "descriptionNullable": "This version corrects issues found in the previous version of the dataset. To see those issues you can look at my notebook at https://www.kaggle.com/code/gpiosenka/dataset-quality-evaluation-tool.\nTrain, Test. Validation data set for 100 butterfly  or moth species. All images are 224 X 224 X 3 in jpg format .\nTrain set consists of 12594 images partitioned into 100 sub directories one for each species.\nTest set consists of 500 images partitioned into 100 sub directories with 5 test images per species.\nValid set consists of 500 images partitioned into 100 sub directories with 5 validation images per species.\nA CSV files is included. The butterflies and moths .csv file consists of 4 columns with 13595 rows. The first row is the header, the remaining rows are for each of the image files in the train, test and validation datasets,\nThe columns are class id, filepaths, labels and data set. The filepaths column contains the relative path to the image.\nThe labels column contains the text species label associated with the image file. The data set column specifies which\ndataset (train, test or valid) the associated image belongs to.  The class id column contains the numerical class index for the image file.\n\n",
+  "datasetId": 456014,
+  "datasetSlug": "butterfly-images40-species",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 77868,
+  "totalVotes": 133,
+  "totalDownloads": 8939,
+  "title": "Butterfly & Moths Image Classification 100 species",
+  "hasTitle": true,
+  "subtitle": "12594 train, 500 test, 500 validation images 224 X 224 X 3 jpg format ",
+  "hasSubtitle": true,
+  "description": "This version corrects issues found in the previous version of the dataset. To see those issues you can look at my notebook at https://www.kaggle.com/code/gpiosenka/dataset-quality-evaluation-tool.\nTrain, Test. Validation data set for 100 butterfly  or moth species. All images are 224 X 224 X 3 in jpg format .\nTrain set consists of 12594 images partitioned into 100 sub directories one for each species.\nTest set consists of 500 images partitioned into 100 sub directories with 5 test images per species.\nValid set consists of 500 images partitioned into 100 sub directories with 5 validation images per species.\nA CSV files is included. The butterflies and moths .csv file consists of 4 columns with 13595 rows. The first row is the header, the remaining rows are for each of the image files in the train, test and validation datasets,\nThe columns are class id, filepaths, labels and data set. The filepaths column contains the relative path to the image.\nThe labels column contains the text species label associated with the image file. The data set column specifies which\ndataset (train, test or valid) the associated image belongs to.  The class id column contains the numerical class index for the image file.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

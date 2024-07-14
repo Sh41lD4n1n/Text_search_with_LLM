@@ -1,0 +1,40 @@
+{
+  "id": "arnavsmayan/stock-market-dataset",
+  "id_no": 3554116,
+  "datasetSlugNullable": "stock-market-dataset",
+  "ownerUserNullable": "arnavsmayan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": " Stock Market Dataset",
+  "subtitleNullable": "This dataset contains randomly generated historical stock prices and attributes",
+  "descriptionNullable": "**Introduction:**\n\nThis dataset contains historical stock prices for a single fictional stock, along with several attributes useful for time series analysis and forecasting. It is intended for educational and illustrative purposes only and does not represent real-world financial data. The dataset is generated randomly and provides a simplified representation of a stock's historical performance.\n\n**Usage:**\n\nThis dataset is designed to be used for educational purposes, especially for teaching time series analysis, data visualization, and forecasting techniques in the context of financial markets. It can serve as a starting point for beginners in data science and machine learning to explore time series data and apply various statistical and machine learning models.",
+  "datasetId": 3554116,
+  "datasetSlug": "stock-market-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnavsmayan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7450,
+  "totalVotes": 72,
+  "totalDownloads": 1512,
+  "title": " Stock Market Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains randomly generated historical stock prices and attributes",
+  "hasSubtitle": true,
+  "description": "**Introduction:**\n\nThis dataset contains historical stock prices for a single fictional stock, along with several attributes useful for time series analysis and forecasting. It is intended for educational and illustrative purposes only and does not represent real-world financial data. The dataset is generated randomly and provides a simplified representation of a stock's historical performance.\n\n**Usage:**\n\nThis dataset is designed to be used for educational purposes, especially for teaching time series analysis, data visualization, and forecasting techniques in the context of financial markets. It can serve as a starting point for beginners in data science and machine learning to explore time series data and apply various statistical and machine learning models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

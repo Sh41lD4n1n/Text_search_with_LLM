@@ -1,0 +1,39 @@
+{
+  "id": "muzammilbaloch/anime-genres",
+  "id_no": 4541358,
+  "datasetSlugNullable": "anime-genres",
+  "ownerUserNullable": "muzammilbaloch",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "anime genres",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4541358,
+  "datasetSlug": "anime-genres",
+  "hasDatasetSlug": true,
+  "ownerUser": "muzammilbaloch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 125,
+  "totalVotes": 48,
+  "totalDownloads": 9,
+  "title": "anime genres",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

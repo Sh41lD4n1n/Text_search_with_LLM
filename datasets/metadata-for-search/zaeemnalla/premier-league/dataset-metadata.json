@@ -1,0 +1,40 @@
+{
+  "id": "zaeemnalla/premier-league",
+  "id_no": 36492,
+  "datasetSlugNullable": "premier-league",
+  "ownerUserNullable": "zaeemnalla",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Premier League",
+  "subtitleNullable": "Results of each match and stats of each team from season 2006/2007 to 2017/2018",
+  "descriptionNullable": "### Context\n\nOfficial football data organised and formatted in csv files ready for download is quite hard to come by. Stats providers are hesitant to release their data to anyone and everyone, even if it's for academic purposes. That was my exact dilemma which prompted me to scrape and extract it myself. Now that it's at your disposal, have fun with it.\n\n### Content\n\nThe data was acquired from the Premier League website and is representative of seasons 2006/2007 to 2017/2018. Visit both sets to get a detailed description of what each entails.\n\n### Inspiration\n\nUse it to the best of your ability to predict match outcomes or for a thorough data analysis to uncover some intriguing insights. Be safe and only use this dataset for personal projects. If you'd like to use this type of data for a commercial project, contact Opta to access it through their API instead.",
+  "datasetId": 36492,
+  "datasetSlug": "premier-league",
+  "hasDatasetSlug": true,
+  "ownerUser": "zaeemnalla",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 98172,
+  "totalVotes": 301,
+  "totalDownloads": 15688,
+  "title": "Premier League",
+  "hasTitle": true,
+  "subtitle": "Results of each match and stats of each team from season 2006/2007 to 2017/2018",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOfficial football data organised and formatted in csv files ready for download is quite hard to come by. Stats providers are hesitant to release their data to anyone and everyone, even if it's for academic purposes. That was my exact dilemma which prompted me to scrape and extract it myself. Now that it's at your disposal, have fun with it.\n\n### Content\n\nThe data was acquired from the Premier League website and is representative of seasons 2006/2007 to 2017/2018. Visit both sets to get a detailed description of what each entails.\n\n### Inspiration\n\nUse it to the best of your ability to predict match outcomes or for a thorough data analysis to uncover some intriguing insights. Be safe and only use this dataset for personal projects. If you'd like to use this type of data for a commercial project, contact Opta to access it through their API instead.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

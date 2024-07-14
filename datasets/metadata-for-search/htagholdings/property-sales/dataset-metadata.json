@@ -1,0 +1,41 @@
+{
+  "id": "/property-sales",
+  "id_no": 298063,
+  "datasetSlugNullable": "property-sales",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "House Property Sales Time Series",
+  "subtitleNullable": "What model will produce the most accurate forecast?",
+  "descriptionNullable": "### Context\n\nA multivariate time series has more than one time-dependent variable. Each variable depends not only on its past values but also has some dependency on other variables.\n\nWe have accumulated property sales data for the 2007-2019 period for one specific region. The data contains sales prices for houses and units with 1,2,3,4,5 bedrooms. These are the cross-depended variables.  The chart illustrates these variables for houses:\n\n**Raw Data:**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2858272%2F94d5f8d79c60d468f1c50b29d6ae7527%2Fdownload.png?generation=1565753055319944&alt=media)\n\n\n**Data re-sampled at quarterly intervals using a median aggregator:**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2858272%2Fb8b5c3bee9442a25cb71659176ca8d20%2Fdownload1.png?generation=1565753032380625&alt=media)\n\n\nThe data can be summarised as:\n\n- date of sale\n- price\n- property type: unit or house\n- number of bedrooms: 1,2,3,4,5 (these are the multi-variables we are targeting)\n- 4digit postcode (this is for reference only, we don't expect that this data point will be useful)\n\n\n### Content\n\n- **raw_sales.csv** contains house sales data ranging from 2007-2019\n- **ma_lga_12345.csv**  transforms the raw sales data, re-sampling it at quarterly intervals with median price aggregation and step 4 moving average smoothing\n\n\n### Inspiration\n\nWhat model would you use to forecast 8 future quarters for each property type and # of bedrooms?\nWould the traditional multi-variate forecasting models from the VARMAX family or multi-variate regression outperform  LSTM, DLM, RNN networks for this problem?",
+  "datasetId": 298063,
+  "datasetSlug": "property-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 121986,
+  "totalVotes": 147,
+  "totalDownloads": 18146,
+  "title": "House Property Sales Time Series",
+  "hasTitle": true,
+  "subtitle": "What model will produce the most accurate forecast?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA multivariate time series has more than one time-dependent variable. Each variable depends not only on its past values but also has some dependency on other variables.\n\nWe have accumulated property sales data for the 2007-2019 period for one specific region. The data contains sales prices for houses and units with 1,2,3,4,5 bedrooms. These are the cross-depended variables.  The chart illustrates these variables for houses:\n\n**Raw Data:**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2858272%2F94d5f8d79c60d468f1c50b29d6ae7527%2Fdownload.png?generation=1565753055319944&alt=media)\n\n\n**Data re-sampled at quarterly intervals using a median aggregator:**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2858272%2Fb8b5c3bee9442a25cb71659176ca8d20%2Fdownload1.png?generation=1565753032380625&alt=media)\n\n\nThe data can be summarised as:\n\n- date of sale\n- price\n- property type: unit or house\n- number of bedrooms: 1,2,3,4,5 (these are the multi-variables we are targeting)\n- 4digit postcode (this is for reference only, we don't expect that this data point will be useful)\n\n\n### Content\n\n- **raw_sales.csv** contains house sales data ranging from 2007-2019\n- **ma_lga_12345.csv**  transforms the raw sales data, re-sampling it at quarterly intervals with median price aggregation and step 4 moving average smoothing\n\n\n### Inspiration\n\nWhat model would you use to forecast 8 future quarters for each property type and # of bedrooms?\nWould the traditional multi-variate forecasting models from the VARMAX family or multi-variate regression outperform  LSTM, DLM, RNN networks for this problem?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "real estate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

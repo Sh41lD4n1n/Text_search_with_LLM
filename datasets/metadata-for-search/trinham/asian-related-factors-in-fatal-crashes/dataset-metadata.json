@@ -1,0 +1,43 @@
+{
+  "id": "trinham/asian-related-factors-in-fatal-crashes",
+  "id_no": 4477209,
+  "datasetSlugNullable": "asian-related-factors-in-fatal-crashes",
+  "ownerUserNullable": "trinham",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Asian-Related Factors in Fatal Crashes In Texas",
+  "subtitleNullable": "Unveiling Asian Influence: Understanding Contributing Factors in Fatal Crashes",
+  "descriptionNullable": "This dataset provides insights into fatal car crashes with a focus on Asian-related factors, including vehicle make and model. It includes information on lighting conditions, weather, state, city, and driver behavior. Explore the correlation between these factors and fatal accidents involving Asian car brands.",
+  "datasetId": 4477209,
+  "datasetSlug": "asian-related-factors-in-fatal-crashes",
+  "hasDatasetSlug": true,
+  "ownerUser": "trinham",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 95,
+  "totalVotes": 1,
+  "totalDownloads": 14,
+  "title": "Asian-Related Factors in Fatal Crashes In Texas",
+  "hasTitle": true,
+  "subtitle": "Unveiling Asian Influence: Understanding Contributing Factors in Fatal Crashes",
+  "hasSubtitle": true,
+  "description": "This dataset provides insights into fatal car crashes with a focus on Asian-related factors, including vehicle make and model. It includes information on lighting conditions, weather, state, city, and driver behavior. Explore the correlation between these factors and fatal accidents involving Asian car brands.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "automobiles and vehicles",
+    "beginner",
+    "classification",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

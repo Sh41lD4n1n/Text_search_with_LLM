@@ -1,0 +1,43 @@
+{
+  "id": "bilalwaseer/top-1000-bollywood-movies-and-their-box-office",
+  "id_no": 3275361,
+  "datasetSlugNullable": "top-1000-bollywood-movies-and-their-box-office",
+  "ownerUserNullable": "bilalwaseer",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 1000 Bollywood movies and their box office",
+  "subtitleNullable": "Bollywood Box Office Unveiling the Numbers and Verdicts of Blockbusters and Flop",
+  "descriptionNullable": "## All prices are in INR CRORES.\n\n### Movie Name: The name of the Bollywood movie.\n### Worldwide Gross: The total box office earnings of the movie globally, including both domestic (India) and international markets.\n### India Gross: The total box office earnings of the movie in India, indicating its popularity and success in the domestic market.\n### India Net: The net box office earnings of the movie in India, after deducting taxes and other expenses.\n### Verdict: The verdict or classification given to the movie based on its box office performance, indicating whether it was a blockbuster, hit, average, flop, or any other categorization.\n\n# This dataset provides comprehensive information about Bollywood movies, their financial performance at the box office, and their verdicts, allowing for analysis and insights into the success and popularity of different films in the Indian film industry.\n\n\n**Description**: ChatGPT\n",
+  "datasetId": 3275361,
+  "datasetSlug": "top-1000-bollywood-movies-and-their-box-office",
+  "hasDatasetSlug": true,
+  "ownerUser": "bilalwaseer",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7997,
+  "totalVotes": 37,
+  "totalDownloads": 1521,
+  "title": "Top 1000 Bollywood movies and their box office",
+  "hasTitle": true,
+  "subtitle": "Bollywood Box Office Unveiling the Numbers and Verdicts of Blockbusters and Flop",
+  "hasSubtitle": true,
+  "description": "## All prices are in INR CRORES.\n\n### Movie Name: The name of the Bollywood movie.\n### Worldwide Gross: The total box office earnings of the movie globally, including both domestic (India) and international markets.\n### India Gross: The total box office earnings of the movie in India, indicating its popularity and success in the domestic market.\n### India Net: The net box office earnings of the movie in India, after deducting taxes and other expenses.\n### Verdict: The verdict or classification given to the movie based on its box office performance, indicating whether it was a blockbuster, hit, average, flop, or any other categorization.\n\n# This dataset provides comprehensive information about Bollywood movies, their financial performance at the box office, and their verdicts, allowing for analysis and insights into the success and popularity of different films in the Indian film industry.\n\n\n**Description**: ChatGPT\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "advanced",
+    "data visualization",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

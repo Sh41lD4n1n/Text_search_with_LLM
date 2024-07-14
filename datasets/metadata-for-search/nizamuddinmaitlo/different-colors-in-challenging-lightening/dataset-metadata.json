@@ -1,0 +1,44 @@
+{
+  "id": "nizamuddinmaitlo/different-colors-in-challenging-lightening",
+  "id_no": 5299588,
+  "datasetSlugNullable": "different-colors-in-challenging-lightening",
+  "ownerUserNullable": "nizamuddinmaitlo",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Different Colors in challenging lightening",
+  "subtitleNullable": "Different color classification in different lightening Environment",
+  "descriptionNullable": "**Overview**\nThis dataset comprises 250 high-resolution images specifically curated for color classification under diverse and challenging lighting conditions. The images are categorized into nine color classes: black, blue, brown, green, orange, purple, red, white, and yellow. The dataset is split into two main subsets for training and testing purposes.\n\n**Training Set**\nNumber of Images: 200\nDescription: The training set consists of 200 images, each labeled with one of the nine color classes. These images capture a range of lighting scenarios, including low light, high contrast, shadows, and mixed lighting conditions.\n**Test Set**\nNumber of Images: 50\nDescription: The test set contains 50 images without labels. It serves as the evaluation dataset for assessing the performance of color classification models trained on the training set. The images in the test set are also captured under varied lighting conditions to simulate real-world scenarios.\nObjectives\nThe primary goal of using this dataset is to develop and evaluate machine learning models capable of accurately classifying colors under challenging lighting conditions. Participants are encouraged to explore various model architectures and preprocessing techniques to achieve robust performance across different lighting scenarios.\n\n**Evaluation**\nSubmissions will be evaluated based on the accuracy of color classifications on the test set. The model's ability to generalize to unseen lighting conditions will be a key factor in determining the final performance metrics.\n\n**Usage**\nResearchers and practitioners interested in color classification, computer vision, and machine learning can utilize this dataset for developing and benchmarking their algorithms. The dataset provides a realistic representation of color classification challenges encountered in practical applications.\n\n**Acknowledgments**\nWe acknowledge the contributors and creators of this dataset for their efforts in collecting and annotating the images, enabling advancements in color classification research and development.\n\n\n**Please cite our paper:**\nN. Maitlo, N. Noonari, S. A. Ghanghro, S. Duraisamy and F. Ahmed, \"Color Recognition in Challenging Lighting Environments: CNN Approach,\" 2024 IEEE 9th International Conference for Convergence in Technology (I2CT), Pune, India, 2024, pp. 1-7, doi: 10.1109/I2CT61223.2024.10543537.\nkeywords: {Image segmentation;Computer vision;Image color analysis;Image edge detection;Neural networks;Lighting;Object segmentation;Deep Learning;Convolutional Neural Network (CNN);Image Segmentation;Color Detection;Object Segmentation},",
+  "datasetId": 5299588,
+  "datasetSlug": "different-colors-in-challenging-lightening",
+  "hasDatasetSlug": true,
+  "ownerUser": "nizamuddinmaitlo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 5,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Different Colors in challenging lightening",
+  "hasTitle": true,
+  "subtitle": "Different color classification in different lightening Environment",
+  "hasSubtitle": true,
+  "description": "**Overview**\nThis dataset comprises 250 high-resolution images specifically curated for color classification under diverse and challenging lighting conditions. The images are categorized into nine color classes: black, blue, brown, green, orange, purple, red, white, and yellow. The dataset is split into two main subsets for training and testing purposes.\n\n**Training Set**\nNumber of Images: 200\nDescription: The training set consists of 200 images, each labeled with one of the nine color classes. These images capture a range of lighting scenarios, including low light, high contrast, shadows, and mixed lighting conditions.\n**Test Set**\nNumber of Images: 50\nDescription: The test set contains 50 images without labels. It serves as the evaluation dataset for assessing the performance of color classification models trained on the training set. The images in the test set are also captured under varied lighting conditions to simulate real-world scenarios.\nObjectives\nThe primary goal of using this dataset is to develop and evaluate machine learning models capable of accurately classifying colors under challenging lighting conditions. Participants are encouraged to explore various model architectures and preprocessing techniques to achieve robust performance across different lighting scenarios.\n\n**Evaluation**\nSubmissions will be evaluated based on the accuracy of color classifications on the test set. The model's ability to generalize to unseen lighting conditions will be a key factor in determining the final performance metrics.\n\n**Usage**\nResearchers and practitioners interested in color classification, computer vision, and machine learning can utilize this dataset for developing and benchmarking their algorithms. The dataset provides a realistic representation of color classification challenges encountered in practical applications.\n\n**Acknowledgments**\nWe acknowledge the contributors and creators of this dataset for their efforts in collecting and annotating the images, enabling advancements in color classification research and development.\n\n\n**Please cite our paper:**\nN. Maitlo, N. Noonari, S. A. Ghanghro, S. Duraisamy and F. Ahmed, \"Color Recognition in Challenging Lighting Environments: CNN Approach,\" 2024 IEEE 9th International Conference for Convergence in Technology (I2CT), Pune, India, 2024, pp. 1-7, doi: 10.1109/I2CT61223.2024.10543537.\nkeywords: {Image segmentation;Computer vision;Image color analysis;Image edge detection;Neural networks;Lighting;Object segmentation;Deep Learning;Convolutional Neural Network (CNN);Image Segmentation;Color Detection;Object Segmentation},",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nooruddin",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

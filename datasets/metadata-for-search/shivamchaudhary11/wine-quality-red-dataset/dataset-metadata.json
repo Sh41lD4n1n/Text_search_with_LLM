@@ -1,0 +1,39 @@
+{
+  "id": "shivamchaudhary11/wine-quality-red-dataset",
+  "id_no": 1876773,
+  "datasetSlugNullable": "wine-quality-red-dataset",
+  "ownerUserNullable": "shivamchaudhary11",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "WINE QUALITY RED DATASET",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1876773,
+  "datasetSlug": "wine-quality-red-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamchaudhary11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 680,
+  "totalVotes": 1,
+  "totalDownloads": 17,
+  "title": "WINE QUALITY RED DATASET",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

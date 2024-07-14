@@ -1,0 +1,40 @@
+{
+  "id": "nexdatafrank/sign-language-gestures-recognition-data",
+  "id_no": 3880676,
+  "datasetSlugNullable": "sign-language-gestures-recognition-data",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Sign Language Gestures Recognition Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Description**\nThe data diversity includes multiple scenes, 41 static gestures, 95 dynamic gestures, multiple photographic angles, and multiple light conditions. In terms of data annotation, 21 landmarks, gesture types, and gesture attributes were annotated. This dataset can be used for tasks such as gesture recognition and sign language translation.\nFor more details, please visit: https://www.nexdata.ai/datasets/980?source=Kaggle\n\n**Specifications**\nData size\n180,717 images, including 83,012 images of static gestures, 97,705 images of dynamic gestures\nPopulation distribution\nthe race distribution is Asian, the gender distribution is male and female, the age distribution is mainly young people and middle-aged people\nCollection environment\nincluding indoor scenes and outdoor scenes\nCollection diversity\nincluding multiple scenes, 41 static gestures, 95 dynamic gestures, multiple photographic angles, multiple light conditions\nDevice\ncellphone\nData forma\nthe image data format is .jpg, the annotation file format is .json\nCollecting content\nsign language gestures were collected in different scenes\nAnnotation content\n21 landmarks annotation (each landmark includes the attribute of visible or invisible), gesture type annotation, gesture attributes annotation (left hand or right hand)\nAccuracy\naccuracy requirement: the point location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; accuracy of landmark annotation: the annotation part (each landmark) is regarded as the unit, the accuracy rate shall be more than 95%\n\n**Get the Dataset**\nThis is just an example of the data. To access more sample data or request the price, contact us  at info@nexdata.ai",
+  "datasetId": 3880676,
+  "datasetSlug": "sign-language-gestures-recognition-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 154,
+  "totalVotes": 0,
+  "totalDownloads": 9,
+  "title": "Sign Language Gestures Recognition Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Description**\nThe data diversity includes multiple scenes, 41 static gestures, 95 dynamic gestures, multiple photographic angles, and multiple light conditions. In terms of data annotation, 21 landmarks, gesture types, and gesture attributes were annotated. This dataset can be used for tasks such as gesture recognition and sign language translation.\nFor more details, please visit: https://www.nexdata.ai/datasets/980?source=Kaggle\n\n**Specifications**\nData size\n180,717 images, including 83,012 images of static gestures, 97,705 images of dynamic gestures\nPopulation distribution\nthe race distribution is Asian, the gender distribution is male and female, the age distribution is mainly young people and middle-aged people\nCollection environment\nincluding indoor scenes and outdoor scenes\nCollection diversity\nincluding multiple scenes, 41 static gestures, 95 dynamic gestures, multiple photographic angles, multiple light conditions\nDevice\ncellphone\nData forma\nthe image data format is .jpg, the annotation file format is .json\nCollecting content\nsign language gestures were collected in different scenes\nAnnotation content\n21 landmarks annotation (each landmark includes the attribute of visible or invisible), gesture type annotation, gesture attributes annotation (left hand or right hand)\nAccuracy\naccuracy requirement: the point location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; accuracy of landmark annotation: the annotation part (each landmark) is regarded as the unit, the accuracy rate shall be more than 95%\n\n**Get the Dataset**\nThis is just an example of the data. To access more sample data or request the price, contact us  at info@nexdata.ai",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

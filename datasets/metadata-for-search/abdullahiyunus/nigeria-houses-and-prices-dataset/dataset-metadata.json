@@ -1,0 +1,43 @@
+{
+  "id": "abdullahiyunus/nigeria-houses-and-prices-dataset",
+  "id_no": 1415024,
+  "datasetSlugNullable": "nigeria-houses-and-prices-dataset",
+  "ownerUserNullable": "abdullahiyunus",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Nigeria Houses and prices dataset",
+  "subtitleNullable": "Prices of houses based on their specifications in Nigeria \ud83c\uddf3\ud83c\uddec ",
+  "descriptionNullable": "",
+  "datasetId": 1415024,
+  "datasetSlug": "nigeria-houses-and-prices-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdullahiyunus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 8037,
+  "totalVotes": 38,
+  "totalDownloads": 1225,
+  "title": "Nigeria Houses and prices dataset",
+  "hasTitle": true,
+  "subtitle": "Prices of houses based on their specifications in Nigeria \ud83c\uddf3\ud83c\uddec ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "africa",
+    "housing",
+    "data analytics",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

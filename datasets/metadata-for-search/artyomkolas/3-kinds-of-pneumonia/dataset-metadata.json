@@ -1,0 +1,43 @@
+{
+  "id": "artyomkolas/3-kinds-of-pneumonia",
+  "id_no": 2225506,
+  "datasetSlugNullable": "3-kinds-of-pneumonia",
+  "ownerUserNullable": "artyomkolas",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "3 kinds of Pneumonia",
+  "subtitleNullable": "3270-Normal | 3001-Pneumonia-Bacterial | 1656-Pneumonia-Viral | 1281-COVID-19",
+  "descriptionNullable": "**Description**\n\n**Feature Visualization / Disease Highlighting**\nYou can find in my notebook:\n[3 kinds pneumonia & visualization](https://www.kaggle.com/code/artyomkolas/3-kinds-pneumonia-cnn-visualization/notebook)\n\n**About the Data**\nThis is a combined curated dataset of COVID-19 Chest X-ray images obtained by collating 15 publically available datasets as listed under the references section. The present dataset contains 1281 COVID-19 X-Rays, 3270 Normal X-Rays, 1656 viral-pneumonia X-Rays, and 3001 bacterial-pneumonia X-Rays.\n\nThe collected datasets\u2014as cited by this dataset\u2014are combined to form an integrated repository. This integrated repository contains a total of 4558 COVID-19 X-Rays, 5403 Normal X-Rays, 4497 Viral pneumonia X-Rays, and 5768 bacterial pneumonia X-Rays. Out of which 1379 COVID-19 X-Rays, 1476 normal X-Rays, 2690 viral pneumonia X-Rays, and 2588 bacterial pneumonia X-Rays are found to be duplicates\u2014based on the image similarities\u2014and thus are removed. Inception V3 architecture is used to obtain the image embeddings, which is followed by the use of unsupervised learning algorithms based on cosine similarity distances. These distances are clustered and then visualized to find different categories of image defects which are listed below:\n\n1.Noise\n2.Pixelated \n3.Compressed\n4.Medical Implants\n5.Washed out image\n6.Side View\n7.CT (sliced) image\n8.Aspect Ratio distortion / Cropped / Zoomed \n9.Rotated Images\n10.Images with annotations\n\nThese clusters of defective images are removed during the curation process and a refined dataset is obtained which is available for download.\n\n**Source:**\n[https://data.mendeley.com/datasets/9xkhgts2s6/3](https://data.mendeley.com/datasets/9xkhgts2s6/3)\n\n",
+  "datasetId": 2225506,
+  "datasetSlug": "3-kinds-of-pneumonia",
+  "hasDatasetSlug": true,
+  "ownerUser": "artyomkolas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 12069,
+  "totalVotes": 30,
+  "totalDownloads": 1413,
+  "title": "3 kinds of Pneumonia",
+  "hasTitle": true,
+  "subtitle": "3270-Normal | 3001-Pneumonia-Bacterial | 1656-Pneumonia-Viral | 1281-COVID-19",
+  "hasSubtitle": true,
+  "description": "**Description**\n\n**Feature Visualization / Disease Highlighting**\nYou can find in my notebook:\n[3 kinds pneumonia & visualization](https://www.kaggle.com/code/artyomkolas/3-kinds-pneumonia-cnn-visualization/notebook)\n\n**About the Data**\nThis is a combined curated dataset of COVID-19 Chest X-ray images obtained by collating 15 publically available datasets as listed under the references section. The present dataset contains 1281 COVID-19 X-Rays, 3270 Normal X-Rays, 1656 viral-pneumonia X-Rays, and 3001 bacterial-pneumonia X-Rays.\n\nThe collected datasets\u2014as cited by this dataset\u2014are combined to form an integrated repository. This integrated repository contains a total of 4558 COVID-19 X-Rays, 5403 Normal X-Rays, 4497 Viral pneumonia X-Rays, and 5768 bacterial pneumonia X-Rays. Out of which 1379 COVID-19 X-Rays, 1476 normal X-Rays, 2690 viral pneumonia X-Rays, and 2588 bacterial pneumonia X-Rays are found to be duplicates\u2014based on the image similarities\u2014and thus are removed. Inception V3 architecture is used to obtain the image embeddings, which is followed by the use of unsupervised learning algorithms based on cosine similarity distances. These distances are clustered and then visualized to find different categories of image defects which are listed below:\n\n1.Noise\n2.Pixelated \n3.Compressed\n4.Medical Implants\n5.Washed out image\n6.Side View\n7.CT (sliced) image\n8.Aspect Ratio distortion / Cropped / Zoomed \n9.Rotated Images\n10.Images with annotations\n\nThese clusters of defective images are removed during the curation process and a refined dataset is obtained which is available for download.\n\n**Source:**\n[https://data.mendeley.com/datasets/9xkhgts2s6/3](https://data.mendeley.com/datasets/9xkhgts2s6/3)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "medicine",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

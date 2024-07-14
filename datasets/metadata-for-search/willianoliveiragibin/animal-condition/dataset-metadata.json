@@ -1,0 +1,44 @@
+{
+  "id": "willianoliveiragibin/animal-condition",
+  "id_no": 4004014,
+  "datasetSlugNullable": "animal-condition",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Animal Condition",
+  "subtitleNullable": "As you delve into the \"Animal Condition Classification Dataset,\" they are poised",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F2665605bd0691e64a57dab43392f1b2e%2Ffile28142f896e95.gif?generation=1704160598792608&alt=media)The \"Animal Condition Classification Dataset\" presents a unique and intricate data challenge in the realm of animal health assessment. Featuring a diverse array of animal species, ranging from birds to mammals, this dataset enables the development of predictive models to determine whether an animal's condition is dangerous or not based on five distinct symptoms. The dataset's diversity opens doors to creating a classification system that transcends taxonomic boundaries, making it particularly valuable for people interested in animal welfare and wildlife conservation. However, its manual collection process introduces potential sources of error, including spelling mistakes and variations in symptom representation. This necessitates meticulous data-cleaning efforts.\n\nAs you delve into the \"Animal Condition Classification Dataset,\" they are poised to confront challenges such as class imbalance and the need for feature engineering. Addressing these challenges will be crucial for achieving robust classification models. Thus, this dataset serves as a rich resource for those eager to make a meaningful impact in the field of animal health assessment, with the understanding that it demands careful handling and methodological rigour to deliver insightful and ethically sound results.\n\ndata.csv\n\nAnimalName: Contains the animal kind. Like dog, cat, etc\nsymptoms1-5: Contain symptoms\nDangerous: Contains whether the condition is dangerous or not.\nIf you are new to machine learning, refer to these two notebooks\n\nhttps://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning\nhttps://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling\nThe raw data might seem hard to handle, so you can use these refined data for starting out.\n\ncleaned data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning/output\nencoded data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling/output",
+  "datasetId": 4004014,
+  "datasetSlug": "animal-condition",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9919,
+  "totalVotes": 34,
+  "totalDownloads": 1414,
+  "title": "Animal Condition",
+  "hasTitle": true,
+  "subtitle": "As you delve into the \"Animal Condition Classification Dataset,\" they are poised",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16731800%2F2665605bd0691e64a57dab43392f1b2e%2Ffile28142f896e95.gif?generation=1704160598792608&alt=media)The \"Animal Condition Classification Dataset\" presents a unique and intricate data challenge in the realm of animal health assessment. Featuring a diverse array of animal species, ranging from birds to mammals, this dataset enables the development of predictive models to determine whether an animal's condition is dangerous or not based on five distinct symptoms. The dataset's diversity opens doors to creating a classification system that transcends taxonomic boundaries, making it particularly valuable for people interested in animal welfare and wildlife conservation. However, its manual collection process introduces potential sources of error, including spelling mistakes and variations in symptom representation. This necessitates meticulous data-cleaning efforts.\n\nAs you delve into the \"Animal Condition Classification Dataset,\" they are poised to confront challenges such as class imbalance and the need for feature engineering. Addressing these challenges will be crucial for achieving robust classification models. Thus, this dataset serves as a rich resource for those eager to make a meaningful impact in the field of animal health assessment, with the understanding that it demands careful handling and methodological rigour to deliver insightful and ethically sound results.\n\ndata.csv\n\nAnimalName: Contains the animal kind. Like dog, cat, etc\nsymptoms1-5: Contain symptoms\nDangerous: Contains whether the condition is dangerous or not.\nIf you are new to machine learning, refer to these two notebooks\n\nhttps://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning\nhttps://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling\nThe raw data might seem hard to handle, so you can use these refined data for starting out.\n\ncleaned data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-cleaning/output\nencoded data: https://www.kaggle.com/code/gracehephzibahm/beginner-s-guide-data-exploration-ml-modeling/output",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "animals",
+    "computer vision",
+    "data analytics",
+    "audio synthesis",
+    "audio event classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

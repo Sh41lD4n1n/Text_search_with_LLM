@@ -1,0 +1,40 @@
+{
+  "id": "tejasreddy/iam-handwriting-top50",
+  "id_no": 34370,
+  "datasetSlugNullable": "iam-handwriting-top50",
+  "ownerUserNullable": "tejasreddy",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "IAM Handwriting Top50",
+  "subtitleNullable": "Offline IAM Handwriting Dataset's subset, w.r.t. the 50 most common writers.",
+  "descriptionNullable": "### Context\n\nIAM Handwriting Dataset is a collection of handwritten passages by several writers. Generally, they use that data to classify writers according to their writing styles. A traditional way of solving such problem is extracting features like spacing between letters, curvatures, etc. and feeding them into Support Vector Machines. But, I wanted to solve this problem by Deep learning using Keras and Tensorflow. For the purpose, we don't need the full IAM Handwriting Dataset, but some authentic subset which can be used for training such as a subset of images by top 50 persons who contributed the most towards the dataset.\n\n### Content\n\nThis dataset contains images of each handwritten sentence with the dash-separated filename format. The first field represents the test code, second the writer id, third passage id, and fourth the sentence id.\n\n### Acknowledgements\n\nThis dataset won't be here without the help of FKI Computer Vision and Artificial Intelligence. As I came across the [IAM Handwriting dataset](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database) from their website. \n\n### Inspiration\n\nI would like to see people use this data for more insights, exploratory notebooks, and many more because Handwriting recognition is not an easy task to be done individually. I need you Kagglers to have a look at it. ",
+  "datasetId": 34370,
+  "datasetSlug": "iam-handwriting-top50",
+  "hasDatasetSlug": true,
+  "ownerUser": "tejasreddy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 84188,
+  "totalVotes": 178,
+  "totalDownloads": 11988,
+  "title": "IAM Handwriting Top50",
+  "hasTitle": true,
+  "subtitle": "Offline IAM Handwriting Dataset's subset, w.r.t. the 50 most common writers.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIAM Handwriting Dataset is a collection of handwritten passages by several writers. Generally, they use that data to classify writers according to their writing styles. A traditional way of solving such problem is extracting features like spacing between letters, curvatures, etc. and feeding them into Support Vector Machines. But, I wanted to solve this problem by Deep learning using Keras and Tensorflow. For the purpose, we don't need the full IAM Handwriting Dataset, but some authentic subset which can be used for training such as a subset of images by top 50 persons who contributed the most towards the dataset.\n\n### Content\n\nThis dataset contains images of each handwritten sentence with the dash-separated filename format. The first field represents the test code, second the writer id, third passage id, and fourth the sentence id.\n\n### Acknowledgements\n\nThis dataset won't be here without the help of FKI Computer Vision and Artificial Intelligence. As I came across the [IAM Handwriting dataset](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database) from their website. \n\n### Inspiration\n\nI would like to see people use this data for more insights, exploratory notebooks, and many more because Handwriting recognition is not an easy task to be done individually. I need you Kagglers to have a look at it. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

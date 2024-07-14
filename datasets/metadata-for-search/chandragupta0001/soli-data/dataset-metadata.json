@@ -1,0 +1,41 @@
+{
+  "id": "chandragupta0001/soli-data",
+  "id_no": 823517,
+  "datasetSlugNullable": "soli-data",
+  "ownerUserNullable": "chandragupta0001",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "soli_data",
+  "subtitleNullable": "Google Project Soli: RADAR Gesture Recognition ",
+  "descriptionNullable": "### Context\n\nGoogle Project Soli:\nGoogle developed a very small and power-efficient RADAR chip, that used radio frequencies to detect dynamic hand gesture . These Radar chip have few Antennas as transmitters and receivers. A signal is transmitted from the transmitter antenna, these signal is reflected back to the receiver antenna. these raw signal is used to generate Range Doppler images. these RDI is used for gesture classification.\n\n[Project Soli](https://www.youtube.com/watch?v=0QNiZfSsPc0)\nthe dataset is taken from the this [paper](https://github.com/simonwsw/deep-soli)\n\n\n### Content\nthere are total 11 gestures and a background. each gesture generates sequences of RDI images(32*32) over time(sampled with 40Hz). some gesture requires less time to perform than others, hence difference in no of sequences.\neach h5 file contains 4 channel(channel is receiver antenna, 4 receiver antenna generates 4 RDI s for a single gesture simultaneously) and label(the label is same as the first number in label_x_.h5). in a particular channel, each row is 1024 pixels representing 32 x32 RDI. the rows are in order of sequence of RDI images.\n\n\n\n\n\n### Acknowledgements\n\n.\n\n\n### Inspiration\n\n",
+  "datasetId": 823517,
+  "datasetSlug": "soli-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "chandragupta0001",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 3545,
+  "totalVotes": 5,
+  "totalDownloads": 108,
+  "title": "soli_data",
+  "hasTitle": true,
+  "subtitle": "Google Project Soli: RADAR Gesture Recognition ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGoogle Project Soli:\nGoogle developed a very small and power-efficient RADAR chip, that used radio frequencies to detect dynamic hand gesture . These Radar chip have few Antennas as transmitters and receivers. A signal is transmitted from the transmitter antenna, these signal is reflected back to the receiver antenna. these raw signal is used to generate Range Doppler images. these RDI is used for gesture classification.\n\n[Project Soli](https://www.youtube.com/watch?v=0QNiZfSsPc0)\nthe dataset is taken from the this [paper](https://github.com/simonwsw/deep-soli)\n\n\n### Content\nthere are total 11 gestures and a background. each gesture generates sequences of RDI images(32*32) over time(sampled with 40Hz). some gesture requires less time to perform than others, hence difference in no of sequences.\neach h5 file contains 4 channel(channel is receiver antenna, 4 receiver antenna generates 4 RDI s for a single gesture simultaneously) and label(the label is same as the first number in label_x_.h5). in a particular channel, each row is 1024 pixels representing 32 x32 RDI. the rows are in order of sequence of RDI images.\n\n\n\n\n\n### Acknowledgements\n\n.\n\n\n### Inspiration\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "internet",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

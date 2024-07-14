@@ -1,0 +1,46 @@
+{
+  "id": "benoit72/uk-accidents-10-years-history-with-many-variables",
+  "id_no": 14859,
+  "datasetSlugNullable": "uk-accidents-10-years-history-with-many-variables",
+  "ownerUserNullable": "benoit72",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "UK Accidents 10 years history with many variables",
+  "subtitleNullable": "Accident, Vehicles, Casualties(weather, car model, weather lat/long, age driver)",
+  "descriptionNullable": "### Context\n\nThese files provide detailed road safety data about the circumstances of personal injury road accidents in GB from 2005 to 2014, \n\n\n### Content\n\n**Accident file:** main data set contains information about accident severity, weather, location, date, hour, day of week, road type...  \n**Vehicle file:** contains information about vehicle type, vehicle model, engine size, driver sex, driver age, car age...  \n**Casualty file:** contains information about casualty severity, age, sex social class, casualty type, pedestrian or car passenger...  \n**Lookup file:** contains the text description of all variable code in the three files  \n\n### License\nOGL:Open Government License\nhttp://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\n\n\n### Inspiration\nThis dataset contains a large amount of rows and features to explore.  \n#### Data Wrangling:  \n  - Merge different files  \n  - Map column code with their text strings fro a lookup table.  \n  - How do you map lat/long to a country a city?  \n\n#### Data Explanatory:  \n  - How the weather impact the number or severity of an accident?  \n  - Does driver age has an effect on the number of accident?  \n  - What is the relation between hour, day, week, month with number of fatal accident?  \n  - Are certain car models safer than others?  \n  - Is the social class of a casualty dependant of the accident severity?  \n\n#### Forecasting:  \n - Can you forecast the future daily/weekly/monthly accidents?  \n - What about fatal accidents can you predict them?  \n - Can you predict if an accident was fatal ?(similar to Titanic prediction but with more row and more variables)  \n\nFeel free to suggest other external data to this dataset.\n",
+  "datasetId": 14859,
+  "datasetSlug": "uk-accidents-10-years-history-with-many-variables",
+  "hasDatasetSlug": true,
+  "ownerUser": "benoit72",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 44195,
+  "totalVotes": 69,
+  "totalDownloads": 6523,
+  "title": "UK Accidents 10 years history with many variables",
+  "hasTitle": true,
+  "subtitle": "Accident, Vehicles, Casualties(weather, car model, weather lat/long, age driver)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThese files provide detailed road safety data about the circumstances of personal injury road accidents in GB from 2005 to 2014, \n\n\n### Content\n\n**Accident file:** main data set contains information about accident severity, weather, location, date, hour, day of week, road type...  \n**Vehicle file:** contains information about vehicle type, vehicle model, engine size, driver sex, driver age, car age...  \n**Casualty file:** contains information about casualty severity, age, sex social class, casualty type, pedestrian or car passenger...  \n**Lookup file:** contains the text description of all variable code in the three files  \n\n### License\nOGL:Open Government License\nhttp://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\n\n\n### Inspiration\nThis dataset contains a large amount of rows and features to explore.  \n#### Data Wrangling:  \n  - Merge different files  \n  - Map column code with their text strings fro a lookup table.  \n  - How do you map lat/long to a country a city?  \n\n#### Data Explanatory:  \n  - How the weather impact the number or severity of an accident?  \n  - Does driver age has an effect on the number of accident?  \n  - What is the relation between hour, day, week, month with number of fatal accident?  \n  - Are certain car models safer than others?  \n  - Is the social class of a casualty dependant of the accident severity?  \n\n#### Forecasting:  \n - Can you forecast the future daily/weekly/monthly accidents?  \n - What about fatal accidents can you predict them?  \n - Can you predict if an accident was fatal ?(similar to Titanic prediction but with more row and more variables)  \n\nFeel free to suggest other external data to this dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "law",
+    "demographics",
+    "software",
+    "automobiles and vehicles",
+    "data cleaning",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

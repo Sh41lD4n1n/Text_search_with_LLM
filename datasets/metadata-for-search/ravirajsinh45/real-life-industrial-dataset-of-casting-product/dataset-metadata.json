@@ -1,0 +1,43 @@
+{
+  "id": "ravirajsinh45/real-life-industrial-dataset-of-casting-product",
+  "id_no": 487456,
+  "datasetSlugNullable": "real-life-industrial-dataset-of-casting-product",
+  "ownerUserNullable": "ravirajsinh45",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "casting product image data for quality inspection",
+  "subtitleNullable": "industrial data,casting manufacturing product, quality inspection, automation",
+  "descriptionNullable": "### Context\n\nThis dataset is of casting manufacturing product.\nCasting is a manufacturing process in which a liquid material is usually poured into a mould, which contains a hollow cavity of the desired shape, and then allowed to solidify.\nReason for collect this data is casting defects!! \nCasting defect is an undesired irregularity in a metal casting process.\nThere are many types of defect in casting like blow holes, pinholes, burr, shrinkage defects, mould material defects, pouring metal defects, metallurgical defects, etc.\nDefects are an unwanted thing in casting industry. For removing this defective product all industry have their quality inspection department. But the main problem is this inspection process is carried out manually. It is a very time-consuming process and due to human accuracy, this is not 100% accurate. This can because of the rejection of the whole order. So it creates a big loss in the company.\n\nWe decided to make the inspection process automatic and for this, we need to make deep learning classification model for this problem.\n\n### contain \n\nThese all photos are top view of submersible pump impeller(google search for better understanding).\nThe dataset contains total 7348 image data. These all are the size of (300*300) pixels grey-scaled images. In all images, augmentation already applied.\n\nAlso uploaded images size of 512x512 grayscale. This data set is without Augmentation. This contains 519 ok_front and 781 def_front impeller images. \n\nFor capturing these images requires stable lighting, for this we made a special arrangement.\n\nthere are mainly two categories:-\n1) Defective \n2)Ok\n\nmaking classification model we already split data for training and testing into two folders.\nBoth train and test folder contains def_front and ok_front subfolders.\n\ntrain:- def_front have 3758 and ok_front have 2875 images\ntest:- def_front have:- def_front have 453 and ok_front have 262 images\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of PILOT TECHNOCAST, Shapar, Rajkot. we have to thank them for constant support and allowing us to work for this problem.\n\n\n### Prototype\n\nWe also made Working prototype using this dataset. [Click here](https://www.youtube.com/watch?v=4sDfwS48p0A)\n\n\n### Contact detail\n\nIf you want to know more about project and dataset drop mail on ravirajsinhdabhi86@gmail.com or DM me on [LinkedIn](https://www.linkedin.com/in/ravirajsinh45/)",
+  "datasetId": 487456,
+  "datasetSlug": "real-life-industrial-dataset-of-casting-product",
+  "hasDatasetSlug": true,
+  "ownerUser": "ravirajsinh45",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 142551,
+  "totalVotes": 294,
+  "totalDownloads": 14249,
+  "title": "casting product image data for quality inspection",
+  "hasTitle": true,
+  "subtitle": "industrial data,casting manufacturing product, quality inspection, automation",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is of casting manufacturing product.\nCasting is a manufacturing process in which a liquid material is usually poured into a mould, which contains a hollow cavity of the desired shape, and then allowed to solidify.\nReason for collect this data is casting defects!! \nCasting defect is an undesired irregularity in a metal casting process.\nThere are many types of defect in casting like blow holes, pinholes, burr, shrinkage defects, mould material defects, pouring metal defects, metallurgical defects, etc.\nDefects are an unwanted thing in casting industry. For removing this defective product all industry have their quality inspection department. But the main problem is this inspection process is carried out manually. It is a very time-consuming process and due to human accuracy, this is not 100% accurate. This can because of the rejection of the whole order. So it creates a big loss in the company.\n\nWe decided to make the inspection process automatic and for this, we need to make deep learning classification model for this problem.\n\n### contain \n\nThese all photos are top view of submersible pump impeller(google search for better understanding).\nThe dataset contains total 7348 image data. These all are the size of (300*300) pixels grey-scaled images. In all images, augmentation already applied.\n\nAlso uploaded images size of 512x512 grayscale. This data set is without Augmentation. This contains 519 ok_front and 781 def_front impeller images. \n\nFor capturing these images requires stable lighting, for this we made a special arrangement.\n\nthere are mainly two categories:-\n1) Defective \n2)Ok\n\nmaking classification model we already split data for training and testing into two folders.\nBoth train and test folder contains def_front and ok_front subfolders.\n\ntrain:- def_front have 3758 and ok_front have 2875 images\ntest:- def_front have:- def_front have 453 and ok_front have 262 images\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of PILOT TECHNOCAST, Shapar, Rajkot. we have to thank them for constant support and allowing us to work for this problem.\n\n\n### Prototype\n\nWe also made Working prototype using this dataset. [Click here](https://www.youtube.com/watch?v=4sDfwS48p0A)\n\n\n### Contact detail\n\nIf you want to know more about project and dataset drop mail on ravirajsinhdabhi86@gmail.com or DM me on [LinkedIn](https://www.linkedin.com/in/ravirajsinh45/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "manufacturing",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

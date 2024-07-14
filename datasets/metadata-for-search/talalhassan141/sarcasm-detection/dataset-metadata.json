@@ -1,0 +1,37 @@
+{
+  "id": "talalhassan141/sarcasm-detection",
+  "id_no": 3122911,
+  "datasetSlugNullable": "sarcasm-detection",
+  "ownerUserNullable": "talalhassan141",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "Sarcasm Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3122911,
+  "datasetSlug": "sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "talalhassan141",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 182,
+  "totalVotes": 1,
+  "totalDownloads": 29,
+  "title": "Sarcasm Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

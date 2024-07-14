@@ -1,0 +1,43 @@
+{
+  "id": "juhibhojani/house-price",
+  "id_no": 3583769,
+  "datasetSlugNullable": "house-price",
+  "ownerUserNullable": "juhibhojani",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "House Price",
+  "subtitleNullable": "\"Unlocking the Secrets of Real Estate: Analyzing House Prices with Data\"",
+  "descriptionNullable": "The House Price dataset provides valuable information about residential properties, encompassing a range of features such as carpet area, property status, floor, transaction type, furnishing, facing, overlooking, society name, bathroom count, balcony count, car parking availability, ownership type, super area, dimensions, plot area, property title, total amount, price per square foot, and a description of the property's location. This dataset offers insights into the dynamics of the housing market and can aid buyers, sellers, and real estate professionals in making informed decisions.\n\n\n**Source Script** :https://github.com/Juhibhojani/Web-Scraping\n",
+  "datasetId": 3583769,
+  "datasetSlug": "house-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "juhibhojani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 38163,
+  "totalVotes": 97,
+  "totalDownloads": 7422,
+  "title": "House Price",
+  "hasTitle": true,
+  "subtitle": "\"Unlocking the Secrets of Real Estate: Analyzing House Prices with Data\"",
+  "hasSubtitle": true,
+  "description": "The House Price dataset provides valuable information about residential properties, encompassing a range of features such as carpet area, property status, floor, transaction type, furnishing, facing, overlooking, society name, bathroom count, balcony count, car parking availability, ownership type, super area, dimensions, plot area, property title, total amount, price per square foot, and a description of the property's location. This dataset offers insights into the dynamics of the housing market and can aid buyers, sellers, and real estate professionals in making informed decisions.\n\n\n**Source Script** :https://github.com/Juhibhojani/Web-Scraping\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "housing",
+    "real estate",
+    "data analytics",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

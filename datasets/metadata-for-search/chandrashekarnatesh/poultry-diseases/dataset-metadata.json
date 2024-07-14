@@ -1,0 +1,52 @@
+{
+  "id": "chandrashekarnatesh/poultry-diseases",
+  "id_no": 3951043,
+  "datasetSlugNullable": "poultry-diseases",
+  "ownerUserNullable": "chandrashekarnatesh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Poultry Pathology Visual Dataset",
+  "subtitleNullable": "Empowering Poultry Care Through Visual Analysis",
+  "descriptionNullable": "The Poultry Pathology Visual Dataset is a comprehensive collection of poultry fecal images carefully curated and augmented to aid small to medium-scale poultry farmers in the early detection and diagnosis of poultry diseases. This dataset is a valuable resource for those in the poultry industry.\n\n**Key Features:**\n\nData Source: The dataset consists of poultry fecal images obtained using the Open Data Kit (ODK) app on mobile phones that have been sourced from other repositories, and it's important to note that we do not claim ownership of the original data source. We have undertaken the augmentation of the dataset to enhance its utility.\n\n**Image Dimensions:** All images in the dataset have been resized to a uniform size of 224x224 pixels, making them suitable for various machine learning and computer vision applications.\n\n**Classes:** The dataset is categorized into four distinct classes, each representing a different poultry disease:\n1. Coccidiosis\n2. Healthy\n3. Newcastle Disease\n4. Salmonella\n\n**Data Augmentation:** The dataset has been significantly augmented using various techniques, including but not limited to cropping and padding, affine transformations, superpixel manipulations, blurring, noise addition, dropout, color adjustments, and geometric transformations. These augmentations help improve the model's generalization and robustness.\n\n**Data Split:** The dataset is divided into three main directories:\n\n- \"train\": 100,000 images per class for training\n- \"val\": 10,000 images per class for validation\n- \"test\": The remaining images for testing and evaluation purposes\n\n**Performance Results:**\n\nState-of-the-art Vision Transformer models have been employed to achieve results on this dataset. The model achieved a peak accuracy of 97.62% on the test set and 97.84% on the validation set. We are committed to regularly updating accuracy benchmarks as new breakthroughs are achieved.\n\n**Papers Published with the Poultry Pathology Visual Dataset:**\n1. Jayavrinda Vrindavanam, Pradeep Kumar, Gaurav Kamath, Chandrashekhar N and Govind Patil. \u201cPoultry Disease Identification in Fecal Images Using Vision Transformer\u201d. Medicon Agriculture & Environmental Sciences 6.1 (2024): 05-15.\n\n**Usage:**\n\nThis dataset serves as a vital resource for researchers, veterinarians, and poultry farmers looking to develop and implement automated systems for the early detection and management of poultry diseases. The dataset can be used for tasks such as disease classification, severity assessment, and disease progression tracking.\n\n**Availability:**\n\nThe dataset is available for public use and can be accessed through the specified directories and subdirectories, organized by class names. Proper attribution to the dataset source is appreciated when using it for research or application development.",
+  "datasetId": 3951043,
+  "datasetSlug": "poultry-diseases",
+  "hasDatasetSlug": true,
+  "ownerUser": "chandrashekarnatesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2360,
+  "totalVotes": 11,
+  "totalDownloads": 260,
+  "title": "Poultry Pathology Visual Dataset",
+  "hasTitle": true,
+  "subtitle": "Empowering Poultry Care Through Visual Analysis",
+  "hasSubtitle": true,
+  "description": "The Poultry Pathology Visual Dataset is a comprehensive collection of poultry fecal images carefully curated and augmented to aid small to medium-scale poultry farmers in the early detection and diagnosis of poultry diseases. This dataset is a valuable resource for those in the poultry industry.\n\n**Key Features:**\n\nData Source: The dataset consists of poultry fecal images obtained using the Open Data Kit (ODK) app on mobile phones that have been sourced from other repositories, and it's important to note that we do not claim ownership of the original data source. We have undertaken the augmentation of the dataset to enhance its utility.\n\n**Image Dimensions:** All images in the dataset have been resized to a uniform size of 224x224 pixels, making them suitable for various machine learning and computer vision applications.\n\n**Classes:** The dataset is categorized into four distinct classes, each representing a different poultry disease:\n1. Coccidiosis\n2. Healthy\n3. Newcastle Disease\n4. Salmonella\n\n**Data Augmentation:** The dataset has been significantly augmented using various techniques, including but not limited to cropping and padding, affine transformations, superpixel manipulations, blurring, noise addition, dropout, color adjustments, and geometric transformations. These augmentations help improve the model's generalization and robustness.\n\n**Data Split:** The dataset is divided into three main directories:\n\n- \"train\": 100,000 images per class for training\n- \"val\": 10,000 images per class for validation\n- \"test\": The remaining images for testing and evaluation purposes\n\n**Performance Results:**\n\nState-of-the-art Vision Transformer models have been employed to achieve results on this dataset. The model achieved a peak accuracy of 97.62% on the test set and 97.84% on the validation set. We are committed to regularly updating accuracy benchmarks as new breakthroughs are achieved.\n\n**Papers Published with the Poultry Pathology Visual Dataset:**\n1. Jayavrinda Vrindavanam, Pradeep Kumar, Gaurav Kamath, Chandrashekhar N and Govind Patil. \u201cPoultry Disease Identification in Fecal Images Using Vision Transformer\u201d. Medicon Agriculture & Environmental Sciences 6.1 (2024): 05-15.\n\n**Usage:**\n\nThis dataset serves as a vital resource for researchers, veterinarians, and poultry farmers looking to develop and implement automated systems for the early detection and management of poultry diseases. The dataset can be used for tasks such as disease classification, severity assessment, and disease progression tracking.\n\n**Availability:**\n\nThe dataset is available for public use and can be accessed through the specified directories and subdirectories, organized by class names. Proper attribution to the dataset source is appreciated when using it for research or application development.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "agriculture",
+    "computer vision",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "govindpatil0402",
+      "role": "writer"
+    },
+    {
+      "username": "gauravkamath02",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

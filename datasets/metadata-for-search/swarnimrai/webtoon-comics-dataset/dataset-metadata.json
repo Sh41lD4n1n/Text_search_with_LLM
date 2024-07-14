@@ -1,0 +1,41 @@
+{
+  "id": "swarnimrai/webtoon-comics-dataset",
+  "id_no": 1606705,
+  "datasetSlugNullable": "webtoon-comics-dataset",
+  "ownerUserNullable": "swarnimrai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Webtoon Comics Dataset",
+  "subtitleNullable": "This is a dataset is a collection of Webtoon Original series.",
+  "descriptionNullable": "### Context\n\nWebtoon is the largest Web-comic community in the world, averaging more than 50 million monthly active users, with 10 million daily readers. Many people want to make a recommendation system for it or analyze its data. Therefore, I scrapped the information of more than 500 webtoon originals and uploaded it for anyone to use.\n\n\n### Content\n\nWebtoon Dataset.csv\n- id - Unique id identifying the comic.\n- Name - full name of the comic.\n- Writer- Author of the comic.\n- Likes- Total no. of Likes\n- genre - genres for comic.\n- rating - an average rating out of 10 for the comic.\n- Subscribers- Total no. of subscribers\n- Summary- Summary of the comic\n- Update - Day of the week for an update\n- Reading Link- Link where you can read the comic\n\n\n### Acknowledgements\n\nThanks to webtoon.com and python libraries I was able to scrape this data.\n\n\n### Inspiration\n\nBuilding a better webtoon recommendation system or perform data analysis",
+  "datasetId": 1606705,
+  "datasetSlug": "webtoon-comics-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "swarnimrai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17406,
+  "totalVotes": 38,
+  "totalDownloads": 1331,
+  "title": "Webtoon Comics Dataset",
+  "hasTitle": true,
+  "subtitle": "This is a dataset is a collection of Webtoon Original series.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWebtoon is the largest Web-comic community in the world, averaging more than 50 million monthly active users, with 10 million daily readers. Many people want to make a recommendation system for it or analyze its data. Therefore, I scrapped the information of more than 500 webtoon originals and uploaded it for anyone to use.\n\n\n### Content\n\nWebtoon Dataset.csv\n- id - Unique id identifying the comic.\n- Name - full name of the comic.\n- Writer- Author of the comic.\n- Likes- Total no. of Likes\n- genre - genres for comic.\n- rating - an average rating out of 10 for the comic.\n- Subscribers- Total no. of subscribers\n- Summary- Summary of the comic\n- Update - Day of the week for an update\n- Reading Link- Link where you can read the comic\n\n\n### Acknowledgements\n\nThanks to webtoon.com and python libraries I was able to scrape this data.\n\n\n### Inspiration\n\nBuilding a better webtoon recommendation system or perform data analysis",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ignacioavas/alignmacrid-vae",
+  "id_no": 3643351,
+  "datasetSlugNullable": "alignmacrid-vae",
+  "ownerUserNullable": "ignacioavas",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Multimodal Recommendation System Datasets",
+  "subtitleNullable": "Datasets for AlignMacridVAE (Amazon, BookCrossing, Movielens)",
+  "descriptionNullable": "## Quick start\n\nTo read any dataset you can use the following code\n\n```python\n&gt;&gt;&gt; import numpy as np\n&gt;&gt;&gt; embed_image = np.load('embed_image.npy')\n&gt;&gt;&gt; embed_image.shape\n(33962, 768)\n&gt;&gt;&gt; embed_text = np.load('embed_text.npy')\n&gt;&gt;&gt; embed_text.shape\n(33962, 768)\n&gt;&gt;&gt; import pandas as pd\n&gt;&gt;&gt; items = pd.read_csv('items.txt')\n&gt;&gt;&gt; m = len(items)\n&gt;&gt;&gt; print(f'{m} items in dataset')\n33962\n&gt;&gt;&gt; users = pd.read_csv('users.txt')\n&gt;&gt;&gt; n = len(users)\n&gt;&gt;&gt; print(f'{n} users in dataset')\n14790\n&gt;&gt;&gt; train = pd.read_csv('train.txt')\n&gt;&gt;&gt; train\n         user   item\n0       13444  23557\n1       13444  33739\n...       ...    ...\n317109  13506  29993\n317110  13506  13931\n&gt;&gt;&gt; from scipy.sparse import csr_matrix\n&gt;&gt;&gt; train_matrix = csr_matrix((np.ones(len(train)), (train.user, train.item)), shape=(n,m))\n```\n\n## Folders\n\nThis dataset contains six datasets. Each dataset is duplicated with seven combinations of different Image and Text encoders, so you should see 42 folders.\n\nEach folder is the name of the dataset and the encoder used for the visual and textual parts. For example: `bookcrossing-vit_bert`.\n\nThe datasets are:\n- Clothing, Shoes and Jewelry (Amazon)\n- Home and Kitchen (Amazon)\n- Musical Instruments (Amazon)\n- Movies and TV (Amazon)\n- Book-Crossing\n- Movielens 25M\n\nAnd the encoders are:\n- CLIP (Image and Text) (`*-clip_clip`). This is the main one used in the experiments.\n- ViT and BERT (`*-vit_bert`)\n- CLIP (only visual data) `*-clip_none`\n- ViT only  `*-vit_none`\n- BERT only `*-none_bert`\n- CLIP (text only) `*-clip_none`\n- No textual or visual information `*-none_none`\n\n## Files per folder\n\nFor each dataset, we have the following files, considering we have `M` items and `N` users, textual embeddings with D (like 1024) dimensions, and Visual with E dimensions (like 768)\n- `embed_image.npy` A NumPy array of `MxE` elements.\n- `embed_text.npy`  A NumPy array `of MXD` elements.\n- `items.csv` A CSV with the Item ID in the original dataset (like the Amazon ASIN, the Movie ID, etc.) and the item number, an integer from 0 to M-1\n- `users.csv` A CSV with the User ID in the original dataset (like the Amazon Reviewer Id) and the item number, an integer from 0 to N-1\n- `train.txt`, `validation.txt` and `test.txt` are CSV files with the portions of the reviews for train validation and test. It has the item the user liked or reviewed positively. Each row has a positive user item.\n\nWe consider a review \"positive\" if the rating is four or more (or 8 or more for Book-crossing).\n\nThe vector is zeroed out if an Item does not have an image or text.\n\n## Dataset stats\n\nDataset                    | Users  | Item  | Ratings  | Density\n---------------------------|--------|-------|----------|-------\nClothing & Shoes & Jewelry | 23318  | 38493 | 178944   | 0.020%\nHome & Kitchen             | 5968   | 57645 | 135839   | 0.040%\nMovies & TV                | 21974  | 23958 | 216110   | 0.041%\nMusical Instruments        | 14429  | 29040 | 93923    | 0.022%\nBook-crossing              | 14790  | 33962 | 519613   | 0.103%\nMovielens 25M              | 162541 | 59047 | 25000095 | 0.260%\n\n\n## Modifications from the original source\n\nOnly a tiny fraction of the dataset was taken for the Amazon Datasets by considering reviews in a specific date range.\n\nFor the Bookcrossing dataset, only items with images were considered.\n\nThere are various other minor tweaks on how to obtain images and texts. The repo  https://github.com/igui/MultimodalRecomAnalysis has the Notebook and scripts to reproduce the dataset extraction from scratch.\n",
+  "datasetId": 3643351,
+  "datasetSlug": "alignmacrid-vae",
+  "hasDatasetSlug": true,
+  "ownerUser": "ignacioavas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1426,
+  "totalVotes": 3,
+  "totalDownloads": 92,
+  "title": "Multimodal Recommendation System Datasets",
+  "hasTitle": true,
+  "subtitle": "Datasets for AlignMacridVAE (Amazon, BookCrossing, Movielens)",
+  "hasSubtitle": true,
+  "description": "## Quick start\n\nTo read any dataset you can use the following code\n\n```python\n&gt;&gt;&gt; import numpy as np\n&gt;&gt;&gt; embed_image = np.load('embed_image.npy')\n&gt;&gt;&gt; embed_image.shape\n(33962, 768)\n&gt;&gt;&gt; embed_text = np.load('embed_text.npy')\n&gt;&gt;&gt; embed_text.shape\n(33962, 768)\n&gt;&gt;&gt; import pandas as pd\n&gt;&gt;&gt; items = pd.read_csv('items.txt')\n&gt;&gt;&gt; m = len(items)\n&gt;&gt;&gt; print(f'{m} items in dataset')\n33962\n&gt;&gt;&gt; users = pd.read_csv('users.txt')\n&gt;&gt;&gt; n = len(users)\n&gt;&gt;&gt; print(f'{n} users in dataset')\n14790\n&gt;&gt;&gt; train = pd.read_csv('train.txt')\n&gt;&gt;&gt; train\n         user   item\n0       13444  23557\n1       13444  33739\n...       ...    ...\n317109  13506  29993\n317110  13506  13931\n&gt;&gt;&gt; from scipy.sparse import csr_matrix\n&gt;&gt;&gt; train_matrix = csr_matrix((np.ones(len(train)), (train.user, train.item)), shape=(n,m))\n```\n\n## Folders\n\nThis dataset contains six datasets. Each dataset is duplicated with seven combinations of different Image and Text encoders, so you should see 42 folders.\n\nEach folder is the name of the dataset and the encoder used for the visual and textual parts. For example: `bookcrossing-vit_bert`.\n\nThe datasets are:\n- Clothing, Shoes and Jewelry (Amazon)\n- Home and Kitchen (Amazon)\n- Musical Instruments (Amazon)\n- Movies and TV (Amazon)\n- Book-Crossing\n- Movielens 25M\n\nAnd the encoders are:\n- CLIP (Image and Text) (`*-clip_clip`). This is the main one used in the experiments.\n- ViT and BERT (`*-vit_bert`)\n- CLIP (only visual data) `*-clip_none`\n- ViT only  `*-vit_none`\n- BERT only `*-none_bert`\n- CLIP (text only) `*-clip_none`\n- No textual or visual information `*-none_none`\n\n## Files per folder\n\nFor each dataset, we have the following files, considering we have `M` items and `N` users, textual embeddings with D (like 1024) dimensions, and Visual with E dimensions (like 768)\n- `embed_image.npy` A NumPy array of `MxE` elements.\n- `embed_text.npy`  A NumPy array `of MXD` elements.\n- `items.csv` A CSV with the Item ID in the original dataset (like the Amazon ASIN, the Movie ID, etc.) and the item number, an integer from 0 to M-1\n- `users.csv` A CSV with the User ID in the original dataset (like the Amazon Reviewer Id) and the item number, an integer from 0 to N-1\n- `train.txt`, `validation.txt` and `test.txt` are CSV files with the portions of the reviews for train validation and test. It has the item the user liked or reviewed positively. Each row has a positive user item.\n\nWe consider a review \"positive\" if the rating is four or more (or 8 or more for Book-crossing).\n\nThe vector is zeroed out if an Item does not have an image or text.\n\n## Dataset stats\n\nDataset                    | Users  | Item  | Ratings  | Density\n---------------------------|--------|-------|----------|-------\nClothing & Shoes & Jewelry | 23318  | 38493 | 178944   | 0.020%\nHome & Kitchen             | 5968   | 57645 | 135839   | 0.040%\nMovies & TV                | 21974  | 23958 | 216110   | 0.041%\nMusical Instruments        | 14429  | 29040 | 93923    | 0.022%\nBook-crossing              | 14790  | 33962 | 519613   | 0.103%\nMovielens 25M              | 162541 | 59047 | 25000095 | 0.260%\n\n\n## Modifications from the original source\n\nOnly a tiny fraction of the dataset was taken for the Amazon Datasets by considering reviews in a specific date range.\n\nFor the Bookcrossing dataset, only items with images were considered.\n\nThere are various other minor tweaks on how to obtain images and texts. The repo  https://github.com/igui/MultimodalRecomAnalysis has the Notebook and scripts to reproduce the dataset extraction from scratch.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "recommender systems",
+    "ratings and reviews",
+    "e-commerce services",
+    "multimodal",
+    "retrieval/ranking"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

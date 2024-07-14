@@ -1,0 +1,43 @@
+{
+  "id": "rtatman/questionanswer-dataset",
+  "id_no": 2735,
+  "datasetSlugNullable": "questionanswer-dataset",
+  "ownerUserNullable": "rtatman",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Question-Answer Dataset",
+  "subtitleNullable": "Can you use NLP to answer these questions?",
+  "descriptionNullable": "### Context: \n\nBeing able to automatically answer questions accurately remains a difficult problem in natural language processing. This dataset has everything you need to try your own hand at this task. Can you correctly generate the answer to questions given the Wikipedia article text the question was originally generated from?\n\n### Content: \n\nThere are three question files, one for each year of students: S08, S09, and S10, as well as 690,000 words worth of cleaned text from Wikipedia that was used to generate the questions.\n\nThe \"question_answer_pairs.txt\" files contain both the questions and answers. The columns in this file are as follows:                  \n\n* **ArticleTitle** is the name of the Wikipedia article from which questions and answers initially came.\n* **Question** is the question.\n* **Answer** is the answer.\n* **DifficultyFromQuestioner** is the prescribed difficulty rating for the question as given to the question-writer. \n* **DifficultyFromAnswerer** is a difficulty rating assigned by the individual who evaluated and answered the question, which may differ from the difficulty in field 4.\n* **ArticleFile** is the name of the file with the relevant article\n\nQuestions that were judged to be poor were discarded from this data set.\n\nThere are frequently multiple lines with the same question, which appear if those questions were answered by multiple individuals. \n\n### Acknowledgements: \n\nThese data were collected by Noah Smith, Michael Heilman, Rebecca Hwa, Shay Cohen, Kevin Gimpel, and many students at Carnegie Mellon University and the University of Pittsburgh between 2008 and 2010. It is released here under CC BY_SA 3.0. Please cite this paper if you write any papers involving the use of the data above:\n\nSmith, N. A., Heilman, M., & Hwa, R. (2008, September). Question generation as a competitive undergraduate course project. In Proceedings of the NSF Workshop on the Question Generation Shared Task and Evaluation Challenge.\n\n### You may also like:\n\n* [Question-Answer Jokes: Jokes of the question-answer form from Reddit's r/jokes](https://www.kaggle.com/jiriroz/qa-jokes)\n* [Stanford Question Answering Dataset: New Reading Comprehension Dataset on 100,000+ Question-Answer Pairs](https://www.kaggle.com/stanfordu/stanford-question-answering-dataset)\n* [Question Pairs Dataset: Can you identify duplicate questions?](https://www.kaggle.com/quora/question-pairs-dataset)",
+  "datasetId": 2735,
+  "datasetSlug": "questionanswer-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtatman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 156879,
+  "totalVotes": 202,
+  "totalDownloads": 17519,
+  "title": "Question-Answer Dataset",
+  "hasTitle": true,
+  "subtitle": "Can you use NLP to answer these questions?",
+  "hasSubtitle": true,
+  "description": "### Context: \n\nBeing able to automatically answer questions accurately remains a difficult problem in natural language processing. This dataset has everything you need to try your own hand at this task. Can you correctly generate the answer to questions given the Wikipedia article text the question was originally generated from?\n\n### Content: \n\nThere are three question files, one for each year of students: S08, S09, and S10, as well as 690,000 words worth of cleaned text from Wikipedia that was used to generate the questions.\n\nThe \"question_answer_pairs.txt\" files contain both the questions and answers. The columns in this file are as follows:                  \n\n* **ArticleTitle** is the name of the Wikipedia article from which questions and answers initially came.\n* **Question** is the question.\n* **Answer** is the answer.\n* **DifficultyFromQuestioner** is the prescribed difficulty rating for the question as given to the question-writer. \n* **DifficultyFromAnswerer** is a difficulty rating assigned by the individual who evaluated and answered the question, which may differ from the difficulty in field 4.\n* **ArticleFile** is the name of the file with the relevant article\n\nQuestions that were judged to be poor were discarded from this data set.\n\nThere are frequently multiple lines with the same question, which appear if those questions were answered by multiple individuals. \n\n### Acknowledgements: \n\nThese data were collected by Noah Smith, Michael Heilman, Rebecca Hwa, Shay Cohen, Kevin Gimpel, and many students at Carnegie Mellon University and the University of Pittsburgh between 2008 and 2010. It is released here under CC BY_SA 3.0. Please cite this paper if you write any papers involving the use of the data above:\n\nSmith, N. A., Heilman, M., & Hwa, R. (2008, September). Question generation as a competitive undergraduate course project. In Proceedings of the NSF Workshop on the Question Generation Shared Task and Evaluation Challenge.\n\n### You may also like:\n\n* [Question-Answer Jokes: Jokes of the question-answer form from Reddit's r/jokes](https://www.kaggle.com/jiriroz/qa-jokes)\n* [Stanford Question Answering Dataset: New Reading Comprehension Dataset on 100,000+ Question-Answer Pairs](https://www.kaggle.com/stanfordu/stanford-question-answering-dataset)\n* [Question Pairs Dataset: Can you identify duplicate questions?](https://www.kaggle.com/quora/question-pairs-dataset)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "education",
+    "social science",
+    "linguistics",
+    "artificial intelligence"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

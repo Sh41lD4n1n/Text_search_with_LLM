@@ -1,0 +1,37 @@
+{
+  "id": "studymart/welfake-dataset-for-fake-news",
+  "id_no": 4465590,
+  "datasetSlugNullable": "welfake-dataset-for-fake-news",
+  "ownerUserNullable": "studymart",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Welfake dataset for fake news",
+  "subtitleNullable": "",
+  "descriptionNullable": "A larger and more generic Word Embedding over Linguistic Features for Fake News Detection (WELFake) dataset of 72,134 news articles with 35,028 real and 37,106 fake news. Merged four popular news datasets (i.e. Kaggle, McIntire, Reuters, BuzzFeed Political) to prevent over-fitting of classifiers and to provide more text data for better ML training.\n\nThe dataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Label (0 = fake and 1 = real).\n\nThere are 78098 data entries in csv file out of which only 72134 entries are accessed as per the data frame. \n\n[Here is the demo project on this dataset!] (https://youtu.be/IGOCtD4HFFQ)",
+  "datasetId": 4465590,
+  "datasetSlug": "welfake-dataset-for-fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "studymart",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 261,
+  "totalVotes": 1,
+  "totalDownloads": 45,
+  "title": "Welfake dataset for fake news",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "A larger and more generic Word Embedding over Linguistic Features for Fake News Detection (WELFake) dataset of 72,134 news articles with 35,028 real and 37,106 fake news. Merged four popular news datasets (i.e. Kaggle, McIntire, Reuters, BuzzFeed Political) to prevent over-fitting of classifiers and to provide more text data for better ML training.\n\nThe dataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Label (0 = fake and 1 = real).\n\nThere are 78098 data entries in csv file out of which only 72134 entries are accessed as per the data frame. \n\n[Here is the demo project on this dataset!] (https://youtu.be/IGOCtD4HFFQ)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

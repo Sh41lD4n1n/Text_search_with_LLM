@@ -1,0 +1,43 @@
+{
+  "id": "smaranjitghose/sea-turtle-face-detection",
+  "id_no": 1194983,
+  "datasetSlugNullable": "sea-turtle-face-detection",
+  "ownerUserNullable": "smaranjitghose",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Sea Turtle Face Detection",
+  "subtitleNullable": "Towards protecting and identifying Endangered Sea Turtles in diverse settings",
+  "descriptionNullable": "# Save the Turtles\ud83d\udc22\n\n&gt; An open source sea turtle facial recognition dataset\n\n\n### Dataset Description:\n\nCurrently, the dataset comprises 2000 images scrapped from bing image search and annotated using [makesense.ai](https://www.makesense.ai/).\n\nThe dataset is structured in YOLO Darknet txt format with all the images inside `images\\` subdirectory and their corresoponding annotation files inside `labels\\` subdirectory:\n\n```\ndata\n  |\n  |-- images\n  |     |\n  |     |-- Image_1.jpg\n  |     |-- Image_2.jpg\n  |     |-- Image_3.jpg\n  |     .\n  |     .\n  |     .\n  |-- labels\n  |     |\n  |     |-- Image_1.txt\n  |     |-- Image_2.txt\n  |     |-- Image_3.txt\n  |     .\n  |     .\n  |     .\n```\n\n#### Note:\n\n&gt; Each label file has the annotations in the followning format `",
+  "datasetId": 1194983,
+  "datasetSlug": "sea-turtle-face-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "smaranjitghose",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 10489,
+  "totalVotes": 20,
+  "totalDownloads": 634,
+  "title": "Sea Turtle Face Detection",
+  "hasTitle": true,
+  "subtitle": "Towards protecting and identifying Endangered Sea Turtles in diverse settings",
+  "hasSubtitle": true,
+  "description": "# Save the Turtles\ud83d\udc22\n\n&gt; An open source sea turtle facial recognition dataset\n\n\n### Dataset Description:\n\nCurrently, the dataset comprises 2000 images scrapped from bing image search and annotated using [makesense.ai](https://www.makesense.ai/).\n\nThe dataset is structured in YOLO Darknet txt format with all the images inside `images\\` subdirectory and their corresoponding annotation files inside `labels\\` subdirectory:\n\n```\ndata\n  |\n  |-- images\n  |     |\n  |     |-- Image_1.jpg\n  |     |-- Image_2.jpg\n  |     |-- Image_3.jpg\n  |     .\n  |     .\n  |     .\n  |-- labels\n  |     |\n  |     |-- Image_1.txt\n  |     |-- Image_2.txt\n  |     |-- Image_3.txt\n  |     .\n  |     .\n  |     .\n```\n\n#### Note:\n\n&gt; Each label file has the annotations in the followning format `",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "environment",
+    "computer vision",
+    "neural networks",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

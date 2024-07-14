@@ -1,0 +1,42 @@
+{
+  "id": "justin900429/100-classes-of-different-animals",
+  "id_no": 3332963,
+  "datasetSlugNullable": "100-classes-of-different-animals",
+  "ownerUserNullable": "justin900429",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "100 classes of different animals",
+  "subtitleNullable": "For classification, clustering or whatever you like!",
+  "descriptionNullable": "# Introduction\n\nThis dataset contains 100 classes of different animal features. We provide only the features extracted by a well-trained model due to the copyright of these images. The images are not owned by me and should be used wisely.\n\n&gt; We're not going to release the model, otherwise, some adversarial attack can be applied to reconstruct the images.\n\n# LICENSE\n\nFollowed By **MIT License**\n\n# 100 classes\n\n| Animal Class      |\n| ----------------- |\n| rat               |\n| vicuna            |\n| antelope          |\n| giraffe           |\n| panda             |\n| parakeet          |\n| mustang           |\n| basilisk          |\n| gorilla           |\n| raccoon           |\n| doe               |\n| gazelle           |\n| lynx              |\n| dugong            |\n| lizard            |\n| ground hog        |\n| cat               |\n| pronghorn         |\n| orangutan         |\n| crow              |\n| squirrel          |\n| peccary           |\n| silver fox        |\n| mynah bird        |\n| badger            |\n| koala             |\n| cheetah           |\n| alpaca            |\n| lion              |\n| aardvark          |\n| mole              |\n| hamster           |\n| ram               |\n| octopus           |\n| bighorn           |\n| mountain goat     |\n| walrus            |\n| guanaco           |\n| lovebird          |\n| chipmunk          |\n| otter             |\n| armadillo         |\n| reindeer          |\n| donkey            |\n| puppy             |\n| fawn              |\n| prairie dog       |\n| chicken           |\n| hippopotamus      |\n| sloth             |\n| ape               |\n| cow               |\n| jaguar            |\n| llama             |\n| moose             |\n| hare              |\n| duckbill platypus |\n| impala            |\n| addax             |\n| coati             |\n| hedgehog          |\n| hyena             |\n| jackal            |\n| meerkat           |\n| quagga            |\n| porcupine         |\n| newt              |\n| chimpanzee        |\n| deer              |\n| zebra             |\n| weasel            |\n| jerboa            |\n| snowy owl         |\n| hog               |\n| opossum           |\n| gopher            |\n| canary            |\n| tapir             |\n| thorny devil      |\n| toad              |\n| lamb              |\n| dog               |\n| grizzly bear      |\n| bat               |\n| baboon            |\n| chamois           |\n| goat              |\n| mouse             |\n| crocodile         |\n| ewe               |\n| highland cow      |\n| bumble bee        |\n| warthog           |\n| parrot            |\n| panther           |\n| capybara          |\n| pig               |\n| springbok         |\n| beaver            |\n| dormouse          |\n",
+  "datasetId": 3332963,
+  "datasetSlug": "100-classes-of-different-animals",
+  "hasDatasetSlug": true,
+  "ownerUser": "justin900429",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2084,
+  "totalVotes": 11,
+  "totalDownloads": 265,
+  "title": "100 classes of different animals",
+  "hasTitle": true,
+  "subtitle": "For classification, clustering or whatever you like!",
+  "hasSubtitle": true,
+  "description": "# Introduction\n\nThis dataset contains 100 classes of different animal features. We provide only the features extracted by a well-trained model due to the copyright of these images. The images are not owned by me and should be used wisely.\n\n&gt; We're not going to release the model, otherwise, some adversarial attack can be applied to reconstruct the images.\n\n# LICENSE\n\nFollowed By **MIT License**\n\n# 100 classes\n\n| Animal Class      |\n| ----------------- |\n| rat               |\n| vicuna            |\n| antelope          |\n| giraffe           |\n| panda             |\n| parakeet          |\n| mustang           |\n| basilisk          |\n| gorilla           |\n| raccoon           |\n| doe               |\n| gazelle           |\n| lynx              |\n| dugong            |\n| lizard            |\n| ground hog        |\n| cat               |\n| pronghorn         |\n| orangutan         |\n| crow              |\n| squirrel          |\n| peccary           |\n| silver fox        |\n| mynah bird        |\n| badger            |\n| koala             |\n| cheetah           |\n| alpaca            |\n| lion              |\n| aardvark          |\n| mole              |\n| hamster           |\n| ram               |\n| octopus           |\n| bighorn           |\n| mountain goat     |\n| walrus            |\n| guanaco           |\n| lovebird          |\n| chipmunk          |\n| otter             |\n| armadillo         |\n| reindeer          |\n| donkey            |\n| puppy             |\n| fawn              |\n| prairie dog       |\n| chicken           |\n| hippopotamus      |\n| sloth             |\n| ape               |\n| cow               |\n| jaguar            |\n| llama             |\n| moose             |\n| hare              |\n| duckbill platypus |\n| impala            |\n| addax             |\n| coati             |\n| hedgehog          |\n| hyena             |\n| jackal            |\n| meerkat           |\n| quagga            |\n| porcupine         |\n| newt              |\n| chimpanzee        |\n| deer              |\n| zebra             |\n| weasel            |\n| jerboa            |\n| snowy owl         |\n| hog               |\n| opossum           |\n| gopher            |\n| canary            |\n| tapir             |\n| thorny devil      |\n| toad              |\n| lamb              |\n| dog               |\n| grizzly bear      |\n| bat               |\n| baboon            |\n| chamois           |\n| goat              |\n| mouse             |\n| crocodile         |\n| ewe               |\n| highland cow      |\n| bumble bee        |\n| warthog           |\n| parrot            |\n| panther           |\n| capybara          |\n| pig               |\n| springbok         |\n| beaver            |\n| dormouse          |\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "classification",
+    "clustering",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

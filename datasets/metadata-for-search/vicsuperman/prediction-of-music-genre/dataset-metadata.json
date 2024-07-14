@@ -1,0 +1,43 @@
+{
+  "id": "vicsuperman/prediction-of-music-genre",
+  "id_no": 1690118,
+  "datasetSlugNullable": "prediction-of-music-genre",
+  "ownerUserNullable": "vicsuperman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Prediction of music genre ",
+  "subtitleNullable": "Classify music into genres",
+  "descriptionNullable": "The full list of genres included in the CSV are 'Electronic', 'Anime', 'Jazz', 'Alternative', 'Country', 'Rap', 'Blues', 'Rock', 'Classical', 'Hip-Hop'. ",
+  "datasetId": 1690118,
+  "datasetSlug": "prediction-of-music-genre",
+  "hasDatasetSlug": true,
+  "ownerUser": "vicsuperman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 72007,
+  "totalVotes": 107,
+  "totalDownloads": 9248,
+  "title": "Prediction of music genre ",
+  "hasTitle": true,
+  "subtitle": "Classify music into genres",
+  "hasSubtitle": true,
+  "description": "The full list of genres included in the CSV are 'Electronic', 'Anime', 'Jazz', 'Alternative', 'Country', 'Rap', 'Blues', 'Rock', 'Classical', 'Hip-Hop'. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "exploratory data analysis",
+    "data cleaning",
+    "classification",
+    "feature engineering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

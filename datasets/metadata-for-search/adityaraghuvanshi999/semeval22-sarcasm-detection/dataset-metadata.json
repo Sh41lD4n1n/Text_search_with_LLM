@@ -1,0 +1,37 @@
+{
+  "id": "adityaraghuvanshi999/semeval22-sarcasm-detection",
+  "id_no": 3909791,
+  "datasetSlugNullable": "semeval22-sarcasm-detection",
+  "ownerUserNullable": "adityaraghuvanshi999",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "SemEval22 Sarcasm Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3909791,
+  "datasetSlug": "semeval22-sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityaraghuvanshi999",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 96,
+  "totalVotes": 1,
+  "totalDownloads": 18,
+  "title": "SemEval22 Sarcasm Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

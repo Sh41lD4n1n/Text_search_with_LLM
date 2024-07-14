@@ -1,0 +1,39 @@
+{
+  "id": "mdforiduzzamanzihad/preprocessed-dell-tweets",
+  "id_no": 3934710,
+  "datasetSlugNullable": "preprocessed-dell-tweets",
+  "ownerUserNullable": "mdforiduzzamanzihad",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Preprocessed Dell Tweets",
+  "subtitleNullable": "",
+  "descriptionNullable": "A collection of tweets about the international computer technology business Dell can be found in the \"Preprocessed Dell Tweets\" dataset. To make sentiment analysis and natural language processing jobs easier, these tweets have undergone meticulous preprocessing. The dataset was first made up of tweets that were scraped from Twitter; preprocessing was done to clean and organize the data.\n\n**Important characteristics:**\n\n **Text:** The preprocessed text of the tweets is contained in this column, making it appropriate for natural language processing and text analysis.\n\n **Sentiment:** To facilitate machine learning activities, the sentiment column has been converted into numeric values. The following is how sentiment labels have been encoded:\n0: Neutral\n1: Positive\n2: Negative\n\n**Possible Applications:**\nThe dataset is perfect for machine learning, sentiment analysis, and sentiment classification tasks. This dataset can be used by researchers and data scientists to test and refine sentiment analysis methods. Efficient sentiment models for prediction can be developed thanks to the numerical sentiment labels.\n\n**Data Preprocessing:**\nTo prepare the dataset for analysis, the following preprocessing steps were applied:\n\n- Punctuation and special characters were removed from the text.\n- URLs and hyperlinks were stripped from the text.\n- Text was converted to lowercase for uniformity.\n- Stopwords (common words with limited analytical value) were removed.\n- Tokenization, stemming, and lemmatization were performed to normalize the text data.\n\n\n",
+  "datasetId": 3934710,
+  "datasetSlug": "preprocessed-dell-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdforiduzzamanzihad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 60,
+  "totalVotes": 1,
+  "totalDownloads": 8,
+  "title": "Preprocessed Dell Tweets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "A collection of tweets about the international computer technology business Dell can be found in the \"Preprocessed Dell Tweets\" dataset. To make sentiment analysis and natural language processing jobs easier, these tweets have undergone meticulous preprocessing. The dataset was first made up of tweets that were scraped from Twitter; preprocessing was done to clean and organize the data.\n\n**Important characteristics:**\n\n **Text:** The preprocessed text of the tweets is contained in this column, making it appropriate for natural language processing and text analysis.\n\n **Sentiment:** To facilitate machine learning activities, the sentiment column has been converted into numeric values. The following is how sentiment labels have been encoded:\n0: Neutral\n1: Positive\n2: Negative\n\n**Possible Applications:**\nThe dataset is perfect for machine learning, sentiment analysis, and sentiment classification tasks. This dataset can be used by researchers and data scientists to test and refine sentiment analysis methods. Efficient sentiment models for prediction can be developed thanks to the numerical sentiment labels.\n\n**Data Preprocessing:**\nTo prepare the dataset for analysis, the following preprocessing steps were applied:\n\n- Punctuation and special characters were removed from the text.\n- URLs and hyperlinks were stripped from the text.\n- Text was converted to lowercase for uniformity.\n- Stopwords (common words with limited analytical value) were removed.\n- Tokenization, stemming, and lemmatization were performed to normalize the text data.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

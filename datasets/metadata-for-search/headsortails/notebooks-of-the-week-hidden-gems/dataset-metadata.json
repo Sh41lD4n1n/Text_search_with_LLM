@@ -1,0 +1,41 @@
+{
+  "id": "headsortails/notebooks-of-the-week-hidden-gems",
+  "id_no": 1283178,
+  "datasetSlugNullable": "notebooks-of-the-week-hidden-gems",
+  "ownerUserNullable": "headsortails",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Notebooks of the Week - Hidden Gems",
+  "subtitleNullable": "Complete collection of the weekly series showcasing underrated Kaggle Notebooks",
+  "descriptionNullable": "### Context\n\nOn Kaggle, many great Notebooks (aka \"Kernels\") can be found that have a large number of well-deserved upvotes. I'm publishing a weekly series of \"Hidden Gems\" in which I aspire to find and showcase underrated Notebooks on Kaggle in an effort to illuminate the diversity and creativity of our community.\n\nThis series looks beyond those well-recognised works to find Notebooks which I personally like and which, somehow, didn't receive the attention that I think they deserve. My selections are always highly subjective; reflecting my own views and preferences. I have managed to publish an episode of \"Hidden Gems\" every week since [the first post](https://www.kaggle.com/general/150603) back in May 2020 and I hope to be able to keep this weekly schedule for the foreseeable future.\n\nEach episode presents 3 Notebooks, which can be recent or older works. These episodes are first posted to the Kaggle Forum (later on Twitter/LinkedIn), and I always encourage readers to contribute any other underestimated Notebooks in the comments of the forum posts. The title and link to the Notebook are accompanied by the author's user name and a brief description on what I like about this work.\n\nThis dataset contains all published episodes, with the goal to make the archive of \"Hidden Gems\" better accessible and to enable meta analysis.\n\n\n### Content\n\nThe file of interest is `kaggle_hidden_gems.csv`, containing the following columns:\n\n- `vol` and `date`: The consecutive number of the Hidden Gems episode and when it was first published.\n\n- `link_forum` and `link_twitter`: The hyperlinks to the Kaggle Forum post and Twitter post for the episode.\n\n- `notebook` and `author`: The hyperlinks to the Notebook itself, as well as to the Kaggle profile of the author.\n\n- `title`: The Notebook title as a string.\n\n- `review`: My brief review of the Notebook.\n\n- `author_name`: The name of the Notebook author as listed on their Kaggle profile at the time the episode was published.\n\n- `author_twitter` and `author_linkedin`: The social media links of the author, if listed on their Kaggle profile.\n\n- `notes`: Notes about special episodes.\n\n\n### Acknowledgements\n\nI would like to thank all current and future Notebook authors for their inspiring contributions. Your hard work and brilliance is what makes this community so amazing.\n\nCover image by [Shachar Harshuv](https://i.imgur.com/4VOS6iz.png).\n\n\n### Inspiration\n\nMy starter Notebook contains a number of suggestions on what to explore. Linking this dataset to [Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle) will provide even more opportunities for extracting insights. Have fun!",
+  "datasetId": 1283178,
+  "datasetSlug": "notebooks-of-the-week-hidden-gems",
+  "hasDatasetSlug": true,
+  "ownerUser": "headsortails",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 33021,
+  "totalVotes": 191,
+  "totalDownloads": 403,
+  "title": "Notebooks of the Week - Hidden Gems",
+  "hasTitle": true,
+  "subtitle": "Complete collection of the weekly series showcasing underrated Kaggle Notebooks",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOn Kaggle, many great Notebooks (aka \"Kernels\") can be found that have a large number of well-deserved upvotes. I'm publishing a weekly series of \"Hidden Gems\" in which I aspire to find and showcase underrated Notebooks on Kaggle in an effort to illuminate the diversity and creativity of our community.\n\nThis series looks beyond those well-recognised works to find Notebooks which I personally like and which, somehow, didn't receive the attention that I think they deserve. My selections are always highly subjective; reflecting my own views and preferences. I have managed to publish an episode of \"Hidden Gems\" every week since [the first post](https://www.kaggle.com/general/150603) back in May 2020 and I hope to be able to keep this weekly schedule for the foreseeable future.\n\nEach episode presents 3 Notebooks, which can be recent or older works. These episodes are first posted to the Kaggle Forum (later on Twitter/LinkedIn), and I always encourage readers to contribute any other underestimated Notebooks in the comments of the forum posts. The title and link to the Notebook are accompanied by the author's user name and a brief description on what I like about this work.\n\nThis dataset contains all published episodes, with the goal to make the archive of \"Hidden Gems\" better accessible and to enable meta analysis.\n\n\n### Content\n\nThe file of interest is `kaggle_hidden_gems.csv`, containing the following columns:\n\n- `vol` and `date`: The consecutive number of the Hidden Gems episode and when it was first published.\n\n- `link_forum` and `link_twitter`: The hyperlinks to the Kaggle Forum post and Twitter post for the episode.\n\n- `notebook` and `author`: The hyperlinks to the Notebook itself, as well as to the Kaggle profile of the author.\n\n- `title`: The Notebook title as a string.\n\n- `review`: My brief review of the Notebook.\n\n- `author_name`: The name of the Notebook author as listed on their Kaggle profile at the time the episode was published.\n\n- `author_twitter` and `author_linkedin`: The social media links of the author, if listed on their Kaggle profile.\n\n- `notes`: Notes about special episodes.\n\n\n### Acknowledgements\n\nI would like to thank all current and future Notebook authors for their inspiring contributions. Your hard work and brilliance is what makes this community so amazing.\n\nCover image by [Shachar Harshuv](https://i.imgur.com/4VOS6iz.png).\n\n\n### Inspiration\n\nMy starter Notebook contains a number of suggestions on what to explore. Linking this dataset to [Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle) will provide even more opportunities for extracting insights. Have fun!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "waheed9002/hiking-wildlife",
+  "id_no": 4433013,
+  "datasetSlugNullable": "hiking-wildlife",
+  "ownerUserNullable": "waheed9002",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Hiking Wildlife",
+  "subtitleNullable": "Dataset containing Images of Wildlife Animals",
+  "descriptionNullable": "Welcome to the Wildlife Recognition Dataset, a comprehensive collection of high-quality images featuring diverse wildlife animals. This dataset is curated to support deep learning projects focused on wildlife identification and classification. \"Let's download  data set of wildlife and get some fun training a model to classify them\".  \n**Content:**\n- 17 meticulously organized folders, each dedicated to a specific wildlife species.\n- Rich variety of wildlife, including mammals, birds, reptiles, and more.\n- High-resolution images captured in their natural habitats.\n\n**Categories:**\nHere i create a small data set of 9,638 images in the folder wildlife.zip distributed in 17 classes as follows:\n\nfolder: Horse images: 743\nfolder: bald_eagle images: 732\nfolder: black_bear images: 706\nfolder: bobcat images: 679\nfolder: cheetah images: 342\nfolder: cougar images: 659\nfolder: deer images: 670\nfolder: elk images: 585\nfolder: gray_fox images: 608\nfolder: hyena images: 303\nfolder: lion images: 289\nfolder: raccoon images: 685\nfolder: red_fox images: 697\nfolder: rhino images: 376\nfolder: tiger images: 265\nfolder: wolf images: 927\nfolder: zebra images: 372\n\n**Intended Use:**\nThis dataset is designed for deep learning enthusiasts and researchers aiming to develop models capable of identifying and classifying wildlife animals. Whether you are working on image recognition, object detection, or species classification, this dataset provides a robust foundation for your projects.\n\n\n\n",
+  "datasetId": 4433013,
+  "datasetSlug": "hiking-wildlife",
+  "hasDatasetSlug": true,
+  "ownerUser": "waheed9002",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 361,
+  "totalVotes": 1,
+  "totalDownloads": 56,
+  "title": "Hiking Wildlife",
+  "hasTitle": true,
+  "subtitle": "Dataset containing Images of Wildlife Animals",
+  "hasSubtitle": true,
+  "description": "Welcome to the Wildlife Recognition Dataset, a comprehensive collection of high-quality images featuring diverse wildlife animals. This dataset is curated to support deep learning projects focused on wildlife identification and classification. \"Let's download  data set of wildlife and get some fun training a model to classify them\".  \n**Content:**\n- 17 meticulously organized folders, each dedicated to a specific wildlife species.\n- Rich variety of wildlife, including mammals, birds, reptiles, and more.\n- High-resolution images captured in their natural habitats.\n\n**Categories:**\nHere i create a small data set of 9,638 images in the folder wildlife.zip distributed in 17 classes as follows:\n\nfolder: Horse images: 743\nfolder: bald_eagle images: 732\nfolder: black_bear images: 706\nfolder: bobcat images: 679\nfolder: cheetah images: 342\nfolder: cougar images: 659\nfolder: deer images: 670\nfolder: elk images: 585\nfolder: gray_fox images: 608\nfolder: hyena images: 303\nfolder: lion images: 289\nfolder: raccoon images: 685\nfolder: red_fox images: 697\nfolder: rhino images: 376\nfolder: tiger images: 265\nfolder: wolf images: 927\nfolder: zebra images: 372\n\n**Intended Use:**\nThis dataset is designed for deep learning enthusiasts and researchers aiming to develop models capable of identifying and classifying wildlife animals. Whether you are working on image recognition, object detection, or species classification, this dataset provides a robust foundation for your projects.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "computer vision",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

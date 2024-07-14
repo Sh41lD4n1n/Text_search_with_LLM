@@ -1,0 +1,41 @@
+{
+  "id": "marquis03/plants-classification",
+  "id_no": 3922585,
+  "datasetSlugNullable": "plants-classification",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Plants Classification",
+  "subtitleNullable": "30 Types of Plants Image Classification",
+  "descriptionNullable": "The dataset contains 30 types of plants images, including 21000 training images, 3000 validation images and 6000 test images, with a total data size of 1.48GB, and supports the recognition of the following plants types: aloevera, banana, bilimbi, cantaloupe, cassava, coconut, corn, cucumber, curcuma, eggplant, galangal, ginger, guava, kale, longbeans, mango, melon, orange, paddy, papaya, peperchili, pineapple, pomelo, shallot, soybeans, spinach, sweetpotatoes, tobacco, waterapple, and watermelon.",
+  "datasetId": 3922585,
+  "datasetSlug": "plants-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16982,
+  "totalVotes": 59,
+  "totalDownloads": 2444,
+  "title": "Plants Classification",
+  "hasTitle": true,
+  "subtitle": "30 Types of Plants Image Classification",
+  "hasSubtitle": true,
+  "description": "The dataset contains 30 types of plants images, including 21000 training images, 3000 validation images and 6000 test images, with a total data size of 1.48GB, and supports the recognition of the following plants types: aloevera, banana, bilimbi, cantaloupe, cassava, coconut, corn, cucumber, curcuma, eggplant, galangal, ginger, guava, kale, longbeans, mango, melon, orange, paddy, papaya, peperchili, pineapple, pomelo, shallot, soybeans, spinach, sweetpotatoes, tobacco, waterapple, and watermelon.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

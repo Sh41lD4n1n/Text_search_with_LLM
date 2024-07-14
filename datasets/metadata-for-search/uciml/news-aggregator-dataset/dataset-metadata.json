@@ -1,0 +1,42 @@
+{
+  "id": "/news-aggregator-dataset",
+  "id_no": 294,
+  "datasetSlugNullable": "news-aggregator-dataset",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "News Aggregator Dataset",
+  "subtitleNullable": "Headlines and categories of 400k news stories from 2014",
+  "descriptionNullable": "This dataset contains headlines, URLs, and categories for 422,937 news stories collected by a web aggregator between March 10th, 2014 and August 10th, 2014.\n\nNews categories included in this dataset include business; science and technology; entertainment; and health. Different news articles that refer to the same news item (e.g., several articles about recently released employment statistics) are also categorized together.\n\n## Content\nThe columns included in this dataset are:\n\n- **ID** : the numeric ID of the article\n- **TITLE** : the headline of the article\n- **URL** : the URL of the article\n- **PUBLISHER** : the publisher of the article\n- **CATEGORY** : the category of the news item; one of:\n-- *b* : business\n-- *t* : science and technology\n-- *e* : entertainment\n-- *m* : health\n- **STORY** : alphanumeric ID of the news story that the article discusses\n- **HOSTNAME** : hostname where the article was posted\n- **TIMESTAMP** : approximate timestamp of the article's publication, given in Unix time (seconds since midnight on Jan 1, 1970)\n\n## Acknowledgments\nThis dataset comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Any publications that use this data should cite the repository as follows:\n\nLichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\n\nThis specific dataset can be found in the UCI ML Repository at [this URL](http://archive.ics.uci.edu/ml/datasets/News+Aggregator)\n\n## Inspiration\nWhat kinds of questions can we explore using this dataset? Here are a few possibilities:\n\n- can we predict the category (business, entertainment, etc.) of a news article given only its headline?\n- can we predict the specific story that a news article refers to, given only its headline?",
+  "datasetId": 294,
+  "datasetSlug": "news-aggregator-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 106957,
+  "totalVotes": 171,
+  "totalDownloads": 14597,
+  "title": "News Aggregator Dataset",
+  "hasTitle": true,
+  "subtitle": "Headlines and categories of 400k news stories from 2014",
+  "hasSubtitle": true,
+  "description": "This dataset contains headlines, URLs, and categories for 422,937 news stories collected by a web aggregator between March 10th, 2014 and August 10th, 2014.\n\nNews categories included in this dataset include business; science and technology; entertainment; and health. Different news articles that refer to the same news item (e.g., several articles about recently released employment statistics) are also categorized together.\n\n## Content\nThe columns included in this dataset are:\n\n- **ID** : the numeric ID of the article\n- **TITLE** : the headline of the article\n- **URL** : the URL of the article\n- **PUBLISHER** : the publisher of the article\n- **CATEGORY** : the category of the news item; one of:\n-- *b* : business\n-- *t* : science and technology\n-- *e* : entertainment\n-- *m* : health\n- **STORY** : alphanumeric ID of the news story that the article discusses\n- **HOSTNAME** : hostname where the article was posted\n- **TIMESTAMP** : approximate timestamp of the article's publication, given in Unix time (seconds since midnight on Jan 1, 1970)\n\n## Acknowledgments\nThis dataset comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Any publications that use this data should cite the repository as follows:\n\nLichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\n\nThis specific dataset can be found in the UCI ML Repository at [this URL](http://archive.ics.uci.edu/ml/datasets/News+Aggregator)\n\n## Inspiration\nWhat kinds of questions can we explore using this dataset? Here are a few possibilities:\n\n- can we predict the category (business, entertainment, etc.) of a news article given only its headline?\n- can we predict the specific story that a news article refers to, given only its headline?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "linguistics",
+    "news",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

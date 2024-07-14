@@ -1,0 +1,39 @@
+{
+  "id": "sakibapon/banglasarc",
+  "id_no": 2378161,
+  "datasetSlugNullable": "banglasarc",
+  "ownerUserNullable": "sakibapon",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Bangla SARC",
+  "subtitleNullable": "BanglaSarc: A Dataset for Sarcasm Detection ",
+  "descriptionNullable": "## Data Article: [BanglaSarc: A Dataset for Sarcasm Detection](https://arxiv.org/abs/2209.13461)\n## Implementation Article: [Interpretable Bangla Sarcasm Detection using BERT and Explainable AI](https://arxiv.org/abs/2303.12772)\n\n## Implementation: [Sarcasm Detection](https://github.com/Sakibapon/SarcasmDetection)\n\n#### **Citation** \n@article{apon2022banglasarc,\n  title={BanglaSarc: A Dataset for Sarcasm Detection},\n  author={Apon, Tasnim Sakib and Anan, Ramisa and Modhu, Elizabeth Antora and Suter, Arjun and Sneha, Ifrit Jamal and Alam, MD},\n  journal={arXiv preprint arXiv:2209.13461},\n  year={2022}\n}",
+  "datasetId": 2378161,
+  "datasetSlug": "banglasarc",
+  "hasDatasetSlug": true,
+  "ownerUser": "sakibapon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 1163,
+  "totalVotes": 3,
+  "totalDownloads": 158,
+  "title": "Bangla SARC",
+  "hasTitle": true,
+  "subtitle": "BanglaSarc: A Dataset for Sarcasm Detection ",
+  "hasSubtitle": true,
+  "description": "## Data Article: [BanglaSarc: A Dataset for Sarcasm Detection](https://arxiv.org/abs/2209.13461)\n## Implementation Article: [Interpretable Bangla Sarcasm Detection using BERT and Explainable AI](https://arxiv.org/abs/2303.12772)\n\n## Implementation: [Sarcasm Detection](https://github.com/Sakibapon/SarcasmDetection)\n\n#### **Citation** \n@article{apon2022banglasarc,\n  title={BanglaSarc: A Dataset for Sarcasm Detection},\n  author={Apon, Tasnim Sakib and Anan, Ramisa and Modhu, Elizabeth Antora and Suter, Arjun and Sneha, Ifrit Jamal and Alam, MD},\n  journal={arXiv preprint arXiv:2209.13461},\n  year={2022}\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

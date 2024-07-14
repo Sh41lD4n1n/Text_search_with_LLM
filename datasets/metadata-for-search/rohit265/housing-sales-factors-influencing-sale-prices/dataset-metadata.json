@@ -1,0 +1,39 @@
+{
+  "id": "rohit265/housing-sales-factors-influencing-sale-prices",
+  "id_no": 4989474,
+  "datasetSlugNullable": "housing-sales-factors-influencing-sale-prices",
+  "ownerUserNullable": "rohit265",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Housing Sales: Factors Influencing Sale Prices",
+  "subtitleNullable": "Exploring Property Characteristics, Location, and Amenities in Real Estate Marke",
+  "descriptionNullable": "This dataset contains information related to housing sales, in the form of individual properties. Here's a breakdown of the columns:\n\n| Column Name    | Description                                         |\n|----------------|-----------------------------------------------------|\n| Lot_Frontage   | Linear feet of street connected to the property    |\n| Lot_Area       | Lot size in square feet                             |\n| Bldg_Type      | Type of building|\n| House_Style    | Style of the house      |\n| Overall_Cond   | Overall condition rating of the house               |\n| Year_Built     | Year the house was built                            |\n| Exter_Cond     | Exterior condition rating of the house               |\n| Total_Bsmt_SF  | Total square feet of basement area                  |\n| First_Flr_SF   | First-floor square feet                             |\n| Second_Flr_SF  | Second-floor square feet                            |\n| Full_Bath      | Number of full bathrooms                            |\n| Half_Bath      | Number of half bathrooms                            |\n| Bedroom_AbvGr  | Number of bedrooms above ground                     |\n| Kitchen_AbvGr  | Number of kitchens above ground                     |\n| Fireplaces     | Number of fireplaces                                |\n| Longitude      | Longitude coordinates of the property location      |\n| Latitude       | Latitude coordinates of the property location       |\n| Sale_Price     | Sale price of the property                          |\n\nThe dataset contains 2413 entries and has a mixture of numerical and categorical data. It's likely used for analyzing various factors influencing housing sale prices, such as location, size, condition, and amenities.",
+  "datasetId": 4989474,
+  "datasetSlug": "housing-sales-factors-influencing-sale-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohit265",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 395,
+  "totalVotes": 2,
+  "totalDownloads": 80,
+  "title": "Housing Sales: Factors Influencing Sale Prices",
+  "hasTitle": true,
+  "subtitle": "Exploring Property Characteristics, Location, and Amenities in Real Estate Marke",
+  "hasSubtitle": true,
+  "description": "This dataset contains information related to housing sales, in the form of individual properties. Here's a breakdown of the columns:\n\n| Column Name    | Description                                         |\n|----------------|-----------------------------------------------------|\n| Lot_Frontage   | Linear feet of street connected to the property    |\n| Lot_Area       | Lot size in square feet                             |\n| Bldg_Type      | Type of building|\n| House_Style    | Style of the house      |\n| Overall_Cond   | Overall condition rating of the house               |\n| Year_Built     | Year the house was built                            |\n| Exter_Cond     | Exterior condition rating of the house               |\n| Total_Bsmt_SF  | Total square feet of basement area                  |\n| First_Flr_SF   | First-floor square feet                             |\n| Second_Flr_SF  | Second-floor square feet                            |\n| Full_Bath      | Number of full bathrooms                            |\n| Half_Bath      | Number of half bathrooms                            |\n| Bedroom_AbvGr  | Number of bedrooms above ground                     |\n| Kitchen_AbvGr  | Number of kitchens above ground                     |\n| Fireplaces     | Number of fireplaces                                |\n| Longitude      | Longitude coordinates of the property location      |\n| Latitude       | Latitude coordinates of the property location       |\n| Sale_Price     | Sale price of the property                          |\n\nThe dataset contains 2413 entries and has a mixture of numerical and categorical data. It's likely used for analyzing various factors influencing housing sale prices, such as location, size, condition, and amenities.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "muratkokludataset/pumpkin-seeds-dataset",
+  "id_no": 2033872,
+  "datasetSlugNullable": "pumpkin-seeds-dataset",
+  "ownerUserNullable": "muratkokludataset",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Pumpkin Seeds Dataset",
+  "subtitleNullable": "Pumpkin Seeds Dataset",
+  "descriptionNullable": "DATASET: https://www.muratkoklu.com/datasets/\n\nCitation Request :\nKOKLU, M., SARIGIL, S., & OZBEK, O. (2021). The use of machine learning methods in classification of pumpkin seeds (Cucurbita pepo L.). Genetic Resources and Crop Evolution, 68(7), 2713-2726. Doi: https://doi.org/10.1007/s10722-021-01226-0\n\nhttps://link.springer.com/article/10.1007/s10722-021-01226-0\nhttps://link.springer.com/content/pdf/10.1007/s10722-021-01226-0.pdf\n\nDATASET: https://www.muratkoklu.com/datasets/\n\nAbstract: Pumpkin seeds are frequently consumed as confection worldwide because of their adequate amount of protein, fat, carbohydrate, and mineral contents. This study was carried out on the two most important and quality types of pumpkin seeds, \u2018\u2018Urgup_Sivrisi\u2019\u2019 and \u2018\u2018Cercevelik\u2019\u2019, generally grown in Urgup and Karacaoren regions in Turkey. However, morphological measurements of 2500 pumpkin seeds of both varieties were made possible by using the gray and binary forms of threshold techniques. Considering morphological features, all the data were modeled with five different machine learning methods: Logistic Regression (LR), Multilayer Perceptrons (MLP), Support Vector Machine (SVM) and Random Forest (RF), and k-Nearest Neighbor (k-NN), which further determined the most successful method for classifying pumpkin seed varieties. However, the performances of the models were determined with the help of the 10 kfold cross-validation method. The accuracy rates of the classifiers were obtained as LR 87.92 percent, MLP 88.52 percent, SVM 88.64 percent, RF 87.56 percent, and k-NN 87.64 percent.\n\nKeywords Pumpkin seed  Logistic regression, Multilayer peceptrons, Random forest, Classification, Support vector machine, Thresholding\n\nDATASET: https://www.muratkoklu.com/datasets/\n",
+  "datasetId": 2033872,
+  "datasetSlug": "pumpkin-seeds-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muratkokludataset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 61359,
+  "totalVotes": 1502,
+  "totalDownloads": 7967,
+  "title": "Pumpkin Seeds Dataset",
+  "hasTitle": true,
+  "subtitle": "Pumpkin Seeds Dataset",
+  "hasSubtitle": true,
+  "description": "DATASET: https://www.muratkoklu.com/datasets/\n\nCitation Request :\nKOKLU, M., SARIGIL, S., & OZBEK, O. (2021). The use of machine learning methods in classification of pumpkin seeds (Cucurbita pepo L.). Genetic Resources and Crop Evolution, 68(7), 2713-2726. Doi: https://doi.org/10.1007/s10722-021-01226-0\n\nhttps://link.springer.com/article/10.1007/s10722-021-01226-0\nhttps://link.springer.com/content/pdf/10.1007/s10722-021-01226-0.pdf\n\nDATASET: https://www.muratkoklu.com/datasets/\n\nAbstract: Pumpkin seeds are frequently consumed as confection worldwide because of their adequate amount of protein, fat, carbohydrate, and mineral contents. This study was carried out on the two most important and quality types of pumpkin seeds, \u2018\u2018Urgup_Sivrisi\u2019\u2019 and \u2018\u2018Cercevelik\u2019\u2019, generally grown in Urgup and Karacaoren regions in Turkey. However, morphological measurements of 2500 pumpkin seeds of both varieties were made possible by using the gray and binary forms of threshold techniques. Considering morphological features, all the data were modeled with five different machine learning methods: Logistic Regression (LR), Multilayer Perceptrons (MLP), Support Vector Machine (SVM) and Random Forest (RF), and k-Nearest Neighbor (k-NN), which further determined the most successful method for classifying pumpkin seed varieties. However, the performances of the models were determined with the help of the 10 kfold cross-validation method. The accuracy rates of the classifiers were obtained as LR 87.92 percent, MLP 88.52 percent, SVM 88.64 percent, RF 87.56 percent, and k-NN 87.64 percent.\n\nKeywords Pumpkin seed  Logistic regression, Multilayer peceptrons, Random forest, Classification, Support vector machine, Thresholding\n\nDATASET: https://www.muratkoklu.com/datasets/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "agriculture",
+    "computer science",
+    "computer vision",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

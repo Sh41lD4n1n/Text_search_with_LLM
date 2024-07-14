@@ -1,0 +1,43 @@
+{
+  "id": "tanmay43sharma/goodreads-popular-books-dataset",
+  "id_no": 4685563,
+  "datasetSlugNullable": "goodreads-popular-books-dataset",
+  "ownerUserNullable": "tanmay43sharma",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Popular Books Dataset",
+  "subtitleNullable": "Metadata, Ratings, Popular Title Attributes, Ratings and User Engagement Metrics",
+  "descriptionNullable": "This file contains information about popular books. Each row represents a book and includes details such as the book ID, Goodreads book ID, best book ID, work ID, number of books in the series, ISBN and ISBN13 numbers, authors, original publication year, original title, title, language code, average rating, number of ratings, number of work ratings, number of text reviews, rating counts for different rating levels (1-5 stars), and URLs for the book's image and small image.\n\nThis dataset can be useful for various purposes, such as analyzing reading trends, popular authors, and book ratings across different genres or languages. It can also be used to build recommendation systems or explore correlations between book characteristics and their popularity or ratings.",
+  "datasetId": 4685563,
+  "datasetSlug": "goodreads-popular-books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanmay43sharma",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 11194,
+  "totalVotes": 39,
+  "totalDownloads": 2504,
+  "title": "Popular Books Dataset",
+  "hasTitle": true,
+  "subtitle": "Metadata, Ratings, Popular Title Attributes, Ratings and User Engagement Metrics",
+  "hasSubtitle": true,
+  "description": "This file contains information about popular books. Each row represents a book and includes details such as the book ID, Goodreads book ID, best book ID, work ID, number of books in the series, ISBN and ISBN13 numbers, authors, original publication year, original title, title, language code, average rating, number of ratings, number of work ratings, number of text reviews, rating counts for different rating levels (1-5 stars), and URLs for the book's image and small image.\n\nThis dataset can be useful for various purposes, such as analyzing reading trends, popular authors, and book ratings across different genres or languages. It can also be used to build recommendation systems or explore correlations between book characteristics and their popularity or ratings.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "education",
+    "data cleaning",
+    "data analytics",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

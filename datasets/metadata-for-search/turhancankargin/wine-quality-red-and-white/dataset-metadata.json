@@ -1,0 +1,42 @@
+{
+  "id": "turhancankargin/wine-quality-red-and-white",
+  "id_no": 805800,
+  "datasetSlugNullable": "wine-quality-red-and-white",
+  "ownerUserNullable": "turhancankargin",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Wine Quality (Red and White)",
+  "subtitleNullable": "Clean dataset to classify red and white wine quality",
+  "descriptionNullable": "### Context\n\nThe dataset is related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult the reference [Cortez et al., 2009].\nThese datasets can be viewed as classification or regression tasks.\n\n### Content\n\nInput variables:\n\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\n12 - quality (score between 0 and 10)\n13 - color\n14 - high_quality",
+  "datasetId": 805800,
+  "datasetSlug": "wine-quality-red-and-white",
+  "hasDatasetSlug": true,
+  "ownerUser": "turhancankargin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 3397,
+  "totalVotes": 8,
+  "totalDownloads": 490,
+  "title": "Wine Quality (Red and White)",
+  "hasTitle": true,
+  "subtitle": "Clean dataset to classify red and white wine quality",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset is related to red and white variants of the Portuguese \"Vinho Verde\" wine. For more details, consult the reference [Cortez et al., 2009].\nThese datasets can be viewed as classification or regression tasks.\n\n### Content\n\nInput variables:\n\n1 - fixed acidity\n2 - volatile acidity\n3 - citric acid\n4 - residual sugar\n5 - chlorides\n6 - free sulfur dioxide\n7 - total sulfur dioxide\n8 - density\n9 - pH\n10 - sulphates\n11 - alcohol\n12 - quality (score between 0 and 10)\n13 - color\n14 - high_quality",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "chemistry",
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

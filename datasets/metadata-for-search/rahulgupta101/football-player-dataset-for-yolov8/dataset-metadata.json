@@ -1,0 +1,39 @@
+{
+  "id": "rahulgupta101/football-player-dataset-for-yolov8",
+  "id_no": 5097142,
+  "datasetSlugNullable": "football-player-dataset-for-yolov8",
+  "ownerUserNullable": "rahulgupta101",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Football Player Dataset for YOLOV8",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5097142,
+  "datasetSlug": "football-player-dataset-for-yolov8",
+  "hasDatasetSlug": true,
+  "ownerUser": "rahulgupta101",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 20,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "Football Player Dataset for YOLOV8",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

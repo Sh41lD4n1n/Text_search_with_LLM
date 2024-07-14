@@ -1,0 +1,43 @@
+{
+  "id": "sudarshan24byte/online-food-dataset",
+  "id_no": 4527983,
+  "datasetSlugNullable": "online-food-dataset",
+  "ownerUserNullable": "sudarshan24byte",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Online Food Dataset",
+  "subtitleNullable": "Demographics & Locations in Online Food Ordering",
+  "descriptionNullable": "# **Online Food Order Dataset**\n\n**Description**:\nThe dataset contains information collected from an online food ordering platform over a period of time. It encompasses various attributes related to Occupation, Family Size, Feedback etc..\n\n**Attributes**:\n\nDemographic Information:\n\nAge: Age of the customer.\nGender: Gender of the customer.\nMarital Status: Marital status of the customer.\nOccupation: Occupation of the customer.\nMonthly Income: Monthly income of the customer.\nEducational Qualifications: Educational qualifications of the customer.\nFamily Size: Number of individuals in the customer's family.\nLocation Information:\n\nLatitude: Latitude of the customer's location.\nLongitude: Longitude of the customer's location.\nPin Code: Pin code of the customer's location.\nOrder Details:\n\nOutput: Current status of the order (e.g., pending, confirmed, delivered).\nFeedback: Feedback provided by the customer after receiving the order.\n\n**Purpose**:\nThis dataset can be utilized to explore the relationship between demographic/location factors and online food ordering behavior, analyze customer feedback to improve service quality, and potentially predict customer preferences or behavior based on demographic and location attributes.",
+  "datasetId": 4527983,
+  "datasetSlug": "online-food-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudarshan24byte",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 168949,
+  "totalVotes": 687,
+  "totalDownloads": 39436,
+  "title": "Online Food Dataset",
+  "hasTitle": true,
+  "subtitle": "Demographics & Locations in Online Food Ordering",
+  "hasSubtitle": true,
+  "description": "# **Online Food Order Dataset**\n\n**Description**:\nThe dataset contains information collected from an online food ordering platform over a period of time. It encompasses various attributes related to Occupation, Family Size, Feedback etc..\n\n**Attributes**:\n\nDemographic Information:\n\nAge: Age of the customer.\nGender: Gender of the customer.\nMarital Status: Marital status of the customer.\nOccupation: Occupation of the customer.\nMonthly Income: Monthly income of the customer.\nEducational Qualifications: Educational qualifications of the customer.\nFamily Size: Number of individuals in the customer's family.\nLocation Information:\n\nLatitude: Latitude of the customer's location.\nLongitude: Longitude of the customer's location.\nPin Code: Pin code of the customer's location.\nOrder Details:\n\nOutput: Current status of the order (e.g., pending, confirmed, delivered).\nFeedback: Feedback provided by the customer after receiving the order.\n\n**Purpose**:\nThis dataset can be utilized to explore the relationship between demographic/location factors and online food ordering behavior, analyze customer feedback to improve service quality, and potentially predict customer preferences or behavior based on demographic and location attributes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "data visualization",
+    "classification",
+    "food",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

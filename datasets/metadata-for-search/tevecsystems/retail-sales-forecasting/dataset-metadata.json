@@ -1,0 +1,41 @@
+{
+  "id": "/retail-sales-forecasting",
+  "id_no": 1789,
+  "datasetSlugNullable": "retail-sales-forecasting",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Retail Sales Forecasting",
+  "subtitleNullable": "Short term forecasting to optimize in-store inventories",
+  "descriptionNullable": "### Context\n\nThis dataset contains lot of historical sales data. It was extracted from a Brazilian top retailer and has many SKUs and many stores. The data was transformed to protect the identity of the retailer.\n\n### Content\n\n[TBD]\n\n### Acknowledgements\n\nThis data would not be available without the full collaboration from our customers who understand that sharing their core and strategical information has more advantages than possible hazards. They also support our continuos development of innovative ML systems across their value chain.\n\n\n### Inspiration\n\nEvery retail business in the world faces a fundamental question: how much inventory should I carry? In one hand to mush inventory means working capital costs, operational costs and a complex operation. On the other hand lack of inventory leads to lost sales, unhappy customers and a damaged brand.\n\nCurrent inventory management models have many solutions to place the correct order, but they are all based in a single unknown factor: the demand for the next periods.\n\nThis is why short-term forecasting is so important in retail and consumer goods industry.\n\nWe encourage you to seek for the best demand forecasting model for the next 2-3 weeks. This valuable insight can help many supply chain practitioners to correctly manage their inventory levels.",
+  "datasetId": 1789,
+  "datasetSlug": "retail-sales-forecasting",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 137838,
+  "totalVotes": 142,
+  "totalDownloads": 13858,
+  "title": "Retail Sales Forecasting",
+  "hasTitle": true,
+  "subtitle": "Short term forecasting to optimize in-store inventories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains lot of historical sales data. It was extracted from a Brazilian top retailer and has many SKUs and many stores. The data was transformed to protect the identity of the retailer.\n\n### Content\n\n[TBD]\n\n### Acknowledgements\n\nThis data would not be available without the full collaboration from our customers who understand that sharing their core and strategical information has more advantages than possible hazards. They also support our continuos development of innovative ML systems across their value chain.\n\n\n### Inspiration\n\nEvery retail business in the world faces a fundamental question: how much inventory should I carry? In one hand to mush inventory means working capital costs, operational costs and a complex operation. On the other hand lack of inventory leads to lost sales, unhappy customers and a damaged brand.\n\nCurrent inventory management models have many solutions to place the correct order, but they are all based in a single unknown factor: the demand for the next periods.\n\nThis is why short-term forecasting is so important in retail and consumer goods industry.\n\nWe encourage you to seek for the best demand forecasting model for the next 2-3 weeks. This valuable insight can help many supply chain practitioners to correctly manage their inventory levels.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "/spam-text-message-classification",
+  "id_no": 2050,
+  "datasetSlugNullable": "spam-text-message-classification",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Spam Text Message Classification",
+  "subtitleNullable": "Let's battle with annoying spammer with data science.",
+  "descriptionNullable": "### Context\n\nComing Soon\n\n### Content\n\nComing Soon\n\n### Acknowledgements\nSpecial thanks to;\nhttp://www.dt.fee.unicamp.br/~tiago/smsspamcollection/\n\n### Inspiration\n\nComing soon",
+  "datasetId": 2050,
+  "datasetSlug": "spam-text-message-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 112488,
+  "totalVotes": 148,
+  "totalDownloads": 20287,
+  "title": "Spam Text Message Classification",
+  "hasTitle": true,
+  "subtitle": "Let's battle with annoying spammer with data science.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nComing Soon\n\n### Content\n\nComing Soon\n\n### Acknowledgements\nSpecial thanks to;\nhttp://www.dt.fee.unicamp.br/~tiago/smsspamcollection/\n\n### Inspiration\n\nComing soon",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "elvinrustam/books-dataset",
+  "id_no": 4200521,
+  "datasetSlugNullable": "books-dataset",
+  "ownerUserNullable": "elvinrustam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Books Dataset",
+  "subtitleNullable": "Explore the Literary Universe: A Comprehensive Dataset of 103,063 Books",
+  "descriptionNullable": "**Overview:**\nThis dataset comprises information scraped from **wonderbk.com**, a popular online bookstore. The dataset contains details of 103,063 books, with key attributes such as title, authors, description, category, publisher, starting price, and publish date.\n\n**Columns:**\n\n- **Title:** The title of the book.\n- **Authors:** The authors of the book.\n- **Description:** A brief description of the book.\n- **Category:** The category or genre to which the book belongs.\n- **Publisher:** The publishing house responsible for the book.\n- **Price Starting With ($):** The initial price of the book.\n- **Publish Date (Month):** The month in which the book was published.\n- **Publish Date (Year):** The year of publication.",
+  "datasetId": 4200521,
+  "datasetSlug": "books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "elvinrustam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13357,
+  "totalVotes": 41,
+  "totalDownloads": 2250,
+  "title": "Books Dataset",
+  "hasTitle": true,
+  "subtitle": "Explore the Literary Universe: A Comprehensive Dataset of 103,063 Books",
+  "hasSubtitle": true,
+  "description": "**Overview:**\nThis dataset comprises information scraped from **wonderbk.com**, a popular online bookstore. The dataset contains details of 103,063 books, with key attributes such as title, authors, description, category, publisher, starting price, and publish date.\n\n**Columns:**\n\n- **Title:** The title of the book.\n- **Authors:** The authors of the book.\n- **Description:** A brief description of the book.\n- **Category:** The category or genre to which the book belongs.\n- **Publisher:** The publishing house responsible for the book.\n- **Price Starting With ($):** The initial price of the book.\n- **Publish Date (Month):** The month in which the book was published.\n- **Publish Date (Year):** The year of publication.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "linguistics",
+    "internet",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

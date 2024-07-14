@@ -1,0 +1,42 @@
+{
+  "id": "shibumohapatra/house-price",
+  "id_no": 2438863,
+  "datasetSlugNullable": "house-price",
+  "ownerUserNullable": "shibumohapatra",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "California House Price ",
+  "subtitleNullable": "Various algorithms can be used for prediction",
+  "descriptionNullable": "**DESCRIPTION**\n\nThe US Census Bureau has published California Census Data which has 10 types of metrics such as the population, median income, median housing price, and so on for each block group in California. The dataset also serves as an input for project scoping and tries to specify the functional and nonfunctional r requirements for it.\n\n**Problem Objective:**\nThe project aims at building a model of housing prices to predict median house values in California using the provided dataset. This model should learn from the data and be able to predict the median housing price in any district, given all the other metrics.\n\nDistricts or block groups are the smallest geographical units for which the US Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people). There are 20,640 districts in the project dataset.\n\n**Domain:** Finance and Housing\n\n**Analysis Tasks:**\n1. Build a model of housing prices to predict median house values in California using the provided dataset.\n2. Train the model to learn from the data to predict the median housing price in any district, given all the other metrics.\n3. Predict housing prices based on median_income and plot the regression chart for it.\n\nLoad the data :\n\u2022\tRead the \u201chousing.csv\u201d file from the folder into the program.\n\u2022\tPrint first few rows of this data.\n\u2022\tExtract input (X) and output (Y) data from the dataset.\n\nHandle missing values :\n\u2022\tFill the missing values with the mean of the respective column.\n\nEncode categorical data :\n\u2022\tConvert categorical column in the dataset to numerical data.\n\nSplit the dataset : \n\u2022\tSplit the data into 80% training dataset and 20% test dataset.\n\nStandardize data :\n\u2022\tStandardize training and test datasets.\n\nPerform Linear Regression : \n\u2022\tPerform Linear Regression on training data.\n\u2022\tPredict output for test dataset using the fitted model.\n\u2022\tPrint root mean squared error (RMSE) from Linear Regression.\n            [ HINT: Import mean_squared_error from sklearn.metrics ]\n\nBonus exercise: Perform Linear Regression with one independent variable :\n\u2022\tExtract just the median_income column from the independent variables (from X_train and X_test).\n\u2022\tPerform Linear Regression to predict housing values based on median_income.\n\u2022\tPredict output for test dataset using the fitted model.\n\u2022\tPlot the fitted model for training data as well as for test data to check if the fitted model satisfies the test data.\n\nDataset Size: 20640 rows x 10 columns",
+  "datasetId": 2438863,
+  "datasetSlug": "house-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "shibumohapatra",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 40893,
+  "totalVotes": 73,
+  "totalDownloads": 8227,
+  "title": "California House Price ",
+  "hasTitle": true,
+  "subtitle": "Various algorithms can be used for prediction",
+  "hasSubtitle": true,
+  "description": "**DESCRIPTION**\n\nThe US Census Bureau has published California Census Data which has 10 types of metrics such as the population, median income, median housing price, and so on for each block group in California. The dataset also serves as an input for project scoping and tries to specify the functional and nonfunctional r requirements for it.\n\n**Problem Objective:**\nThe project aims at building a model of housing prices to predict median house values in California using the provided dataset. This model should learn from the data and be able to predict the median housing price in any district, given all the other metrics.\n\nDistricts or block groups are the smallest geographical units for which the US Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people). There are 20,640 districts in the project dataset.\n\n**Domain:** Finance and Housing\n\n**Analysis Tasks:**\n1. Build a model of housing prices to predict median house values in California using the provided dataset.\n2. Train the model to learn from the data to predict the median housing price in any district, given all the other metrics.\n3. Predict housing prices based on median_income and plot the regression chart for it.\n\nLoad the data :\n\u2022\tRead the \u201chousing.csv\u201d file from the folder into the program.\n\u2022\tPrint first few rows of this data.\n\u2022\tExtract input (X) and output (Y) data from the dataset.\n\nHandle missing values :\n\u2022\tFill the missing values with the mean of the respective column.\n\nEncode categorical data :\n\u2022\tConvert categorical column in the dataset to numerical data.\n\nSplit the dataset : \n\u2022\tSplit the data into 80% training dataset and 20% test dataset.\n\nStandardize data :\n\u2022\tStandardize training and test datasets.\n\nPerform Linear Regression : \n\u2022\tPerform Linear Regression on training data.\n\u2022\tPredict output for test dataset using the fitted model.\n\u2022\tPrint root mean squared error (RMSE) from Linear Regression.\n            [ HINT: Import mean_squared_error from sklearn.metrics ]\n\nBonus exercise: Perform Linear Regression with one independent variable :\n\u2022\tExtract just the median_income column from the independent variables (from X_train and X_test).\n\u2022\tPerform Linear Regression to predict housing values based on median_income.\n\u2022\tPredict output for test dataset using the fitted model.\n\u2022\tPlot the fitted model for training data as well as for test data to check if the fitted model satisfies the test data.\n\nDataset Size: 20640 rows x 10 columns",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "exploratory data analysis",
+    "numpy",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

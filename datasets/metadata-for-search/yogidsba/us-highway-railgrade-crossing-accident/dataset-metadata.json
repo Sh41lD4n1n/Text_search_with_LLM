@@ -1,0 +1,41 @@
+{
+  "id": "yogidsba/us-highway-railgrade-crossing-accident",
+  "id_no": 1398360,
+  "datasetSlugNullable": "us-highway-railgrade-crossing-accident",
+  "ownerUserNullable": "yogidsba",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "US Highway Rail Road Crossing Accident",
+  "subtitleNullable": "Detailed Information about Rail Road crossing accident in US",
+  "descriptionNullable": "### Context\nFew Days back I came across a news of 16 year old injured in car train crash and it made me wondered how many such accidents takes place all over the world and in US .So I started searching for datasets and finally I could  find a country wide rail road crossing crashes dataset.\n\n### Content\nThis data is taken from US department of Transportation. The data is provided by FRA Office of Railroad Safety  and dataset owner is Jared McCulloch.  The dataset cover accidents from 1st January 1975 to 28 February 2021. It has 239487 rows and 141 columns. This data is extracted from the accident report form. [Form57](https://railroads.dot.gov/sites/fra.dot.gov/files/2019-09/FRA%20F%206180.57.pdf)\nThe features consists of Geography, Time Frame, Type of Crossing, Type of Accident, Type of Vehicle, Position, Type of Highway User, Type of Equipment, and/or Highway User Action.\nHigh way user involved:\nType\nA. Auto\nB. Truck\nC. Truck-trailer\nD. Pick-up truck\nE. Van\nF. Bus\nG. School bus\nH. Motorcycle\nJ. Other motor vehicle\nK. Pedestrian\nM. Other (specify)\n\nComplete data dictionary can be found here.\nhttps://data.transportation.gov/Railroads/Highway-Rail-Grade-Crossing-Accident-Data/7wn6-i5b9\n\n### Acknowledgements\nThank you FRA office of railroad safety and US department of Transportation.\n\n### Inspiration\nThis analysis can be used for numerous applications such as real-time  accident prediction, studying  accidents hotspot locations, casualty analysis and extracting cause and effect rules to predict  accidents, and studying the impact of  weather condition/ environmental condition on accident occurrence. \n\nThere is SO much to explore and discover in this data!\n- Task: Top 20 cities with highest numbers of accident\n-  In which year maximum number collision happen?\n-  In which month maximum number of accident happened?\n-  Nearest railway station where  maximum collision took place.?\n-   Are their more accidents around sunrise/sunset?\n-   Ratio of accident where car hit the train vs Ratio of accident where train hit the car.?\n-  Total number of death in  year 2021.?\n-  Factors affecting accident ?\n- Did Number of accidents increased in 2000-2021 .?\n   \n",
+  "datasetId": 1398360,
+  "datasetSlug": "us-highway-railgrade-crossing-accident",
+  "hasDatasetSlug": true,
+  "ownerUser": "yogidsba",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 9983,
+  "totalVotes": 29,
+  "totalDownloads": 982,
+  "title": "US Highway Rail Road Crossing Accident",
+  "hasTitle": true,
+  "subtitle": "Detailed Information about Rail Road crossing accident in US",
+  "hasSubtitle": true,
+  "description": "### Context\nFew Days back I came across a news of 16 year old injured in car train crash and it made me wondered how many such accidents takes place all over the world and in US .So I started searching for datasets and finally I could  find a country wide rail road crossing crashes dataset.\n\n### Content\nThis data is taken from US department of Transportation. The data is provided by FRA Office of Railroad Safety  and dataset owner is Jared McCulloch.  The dataset cover accidents from 1st January 1975 to 28 February 2021. It has 239487 rows and 141 columns. This data is extracted from the accident report form. [Form57](https://railroads.dot.gov/sites/fra.dot.gov/files/2019-09/FRA%20F%206180.57.pdf)\nThe features consists of Geography, Time Frame, Type of Crossing, Type of Accident, Type of Vehicle, Position, Type of Highway User, Type of Equipment, and/or Highway User Action.\nHigh way user involved:\nType\nA. Auto\nB. Truck\nC. Truck-trailer\nD. Pick-up truck\nE. Van\nF. Bus\nG. School bus\nH. Motorcycle\nJ. Other motor vehicle\nK. Pedestrian\nM. Other (specify)\n\nComplete data dictionary can be found here.\nhttps://data.transportation.gov/Railroads/Highway-Rail-Grade-Crossing-Accident-Data/7wn6-i5b9\n\n### Acknowledgements\nThank you FRA office of railroad safety and US department of Transportation.\n\n### Inspiration\nThis analysis can be used for numerous applications such as real-time  accident prediction, studying  accidents hotspot locations, casualty analysis and extracting cause and effect rules to predict  accidents, and studying the impact of  weather condition/ environmental condition on accident occurrence. \n\nThere is SO much to explore and discover in this data!\n- Task: Top 20 cities with highest numbers of accident\n-  In which year maximum number collision happen?\n-  In which month maximum number of accident happened?\n-  Nearest railway station where  maximum collision took place.?\n-   Are their more accidents around sunrise/sunset?\n-   Ratio of accident where car hit the train vs Ratio of accident where train hit the car.?\n-  Total number of death in  year 2021.?\n-  Factors affecting accident ?\n- Did Number of accidents increased in 2000-2021 .?\n   \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "rail transport",
+    "geospatial analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

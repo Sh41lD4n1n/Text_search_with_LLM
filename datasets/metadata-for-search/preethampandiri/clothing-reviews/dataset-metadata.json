@@ -1,0 +1,37 @@
+{
+  "id": "preethampandiri/clothing-reviews",
+  "id_no": 5240936,
+  "datasetSlugNullable": "clothing-reviews",
+  "ownerUserNullable": "preethampandiri",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "clothing_reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5240936,
+  "datasetSlug": "clothing-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "preethampandiri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "clothing_reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

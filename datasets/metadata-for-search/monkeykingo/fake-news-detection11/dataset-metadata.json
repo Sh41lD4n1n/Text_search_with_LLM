@@ -1,0 +1,39 @@
+{
+  "id": "monkeykingo/fake-news-detection11",
+  "id_no": 4847758,
+  "datasetSlugNullable": "fake-news-detection11",
+  "ownerUserNullable": "monkeykingo",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "fake-news-detection11",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4847758,
+  "datasetSlug": "fake-news-detection11",
+  "hasDatasetSlug": true,
+  "ownerUser": "monkeykingo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "fake-news-detection11",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

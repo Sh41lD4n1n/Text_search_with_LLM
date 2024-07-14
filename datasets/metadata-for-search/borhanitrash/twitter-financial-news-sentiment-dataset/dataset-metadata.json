@@ -1,0 +1,41 @@
+{
+  "id": "borhanitrash/twitter-financial-news-sentiment-dataset",
+  "id_no": 5244554,
+  "datasetSlugNullable": "twitter-financial-news-sentiment-dataset",
+  "ownerUserNullable": "borhanitrash",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Twitter Financial News Sentiment Dataset",
+  "subtitleNullable": "A Twitter Financial Dataset for Clarification ",
+  "descriptionNullable": "# Introduction \nThe Twitter Financial News dataset is an English-language dataset containing an annotated corpus of finance-related tweets. This dataset is used to classify finance-related tweets for their sentiment.\n\nThe dataset holds 11,932 documents annotated with 3 labels:\n```python\nsentiments = {\n    \"LABEL_0\": \"Bearish\", \n    \"LABEL_1\": \"Bullish\", \n    \"LABEL_2\": \"Neutral\"\n}  \n```\n\nThe data was collected using the Twitter API. The current dataset supports the multi-class classification task.\n\n# Data Splits\nThere are 2 splits: train and validation. Below are the statistics:\n\nDataset Split\tNumber of Instances in Split: \n\nTrain -----------9,938\n\nValidation-------2,486\n\n# Licensing Information\nThe Twitter Financial Dataset (sentiment) is released under the MIT License.\n\n# Source \nhttps://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment",
+  "datasetId": 5244554,
+  "datasetSlug": "twitter-financial-news-sentiment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "borhanitrash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 298,
+  "totalVotes": 36,
+  "totalDownloads": 24,
+  "title": "Twitter Financial News Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "A Twitter Financial Dataset for Clarification ",
+  "hasSubtitle": true,
+  "description": "# Introduction \nThe Twitter Financial News dataset is an English-language dataset containing an annotated corpus of finance-related tweets. This dataset is used to classify finance-related tweets for their sentiment.\n\nThe dataset holds 11,932 documents annotated with 3 labels:\n```python\nsentiments = {\n    \"LABEL_0\": \"Bearish\", \n    \"LABEL_1\": \"Bullish\", \n    \"LABEL_2\": \"Neutral\"\n}  \n```\n\nThe data was collected using the Twitter API. The current dataset supports the multi-class classification task.\n\n# Data Splits\nThere are 2 splits: train and validation. Below are the statistics:\n\nDataset Split\tNumber of Instances in Split: \n\nTrain -----------9,938\n\nValidation-------2,486\n\n# Licensing Information\nThe Twitter Financial Dataset (sentiment) is released under the MIT License.\n\n# Source \nhttps://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "tabular",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

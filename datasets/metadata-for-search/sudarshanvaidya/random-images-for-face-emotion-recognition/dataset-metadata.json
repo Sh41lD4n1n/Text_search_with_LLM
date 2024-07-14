@@ -1,0 +1,41 @@
+{
+  "id": "sudarshanvaidya/random-images-for-face-emotion-recognition",
+  "id_no": 1017103,
+  "datasetSlugNullable": "random-images-for-face-emotion-recognition",
+  "ownerUserNullable": "sudarshanvaidya",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Natural Human Face Images for Emotion Recognition",
+  "subtitleNullable": "Natural Human Face Images for Emotion Recognition - 8 emotions",
+  "descriptionNullable": "### Context\n\nFacial expression recognition generally use standard datasets like FER, CK+ and KDEF for machine learning. Here is an attempt to provide additional data for real human faces gathered from the internet and annotated manually.\n\n### Content\n\nThere are 5,500 + images with 8 emotions categories \u2013 anger, contempt, disgust, fear, happiness, neutrality, sadness and surprise. All images contain grayscale human face (or sketch). Each image is 224 x 224 pixel grayscale in PNG format.\n\n\n### Acknowledgements\n\nImages are sourced from the internet where they are freely available for download e.g. Google, Unsplash, Flickr etc. \n\n\n### Inspiration\n\nWith a humble purpose to make more annotated data available for use by machine learning based Facial Expression Recognition. There would be a definite scope for improvement in the manual annotation. ",
+  "datasetId": 1017103,
+  "datasetSlug": "random-images-for-face-emotion-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudarshanvaidya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 22233,
+  "totalVotes": 38,
+  "totalDownloads": 3244,
+  "title": "Natural Human Face Images for Emotion Recognition",
+  "hasTitle": true,
+  "subtitle": "Natural Human Face Images for Emotion Recognition - 8 emotions",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFacial expression recognition generally use standard datasets like FER, CK+ and KDEF for machine learning. Here is an attempt to provide additional data for real human faces gathered from the internet and annotated manually.\n\n### Content\n\nThere are 5,500 + images with 8 emotions categories \u2013 anger, contempt, disgust, fear, happiness, neutrality, sadness and surprise. All images contain grayscale human face (or sketch). Each image is 224 x 224 pixel grayscale in PNG format.\n\n\n### Acknowledgements\n\nImages are sourced from the internet where they are freely available for download e.g. Google, Unsplash, Flickr etc. \n\n\n### Inspiration\n\nWith a humble purpose to make more annotated data available for use by machine learning based Facial Expression Recognition. There would be a definite scope for improvement in the manual annotation. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

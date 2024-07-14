@@ -1,0 +1,44 @@
+{
+  "id": "omkarborikar/top-10000-popular-movies",
+  "id_no": 1656497,
+  "datasetSlugNullable": "top-10000-popular-movies",
+  "ownerUserNullable": "omkarborikar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 10000 Popular Movies Dataset",
+  "subtitleNullable": "Top 10000 Popular movies based on TMDB ratings",
+  "descriptionNullable": "### Context\n\nRecommendation systems are used everywhere now a days. Netflix , Amazon Prime , YouTube , Online shopping sites etc. Datasets like this are great way to start working on Recommendation system. \nThe Dataset was created from the official API provied by TMDB[](https://www.themoviedb.org/)\n\n### Content\n\nWhat's inside is more than just rows and columns. This is the dataset for 10000 Popular movies based on the TMDB ratings. Ideal database to start off with Recommendation algorithms.\n\n\n| Column Name | Description |\n| --- | --- |\n| id | Every movie has its unique ID. |\n| original_language | There are total 44 languages present in this column. Total 7771 movies with 'English' as original language. Values in this column are ISO 639-1 codes of languages. I.e 'en' for 'English' , 'hi' for 'Hindi' etc. |\n| original_title | Title of the movie. |\n| popularity | Popularity of movie. Bigger the number , higher the popularity. |\n| release_date | Release date of the movie. If release date is not present for any movie , then that movie is not released yet. |\n| vote_average | Average of rating/vote for the movie. |\n| vote_count | Number of ratings/vote recorded for the movie. |\n| genre | Genre of the movie. |\n| overview | Brief description of movie in string format. |\n| revenue | Revenue of Movie |\n| runtime | Runtime of movie in minutes. |\n| tagline | Tagline of the movie |\n\n\n\n# Origin\n\nThe code which was used to extract this dataset can be found here - [Creating Dataset of top 10000 popular movies](https://www.kaggle.com/omkarborikar/creating-dataset-of-top-10000-movies)\n\n# Update\n\nAdded Overview , Revenue , Runtime, tagline column for each movie.\n",
+  "datasetId": 1656497,
+  "datasetSlug": "top-10000-popular-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "omkarborikar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 28788,
+  "totalVotes": 63,
+  "totalDownloads": 4629,
+  "title": "Top 10000 Popular Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Top 10000 Popular movies based on TMDB ratings",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRecommendation systems are used everywhere now a days. Netflix , Amazon Prime , YouTube , Online shopping sites etc. Datasets like this are great way to start working on Recommendation system. \nThe Dataset was created from the official API provied by TMDB[](https://www.themoviedb.org/)\n\n### Content\n\nWhat's inside is more than just rows and columns. This is the dataset for 10000 Popular movies based on the TMDB ratings. Ideal database to start off with Recommendation algorithms.\n\n\n| Column Name | Description |\n| --- | --- |\n| id | Every movie has its unique ID. |\n| original_language | There are total 44 languages present in this column. Total 7771 movies with 'English' as original language. Values in this column are ISO 639-1 codes of languages. I.e 'en' for 'English' , 'hi' for 'Hindi' etc. |\n| original_title | Title of the movie. |\n| popularity | Popularity of movie. Bigger the number , higher the popularity. |\n| release_date | Release date of the movie. If release date is not present for any movie , then that movie is not released yet. |\n| vote_average | Average of rating/vote for the movie. |\n| vote_count | Number of ratings/vote recorded for the movie. |\n| genre | Genre of the movie. |\n| overview | Brief description of movie in string format. |\n| revenue | Revenue of Movie |\n| runtime | Runtime of movie in minutes. |\n| tagline | Tagline of the movie |\n\n\n\n# Origin\n\nThe code which was used to extract this dataset can be found here - [Creating Dataset of top 10000 popular movies](https://www.kaggle.com/omkarborikar/creating-dataset-of-top-10000-movies)\n\n# Update\n\nAdded Overview , Revenue , Runtime, tagline column for each movie.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "beginner",
+    "intermediate",
+    "data analytics",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

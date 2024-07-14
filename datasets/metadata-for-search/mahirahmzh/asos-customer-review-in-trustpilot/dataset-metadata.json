@@ -1,0 +1,42 @@
+{
+  "id": "mahirahmzh/asos-customer-review-in-trustpilot",
+  "id_no": 866585,
+  "datasetSlugNullable": "asos-customer-review-in-trustpilot",
+  "ownerUserNullable": "mahirahmzh",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "ASOS Customer Review",
+  "subtitleNullable": "From Trustpilot Reviews",
+  "descriptionNullable": "### Context\n\nThis is ASOS Customer Review data from Trustpilot.\n\nASOS is a British online fashion and cosmetic retailer. The company was founded in 2000 in London, primarily aimed at young adults. The website sells over 850 brands as well as its own range of clothing and accessories, and ships to all 196 countries from fulfilment  centres in the UK, US and EU.\n\nTrustpilot.com is a Danish consumer review website founded in Denmark in 2007 which hosts reviews of businesses worldwide. Nearly 1 million new reviews are posted each month.\n\n\n### Content\n\nData is collected using DataMiner chrome extension.\nData is retrieved on 14th December 2019\n\n\n### Inspiration\n\nSentiment Analysis can be done to determine whether there are more positive reviews or negative reviews",
+  "datasetId": 866585,
+  "datasetSlug": "asos-customer-review-in-trustpilot",
+  "hasDatasetSlug": true,
+  "ownerUser": "mahirahmzh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 8268,
+  "totalVotes": 8,
+  "totalDownloads": 459,
+  "title": "ASOS Customer Review",
+  "hasTitle": true,
+  "subtitle": "From Trustpilot Reviews",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is ASOS Customer Review data from Trustpilot.\n\nASOS is a British online fashion and cosmetic retailer. The company was founded in 2000 in London, primarily aimed at young adults. The website sells over 850 brands as well as its own range of clothing and accessories, and ships to all 196 countries from fulfilment  centres in the UK, US and EU.\n\nTrustpilot.com is a Danish consumer review website founded in Denmark in 2007 which hosts reviews of businesses worldwide. Nearly 1 million new reviews are posted each month.\n\n\n### Content\n\nData is collected using DataMiner chrome extension.\nData is retrieved on 14th December 2019\n\n\n### Inspiration\n\nSentiment Analysis can be done to determine whether there are more positive reviews or negative reviews",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "software",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

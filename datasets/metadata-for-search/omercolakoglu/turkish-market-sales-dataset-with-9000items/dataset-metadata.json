@@ -1,0 +1,40 @@
+{
+  "id": "omercolakoglu/turkish-market-sales-dataset-with-9000items",
+  "id_no": 912914,
+  "datasetSlugNullable": "turkish-market-sales-dataset-with-9000items",
+  "ownerUserNullable": "omercolakoglu",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Turkish Market Sales Dataset With 9.000+Items ",
+  "subtitleNullable": "Categorized sale data with 50.000+ Customers, 9.000+Items 81 Stores",
+  "descriptionNullable": "### Context\n\nThis dataset contains a supermarket data in Turkish Language. There are more than 600.000 sales rows, contains\n52.000+ unique Turkish customername,gender,age,birthdate etc.\n9.000+ Categorized and subcategorized items with category1,category2,category3,category4\n81 Stores\n1200+ Salesman\nGeographic location information (Latitude, longitude)\nThe data contains 3 month sales.\n\nAll the data was artificial. Sales created randomly according to population of the cities. Also all customernames are artificial too. \n",
+  "datasetId": 912914,
+  "datasetSlug": "turkish-market-sales-dataset-with-9000items",
+  "hasDatasetSlug": true,
+  "ownerUser": "omercolakoglu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 26896,
+  "totalVotes": 260,
+  "totalDownloads": 4735,
+  "title": "Turkish Market Sales Dataset With 9.000+Items ",
+  "hasTitle": true,
+  "subtitle": "Categorized sale data with 50.000+ Customers, 9.000+Items 81 Stores",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains a supermarket data in Turkish Language. There are more than 600.000 sales rows, contains\n52.000+ unique Turkish customername,gender,age,birthdate etc.\n9.000+ Categorized and subcategorized items with category1,category2,category3,category4\n81 Stores\n1200+ Salesman\nGeographic location information (Latitude, longitude)\nThe data contains 3 month sales.\n\nAll the data was artificial. Sales created randomly according to population of the cities. Also all customernames are artificial too. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "marketing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

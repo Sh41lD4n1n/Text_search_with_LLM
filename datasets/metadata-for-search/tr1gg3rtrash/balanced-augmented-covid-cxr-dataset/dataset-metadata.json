@@ -1,0 +1,43 @@
+{
+  "id": "tr1gg3rtrash/balanced-augmented-covid-cxr-dataset",
+  "id_no": 1974019,
+  "datasetSlugNullable": "balanced-augmented-covid-cxr-dataset",
+  "ownerUserNullable": "tr1gg3rtrash",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Balanced Augmented Covid CXR Dataset",
+  "subtitleNullable": "A balanced dataset for training large machine learning CXR models. ",
+  "descriptionNullable": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.\n\nMost people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Older people and those with underlying medical conditions like cardiovascular disease, diabetes, chronic respiratory disease, or cancer are more likely to develop serious illness. . Anyone can get sick with COVID-19 and become seriously ill or die at any age. \n\n## Making of the dataset\n\nWe have used a readily available Chest X-Ray dataset which was very much imbalanced. It was having four classes Covid, Normal, Lung Opacity (LO), and Viral Pneumonia (VP) which had 3616, 10,192, 6012, and 1345 images respectively. We have employed under-sampling (RUS) and over-sampling (or, data-augmentation) by image processing techniques to make the dataset perfectly balanced. The entire scheme is shown in the following figure.\n\n![Illustration image](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4636937%2F22792aa085df2031a5f2b90347ac51a9%2FCapture.PNG?generation=1662563867428011&alt=media)\n\n\nFirst, a novel SVD-based image processing technique is employed for minor classes VP and Covid. This SVD-based image processing technique produces images, that have a little bit of different luminance and contrast. Moreover, CLAHE 0.5 is deployed all over the dataset since it enhances the features from the CXR dataset. We have empirically chosen CLAHE 0.5 and CLAHE 1.0 (for VP) so that there will not be excess contrast enhancement. This is to clarify that we have chosen the numbers 8769, 7662, 8192, and 5410 for Covid, LO, Normal, and VP classes respectively for only training purposes. The testing images are given in different folder which is not pre-processed. \nIn our Augmented CXR dataset, the number of images per class is not exactly the same. Indeed, we have observed that for the Covid class, the statistics of the images are very dissimilar. That means the intra-class variance of the Covid class is considerably higher than other classes. Therefore, the number of such images for the Covid class should be a little bit higher for better convergence of the CNN model. For justification, we utilized a correlation coefficient in order to compute the mean intra-class variance for each class and have found the ratio of the images we have taken in this augmented dataset is very similar to their intra-class variance. Hence, we believe that this augmented dataset is more balanced than the original dataset. \n\n## Acknowledgement\n\nCover Photo by [Umanoide](https://unsplash.com/@umanoide) from [Unsplash](https://unsplash.com/photos/tHS9j3HWT1s)\n\n## Citations\n\nIf you want to use our dataset, please cite our paper -&gt; https://www.sciencedirect.com/science/article/pii/S0010482522008009?via%3Dihub",
+  "datasetId": 1974019,
+  "datasetSlug": "balanced-augmented-covid-cxr-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tr1gg3rtrash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3903,
+  "totalVotes": 29,
+  "totalDownloads": 428,
+  "title": "Balanced Augmented Covid CXR Dataset",
+  "hasTitle": true,
+  "subtitle": "A balanced dataset for training large machine learning CXR models. ",
+  "hasSubtitle": true,
+  "description": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.\n\nMost people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Older people and those with underlying medical conditions like cardiovascular disease, diabetes, chronic respiratory disease, or cancer are more likely to develop serious illness. . Anyone can get sick with COVID-19 and become seriously ill or die at any age. \n\n## Making of the dataset\n\nWe have used a readily available Chest X-Ray dataset which was very much imbalanced. It was having four classes Covid, Normal, Lung Opacity (LO), and Viral Pneumonia (VP) which had 3616, 10,192, 6012, and 1345 images respectively. We have employed under-sampling (RUS) and over-sampling (or, data-augmentation) by image processing techniques to make the dataset perfectly balanced. The entire scheme is shown in the following figure.\n\n![Illustration image](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4636937%2F22792aa085df2031a5f2b90347ac51a9%2FCapture.PNG?generation=1662563867428011&alt=media)\n\n\nFirst, a novel SVD-based image processing technique is employed for minor classes VP and Covid. This SVD-based image processing technique produces images, that have a little bit of different luminance and contrast. Moreover, CLAHE 0.5 is deployed all over the dataset since it enhances the features from the CXR dataset. We have empirically chosen CLAHE 0.5 and CLAHE 1.0 (for VP) so that there will not be excess contrast enhancement. This is to clarify that we have chosen the numbers 8769, 7662, 8192, and 5410 for Covid, LO, Normal, and VP classes respectively for only training purposes. The testing images are given in different folder which is not pre-processed. \nIn our Augmented CXR dataset, the number of images per class is not exactly the same. Indeed, we have observed that for the Covid class, the statistics of the images are very dissimilar. That means the intra-class variance of the Covid class is considerably higher than other classes. Therefore, the number of such images for the Covid class should be a little bit higher for better convergence of the CNN model. For justification, we utilized a correlation coefficient in order to compute the mean intra-class variance for each class and have found the ratio of the images we have taken in this augmented dataset is very similar to their intra-class variance. Hence, we believe that this augmented dataset is more balanced than the original dataset. \n\n## Acknowledgement\n\nCover Photo by [Umanoide](https://unsplash.com/@umanoide) from [Unsplash](https://unsplash.com/photos/tHS9j3HWT1s)\n\n## Citations\n\nIf you want to use our dataset, please cite our paper -&gt; https://www.sciencedirect.com/science/article/pii/S0010482522008009?via%3Dihub",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "advanced",
+    "drugs and medications",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

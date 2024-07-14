@@ -1,0 +1,43 @@
+{
+  "id": "saadharoon27/diwali-sales-dataset",
+  "id_no": 3863007,
+  "datasetSlugNullable": "diwali-sales-dataset",
+  "ownerUserNullable": "saadharoon27",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Diwali Sales Dataset",
+  "subtitleNullable": "Explore the trends: Diwali Sales Dataset",
+  "descriptionNullable": "| **Column Name**       | **Description**                                     |\n|-------------------|-------------------------------------------------|\n| User_ID           | User identification number                     |\n| Cust_name         | Customer name                                   |\n| Product_ID        | Product identification number                  |\n| Gender            | Gender of the customer (e.g., Male, Female)    |\n| Age Group         | Age group of the customer                      |\n| Age               | Age of the customer                            |\n| Marital_Status    | Marital status of the customer (e.g., Married, Single) |\n| State             | State of the customer                          |\n| Zone              | Geographic zone of the customer                |\n| Occupation        | Customer's occupation                          |\n| Product_Category  | Category of the product                        |\n| Orders            | Number of orders made by the customer          |\n| Amount            | Amount spent by the customer                   |\n| Status            | Empty Column |\n| unnamed1          | Empty Column |",
+  "datasetId": 3863007,
+  "datasetSlug": "diwali-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "saadharoon27",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 7111,
+  "totalVotes": 34,
+  "totalDownloads": 1845,
+  "title": "Diwali Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Explore the trends: Diwali Sales Dataset",
+  "hasSubtitle": true,
+  "description": "| **Column Name**       | **Description**                                     |\n|-------------------|-------------------------------------------------|\n| User_ID           | User identification number                     |\n| Cust_name         | Customer name                                   |\n| Product_ID        | Product identification number                  |\n| Gender            | Gender of the customer (e.g., Male, Female)    |\n| Age Group         | Age group of the customer                      |\n| Age               | Age of the customer                            |\n| Marital_Status    | Marital status of the customer (e.g., Married, Single) |\n| State             | State of the customer                          |\n| Zone              | Geographic zone of the customer                |\n| Occupation        | Customer's occupation                          |\n| Product_Category  | Category of the product                        |\n| Orders            | Number of orders made by the customer          |\n| Amount            | Amount spent by the customer                   |\n| Status            | Empty Column |\n| unnamed1          | Empty Column |",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "beginner",
+    "data cleaning",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

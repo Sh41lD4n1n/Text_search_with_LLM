@@ -1,0 +1,42 @@
+{
+  "id": "gauravsahani/timeseries-analysis-for-whether-dataset",
+  "id_no": 948296,
+  "datasetSlugNullable": "timeseries-analysis-for-whether-dataset",
+  "ownerUserNullable": "gauravsahani",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Time-Series Analysis for Whether Dataset",
+  "subtitleNullable": "A excellent dataset to test your time series analysis skills!",
+  "descriptionNullable": "### Context\n\nThis dataset is created to test your amazing Time-Series analysis and modeling Skills! Try experimenting with visualizations, analysis, modeling, predictions, and don't forget to Up-Vote the dataset!\n\n### Content\n\nThis Time-Series dataset contains Date, Temperature, Humidity, Dew-point, and No. of such columns about whether data( Which are Self-Explanatory ).\nFind relations between each parameter, experiment with visualizations, take one of the parameter and work on time-series forecasting skills.\nThe More you explore, the more you learn!\n\nExploring the dataset deeply, you will discover the beauty of nature, the relation of one data point with other, eg. How humidity changes with temperature, Plot amazing plots to show-off your skills!\nThe Dataset has a lot much to Offer!\n\nIf you like this dataset, or if it helped you in any way!\nPlease do Up-Vote!\n\nAnd! Don't forget to share your views in the comment section!\nThank you! :)",
+  "datasetId": 948296,
+  "datasetSlug": "timeseries-analysis-for-whether-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravsahani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 8674,
+  "totalVotes": 37,
+  "totalDownloads": 1217,
+  "title": "Time-Series Analysis for Whether Dataset",
+  "hasTitle": true,
+  "subtitle": "A excellent dataset to test your time series analysis skills!",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is created to test your amazing Time-Series analysis and modeling Skills! Try experimenting with visualizations, analysis, modeling, predictions, and don't forget to Up-Vote the dataset!\n\n### Content\n\nThis Time-Series dataset contains Date, Temperature, Humidity, Dew-point, and No. of such columns about whether data( Which are Self-Explanatory ).\nFind relations between each parameter, experiment with visualizations, take one of the parameter and work on time-series forecasting skills.\nThe More you explore, the more you learn!\n\nExploring the dataset deeply, you will discover the beauty of nature, the relation of one data point with other, eg. How humidity changes with temperature, Plot amazing plots to show-off your skills!\nThe Dataset has a lot much to Offer!\n\nIf you like this dataset, or if it helped you in any way!\nPlease do Up-Vote!\n\nAnd! Don't forget to share your views in the comment section!\nThank you! :)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

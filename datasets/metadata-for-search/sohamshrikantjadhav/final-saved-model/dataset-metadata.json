@@ -1,0 +1,37 @@
+{
+  "id": "sohamshrikantjadhav/final-saved-model",
+  "id_no": 3042895,
+  "datasetSlugNullable": "final-saved-model",
+  "ownerUserNullable": "sohamshrikantjadhav",
+  "usabilityRatingNullable": 0.0,
+  "titleNullable": "Final-Saved-Model",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3042895,
+  "datasetSlug": "final-saved-model",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohamshrikantjadhav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.0,
+  "hasUsabilityRating": true,
+  "totalViews": 90,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Final-Saved-Model",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mustaphaseddoum/england-premier-league-2009-2024",
+  "id_no": 5287789,
+  "datasetSlugNullable": "england-premier-league-2009-2024",
+  "ownerUserNullable": "mustaphaseddoum",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "England Premier League (2008-2024)",
+  "subtitleNullable": "This dataset contains football match data from the English Premier League",
+  "descriptionNullable": "This dataset contains football match data from the English Premier League for the seasons 2008-2024. Each file includes detailed match statistics, including home and away scores, halftime scores, and various other match details.\n",
+  "datasetId": 5287789,
+  "datasetSlug": "england-premier-league-2009-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "mustaphaseddoum",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 20,
+  "totalVotes": 1,
+  "totalDownloads": 9,
+  "title": "England Premier League (2008-2024)",
+  "hasTitle": true,
+  "subtitle": "This dataset contains football match data from the English Premier League",
+  "hasSubtitle": true,
+  "description": "This dataset contains football match data from the English Premier League for the seasons 2008-2024. Each file includes detailed match statistics, including home and away scores, halftime scores, and various other match details.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

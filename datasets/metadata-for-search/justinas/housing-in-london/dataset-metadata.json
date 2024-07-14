@@ -1,0 +1,43 @@
+{
+  "id": "justinas/housing-in-london",
+  "id_no": 619175,
+  "datasetSlugNullable": "housing-in-london",
+  "ownerUserNullable": "justinas",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Housing in London",
+  "subtitleNullable": "Historical prices, sales, crimes, resident satisfaction and salaries by borough",
+  "descriptionNullable": "***Update 29-04-2020:*** The data is now split into two files based on the variable collection frequency (monthly and yearly). Additional variables added: area size in hectares, number of jobs in the area, number of people living in the area.\n\n### Context\nI have been inspired by [Xavier](https://www.kaggle.com/xvivancos) and his work on [Barcelona](https://www.kaggle.com/xvivancos/discovering-barcelona-part-i) to explore the city of London! \ud83c\uddec\ud83c\udde7 \ud83d\udc82\n\n### Content\nThe datasets is primarily centered around the housing market of London. However, it contains a lot of additional relevant data: \n- Monthly average house prices\n- Yearly number of houses\n- Yearly number of houses sold\n- Yearly percentage of households that recycle\n- Yearly life satisfaction\n- Yearly median salary of the residents of the area \n- Yearly mean salary of the residents of the area \n- Monthly number of crimes committed \n- Yearly number of jobs\n- Yearly number of people living in the area\n- Area size in hectares \n\nThe data is split by areas of London called boroughs (a flag exists to identify these), but some of the variables have other geographical UK regions for reference (like England, North East, etc.). There have been no changes made to the data except for melting it into a long format from the original tables. \n\n### Acknowledgements\nThe data has been extracted from [London Datastore](https://data.london.gov.uk/). It is released under [UK Open Government License v2 and v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). The underlining datasets can be found here:\nhttps://data.london.gov.uk/dataset/uk-house-price-index\nhttps://data.london.gov.uk/dataset/number-and-density-of-dwellings-by-borough\nhttps://data.london.gov.uk/dataset/subjective-personal-well-being-borough\nhttps://data.london.gov.uk/dataset/household-waste-recycling-rates-borough\nhttps://data.london.gov.uk/dataset/earnings-place-residence-borough\nhttps://data.london.gov.uk/dataset/recorded_crime_summary\nhttps://data.london.gov.uk/dataset/jobs-and-job-density-borough\nhttps://data.london.gov.uk/dataset/ons-mid-year-population-estimates-custom-age-tables\n\nCover photo by [Frans Ruiter](https://unsplash.com/@frns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) from [Unsplash](https://unsplash.com/)\n\n### Inspiration\nThe dataset lends itself for extensive exploratory data analysis. It could also be a great supervised learning regression problem to predict house price changes of different boroughs over time.",
+  "datasetId": 619175,
+  "datasetSlug": "housing-in-london",
+  "hasDatasetSlug": true,
+  "ownerUser": "justinas",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 101685,
+  "totalVotes": 239,
+  "totalDownloads": 15551,
+  "title": "Housing in London",
+  "hasTitle": true,
+  "subtitle": "Historical prices, sales, crimes, resident satisfaction and salaries by borough",
+  "hasSubtitle": true,
+  "description": "***Update 29-04-2020:*** The data is now split into two files based on the variable collection frequency (monthly and yearly). Additional variables added: area size in hectares, number of jobs in the area, number of people living in the area.\n\n### Context\nI have been inspired by [Xavier](https://www.kaggle.com/xvivancos) and his work on [Barcelona](https://www.kaggle.com/xvivancos/discovering-barcelona-part-i) to explore the city of London! \ud83c\uddec\ud83c\udde7 \ud83d\udc82\n\n### Content\nThe datasets is primarily centered around the housing market of London. However, it contains a lot of additional relevant data: \n- Monthly average house prices\n- Yearly number of houses\n- Yearly number of houses sold\n- Yearly percentage of households that recycle\n- Yearly life satisfaction\n- Yearly median salary of the residents of the area \n- Yearly mean salary of the residents of the area \n- Monthly number of crimes committed \n- Yearly number of jobs\n- Yearly number of people living in the area\n- Area size in hectares \n\nThe data is split by areas of London called boroughs (a flag exists to identify these), but some of the variables have other geographical UK regions for reference (like England, North East, etc.). There have been no changes made to the data except for melting it into a long format from the original tables. \n\n### Acknowledgements\nThe data has been extracted from [London Datastore](https://data.london.gov.uk/). It is released under [UK Open Government License v2 and v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). The underlining datasets can be found here:\nhttps://data.london.gov.uk/dataset/uk-house-price-index\nhttps://data.london.gov.uk/dataset/number-and-density-of-dwellings-by-borough\nhttps://data.london.gov.uk/dataset/subjective-personal-well-being-borough\nhttps://data.london.gov.uk/dataset/household-waste-recycling-rates-borough\nhttps://data.london.gov.uk/dataset/earnings-place-residence-borough\nhttps://data.london.gov.uk/dataset/recorded_crime_summary\nhttps://data.london.gov.uk/dataset/jobs-and-job-density-borough\nhttps://data.london.gov.uk/dataset/ons-mid-year-population-estimates-custom-age-tables\n\nCover photo by [Frans Ruiter](https://unsplash.com/@frns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) from [Unsplash](https://unsplash.com/)\n\n### Inspiration\nThe dataset lends itself for extensive exploratory data analysis. It could also be a great supervised learning regression problem to predict house price changes of different boroughs over time.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "housing",
+    "real estate",
+    "social science",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

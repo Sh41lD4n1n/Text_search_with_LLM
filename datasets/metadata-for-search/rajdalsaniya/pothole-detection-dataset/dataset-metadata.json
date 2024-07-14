@@ -1,0 +1,42 @@
+{
+  "id": "rajdalsaniya/pothole-detection-dataset",
+  "id_no": 2759924,
+  "datasetSlugNullable": "pothole-detection-dataset",
+  "ownerUserNullable": "rajdalsaniya",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pothole Detection Dataset",
+  "subtitleNullable": "Detect Pothole On Road",
+  "descriptionNullable": "# **Build an AI model to save lives**\n\nBuild a computer vision-based technology to process and detect the potholes present in an image.\n\n\n# **Problem Statement**\n        Over the past few years, Sihao has seen exponential growth in the number of vehicles on the road. As a  result, the increase in the number of vehicles on road gave rise to the number of road accidents. According to a study, one fatal road accident occurs every 5 minutes in the country, and 8 die on roads every hour. This has become a major concern in the country. One of the primary causes of these road accidents is the management and maintenance of the roads.\n        \n      Potholes on roads can cause serious accidents, and any vehicle traveling at some decent speed can lose its track due to them. In the case of four-wheeler vehicles, potholes can cause severe damage to wheels and tires. More specifically, when it comes to two-wheelers like motorbikes, these vehicles are more prone to accidents due to potholes as the tendency to cause imbalance is very high and can lead to fatalities.\n\n      Concerned by the increasing number of accidents caused by potholes, the government of Sihao has started initiatives and campaigns to install cameras in the most accident-prone cities and capture the feed to detect the potholes. In this hackathon, as a Computer Vision Learner or Expert, you will apply image processing techniques to process the images and detect the potholes. This will assist the government to identify the extreme potholes depending on their size and handle them as the earliest.\n\n# **About the Dataset**\n        You are provided with the sample dataset  An image can contain single/multiple potholes or no potholes. The dataset includes images with different scales, backgrounds, and weather conditions. As a part of model building, you need to tackle these challenges.\n\n\n**Dataset Credit** : Analytic Vidhya ( https://datahack.analyticsvidhya.com/contest/dataverse-hack/) ",
+  "datasetId": 2759924,
+  "datasetSlug": "pothole-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajdalsaniya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 12970,
+  "totalVotes": 36,
+  "totalDownloads": 1432,
+  "title": "Pothole Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Detect Pothole On Road",
+  "hasSubtitle": true,
+  "description": "# **Build an AI model to save lives**\n\nBuild a computer vision-based technology to process and detect the potholes present in an image.\n\n\n# **Problem Statement**\n        Over the past few years, Sihao has seen exponential growth in the number of vehicles on the road. As a  result, the increase in the number of vehicles on road gave rise to the number of road accidents. According to a study, one fatal road accident occurs every 5 minutes in the country, and 8 die on roads every hour. This has become a major concern in the country. One of the primary causes of these road accidents is the management and maintenance of the roads.\n        \n      Potholes on roads can cause serious accidents, and any vehicle traveling at some decent speed can lose its track due to them. In the case of four-wheeler vehicles, potholes can cause severe damage to wheels and tires. More specifically, when it comes to two-wheelers like motorbikes, these vehicles are more prone to accidents due to potholes as the tendency to cause imbalance is very high and can lead to fatalities.\n\n      Concerned by the increasing number of accidents caused by potholes, the government of Sihao has started initiatives and campaigns to install cameras in the most accident-prone cities and capture the feed to detect the potholes. In this hackathon, as a Computer Vision Learner or Expert, you will apply image processing techniques to process the images and detect the potholes. This will assist the government to identify the extreme potholes depending on their size and handle them as the earliest.\n\n# **About the Dataset**\n        You are provided with the sample dataset  An image can contain single/multiple potholes or no potholes. The dataset includes images with different scales, backgrounds, and weather conditions. As a part of model building, you need to tackle these challenges.\n\n\n**Dataset Credit** : Analytic Vidhya ( https://datahack.analyticsvidhya.com/contest/dataverse-hack/) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "computer vision",
+    "image",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

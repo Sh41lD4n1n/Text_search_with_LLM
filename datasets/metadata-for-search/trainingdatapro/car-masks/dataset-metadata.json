@@ -1,0 +1,42 @@
+{
+  "id": "trainingdatapro/car-masks",
+  "id_no": 2877164,
+  "datasetSlugNullable": "car-masks",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Vehicle dataset - Images & Segmentation ",
+  "subtitleNullable": "Car images with corresponding segmentation masks - vehicle dataset",
+  "descriptionNullable": "# Car Semantic Segmentation Vehicle dataset\nThe dataset consists of a collection of car photos that have been manually annotated with masks. Each mask uses special colors to clearly mark the boundaries of different regions in the image.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** to buy the datase\n\n## DATASETS WITH VEHICLES :\n- **[License Plates - 1 209 438 OCR Plates](https://www.kaggle.com/datasets/trainingdatapro/license-plates-1-209-438-ocr-plates)**\n- **[Road Segmentation Dataset](https://www.kaggle.com/datasets/trainingdatapro/roads-segmentation-dataset)**\n- **[Car Object Detection & Tracking](https://www.kaggle.com/datasets/trainingdatapro/cars-video-object-tracking)**\n- **[Parking Space Detection & Classification Dataset](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset)**\n- **[Videos around cars](https://www.kaggle.com/datasets/tapakah68/videos-around-cars)**\n\n# Car Photos \nThe car images were collected in-house on city streets in clear weather conditions, with natural shooting angles. The dataset includes both passenger cars and commercial vehicles.\n\nWe at **[TrainingData](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** offer image collection services tailored to your specific needs, delivering tens of thousands of images within a short time.\n\n# Semantic Segmentation\nThe masks represent a semantic segmentation of car photos. The following parts of the car are highlighted on the masks:\n- bumper\n- fog lights\n- radiator\n- license plate\n- door handle\n- and others. \n\nThe complete list of highlighted elements and the assigned colors of the car are available in the `masks_info.csv` file.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** to discuss your requirements, learn about the price and buy the dataset\n\n**[TrainingData](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** also provides high-quality data annotation tailored to your needs.\n\n*keywords: vehicle segmentation dataset, semantic segmentation for self driving cars, self driving cars dataset, semantic segmentation for autonomous driving, car segmentation dataset, car dataset, car images, car parts segmentation, self-driving cars deep learning*\n",
+  "datasetId": 2877164,
+  "datasetSlug": "car-masks",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4509,
+  "totalVotes": 10,
+  "totalDownloads": 344,
+  "title": "Vehicle dataset - Images & Segmentation ",
+  "hasTitle": true,
+  "subtitle": "Car images with corresponding segmentation masks - vehicle dataset",
+  "hasSubtitle": true,
+  "description": "# Car Semantic Segmentation Vehicle dataset\nThe dataset consists of a collection of car photos that have been manually annotated with masks. Each mask uses special colors to clearly mark the boundaries of different regions in the image.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** to buy the datase\n\n## DATASETS WITH VEHICLES :\n- **[License Plates - 1 209 438 OCR Plates](https://www.kaggle.com/datasets/trainingdatapro/license-plates-1-209-438-ocr-plates)**\n- **[Road Segmentation Dataset](https://www.kaggle.com/datasets/trainingdatapro/roads-segmentation-dataset)**\n- **[Car Object Detection & Tracking](https://www.kaggle.com/datasets/trainingdatapro/cars-video-object-tracking)**\n- **[Parking Space Detection & Classification Dataset](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset)**\n- **[Videos around cars](https://www.kaggle.com/datasets/tapakah68/videos-around-cars)**\n\n# Car Photos \nThe car images were collected in-house on city streets in clear weather conditions, with natural shooting angles. The dataset includes both passenger cars and commercial vehicles.\n\nWe at **[TrainingData](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** offer image collection services tailored to your specific needs, delivering tens of thousands of images within a short time.\n\n# Semantic Segmentation\nThe masks represent a semantic segmentation of car photos. The following parts of the car are highlighted on the masks:\n- bumper\n- fog lights\n- radiator\n- license plate\n- door handle\n- and others. \n\nThe complete list of highlighted elements and the assigned colors of the car are available in the `masks_info.csv` file.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** to discuss your requirements, learn about the price and buy the dataset\n\n**[TrainingData](https://trainingdata.pro/datasets/car-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=car-masks)** also provides high-quality data annotation tailored to your needs.\n\n*keywords: vehicle segmentation dataset, semantic segmentation for self driving cars, self driving cars dataset, semantic segmentation for autonomous driving, car segmentation dataset, car dataset, car images, car parts segmentation, self-driving cars deep learning*\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "image",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

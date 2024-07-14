@@ -1,0 +1,44 @@
+{
+  "id": "jarvis11/text-dataset-for-text-emotion-detection",
+  "id_no": 2335145,
+  "datasetSlugNullable": "text-dataset-for-text-emotion-detection",
+  "ownerUserNullable": "jarvis11",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Text Dataset for Text Emotion Detection",
+  "subtitleNullable": "text data for emotion detection.",
+  "descriptionNullable": "text data which has two coloumn. the one having an indexed list and the second with the text. we can perform various classification algorithms on it.                     ",
+  "datasetId": 2335145,
+  "datasetSlug": "text-dataset-for-text-emotion-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "jarvis11",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5917,
+  "totalVotes": 13,
+  "totalDownloads": 964,
+  "title": "Text Dataset for Text Emotion Detection",
+  "hasTitle": true,
+  "subtitle": "text data for emotion detection.",
+  "hasSubtitle": true,
+  "description": "text data which has two coloumn. the one having an indexed list and the second with the text. we can perform various classification algorithms on it.                     ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "beginner",
+    "text",
+    "email and messaging",
+    "randomForest",
+    "re"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

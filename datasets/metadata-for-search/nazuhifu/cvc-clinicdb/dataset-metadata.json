@@ -1,0 +1,39 @@
+{
+  "id": "nazuhifu/cvc-clinicdb",
+  "id_no": 5060744,
+  "datasetSlugNullable": "cvc-clinicdb",
+  "ownerUserNullable": "nazuhifu",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "CVC-ClinicDB Datasets",
+  "subtitleNullable": "Datasets from https://polyp.grand-challenge.org/CVCClinicDB/",
+  "descriptionNullable": "CVC-ClinicDB database consists of two different types of images:\n1) Original images: original/frame_number.tiff\n2) Polyp mask: ground truth/frame_number.tiff\n\nCVC-ClinicDB is the official database to be used in the training stages of MICCAI 2015 Sub-Challenge on Automatic Polyp Detection Challenge in Colonoscopy Videos .\n\n**Download link**\nYou can download CVC-ClinicDB database from the following link: CVC-ClinicDB.rar\n\n**Copyright**\nImages from folder \u2018Original\u2019 are property of Hospital Clinic, Barcelona, Spain\nImages from folder \u2018Ground Truth\u2019 are propery of Computer Vision Center, Barcelona, Spain\n\n**Referencing**\nThe use of this database is completely restricted for research and educational purposes. The use of this database is forbidden for commercial purposes.\n\nIf you use this database for your experiments please include the following reference:\n\nBernal, J., S\u00e1nchez, F. J., Fern\u00e1ndez-Esparrach, G., Gil, D., Rodr\u00edguez, C., & Vilari\u00f1o, F. (2015). WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians. Computerized Medical Imaging and Graphics, 43, 99-111 .",
+  "datasetId": 5060744,
+  "datasetSlug": "cvc-clinicdb",
+  "hasDatasetSlug": true,
+  "ownerUser": "nazuhifu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 16,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "CVC-ClinicDB Datasets",
+  "hasTitle": true,
+  "subtitle": "Datasets from https://polyp.grand-challenge.org/CVCClinicDB/",
+  "hasSubtitle": true,
+  "description": "CVC-ClinicDB database consists of two different types of images:\n1) Original images: original/frame_number.tiff\n2) Polyp mask: ground truth/frame_number.tiff\n\nCVC-ClinicDB is the official database to be used in the training stages of MICCAI 2015 Sub-Challenge on Automatic Polyp Detection Challenge in Colonoscopy Videos .\n\n**Download link**\nYou can download CVC-ClinicDB database from the following link: CVC-ClinicDB.rar\n\n**Copyright**\nImages from folder \u2018Original\u2019 are property of Hospital Clinic, Barcelona, Spain\nImages from folder \u2018Ground Truth\u2019 are propery of Computer Vision Center, Barcelona, Spain\n\n**Referencing**\nThe use of this database is completely restricted for research and educational purposes. The use of this database is forbidden for commercial purposes.\n\nIf you use this database for your experiments please include the following reference:\n\nBernal, J., S\u00e1nchez, F. J., Fern\u00e1ndez-Esparrach, G., Gil, D., Rodr\u00edguez, C., & Vilari\u00f1o, F. (2015). WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians. Computerized Medical Imaging and Graphics, 43, 99-111 .",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

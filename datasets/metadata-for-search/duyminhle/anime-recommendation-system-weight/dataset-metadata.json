@@ -1,0 +1,37 @@
+{
+  "id": "duyminhle/anime-recommendation-system-weight",
+  "id_no": 4758779,
+  "datasetSlugNullable": "anime-recommendation-system-weight",
+  "ownerUserNullable": "duyminhle",
+  "usabilityRatingNullable": 0.0,
+  "titleNullable": "anime_recommendation_system_weight",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4758779,
+  "datasetSlug": "anime-recommendation-system-weight",
+  "hasDatasetSlug": true,
+  "ownerUser": "duyminhle",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 0,
+  "totalDownloads": 30,
+  "title": "anime_recommendation_system_weight",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

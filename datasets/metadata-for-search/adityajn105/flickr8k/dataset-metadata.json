@@ -1,0 +1,40 @@
+{
+  "id": "adityajn105/flickr8k",
+  "id_no": 623289,
+  "datasetSlugNullable": "flickr8k",
+  "ownerUserNullable": "adityajn105",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Flickr 8k Dataset",
+  "subtitleNullable": "Flickr8k Dataset for image captioning.",
+  "descriptionNullable": "### Context\n\nA new benchmark collection for sentence-based image description and search, consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events. \u2026 The images were chosen from six different Flickr groups, and tend not to contain any well-known people or locations, but were manually selected to depict a variety of scenes and situations\n\n### Content66\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 623289,
+  "datasetSlug": "flickr8k",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityajn105",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 243505,
+  "totalVotes": 384,
+  "totalDownloads": 77349,
+  "title": "Flickr 8k Dataset",
+  "hasTitle": true,
+  "subtitle": "Flickr8k Dataset for image captioning.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA new benchmark collection for sentence-based image description and search, consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events. \u2026 The images were chosen from six different Flickr groups, and tend not to contain any well-known people or locations, but were manually selected to depict a variety of scenes and situations\n\n### Content66\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

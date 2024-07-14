@@ -1,0 +1,40 @@
+{
+  "id": "viniciuscleves/irony-and-sarcasm-in-brazilian-portuguese",
+  "id_no": 1223249,
+  "datasetSlugNullable": "irony-and-sarcasm-in-brazilian-portuguese",
+  "ownerUserNullable": "viniciuscleves",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Irony in Brazilian Portuguese Tweets",
+  "subtitleNullable": "Irony and Sarcasm Detection in Brazilian Portuguese Tweets",
+  "descriptionNullable": "### About\nThis dataset is a clone from the original data available at https://github.com/fabio-ricardo/deteccao-ironia in Mar. 20, 2021.\n\n\n### Acknowledgements\nCredits to original authors: Fabio Ricardo Araujo da Silva and Andreia Gentil Bonfante\n\n### License\nThis data is released under [MIT License](https://github.com/fabio-ricardo/deteccao-ironia/blob/master/LICENSE)\n\n",
+  "datasetId": 1223249,
+  "datasetSlug": "irony-and-sarcasm-in-brazilian-portuguese",
+  "hasDatasetSlug": true,
+  "ownerUser": "viniciuscleves",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2213,
+  "totalVotes": 1,
+  "totalDownloads": 63,
+  "title": "Irony in Brazilian Portuguese Tweets",
+  "hasTitle": true,
+  "subtitle": "Irony and Sarcasm Detection in Brazilian Portuguese Tweets",
+  "hasSubtitle": true,
+  "description": "### About\nThis dataset is a clone from the original data available at https://github.com/fabio-ricardo/deteccao-ironia in Mar. 20, 2021.\n\n\n### Acknowledgements\nCredits to original authors: Fabio Ricardo Araujo da Silva and Andreia Gentil Bonfante\n\n### License\nThis data is released under [MIT License](https://github.com/fabio-ricardo/deteccao-ironia/blob/master/LICENSE)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "niharika41298/withwithout-mask",
+  "id_no": 612927,
+  "datasetSlugNullable": "withwithout-mask",
+  "ownerUserNullable": "niharika41298",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "With/Without Mask",
+  "subtitleNullable": "Mask Detection for COVID-19",
+  "descriptionNullable": "### Context\n\nQuarantine really made things hard for us. And with the increase in corona virus cases all over the world, masks have become necessary or rather compulsory. These images can help in various projects like mask detectors, classifier or real-time camera applications.\n\n### Content\n\nThere are two folders in the maskdata folder. One folder contains a mixture of images for training and the other for testing.",
+  "datasetId": 612927,
+  "datasetSlug": "withwithout-mask",
+  "hasDatasetSlug": true,
+  "ownerUser": "niharika41298",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 18384,
+  "totalVotes": 55,
+  "totalDownloads": 2442,
+  "title": "With/Without Mask",
+  "hasTitle": true,
+  "subtitle": "Mask Detection for COVID-19",
+  "hasSubtitle": true,
+  "description": "### Context\n\nQuarantine really made things hard for us. And with the increase in corona virus cases all over the world, masks have become necessary or rather compulsory. These images can help in various projects like mask detectors, classifier or real-time camera applications.\n\n### Content\n\nThere are two folders in the maskdata folder. One folder contains a mixture of images for training and the other for testing.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "health",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

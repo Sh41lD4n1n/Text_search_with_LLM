@@ -1,0 +1,39 @@
+{
+  "id": "usernam3/shopify-app-store",
+  "id_no": 98316,
+  "datasetSlugNullable": "shopify-app-store",
+  "ownerUserNullable": "usernam3",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Shopify app store",
+  "subtitleNullable": "Web scraped data of apps and reviews (from shopify apps marketplace)",
+  "descriptionNullable": "### Context\n\nAfter returning to this data a few times I realized that there is no comma-separated and publicly accessible dataset of the Shopify apps marketplace.\n\n\n### Content\n\nThe dataset includes information about Shopify app store apps (created by developers) and reviews (published by shops). The dataset is regularly updated but to get the latest data the [Shopify App store scraper](https://github.com/usernam3/shopify-app-store-scraper) can be used directly.\n\n\n### Acknowledgements\n\nTo prepare this dataset the following tools were used :\n\n- [scrapy - python framework to build web crawlers](https://scrapy.org/)\n- [requests - user-friendly http requests](http://docs.python-requests.org/en/master/)\n\n\n### Inspiration\n\nThe Shopify apps marketplace is the source of valuable information on how online shop owners interact with apps and what features they need.\nDataset can be used in multiple ways. From the monitoring of the customer satisfaction index of existing apps to niche analysis before starting a new app.",
+  "datasetId": 98316,
+  "datasetSlug": "shopify-app-store",
+  "hasDatasetSlug": true,
+  "ownerUser": "usernam3",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 62963,
+  "totalVotes": 145,
+  "totalDownloads": 5937,
+  "title": "Shopify app store",
+  "hasTitle": true,
+  "subtitle": "Web scraped data of apps and reviews (from shopify apps marketplace)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAfter returning to this data a few times I realized that there is no comma-separated and publicly accessible dataset of the Shopify apps marketplace.\n\n\n### Content\n\nThe dataset includes information about Shopify app store apps (created by developers) and reviews (published by shops). The dataset is regularly updated but to get the latest data the [Shopify App store scraper](https://github.com/usernam3/shopify-app-store-scraper) can be used directly.\n\n\n### Acknowledgements\n\nTo prepare this dataset the following tools were used :\n\n- [scrapy - python framework to build web crawlers](https://scrapy.org/)\n- [requests - user-friendly http requests](http://docs.python-requests.org/en/master/)\n\n\n### Inspiration\n\nThe Shopify apps marketplace is the source of valuable information on how online shop owners interact with apps and what features they need.\nDataset can be used in multiple ways. From the monitoring of the customer satisfaction index of existing apps to niche analysis before starting a new app.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

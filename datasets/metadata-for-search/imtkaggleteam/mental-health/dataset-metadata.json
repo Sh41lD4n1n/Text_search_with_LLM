@@ -1,0 +1,39 @@
+{
+  "id": "imtkaggleteam/mental-health",
+  "id_no": 3559763,
+  "datasetSlugNullable": "mental-health",
+  "ownerUserNullable": "imtkaggleteam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mental Health",
+  "subtitleNullable": "Mental health is an essential part of people\u2019s lives and society.",
+  "descriptionNullable": "Mental health is an essential part of people\u2019s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.\n\nMental health conditions are not uncommon. Hundreds of millions suffer from them yearly, and many more do over their lifetimes. It\u2019s estimated that 1 in 3 women and 1 in 5 men will experience major depression in their lives. Other conditions, such as schizophrenia and bipolar disorder, are less common but still have a large impact on people\u2019s lives.\n\n**Mental health data based on surveys**\nAside from the formal diagnoses, mental illnesses can be measured using surveys and screening questionnaires.\nThese tend to ask people about symptoms similar to those in diagnostic manuals, but they can be used more easily and widely because the data does not need to be collected by a healthcare professional.\n\n**What are the strengths and limitations of survey data?**\nStrengths of survey data\nSurvey data on mental health has two major strengths.\nFirst, it involves structured interviews \u2013 people are asked a consistent set of questions regardless of their interviewer. This helps to ensure the data is more comparable between interviewers and across time.12\nSecond, surveys include a much wider range of people in the population, including those who would not seek treatment due to a lack of awareness, costs, or other concerns.\n\nLimitations of survey data\n\nThere are also several limitations of survey data to keep in mind.\nOne is that people may not share their symptoms in surveys, as they may not feel comfortable sharing them with researchers. Along with this, people\u2019s comfort in sharing mental health symptoms may vary between countries and over time.16\nAnother limitation is that people may not remember their symptoms, especially when they are asked to recall symptoms in their lifetime so far. This can be challenging for older people whose symptoms may have occurred decades ago.\n\nBy Saloni Dattani",
+  "datasetId": 3559763,
+  "datasetSlug": "mental-health",
+  "hasDatasetSlug": true,
+  "ownerUser": "imtkaggleteam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29889,
+  "totalVotes": 175,
+  "totalDownloads": 6772,
+  "title": "Mental Health",
+  "hasTitle": true,
+  "subtitle": "Mental health is an essential part of people\u2019s lives and society.",
+  "hasSubtitle": true,
+  "description": "Mental health is an essential part of people\u2019s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.\n\nMental health conditions are not uncommon. Hundreds of millions suffer from them yearly, and many more do over their lifetimes. It\u2019s estimated that 1 in 3 women and 1 in 5 men will experience major depression in their lives. Other conditions, such as schizophrenia and bipolar disorder, are less common but still have a large impact on people\u2019s lives.\n\n**Mental health data based on surveys**\nAside from the formal diagnoses, mental illnesses can be measured using surveys and screening questionnaires.\nThese tend to ask people about symptoms similar to those in diagnostic manuals, but they can be used more easily and widely because the data does not need to be collected by a healthcare professional.\n\n**What are the strengths and limitations of survey data?**\nStrengths of survey data\nSurvey data on mental health has two major strengths.\nFirst, it involves structured interviews \u2013 people are asked a consistent set of questions regardless of their interviewer. This helps to ensure the data is more comparable between interviewers and across time.12\nSecond, surveys include a much wider range of people in the population, including those who would not seek treatment due to a lack of awareness, costs, or other concerns.\n\nLimitations of survey data\n\nThere are also several limitations of survey data to keep in mind.\nOne is that people may not share their symptoms in surveys, as they may not feel comfortable sharing them with researchers. Along with this, people\u2019s comfort in sharing mental health symptoms may vary between countries and over time.16\nAnother limitation is that people may not remember their symptoms, especially when they are asked to recall symptoms in their lifetime so far. This can be challenging for older people whose symptoms may have occurred decades ago.\n\nBy Saloni Dattani",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

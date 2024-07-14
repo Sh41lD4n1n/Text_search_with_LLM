@@ -1,0 +1,43 @@
+{
+  "id": "boukraailyesali/traffic-road-object-detection-dataset-using-yolo",
+  "id_no": 3967447,
+  "datasetSlugNullable": "traffic-road-object-detection-dataset-using-yolo",
+  "ownerUserNullable": "boukraailyesali",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Traffic Road Object Detection Dataset using YOLO.",
+  "subtitleNullable": "Using Yolo for Object Detection.",
+  "descriptionNullable": "**Dataset Description: Car Object Detection in Road Traffic**\n\n**Overview:**\n\nThis dataset is designed for car object detection in road traffic scenes (Images with shape 1080x1920x3). The dataset is derived from publicly available video content on YouTube, specifically from the video with the Creative Commons Attribution license, available [here](https://youtu.be/MNn9qKG2UFI?si=uJz_WicTCl8zfrVl).\n![youtube video](https://youtu.be/MNn9qKG2UFI?si=uJz_WicTCl8zfrVl)\n\n**Source:**\n\n- Video Source: YouTube Video.\n- License: Creative Commons Attribution (reuse allowed) more details [here](https://support.google.com/youtube/answer/2797468).\n- Dataset Contents:\nThe dataset consists of a collection of image frames extracted from the video. Each image frame captures various scenes from road traffic. Car objects within these frames are annotated with bounding boxes.\n\n**Annotation Details:**\n\n- Bounding Boxes: Each image frame contains annotated bounding boxes around car objects, marking their locations in the scene.\n- Classes: The dataset is focused on car object detection, and car objects are labeled as the target class (aka one class only).\n- Data Format: Images are provided in JPEG format.\n- Annotation files are provided in YOLO text format.\n- We used **labelImg** GUI to label this dataset in YOLO format, more details are in this [GitHub repo](https://github.com/HumanSignal/labelImg).\n\n**Use Cases:**\n\n- Object Detection: This dataset can be used to train and evaluate object detection models, with an emphasis on detecting cars in road traffic scenarios.\n\n**Acknowledgments:**\nWe acknowledge and thank the creator of the original video for making it available under a Creative Commons Attribution license. Their contribution enables the development of datasets and research in the field of computer vision and object detection.\n\n**Disclaimer:**\nThis dataset is provided for educational and research purposes and should be used in compliance with YouTube's terms of service and the Creative Commons Attribution license.",
+  "datasetId": 3967447,
+  "datasetSlug": "traffic-road-object-detection-dataset-using-yolo",
+  "hasDatasetSlug": true,
+  "ownerUser": "boukraailyesali",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6980,
+  "totalVotes": 37,
+  "totalDownloads": 873,
+  "title": "Traffic Road Object Detection Dataset using YOLO.",
+  "hasTitle": true,
+  "subtitle": "Using Yolo for Object Detection.",
+  "hasSubtitle": true,
+  "description": "**Dataset Description: Car Object Detection in Road Traffic**\n\n**Overview:**\n\nThis dataset is designed for car object detection in road traffic scenes (Images with shape 1080x1920x3). The dataset is derived from publicly available video content on YouTube, specifically from the video with the Creative Commons Attribution license, available [here](https://youtu.be/MNn9qKG2UFI?si=uJz_WicTCl8zfrVl).\n![youtube video](https://youtu.be/MNn9qKG2UFI?si=uJz_WicTCl8zfrVl)\n\n**Source:**\n\n- Video Source: YouTube Video.\n- License: Creative Commons Attribution (reuse allowed) more details [here](https://support.google.com/youtube/answer/2797468).\n- Dataset Contents:\nThe dataset consists of a collection of image frames extracted from the video. Each image frame captures various scenes from road traffic. Car objects within these frames are annotated with bounding boxes.\n\n**Annotation Details:**\n\n- Bounding Boxes: Each image frame contains annotated bounding boxes around car objects, marking their locations in the scene.\n- Classes: The dataset is focused on car object detection, and car objects are labeled as the target class (aka one class only).\n- Data Format: Images are provided in JPEG format.\n- Annotation files are provided in YOLO text format.\n- We used **labelImg** GUI to label this dataset in YOLO format, more details are in this [GitHub repo](https://github.com/HumanSignal/labelImg).\n\n**Use Cases:**\n\n- Object Detection: This dataset can be used to train and evaluate object detection models, with an emphasis on detecting cars in road traffic scenarios.\n\n**Acknowledgments:**\nWe acknowledge and thank the creator of the original video for making it available under a Creative Commons Attribution license. Their contribution enables the development of datasets and research in the field of computer vision and object detection.\n\n**Disclaimer:**\nThis dataset is provided for educational and research purposes and should be used in compliance with YouTube's terms of service and the Creative Commons Attribution license.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "software",
+    "image",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

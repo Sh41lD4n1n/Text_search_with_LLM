@@ -1,0 +1,37 @@
+{
+  "id": "sharmagarvit/sign-language-recognition-dataset",
+  "id_no": 3854166,
+  "datasetSlugNullable": "sign-language-recognition-dataset",
+  "ownerUserNullable": "sharmagarvit",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Sign Language Recognition Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "The Hand Sign Recognition Image Dataset is a rich collection of high-quality images featuring diverse **single-hand signs**. With comprehensive coverage, annotations, and multi-modal data, it's an ideal resource for developing sign language recognition models. Whether for sign language translation or gesture-based interaction, this dataset supports a range of applications and is ready for machine learning integration.",
+  "datasetId": 3854166,
+  "datasetSlug": "sign-language-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sharmagarvit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 216,
+  "totalVotes": 6,
+  "totalDownloads": 16,
+  "title": "Sign Language Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The Hand Sign Recognition Image Dataset is a rich collection of high-quality images featuring diverse **single-hand signs**. With comprehensive coverage, annotations, and multi-modal data, it's an ideal resource for developing sign language recognition models. Whether for sign language translation or gesture-based interaction, this dataset supports a range of applications and is ready for machine learning integration.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

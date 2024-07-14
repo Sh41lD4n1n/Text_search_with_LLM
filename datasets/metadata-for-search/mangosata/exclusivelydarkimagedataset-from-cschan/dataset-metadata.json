@@ -1,0 +1,39 @@
+{
+  "id": "mangosata/exclusivelydarkimagedataset-from-cschan",
+  "id_no": 415635,
+  "datasetSlugNullable": "exclusivelydarkimagedataset-from-cschan",
+  "ownerUserNullable": "mangosata",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Exclusively-Dark-Image-Dataset From cs-chan",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThis is a dataset from Yuen Peng Loh and Chee Seng Chan. Here is the paper (https://arxiv.org/abs/1805.11227). It is a dataset for object detection in the dark environment and image enhancement. **IT IS NOT CREATED BY ME!!**\n\nThere is github link: https://github.com/cs-chan/Exclusively-Dark-Image-Dataset\n\n\n### Content\n\nThe images are kept in individual class folders following the image class labels:\n\n1. Bicycle - 652 images\n2. Boat - 679 images\n3. Bottle - 547 images\n4. Bus - 527 images\n5. Car - 638 images\n6. Cat - 735 images\n7. Chair - 648 images\n8. Cup - 519 images\n9. Dog - 801 images\n10. Motorbike - 503 images\n11. People - 609 images\n12. Table - 505 images\n\nTotal : 7,363 images\n\n(a) Training - 3,000 images (250 images per class)\n\n(b) Validation - 1,800 images (150 images per class)\n\n(c) Testing - 2,563 images\n\n\n### Acknowledgements\n\nFrom Yuen Peng Loh and Chee Seng Chan's paper \"Getting to know low-light images with the Exclusively Dark dataset (https://arxiv.org/abs/1805.11227).\n",
+  "datasetId": 415635,
+  "datasetSlug": "exclusivelydarkimagedataset-from-cschan",
+  "hasDatasetSlug": true,
+  "ownerUser": "mangosata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 5534,
+  "totalVotes": 10,
+  "totalDownloads": 365,
+  "title": "Exclusively-Dark-Image-Dataset From cs-chan",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a dataset from Yuen Peng Loh and Chee Seng Chan. Here is the paper (https://arxiv.org/abs/1805.11227). It is a dataset for object detection in the dark environment and image enhancement. **IT IS NOT CREATED BY ME!!**\n\nThere is github link: https://github.com/cs-chan/Exclusively-Dark-Image-Dataset\n\n\n### Content\n\nThe images are kept in individual class folders following the image class labels:\n\n1. Bicycle - 652 images\n2. Boat - 679 images\n3. Bottle - 547 images\n4. Bus - 527 images\n5. Car - 638 images\n6. Cat - 735 images\n7. Chair - 648 images\n8. Cup - 519 images\n9. Dog - 801 images\n10. Motorbike - 503 images\n11. People - 609 images\n12. Table - 505 images\n\nTotal : 7,363 images\n\n(a) Training - 3,000 images (250 images per class)\n\n(b) Validation - 1,800 images (150 images per class)\n\n(c) Testing - 2,563 images\n\n\n### Acknowledgements\n\nFrom Yuen Peng Loh and Chee Seng Chan's paper \"Getting to know low-light images with the Exclusively Dark dataset (https://arxiv.org/abs/1805.11227).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

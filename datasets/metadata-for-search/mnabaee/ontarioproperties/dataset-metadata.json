@@ -1,0 +1,37 @@
+{
+  "id": "mnabaee/ontarioproperties",
+  "id_no": 230,
+  "datasetSlugNullable": "ontarioproperties",
+  "ownerUserNullable": "mnabaee",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "House Sales in Ontario",
+  "subtitleNullable": "Draw an enhanced heatmap of House Prices",
+  "descriptionNullable": "This dataset includes the listing prices for the sale of properties (mostly houses) in Ontario.\nThey are obtained for a short period of time in July 2016 and include the following fields:\n- Price in dollars\n- Address of the property\n- Latitude and Longitude of the address obtained by using Google Geocoding service\n- Area Name of the property obtained by using Google Geocoding service\n\nThis dataset will provide a good starting point for analyzing the inflated housing market in Canada although it does not include time related information.\nInitially, it is intended to draw an enhanced interactive heatmap of the house prices for different neighborhoods (areas)\n\nHowever, if there is enough interest, there will be more information added as newer versions to this dataset. Some of those information will include more details on the property as well as time related information on the price (changes).\n\nThis is a somehow related articles about the real estate prices in Ontario:\nhttp://www.canadianbusiness.com/blogs-and-comment/check-out-this-heat-map-of-toronto-real-estate-prices/\n\nI am also inspired by this dataset which was provided for King County\nhttps://www.kaggle.com/harlfoxem/housesalesprediction",
+  "datasetId": 230,
+  "datasetSlug": "ontarioproperties",
+  "hasDatasetSlug": true,
+  "ownerUser": "mnabaee",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 32780,
+  "totalVotes": 45,
+  "totalDownloads": 3677,
+  "title": "House Sales in Ontario",
+  "hasTitle": true,
+  "subtitle": "Draw an enhanced heatmap of House Prices",
+  "hasSubtitle": true,
+  "description": "This dataset includes the listing prices for the sale of properties (mostly houses) in Ontario.\nThey are obtained for a short period of time in July 2016 and include the following fields:\n- Price in dollars\n- Address of the property\n- Latitude and Longitude of the address obtained by using Google Geocoding service\n- Area Name of the property obtained by using Google Geocoding service\n\nThis dataset will provide a good starting point for analyzing the inflated housing market in Canada although it does not include time related information.\nInitially, it is intended to draw an enhanced interactive heatmap of the house prices for different neighborhoods (areas)\n\nHowever, if there is enough interest, there will be more information added as newer versions to this dataset. Some of those information will include more details on the property as well as time related information on the price (changes).\n\nThis is a somehow related articles about the real estate prices in Ontario:\nhttp://www.canadianbusiness.com/blogs-and-comment/check-out-this-heat-map-of-toronto-real-estate-prices/\n\nI am also inspired by this dataset which was provided for King County\nhttps://www.kaggle.com/harlfoxem/housesalesprediction",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

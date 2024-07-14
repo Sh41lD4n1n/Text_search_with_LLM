@@ -1,0 +1,37 @@
+{
+  "id": "prashant111/dataset",
+  "id_no": 748575,
+  "datasetSlugNullable": "dataset",
+  "ownerUserNullable": "prashant111",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "Time Series Analysis Dataset",
+  "subtitleNullable": "This dataset is used for time series analysis",
+  "descriptionNullable": "",
+  "datasetId": 748575,
+  "datasetSlug": "dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "prashant111",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 15680,
+  "totalVotes": 72,
+  "totalDownloads": 7884,
+  "title": "Time Series Analysis Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset is used for time series analysis",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

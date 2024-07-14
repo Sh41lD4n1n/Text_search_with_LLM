@@ -1,0 +1,39 @@
+{
+  "id": "ivannikolov/reactive-anomaly-synthetic-data",
+  "id_no": 4673862,
+  "datasetSlugNullable": "reactive-anomaly-synthetic-data",
+  "ownerUserNullable": "ivannikolov",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Reactive Anomaly Synthetic Data",
+  "subtitleNullable": "Reactive Synthetic Data Augmentation of the UCSD Anomaly Detection Dataset",
+  "descriptionNullable": "Reactive synthetic data augmentation to the widely used UCSD anomaly dataset based on the paper [Augmenting Anomaly Detection Datasets with Reactive Synthetic Elements](https://diglib.eg.org/handle/10.2312/cgvc20231204) from Computer Graphics and Visual Computing (CGVC) 2023\n\nThe dataset contains three types of augmentations for the testing data for both the PED1 and PED2 subsets:\n- Synthetic humans that react to real pedestrians and do anomalous actions like falling, jumping, walking on the grass, etc.\n- Synthetic animals that react to real pedestrians - dogs, cats, horses\n- Synthetic bags that are given to random real pedestrians and are dropped after a random period as an anomaly\n\nThe synthetic models are realistically occluded by real pedestrians in front of them and by parts of the foreground.\nThe testing data comes with frame-level labels suggesting an anomaly or normal data in the form of .npy files\n\nIn addition, there is an augmented training dataset with synthetic humans that talk together with real pedestrians.\n\n\n",
+  "datasetId": 4673862,
+  "datasetSlug": "reactive-anomaly-synthetic-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ivannikolov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 67,
+  "totalVotes": 1,
+  "totalDownloads": 12,
+  "title": "Reactive Anomaly Synthetic Data",
+  "hasTitle": true,
+  "subtitle": "Reactive Synthetic Data Augmentation of the UCSD Anomaly Detection Dataset",
+  "hasSubtitle": true,
+  "description": "Reactive synthetic data augmentation to the widely used UCSD anomaly dataset based on the paper [Augmenting Anomaly Detection Datasets with Reactive Synthetic Elements](https://diglib.eg.org/handle/10.2312/cgvc20231204) from Computer Graphics and Visual Computing (CGVC) 2023\n\nThe dataset contains three types of augmentations for the testing data for both the PED1 and PED2 subsets:\n- Synthetic humans that react to real pedestrians and do anomalous actions like falling, jumping, walking on the grass, etc.\n- Synthetic animals that react to real pedestrians - dogs, cats, horses\n- Synthetic bags that are given to random real pedestrians and are dropped after a random period as an anomaly\n\nThe synthetic models are realistically occluded by real pedestrians in front of them and by parts of the foreground.\nThe testing data comes with frame-level labels suggesting an anomaly or normal data in the form of .npy files\n\nIn addition, there is an augmented training dataset with synthetic humans that talk together with real pedestrians.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

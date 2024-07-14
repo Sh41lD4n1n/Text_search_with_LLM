@@ -1,0 +1,43 @@
+{
+  "id": "preetviradiya/imdb-movies-ratings-details",
+  "id_no": 1361621,
+  "datasetSlugNullable": "imdb-movies-ratings-details",
+  "ownerUserNullable": "preetviradiya",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB_movies_ratings_details",
+  "subtitleNullable": "Dataset containing details of top 1000 movies",
+  "descriptionNullable": "### Context\n\nSimply for data analytics purpose.\n\n\n### Content\n\nContains the information about the movie such as:\n1. Name\n2. Short storyline\n3. Box-office Collection\n4. IMDB ratings\n5. IMDB votes\n6. IMDB metascore\n\n### Acknowledgements\n\nIMDB .\n\n\n",
+  "datasetId": 1361621,
+  "datasetSlug": "imdb-movies-ratings-details",
+  "hasDatasetSlug": true,
+  "ownerUser": "preetviradiya",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9373,
+  "totalVotes": 46,
+  "totalDownloads": 1891,
+  "title": "IMDB_movies_ratings_details",
+  "hasTitle": true,
+  "subtitle": "Dataset containing details of top 1000 movies",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSimply for data analytics purpose.\n\n\n### Content\n\nContains the information about the movie such as:\n1. Name\n2. Short storyline\n3. Box-office Collection\n4. IMDB ratings\n5. IMDB votes\n6. IMDB metascore\n\n### Acknowledgements\n\nIMDB .\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "bayesian statistics",
+    "data analytics",
+    "clustering",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

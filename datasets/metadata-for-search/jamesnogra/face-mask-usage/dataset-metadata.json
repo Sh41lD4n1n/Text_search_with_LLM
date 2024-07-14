@@ -1,0 +1,44 @@
+{
+  "id": "jamesnogra/face-mask-usage",
+  "id_no": 1958302,
+  "datasetSlugNullable": "face-mask-usage",
+  "ownerUserNullable": "jamesnogra",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Face Mask Usage",
+  "subtitleNullable": "A dataset of images of faces of people wearing face mask and others.",
+  "descriptionNullable": "### Demo\n\n![Facemask Usage Detection Demo](https://james.iamcebu.com/images/demo-face-mask.gif)\n### Inspiration\n\nAs COVID-19 continues to spread across the world, leaders and individuals are finding ways to halt the spread of the virus. The World Health Organization (WHO) recommended in March 2020 to wear a face-covering to prevent people from inhaling out tiny droplets that may carry the virus. Properly mask wearing means the virus transmission can be lowered.\n\n### Code and Reasearch Paper\n\nIf you use this dataset, can you please cite this study. The GitHub code is also provided.\nResearch Paper: [https://www.jardcs.org/abstract.php?id=5699](https://www.jardcs.org/abstract.php?id=5699)\nPython Code: [https://github.com/jamesnogra/ImproperMaskDetector](https://github.com/jamesnogra/ImproperMaskDetector)\n\n### About the Data\n\nThe data consists of four folders, fully_covered, not_covered, not_face, and partially_covered. The folder fully_covered contains faces of people that are wearing face mask properly/correctly according to WHO standards. Folder partially_covered contains face images that the face mask only covers the mouth but not the nose openings. The folder not_covered are face images of people not wearing face mask at all. The not_face folder, which can be optional in training your data, are images that are detected in OpenCV face detection library that are obviously not faces of people.\n\n### Contact\n\nIf you want the full paper, just email me at jamesnogra@gmail.com or you can visit the information website for this study at https://james.iamcebu.com/#face-mask-detection.",
+  "datasetId": 1958302,
+  "datasetSlug": "face-mask-usage",
+  "hasDatasetSlug": true,
+  "ownerUser": "jamesnogra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 12069,
+  "totalVotes": 39,
+  "totalDownloads": 916,
+  "title": "Face Mask Usage",
+  "hasTitle": true,
+  "subtitle": "A dataset of images of faces of people wearing face mask and others.",
+  "hasSubtitle": true,
+  "description": "### Demo\n\n![Facemask Usage Detection Demo](https://james.iamcebu.com/images/demo-face-mask.gif)\n### Inspiration\n\nAs COVID-19 continues to spread across the world, leaders and individuals are finding ways to halt the spread of the virus. The World Health Organization (WHO) recommended in March 2020 to wear a face-covering to prevent people from inhaling out tiny droplets that may carry the virus. Properly mask wearing means the virus transmission can be lowered.\n\n### Code and Reasearch Paper\n\nIf you use this dataset, can you please cite this study. The GitHub code is also provided.\nResearch Paper: [https://www.jardcs.org/abstract.php?id=5699](https://www.jardcs.org/abstract.php?id=5699)\nPython Code: [https://github.com/jamesnogra/ImproperMaskDetector](https://github.com/jamesnogra/ImproperMaskDetector)\n\n### About the Data\n\nThe data consists of four folders, fully_covered, not_covered, not_face, and partially_covered. The folder fully_covered contains faces of people that are wearing face mask properly/correctly according to WHO standards. Folder partially_covered contains face images that the face mask only covers the mouth but not the nose openings. The folder not_covered are face images of people not wearing face mask at all. The not_face folder, which can be optional in training your data, are images that are detected in OpenCV face detection library that are obviously not faces of people.\n\n### Contact\n\nIf you want the full paper, just email me at jamesnogra@gmail.com or you can visit the information website for this study at https://james.iamcebu.com/#face-mask-detection.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "sports",
+    "artificial intelligence",
+    "computer science",
+    "computer vision",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

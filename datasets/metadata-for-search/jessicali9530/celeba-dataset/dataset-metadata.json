@@ -1,0 +1,44 @@
+{
+  "id": "jessicali9530/celeba-dataset",
+  "id_no": 29561,
+  "datasetSlugNullable": "celeba-dataset",
+  "ownerUserNullable": "jessicali9530",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "CelebFaces Attributes (CelebA) Dataset",
+  "subtitleNullable": "Over 200k images of celebrities with 40 binary attribute annotations",
+  "descriptionNullable": "### Context\nA popular component of computer vision and deep learning revolves around identifying faces for various applications from logging into your phone with your face or searching through surveillance images for a particular suspect. This dataset is great for training and testing models for face detection, particularly for recognising facial attributes such as finding people with brown hair, are smiling, or wearing glasses. Images cover large pose variations, background clutter, diverse people, supported by a large quantity of images and rich annotations. This data was originally collected by researchers at MMLAB, The Chinese University of Hong Kong (specific reference in Acknowledgment section).\n\n### Content\n**Overall**\n\n- 202,599 number of face images of various celebrities\n- 10,177 unique identities, but names of identities are not given\n- 40 binary attribute annotations per image\n- 5 landmark locations\n\n**Data Files**\n\n- **img_align_celeba.zip**: All the face images, cropped and aligned\n- **list_eval_partition.csv**: Recommended partitioning of images into training, validation, testing sets. Images 1-162770 are training, 162771-182637 are validation, 182638-202599 are testing\n- **list_bbox_celeba.csv**: Bounding box information for each image. \"x_1\" and \"y_1\" represent the upper left point coordinate of bounding box. \"width\" and \"height\" represent the width and height of bounding box\n- **list_landmarks_align_celeba.csv**: Image landmarks and their respective coordinates. There are 5 landmarks: left eye, right eye, nose, left mouth, right mouth\n- **list_attr_celeba.csv**: Attribute labels for each image. There are 40 attributes. \"1\" represents positive while \"-1\" represents negative\n\n### Acknowledgements\nOriginal data and banner image source came from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html\nAs mentioned on the website, the CelebA dataset is **available for non-commercial research purposes only**. For specifics please refer to the website.\n\nThe creators of this dataset wrote the following paper employing CelebA for face detection:\n\n*S. Yang, P. Luo, C. C. Loy, and X. Tang, \"From Facial Parts Responses to Face Detection: A Deep Learning Approach\", in IEEE International Conference on Computer Vision (ICCV), 2015*\n\n### Inspiration\n\n- Can you train a model that can detect particular facial attributes?\n- Which images contain people that are smiling?\n- Does someone have straight or wavy hair?",
+  "datasetId": 29561,
+  "datasetSlug": "celeba-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jessicali9530",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 689716,
+  "totalVotes": 1587,
+  "totalDownloads": 135275,
+  "title": "CelebFaces Attributes (CelebA) Dataset",
+  "hasTitle": true,
+  "subtitle": "Over 200k images of celebrities with 40 binary attribute annotations",
+  "hasSubtitle": true,
+  "description": "### Context\nA popular component of computer vision and deep learning revolves around identifying faces for various applications from logging into your phone with your face or searching through surveillance images for a particular suspect. This dataset is great for training and testing models for face detection, particularly for recognising facial attributes such as finding people with brown hair, are smiling, or wearing glasses. Images cover large pose variations, background clutter, diverse people, supported by a large quantity of images and rich annotations. This data was originally collected by researchers at MMLAB, The Chinese University of Hong Kong (specific reference in Acknowledgment section).\n\n### Content\n**Overall**\n\n- 202,599 number of face images of various celebrities\n- 10,177 unique identities, but names of identities are not given\n- 40 binary attribute annotations per image\n- 5 landmark locations\n\n**Data Files**\n\n- **img_align_celeba.zip**: All the face images, cropped and aligned\n- **list_eval_partition.csv**: Recommended partitioning of images into training, validation, testing sets. Images 1-162770 are training, 162771-182637 are validation, 182638-202599 are testing\n- **list_bbox_celeba.csv**: Bounding box information for each image. \"x_1\" and \"y_1\" represent the upper left point coordinate of bounding box. \"width\" and \"height\" represent the width and height of bounding box\n- **list_landmarks_align_celeba.csv**: Image landmarks and their respective coordinates. There are 5 landmarks: left eye, right eye, nose, left mouth, right mouth\n- **list_attr_celeba.csv**: Attribute labels for each image. There are 40 attributes. \"1\" represents positive while \"-1\" represents negative\n\n### Acknowledgements\nOriginal data and banner image source came from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html\nAs mentioned on the website, the CelebA dataset is **available for non-commercial research purposes only**. For specifics please refer to the website.\n\nThe creators of this dataset wrote the following paper employing CelebA for face detection:\n\n*S. Yang, P. Luo, C. C. Loy, and X. Tang, \"From Facial Parts Responses to Face Detection: A Deep Learning Approach\", in IEEE International Conference on Computer Vision (ICCV), 2015*\n\n### Inspiration\n\n- Can you train a model that can detect particular facial attributes?\n- Which images contain people that are smiling?\n- Does someone have straight or wavy hair?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "computer vision",
+    "classification",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

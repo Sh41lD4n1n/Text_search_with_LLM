@@ -1,0 +1,41 @@
+{
+  "id": "borhanitrash/cat-dataset",
+  "id_no": 5076601,
+  "datasetSlugNullable": "cat-dataset",
+  "ownerUserNullable": "borhanitrash",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cat Dataset",
+  "subtitleNullable": "A dataset of 29843 cat pictures (64x64), compiled together for training models.",
+  "descriptionNullable": "**Context**\n\nA dataset of 29843 cat pictures (64x64), compiled together for training models.\n\n**Description** :\nThe Cat Dataset is a collection of 29,843 color images of cats, intended for training machine learning models for computer vision tasks such as image classification, object detection, and image segmentation. The dataset consists of various breeds, poses, backgrounds, and lighting conditions, providing a diverse representation of cat images.\n\n**Details**\n\nNumber of Images: 29,843\n\nImage Size: 64 x 64 pixels\n\nImage Format: PNG\n\nImage Resolution: RGB (3 channels)\n\n**Data Split**\n\nThe dataset is divided into the following subsets:\n\nTraining Set: 29,843 images (100% of the dataset)\n\nThis dataset can be utilized for a variety of computer vision tasks, including but not limited to:\n\nImage Classification: Training models to classify images as containing a cat or not.\nObject Detection: Detecting and localizing cats within images.\nImage Segmentation: Pixel-level labeling and segmentation of cats in images.\nTransfer Learning: Using pre-trained models on this dataset for related computer vision tasks.\n\n**Acknowledgements**\nOwner: [AnnikaV9](https://github.com/AnnikaV9)\n\nThe dataset was originally found at: https://av9.dev/cat-dataset/",
+  "datasetId": 5076601,
+  "datasetSlug": "cat-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "borhanitrash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3565,
+  "totalVotes": 61,
+  "totalDownloads": 283,
+  "title": "Cat Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset of 29843 cat pictures (64x64), compiled together for training models.",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nA dataset of 29843 cat pictures (64x64), compiled together for training models.\n\n**Description** :\nThe Cat Dataset is a collection of 29,843 color images of cats, intended for training machine learning models for computer vision tasks such as image classification, object detection, and image segmentation. The dataset consists of various breeds, poses, backgrounds, and lighting conditions, providing a diverse representation of cat images.\n\n**Details**\n\nNumber of Images: 29,843\n\nImage Size: 64 x 64 pixels\n\nImage Format: PNG\n\nImage Resolution: RGB (3 channels)\n\n**Data Split**\n\nThe dataset is divided into the following subsets:\n\nTraining Set: 29,843 images (100% of the dataset)\n\nThis dataset can be utilized for a variety of computer vision tasks, including but not limited to:\n\nImage Classification: Training models to classify images as containing a cat or not.\nObject Detection: Detecting and localizing cats within images.\nImage Segmentation: Pixel-level labeling and segmentation of cats in images.\nTransfer Learning: Using pre-trained models on this dataset for related computer vision tasks.\n\n**Acknowledgements**\nOwner: [AnnikaV9](https://github.com/AnnikaV9)\n\nThe dataset was originally found at: https://av9.dev/cat-dataset/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

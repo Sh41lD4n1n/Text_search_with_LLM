@@ -1,0 +1,39 @@
+{
+  "id": "sathiyaak/fake-news-detection-data",
+  "id_no": 2829271,
+  "datasetSlugNullable": "fake-news-detection-data",
+  "ownerUserNullable": "sathiyaak",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake news detection data",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2829271,
+  "datasetSlug": "fake-news-detection-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sathiyaak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 713,
+  "totalVotes": 14,
+  "totalDownloads": 141,
+  "title": "Fake news detection data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

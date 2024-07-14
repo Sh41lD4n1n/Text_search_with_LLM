@@ -1,0 +1,37 @@
+{
+  "id": "preethampandiri/womens-clothing-reviews",
+  "id_no": 5231432,
+  "datasetSlugNullable": "womens-clothing-reviews",
+  "ownerUserNullable": "preethampandiri",
+  "usabilityRatingNullable": 0.11764705882352941,
+  "titleNullable": "womens_clothing_reviews",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5231432,
+  "datasetSlug": "womens-clothing-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "preethampandiri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.11764705882352941,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "womens_clothing_reviews",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

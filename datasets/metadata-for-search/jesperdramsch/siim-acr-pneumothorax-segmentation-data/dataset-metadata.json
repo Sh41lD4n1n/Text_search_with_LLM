@@ -1,0 +1,41 @@
+{
+  "id": "jesperdramsch/siim-acr-pneumothorax-segmentation-data",
+  "id_no": 246422,
+  "datasetSlugNullable": "siim-acr-pneumothorax-segmentation-data",
+  "ownerUserNullable": "jesperdramsch",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "SIIM ACR Pneumothorax Segmentation Data",
+  "subtitleNullable": "Chest X-Ray Data with Dense Segmentation",
+  "descriptionNullable": "### Context\n\nCompetition data for [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) extracted from Public Google Cloud Healthcare API.\n\n\n### Content\n\nChest Xrays and dense classification (RLE) of Pneumothorax data.\n\n\n### Acknowledgements\n\nThanks for SIIM and ACR for permission to rehost.",
+  "datasetId": 246422,
+  "datasetSlug": "siim-acr-pneumothorax-segmentation-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jesperdramsch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 29447,
+  "totalVotes": 132,
+  "totalDownloads": 7658,
+  "title": "SIIM ACR Pneumothorax Segmentation Data",
+  "hasTitle": true,
+  "subtitle": "Chest X-Ray Data with Dense Segmentation",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCompetition data for [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) extracted from Public Google Cloud Healthcare API.\n\n\n### Content\n\nChest Xrays and dense classification (RLE) of Pneumothorax data.\n\n\n### Acknowledgements\n\nThanks for SIIM and ACR for permission to rehost.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "medicine",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

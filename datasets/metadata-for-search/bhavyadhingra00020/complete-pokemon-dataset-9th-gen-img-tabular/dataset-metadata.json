@@ -1,0 +1,40 @@
+{
+  "id": "bhavyadhingra00020/complete-pokemon-dataset-9th-gen-img-tabular",
+  "id_no": 4678367,
+  "datasetSlugNullable": "complete-pokemon-dataset-9th-gen-img-tabular",
+  "ownerUserNullable": "bhavyadhingra00020",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Complete Pokemon Dataset 9th Gen (img + tabular)",
+  "subtitleNullable": "Pokemon image dataset + Base stats will 9th Generation",
+  "descriptionNullable": "## Complete Pok\u00e9mon Dataset 9th Gen (img + tabular)\nThe Complete Pok\u00e9mon Dataset 9th Gen (img + tabular) is a comprehensive collection of information covering the entirety of the 9th generation Pok\u00e9mon. It combines both image data of Pok\u00e9mon sprites and tabular data containing their base statistics and index ranks. This dataset serves as a valuable resource for researchers, developers, and enthusiasts interested in exploring and analyzing the characteristics of Pok\u00e9mon in the latest generation.\n\n## **Dataset Overview**:\n### Image Data:\n\n**Pok\u00e9mon Sprites**: High-quality images representing the visual appearance of each Pok\u00e9mon in the 9th generation.\nFormat: Images are provided in a standardized format for easy integration into various applications and analysis tools.\nIndexing: Each image is indexed to correspond with the respective entry in the tabular data for seamless cross-referencing.\n\n### Tabular Data:\n\n**Base Stats**: Comprehensive information on the base statistics of each Pok\u00e9mon, including HP, Attack, Defense, Special Attack, Special Defense, and Speed.\n**Index Rank**: An index rank assigned to each Pok\u00e9mon based on various attributes, such as overall power, rarity, or popularity.\n**Additional Attributes**: Any additional relevant attributes, such as Pok\u00e9mon type, abilities, evolutionary line, and regional variants.",
+  "datasetId": 4678367,
+  "datasetSlug": "complete-pokemon-dataset-9th-gen-img-tabular",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavyadhingra00020",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1335,
+  "totalVotes": 36,
+  "totalDownloads": 177,
+  "title": "Complete Pokemon Dataset 9th Gen (img + tabular)",
+  "hasTitle": true,
+  "subtitle": "Pokemon image dataset + Base stats will 9th Generation",
+  "hasSubtitle": true,
+  "description": "## Complete Pok\u00e9mon Dataset 9th Gen (img + tabular)\nThe Complete Pok\u00e9mon Dataset 9th Gen (img + tabular) is a comprehensive collection of information covering the entirety of the 9th generation Pok\u00e9mon. It combines both image data of Pok\u00e9mon sprites and tabular data containing their base statistics and index ranks. This dataset serves as a valuable resource for researchers, developers, and enthusiasts interested in exploring and analyzing the characteristics of Pok\u00e9mon in the latest generation.\n\n## **Dataset Overview**:\n### Image Data:\n\n**Pok\u00e9mon Sprites**: High-quality images representing the visual appearance of each Pok\u00e9mon in the 9th generation.\nFormat: Images are provided in a standardized format for easy integration into various applications and analysis tools.\nIndexing: Each image is indexed to correspond with the respective entry in the tabular data for seamless cross-referencing.\n\n### Tabular Data:\n\n**Base Stats**: Comprehensive information on the base statistics of each Pok\u00e9mon, including HP, Attack, Defense, Special Attack, Special Defense, and Speed.\n**Index Rank**: An index rank assigned to each Pok\u00e9mon based on various attributes, such as overall power, rarity, or popularity.\n**Additional Attributes**: Any additional relevant attributes, such as Pok\u00e9mon type, abilities, evolutionary line, and regional variants.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

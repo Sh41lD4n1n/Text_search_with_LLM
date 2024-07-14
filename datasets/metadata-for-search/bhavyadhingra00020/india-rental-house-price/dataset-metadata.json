@@ -1,0 +1,42 @@
+{
+  "id": "bhavyadhingra00020/india-rental-house-price",
+  "id_no": 4749485,
+  "datasetSlugNullable": "india-rental-house-price",
+  "ownerUserNullable": "bhavyadhingra00020",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Indian Rental House Price",
+  "subtitleNullable": "Regression analysis, mutiple regression,linear regression, prediction",
+  "descriptionNullable": "This dataset provides comprehensive information about rental house prices across various locations in India. It includes details such as house type, size, location, city, latitude, longitude, price, currency, number of bathrooms, number of balconies, negotiability of price, price per square foot, verification date, description of the property, security deposit, and status of furnishing (furnished, unfurnished, semi-furnished).\n\n`Note: This is Recently scraped data of April 2024.`\n\n### **Dataset Glossary (Column-Wise)**\n- **House Type**: Type of house (e.g., apartment, villa, duplex).\n- **House Size**: Size of the house in square feet or square meters.\n- **Location**: Specific area or neighborhood where the property is located.\n- **City**: City in India where the property is situated.\n- **Latitude**: Geographic latitude coordinates of the property location.\n- **Longitude**: Geographic longitude coordinates of the property location.\n- **Price**: Rental price of the house.\n- **Currency**: Currency in which the price is denoted (e.g., INR - Indian Rupees).\n- **Number of Bathrooms**: Total number of bathrooms in the house.\n- **Number of Balconies**: Total number of balconies in the house.\n- **Negotiability**: Indicates whether the price is negotiable (Yes/No).\n- **Price per Square Foot**: Price of the house per square foot.\n- **Verification Date**: Date when the rental information was verified.\n- **Description**: Additional description or details about the property.\n- **Security Deposit**: Amount of security deposit required for renting the property.\n- **Status**: Indicates the furnishing status of the property (furnished, unfurnished, semi-furnished).\n\n### **Usage**\nThis dataset aims to provide valuable insights into the rental housing market in India, enabling analysis of rental trends, comparison of prices across different locations and property types, and understanding the impact of various factors on rental prices. Researchers, analysts, and policymakers can utilize this dataset for a wide range of applications, including real estate market analysis, urban planning, and economic research.\n\n### **Acknowledgement**\nThis Dataset is created from [https://www.makaan.com/](https://www.makaan.com/). If you want to learn more, you can visit the Website.\n\nCover Photo by: [Playground.ai](https://playground.com/post/a-dynamic-and-lively-shot-of-a-daman--diu-haveli-of-two-flo-clrrmmk6a039gs6019ez0xpjm)",
+  "datasetId": 4749485,
+  "datasetSlug": "india-rental-house-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavyadhingra00020",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3587,
+  "totalVotes": 34,
+  "totalDownloads": 894,
+  "title": "Indian Rental House Price",
+  "hasTitle": true,
+  "subtitle": "Regression analysis, mutiple regression,linear regression, prediction",
+  "hasSubtitle": true,
+  "description": "This dataset provides comprehensive information about rental house prices across various locations in India. It includes details such as house type, size, location, city, latitude, longitude, price, currency, number of bathrooms, number of balconies, negotiability of price, price per square foot, verification date, description of the property, security deposit, and status of furnishing (furnished, unfurnished, semi-furnished).\n\n`Note: This is Recently scraped data of April 2024.`\n\n### **Dataset Glossary (Column-Wise)**\n- **House Type**: Type of house (e.g., apartment, villa, duplex).\n- **House Size**: Size of the house in square feet or square meters.\n- **Location**: Specific area or neighborhood where the property is located.\n- **City**: City in India where the property is situated.\n- **Latitude**: Geographic latitude coordinates of the property location.\n- **Longitude**: Geographic longitude coordinates of the property location.\n- **Price**: Rental price of the house.\n- **Currency**: Currency in which the price is denoted (e.g., INR - Indian Rupees).\n- **Number of Bathrooms**: Total number of bathrooms in the house.\n- **Number of Balconies**: Total number of balconies in the house.\n- **Negotiability**: Indicates whether the price is negotiable (Yes/No).\n- **Price per Square Foot**: Price of the house per square foot.\n- **Verification Date**: Date when the rental information was verified.\n- **Description**: Additional description or details about the property.\n- **Security Deposit**: Amount of security deposit required for renting the property.\n- **Status**: Indicates the furnishing status of the property (furnished, unfurnished, semi-furnished).\n\n### **Usage**\nThis dataset aims to provide valuable insights into the rental housing market in India, enabling analysis of rental trends, comparison of prices across different locations and property types, and understanding the impact of various factors on rental prices. Researchers, analysts, and policymakers can utilize this dataset for a wide range of applications, including real estate market analysis, urban planning, and economic research.\n\n### **Acknowledgement**\nThis Dataset is created from [https://www.makaan.com/](https://www.makaan.com/). If you want to learn more, you can visit the Website.\n\nCover Photo by: [Playground.ai](https://playground.com/post/a-dynamic-and-lively-shot-of-a-daman--diu-haveli-of-two-flo-clrrmmk6a039gs6019ez0xpjm)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "housing",
+    "real estate",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

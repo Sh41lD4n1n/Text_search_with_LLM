@@ -1,0 +1,42 @@
+{
+  "id": "hgultekin/bbcnewsarchive",
+  "id_no": 809083,
+  "datasetSlugNullable": "bbcnewsarchive",
+  "ownerUserNullable": "hgultekin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BBC News Archive",
+  "subtitleNullable": "A Collection of BBC News Content and Their Associated Labels",
+  "descriptionNullable": "### Context\n\nNews article datasets, originating from BBC News, provided for use as benchmarks for machine learning research. The original data is processed to form a single csv file for ease of use, the news title and the related text file name is preserved along with the news content and its category. This dataset is made available for non-commercial and research purposes only.\n\nAll rights, including copyright, in the content of the original articles are owned by the BBC.\n\n### Content\n\n- Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.\n- Class Labels: 5 (business, entertainment, politics, sport, tech)\n\n### Acknowledgements\n\nThe original source of the data may be accessed through [this link ](http://mlg.ucd.ie/datasets/bbc.html)and it might be interesting to read the associated [research article](http://mlg.ucd.ie/files/publications/greene06icml.pdf). \n\n### Associated Official Research Papers\n\nD. Greene and P. Cunningham. \"Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering\", Proc. ICML 2006. \n\n### Inspiration\n\n- Text Classification\n\n### Kaggle Kernel\n\nPlease refer to the following Kaggle Kernel for News Classification Example:",
+  "datasetId": 809083,
+  "datasetSlug": "bbcnewsarchive",
+  "hasDatasetSlug": true,
+  "ownerUser": "hgultekin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 33041,
+  "totalVotes": 44,
+  "totalDownloads": 7639,
+  "title": "BBC News Archive",
+  "hasTitle": true,
+  "subtitle": "A Collection of BBC News Content and Their Associated Labels",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNews article datasets, originating from BBC News, provided for use as benchmarks for machine learning research. The original data is processed to form a single csv file for ease of use, the news title and the related text file name is preserved along with the news content and its category. This dataset is made available for non-commercial and research purposes only.\n\nAll rights, including copyright, in the content of the original articles are owned by the BBC.\n\n### Content\n\n- Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.\n- Class Labels: 5 (business, entertainment, politics, sport, tech)\n\n### Acknowledgements\n\nThe original source of the data may be accessed through [this link ](http://mlg.ucd.ie/datasets/bbc.html)and it might be interesting to read the associated [research article](http://mlg.ucd.ie/files/publications/greene06icml.pdf). \n\n### Associated Official Research Papers\n\nD. Greene and P. Cunningham. \"Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering\", Proc. ICML 2006. \n\n### Inspiration\n\n- Text Classification\n\n### Kaggle Kernel\n\nPlease refer to the following Kaggle Kernel for News Classification Example:",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "nlp",
+    "news",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

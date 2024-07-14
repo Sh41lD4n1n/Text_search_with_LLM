@@ -1,0 +1,39 @@
+{
+  "id": "farhanch67/twitter-sracastic-classification-dataset",
+  "id_no": 2509254,
+  "datasetSlugNullable": "twitter-sracastic-classification-dataset",
+  "ownerUserNullable": "farhanch67",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Twitter sracastic classification dataset ",
+  "subtitleNullable": "Tweets data for sarcastic detection & categorical classificaiton of sarcasm",
+  "descriptionNullable": "This dataset contains a number of tweets classified into sarcastic and further into sub-categories of sarcastic.\n\nIt is very helpful for learning purposes if you are new to NLP you can use this dataset to train and test your models.",
+  "datasetId": 2509254,
+  "datasetSlug": "twitter-sracastic-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "farhanch67",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 932,
+  "totalVotes": 1,
+  "totalDownloads": 198,
+  "title": "Twitter sracastic classification dataset ",
+  "hasTitle": true,
+  "subtitle": "Tweets data for sarcastic detection & categorical classificaiton of sarcasm",
+  "hasSubtitle": true,
+  "description": "This dataset contains a number of tweets classified into sarcastic and further into sub-categories of sarcastic.\n\nIt is very helpful for learning purposes if you are new to NLP you can use this dataset to train and test your models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

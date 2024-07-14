@@ -1,0 +1,40 @@
+{
+  "id": "arashnic/fake-claim-dataset",
+  "id_no": 1035667,
+  "datasetSlugNullable": "fake-claim-dataset",
+  "ownerUserNullable": "arashnic",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Fake Claim Dataset",
+  "subtitleNullable": "Sentimental analysis for a short claims",
+  "descriptionNullable": "### Context\n\nThe rampant integration of social media in our every day lives and culture has given rise to fast and easier access to the flow of information than ever in human history. However, the inherently unsupervised nature of social media platforms has also made it easier to spread false information and fake news. Furthermore, the high volume and velocity of information flow in such platforms make manual supervision and control of information propagation infeasible. This dataset aims to address this issue by proposing novel deep learning approaches for automated detection of false short-text claims on social media.\n\n### Content\nThe dataset contains the text of a claim, as well as relevant meta-data, structured as follows: \n\nID, LABEL, STATEMENT, SUBJECT, SPEAKER, SPEAKER JOB, STATE INFO, PARTY AFFILIATION, BARELY TRUE COUNTS, FALSE COUNTS, HALF\nTRUE COUNTS, MOSTLY TRUE COUNTS, PANTS ON, FIRE COUNTS, and CONTEXT\n\ntrain shape: (10232, 33)\ntest shape: (1264, 32)\nvalid data shape: (1280, 33)\n\n\n### Inspiration\n\n- Proposing a novel deep learning architecture model for classification of claims as genuine or fake. \n\n",
+  "datasetId": 1035667,
+  "datasetSlug": "fake-claim-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arashnic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 5013,
+  "totalVotes": 11,
+  "totalDownloads": 533,
+  "title": "Fake Claim Dataset",
+  "hasTitle": true,
+  "subtitle": "Sentimental analysis for a short claims",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe rampant integration of social media in our every day lives and culture has given rise to fast and easier access to the flow of information than ever in human history. However, the inherently unsupervised nature of social media platforms has also made it easier to spread false information and fake news. Furthermore, the high volume and velocity of information flow in such platforms make manual supervision and control of information propagation infeasible. This dataset aims to address this issue by proposing novel deep learning approaches for automated detection of false short-text claims on social media.\n\n### Content\nThe dataset contains the text of a claim, as well as relevant meta-data, structured as follows: \n\nID, LABEL, STATEMENT, SUBJECT, SPEAKER, SPEAKER JOB, STATE INFO, PARTY AFFILIATION, BARELY TRUE COUNTS, FALSE COUNTS, HALF\nTRUE COUNTS, MOSTLY TRUE COUNTS, PANTS ON, FIRE COUNTS, and CONTEXT\n\ntrain shape: (10232, 33)\ntest shape: (1264, 32)\nvalid data shape: (1280, 33)\n\n\n### Inspiration\n\n- Proposing a novel deep learning architecture model for classification of claims as genuine or fake. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

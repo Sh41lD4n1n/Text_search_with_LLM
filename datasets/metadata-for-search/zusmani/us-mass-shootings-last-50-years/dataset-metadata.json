@@ -1,0 +1,40 @@
+{
+  "id": "zusmani/us-mass-shootings-last-50-years",
+  "id_no": 2778,
+  "datasetSlugNullable": "us-mass-shootings-last-50-years",
+  "ownerUserNullable": "zusmani",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "US Mass Shootings ",
+  "subtitleNullable": "Last 50 Years (1966-2021)",
+  "descriptionNullable": "### Context\n\nMass Shootings in the United States of America (1966-2017)\nThe US has witnessed 398 mass shootings in last 50 years that resulted in 1,996 deaths and 2,488 injured. The latest and the worst mass shooting of October 2, 2017 killed 58 and injured 515 so far. The number of people injured in this attack is more than the number of people injured in all mass shootings of 2015 and 2016 combined. \nThe average number of mass shootings per year is 7 for the last 50 years that would claim 39 lives and 48 injured per year. \n\n### Content\n\nGeography: United States of America\n\nTime period: 1966-2017\n\nUnit of analysis: Mass Shooting Attack\n\nDataset: The dataset contains detailed information of 398 mass shootings in the United States of America that killed 1996 and injured 2488 people.  \n\nVariables: The dataset contains Serial No, Title, Location, Date, Summary, Fatalities, Injured, Total Victims, Mental Health Issue, Race, Gender, and Lat-Long information.\n\n### Acknowledgements\n\nI\u2019ve consulted several public datasets and web pages to compile this data.  Some of the major data sources include [Wikipedia][1], [Mother Jones][2], [Stanford][3], [USA Today][4] and other web sources. \n\n### Inspiration\n\nWith a broken heart, I like to call the attention of my fellow Kagglers to use Machine Learning and Data Sciences to help me explore these ideas:\n\n\u2022\tHow many people got killed and injured per year?\n\n\u2022\tVisualize mass shootings on the U.S map\n\n\u2022\tIs there any correlation between shooter and his/her race, gender\n\n\u2022\tAny correlation with calendar dates? Do we have more deadly days, weeks or months on average\n\n\u2022\tWhat cities and states are more prone to such attacks\n\n\u2022\tCan you find and combine any other external datasets to enrich the analysis, for example, gun ownership by state\n\n\u2022\tAny other pattern you see that can help in prediction, crowd safety or in-depth analysis of the event\n\n\u2022\tHow many shooters have some kind of mental health problem? Can we compare that shooter with general population with same condition\n\n### Mass Shootings Dataset Ver 3\n\nThis is the new Version of Mass Shootings Dataset. I've added eight new variables:\n\n1.       Incident Area (where the incident took place), \n2.       Open/Close Location (Inside a building or open space) \n3.       Target (possible target audience or company), \n4.       Cause (Terrorism, Hate Crime, Fun (for no obvious reason etc.)\n5.       Policeman Killed (how many on duty officers got killed)\n6.       Age (age of the shooter)\n7.       Employed (Y/N) \n8.       Employed at  (Employer Name)\n\nAge, Employed and Employed at (3 variables) contain shooter details\n\n### Mass Shootings Dataset Ver 4\n\nQuite a few missing values have been added\n\n### Mass Shootings Dataset Ver 5\n\nThree more recent mass shootings have been added including the Texas Church shooting of November 5, 2017\n\n\nI hope it will help create more visualization and extract patterns. \n\nKeep Coding!\n\n\n  [1]: https://en.wikipedia.org/wiki/Category:Mass_shootings_in_the_United_States_by_year\n  [2]: http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/\n  [3]: https://library.stanford.edu/projects/mass-shootings-america\n  [4]: http://www.gannett-cdn.com/GDContent/mass-killings/index.html#title",
+  "datasetId": 2778,
+  "datasetSlug": "us-mass-shootings-last-50-years",
+  "hasDatasetSlug": true,
+  "ownerUser": "zusmani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 134341,
+  "totalVotes": 385,
+  "totalDownloads": 18732,
+  "title": "US Mass Shootings ",
+  "hasTitle": true,
+  "subtitle": "Last 50 Years (1966-2021)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMass Shootings in the United States of America (1966-2017)\nThe US has witnessed 398 mass shootings in last 50 years that resulted in 1,996 deaths and 2,488 injured. The latest and the worst mass shooting of October 2, 2017 killed 58 and injured 515 so far. The number of people injured in this attack is more than the number of people injured in all mass shootings of 2015 and 2016 combined. \nThe average number of mass shootings per year is 7 for the last 50 years that would claim 39 lives and 48 injured per year. \n\n### Content\n\nGeography: United States of America\n\nTime period: 1966-2017\n\nUnit of analysis: Mass Shooting Attack\n\nDataset: The dataset contains detailed information of 398 mass shootings in the United States of America that killed 1996 and injured 2488 people.  \n\nVariables: The dataset contains Serial No, Title, Location, Date, Summary, Fatalities, Injured, Total Victims, Mental Health Issue, Race, Gender, and Lat-Long information.\n\n### Acknowledgements\n\nI\u2019ve consulted several public datasets and web pages to compile this data.  Some of the major data sources include [Wikipedia][1], [Mother Jones][2], [Stanford][3], [USA Today][4] and other web sources. \n\n### Inspiration\n\nWith a broken heart, I like to call the attention of my fellow Kagglers to use Machine Learning and Data Sciences to help me explore these ideas:\n\n\u2022\tHow many people got killed and injured per year?\n\n\u2022\tVisualize mass shootings on the U.S map\n\n\u2022\tIs there any correlation between shooter and his/her race, gender\n\n\u2022\tAny correlation with calendar dates? Do we have more deadly days, weeks or months on average\n\n\u2022\tWhat cities and states are more prone to such attacks\n\n\u2022\tCan you find and combine any other external datasets to enrich the analysis, for example, gun ownership by state\n\n\u2022\tAny other pattern you see that can help in prediction, crowd safety or in-depth analysis of the event\n\n\u2022\tHow many shooters have some kind of mental health problem? Can we compare that shooter with general population with same condition\n\n### Mass Shootings Dataset Ver 3\n\nThis is the new Version of Mass Shootings Dataset. I've added eight new variables:\n\n1.       Incident Area (where the incident took place), \n2.       Open/Close Location (Inside a building or open space) \n3.       Target (possible target audience or company), \n4.       Cause (Terrorism, Hate Crime, Fun (for no obvious reason etc.)\n5.       Policeman Killed (how many on duty officers got killed)\n6.       Age (age of the shooter)\n7.       Employed (Y/N) \n8.       Employed at  (Employer Name)\n\nAge, Employed and Employed at (3 variables) contain shooter details\n\n### Mass Shootings Dataset Ver 4\n\nQuite a few missing values have been added\n\n### Mass Shootings Dataset Ver 5\n\nThree more recent mass shootings have been added including the Texas Church shooting of November 5, 2017\n\n\nI hope it will help create more visualization and extract patterns. \n\nKeep Coding!\n\n\n  [1]: https://en.wikipedia.org/wiki/Category:Mass_shootings_in_the_United_States_by_year\n  [2]: http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/\n  [3]: https://library.stanford.edu/projects/mass-shootings-america\n  [4]: http://www.gannett-cdn.com/GDContent/mass-killings/index.html#title",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "crime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

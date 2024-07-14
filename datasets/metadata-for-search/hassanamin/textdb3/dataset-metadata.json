@@ -1,0 +1,41 @@
+{
+  "id": "hassanamin/textdb3",
+  "id_no": 129603,
+  "datasetSlugNullable": "textdb3",
+  "ownerUserNullable": "hassanamin",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Fake News",
+  "subtitleNullable": "Balanced dataset for fake news analysis",
+  "descriptionNullable": "### Context\n\nFake news has become one of the biggest problems of our age. It has serious impact on our online as well as offline discourse. One can even go as far as saying that, to date, fake news poses a clear and present danger to western democracy and stability of the society.\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 129603,
+  "datasetSlug": "textdb3",
+  "hasDatasetSlug": true,
+  "ownerUser": "hassanamin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 45041,
+  "totalVotes": 90,
+  "totalDownloads": 10517,
+  "title": "Fake News",
+  "hasTitle": true,
+  "subtitle": "Balanced dataset for fake news analysis",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFake news has become one of the biggest problems of our age. It has serious impact on our online as well as offline discourse. One can even go as far as saying that, to date, fake news poses a clear and present danger to western democracy and stability of the society.\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

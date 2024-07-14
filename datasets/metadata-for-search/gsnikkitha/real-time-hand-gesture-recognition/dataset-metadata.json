@@ -1,0 +1,44 @@
+{
+  "id": "gsnikkitha/real-time-hand-gesture-recognition",
+  "id_no": 781894,
+  "datasetSlugNullable": "real-time-hand-gesture-recognition",
+  "ownerUserNullable": "gsnikkitha",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Real Time Hand Gesture Recognition",
+  "subtitleNullable": "Emoji Recognition Dataset",
+  "descriptionNullable": "",
+  "datasetId": 781894,
+  "datasetSlug": "real-time-hand-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "gsnikkitha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 3115,
+  "totalVotes": 3,
+  "totalDownloads": 116,
+  "title": "Real Time Hand Gesture Recognition",
+  "hasTitle": true,
+  "subtitle": "Emoji Recognition Dataset",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "roobansappani",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

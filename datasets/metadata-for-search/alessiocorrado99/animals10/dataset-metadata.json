@@ -1,0 +1,43 @@
+{
+  "id": "alessiocorrado99/animals10",
+  "id_no": 59760,
+  "datasetSlugNullable": "animals10",
+  "ownerUserNullable": "alessiocorrado99",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Animals-10",
+  "subtitleNullable": "Animal pictures of 10 different categories taken from google images",
+  "descriptionNullable": "Hello everyone! \n\nThis is the dataset I have used for my matriculation thesis. \n\nIt contains about 28K medium quality animal images belonging to 10 categories: dog, cat, horse, spyder, butterfly, chicken, sheep, cow, squirrel, elephant. \n\nI have used it to test different image recognition networks: from homemade CNNs (~80% accuracy) to Google Inception (98%). It could simulate a smart gallery for a researcher (like a biologist).\n\nAll the images have been collected from \"google images\" and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app).\n\nThe main directory is divided into folders, one for each category. Image count for each category varies from 2K to 5 K units.",
+  "datasetId": 59760,
+  "datasetSlug": "animals10",
+  "hasDatasetSlug": true,
+  "ownerUser": "alessiocorrado99",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 325183,
+  "totalVotes": 842,
+  "totalDownloads": 57538,
+  "title": "Animals-10",
+  "hasTitle": true,
+  "subtitle": "Animal pictures of 10 different categories taken from google images",
+  "hasSubtitle": true,
+  "description": "Hello everyone! \n\nThis is the dataset I have used for my matriculation thesis. \n\nIt contains about 28K medium quality animal images belonging to 10 categories: dog, cat, horse, spyder, butterfly, chicken, sheep, cow, squirrel, elephant. \n\nI have used it to test different image recognition networks: from homemade CNNs (~80% accuracy) to Google Inception (98%). It could simulate a smart gallery for a researcher (like a biologist).\n\nAll the images have been collected from \"google images\" and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app).\n\nThe main directory is divided into folders, one for each category. Image count for each category varies from 2K to 5 K units.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "animals",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

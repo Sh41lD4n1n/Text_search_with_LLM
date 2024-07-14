@@ -1,0 +1,45 @@
+{
+  "id": "fedesoriano/california-housing-prices-data-extra-features",
+  "id_no": 1446091,
+  "datasetSlugNullable": "california-housing-prices-data-extra-features",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "California Housing Prices Data (5 new features!)",
+  "subtitleNullable": "Median house prices for California districts derived from the 1990 census.",
+  "descriptionNullable": "### Similar Datasets:\n\n- Boston House Prices: [LINK](https://www.kaggle.com/fedesoriano/the-boston-houseprice-data)\n- Gender Pay Gap Dataset: [LINK](https://www.kaggle.com/fedesoriano/gender-pay-gap-dataset)\n- Company Bankruptcy Prediction: [LINK](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nThis is the dataset is a modified version of the California Housing Data used in the paper `Pace, R. Kelley, and Ronald Barry. \"Sparse spatial autoregressions.\" Statistics & Probability Letters 33.3 (1997): 291-297.`. It serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables and sits at an optimal size between being too toyish and too cumbersome.\n\nThe data contains information from the 1990 California census. So although it may not help you with predicting current housing prices like the Zillow Zestimate dataset, it does provide an accessible introductory dataset for teaching people about the basics of machine learning.\n\n\n### Modifications with respect to the original data\n\nThis dataset includes 5 extra features defined by me: \"Distance to coast\", \"Distance to Los Angeles\", \"Distance to San Diego\", \"Distance to San Jose\", and \"Distance to San Francisco\". These extra features try to account for the distance to the nearest coast and the distance to the centre of the largest cities in California.\n\nThe distances were calculated using the Haversine formula with the Longitude and Latitude:\n\n![](https://wikimedia.org/api/rest_v1/media/math/render/svg/a65dbbde43ff45bacd2505fcf32b44fc7dcd8cc0)\n\nwhere:\n\n- `phi_1` and `phi_2` are the Latitudes of point 1 and point 2, respectively\n- `lambda_1` and `lambda_2` are the Longitudes of point 1 and point 2, respectively\n- `r` is the radius of the Earth (6371km)\n\n\n### Content\n\nThe data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self-explanatory:\n\n1) Median House Value: Median house value for households within a block (measured in US Dollars) [$]\n2) Median Income: Median income for households within a block of houses (measured in tens of thousands of US Dollars) [10k$]\n3) Median Age: Median age of a house within a block; a lower number is a newer building [years]\n4) Total Rooms: Total number of rooms within a block\n5) Total Bedrooms: Total number of bedrooms within a block\n6) Population: Total number of people residing within a block\n7) Households: Total number of households, a group of people residing within a home unit, for a block\n8) Latitude: A measure of how far north a house is; a higher value is farther north [\u00b0]\n9) Longitude: A measure of how far west a house is; a higher value is farther west [\u00b0]\n10) Distance to coast: Distance to the nearest coast point [m]\n11) Distance to Los Angeles: Distance to the centre of Los Angeles [m]\n12) Distance to San Diego: Distance to the centre of San Diego [m]\n13) Distance to San Jose: Distance to the centre of San Jose [m]\n14) Distance to San Francisco: Distance to the centre of San Francisco [m]\n\n\n### Source\n\nThis data was entirely modified and cleaned by me. The original data (without the distance features) was initially featured in the following paper:\nPace, R. Kelley, and Ronald Barry. \"Sparse spatial autoregressions.\" Statistics & Probability Letters 33.3 (1997): 291-297.\n\nThe original dataset can be found under the following link: [https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)\n",
+  "datasetId": 1446091,
+  "datasetSlug": "california-housing-prices-data-extra-features",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 43657,
+  "totalVotes": 68,
+  "totalDownloads": 5498,
+  "title": "California Housing Prices Data (5 new features!)",
+  "hasTitle": true,
+  "subtitle": "Median house prices for California districts derived from the 1990 census.",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets:\n\n- Boston House Prices: [LINK](https://www.kaggle.com/fedesoriano/the-boston-houseprice-data)\n- Gender Pay Gap Dataset: [LINK](https://www.kaggle.com/fedesoriano/gender-pay-gap-dataset)\n- Company Bankruptcy Prediction: [LINK](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nThis is the dataset is a modified version of the California Housing Data used in the paper `Pace, R. Kelley, and Ronald Barry. \"Sparse spatial autoregressions.\" Statistics & Probability Letters 33.3 (1997): 291-297.`. It serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables and sits at an optimal size between being too toyish and too cumbersome.\n\nThe data contains information from the 1990 California census. So although it may not help you with predicting current housing prices like the Zillow Zestimate dataset, it does provide an accessible introductory dataset for teaching people about the basics of machine learning.\n\n\n### Modifications with respect to the original data\n\nThis dataset includes 5 extra features defined by me: \"Distance to coast\", \"Distance to Los Angeles\", \"Distance to San Diego\", \"Distance to San Jose\", and \"Distance to San Francisco\". These extra features try to account for the distance to the nearest coast and the distance to the centre of the largest cities in California.\n\nThe distances were calculated using the Haversine formula with the Longitude and Latitude:\n\n![](https://wikimedia.org/api/rest_v1/media/math/render/svg/a65dbbde43ff45bacd2505fcf32b44fc7dcd8cc0)\n\nwhere:\n\n- `phi_1` and `phi_2` are the Latitudes of point 1 and point 2, respectively\n- `lambda_1` and `lambda_2` are the Longitudes of point 1 and point 2, respectively\n- `r` is the radius of the Earth (6371km)\n\n\n### Content\n\nThe data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are pretty self-explanatory:\n\n1) Median House Value: Median house value for households within a block (measured in US Dollars) [$]\n2) Median Income: Median income for households within a block of houses (measured in tens of thousands of US Dollars) [10k$]\n3) Median Age: Median age of a house within a block; a lower number is a newer building [years]\n4) Total Rooms: Total number of rooms within a block\n5) Total Bedrooms: Total number of bedrooms within a block\n6) Population: Total number of people residing within a block\n7) Households: Total number of households, a group of people residing within a home unit, for a block\n8) Latitude: A measure of how far north a house is; a higher value is farther north [\u00b0]\n9) Longitude: A measure of how far west a house is; a higher value is farther west [\u00b0]\n10) Distance to coast: Distance to the nearest coast point [m]\n11) Distance to Los Angeles: Distance to the centre of Los Angeles [m]\n12) Distance to San Diego: Distance to the centre of San Diego [m]\n13) Distance to San Jose: Distance to the centre of San Jose [m]\n14) Distance to San Francisco: Distance to the centre of San Francisco [m]\n\n\n### Source\n\nThis data was entirely modified and cleaned by me. The original data (without the distance features) was initially featured in the following paper:\nPace, R. Kelley, and Ronald Barry. \"Sparse spatial autoregressions.\" Statistics & Probability Letters 33.3 (1997): 291-297.\n\nThe original dataset can be found under the following link: [https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "united states",
+    "earth and nature",
+    "housing",
+    "social science",
+    "regression",
+    "urban planning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "anthonytherrien/futureflow-navigating-tomorrows-urban-traffic",
+  "id_no": 4351555,
+  "datasetSlugNullable": "futureflow-navigating-tomorrows-urban-traffic",
+  "ownerUserNullable": "anthonytherrien",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FutureFlow: Navigating Tomorrow's Urban Traffic",
+  "subtitleNullable": "Decoding Urban Motion: Analyzing Traffic Density in the Cities of Tomorrow",
+  "descriptionNullable": "## Overview\n\nThis dataset provides a comprehensive look at traffic data in a futuristic urban setting. It includes over 1.2 million records, each representing a unique snapshot of various factors influencing traffic conditions in six fictional cities.\n\n## Features\n\n- **City**: The name of the city (e.g., MetropolisX, SolarisVille).\n- **Vehicle Type**: Type of vehicle in use (e.g., Car, Flying Car).\n- **Weather Conditions**: Current weather conditions at the time of data capture (e.g., Clear, Rainy).\n- **Economic Conditions**: Economic state of the city at the time of the record (e.g., Booming, Recession).\n- **Day of Week**: The day of the week.\n- **Hour of Day**: The hour of the day when the data was recorded.\n- **Speed**: Recorded speed of the vehicle.\n- **Energy Consumption**: An estimate of energy consumption based on vehicle type and speed.\n- **Is Peak Hour**: Indicator of whether the record was during peak traffic hours.\n- **Random Event Occurred**: Indicator of whether a random event (like accidents or road closures) occurred.\n- **Traffic Density**: The density of traffic at the time of recording.\n\n## File Format\n\nThe dataset is provided in a CSV format, suitable for analysis in various data processing tools and programming languages.\n\n## Potential Uses\n\nThis dataset can be used for a range of studies and analyses, including but not limited to:\n\n- Understanding traffic patterns in futuristic urban environments.\n- Analyzing the impact of various factors like weather, economic conditions, and vehicle types on traffic flow and energy consumption.\n- Developing and testing traffic management algorithms, especially for autonomous vehicles and smart city solutions.\n\n---\n\n*Note: This is a simulated dataset created for analytical and educational purposes.*",
+  "datasetId": 4351555,
+  "datasetSlug": "futureflow-navigating-tomorrows-urban-traffic",
+  "hasDatasetSlug": true,
+  "ownerUser": "anthonytherrien",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3843,
+  "totalVotes": 21,
+  "totalDownloads": 574,
+  "title": "FutureFlow: Navigating Tomorrow's Urban Traffic",
+  "hasTitle": true,
+  "subtitle": "Decoding Urban Motion: Analyzing Traffic Density in the Cities of Tomorrow",
+  "hasSubtitle": true,
+  "description": "## Overview\n\nThis dataset provides a comprehensive look at traffic data in a futuristic urban setting. It includes over 1.2 million records, each representing a unique snapshot of various factors influencing traffic conditions in six fictional cities.\n\n## Features\n\n- **City**: The name of the city (e.g., MetropolisX, SolarisVille).\n- **Vehicle Type**: Type of vehicle in use (e.g., Car, Flying Car).\n- **Weather Conditions**: Current weather conditions at the time of data capture (e.g., Clear, Rainy).\n- **Economic Conditions**: Economic state of the city at the time of the record (e.g., Booming, Recession).\n- **Day of Week**: The day of the week.\n- **Hour of Day**: The hour of the day when the data was recorded.\n- **Speed**: Recorded speed of the vehicle.\n- **Energy Consumption**: An estimate of energy consumption based on vehicle type and speed.\n- **Is Peak Hour**: Indicator of whether the record was during peak traffic hours.\n- **Random Event Occurred**: Indicator of whether a random event (like accidents or road closures) occurred.\n- **Traffic Density**: The density of traffic at the time of recording.\n\n## File Format\n\nThe dataset is provided in a CSV format, suitable for analysis in various data processing tools and programming languages.\n\n## Potential Uses\n\nThis dataset can be used for a range of studies and analyses, including but not limited to:\n\n- Understanding traffic patterns in futuristic urban environments.\n- Analyzing the impact of various factors like weather, economic conditions, and vehicle types on traffic flow and energy consumption.\n- Developing and testing traffic management algorithms, especially for autonomous vehicles and smart city solutions.\n\n---\n\n*Note: This is a simulated dataset created for analytical and educational purposes.*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "demographics",
+    "transportation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

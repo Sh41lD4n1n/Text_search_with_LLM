@@ -1,0 +1,43 @@
+{
+  "id": "fedesoriano/stroke-prediction-dataset",
+  "id_no": 1120859,
+  "datasetSlugNullable": "stroke-prediction-dataset",
+  "ownerUserNullable": "fedesoriano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Stroke Prediction Dataset",
+  "subtitleNullable": "11 clinical features for predicting stroke events",
+  "descriptionNullable": "### Similar Datasets\n\n- [**HIGHLIGHTED**] CERN Electron Collision Data \u2604\ufe0f[LINK](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data)\n- Hepatitis C Dataset: [LINK](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset)\n- Body Fat Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset)\n- Cirrhosis Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/cirrhosis-prediction-dataset)\n- Heart Failure Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/heart-failure-prediction)\n- Stellar Classification Dataset - SDSS17: [LINK](https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nAccording to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. \nThis dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.\n\n\n### Attribute Information\n\n1) id: unique identifier\n2) gender: \"Male\", \"Female\" or \"Other\"\n3) age: age of the patient\n4) hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension\n5) heart\\_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease\n6) ever\\_married: \"No\" or \"Yes\"\n7) work\\_type: \"children\", \"Govt\\_jov\", \"Never\\_worked\", \"Private\" or \"Self-employed\"\n8) Residence\\_type: \"Rural\" or \"Urban\"\n9) avg\\_glucose\\_level: average glucose level in blood\n10) bmi: body mass index\n11) smoking\\_status: \"formerly smoked\", \"never smoked\", \"smokes\" or \"Unknown\"*\n12) stroke: 1 if the patient had a stroke or 0 if not\n*Note: \"Unknown\" in smoking\\_status means that the information is unavailable for this patient\n\n### Acknowledgements\n\n**(Confidential Source)** - *Use only for educational purposes*\nIf you use this dataset in your research, please credit the author.",
+  "datasetId": 1120859,
+  "datasetSlug": "stroke-prediction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fedesoriano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1289732,
+  "totalVotes": 3026,
+  "totalDownloads": 185561,
+  "title": "Stroke Prediction Dataset",
+  "hasTitle": true,
+  "subtitle": "11 clinical features for predicting stroke events",
+  "hasSubtitle": true,
+  "description": "### Similar Datasets\n\n- [**HIGHLIGHTED**] CERN Electron Collision Data \u2604\ufe0f[LINK](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data)\n- Hepatitis C Dataset: [LINK](https://www.kaggle.com/fedesoriano/hepatitis-c-dataset)\n- Body Fat Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset)\n- Cirrhosis Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/cirrhosis-prediction-dataset)\n- Heart Failure Prediction Dataset: [LINK](https://www.kaggle.com/fedesoriano/heart-failure-prediction)\n- Stellar Classification Dataset - SDSS17: [LINK](https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17)\n- Wind Speed Prediction Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset)\n- Spanish Wine Quality Dataset: [LINK](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)\n\n\n### Context\n\nAccording to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. \nThis dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.\n\n\n### Attribute Information\n\n1) id: unique identifier\n2) gender: \"Male\", \"Female\" or \"Other\"\n3) age: age of the patient\n4) hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension\n5) heart\\_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease\n6) ever\\_married: \"No\" or \"Yes\"\n7) work\\_type: \"children\", \"Govt\\_jov\", \"Never\\_worked\", \"Private\" or \"Self-employed\"\n8) Residence\\_type: \"Rural\" or \"Urban\"\n9) avg\\_glucose\\_level: average glucose level in blood\n10) bmi: body mass index\n11) smoking\\_status: \"formerly smoked\", \"never smoked\", \"smokes\" or \"Unknown\"*\n12) stroke: 1 if the patient had a stroke or 0 if not\n*Note: \"Unknown\" in smoking\\_status means that the information is unavailable for this patient\n\n### Acknowledgements\n\n**(Confidential Source)** - *Use only for educational purposes*\nIf you use this dataset in your research, please credit the author.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "public health",
+    "health",
+    "binary classification",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

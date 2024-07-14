@@ -1,0 +1,43 @@
+{
+  "id": "anoshal/hand-gesture-recognition-dataset-one-hand",
+  "id_no": 1612849,
+  "datasetSlugNullable": "hand-gesture-recognition-dataset-one-hand",
+  "ownerUserNullable": "anoshal",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Hand Gesture Recognition Dataset - (One hand)",
+  "subtitleNullable": "Hand Gesture Detection dataset ",
+  "descriptionNullable": "### \nThis Dataset is created for problem of hand gesture recognition domain. The particular use case will be to develop  cnn that classifies single hand gestures.it includes signs like  0 to 5 and to identify  6 to 9 i developed my own signs for them it has also up ,down, left, right\netc signs. I have also attached python script that i have used for the data collection. You can freely use this script and create your customs sign datasets\ud83d\ude03\ud83d\ude03\ud83d\ude03 .\n\n\n### Content\n\n It is in RGB and smoothed Binary Formats. Each Dataset includes the 15 folders each represents one class and each folder has 1000 images. Each folder has 500 images with left and and 500 with right hand for same sign/gesture. \n\n<pre> Dataset_Rgb \n                |- up\n                       |- 1000images\n                : \n                :    remaining 13 folders\n                : \n                |- zero\n                   |- 1000images\n\n</pre>\n\n\n\n\n\n",
+  "datasetId": 1612849,
+  "datasetSlug": "hand-gesture-recognition-dataset-one-hand",
+  "hasDatasetSlug": true,
+  "ownerUser": "anoshal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 4710,
+  "totalVotes": 6,
+  "totalDownloads": 256,
+  "title": "Hand Gesture Recognition Dataset - (One hand)",
+  "hasTitle": true,
+  "subtitle": "Hand Gesture Detection dataset ",
+  "hasSubtitle": true,
+  "description": "### \nThis Dataset is created for problem of hand gesture recognition domain. The particular use case will be to develop  cnn that classifies single hand gestures.it includes signs like  0 to 5 and to identify  6 to 9 i developed my own signs for them it has also up ,down, left, right\netc signs. I have also attached python script that i have used for the data collection. You can freely use this script and create your customs sign datasets\ud83d\ude03\ud83d\ude03\ud83d\ude03 .\n\n\n### Content\n\n It is in RGB and smoothed Binary Formats. Each Dataset includes the 15 folders each represents one class and each folder has 1000 images. Each folder has 500 images with left and and 500 with right hand for same sign/gesture. \n\n<pre> Dataset_Rgb \n                |- up\n                       |- 1000images\n                : \n                :    remaining 13 folders\n                : \n                |- zero\n                   |- 1000images\n\n</pre>\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "advanced",
+    "computer vision",
+    "image",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kanuriviveknag/red-wine-quaility-dataset",
+  "id_no": 2516882,
+  "datasetSlugNullable": "red-wine-quaility-dataset",
+  "ownerUserNullable": "kanuriviveknag",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Red wine Quaility Dataset ",
+  "subtitleNullable": "",
+  "descriptionNullable": "There are 12 columns in this dataset by which we can predict the quality of the dataset. \n**Input variables :**\n\n1 - fixed acidity\n\n2 - volatile acidity\n\n3 - citric acid\n\n4 - residual sugar\n\n5 - chlorides\n\n6 - free sulfur dioxide\n\n7 - total sulfur dioxide\n\n8 - density\n\n9 - pH\n\n10 - sulphates\n\n11 - alcohol\n\n**Output variable** (based on sensory data) :\n quality (score between 0 and 10)\n",
+  "datasetId": 2516882,
+  "datasetSlug": "red-wine-quaility-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanuriviveknag",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1087,
+  "totalVotes": 28,
+  "totalDownloads": 121,
+  "title": "Red wine Quaility Dataset ",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "There are 12 columns in this dataset by which we can predict the quality of the dataset. \n**Input variables :**\n\n1 - fixed acidity\n\n2 - volatile acidity\n\n3 - citric acid\n\n4 - residual sugar\n\n5 - chlorides\n\n6 - free sulfur dioxide\n\n7 - total sulfur dioxide\n\n8 - density\n\n9 - pH\n\n10 - sulphates\n\n11 - alcohol\n\n**Output variable** (based on sensory data) :\n quality (score between 0 and 10)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "chemistry"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

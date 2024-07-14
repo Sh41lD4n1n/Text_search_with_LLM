@@ -1,0 +1,37 @@
+{
+  "id": "sumon3455/bangla-sign-language-video-dataset",
+  "id_no": 4950609,
+  "datasetSlugNullable": "bangla-sign-language-video-dataset",
+  "ownerUserNullable": "sumon3455",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Bangla Sign Language Video Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "The Bangla Sign Language Video Dataset is a comprehensive collection of videos captured from the Badhir School in Dhaka, Bangladesh. This dataset is meticulously curated, containing over 8000 videos showcasing sign language gestures corresponding to 40 common Bangla words. Developed with the aim of facilitating research and development in the field of sign language recognition and interpretation, this dataset serves as a valuable resource for both academia and industry professionals.\n\nAs part of the preprocessing pipeline for the Bangla Sign Language Video Dataset, advanced techniques were employed to detect the hand region and remove the background from the captured videos. This crucial preprocessing step enhances the quality and usability of the dataset for subsequent analysis and research endeavors in sign language recognition and interpretation.\n\nHand Region Detection:\nUtilizing state-of-the-art computer vision algorithms, the hand region in each video frame was accurately identified. MediaPipe, a robust framework for building multimodal perceptual pipelines, was employed for its efficiency and reliability in hand detection tasks. By isolating the hand region, the dataset ensures a focused and standardized input for subsequent processing stages, laying the foundation for precise gesture analysis.\n\nBackground Removal:\nFollowing hand region detection, sophisticated background removal techniques were applied to eliminate extraneous visual elements from the video frames. This process enhances the clarity and saliency of the hand gestures, minimizing distractions and facilitating more accurate feature extraction during subsequent analysis stages. Through meticulous background removal, the dataset offers researchers and developers clean and unambiguous data for training and evaluation purposes.",
+  "datasetId": 4950609,
+  "datasetSlug": "bangla-sign-language-video-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumon3455",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 36,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Bangla Sign Language Video Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The Bangla Sign Language Video Dataset is a comprehensive collection of videos captured from the Badhir School in Dhaka, Bangladesh. This dataset is meticulously curated, containing over 8000 videos showcasing sign language gestures corresponding to 40 common Bangla words. Developed with the aim of facilitating research and development in the field of sign language recognition and interpretation, this dataset serves as a valuable resource for both academia and industry professionals.\n\nAs part of the preprocessing pipeline for the Bangla Sign Language Video Dataset, advanced techniques were employed to detect the hand region and remove the background from the captured videos. This crucial preprocessing step enhances the quality and usability of the dataset for subsequent analysis and research endeavors in sign language recognition and interpretation.\n\nHand Region Detection:\nUtilizing state-of-the-art computer vision algorithms, the hand region in each video frame was accurately identified. MediaPipe, a robust framework for building multimodal perceptual pipelines, was employed for its efficiency and reliability in hand detection tasks. By isolating the hand region, the dataset ensures a focused and standardized input for subsequent processing stages, laying the foundation for precise gesture analysis.\n\nBackground Removal:\nFollowing hand region detection, sophisticated background removal techniques were applied to eliminate extraneous visual elements from the video frames. This process enhances the clarity and saliency of the hand gestures, minimizing distractions and facilitating more accurate feature extraction during subsequent analysis stages. Through meticulous background removal, the dataset offers researchers and developers clean and unambiguous data for training and evaluation purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

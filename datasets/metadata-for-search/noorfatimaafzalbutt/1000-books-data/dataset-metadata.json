@@ -1,0 +1,43 @@
+{
+  "id": "noorfatimaafzalbutt/1000-books-data",
+  "id_no": 5274062,
+  "datasetSlugNullable": "1000-books-data",
+  "ownerUserNullable": "noorfatimaafzalbutt",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "1000 books data",
+  "subtitleNullable": "This dataset contains prices along with star rantings of one thousand books.",
+  "descriptionNullable": "**Context:**\nThis dataset was created through web scraping to compile a comprehensive collection of book information, including titles, prices, and star ratings. The purpose of creating this dataset was to analyze and utilize the book data available on the Books to Scrape website, which offers a wide range of books with various attributes that can be beneficial for data analysis and project development.\n**Source:**\nThis dataset was created by web scraping this website (https://books.toscrape.com). The source code used for web scraping can be found in this GitHub repository: https://github.com/NoorFatimaAfzal/web-scraping\n**Inspiration:**\nThis dataset can be used for a variety of projects, including but not limited to:\n\nData Analysis and Visualization: Analyzing trends in book prices, and ratings. Creating visual representations of the data to identify patterns and insights.\nRecommendation Systems: Building a book recommendation system based on star ratings and other book attributes.\nInventory Management: Developing a system to manage and track book inventory, helping bookstores optimize their stock levels.\nPrice Comparison Tools: Creating tools to compare book prices across different platforms or over time.\nMachine Learning Projects: Using the dataset to train models for predicting book ratings or prices based on other attributes.",
+  "datasetId": 5274062,
+  "datasetSlug": "1000-books-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "noorfatimaafzalbutt",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 44,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "1000 books data",
+  "hasTitle": true,
+  "subtitle": "This dataset contains prices along with star rantings of one thousand books.",
+  "hasSubtitle": true,
+  "description": "**Context:**\nThis dataset was created through web scraping to compile a comprehensive collection of book information, including titles, prices, and star ratings. The purpose of creating this dataset was to analyze and utilize the book data available on the Books to Scrape website, which offers a wide range of books with various attributes that can be beneficial for data analysis and project development.\n**Source:**\nThis dataset was created by web scraping this website (https://books.toscrape.com). The source code used for web scraping can be found in this GitHub repository: https://github.com/NoorFatimaAfzal/web-scraping\n**Inspiration:**\nThis dataset can be used for a variety of projects, including but not limited to:\n\nData Analysis and Visualization: Analyzing trends in book prices, and ratings. Creating visual representations of the data to identify patterns and insights.\nRecommendation Systems: Building a book recommendation system based on star ratings and other book attributes.\nInventory Management: Developing a system to manage and track book inventory, helping bookstores optimize their stock levels.\nPrice Comparison Tools: Creating tools to compare book prices across different platforms or over time.\nMachine Learning Projects: Using the dataset to train models for predicting book ratings or prices based on other attributes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "asia",
+    "education",
+    "beginner",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

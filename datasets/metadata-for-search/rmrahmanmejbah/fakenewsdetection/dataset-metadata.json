@@ -1,0 +1,39 @@
+{
+  "id": "rmrahmanmejbah/fakenewsdetection",
+  "id_no": 2260373,
+  "datasetSlugNullable": "fakenewsdetection",
+  "ownerUserNullable": "rmrahmanmejbah",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Fake News Detection Dataset",
+  "subtitleNullable": "High quality dataset for the task of Fake News Detection",
+  "descriptionNullable": "**# Observing the damages that can be done by the rapid propagation of fake news in various sectors like politics and finance, automatic identification of fake news using linguistic analysis has drawn the attention of the research community. However, such methods are largely being developed for English where low resource languages remain out of the focus. But the risks spawned by fake and manipulative news are not confined by languages. In this work, we propose an annotated dataset of ~1L over news that can be used for building automated fake news detection systems for a low resource language like Bangla. Additionally, we provide an analysis of the dataset and develop a benchmark system with state of the art NLP techniques to identify Bangla fake news. To create this system, we explore traditional linguistic features and neural network based methods. We expect this dataset will be a valuable resource for building technologies to prevent the spreading of fake news and contribute in research with low resource languages.**",
+  "datasetId": 2260373,
+  "datasetSlug": "fakenewsdetection",
+  "hasDatasetSlug": true,
+  "ownerUser": "rmrahmanmejbah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1494,
+  "totalVotes": 6,
+  "totalDownloads": 200,
+  "title": "Fake News Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "High quality dataset for the task of Fake News Detection",
+  "hasSubtitle": true,
+  "description": "**# Observing the damages that can be done by the rapid propagation of fake news in various sectors like politics and finance, automatic identification of fake news using linguistic analysis has drawn the attention of the research community. However, such methods are largely being developed for English where low resource languages remain out of the focus. But the risks spawned by fake and manipulative news are not confined by languages. In this work, we propose an annotated dataset of ~1L over news that can be used for building automated fake news detection systems for a low resource language like Bangla. Additionally, we provide an analysis of the dataset and develop a benchmark system with state of the art NLP techniques to identify Bangla fake news. To create this system, we explore traditional linguistic features and neural network based methods. We expect this dataset will be a valuable resource for building technologies to prevent the spreading of fake news and contribute in research with low resource languages.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

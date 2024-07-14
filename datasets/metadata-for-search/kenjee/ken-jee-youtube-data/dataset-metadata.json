@@ -1,0 +1,44 @@
+{
+  "id": "kenjee/ken-jee-youtube-data",
+  "id_no": 1883326,
+  "datasetSlugNullable": "ken-jee-youtube-data",
+  "ownerUserNullable": "kenjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Ken Jee YouTube Data",
+  "subtitleNullable": "Dataset for analyzing Ken Jee's YouTube Channel. Data by video and over time",
+  "descriptionNullable": "### Context\nI've been creating videos on YouTube since November of 2017 (https://www.youtube.com/c/KenJee1)  with the mission of making data science accessible to more people. One of the best ways to do this is to tell stories and working on projects. This is my attempt at my first community project. I am making my YouTube data available for everyone to help better understand the growth of my YouTube community and think about ways that it could be improved! I would love for everyone in the community feel like they had some hand in contributing to the channel. \n\nAnnouncement Video: https://youtu.be/YPph59-rTxA\n\nI will be sharing my favorite projects in a few of my videos (with permission of course), and would also like to give away a few small prizes to the top featured notebooks. I hope you have fun with the analysis, I'm interested in seeing what you find in the data! \n\nFor those looking for a place to start, some things I'm thinking about are:\n- What are the themes of the comment data?\n- What types of video titles and thumbnails drive the most traffic?\n- Who is my core audience and what are they interested in? \n- What types of videos have lead to the most growth?\n- What type of content are people engaging with the most or watching the longest? \n\nSome advanced projects could be:\n- Creating a chat bot to respond to common comments with videos where I have addressed a topic\n- Pulling sentiment from thumbnails and titles and comparing that with performance \n\nData I would like to add over time\n- Video descriptions\n- Video subtitles\n- Actual video data \n\n### Content\nThere are four files in this repo. The relevant data included in most of them is from Nov 2017 - Jan 2022. I gathered some of this data via the YouTube API and the rest from my specific analytics. \n\n1) **Aggregated Metrics By Video** - This has all the topline metrics from my channel from its start (around 2015 to Jan 22 2022). I didn't post my first video until around \n2) **Aggregated Metrics By Video with Country and Subscriber Status** - This has the same data as aggregated metrics by video, but it includes dimensions for which country people are viewing from and if the viewers are subscribed to the channel or not.\n3) **Video Performance Over Time** - This has the daily data from each of my videos. \n4) **All Comments** - This is all of my comment data gathered from the YouTube API. I have anonymized the users so don't worry about your name showing up! \n\n\n### Acknowledgements\nThis obviously wouldn't be possible without all of the wonderful people who watch and interact with my videos! I'm incredibly grateful for you all and I'm so happy I can share this project with you! \n\n### License \nI collected this data from the YouTube API and through my own google analytics. Thus use of it must uphold the YouTube API's terms of service: https://developers.google.com/youtube/terms/api-services-terms-of-service\n\n",
+  "datasetId": 1883326,
+  "datasetSlug": "ken-jee-youtube-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "kenjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 34266,
+  "totalVotes": 206,
+  "totalDownloads": 4662,
+  "title": "Ken Jee YouTube Data",
+  "hasTitle": true,
+  "subtitle": "Dataset for analyzing Ken Jee's YouTube Channel. Data by video and over time",
+  "hasSubtitle": true,
+  "description": "### Context\nI've been creating videos on YouTube since November of 2017 (https://www.youtube.com/c/KenJee1)  with the mission of making data science accessible to more people. One of the best ways to do this is to tell stories and working on projects. This is my attempt at my first community project. I am making my YouTube data available for everyone to help better understand the growth of my YouTube community and think about ways that it could be improved! I would love for everyone in the community feel like they had some hand in contributing to the channel. \n\nAnnouncement Video: https://youtu.be/YPph59-rTxA\n\nI will be sharing my favorite projects in a few of my videos (with permission of course), and would also like to give away a few small prizes to the top featured notebooks. I hope you have fun with the analysis, I'm interested in seeing what you find in the data! \n\nFor those looking for a place to start, some things I'm thinking about are:\n- What are the themes of the comment data?\n- What types of video titles and thumbnails drive the most traffic?\n- Who is my core audience and what are they interested in? \n- What types of videos have lead to the most growth?\n- What type of content are people engaging with the most or watching the longest? \n\nSome advanced projects could be:\n- Creating a chat bot to respond to common comments with videos where I have addressed a topic\n- Pulling sentiment from thumbnails and titles and comparing that with performance \n\nData I would like to add over time\n- Video descriptions\n- Video subtitles\n- Actual video data \n\n### Content\nThere are four files in this repo. The relevant data included in most of them is from Nov 2017 - Jan 2022. I gathered some of this data via the YouTube API and the rest from my specific analytics. \n\n1) **Aggregated Metrics By Video** - This has all the topline metrics from my channel from its start (around 2015 to Jan 22 2022). I didn't post my first video until around \n2) **Aggregated Metrics By Video with Country and Subscriber Status** - This has the same data as aggregated metrics by video, but it includes dimensions for which country people are viewing from and if the viewers are subscribed to the channel or not.\n3) **Video Performance Over Time** - This has the daily data from each of my videos. \n4) **All Comments** - This is all of my comment data gathered from the YouTube API. I have anonymized the users so don't worry about your name showing up! \n\n\n### Acknowledgements\nThis obviously wouldn't be possible without all of the wonderful people who watch and interact with my videos! I'm incredibly grateful for you all and I'm so happy I can share this project with you! \n\n### License \nI collected this data from the YouTube API and through my own google analytics. Thus use of it must uphold the YouTube API's terms of service: https://developers.google.com/youtube/terms/api-services-terms-of-service\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "categorical",
+    "education",
+    "exploratory data analysis",
+    "time series analysis",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

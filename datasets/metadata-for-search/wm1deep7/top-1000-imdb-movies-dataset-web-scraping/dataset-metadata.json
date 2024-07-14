@@ -1,0 +1,39 @@
+{
+  "id": "wm1deep7/top-1000-imdb-movies-dataset-web-scraping",
+  "id_no": 4077951,
+  "datasetSlugNullable": "top-1000-imdb-movies-dataset-web-scraping",
+  "ownerUserNullable": "wm1deep7",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Top 1000 IMDb movies Dataset ( Web Scraping )",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4077951,
+  "datasetSlug": "top-1000-imdb-movies-dataset-web-scraping",
+  "hasDatasetSlug": true,
+  "ownerUser": "wm1deep7",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 77,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "Top 1000 IMDb movies Dataset ( Web Scraping )",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

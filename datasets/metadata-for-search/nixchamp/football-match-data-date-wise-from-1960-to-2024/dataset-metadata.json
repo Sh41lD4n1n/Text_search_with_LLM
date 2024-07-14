@@ -1,0 +1,39 @@
+{
+  "id": "nixchamp/football-match-data-date-wise-from-1960-to-2024",
+  "id_no": 5219219,
+  "datasetSlugNullable": "football-match-data-date-wise-from-1960-to-2024",
+  "ownerUserNullable": "nixchamp",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Football Match Data Date Wise From 1960 to 2024",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5219219,
+  "datasetSlug": "football-match-data-date-wise-from-1960-to-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "nixchamp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 29,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Football Match Data Date Wise From 1960 to 2024",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

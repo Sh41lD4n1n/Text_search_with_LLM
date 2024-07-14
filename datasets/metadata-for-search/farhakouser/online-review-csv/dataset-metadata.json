@@ -1,0 +1,40 @@
+{
+  "id": "farhakouser/online-review-csv",
+  "id_no": 5249021,
+  "datasetSlugNullable": "online-review-csv",
+  "ownerUserNullable": "farhakouser",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "online review.csv",
+  "subtitleNullable": "Online shopping sentiment analysis flikcart ",
+  "descriptionNullable": "The [/kaggle/input/online-review-csv/online_review.csv ](url)file contains customer reviews from Flipkart. It includes the following columns:\n\nreview_id: Unique identifier for each review.\nproduct_id: Unique identifier for each product.\nuser_id: Unique identifier for each user.\nrating: Star rating (1 to 5) given by the user.\ntitle: Summary of the review.\nreview_text: Detailed feedback from the user.\nreview_date: Date the review was submitted.\nverified_purchase: Indicates if the purchase was verified (true/false).\nhelpful_votes: Number of users who found the review helpful.\nreviewer_name: Name or alias of the reviewer.\nUses\nSentiment Analysis: Understand customer sentiments.\nProduct Improvement: Identify areas for product enhancement.\nMarket Research: Analyze customer preferences.\nRecommendation Systems: Improve recommendation algorithms.\nThis dataset is ideal for practicing data analysis and machine learning techniques.",
+  "datasetId": 5249021,
+  "datasetSlug": "online-review-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "farhakouser",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 20,
+  "totalVotes": 2,
+  "totalDownloads": 1,
+  "title": "online review.csv",
+  "hasTitle": true,
+  "subtitle": "Online shopping sentiment analysis flikcart ",
+  "hasSubtitle": true,
+  "description": "The [/kaggle/input/online-review-csv/online_review.csv ](url)file contains customer reviews from Flipkart. It includes the following columns:\n\nreview_id: Unique identifier for each review.\nproduct_id: Unique identifier for each product.\nuser_id: Unique identifier for each user.\nrating: Star rating (1 to 5) given by the user.\ntitle: Summary of the review.\nreview_text: Detailed feedback from the user.\nreview_date: Date the review was submitted.\nverified_purchase: Indicates if the purchase was verified (true/false).\nhelpful_votes: Number of users who found the review helpful.\nreviewer_name: Name or alias of the reviewer.\nUses\nSentiment Analysis: Understand customer sentiments.\nProduct Improvement: Identify areas for product enhancement.\nMarket Research: Analyze customer preferences.\nRecommendation Systems: Improve recommendation algorithms.\nThis dataset is ideal for practicing data analysis and machine learning techniques.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

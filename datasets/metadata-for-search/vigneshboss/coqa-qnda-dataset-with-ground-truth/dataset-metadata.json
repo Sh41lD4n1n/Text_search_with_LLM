@@ -1,0 +1,42 @@
+{
+  "id": "vigneshboss/coqa-qnda-dataset-with-ground-truth",
+  "id_no": 5176735,
+  "datasetSlugNullable": "coqa-qnda-dataset-with-ground-truth",
+  "ownerUserNullable": "vigneshboss",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "CoQA QndA Dataset with ground truth",
+  "subtitleNullable": "Processed version of https://www.kaggle.com/datasets/jeromeblanchet/conversation",
+  "descriptionNullable": "## **Source Dataset:**\n\nThis data is a processed version of [https://www.kaggle.com/datasets/jeromeblanchet/conversational-question-answering-dataset-coqa](https://www.kaggle.com/datasets/jeromeblanchet/conversational-question-answering-dataset-coqa) dataset. \n\n## **Fields are mapped as below:**\n\n1. data -&gt; questions -&gt; input_text to **question**\n2. data -&gt; answers -&gt; input_text to **answer**\n3. data -&gt; answers -&gt; span_text to **ground_truth**\n4. data -&gt; story to **context**\n5. data -&gt; id to **data_id**\n6. **question_id** is generated sequentially. \n\n\n## **Processed using the notebook:**\n\n[https://www.kaggle.com/code/vigneshboss/coqa-dataset-to-qnda-dataset-with-ground-truth](https://www.kaggle.com/code/vigneshboss/coqa-dataset-to-qnda-dataset-with-ground-truth)\n\n\n## **Dataset Logo Credit:**\n\nPhoto by <a href=\"https://unsplash.com/@wesleyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Wesley Tingey</a> on <a href=\"https://unsplash.com/photos/yellow-and-white-10-card-FIq7K_wD4jM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  \n\n",
+  "datasetId": 5176735,
+  "datasetSlug": "coqa-qnda-dataset-with-ground-truth",
+  "hasDatasetSlug": true,
+  "ownerUser": "vigneshboss",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 6,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "CoQA QndA Dataset with ground truth",
+  "hasTitle": true,
+  "subtitle": "Processed version of https://www.kaggle.com/datasets/jeromeblanchet/conversation",
+  "hasSubtitle": true,
+  "description": "## **Source Dataset:**\n\nThis data is a processed version of [https://www.kaggle.com/datasets/jeromeblanchet/conversational-question-answering-dataset-coqa](https://www.kaggle.com/datasets/jeromeblanchet/conversational-question-answering-dataset-coqa) dataset. \n\n## **Fields are mapped as below:**\n\n1. data -&gt; questions -&gt; input_text to **question**\n2. data -&gt; answers -&gt; input_text to **answer**\n3. data -&gt; answers -&gt; span_text to **ground_truth**\n4. data -&gt; story to **context**\n5. data -&gt; id to **data_id**\n6. **question_id** is generated sequentially. \n\n\n## **Processed using the notebook:**\n\n[https://www.kaggle.com/code/vigneshboss/coqa-dataset-to-qnda-dataset-with-ground-truth](https://www.kaggle.com/code/vigneshboss/coqa-dataset-to-qnda-dataset-with-ground-truth)\n\n\n## **Dataset Logo Credit:**\n\nPhoto by <a href=\"https://unsplash.com/@wesleyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Wesley Tingey</a> on <a href=\"https://unsplash.com/photos/yellow-and-white-10-card-FIq7K_wD4jM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "text",
+    "retrieval question answering",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

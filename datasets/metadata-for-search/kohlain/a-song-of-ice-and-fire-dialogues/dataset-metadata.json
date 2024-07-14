@@ -1,0 +1,39 @@
+{
+  "id": "kohlain/a-song-of-ice-and-fire-dialogues",
+  "id_no": 5298966,
+  "datasetSlugNullable": "a-song-of-ice-and-fire-dialogues",
+  "ownerUserNullable": "kohlain",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "A Song of Ice and Fire - Dialogues",
+  "subtitleNullable": "Dialogue dataset from George R. R. Martin's \"A Song of Ice and Fire\" books",
+  "descriptionNullable": "# Context\n\"A Song of Ice and Fire\" is an epic series of fantasy novels by George R.R. Martin. The series is set in the fictional continents of Westeros and Essos and chronicles the power struggles among noble families as they vie for control of the Iron Throne of the Seven Kingdoms. The series is renowned for its complex characters, intricate political plots, and the interweaving of multiple storylines.\n\nThe first book, \"A Game of Thrones,\" was published in 1996, and the series has since expanded to include five published novels with two more planned. The books have inspired the highly successful HBO television series \"Game of Thrones,\" which has brought the world of Westeros to a global audience.\n\n# Description of the Dataset\nThis dataset contains dialogues from the \"A Song of Ice and Fire\" book series. Each entry corresponds to a line of dialogue, along with metadata about the context in which the dialogue occurs. This dataset is valuable for those studying narrative structure, character interactions, and dialogue patterns in literature.\n\n##Column Descriptions\n- **Release Date:** The date when the book was released.\n- **Book:** The title of the book from which the dialogue is taken.\n- **Chapter Number:** The sequential number of the chapter within the book.\n- **Chapter Name:** The name of the chapter.\n- **Speaker(s):** The character(s) who is/are speaking the line of dialogue.\n- **Dialogue:** The actual line of dialogue spoken by the character(s).\n- **Addressee(s):** The character(s) to whom the dialogue is directed.\n- **Listener(s):** The character(s) who hear the dialogue, regardless of whether it is directed to them.\n- **Mentioned Character(s):** Characters mentioned in the dialogue but not necessarily present.\n- **Present:** A boolean indicating whether the dialogue is in the present or in the past.\n\n# Acknowledgment\nThis dataset was created using a combination of artificial intelligence and human corrections to ensure accuracy and comprehensiveness. We acknowledge the effort and time invested by both AI and human editors in compiling this dataset.\n\n# Usage\nThe original work belongs to the author, George R.R. Martin. This dataset is provided for educational and research purposes only. No commercial use is allowed or will be conducted with this dataset. Users must adhere to these terms and respect the intellectual property rights of the original author.",
+  "datasetId": 5298966,
+  "datasetSlug": "a-song-of-ice-and-fire-dialogues",
+  "hasDatasetSlug": true,
+  "ownerUser": "kohlain",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 51,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "A Song of Ice and Fire - Dialogues",
+  "hasTitle": true,
+  "subtitle": "Dialogue dataset from George R. R. Martin's \"A Song of Ice and Fire\" books",
+  "hasSubtitle": true,
+  "description": "# Context\n\"A Song of Ice and Fire\" is an epic series of fantasy novels by George R.R. Martin. The series is set in the fictional continents of Westeros and Essos and chronicles the power struggles among noble families as they vie for control of the Iron Throne of the Seven Kingdoms. The series is renowned for its complex characters, intricate political plots, and the interweaving of multiple storylines.\n\nThe first book, \"A Game of Thrones,\" was published in 1996, and the series has since expanded to include five published novels with two more planned. The books have inspired the highly successful HBO television series \"Game of Thrones,\" which has brought the world of Westeros to a global audience.\n\n# Description of the Dataset\nThis dataset contains dialogues from the \"A Song of Ice and Fire\" book series. Each entry corresponds to a line of dialogue, along with metadata about the context in which the dialogue occurs. This dataset is valuable for those studying narrative structure, character interactions, and dialogue patterns in literature.\n\n##Column Descriptions\n- **Release Date:** The date when the book was released.\n- **Book:** The title of the book from which the dialogue is taken.\n- **Chapter Number:** The sequential number of the chapter within the book.\n- **Chapter Name:** The name of the chapter.\n- **Speaker(s):** The character(s) who is/are speaking the line of dialogue.\n- **Dialogue:** The actual line of dialogue spoken by the character(s).\n- **Addressee(s):** The character(s) to whom the dialogue is directed.\n- **Listener(s):** The character(s) who hear the dialogue, regardless of whether it is directed to them.\n- **Mentioned Character(s):** Characters mentioned in the dialogue but not necessarily present.\n- **Present:** A boolean indicating whether the dialogue is in the present or in the past.\n\n# Acknowledgment\nThis dataset was created using a combination of artificial intelligence and human corrections to ensure accuracy and comprehensiveness. We acknowledge the effort and time invested by both AI and human editors in compiling this dataset.\n\n# Usage\nThe original work belongs to the author, George R.R. Martin. This dataset is provided for educational and research purposes only. No commercial use is allowed or will be conducted with this dataset. Users must adhere to these terms and respect the intellectual property rights of the original author.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tarundalal/animated-movies-imdb",
+  "id_no": 2435504,
+  "datasetSlugNullable": "animated-movies-imdb",
+  "ownerUserNullable": "tarundalal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Animated Movies IMDb",
+  "subtitleNullable": "Best Animation Movies Rated on IMDb",
+  "descriptionNullable": "Cartoons for kids, anime for adults, animated adventures for teens\u2013these films and shows feature a diverse slate of animated stories for a broad range of ages.\n\nColumn: \n- Title: Name of the Movie\n- Rating- Rated out of 10\n- Votes- Total Votes\n- Gross- Total Gross Collection in Million\n- Genre- Type of Movie\n- Certificate- U, PG, 12-A, and so on categories.\n- Description- Synopsis of the movie\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n\nGitHub Repository contains how the data was created along with EDA and Recommendation System Machine Learning. Do Star it and open a pull request for any suggestions: https://github.com/lucifertrj/DataSetHub",
+  "datasetId": 2435504,
+  "datasetSlug": "animated-movies-imdb",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarundalal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10319,
+  "totalVotes": 36,
+  "totalDownloads": 2422,
+  "title": "Animated Movies IMDb",
+  "hasTitle": true,
+  "subtitle": "Best Animation Movies Rated on IMDb",
+  "hasSubtitle": true,
+  "description": "Cartoons for kids, anime for adults, animated adventures for teens\u2013these films and shows feature a diverse slate of animated stories for a broad range of ages.\n\nColumn: \n- Title: Name of the Movie\n- Rating- Rated out of 10\n- Votes- Total Votes\n- Gross- Total Gross Collection in Million\n- Genre- Type of Movie\n- Certificate- U, PG, 12-A, and so on categories.\n- Description- Synopsis of the movie\n\n### Join our Community\n<a href=\"https://discord.com/invite/kxZYxdTKp6\">\n<img src=\"https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1\"></a>\n\nGitHub Repository contains how the data was created along with EDA and Recommendation System Machine Learning. Do Star it and open a pull request for any suggestions: https://github.com/lucifertrj/DataSetHub",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "nlp",
+    "recommender systems",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

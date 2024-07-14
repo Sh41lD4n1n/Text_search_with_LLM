@@ -1,0 +1,40 @@
+{
+  "id": "andpereira/portugal-real-estate-house-pricing",
+  "id_no": 4803761,
+  "datasetSlugNullable": "portugal-real-estate-house-pricing",
+  "ownerUserNullable": "andpereira",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Portuguese Apartment Listings Dataset",
+  "subtitleNullable": "Comprehensive Dataset of Apartment Listings in Portugal from Imovirtual",
+  "descriptionNullable": "The dataset provides information about apartments available for sale in Portugal, gathered from Imovirtual. Each entry in the dataset represents an apartment and includes the following attributes:\n\nIndex: A unique identifier for each entry in the dataset.\nName: The apartment type, indicating the number of bedrooms.\nPrice: The selling price of the apartment.\nArea: The area of the apartment in square meters.\nLocation: The district where the apartment is situated.\n\nThe provided data sample encompasses a variety of apartment types, prices, areas, and locations in different districts of Portugal, covering both new and used apartments. These data are valuable for real estate market analysis and price predictions.",
+  "datasetId": 4803761,
+  "datasetSlug": "portugal-real-estate-house-pricing",
+  "hasDatasetSlug": true,
+  "ownerUser": "andpereira",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 130,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "Portuguese Apartment Listings Dataset",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset of Apartment Listings in Portugal from Imovirtual",
+  "hasSubtitle": true,
+  "description": "The dataset provides information about apartments available for sale in Portugal, gathered from Imovirtual. Each entry in the dataset represents an apartment and includes the following attributes:\n\nIndex: A unique identifier for each entry in the dataset.\nName: The apartment type, indicating the number of bedrooms.\nPrice: The selling price of the apartment.\nArea: The area of the apartment in square meters.\nLocation: The district where the apartment is situated.\n\nThe provided data sample encompasses a variety of apartment types, prices, areas, and locations in different districts of Portugal, covering both new and used apartments. These data are valuable for real estate market analysis and price predictions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "anujsingh098/top-1000-imdb-movies",
+  "id_no": 2527594,
+  "datasetSlugNullable": "top-1000-imdb-movies",
+  "ownerUserNullable": "anujsingh098",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Top 1000 IMDb Movies",
+  "subtitleNullable": "IMDB Dataset of top 1000 movies and tv shows",
+  "descriptionNullable": "This data has top 1000 movies and TV shows according to IMDb rating\n\n**# ## Content**\nPoster_Link - Link of the poster that imdb using\nSeries_Title = Name of the movie\nReleased_Year - Year at which that movie released\nCertificate - Certificate earned by that movie\nRuntime - Total runtime of the movie\nGenre - Genre of the movie\nIMDB_Rating - Rating of the movie at IMDB site\nOverview - mini story/ summary\nMeta_score - Score earned by the movie\nDirector - Name of the Director\nStar1,Star2,Star3,Star4 - Name of the Stars\nNoofvotes - Total number of votes\nGross - Money earned by that movie",
+  "datasetId": 2527594,
+  "datasetSlug": "top-1000-imdb-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "anujsingh098",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 5619,
+  "totalVotes": 33,
+  "totalDownloads": 1041,
+  "title": "Top 1000 IMDb Movies",
+  "hasTitle": true,
+  "subtitle": "IMDB Dataset of top 1000 movies and tv shows",
+  "hasSubtitle": true,
+  "description": "This data has top 1000 movies and TV shows according to IMDb rating\n\n**# ## Content**\nPoster_Link - Link of the poster that imdb using\nSeries_Title = Name of the movie\nReleased_Year - Year at which that movie released\nCertificate - Certificate earned by that movie\nRuntime - Total runtime of the movie\nGenre - Genre of the movie\nIMDB_Rating - Rating of the movie at IMDB site\nOverview - mini story/ summary\nMeta_score - Score earned by the movie\nDirector - Name of the Director\nStar1,Star2,Star3,Star4 - Name of the Stars\nNoofvotes - Total number of votes\nGross - Money earned by that movie",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

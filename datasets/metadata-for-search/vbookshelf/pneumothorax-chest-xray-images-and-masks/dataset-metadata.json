@@ -1,0 +1,44 @@
+{
+  "id": "vbookshelf/pneumothorax-chest-xray-images-and-masks",
+  "id_no": 461757,
+  "datasetSlugNullable": "pneumothorax-chest-xray-images-and-masks",
+  "ownerUserNullable": "vbookshelf",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Chest X-Ray Images with Pneumothorax Masks",
+  "subtitleNullable": "for pneumothorax classification and segmentation",
+  "descriptionNullable": "### Background\n\nThis dataset contains the stage 1 train and test data from the Kaggle [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) competition - structured in a way that makes it easier to use.\n\n- All the data is in one place.\n- Both stage 1 test image and test mask data is available.\n- Images are in png format instead of dicom.\n- Masks are in png format instead of rle encoded.\n- The file names are shorter and the target is included in the file name.\n- The folder structure is simpler.\n\n### Context\n\n*A pneumothorax (noo-moe-THOR-aks) is a collapsed lung. A pneumothorax occurs when air leaks into the space between your lung and chest wall. This air pushes on the outside of your lung and makes it collapse. Pneumothorax can be a complete lung collapse or a collapse of only a portion of the lung.*\n\n*A pneumothorax can be caused by a blunt or penetrating chest injury, certain medical procedures, or damage from underlying lung disease. Or it may occur for no obvious reason. Symptoms usually include sudden chest pain and shortness of breath. On some occasions, a collapsed lung can be a life-threatening event.*\n\n\n*Treatment for a pneumothorax usually involves inserting a needle or chest tube between the ribs to remove the excess air. However, a small pneumothorax may heal on its own.*\n\n\n~ quote from [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367)\n\n\n### Content\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1086574%2F68c88d76baf627a9a403b966d1238f01%2Fdatasetimage.png?generation=1577978354713777&alt=media)\n\nThis dataset contains 12,047 chest x-ray images and 12,047 pneumothorax masks. The images and masks are 1024x1024 and are in png format. \n\nThese are the folders and files:<br>\n\n- png_images folder<br>\n- png_masks folder<br>\n- stage_1_train_images.csv<br>\n- stage_1_test_images.csv<br>\n\nEach of the two csv files lists those images that were part of the original competition stage 1 train and test sets. The original image id's are also included to enable the images to be referenced back to the original competition dicom images. The target is included in both the csv files and in the name of each image and mask. \n\n\nEach image and its corresponding mask have the same file name but are stored in separate folders. The naming format is as follows:\n\n**4_train_1_.png**<br>\n\n**4** = id<br>\n**train** = this image was part of the competition stage 1 train set (options are train or test)<br>\n**1** = target (0 --&gt; no pneumo, 1 --&gt; has pneumo)\n\n\n\n\n### Acknowledgements\n\n- Many thanks to the hosts of the SIIM-ACR Pneumothorax Segmentation competition for creating this valuable dataset.\n- Also thank you to Jesper (@jesperdramsch) who downloaded the competition stage 1 dicom data via the Google Cloud Healthcare API and made it available [here](https://www.kaggle.com/jesperdramsch/siim-acr-pneumothorax-segmentation-data) on Kaggle.\n\n\n### Inspiration\n\n- Build a model to detect pneumothorax.<br>\n- Build a model to segment pneumothorax.<br>\n- Build a model that outputs both a classification and a segmentation.<br>\n- Build a web app to automate the diagnosis of pneumothorax.<br>\n\nHeader photo by Tim Goedhart on Unsplash.",
+  "datasetId": 461757,
+  "datasetSlug": "pneumothorax-chest-xray-images-and-masks",
+  "hasDatasetSlug": true,
+  "ownerUser": "vbookshelf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 21077,
+  "totalVotes": 30,
+  "totalDownloads": 2468,
+  "title": "Chest X-Ray Images with Pneumothorax Masks",
+  "hasTitle": true,
+  "subtitle": "for pneumothorax classification and segmentation",
+  "hasSubtitle": true,
+  "description": "### Background\n\nThis dataset contains the stage 1 train and test data from the Kaggle [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) competition - structured in a way that makes it easier to use.\n\n- All the data is in one place.\n- Both stage 1 test image and test mask data is available.\n- Images are in png format instead of dicom.\n- Masks are in png format instead of rle encoded.\n- The file names are shorter and the target is included in the file name.\n- The folder structure is simpler.\n\n### Context\n\n*A pneumothorax (noo-moe-THOR-aks) is a collapsed lung. A pneumothorax occurs when air leaks into the space between your lung and chest wall. This air pushes on the outside of your lung and makes it collapse. Pneumothorax can be a complete lung collapse or a collapse of only a portion of the lung.*\n\n*A pneumothorax can be caused by a blunt or penetrating chest injury, certain medical procedures, or damage from underlying lung disease. Or it may occur for no obvious reason. Symptoms usually include sudden chest pain and shortness of breath. On some occasions, a collapsed lung can be a life-threatening event.*\n\n\n*Treatment for a pneumothorax usually involves inserting a needle or chest tube between the ribs to remove the excess air. However, a small pneumothorax may heal on its own.*\n\n\n~ quote from [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367)\n\n\n### Content\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1086574%2F68c88d76baf627a9a403b966d1238f01%2Fdatasetimage.png?generation=1577978354713777&alt=media)\n\nThis dataset contains 12,047 chest x-ray images and 12,047 pneumothorax masks. The images and masks are 1024x1024 and are in png format. \n\nThese are the folders and files:<br>\n\n- png_images folder<br>\n- png_masks folder<br>\n- stage_1_train_images.csv<br>\n- stage_1_test_images.csv<br>\n\nEach of the two csv files lists those images that were part of the original competition stage 1 train and test sets. The original image id's are also included to enable the images to be referenced back to the original competition dicom images. The target is included in both the csv files and in the name of each image and mask. \n\n\nEach image and its corresponding mask have the same file name but are stored in separate folders. The naming format is as follows:\n\n**4_train_1_.png**<br>\n\n**4** = id<br>\n**train** = this image was part of the competition stage 1 train set (options are train or test)<br>\n**1** = target (0 --&gt; no pneumo, 1 --&gt; has pneumo)\n\n\n\n\n### Acknowledgements\n\n- Many thanks to the hosts of the SIIM-ACR Pneumothorax Segmentation competition for creating this valuable dataset.\n- Also thank you to Jesper (@jesperdramsch) who downloaded the competition stage 1 dicom data via the Google Cloud Healthcare API and made it available [here](https://www.kaggle.com/jesperdramsch/siim-acr-pneumothorax-segmentation-data) on Kaggle.\n\n\n### Inspiration\n\n- Build a model to detect pneumothorax.<br>\n- Build a model to segment pneumothorax.<br>\n- Build a model that outputs both a classification and a segmentation.<br>\n- Build a web app to automate the diagnosis of pneumothorax.<br>\n\nHeader photo by Tim Goedhart on Unsplash.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "health",
+    "medicine",
+    "computer science",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

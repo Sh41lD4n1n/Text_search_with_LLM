@@ -1,0 +1,39 @@
+{
+  "id": "shreyanshmanavshukla/ff-face-224",
+  "id_no": 5170892,
+  "datasetSlugNullable": "ff-face-224",
+  "ownerUserNullable": "shreyanshmanavshukla",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "FF++_Face_224",
+  "subtitleNullable": "DeepFake dataset FF++",
+  "descriptionNullable": "Dataset Name: FaceForensics++ Faces_224\nDescription:\nThe FaceForensics++ Faces Dataset is a collection of images extracted from the FaceForensics++ dataset, focusing specifically on facial imagery. It comprises two main categories: \"Fake\" and \"Real,\" representing manipulated and authentic facial images, respectively.\n\nDataset Structure:\n\nImage Size: 224x224 pixels\nFolders:\nFF++_Faces_224/\nContains the extracted and resized images from the FaceForensics++ dataset.\nmetadata_FF++.csv\nA CSV file storing metadata information for each image, including filename (Name) and label (Label) indicating whether the image is \"Fake\" or \"Real.\"\nIntended Use:\nThe dataset is suitable for tasks such as:\n\nFacial image analysis\nDeep learning-based manipulation detection\nImage forensics research and development\nNote: This dataset is derived from the FaceForensics++ dataset and is intended for research and educational purposes only.\n\n",
+  "datasetId": 5170892,
+  "datasetSlug": "ff-face-224",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyanshmanavshukla",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 29,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "FF++_Face_224",
+  "hasTitle": true,
+  "subtitle": "DeepFake dataset FF++",
+  "hasSubtitle": true,
+  "description": "Dataset Name: FaceForensics++ Faces_224\nDescription:\nThe FaceForensics++ Faces Dataset is a collection of images extracted from the FaceForensics++ dataset, focusing specifically on facial imagery. It comprises two main categories: \"Fake\" and \"Real,\" representing manipulated and authentic facial images, respectively.\n\nDataset Structure:\n\nImage Size: 224x224 pixels\nFolders:\nFF++_Faces_224/\nContains the extracted and resized images from the FaceForensics++ dataset.\nmetadata_FF++.csv\nA CSV file storing metadata information for each image, including filename (Name) and label (Label) indicating whether the image is \"Fake\" or \"Real.\"\nIntended Use:\nThe dataset is suitable for tasks such as:\n\nFacial image analysis\nDeep learning-based manipulation detection\nImage forensics research and development\nNote: This dataset is derived from the FaceForensics++ dataset and is intended for research and educational purposes only.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

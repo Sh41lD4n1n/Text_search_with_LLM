@@ -1,0 +1,43 @@
+{
+  "id": "altavish/boston-housing-dataset",
+  "id_no": 3537,
+  "datasetSlugNullable": "boston-housing-dataset",
+  "ownerUserNullable": "altavish",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Boston housing dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Domain: Real Estate\n\nDifficulty: Easy to Medium\n\nChallenges: \n 1. Missing value treatment  \n 2. Outlier treatment\n 3. Understanding which variables drive the price of homes in Boston\n\nSummary:\nThe Boston housing dataset contains 506 observations and 14 variables.  The dataset contains missing values.\n",
+  "datasetId": 3537,
+  "datasetSlug": "boston-housing-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "altavish",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 190861,
+  "totalVotes": 172,
+  "totalDownloads": 45848,
+  "title": "Boston housing dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Domain: Real Estate\n\nDifficulty: Easy to Medium\n\nChallenges: \n 1. Missing value treatment  \n 2. Outlier treatment\n 3. Understanding which variables drive the price of homes in Boston\n\nSummary:\nThe Boston housing dataset contains 506 observations and 14 variables.  The dataset contains missing values.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "beginner",
+    "data cleaning",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

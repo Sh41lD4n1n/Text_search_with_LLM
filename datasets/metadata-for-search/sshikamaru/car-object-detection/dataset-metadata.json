@@ -1,0 +1,41 @@
+{
+  "id": "sshikamaru/car-object-detection",
+  "id_no": 843852,
+  "datasetSlugNullable": "car-object-detection",
+  "ownerUserNullable": "sshikamaru",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Car Object Detection",
+  "subtitleNullable": "YOLO Object Detection Playground | 1000+ Videos",
+  "descriptionNullable": "### Context\n\nYOLO (\"you only look once\") is a popular algoritm because it achieves high accuracy while also being able to run in real-time, almost clocking 45 frames per second. A smaller version of the network, Fast YOLO, processes an astounding 155 frames per second while still achieving double the mAP of other real-time detectors. This algorithm \"only looks once\" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes.\n\n### Content\nThe dataset contains media of cars in all views, and your job is to create an algorithm to detect them!\n\n\n### Acknowledgements\n\nI got this dataset from TJHSST from one of the competitions they hosted.\n\n",
+  "datasetId": 843852,
+  "datasetSlug": "car-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sshikamaru",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 236554,
+  "totalVotes": 400,
+  "totalDownloads": 79089,
+  "title": "Car Object Detection",
+  "hasTitle": true,
+  "subtitle": "YOLO Object Detection Playground | 1000+ Videos",
+  "hasSubtitle": true,
+  "description": "### Context\n\nYOLO (\"you only look once\") is a popular algoritm because it achieves high accuracy while also being able to run in real-time, almost clocking 45 frames per second. A smaller version of the network, Fast YOLO, processes an astounding 155 frames per second while still achieving double the mAP of other real-time detectors. This algorithm \"only looks once\" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes.\n\n### Content\nThe dataset contains media of cars in all views, and your job is to create an algorithm to detect them!\n\n\n### Acknowledgements\n\nI got this dataset from TJHSST from one of the competitions they hosted.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "automobiles and vehicles",
+    "computer vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

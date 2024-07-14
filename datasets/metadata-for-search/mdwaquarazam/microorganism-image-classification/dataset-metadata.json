@@ -1,0 +1,43 @@
+{
+  "id": "mdwaquarazam/microorganism-image-classification",
+  "id_no": 2384175,
+  "datasetSlugNullable": "microorganism-image-classification",
+  "ownerUserNullable": "mdwaquarazam",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Micro-Organism Image Classification",
+  "subtitleNullable": "This is image data of Micro Organism Like Amoeba, Paramecium, Bacteria,Hydra an ",
+  "descriptionNullable": "**Classify the Micro Organism  in given dataset.**\n\nThere are 8 different types of  folder given for Micro Organism they are following  \nAmoeba---\nEuglena--\nHydra--\nParamecium--\nRod bacteria--\nSpherical bacteria--\nSpiral bacteria--\nYeast--\n\n\n****Acknowledgements****\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n**Name of some contributer who they published there image on bing **\n{ Doe_stack ,alamy, Go Graph visual ,dream strive ,science photolibrary ,fotosearch.com, cobris ,    \n v begman ,Marc Perk ,bdfishing, and many more }\n\n**Inspiration**\n*Want to build powerful Neural network that can classify these images with more accuracy.*\n\n--All image may have different size so make them into similar size \n\n--you can use Augmentation property after splitting dataset\n",
+  "datasetId": 2384175,
+  "datasetSlug": "microorganism-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdwaquarazam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 17188,
+  "totalVotes": 36,
+  "totalDownloads": 3037,
+  "title": "Micro-Organism Image Classification",
+  "hasTitle": true,
+  "subtitle": "This is image data of Micro Organism Like Amoeba, Paramecium, Bacteria,Hydra an ",
+  "hasSubtitle": true,
+  "description": "**Classify the Micro Organism  in given dataset.**\n\nThere are 8 different types of  folder given for Micro Organism they are following  \nAmoeba---\nEuglena--\nHydra--\nParamecium--\nRod bacteria--\nSpherical bacteria--\nSpiral bacteria--\nYeast--\n\n\n****Acknowledgements****\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n**Name of some contributer who they published there image on bing **\n{ Doe_stack ,alamy, Go Graph visual ,dream strive ,science photolibrary ,fotosearch.com, cobris ,    \n v begman ,Marc Perk ,bdfishing, and many more }\n\n**Inspiration**\n*Want to build powerful Neural network that can classify these images with more accuracy.*\n\n--All image may have different size so make them into similar size \n\n--you can use Augmentation property after splitting dataset\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "classification",
+    "neural networks",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

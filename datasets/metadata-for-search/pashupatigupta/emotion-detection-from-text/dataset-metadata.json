@@ -1,0 +1,41 @@
+{
+  "id": "pashupatigupta/emotion-detection-from-text",
+  "id_no": 1116138,
+  "datasetSlugNullable": "emotion-detection-from-text",
+  "ownerUserNullable": "pashupatigupta",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Emotion Detection from Text",
+  "subtitleNullable": "Predict emotion from textual data : Multi-class text classification",
+  "descriptionNullable": "### Context\n\nEmotion detection from text is one of the challenging problems in Natural Language Processing. The reason is the unavailability of labeled dataset and the multi-class nature of the problem. Humans have a variety of emotions and it is difficult to collect enough records for each emotion and hence the problem of class imbalance arises. Here we have a labeled data for emotion detection and the objective is to build an efficient model to detect emotion.\n\n\n### Content\n\nThe data is basically a collection of tweets annotated with the emotions behind them. We have three columns tweet_id, sentiment, and content. In \"content\" we have the raw tweet. In \"sentiment\" we have the emotion behind the tweet. Refer to the starter notebook for more insights.\n\n### Acknowledgements\n\nThis public domain dataset is collected from data.world platform. Thanks, data.world for releasing it under Public License. \n\n\n### Inspiration\n\nThe data that we have is having 13 different emotion  40000 records. So it's challenging to build an efficient multiclass classification model.  We may need to logically reduce the number of classes here and use some advanced methods to build efficient model.",
+  "datasetId": 1116138,
+  "datasetSlug": "emotion-detection-from-text",
+  "hasDatasetSlug": true,
+  "ownerUser": "pashupatigupta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 125228,
+  "totalVotes": 133,
+  "totalDownloads": 15166,
+  "title": "Emotion Detection from Text",
+  "hasTitle": true,
+  "subtitle": "Predict emotion from textual data : Multi-class text classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nEmotion detection from text is one of the challenging problems in Natural Language Processing. The reason is the unavailability of labeled dataset and the multi-class nature of the problem. Humans have a variety of emotions and it is difficult to collect enough records for each emotion and hence the problem of class imbalance arises. Here we have a labeled data for emotion detection and the objective is to build an efficient model to detect emotion.\n\n\n### Content\n\nThe data is basically a collection of tweets annotated with the emotions behind them. We have three columns tweet_id, sentiment, and content. In \"content\" we have the raw tweet. In \"sentiment\" we have the emotion behind the tweet. Refer to the starter notebook for more insights.\n\n### Acknowledgements\n\nThis public domain dataset is collected from data.world platform. Thanks, data.world for releasing it under Public License. \n\n\n### Inspiration\n\nThe data that we have is having 13 different emotion  40000 records. So it's challenging to build an efficient multiclass classification model.  We may need to logically reduce the number of classes here and use some advanced methods to build efficient model.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

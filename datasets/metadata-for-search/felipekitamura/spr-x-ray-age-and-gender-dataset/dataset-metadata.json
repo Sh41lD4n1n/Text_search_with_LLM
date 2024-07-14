@@ -1,0 +1,72 @@
+{
+  "id": "felipekitamura/spr-x-ray-age-and-gender-dataset",
+  "id_no": 2988034,
+  "datasetSlugNullable": "spr-x-ray-age-and-gender-dataset",
+  "ownerUserNullable": "felipekitamura",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "SPR X-Ray Age and Gender Dataset",
+  "subtitleNullable": "Help predict the age and gender of the patient based on the X-Ray image",
+  "descriptionNullable": "The [Radiology and Diagnostic Imaging Society of S\u00e3o Paulo (SPR)](http://www.spr.org.br), with [Amazon Web Services](https://aws.amazon.com/), is organizing the Artificial Intelligence Challenge to determine gender and age using chest X-rays for the first time. And all healthcare professionals and data scientists worldwide are invited to participate.\n\nThe challenge is to create a model capable of predicting the patient's gender and age group through chest X-rays. To ensure the success of this activity, SPR invited institutions to collaborate with the donation of tens of thousands of images; this data allows participants to create artificial intelligence algorithms to indicate the gender and age of the patient.\n\nThis action aims to encourage initiatives that present in advance potential identification errors that could harm the patient, in addition to promoting scientific and educational activities for the Radiology and Diagnostic Imaging community.\n\n[Gender prediction competition](https://www.kaggle.com/competitions/spr-x-ray-gender)\n[Age prediction competition](https://www.kaggle.com/competitions/spr-x-ray-age)\n\n## About SPR\n\nFor 54 years, SPR has promoted scientific updating and continuing education within the highest principles of professionalism.\n\nWith an eye on the future, the organization is often looking to bring dynamism to its work and great prominence to everyone in its community, aiming to be well-recognized nationally and intentionally.\n\nSPR is responsible for the S\u00e3o Paulo Radiological Meeting (JPR), its most significant event, and is also considered the biggest congress of the specialty in Latin America.\n\nJPR2023 will take place in the Transamerica Expo Center in S\u00e3o Paulo - SP, on April 27-30.\n\n## Attention\nImaging studies used in this Challenge have been contributed by several sources and are de-identified patient data, meaning that the contributing institutions have taken reasonable care to remove from them all personally identifiable information. As a participant in the Competition, you agree 1) not to make copies of, or in any way redistribute, any of the data made available to you, 2) not to attempt to re-identify any personal information based on the data, 3) not to attempt to probe the test set's labels, and 4) **to notify the Competition organizers of any personally identifiable information you encounter in the data by sending an email to desafio.ia@spr.org.br**. Do not post a message to the Kaggle community discussion forums. This is intended to mitigate any potential identifiable data breach. To participate in this competition, you abide by these terms and agree to do your best to guarantee the privacy of any potentially identifiable subject.\n\n\n",
+  "datasetId": 2988034,
+  "datasetSlug": "spr-x-ray-age-and-gender-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "felipekitamura",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4794,
+  "totalVotes": 29,
+  "totalDownloads": 599,
+  "title": "SPR X-Ray Age and Gender Dataset",
+  "hasTitle": true,
+  "subtitle": "Help predict the age and gender of the patient based on the X-Ray image",
+  "hasSubtitle": true,
+  "description": "The [Radiology and Diagnostic Imaging Society of S\u00e3o Paulo (SPR)](http://www.spr.org.br), with [Amazon Web Services](https://aws.amazon.com/), is organizing the Artificial Intelligence Challenge to determine gender and age using chest X-rays for the first time. And all healthcare professionals and data scientists worldwide are invited to participate.\n\nThe challenge is to create a model capable of predicting the patient's gender and age group through chest X-rays. To ensure the success of this activity, SPR invited institutions to collaborate with the donation of tens of thousands of images; this data allows participants to create artificial intelligence algorithms to indicate the gender and age of the patient.\n\nThis action aims to encourage initiatives that present in advance potential identification errors that could harm the patient, in addition to promoting scientific and educational activities for the Radiology and Diagnostic Imaging community.\n\n[Gender prediction competition](https://www.kaggle.com/competitions/spr-x-ray-gender)\n[Age prediction competition](https://www.kaggle.com/competitions/spr-x-ray-age)\n\n## About SPR\n\nFor 54 years, SPR has promoted scientific updating and continuing education within the highest principles of professionalism.\n\nWith an eye on the future, the organization is often looking to bring dynamism to its work and great prominence to everyone in its community, aiming to be well-recognized nationally and intentionally.\n\nSPR is responsible for the S\u00e3o Paulo Radiological Meeting (JPR), its most significant event, and is also considered the biggest congress of the specialty in Latin America.\n\nJPR2023 will take place in the Transamerica Expo Center in S\u00e3o Paulo - SP, on April 27-30.\n\n## Attention\nImaging studies used in this Challenge have been contributed by several sources and are de-identified patient data, meaning that the contributing institutions have taken reasonable care to remove from them all personally identifiable information. As a participant in the Competition, you agree 1) not to make copies of, or in any way redistribute, any of the data made available to you, 2) not to attempt to re-identify any personal information based on the data, 3) not to attempt to probe the test set's labels, and 4) **to notify the Competition organizers of any personally identifiable information you encounter in the data by sending an email to desafio.ia@spr.org.br**. Do not post a message to the Kaggle community discussion forums. This is intended to mitigate any potential identifiable data breach. To participate in this competition, you abide by these terms and agree to do your best to guarantee the privacy of any potentially identifiable subject.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "health",
+    "image",
+    "binary classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "straus91",
+      "role": "reader"
+    },
+    {
+      "username": "brunoaragao",
+      "role": "reader"
+    },
+    {
+      "username": "eduardofarina",
+      "role": "reader"
+    },
+    {
+      "username": "marcelocoelho",
+      "role": "reader"
+    },
+    {
+      "username": "nitamarabdala",
+      "role": "reader"
+    },
+    {
+      "username": "gabrielbianco",
+      "role": "reader"
+    },
+    {
+      "username": "kuriki",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

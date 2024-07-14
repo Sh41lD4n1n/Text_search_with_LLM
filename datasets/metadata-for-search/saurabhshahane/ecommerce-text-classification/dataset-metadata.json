@@ -1,0 +1,39 @@
+{
+  "id": "saurabhshahane/ecommerce-text-classification",
+  "id_no": 2093102,
+  "datasetSlugNullable": "ecommerce-text-classification",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Ecommerce Text Classification",
+  "subtitleNullable": "Classify the objects based on their text description",
+  "descriptionNullable": "This is the classification based E-commerce text dataset for 4 categories - \"Electronics\", \"Household\", \"Books\" and \"Clothing & Accessories\", which almost cover 80% of any E-commerce website. \n\nThe dataset is in \".csv\" format with two columns - the first column is the class name and the second one is the datapoint of that class. The data point is the product and description from the e-commerce website.\n\nThe dataset has the following features :\n\nData Set Characteristics:  Multivariate\n\nNumber of Instances: 50425\n\nNumber of classes:  4\n\nArea: Computer science \n\nAttribute Characteristics: Real\n\nNumber of Attributes: 1\n\nAssociated Tasks: Classification\n\nMissing Values? No\n\n\nGautam. (2019). E commerce text dataset (version - 2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3355823",
+  "datasetId": 2093102,
+  "datasetSlug": "ecommerce-text-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 40200,
+  "totalVotes": 61,
+  "totalDownloads": 7057,
+  "title": "Ecommerce Text Classification",
+  "hasTitle": true,
+  "subtitle": "Classify the objects based on their text description",
+  "hasSubtitle": true,
+  "description": "This is the classification based E-commerce text dataset for 4 categories - \"Electronics\", \"Household\", \"Books\" and \"Clothing & Accessories\", which almost cover 80% of any E-commerce website. \n\nThe dataset is in \".csv\" format with two columns - the first column is the class name and the second one is the datapoint of that class. The data point is the product and description from the e-commerce website.\n\nThe dataset has the following features :\n\nData Set Characteristics:  Multivariate\n\nNumber of Instances: 50425\n\nNumber of classes:  4\n\nArea: Computer science \n\nAttribute Characteristics: Real\n\nNumber of Attributes: 1\n\nAssociated Tasks: Classification\n\nMissing Values? No\n\n\nGautam. (2019). E commerce text dataset (version - 2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3355823",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

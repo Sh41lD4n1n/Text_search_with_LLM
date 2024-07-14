@@ -1,0 +1,43 @@
+{
+  "id": "mikhailma/russian-social-media-text-classification",
+  "id_no": 2745543,
+  "datasetSlugNullable": "russian-social-media-text-classification",
+  "ownerUserNullable": "mikhailma",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Russian Social Media Text Classification",
+  "subtitleNullable": "Text classification data from VK CUP 2022",
+  "descriptionNullable": "VKontakte communities can belong to one of several predefined categories. But even among the sports communities there is a fairly strong division by subject! The same authors can write about only one sport or at once about a large number.\nBased on a given set of posts, determine the topic - what kind of sport is being discussed in the selected community?\n\n\nHere is a list of available categories:\n1. athletics,\n2. autosport,\n3. basketball,\n4. boardgames,\n5. esport,\n6. extreme,\n7. football,\n8. hockey,\n9. martial arts,\n10. motosport,\n11. tennis,\n12. volleyball,\n13. winter_sport\n\nevaluate metric look like:\n```python\ndef score(true, pred, n_samples):\n    counter = 0\n    if true == pred:\n        counter += 1\n    else:\n        counter -= 1\n    return counter / n_samples\n```\n\n",
+  "datasetId": 2745543,
+  "datasetSlug": "russian-social-media-text-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikhailma",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4484,
+  "totalVotes": 17,
+  "totalDownloads": 726,
+  "title": "Russian Social Media Text Classification",
+  "hasTitle": true,
+  "subtitle": "Text classification data from VK CUP 2022",
+  "hasSubtitle": true,
+  "description": "VKontakte communities can belong to one of several predefined categories. But even among the sports communities there is a fairly strong division by subject! The same authors can write about only one sport or at once about a large number.\nBased on a given set of posts, determine the topic - what kind of sport is being discussed in the selected community?\n\n\nHere is a list of available categories:\n1. athletics,\n2. autosport,\n3. basketball,\n4. boardgames,\n5. esport,\n6. extreme,\n7. football,\n8. hockey,\n9. martial arts,\n10. motosport,\n11. tennis,\n12. volleyball,\n13. winter_sport\n\nevaluate metric look like:\n```python\ndef score(true, pred, n_samples):\n    counter = 0\n    if true == pred:\n        counter += 1\n    else:\n        counter -= 1\n    return counter / n_samples\n```\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "sports",
+    "text",
+    "social networks",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

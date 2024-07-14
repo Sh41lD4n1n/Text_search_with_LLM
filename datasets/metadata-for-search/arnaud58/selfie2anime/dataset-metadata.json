@@ -1,0 +1,39 @@
+{
+  "id": "arnaud58/selfie2anime",
+  "id_no": 308470,
+  "datasetSlugNullable": "selfie2anime",
+  "ownerUserNullable": "arnaud58",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "selfie2anime",
+  "subtitleNullable": "Picture datasets of selfie2anime",
+  "descriptionNullable": "### Context\n\nPictures of the dataset selfie2anime use in Gan work and found in this github : https://github.com/znxlwm/UGATIT-pytorch\n\n\n### Content\n\nContains pictures of : \n\n* 3400 women faces in trainA\n* 3400 anime faces in trainB\n* 100 women faces in testA\n* 100 anime faces in testB\n",
+  "datasetId": 308470,
+  "datasetSlug": "selfie2anime",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnaud58",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 33662,
+  "totalVotes": 59,
+  "totalDownloads": 3321,
+  "title": "selfie2anime",
+  "hasTitle": true,
+  "subtitle": "Picture datasets of selfie2anime",
+  "hasSubtitle": true,
+  "description": "### Context\n\nPictures of the dataset selfie2anime use in Gan work and found in this github : https://github.com/znxlwm/UGATIT-pytorch\n\n\n### Content\n\nContains pictures of : \n\n* 3400 women faces in trainA\n* 3400 anime faces in trainB\n* 100 women faces in testA\n* 100 anime faces in testB\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

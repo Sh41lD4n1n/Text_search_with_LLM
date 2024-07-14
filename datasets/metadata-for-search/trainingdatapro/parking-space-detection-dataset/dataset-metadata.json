@@ -1,0 +1,45 @@
+{
+  "id": "trainingdatapro/parking-space-detection-dataset",
+  "id_no": 3602452,
+  "datasetSlugNullable": "parking-space-detection-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Parking Space Detection & Classification Dataset",
+  "subtitleNullable": "Object Detection dataset and classified parking spaces",
+  "descriptionNullable": "# Parking Space Object Detection dataset\n\nThe dataset consists of images of parking spaces along with corresponding bounding box masks. In order to facilitate object detection and localization, every parking space in the images is annotated with a bounding box mask.\n\nThe bounding box mask outlines the boundary of the parking space, marking its position and shape within the image. This allows for accurate identification and extraction of individual parking spaces. Each parking spot is also labeled in accordance to its occupancy: **free, not free or partially free**.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/parking-spaces-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=parking-space-detection-dataset)** to buy the dataset\n\nThis dataset can be leveraged for a range of applications such as *parking lot management, autonomous vehicle navigation, smart city implementations, and traffic analysis*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fcfcbb4ab9835f1d0438660e9e716edc7%2FMacBook%20Air%20-%201.png?generation=1691494918451033&alt=media)\n\n# Dataset structure\n- **images** - contains of original images of parkings\n- **boxes** - includes bounding box labeling for the original images\n-  **annotations.xml** -  contains coordinates of the bounding boxes and labels, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes and labels for parking spaces. For each point, the x and y coordinates are provided.\n\n### Labels for the parking space:\n- **free_parking_space** - corresponds to free parking spaces, the box is **blue**\n- **not_free_parking_space** - corresponds to occupied parking spaces, the box is **red**\n- **partially_free_parking_space** - corresponds to partially free parking spaces, the box is **yellow**\n\n# Example of XML file structure\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F65dd5de0f9498cf9c7cb9e59d796f852%2Fcarbon.png?generation=1691495144572290&alt=media)\n\n# Parking Space Detection & Classification might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/parking-spaces-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=parking-space-detection-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n## **[TrainingData](https://trainingdata.pro/datasets/parking-spaces-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=parking-space-detection-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: parking space detection system, parking spots, parking lot, automatic parking lots detection, parking spot surveillance, parking space classification, car park, occupancy detection, visual occupancy detection, visual occupancy classification, smart city, urban planning, oblect detection, image classification, image dataset, cctv*",
+  "datasetId": 3602452,
+  "datasetSlug": "parking-space-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10203,
+  "totalVotes": 25,
+  "totalDownloads": 1383,
+  "title": "Parking Space Detection & Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Object Detection dataset and classified parking spaces",
+  "hasSubtitle": true,
+  "description": "# Parking Space Object Detection dataset\n\nThe dataset consists of images of parking spaces along with corresponding bounding box masks. In order to facilitate object detection and localization, every parking space in the images is annotated with a bounding box mask.\n\nThe bounding box mask outlines the boundary of the parking space, marking its position and shape within the image. This allows for accurate identification and extraction of individual parking spaces. Each parking spot is also labeled in accordance to its occupancy: **free, not free or partially free**.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/parking-spaces-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=parking-space-detection-dataset)** to buy the dataset\n\nThis dataset can be leveraged for a range of applications such as *parking lot management, autonomous vehicle navigation, smart city implementations, and traffic analysis*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fcfcbb4ab9835f1d0438660e9e716edc7%2FMacBook%20Air%20-%201.png?generation=1691494918451033&alt=media)\n\n# Dataset structure\n- **images** - contains of original images of parkings\n- **boxes** - includes bounding box labeling for the original images\n-  **annotations.xml** -  contains coordinates of the bounding boxes and labels, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes and labels for parking spaces. For each point, the x and y coordinates are provided.\n\n### Labels for the parking space:\n- **free_parking_space** - corresponds to free parking spaces, the box is **blue**\n- **not_free_parking_space** - corresponds to occupied parking spaces, the box is **red**\n- **partially_free_parking_space** - corresponds to partially free parking spaces, the box is **yellow**\n\n# Example of XML file structure\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F65dd5de0f9498cf9c7cb9e59d796f852%2Fcarbon.png?generation=1691495144572290&alt=media)\n\n# Parking Space Detection & Classification might be made in accordance with your requirements.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/parking-spaces-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=parking-space-detection-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n## **[TrainingData](https://trainingdata.pro/datasets/parking-spaces-detection?utm_source=kaggle&utm_medium=cpc&utm_campaign=parking-space-detection-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: parking space detection system, parking spots, parking lot, automatic parking lots detection, parking spot surveillance, parking space classification, car park, occupancy detection, visual occupancy detection, visual occupancy classification, smart city, urban planning, oblect detection, image classification, image dataset, cctv*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "automobiles and vehicles",
+    "image",
+    "binary classification",
+    "urban planning",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

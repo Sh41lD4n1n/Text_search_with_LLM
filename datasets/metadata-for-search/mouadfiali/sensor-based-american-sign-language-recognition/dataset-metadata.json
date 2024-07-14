@@ -1,0 +1,57 @@
+{
+  "id": "mouadfiali/sensor-based-american-sign-language-recognition",
+  "id_no": 4166941,
+  "datasetSlugNullable": "sensor-based-american-sign-language-recognition",
+  "ownerUserNullable": "mouadfiali",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Sensor based (American) Sign Language Recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset features detailed sensor data from smart gloves designed to translate sign language into spoken language. The gloves were equipped with **5 flex sensors** and a \"**[Grove - 6 - Axis Accelerometer & Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/)**\" for each hand. The dataset consists of different files, each recorded by a different individual, showcasing a variety of hand movements and signs. Key features include:\n**- `Flex-Left/Right-p-Frame-n` :** Measures the degree of flexion for each finger over 20 frames, with 'n' indicating the frame and 'p' the finger number.\n**- `Acceleration-X/Y/Z-Left/Right-Frame-n` :** Captures the hand's acceleration in 3D space across 20 frames.\n**- `Orientation-X/Y/Z-Left/Right-Frame-n` :** Details the hand's orientation in 3D space for each frame.\n So for each hand, there are 3 types of measurements (Flex, Acceleration, Orientation), each with 3 axes (X, Y, Z) for Acceleration and Orientation, and 5 measurements for Flex (one per finger), resulting in 11 measurements per hand per frame. Multiplied by 20 frames, and then doubled for both hands, this amounts to **440 columns**. Additionally, there's a **\"SIGN\" column**, which is the target for each data entry, identifying the specific sign language gesture.\n\nEach recording in the dataset represents a sequence of 20 frames, capturing detailed motion for both left and right hands.\n\n**This dataset is not yet complete and is still being collected.**",
+  "datasetId": 4166941,
+  "datasetSlug": "sensor-based-american-sign-language-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "mouadfiali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 714,
+  "totalVotes": 2,
+  "totalDownloads": 138,
+  "title": "Sensor based (American) Sign Language Recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset features detailed sensor data from smart gloves designed to translate sign language into spoken language. The gloves were equipped with **5 flex sensors** and a \"**[Grove - 6 - Axis Accelerometer & Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/)**\" for each hand. The dataset consists of different files, each recorded by a different individual, showcasing a variety of hand movements and signs. Key features include:\n**- `Flex-Left/Right-p-Frame-n` :** Measures the degree of flexion for each finger over 20 frames, with 'n' indicating the frame and 'p' the finger number.\n**- `Acceleration-X/Y/Z-Left/Right-Frame-n` :** Captures the hand's acceleration in 3D space across 20 frames.\n**- `Orientation-X/Y/Z-Left/Right-Frame-n` :** Details the hand's orientation in 3D space for each frame.\n So for each hand, there are 3 types of measurements (Flex, Acceleration, Orientation), each with 3 axes (X, Y, Z) for Acceleration and Orientation, and 5 measurements for Flex (one per finger), resulting in 11 measurements per hand per frame. Multiplied by 20 frames, and then doubled for both hands, this amounts to **440 columns**. Additionally, there's a **\"SIGN\" column**, which is the target for each data entry, identifying the specific sign language gesture.\n\nEach recording in the dataset represents a sequence of 20 frames, capturing detailed motion for both left and right hands.\n\n**This dataset is not yet complete and is still being collected.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "artificial intelligence",
+    "electronics",
+    "intermediate",
+    "classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "badrgh",
+      "role": "writer"
+    },
+    {
+      "username": "kamalmarouane001",
+      "role": "writer"
+    },
+    {
+      "username": "ismailzarktouni",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

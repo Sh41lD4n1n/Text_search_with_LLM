@@ -1,0 +1,44 @@
+{
+  "id": "yangzhou32/socialnet-weibo-version-1",
+  "id_no": 4947020,
+  "datasetSlugNullable": "socialnet-weibo-version-1",
+  "ownerUserNullable": "yangzhou32",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "SocialNet-Weibo-Version-1",
+  "subtitleNullable": "A public dataset of fake news identification for the microblogging social platfo",
+  "descriptionNullable": "# Description\n\n**Weibo V1**: Includes data on 2,067 news items from the microblogging platform in the half of 2023. There are **1,000 fake news** and **1,067 real news**. The dataset consists of comment data on news spreads and contains **user** and **comment information**. \n\n**Future work**: for the next version of the dataset check out https://github.com/yzhouli/SocialNet.\n\n# Please Cite \n\n**Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.\n\n```\n@article{yang2024model,\n  title={A model for early rumor detection base on topic-derived domain compensation and multi-user association},\n  author={Yang, Zhou and Pang, Yucai and Li, Qian and Wei, Shihong and Wang, Rong and Xiao, Yunpeng},\n  journal={Expert Systems with Applications},\n  pages={123951},\n  year={2024},\n  publisher={Elsevier}\n}\n```",
+  "datasetId": 4947020,
+  "datasetSlug": "socialnet-weibo-version-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "yangzhou32",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 170,
+  "totalVotes": 2,
+  "totalDownloads": 21,
+  "title": "SocialNet-Weibo-Version-1",
+  "hasTitle": true,
+  "subtitle": "A public dataset of fake news identification for the microblogging social platfo",
+  "hasSubtitle": true,
+  "description": "# Description\n\n**Weibo V1**: Includes data on 2,067 news items from the microblogging platform in the half of 2023. There are **1,000 fake news** and **1,067 real news**. The dataset consists of comment data on news spreads and contains **user** and **comment information**. \n\n**Future work**: for the next version of the dataset check out https://github.com/yzhouli/SocialNet.\n\n# Please Cite \n\n**Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.\n\n```\n@article{yang2024model,\n  title={A model for early rumor detection base on topic-derived domain compensation and multi-user association},\n  author={Yang, Zhou and Pang, Yucai and Li, Qian and Wei, Shihong and Wang, Rong and Xiao, Yunpeng},\n  journal={Expert Systems with Applications},\n  pages={123951},\n  year={2024},\n  publisher={Elsevier}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "artificial intelligence",
+    "computer science",
+    "data analytics",
+    "classification",
+    "chinese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

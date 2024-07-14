@@ -1,0 +1,40 @@
+{
+  "id": "brzy56/2023-nwsl-womens-soccer-league-player-stats-full",
+  "id_no": 5084868,
+  "datasetSlugNullable": "2023-nwsl-womens-soccer-league-player-stats-full",
+  "ownerUserNullable": "brzy56",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "2023 NWSL Womens Soccer League Player Stats FULL",
+  "subtitleNullable": "Comprehensive player positions and stats for NWSL athletes - 2023",
+  "descriptionNullable": "2023 complete and comprehensive player stats for 347 NWSL athletes/players.\nData comes from NWSL.com. Data fields have been cleaned, and additional fields, like player position, have been added for NWSL data science fun.\n\nComplete stats include:\n- Attacking\n- Passing\n- Goals\n- Defending\n- PKs\n- Goalkeeping\n\nand more. 38 variables included. \n\nI have left NaNs in the dataset instead of filling them with 0s because 0 is a meaningful stat in this dataset. NaNs means there was no data available. For example, goalkeeping saves, 0 is a meaningful statistical number. But you can drop and clean NaNs for your own purposes on your own.\n\nPercentages are in whole numbers.\n\n2024 season stats and stadium attendance stats will be added soon. \n\nMessage me for other women's sports ideas and variables to include. ",
+  "datasetId": 5084868,
+  "datasetSlug": "2023-nwsl-womens-soccer-league-player-stats-full",
+  "hasDatasetSlug": true,
+  "ownerUser": "brzy56",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 51,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "2023 NWSL Womens Soccer League Player Stats FULL",
+  "hasTitle": true,
+  "subtitle": "Comprehensive player positions and stats for NWSL athletes - 2023",
+  "hasSubtitle": true,
+  "description": "2023 complete and comprehensive player stats for 347 NWSL athletes/players.\nData comes from NWSL.com. Data fields have been cleaned, and additional fields, like player position, have been added for NWSL data science fun.\n\nComplete stats include:\n- Attacking\n- Passing\n- Goals\n- Defending\n- PKs\n- Goalkeeping\n\nand more. 38 variables included. \n\nI have left NaNs in the dataset instead of filling them with 0s because 0 is a meaningful stat in this dataset. NaNs means there was no data available. For example, goalkeeping saves, 0 is a meaningful statistical number. But you can drop and clean NaNs for your own purposes on your own.\n\nPercentages are in whole numbers.\n\n2024 season stats and stadium attendance stats will be added soon. \n\nMessage me for other women's sports ideas and variables to include. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

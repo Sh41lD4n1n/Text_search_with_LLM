@@ -1,0 +1,44 @@
+{
+  "id": "bhavikardeshna/visual-question-answering-computer-vision-nlp",
+  "id_no": 2264789,
+  "datasetSlugNullable": "visual-question-answering-computer-vision-nlp",
+  "ownerUserNullable": "bhavikardeshna",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Visual Question Answering- Computer Vision & NLP",
+  "subtitleNullable": "Exploring multimodal fusion-type transformer models for VQA",
+  "descriptionNullable": "VQA is a multimodal task wherein, given an image and a natural language question related to the image, the objective is to produce a natural language answer correctly as output.\n\nIt involves understanding the content of the image and correlating it with the context of the question asked. Because we need to compare the semantics of information present in both of the modalities \u2014 the image and natural language question related to it \u2014 VQA entails a wide range of sub-problems in both CV and NLP (such as object detection and recognition, scene classification, counting, and so on). Thus, it is considered an AI-complete task.\n\n",
+  "datasetId": 2264789,
+  "datasetSlug": "visual-question-answering-computer-vision-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavikardeshna",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 14909,
+  "totalVotes": 45,
+  "totalDownloads": 1029,
+  "title": "Visual Question Answering- Computer Vision & NLP",
+  "hasTitle": true,
+  "subtitle": "Exploring multimodal fusion-type transformer models for VQA",
+  "hasSubtitle": true,
+  "description": "VQA is a multimodal task wherein, given an image and a natural language question related to the image, the objective is to produce a natural language answer correctly as output.\n\nIt involves understanding the content of the image and correlating it with the context of the question asked. Because we need to compare the semantics of information present in both of the modalities \u2014 the image and natural language question related to it \u2014 VQA entails a wide range of sub-problems in both CV and NLP (such as object detection and recognition, scene classification, counting, and so on). Thus, it is considered an AI-complete task.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "computer vision",
+    "deep learning",
+    "pytorch",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

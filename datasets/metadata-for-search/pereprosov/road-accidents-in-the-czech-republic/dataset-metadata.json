@@ -1,0 +1,43 @@
+{
+  "id": "pereprosov/road-accidents-in-the-czech-republic",
+  "id_no": 4387427,
+  "datasetSlugNullable": "road-accidents-in-the-czech-republic",
+  "ownerUserNullable": "pereprosov",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Road accidents in the Czech Republic",
+  "subtitleNullable": "Detailed dataset of road accidents in the Czech Republic (2016-2022)",
+  "descriptionNullable": "The police of Czech Republic regularly gathers and releases detailed data on traffic incidents throughout the nation, typically on an monthly basis. This dataset covers various aspects such as geographic locations, weather conditions, vehicle types, casualty counts, and vehicle maneuvers. The wealth of information makes it a compelling and extensive dataset for analysis and research purposes.\n\n- Most coded variables in the data have been translated into text strings using lookup tables, making the analysis more efficient and user-friendly.\n- After analyzing the dataset, I've filled in the majority of NaN values.\n\nContent\nThe data come from the [police of Czech Republic](https://www.policie.cz/clanek/statistika-nehodovosti-900835.aspx) \n\nThe dataset comprises of two csv files:\n\n- road_accidents_czechia_2016_2022.csv: every line in the file represents a unique traffic accident, featuring various properties related to the accident as columns\n\n- pedestrian.csv: Each line in the file corresponds to a distinct pedestrian-involved traffic incident, with various incident-related attributes captured as columns.\n",
+  "datasetId": 4387427,
+  "datasetSlug": "road-accidents-in-the-czech-republic",
+  "hasDatasetSlug": true,
+  "ownerUser": "pereprosov",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5328,
+  "totalVotes": 33,
+  "totalDownloads": 1041,
+  "title": "Road accidents in the Czech Republic",
+  "hasTitle": true,
+  "subtitle": "Detailed dataset of road accidents in the Czech Republic (2016-2022)",
+  "hasSubtitle": true,
+  "description": "The police of Czech Republic regularly gathers and releases detailed data on traffic incidents throughout the nation, typically on an monthly basis. This dataset covers various aspects such as geographic locations, weather conditions, vehicle types, casualty counts, and vehicle maneuvers. The wealth of information makes it a compelling and extensive dataset for analysis and research purposes.\n\n- Most coded variables in the data have been translated into text strings using lookup tables, making the analysis more efficient and user-friendly.\n- After analyzing the dataset, I've filled in the majority of NaN values.\n\nContent\nThe data come from the [police of Czech Republic](https://www.policie.cz/clanek/statistika-nehodovosti-900835.aspx) \n\nThe dataset comprises of two csv files:\n\n- road_accidents_czechia_2016_2022.csv: every line in the file represents a unique traffic accident, featuring various properties related to the accident as columns\n\n- pedestrian.csv: Each line in the file corresponds to a distinct pedestrian-involved traffic incident, with various incident-related attributes captured as columns.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "demographics",
+    "automobiles and vehicles",
+    "exploratory data analysis",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

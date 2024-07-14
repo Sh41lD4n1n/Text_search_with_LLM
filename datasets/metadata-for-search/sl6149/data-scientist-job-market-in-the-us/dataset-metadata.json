@@ -1,0 +1,44 @@
+{
+  "id": "sl6149/data-scientist-job-market-in-the-us",
+  "id_no": 48648,
+  "datasetSlugNullable": "data-scientist-job-market-in-the-us",
+  "ownerUserNullable": "sl6149",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Data Scientist Job Market in the U.S.",
+  "subtitleNullable": "An outlook at data science job market in the U.S. in 2018 August. ",
+  "descriptionNullable": "### Context\n\nFor those who are actively looking for data scientist jobs in the U.S., the best news this month is the LinkedIn Workforce Report August 2018.  According to the report,  there is a shortage of 151,717 people with data science skills, with particularly acute shortages in New York City, San Francisco Bay Area and Los Angeles.\n\nTo help job hunters (including me) to better understand the job market, I scraped Indeed website and collected information of 7,000 data scientist jobs around the U.S. on August 3rd. The information that I collected are: Company Name, Position Name, Location, Job Description, and Number of Reviews of the Company. \n\n\n### Content\n\n - alldata.csv If you want to explore the job market around the U.S., download this one because it aggregates all information and cleans the job description by removing the tags. \n - all other files. If you want to explore specific city or region, you can download any of them. \n\n### Acknowledgements\n\nSpecial thanks to Indeed for not blocking me : )\n\n\n### Inspiration\n\n - If you have no clue of where to start, check my [blog][1] for inspiration. \n - Link to my PowerPoint Slides for [Presentation.][2] \n - Link to my [GitHub Code][3].\n - Reach me at sl6149@nyu.edu\n \n\nPossible Questions: \n\n 1. Who gets hired? What kind of talent do employers want when they are hiring a data scientist?\n 2. Which location has the most opportunities? \n 3. What skills, tools, degrees or majors do employers want the most for data scientists?\n 4. What's the difference between data scientist, data engineer and data analyst? \n 5. Can you develop an efficient classification algorithm to differentiate the three job types above? \n\n\n  [1]: https://nycdatascience.com/blog/student-works/who-gets-hired-an-outlook-of-the-u-s-data-scientist-job-market-in-2018/\n  [2]: https://github.com/Silvialss/projects/blob/master/IndeedWebScraping/2018DataScienceMarketResearch.pdf\n  [3]: https://github.com/Silvialss/projects/tree/master/IndeedWebScraping",
+  "datasetId": 48648,
+  "datasetSlug": "data-scientist-job-market-in-the-us",
+  "hasDatasetSlug": true,
+  "ownerUser": "sl6149",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 134458,
+  "totalVotes": 338,
+  "totalDownloads": 13372,
+  "title": "Data Scientist Job Market in the U.S.",
+  "hasTitle": true,
+  "subtitle": "An outlook at data science job market in the U.S. in 2018 August. ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFor those who are actively looking for data scientist jobs in the U.S., the best news this month is the LinkedIn Workforce Report August 2018.  According to the report,  there is a shortage of 151,717 people with data science skills, with particularly acute shortages in New York City, San Francisco Bay Area and Los Angeles.\n\nTo help job hunters (including me) to better understand the job market, I scraped Indeed website and collected information of 7,000 data scientist jobs around the U.S. on August 3rd. The information that I collected are: Company Name, Position Name, Location, Job Description, and Number of Reviews of the Company. \n\n\n### Content\n\n - alldata.csv If you want to explore the job market around the U.S., download this one because it aggregates all information and cleans the job description by removing the tags. \n - all other files. If you want to explore specific city or region, you can download any of them. \n\n### Acknowledgements\n\nSpecial thanks to Indeed for not blocking me : )\n\n\n### Inspiration\n\n - If you have no clue of where to start, check my [blog][1] for inspiration. \n - Link to my PowerPoint Slides for [Presentation.][2] \n - Link to my [GitHub Code][3].\n - Reach me at sl6149@nyu.edu\n \n\nPossible Questions: \n\n 1. Who gets hired? What kind of talent do employers want when they are hiring a data scientist?\n 2. Which location has the most opportunities? \n 3. What skills, tools, degrees or majors do employers want the most for data scientists?\n 4. What's the difference between data scientist, data engineer and data analyst? \n 5. Can you develop an efficient classification algorithm to differentiate the three job types above? \n\n\n  [1]: https://nycdatascience.com/blog/student-works/who-gets-hired-an-outlook-of-the-u-s-data-scientist-job-market-in-2018/\n  [2]: https://github.com/Silvialss/projects/blob/master/IndeedWebScraping/2018DataScienceMarketResearch.pdf\n  [3]: https://github.com/Silvialss/projects/tree/master/IndeedWebScraping",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "earth and nature",
+    "business",
+    "data cleaning",
+    "data visualization",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

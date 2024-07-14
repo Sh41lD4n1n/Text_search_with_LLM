@@ -1,0 +1,43 @@
+{
+  "id": "rishabhvyas/indian-election-tweets",
+  "id_no": 2948923,
+  "datasetSlugNullable": "indian-election-tweets",
+  "ownerUserNullable": "rishabhvyas",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Indian Election Tweets (2019)",
+  "subtitleNullable": "Twitter Data Analysis of the Indian Political Party Conversation",
+  "descriptionNullable": "The \"Indian Election Tweets\" dataset is a collection of tweets related to the Indian political parties BJP and Congress during election campaigns. The tweets were collected using Twitter API and Github sources. The tweets were preprocessed using various techniques to clean the data. This included removing duplicate tweets, removing retweets, removing mentions and URLs, and correcting spelling and grammar errors. The remaining tweets were then tokenized, lemmatized, and stop words were removed to prepare the data for sentiment analysis.\nThe dataset contains two labels - positive and negative - which indicate the sentiment of the tweet towards the political party being mentioned (BJP or Congress). The sentiment analysis was performed using the Vader sentiment analysis tool, which assigned a score to each tweet based on the presence of positive and negative words in the text. Tweets with a positive score were labeled as positive, while tweets with a negative score were labeled as negative.\nThe dataset includes a total of 79730 number of tweets, with an approximately equal number of positive and negative tweets for both BJP and Congress. The dataset is suitable for data analysis and machine learning tasks such as text classification, sentiment analysis, and topic modeling.",
+  "datasetId": 2948923,
+  "datasetSlug": "indian-election-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishabhvyas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 956,
+  "totalVotes": 6,
+  "totalDownloads": 159,
+  "title": "Indian Election Tweets (2019)",
+  "hasTitle": true,
+  "subtitle": "Twitter Data Analysis of the Indian Political Party Conversation",
+  "hasSubtitle": true,
+  "description": "The \"Indian Election Tweets\" dataset is a collection of tweets related to the Indian political parties BJP and Congress during election campaigns. The tweets were collected using Twitter API and Github sources. The tweets were preprocessed using various techniques to clean the data. This included removing duplicate tweets, removing retweets, removing mentions and URLs, and correcting spelling and grammar errors. The remaining tweets were then tokenized, lemmatized, and stop words were removed to prepare the data for sentiment analysis.\nThe dataset contains two labels - positive and negative - which indicate the sentiment of the tweet towards the political party being mentioned (BJP or Congress). The sentiment analysis was performed using the Vader sentiment analysis tool, which assigned a score to each tweet based on the presence of positive and negative words in the text. Tweets with a positive score were labeled as positive, while tweets with a negative score were labeled as negative.\nThe dataset includes a total of 79730 number of tweets, with an approximately equal number of positive and negative tweets for both BJP and Congress. The dataset is suitable for data analysis and machine learning tasks such as text classification, sentiment analysis, and topic modeling.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "politics",
+    "intermediate",
+    "text classification",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

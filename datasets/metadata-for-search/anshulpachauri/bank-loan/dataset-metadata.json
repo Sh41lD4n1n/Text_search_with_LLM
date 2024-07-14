@@ -1,0 +1,42 @@
+{
+  "id": "anshulpachauri/bank-loan",
+  "id_no": 4249789,
+  "datasetSlugNullable": "bank-loan",
+  "ownerUserNullable": "anshulpachauri",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Bank Loan",
+  "subtitleNullable": "",
+  "descriptionNullable": "BANK LOAN REPORT :\n\nLoan ID: Unique identifier for tracking and managing loans, serving as a primary key.\n\nAddress State: Indicates borrower location, aiding risk assessment and compliance monitoring.\n\nEmployee Length: Provides insights into employment stability, influencing default risk assessment.\n\nEmployee Title: Specifies borrower occupation, verifying income sources for tailored loan offers.\n\nGrade: Represents creditworthiness-based risk classification, influencing loan pricing.\n\nSub Grade: Refines risk assessment within a grade for tailored lending terms.\n\nHome Ownership: Indicates housing status, offering insights into financial stability.\n\nIssue Date: Marks loan origination date for tracking loan aging and managing portfolios.\n\nLast Credit Pull Date: Records last credit report access, aiding credit risk assessment.\n\nLast Payment Date: Tracks payment history, assessing behavior, and projecting future payments.\n\nLoan Status: Indicates current loan state, assisting in risk analysis and provisioning.\n\nNext Payment Date: Estimates the next payment date for cash flow forecasting.\n\nPurpose: Specifies the reason for the loan, enabling segmentation and customization.\n\nTerm: Defines loan duration, structuring agreements, and managing maturities.\n\nVerification Status: Indicates if financial information has been verified, assessing data reliability.\n\nAnnual Income: Reflects borrower's yearly earnings, determining loan eligibility and creditworthiness.\n\nDTI (Debt-to-Income Ratio): Measures debt burden relative to income, influencing lending decisions.\n\nInstallment: Fixed monthly payment for loan repayment, aiding in affordability assessment.\n\nInterest Rate: This represents the annual cost of borrowing, influencing loan pricing.\n\nLoan Amount: Total borrowed sum, determining the size of the loan.",
+  "datasetId": 4249789,
+  "datasetSlug": "bank-loan",
+  "hasDatasetSlug": true,
+  "ownerUser": "anshulpachauri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 517,
+  "totalVotes": 1,
+  "totalDownloads": 117,
+  "title": "Bank Loan",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "BANK LOAN REPORT :\n\nLoan ID: Unique identifier for tracking and managing loans, serving as a primary key.\n\nAddress State: Indicates borrower location, aiding risk assessment and compliance monitoring.\n\nEmployee Length: Provides insights into employment stability, influencing default risk assessment.\n\nEmployee Title: Specifies borrower occupation, verifying income sources for tailored loan offers.\n\nGrade: Represents creditworthiness-based risk classification, influencing loan pricing.\n\nSub Grade: Refines risk assessment within a grade for tailored lending terms.\n\nHome Ownership: Indicates housing status, offering insights into financial stability.\n\nIssue Date: Marks loan origination date for tracking loan aging and managing portfolios.\n\nLast Credit Pull Date: Records last credit report access, aiding credit risk assessment.\n\nLast Payment Date: Tracks payment history, assessing behavior, and projecting future payments.\n\nLoan Status: Indicates current loan state, assisting in risk analysis and provisioning.\n\nNext Payment Date: Estimates the next payment date for cash flow forecasting.\n\nPurpose: Specifies the reason for the loan, enabling segmentation and customization.\n\nTerm: Defines loan duration, structuring agreements, and managing maturities.\n\nVerification Status: Indicates if financial information has been verified, assessing data reliability.\n\nAnnual Income: Reflects borrower's yearly earnings, determining loan eligibility and creditworthiness.\n\nDTI (Debt-to-Income Ratio): Measures debt burden relative to income, influencing lending decisions.\n\nInstallment: Fixed monthly payment for loan repayment, aiding in affordability assessment.\n\nInterest Rate: This represents the annual cost of borrowing, influencing loan pricing.\n\nLoan Amount: Total borrowed sum, determining the size of the loan.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "datatutorials",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

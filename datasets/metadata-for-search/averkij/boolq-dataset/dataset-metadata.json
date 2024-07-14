@@ -1,0 +1,42 @@
+{
+  "id": "averkij/boolq-dataset",
+  "id_no": 479748,
+  "datasetSlugNullable": "boolq-dataset",
+  "ownerUserNullable": "averkij",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google BoolQ Dataset",
+  "subtitleNullable": "BoolQ is a question answering dataset for yes/no questions with 15942 examples.",
+  "descriptionNullable": "### Introduction\n\nBoolQ is a question answering dataset for yes/no questions containing 15942 examples. These questions are naturally occurring ---they are generated in unprompted and unconstrained settings.\n\n\n### Content\n\nEach example is a triplet of (question, passage, answer), with the title of the page as optional additional context. The text-pair classification setup is similar to existing natural language inference tasks.\n\nBy sampling questions from a distribution of information-seeking queries (rather than prompting annotators for text pairs), we observe significantly more challenging examples compared to existing NLI datasets.\n\n\n### Details\n\nMore details are available in our paper, which can be cited as follows.\n\n@inproceedings{clark2019boolq,\n  title =     {BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions},\n  author =    {Clark, Christopher and Lee, Kenton and Chang, Ming-Wei, and Kwiatkowski, Tom and Collins, Michael, and Toutanova, Kristina},\n  booktitle = {NAACL},\n  year =      {2019},\n}\n",
+  "datasetId": 479748,
+  "datasetSlug": "boolq-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "averkij",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11560,
+  "totalVotes": 20,
+  "totalDownloads": 479,
+  "title": "Google BoolQ Dataset",
+  "hasTitle": true,
+  "subtitle": "BoolQ is a question answering dataset for yes/no questions with 15942 examples.",
+  "hasSubtitle": true,
+  "description": "### Introduction\n\nBoolQ is a question answering dataset for yes/no questions containing 15942 examples. These questions are naturally occurring ---they are generated in unprompted and unconstrained settings.\n\n\n### Content\n\nEach example is a triplet of (question, passage, answer), with the title of the page as optional additional context. The text-pair classification setup is similar to existing natural language inference tasks.\n\nBy sampling questions from a distribution of information-seeking queries (rather than prompting annotators for text pairs), we observe significantly more challenging examples compared to existing NLI datasets.\n\n\n### Details\n\nMore details are available in our paper, which can be cited as follows.\n\n@inproceedings{clark2019boolq,\n  title =     {BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions},\n  author =    {Clark, Christopher and Lee, Kenton and Chang, Ming-Wei, and Kwiatkowski, Tom and Collins, Michael, and Toutanova, Kristina},\n  booktitle = {NAACL},\n  year =      {2019},\n}\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "nlp",
+    "classification",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

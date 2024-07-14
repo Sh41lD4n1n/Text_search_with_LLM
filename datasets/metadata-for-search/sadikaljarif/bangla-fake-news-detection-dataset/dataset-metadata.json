@@ -1,0 +1,43 @@
+{
+  "id": "sadikaljarif/bangla-fake-news-detection-dataset",
+  "id_no": 2432785,
+  "datasetSlugNullable": "bangla-fake-news-detection-dataset",
+  "ownerUserNullable": "sadikaljarif",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Bangla Fake News_DataSet",
+  "subtitleNullable": "",
+  "descriptionNullable": "```\nThis dataset can be particularly useful for researchers and developers who are interested in working with the Bengali language, which is the seventh most spoken language in the world. By using this dataset, they can train and test their natural language processing models to improve their performance on Bengali text data.\n\nOverall, the \"final_bn_data.csv\" dataset is a valuable resource for researchers and developers who are working on natural language processing tasks involving the Bengali language. It can help to advance our understanding of this important language and its use in various applications.\n```",
+  "datasetId": 2432785,
+  "datasetSlug": "bangla-fake-news-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadikaljarif",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 664,
+  "totalVotes": 11,
+  "totalDownloads": 229,
+  "title": "Bangla Fake News_DataSet",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "```\nThis dataset can be particularly useful for researchers and developers who are interested in working with the Bengali language, which is the seventh most spoken language in the world. By using this dataset, they can train and test their natural language processing models to improve their performance on Bengali text data.\n\nOverall, the \"final_bn_data.csv\" dataset is a valuable resource for researchers and developers who are working on natural language processing tasks involving the Bengali language. It can help to advance our understanding of this important language and its use in various applications.\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "deep learning",
+    "text",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

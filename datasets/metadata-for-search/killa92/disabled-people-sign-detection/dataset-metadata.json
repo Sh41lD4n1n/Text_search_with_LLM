@@ -1,0 +1,44 @@
+{
+  "id": "killa92/disabled-people-sign-detection",
+  "id_no": 4305101,
+  "datasetSlugNullable": "disabled-people-sign-detection",
+  "ownerUserNullable": "killa92",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Disabled People Sign Detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains car images with disabled people signs. The dataset includes 1241 images.\nCars are annotated in YOLOv8 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 416x416 (Stretch)\n\nThe following augmentation was applied to create 2 versions of each source image:\n\nThe following transformations were applied to the bounding boxes of each image:\n* 50% probability of horizontal flip\n* Random rotation of between -15 and +15 degrees",
+  "datasetId": 4305101,
+  "datasetSlug": "disabled-people-sign-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "killa92",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 812,
+  "totalVotes": 9,
+  "totalDownloads": 60,
+  "title": "Disabled People Sign Detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains car images with disabled people signs. The dataset includes 1241 images.\nCars are annotated in YOLOv8 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 416x416 (Stretch)\n\nThe following augmentation was applied to create 2 versions of each source image:\n\nThe following transformations were applied to the bounding boxes of each image:\n* 50% probability of horizontal flip\n* Random rotation of between -15 and +15 degrees",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "health conditions",
+    "yolo",
+    "yolov5",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

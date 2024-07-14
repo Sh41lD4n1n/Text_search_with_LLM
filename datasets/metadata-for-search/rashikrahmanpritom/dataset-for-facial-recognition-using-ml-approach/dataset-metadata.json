@@ -1,0 +1,40 @@
+{
+  "id": "rashikrahmanpritom/dataset-for-facial-recognition-using-ml-approach",
+  "id_no": 1203940,
+  "datasetSlugNullable": "dataset-for-facial-recognition-using-ml-approach",
+  "ownerUserNullable": "rashikrahmanpritom",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Dataset for Facial recognition using ML approach",
+  "subtitleNullable": "Web scrapped image data of various celebrities",
+  "descriptionNullable": "### Context\n\nWeb scrapped Image data of various celebrities\n\n### Content\n\nThe dataset contains images of \n\n- Data\n - Akshay Kumar\n - Deepika Padukone\n - Nora Fatehi\n - Ranbir Kapoor\n - Urvashi Rautela\n - Virat Kohli\n - Maria Sharapova\n - Lionel Messi\n\n- OpenCv\n - All the haarcascades of openCV i.e. haarcascade_eyes.xml, haarcascade_fullbody.xml, haarcascade_frontalcatface.xml, haarcascade_frontalfacealt.xml etc.\n\n- test\n - Some test images for prediction\n\nAnd a cropped folder for training the model. The modeling code couldn't be created here so providing [git link for the modeling code](https://github.com/RashikRahman/Face_Match_Classifier/blob/master/model/Data%20Prep%20%26%20Modeling.ipynb).\nThe model was trained on the images of the cropped folder as it contains the processed version of the raw data. Prediction code can be found in the code section of this dataset.\n\n\n",
+  "datasetId": 1203940,
+  "datasetSlug": "dataset-for-facial-recognition-using-ml-approach",
+  "hasDatasetSlug": true,
+  "ownerUser": "rashikrahmanpritom",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 8252,
+  "totalVotes": 28,
+  "totalDownloads": 387,
+  "title": "Dataset for Facial recognition using ML approach",
+  "hasTitle": true,
+  "subtitle": "Web scrapped image data of various celebrities",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWeb scrapped Image data of various celebrities\n\n### Content\n\nThe dataset contains images of \n\n- Data\n - Akshay Kumar\n - Deepika Padukone\n - Nora Fatehi\n - Ranbir Kapoor\n - Urvashi Rautela\n - Virat Kohli\n - Maria Sharapova\n - Lionel Messi\n\n- OpenCv\n - All the haarcascades of openCV i.e. haarcascade_eyes.xml, haarcascade_fullbody.xml, haarcascade_frontalcatface.xml, haarcascade_frontalfacealt.xml etc.\n\n- test\n - Some test images for prediction\n\nAnd a cropped folder for training the model. The modeling code couldn't be created here so providing [git link for the modeling code](https://github.com/RashikRahman/Face_Match_Classifier/blob/master/model/Data%20Prep%20%26%20Modeling.ipynb).\nThe model was trained on the images of the cropped folder as it contains the processed version of the raw data. Prediction code can be found in the code section of this dataset.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

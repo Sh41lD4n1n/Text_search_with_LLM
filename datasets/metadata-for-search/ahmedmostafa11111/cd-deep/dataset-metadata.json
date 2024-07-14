@@ -1,0 +1,39 @@
+{
+  "id": "ahmedmostafa11111/cd-deep",
+  "id_no": 4209673,
+  "datasetSlugNullable": "cd-deep",
+  "ownerUserNullable": "ahmedmostafa11111",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Cat and Dog Detection ",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Description**\n\nThis dataset comprises a collection of images that are categorized into two main classes: cats and dogs. Each class further contains subcategories based on color, namely white and black.\n\nThe dataset includes the following structure:\n\n    Cats\n        White: Images of cats with white fur.\n        Black: Images of cats with black fur.\n    Dogs\n        White: Images of dogs with white fur.\n        Black: Images of dogs with black fur.\n\nThe dataset is well-structured and labeled, making it suitable for tasks like image classification. It is particularly useful for training and evaluating models designed to classify animal types (cats or dogs) and distinguish their colors (white or black).\nContents\n\n    Cats (White): [Number of images: 400]\n    Cats (Black): [Number of images: 400]\n    Dogs (White): [Number of images: 400]\n    Dogs (Black): [Number of images: 400]\n\nThese images are sourced from diverse collections, ensuring a wide variety of cat and dog breeds across various backgrounds and environments. The dataset's labeling and diversity provide a robust foundation for developing and testing image classification models.\n**Potential Use Cases**\n\n    Image classification: Developing models capable of accurately distinguishing between cats and dogs based on their colors.\n    Color-based analysis: Identifying the prevalence or distinguishing features of different fur colors in cats and dogs.\n\nThe dataset's diversity, labeling, and balanced distribution among classes make it a valuable resource for both training and evaluating machine learning models, especially those focused on image classification tasks related to pets' color and type.",
+  "datasetId": 4209673,
+  "datasetSlug": "cd-deep",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmedmostafa11111",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 146,
+  "totalVotes": 2,
+  "totalDownloads": 11,
+  "title": "Cat and Dog Detection ",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Description**\n\nThis dataset comprises a collection of images that are categorized into two main classes: cats and dogs. Each class further contains subcategories based on color, namely white and black.\n\nThe dataset includes the following structure:\n\n    Cats\n        White: Images of cats with white fur.\n        Black: Images of cats with black fur.\n    Dogs\n        White: Images of dogs with white fur.\n        Black: Images of dogs with black fur.\n\nThe dataset is well-structured and labeled, making it suitable for tasks like image classification. It is particularly useful for training and evaluating models designed to classify animal types (cats or dogs) and distinguish their colors (white or black).\nContents\n\n    Cats (White): [Number of images: 400]\n    Cats (Black): [Number of images: 400]\n    Dogs (White): [Number of images: 400]\n    Dogs (Black): [Number of images: 400]\n\nThese images are sourced from diverse collections, ensuring a wide variety of cat and dog breeds across various backgrounds and environments. The dataset's labeling and diversity provide a robust foundation for developing and testing image classification models.\n**Potential Use Cases**\n\n    Image classification: Developing models capable of accurately distinguishing between cats and dogs based on their colors.\n    Color-based analysis: Identifying the prevalence or distinguishing features of different fur colors in cats and dogs.\n\nThe dataset's diversity, labeling, and balanced distribution among classes make it a valuable resource for both training and evaluating machine learning models, especially those focused on image classification tasks related to pets' color and type.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

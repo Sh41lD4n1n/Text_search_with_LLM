@@ -1,0 +1,41 @@
+{
+  "id": "utmhikari/doubanmovieshortcomments",
+  "id_no": 600,
+  "datasetSlugNullable": "doubanmovieshortcomments",
+  "ownerUserNullable": "utmhikari",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Douban Movie Short Comments Dataset",
+  "subtitleNullable": "DMSCD producted by utmhikari",
+  "descriptionNullable": "# Douban Movie Short Comments Dataset V2\n\n## Introduction\nDouban Movie is a Chinese website that allows Internet users to share their comments and viewpoints about movies. Users are able to post short or long comments on movies and give them marks. This dataset contains more than 2 million short comments of 28 movies in Douban Movie website. It can be used on text classification, text clustering, sentiment analysis, semantic web construction and some other fields that relate to web mining or NLP (of Chinese lol).\n\n## Metadata\n**ID** the ID of the comment (start from 0) <br />\n**Movie_Name_EN** the English name of the movie <br />\n**Movie_Name_CN** the Chinese name of the movie <br />\n**Crawl_Date** the date that the data are crawled <br />\n**Number** the number of the comment <br />\n**Username** the username of the account <br />\n**Date** the date that the comment posted <br />\n**Star** the star that users give to the movie (from 1 to 5, 5 grades) <br />\n**Comment** the content of the comment <br />\n**Like** the count of \"like\" on the comment <br />",
+  "datasetId": 600,
+  "datasetSlug": "doubanmovieshortcomments",
+  "hasDatasetSlug": true,
+  "ownerUser": "utmhikari",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 70730,
+  "totalVotes": 142,
+  "totalDownloads": 6825,
+  "title": "Douban Movie Short Comments Dataset",
+  "hasTitle": true,
+  "subtitle": "DMSCD producted by utmhikari",
+  "hasSubtitle": true,
+  "description": "# Douban Movie Short Comments Dataset V2\n\n## Introduction\nDouban Movie is a Chinese website that allows Internet users to share their comments and viewpoints about movies. Users are able to post short or long comments on movies and give them marks. This dataset contains more than 2 million short comments of 28 movies in Douban Movie website. It can be used on text classification, text clustering, sentiment analysis, semantic web construction and some other fields that relate to web mining or NLP (of Chinese lol).\n\n## Metadata\n**ID** the ID of the comment (start from 0) <br />\n**Movie_Name_EN** the English name of the movie <br />\n**Movie_Name_CN** the Chinese name of the movie <br />\n**Crawl_Date** the date that the data are crawled <br />\n**Number** the number of the comment <br />\n**Username** the username of the account <br />\n**Date** the date that the comment posted <br />\n**Star** the star that users give to the movie (from 1 to 5, 5 grades) <br />\n**Comment** the content of the comment <br />\n**Like** the count of \"like\" on the comment <br />",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "internet",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

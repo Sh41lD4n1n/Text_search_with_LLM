@@ -1,0 +1,43 @@
+{
+  "id": "juhibhojani/road-accidents-data-2022",
+  "id_no": 3567908,
+  "datasetSlugNullable": "road-accidents-data-2022",
+  "ownerUserNullable": "juhibhojani",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Road Accidents Data -2022",
+  "subtitleNullable": "\"Roadway Woes: A Comprehensive Dataset on Road Accidents\"",
+  "descriptionNullable": "\"Road Accidents Dataset\":\n\nDescription:\nThis comprehensive dataset provides detailed information on road accidents reported over multiple years. The dataset encompasses various attributes related to accident status, vehicle and casualty references, demographics, and severity of casualties. It includes essential factors such as pedestrian details, casualty types, road maintenance worker involvement, and the Index of Multiple Deprivation (IMD) decile for casualties' home areas.\n\nColumns:\n1. **Status**: The status of the accident (e.g., reported, under investigation).\n2. **Accident_Index**: A unique identifier for each reported accident.\n3. **Accident_Year**: The year in which the accident occurred.\n4. **Accident_Reference**: A reference number associated with the accident.\n5. **Vehicle_Reference**: A reference number for the involved vehicle in the accident.\n6. **Casualty_Reference**: A reference number for the casualty involved in the accident.\n7. **Casualty_Class**: Indicates the class of the casualty (e.g., driver, passenger, pedestrian).\n8. **Sex_of_Casualty**: The gender of the casualty (male or female).\n9. **Age_of_Casualty**: The age of the casualty.\n10. **Age_Band_of_Casualty**: Age group to which the casualty belongs (e.g., 0-5, 6-10, 11-15).\n11. **Casualty_Severity**: The severity of the casualty's injuries (e.g., fatal, serious, slight).\n12. **Pedestrian_Location**: The location of the pedestrian at the time of the accident.\n13. **Pedestrian_Movement**: The movement of the pedestrian during the accident.\n14. **Car_Passenger**: Indicates whether the casualty was a car passenger at the time of the accident (yes or no).\n15. **Bus_or_Coach_Passenger**: Indicates whether the casualty was a bus or coach passenger (yes or no).\n16. **Pedestrian_Road_Maintenance_Worker**: Indicates whether the casualty was a road maintenance worker (yes or no).\n17. **Casualty_Type**: The type of casualty (e.g., driver/rider, passenger, pedestrian).\n18. **Casualty_Home_Area_Type**: The type of area in which the casualty resides (e.g., urban, rural).\n19. **Casualty_IMD_Decile**: The IMD decile of the area where the casualty resides (a measure of deprivation).\n20. **LSOA_of_Casualty**: The Lower Layer Super Output Area (LSOA) associated with the casualty's location.\n\nThis dataset provides valuable insights for analyzing road accidents, identifying trends, and implementing safety measures to reduce casualties and enhance road safety. Researchers, policymakers, and analysts can leverage this dataset for evidence-based decision-making and improving overall road transportation systems.",
+  "datasetId": 3567908,
+  "datasetSlug": "road-accidents-data-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "juhibhojani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 9340,
+  "totalVotes": 49,
+  "totalDownloads": 1836,
+  "title": "Road Accidents Data -2022",
+  "hasTitle": true,
+  "subtitle": "\"Roadway Woes: A Comprehensive Dataset on Road Accidents\"",
+  "hasSubtitle": true,
+  "description": "\"Road Accidents Dataset\":\n\nDescription:\nThis comprehensive dataset provides detailed information on road accidents reported over multiple years. The dataset encompasses various attributes related to accident status, vehicle and casualty references, demographics, and severity of casualties. It includes essential factors such as pedestrian details, casualty types, road maintenance worker involvement, and the Index of Multiple Deprivation (IMD) decile for casualties' home areas.\n\nColumns:\n1. **Status**: The status of the accident (e.g., reported, under investigation).\n2. **Accident_Index**: A unique identifier for each reported accident.\n3. **Accident_Year**: The year in which the accident occurred.\n4. **Accident_Reference**: A reference number associated with the accident.\n5. **Vehicle_Reference**: A reference number for the involved vehicle in the accident.\n6. **Casualty_Reference**: A reference number for the casualty involved in the accident.\n7. **Casualty_Class**: Indicates the class of the casualty (e.g., driver, passenger, pedestrian).\n8. **Sex_of_Casualty**: The gender of the casualty (male or female).\n9. **Age_of_Casualty**: The age of the casualty.\n10. **Age_Band_of_Casualty**: Age group to which the casualty belongs (e.g., 0-5, 6-10, 11-15).\n11. **Casualty_Severity**: The severity of the casualty's injuries (e.g., fatal, serious, slight).\n12. **Pedestrian_Location**: The location of the pedestrian at the time of the accident.\n13. **Pedestrian_Movement**: The movement of the pedestrian during the accident.\n14. **Car_Passenger**: Indicates whether the casualty was a car passenger at the time of the accident (yes or no).\n15. **Bus_or_Coach_Passenger**: Indicates whether the casualty was a bus or coach passenger (yes or no).\n16. **Pedestrian_Road_Maintenance_Worker**: Indicates whether the casualty was a road maintenance worker (yes or no).\n17. **Casualty_Type**: The type of casualty (e.g., driver/rider, passenger, pedestrian).\n18. **Casualty_Home_Area_Type**: The type of area in which the casualty resides (e.g., urban, rural).\n19. **Casualty_IMD_Decile**: The IMD decile of the area where the casualty resides (a measure of deprivation).\n20. **LSOA_of_Casualty**: The Lower Layer Super Output Area (LSOA) associated with the casualty's location.\n\nThis dataset provides valuable insights for analyzing road accidents, identifying trends, and implementing safety measures to reduce casualties and enhance road safety. Researchers, policymakers, and analysts can leverage this dataset for evidence-based decision-making and improving overall road transportation systems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "data analytics",
+    "tabular",
+    "text",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

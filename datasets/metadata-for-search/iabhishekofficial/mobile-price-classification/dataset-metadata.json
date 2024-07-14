@@ -1,0 +1,40 @@
+{
+  "id": "iabhishekofficial/mobile-price-classification",
+  "id_no": 11167,
+  "datasetSlugNullable": "mobile-price-classification",
+  "ownerUserNullable": "iabhishekofficial",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Mobile Price Classification",
+  "subtitleNullable": "Classify Mobile Price Range",
+  "descriptionNullable": "### Context\n\nBob has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.\n\nHe does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market you cannot simply assume things. To solve this problem he collects sales data of mobile phones of various companies.\n\nBob wants to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price. But he is not so good at Machine Learning. So he needs your help to solve this problem.\n\nIn this problem you do not have to predict actual price but a price range indicating how high the price is",
+  "datasetId": 11167,
+  "datasetSlug": "mobile-price-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "iabhishekofficial",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 957979,
+  "totalVotes": 2043,
+  "totalDownloads": 184695,
+  "title": "Mobile Price Classification",
+  "hasTitle": true,
+  "subtitle": "Classify Mobile Price Range",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBob has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.\n\nHe does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market you cannot simply assume things. To solve this problem he collects sales data of mobile phones of various companies.\n\nBob wants to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price. But he is not so good at Machine Learning. So he needs your help to solve this problem.\n\nIn this problem you do not have to predict actual price but a price range indicating how high the price is",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

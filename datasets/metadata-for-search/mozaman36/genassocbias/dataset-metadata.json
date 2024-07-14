@@ -1,0 +1,47 @@
+{
+  "id": "mozaman36/genassocbias",
+  "id_no": 4962780,
+  "datasetSlugNullable": "genassocbias",
+  "ownerUserNullable": "mozaman36",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "GenAssocBias",
+  "subtitleNullable": "Bias Detection Dataset",
+  "descriptionNullable": "**This work has been accepted to ACL 2024.** You can find the pre-print related to this work https://arxiv.org/abs/2309.08902\n\n**Dataset Summary:**\n\n**GenAssocBias** is a dataset that measures **stereotype bias in LLMs**. GenAssocBias consists of 11,940 sentences that measure model preferences across **ageism, beauty, beauty_profession, nationality, and institutional bias.**\n\nSupported Tasks and Leaderboards\n\nmultiple-choice question answering\n\nLanguages\n\nEnglish (en)\n\nDataset Descriptions:\n\nThere are 8 columns in our dataset. The description of each column is given below:\n\nbias_type: This column indicates different types of biases including ageism, beauty, beauty_profession, nationality, and institutional.\n\ntarget_gender: This column indicates the particular gender type. There are three unique gender types namely 'male', 'female', and 'not_specified'.\n\ncontext: This column indicates different sentences. These are the context sentences.\n\nitem_category: This column is either 'positive' or 'negative'. When the attribute or stimulus in the context sentence is positive, we named it as 'positive' and when the attribute or stimulus is negative, then we named it as 'negative'.\n\ntype_category: This column tells us, which direction the data is. There are two different types of direction, namely SAI and ASA.\n\nanti_stereotype: When the 'item_category' column is 'negative', then this column contains attribute/stimulus that is positive among the options according to our definition. On the other hand, when the 'item_category' column is 'positive', then this column contains attribute/stimulus that is negative among the options.\n\nstereotype: This column is the opposite of the 'anti_stereotype' column. When the 'item_category' column is 'negative', then this column contains attribute/stimulus that is negative among the options according to our definition. On the other hand, when the 'item_category' column is 'positive', then this column contains attribute/stimulus that is positive.\n\nunrelated: This column contains the neutral attributes or stimuli.\n\nCitation Information:\n\n@article{kamruzzaman2023investigating, title={Investigating Subtler Biases in LLMs: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models}, author={Kamruzzaman, Mahammed and Shovon, Md Minul Islam and Kim, Gene Louis}, journal={arXiv preprint arXiv:2309.08902}, year={2023} }",
+  "datasetId": 4962780,
+  "datasetSlug": "genassocbias",
+  "hasDatasetSlug": true,
+  "ownerUser": "mozaman36",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 107,
+  "totalVotes": 2,
+  "totalDownloads": 4,
+  "title": "GenAssocBias",
+  "hasTitle": true,
+  "subtitle": "Bias Detection Dataset",
+  "hasSubtitle": true,
+  "description": "**This work has been accepted to ACL 2024.** You can find the pre-print related to this work https://arxiv.org/abs/2309.08902\n\n**Dataset Summary:**\n\n**GenAssocBias** is a dataset that measures **stereotype bias in LLMs**. GenAssocBias consists of 11,940 sentences that measure model preferences across **ageism, beauty, beauty_profession, nationality, and institutional bias.**\n\nSupported Tasks and Leaderboards\n\nmultiple-choice question answering\n\nLanguages\n\nEnglish (en)\n\nDataset Descriptions:\n\nThere are 8 columns in our dataset. The description of each column is given below:\n\nbias_type: This column indicates different types of biases including ageism, beauty, beauty_profession, nationality, and institutional.\n\ntarget_gender: This column indicates the particular gender type. There are three unique gender types namely 'male', 'female', and 'not_specified'.\n\ncontext: This column indicates different sentences. These are the context sentences.\n\nitem_category: This column is either 'positive' or 'negative'. When the attribute or stimulus in the context sentence is positive, we named it as 'positive' and when the attribute or stimulus is negative, then we named it as 'negative'.\n\ntype_category: This column tells us, which direction the data is. There are two different types of direction, namely SAI and ASA.\n\nanti_stereotype: When the 'item_category' column is 'negative', then this column contains attribute/stimulus that is positive among the options according to our definition. On the other hand, when the 'item_category' column is 'positive', then this column contains attribute/stimulus that is negative among the options.\n\nstereotype: This column is the opposite of the 'anti_stereotype' column. When the 'item_category' column is 'negative', then this column contains attribute/stimulus that is negative among the options according to our definition. On the other hand, when the 'item_category' column is 'positive', then this column contains attribute/stimulus that is positive.\n\nunrelated: This column contains the neutral attributes or stimuli.\n\nCitation Information:\n\n@article{kamruzzaman2023investigating, title={Investigating Subtler Biases in LLMs: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models}, author={Kamruzzaman, Mahammed and Shovon, Md Minul Islam and Kim, Gene Louis}, journal={arXiv preprint arXiv:2309.08902}, year={2023} }",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "nlp",
+    "text",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mainulislam588",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

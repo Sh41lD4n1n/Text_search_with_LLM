@@ -1,0 +1,39 @@
+{
+  "id": "budincsevity/szeged-weather",
+  "id_no": 634,
+  "datasetSlugNullable": "szeged-weather",
+  "ownerUserNullable": "budincsevity",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Weather in Szeged 2006-2016",
+  "subtitleNullable": "Hourly/daily summary with temperature, pressure, wind speed and more",
+  "descriptionNullable": "# Context \n\nThis is a dataset for a larger project I have been working on. My idea is to analyze and compare real historical weather with weather folklore.\n\n# Content\n\nThe CSV file includes a hourly/daily summary for [Szeged, Hungary][1] area, between 2006 and 2016.\n\nData available in the hourly response:\n\n- time\n- summary\n- precipType\n- temperature\n- apparentTemperature\n- humidity\n- windSpeed\n- windBearing\n- visibility\n- loudCover\n- pressure\n\n# Acknowledgements\n\nMany thanks to [Darksky.net][2] team for their awesome API.\n\n [1]: https://en.wikipedia.org/wiki/Szeged?oldformat=true\n [2]: http://darksky.net/dev/",
+  "datasetId": 634,
+  "datasetSlug": "szeged-weather",
+  "hasDatasetSlug": true,
+  "ownerUser": "budincsevity",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 178156,
+  "totalVotes": 290,
+  "totalDownloads": 34197,
+  "title": "Weather in Szeged 2006-2016",
+  "hasTitle": true,
+  "subtitle": "Hourly/daily summary with temperature, pressure, wind speed and more",
+  "hasSubtitle": true,
+  "description": "# Context \n\nThis is a dataset for a larger project I have been working on. My idea is to analyze and compare real historical weather with weather folklore.\n\n# Content\n\nThe CSV file includes a hourly/daily summary for [Szeged, Hungary][1] area, between 2006 and 2016.\n\nData available in the hourly response:\n\n- time\n- summary\n- precipType\n- temperature\n- apparentTemperature\n- humidity\n- windSpeed\n- windBearing\n- visibility\n- loudCover\n- pressure\n\n# Acknowledgements\n\nMany thanks to [Darksky.net][2] team for their awesome API.\n\n [1]: https://en.wikipedia.org/wiki/Szeged?oldformat=true\n [2]: http://darksky.net/dev/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

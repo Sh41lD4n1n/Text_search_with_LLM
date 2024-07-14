@@ -1,0 +1,39 @@
+{
+  "id": "agungpremananda/covid-19",
+  "id_no": 4668003,
+  "datasetSlugNullable": "covid-19",
+  "ownerUserNullable": "agungpremananda",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "covid-19",
+  "subtitleNullable": "a chest X-ray images of person diagnosed negative and positive with COVID-19",
+  "descriptionNullable": "This dataset is shared by Lecturer **Mr. Wahyono, Ph. D.** as a base for his Computer Vision course at Universitas Gadjah Mada. This is the provided dataset for individual assignment COVID-19 Classification. \n\nThe source as described in the `Sources.txt` file is this GitHub link: \n\n[https://github.com/ieee8023/covid-chestxray-dataset](url)",
+  "datasetId": 4668003,
+  "datasetSlug": "covid-19",
+  "hasDatasetSlug": true,
+  "ownerUser": "agungpremananda",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 38,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "covid-19",
+  "hasTitle": true,
+  "subtitle": "a chest X-ray images of person diagnosed negative and positive with COVID-19",
+  "hasSubtitle": true,
+  "description": "This dataset is shared by Lecturer **Mr. Wahyono, Ph. D.** as a base for his Computer Vision course at Universitas Gadjah Mada. This is the provided dataset for individual assignment COVID-19 Classification. \n\nThe source as described in the `Sources.txt` file is this GitHub link: \n\n[https://github.com/ieee8023/covid-chestxray-dataset](url)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

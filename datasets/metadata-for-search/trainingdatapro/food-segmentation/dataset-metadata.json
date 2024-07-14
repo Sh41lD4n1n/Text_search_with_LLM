@@ -1,0 +1,43 @@
+{
+  "id": "trainingdatapro/food-segmentation",
+  "id_no": 2982879,
+  "datasetSlugNullable": "food-segmentation",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Food Images Segmentation",
+  "subtitleNullable": " Pizza photos and corresponding segmentation masks for the ingredients",
+  "descriptionNullable": "# Food Segmentation Object Detection dataset\nThe dataset consists of two types of data: **pizza photos** and **mask segmentations**.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/semantic-food-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=food-segmentation)** to buy the dataset\n\n# Pizza Photos \nThe pizza photos are images of pizzas taken from different angles and under different lighting conditions. \nThey are available in the folder \"Images\". \n\n## OTHER DATASETS WITH SEGMENTATION:\n- **[Bald People Segmentation Dataset](https://www.kaggle.com/datasets/trainingdatapro/bald-people-segmentation-dataset)**\n- **[Body Segmentation - 5,300 Photos](https://www.kaggle.com/datasets/trainingdatapro/human-segmentation-dataset)**\n- **[Vehicle Images & Segmentation](https://www.kaggle.com/datasets/trainingdatapro/car-masks)**\n- **[Agricultural Image Segmentation](https://www.kaggle.com/datasets/trainingdatapro/plantations-segmentation)**\n- **[GENERATED USA Passports Segmentation ](https://www.kaggle.com/datasets/trainingdatapro/generated-passports-segmentation)**\n\n# Semantic Masks\nThe mask segmentations are images that highlight the pizza ingredients by assigning each ingredient a unique color:\n- Pizza crust boundaries - #99d9ea\n- Slightly burnt crust edges - #ff3a3a\n- Pepperoni or sausage - #d3ead3\n- Ham - #ff9500\n- Ground beef - #50acf3\n- Tomato - #fff1cc\n- Olives - #ff95d2\n- Mushrooms - #bcff7b\n\nThe complete list of highlighted elements and the assigned colors of the pizzas is available in the `masks_info.csv` file.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/semantic-food-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=food-segmentation)** to discuss your requirements, learn about the price and buy the dataset\n\n**[TrainingData](https://trainingdata.pro/datasets/semantic-food-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=food-segmentation)** provides high-quality data annotation tailored to your needs.\n\n*keywords: food segmentation dataset, food image dataset, semantic segmentation of food, food instance segmentation, food recognition dataset, food classification dataset, semantic segmentation dataset*\n",
+  "datasetId": 2982879,
+  "datasetSlug": "food-segmentation",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12788,
+  "totalVotes": 38,
+  "totalDownloads": 968,
+  "title": "Food Images Segmentation",
+  "hasTitle": true,
+  "subtitle": " Pizza photos and corresponding segmentation masks for the ingredients",
+  "hasSubtitle": true,
+  "description": "# Food Segmentation Object Detection dataset\nThe dataset consists of two types of data: **pizza photos** and **mask segmentations**.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/semantic-food-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=food-segmentation)** to buy the dataset\n\n# Pizza Photos \nThe pizza photos are images of pizzas taken from different angles and under different lighting conditions. \nThey are available in the folder \"Images\". \n\n## OTHER DATASETS WITH SEGMENTATION:\n- **[Bald People Segmentation Dataset](https://www.kaggle.com/datasets/trainingdatapro/bald-people-segmentation-dataset)**\n- **[Body Segmentation - 5,300 Photos](https://www.kaggle.com/datasets/trainingdatapro/human-segmentation-dataset)**\n- **[Vehicle Images & Segmentation](https://www.kaggle.com/datasets/trainingdatapro/car-masks)**\n- **[Agricultural Image Segmentation](https://www.kaggle.com/datasets/trainingdatapro/plantations-segmentation)**\n- **[GENERATED USA Passports Segmentation ](https://www.kaggle.com/datasets/trainingdatapro/generated-passports-segmentation)**\n\n# Semantic Masks\nThe mask segmentations are images that highlight the pizza ingredients by assigning each ingredient a unique color:\n- Pizza crust boundaries - #99d9ea\n- Slightly burnt crust edges - #ff3a3a\n- Pepperoni or sausage - #d3ead3\n- Ham - #ff9500\n- Ground beef - #50acf3\n- Tomato - #fff1cc\n- Olives - #ff95d2\n- Mushrooms - #bcff7b\n\nThe complete list of highlighted elements and the assigned colors of the pizzas is available in the `masks_info.csv` file.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/semantic-food-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=food-segmentation)** to discuss your requirements, learn about the price and buy the dataset\n\n**[TrainingData](https://trainingdata.pro/datasets/semantic-food-segmentation?utm_source=kaggle&utm_medium=cpc&utm_campaign=food-segmentation)** provides high-quality data annotation tailored to your needs.\n\n*keywords: food segmentation dataset, food image dataset, semantic segmentation of food, food instance segmentation, food recognition dataset, food classification dataset, semantic segmentation dataset*\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "food",
+    "restaurants",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

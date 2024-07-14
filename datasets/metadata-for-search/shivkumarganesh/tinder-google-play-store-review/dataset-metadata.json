@@ -1,0 +1,43 @@
+{
+  "id": "shivkumarganesh/tinder-google-play-store-review",
+  "id_no": 2000632,
+  "datasetSlugNullable": "tinder-google-play-store-review",
+  "ownerUserNullable": "shivkumarganesh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tinder Dating App - Google Play Store Review",
+  "subtitleNullable": "Latest user reviews for Tinder app available at Google Play Store",
+  "descriptionNullable": "### Context\n\nTinder is an online dating and geosocial networking application. Users \"swipe right\" to like or \"swipe left\" to dislike other users' profiles, which include their photo, a short bio, and a list of their interests. Tinder uses a \"double opt-in\" system where both users must match before they can exchange messages.\n\nSean Rad founded Tinder in 2012 at a hackathon held at the startup incubator Hatch Labs in West Hollywood. By 2014, Tinder was registering about one billion daily \"swipes\" and reported that users logged into the app on average 11 times a day. In 2015, Tinder was the fifth highest-grossing mobile app, and in 2019 it surpassed Netflix in annual spending. In 2020, Tinder had 6.2 million subscribers and 75 million monthly active users. As of 2021, Tinder has recorded more than 65 billion matches worldwide. [Source: [Wikipedia](https://en.wikipedia.org/wiki/Tinder_(app))]\n\nThis dataset belongs to the app Tinder available on the Google Play Store. The Dataset mostly has user reviews and the various comments made by the users.\n\n\n\n### Content\nThe content of the various columns is listed below. Please find the description for each column.\n\n| Column Name | Column Description |\n| --- | --- |\n| **userName** | Name of a User |\n|**userImage**  | Profile Image that a user has |\n|**content**  |This represents the comments made by a user  |\n|**score**  | Scores/Rating between 1 to 5 |\n| **thumbsUpCount** |Number of Thumbs up received by a person  |\n| **reviewCreatedVersion** | Version number on which the review is created |\n| **at** | Created At|\n| **replyContent** | Reply to the comment by the Company |\n| **repliedAt** |  Date and time of the above reply|\n| **reviewId** | unique identifier |\n   \n\n\n### Acknowledgements\n\nBanner image - Tinder",
+  "datasetId": 2000632,
+  "datasetSlug": "tinder-google-play-store-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivkumarganesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 25029,
+  "totalVotes": 59,
+  "totalDownloads": 2129,
+  "title": "Tinder Dating App - Google Play Store Review",
+  "hasTitle": true,
+  "subtitle": "Latest user reviews for Tinder app available at Google Play Store",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTinder is an online dating and geosocial networking application. Users \"swipe right\" to like or \"swipe left\" to dislike other users' profiles, which include their photo, a short bio, and a list of their interests. Tinder uses a \"double opt-in\" system where both users must match before they can exchange messages.\n\nSean Rad founded Tinder in 2012 at a hackathon held at the startup incubator Hatch Labs in West Hollywood. By 2014, Tinder was registering about one billion daily \"swipes\" and reported that users logged into the app on average 11 times a day. In 2015, Tinder was the fifth highest-grossing mobile app, and in 2019 it surpassed Netflix in annual spending. In 2020, Tinder had 6.2 million subscribers and 75 million monthly active users. As of 2021, Tinder has recorded more than 65 billion matches worldwide. [Source: [Wikipedia](https://en.wikipedia.org/wiki/Tinder_(app))]\n\nThis dataset belongs to the app Tinder available on the Google Play Store. The Dataset mostly has user reviews and the various comments made by the users.\n\n\n\n### Content\nThe content of the various columns is listed below. Please find the description for each column.\n\n| Column Name | Column Description |\n| --- | --- |\n| **userName** | Name of a User |\n|**userImage**  | Profile Image that a user has |\n|**content**  |This represents the comments made by a user  |\n|**score**  | Scores/Rating between 1 to 5 |\n| **thumbsUpCount** |Number of Thumbs up received by a person  |\n| **reviewCreatedVersion** | Version number on which the review is created |\n| **at** | Created At|\n| **replyContent** | Reply to the comment by the Company |\n| **repliedAt** |  Date and time of the above reply|\n| **reviewId** | unique identifier |\n   \n\n\n### Acknowledgements\n\nBanner image - Tinder",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people and society",
+    "business",
+    "mobile and wireless",
+    "ratings and reviews",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

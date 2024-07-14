@@ -1,0 +1,45 @@
+{
+  "id": "jonasblind/brackishsgd",
+  "id_no": 4170661,
+  "datasetSlugNullable": "brackishsgd",
+  "ownerUserNullable": "jonasblind",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "BrackishSGD",
+  "subtitleNullable": "Expansion of the brackish dataset with synthetically generated data",
+  "descriptionNullable": "This dataset was created for a 7.th semester project which uses and expands upon \"The Brackish Dataset\" https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset?rvi=1 by adding synthetically generated data. Github for instructions and code https://github.com/Sebastian-Whitehead/MED7-TheFishening\n\nSynthetic data generation in the context of data scarcity and diversity could help bolster the effectiveness of object detection. This paper proposes a synthetic framework for generating realistic underwater fish data, using BOIDs and high-definition rendering. The synthetic data is used to train and test an EfficientDet model, a state-of-the-art object detection algorithm, on the Brackish data set, an underwater fish detection data set captured in the turbid waters of the Limfjord, Denmark. The results demonstrate that there is no significant disparity observed when synthetic data is incorporated with the Brackish method, assumed to be attributed to the limited number of epochs trained. Even so, the inclusion of synthetic data exhibits a promising potential for enhancing the model. Within this paper, the challenges and limitations of such an approach are explored, allowing for potential insights in promising fields for future work.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F18002263%2F44fb71a061901d29601aeb9b96cc4a54%2F2019-02-21_06-52-16to2019-02-21_06-52-34_1-0256_prediction1.jpg?generation=1702645091439627&alt=media)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F18002263%2F3b2cfa75d850ae55ad8dae170a134e2d%2F2019-02-21_06-52-16to2019-02-21_06-52-34_1-0225_prediction2.jpg?generation=1702645118933655&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F18002263%2F35e5beeb9125c1fcc08a312763187a18%2F2019-02-21_06-52-16to2019-02-21_06-52-34_1-0156_prediction3.jpg?generation=1702645127887965&alt=media)",
+  "datasetId": 4170661,
+  "datasetSlug": "brackishsgd",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonasblind",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 80,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "BrackishSGD",
+  "hasTitle": true,
+  "subtitle": "Expansion of the brackish dataset with synthetically generated data",
+  "hasSubtitle": true,
+  "description": "This dataset was created for a 7.th semester project which uses and expands upon \"The Brackish Dataset\" https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset?rvi=1 by adding synthetically generated data. Github for instructions and code https://github.com/Sebastian-Whitehead/MED7-TheFishening\n\nSynthetic data generation in the context of data scarcity and diversity could help bolster the effectiveness of object detection. This paper proposes a synthetic framework for generating realistic underwater fish data, using BOIDs and high-definition rendering. The synthetic data is used to train and test an EfficientDet model, a state-of-the-art object detection algorithm, on the Brackish data set, an underwater fish detection data set captured in the turbid waters of the Limfjord, Denmark. The results demonstrate that there is no significant disparity observed when synthetic data is incorporated with the Brackish method, assumed to be attributed to the limited number of epochs trained. Even so, the inclusion of synthetic data exhibits a promising potential for enhancing the model. Within this paper, the challenges and limitations of such an approach are explored, allowing for potential insights in promising fields for future work.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F18002263%2F44fb71a061901d29601aeb9b96cc4a54%2F2019-02-21_06-52-16to2019-02-21_06-52-34_1-0256_prediction1.jpg?generation=1702645091439627&alt=media)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F18002263%2F3b2cfa75d850ae55ad8dae170a134e2d%2F2019-02-21_06-52-16to2019-02-21_06-52-34_1-0225_prediction2.jpg?generation=1702645118933655&alt=media)\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F18002263%2F35e5beeb9125c1fcc08a312763187a18%2F2019-02-21_06-52-16to2019-02-21_06-52-34_1-0156_prediction3.jpg?generation=1702645127887965&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "madswagnersrensen",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

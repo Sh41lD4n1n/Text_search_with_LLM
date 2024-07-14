@@ -1,0 +1,43 @@
+{
+  "id": "balabaskar/tom-and-jerry-image-classification",
+  "id_no": 2136537,
+  "datasetSlugNullable": "tom-and-jerry-image-classification",
+  "ownerUserNullable": "balabaskar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tom and Jerry Image classification",
+  "subtitleNullable": "Collection of 5k+ images with labelled data of Tom & Jerry cartoon show",
+  "descriptionNullable": "# Context\n\nTom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry.\n\nThis is one of the famous cartoon shows, that we would have never missed watching during our childhood. Now, its time to use our deep learning skills to detect our favorite characters - **Tom** and **Jerry** in the images extracted from some of the shows.\n\n# Data Preparation\n\nThis dataset contains more than 5k images (exactly 5478 images) extracted from some of Tom & Jerry's show videos, that are available online.\nThe downloaded videos are converted into images with 1 frame per second **(1 FPS)**\n\n### Labeling for these images is done manually (by going through images one by one to tag them as 1 of the 4 outcomes), so the accuracy of ground_truth is 100%\n\nLabeled images are separated into 4 different folders as given.\n\n**Folder - tom_and_jerry**\n      **SubFolder tom - contains images only with 'tom'**\n      **SubFolder jerry - contains images only with 'jerry'**\n      **SubFolder tom_jerry_1 - contains images with both 'tom' and 'jerry'**\n      **SubFolder tom_jerry_0 - contains images without both the characters**\n\n### ground_truth.csv file contains labeled data against each image file\n\n# Inspiration\n\n1. Detect the presence of characters 'tom' and 'jerry' in any given image\n2. Find the total screen time of Tom only, Jerry only, with both Tom & Jerry, without Tom & Jerry (Note: each image is extracted with 1FPS, which can help us to estimate the total screening time in seconds of Tom & Jerry after we detect these characters in these images)\n3. Estimate maximum screen time showing both Tom & Jerry in the show (continuously) (Note: The image name is created based on the order of appearance, say file name - **frame500.jpg** indicates the frame extracted at 500th second of the video\n\n# Challenges in the data\n\nThere are images that can be challenged during training in image classification, as these images are distorted in the original size or shape and color of the characters. These image details are given in **csv file - challenges.csv** Doing error analysis on these images after model training, will help us understand how to improve the score.\n\nFew examples are given below:\n\n[![1.jpg](https://i.postimg.cc/Tw8L4ZJx/1.jpg)](https://postimg.cc/VSRkSZhZ) [![2.jpg](https://i.postimg.cc/J4TyLy5P/2.jpg)](https://postimg.cc/HVyW0kKy)",
+  "datasetId": 2136537,
+  "datasetSlug": "tom-and-jerry-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "balabaskar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20375,
+  "totalVotes": 97,
+  "totalDownloads": 3154,
+  "title": "Tom and Jerry Image classification",
+  "hasTitle": true,
+  "subtitle": "Collection of 5k+ images with labelled data of Tom & Jerry cartoon show",
+  "hasSubtitle": true,
+  "description": "# Context\n\nTom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry.\n\nThis is one of the famous cartoon shows, that we would have never missed watching during our childhood. Now, its time to use our deep learning skills to detect our favorite characters - **Tom** and **Jerry** in the images extracted from some of the shows.\n\n# Data Preparation\n\nThis dataset contains more than 5k images (exactly 5478 images) extracted from some of Tom & Jerry's show videos, that are available online.\nThe downloaded videos are converted into images with 1 frame per second **(1 FPS)**\n\n### Labeling for these images is done manually (by going through images one by one to tag them as 1 of the 4 outcomes), so the accuracy of ground_truth is 100%\n\nLabeled images are separated into 4 different folders as given.\n\n**Folder - tom_and_jerry**\n      **SubFolder tom - contains images only with 'tom'**\n      **SubFolder jerry - contains images only with 'jerry'**\n      **SubFolder tom_jerry_1 - contains images with both 'tom' and 'jerry'**\n      **SubFolder tom_jerry_0 - contains images without both the characters**\n\n### ground_truth.csv file contains labeled data against each image file\n\n# Inspiration\n\n1. Detect the presence of characters 'tom' and 'jerry' in any given image\n2. Find the total screen time of Tom only, Jerry only, with both Tom & Jerry, without Tom & Jerry (Note: each image is extracted with 1FPS, which can help us to estimate the total screening time in seconds of Tom & Jerry after we detect these characters in these images)\n3. Estimate maximum screen time showing both Tom & Jerry in the show (continuously) (Note: The image name is created based on the order of appearance, say file name - **frame500.jpg** indicates the frame extracted at 500th second of the video\n\n# Challenges in the data\n\nThere are images that can be challenged during training in image classification, as these images are distorted in the original size or shape and color of the characters. These image details are given in **csv file - challenges.csv** Doing error analysis on these images after model training, will help us understand how to improve the score.\n\nFew examples are given below:\n\n[![1.jpg](https://i.postimg.cc/Tw8L4ZJx/1.jpg)](https://postimg.cc/VSRkSZhZ) [![2.jpg](https://i.postimg.cc/J4TyLy5P/2.jpg)](https://postimg.cc/HVyW0kKy)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "software",
+    "data analytics",
+    "image",
+    "comics and animation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

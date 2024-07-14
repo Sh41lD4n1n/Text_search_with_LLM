@@ -1,0 +1,41 @@
+{
+  "id": "crawford/emnist",
+  "id_no": 7160,
+  "datasetSlugNullable": "emnist",
+  "ownerUserNullable": "crawford",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "EMNIST (Extended MNIST)",
+  "subtitleNullable": "An extended variant of the full NIST dataset",
+  "descriptionNullable": "## EMNIST\n\n---\n\nThe EMNIST dataset is a set of handwritten character digits derived from the NIST Special Database 19  and converted to a 28x28 pixel image format and dataset structure that directly matches the MNIST dataset. Further information on the dataset contents and conversion process can be found in the paper available at [https://arxiv.org/abs/1702.05373v1][1].\n\n## Format\nThere are six different splits provided in this dataset and each are provided in two formats:<br>\n\n1. Binary (see emnist_source_files.zip)\n2. CSV (combined labels and images)\n    - Each row is a separate image\n    - 785 columns\n    - First column = class_label (see mappings.txt for class label definitions)\n    - Each column after represents one pixel value (784 total for a 28 x 28 image)\n\n\n\n\n\n\n### ByClass and ByMerge datsets\nThe full complement of the NIST Special Database 19 is available in the ByClass and ByMerge splits. These two datasets have the same image information but differ in the number of images in each class. Both datasets have an uneven number of images per class and there are more digits than letters. The number of letters roughly equate to the frequency of use in the English language.<br>\n\n- train: 697,932\n- test: 116,323\n- total: 814,255\n- classes: ByClass 62 (unbalanced)  / ByMerge 47 (unbalanced)\n<br>\n\n### Balanced dataset\nThe EMNIST Balanced dataset is meant to address the balance issues in the ByClass and ByMerge datasets. It is derived from the ByMerge dataset to reduce mis-classification errors due to capital and lower case letters and also has an equal number of samples per class. This dataset is meant to be the most applicable.<br>\n\n- train: 112,800\n- test: 18,800\n- total: 131,600\n- classes: 47 (balanced)\n<br>\n\n\n### Letters datasets\nThe EMNIST Letters dataset merges a balanced set of the uppercase and lowercase letters into a single 26-class task. <br>\n\n- train: 88,800\n- test: 14,800\n- total: 103,600\n- classes: 37 (balanced)\n<br>\n\n### Digits and MNIST datsets\nThe EMNIST Digits and EMNIST MNIST dataset provide balanced handwritten digit datasets directly compatible with the original MNIST dataset. <br>\n\n- train: Digits 240,000 / MNIST 60,000\n- test: Digits 40,000 / MNIST 10,000\n- total: Digits 280,000 / MNIST 70,000\n- classes: 47 (balanced)\n<br>\n\n\n### Visual breakdown of EMNIST datasets\nPlease refer to the EMNIST paper for details on the structure of the dataset [https://arxiv.org/abs/1702.05373v1][1].<br>\n![EMNIST datasets breakdown][3]\n\n## Acknowldgements\n\nCohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters. \n\n\nDataset retrieved from [https://www.nist.gov/itl/iad/image-group/emnist-dataset][4]\n\n\n*Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik<br>\nThe MARCS Institute for Brain, Behaviour and Development<br>\nWestern Sydney University<br>\nPenrith, Australia 2751*\n\n\n  [1]: https://arxiv.org/abs/1702.05373v1\n  [2]: http://yann.lecun.com/exdb/mnist/\n  [3]: https://imgur.com/MJo1Kd0.jpg\n  [4]: https://www.nist.gov/itl/iad/image-group/emnist-dataset",
+  "datasetId": 7160,
+  "datasetSlug": "emnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawford",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 239477,
+  "totalVotes": 437,
+  "totalDownloads": 39690,
+  "title": "EMNIST (Extended MNIST)",
+  "hasTitle": true,
+  "subtitle": "An extended variant of the full NIST dataset",
+  "hasSubtitle": true,
+  "description": "## EMNIST\n\n---\n\nThe EMNIST dataset is a set of handwritten character digits derived from the NIST Special Database 19  and converted to a 28x28 pixel image format and dataset structure that directly matches the MNIST dataset. Further information on the dataset contents and conversion process can be found in the paper available at [https://arxiv.org/abs/1702.05373v1][1].\n\n## Format\nThere are six different splits provided in this dataset and each are provided in two formats:<br>\n\n1. Binary (see emnist_source_files.zip)\n2. CSV (combined labels and images)\n    - Each row is a separate image\n    - 785 columns\n    - First column = class_label (see mappings.txt for class label definitions)\n    - Each column after represents one pixel value (784 total for a 28 x 28 image)\n\n\n\n\n\n\n### ByClass and ByMerge datsets\nThe full complement of the NIST Special Database 19 is available in the ByClass and ByMerge splits. These two datasets have the same image information but differ in the number of images in each class. Both datasets have an uneven number of images per class and there are more digits than letters. The number of letters roughly equate to the frequency of use in the English language.<br>\n\n- train: 697,932\n- test: 116,323\n- total: 814,255\n- classes: ByClass 62 (unbalanced)  / ByMerge 47 (unbalanced)\n<br>\n\n### Balanced dataset\nThe EMNIST Balanced dataset is meant to address the balance issues in the ByClass and ByMerge datasets. It is derived from the ByMerge dataset to reduce mis-classification errors due to capital and lower case letters and also has an equal number of samples per class. This dataset is meant to be the most applicable.<br>\n\n- train: 112,800\n- test: 18,800\n- total: 131,600\n- classes: 47 (balanced)\n<br>\n\n\n### Letters datasets\nThe EMNIST Letters dataset merges a balanced set of the uppercase and lowercase letters into a single 26-class task. <br>\n\n- train: 88,800\n- test: 14,800\n- total: 103,600\n- classes: 37 (balanced)\n<br>\n\n### Digits and MNIST datsets\nThe EMNIST Digits and EMNIST MNIST dataset provide balanced handwritten digit datasets directly compatible with the original MNIST dataset. <br>\n\n- train: Digits 240,000 / MNIST 60,000\n- test: Digits 40,000 / MNIST 10,000\n- total: Digits 280,000 / MNIST 70,000\n- classes: 47 (balanced)\n<br>\n\n\n### Visual breakdown of EMNIST datasets\nPlease refer to the EMNIST paper for details on the structure of the dataset [https://arxiv.org/abs/1702.05373v1][1].<br>\n![EMNIST datasets breakdown][3]\n\n## Acknowldgements\n\nCohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters. \n\n\nDataset retrieved from [https://www.nist.gov/itl/iad/image-group/emnist-dataset][4]\n\n\n*Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik<br>\nThe MARCS Institute for Brain, Behaviour and Development<br>\nWestern Sydney University<br>\nPenrith, Australia 2751*\n\n\n  [1]: https://arxiv.org/abs/1702.05373v1\n  [2]: http://yann.lecun.com/exdb/mnist/\n  [3]: https://imgur.com/MJo1Kd0.jpg\n  [4]: https://www.nist.gov/itl/iad/image-group/emnist-dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "earth and nature",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

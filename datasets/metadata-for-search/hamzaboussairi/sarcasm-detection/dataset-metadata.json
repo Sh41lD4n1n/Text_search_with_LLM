@@ -1,0 +1,37 @@
+{
+  "id": "hamzaboussairi/sarcasm-detection",
+  "id_no": 4625271,
+  "datasetSlugNullable": "sarcasm-detection",
+  "ownerUserNullable": "hamzaboussairi",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Sarcasm detection",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4625271,
+  "datasetSlug": "sarcasm-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "hamzaboussairi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 28,
+  "totalVotes": 0,
+  "totalDownloads": 5,
+  "title": "Sarcasm detection",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

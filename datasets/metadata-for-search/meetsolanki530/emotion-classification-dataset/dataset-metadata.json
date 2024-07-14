@@ -1,0 +1,43 @@
+{
+  "id": "meetsolanki530/emotion-classification-dataset",
+  "id_no": 5115647,
+  "datasetSlugNullable": "emotion-classification-dataset",
+  "ownerUserNullable": "meetsolanki530",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Emotion Classification Dataset",
+  "subtitleNullable": "Emotion-labeled Dataset: Unveiling Sentiments in Textual Content",
+  "descriptionNullable": "This dataset presents a comprehensive collection of textual content annotated with corresponding sentiments: happy, sad, and angry. Each entry in the dataset contains a piece of text along with its associated sentiment label, providing a rich resource for sentiment analysis and emotion detection tasks.",
+  "datasetId": 5115647,
+  "datasetSlug": "emotion-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "meetsolanki530",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 216,
+  "totalVotes": 1,
+  "totalDownloads": 14,
+  "title": "Emotion Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Emotion-labeled Dataset: Unveiling Sentiments in Textual Content",
+  "hasSubtitle": true,
+  "description": "This dataset presents a comprehensive collection of textual content annotated with corresponding sentiments: happy, sad, and angry. Each entry in the dataset contains a piece of text along with its associated sentiment label, providing a rich resource for sentiment analysis and emotion detection tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "text",
+    "pandas",
+    "python",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

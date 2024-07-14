@@ -1,0 +1,39 @@
+{
+  "id": "ranirathore/wine-dataset",
+  "id_no": 3467401,
+  "datasetSlugNullable": "wine-dataset",
+  "ownerUserNullable": "ranirathore",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Wine_Dataset",
+  "subtitleNullable": "Wine Quality Prediction: Analyzing and Predicting Wine Ratings",
+  "descriptionNullable": "This dataset on Kaggle offers a wide range of wine options, including red wine, white wine, and a specific wine called Amaris Syrah. Each wine has its unique characteristics and flavors, catering to different tastes and preferences.",
+  "datasetId": 3467401,
+  "datasetSlug": "wine-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ranirathore",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 308,
+  "totalVotes": 4,
+  "totalDownloads": 41,
+  "title": "Wine_Dataset",
+  "hasTitle": true,
+  "subtitle": "Wine Quality Prediction: Analyzing and Predicting Wine Ratings",
+  "hasSubtitle": true,
+  "description": "This dataset on Kaggle offers a wide range of wine options, including red wine, white wine, and a specific wine called Amaris Syrah. Each wine has its unique characteristics and flavors, catering to different tastes and preferences.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

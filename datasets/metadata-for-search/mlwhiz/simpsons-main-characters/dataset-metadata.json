@@ -1,0 +1,45 @@
+{
+  "id": "mlwhiz/simpsons-main-characters",
+  "id_no": 881764,
+  "datasetSlugNullable": "simpsons-main-characters",
+  "ownerUserNullable": "mlwhiz",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Simpsons Main Characters",
+  "subtitleNullable": "Simpsons Image Dataset for Instance Segmentation ",
+  "descriptionNullable": "# Context\nI was looking for a toy dataset for instance segmentation for my [new Book](https://mlwhiz.ck.page/9a2ffe9e2c). Something like the iris for instance segmentation. Though I was able to find out many datasets for Object detection and classification perse, finding a dataset that is not COCO for instance segmentation was hard. I could also have gotten images from the Open image dataset along with their annotations. But that meant that I had to download all the mask images for the whole OID. Something I didn't want to do. So I got to create one myself.  \n\n# Content\nThis dataset contains 81 image segmentations each for 5 Simpson's main characters (Homer, Lisa, Bert, Marge, and Maggie). I have taken these images from [the Simpsons Characters Data](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset?select=simpsons_dataset) which is also on Kaggle. The Simpsons characters dataset had a lot of images, so I selected the first 80 for each of these 5 characters to manually annotate masks. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F108364%2F530e032c63c3ab1b6602d9cc6cfe9fcf%2Fsimpdataset.png?generation=1600521907170542&alt=media)\n\n# File Descriptions:\n\n1. `instances.json` : Contains annotations for files in `img` folder in COCO format.\n2. `img` folder: contains images that I selected(81 per character) for annotation from the simpsons_dataset directory in Simpsons Characters Data.\n3. `test_images` folder: Contains all the other images that I didn't annotate from the simpsons_dataset directory in Simpsons Characters Data.\n\n# Acknowledgements\n\nTo the original author of Simpsons Character Dataset\n\n### Inspiration\n\nCan you find the pixel for Bart Simpson?",
+  "datasetId": 881764,
+  "datasetSlug": "simpsons-main-characters",
+  "hasDatasetSlug": true,
+  "ownerUser": "mlwhiz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 13022,
+  "totalVotes": 23,
+  "totalDownloads": 1057,
+  "title": "Simpsons Main Characters",
+  "hasTitle": true,
+  "subtitle": "Simpsons Image Dataset for Instance Segmentation ",
+  "hasSubtitle": true,
+  "description": "# Context\nI was looking for a toy dataset for instance segmentation for my [new Book](https://mlwhiz.ck.page/9a2ffe9e2c). Something like the iris for instance segmentation. Though I was able to find out many datasets for Object detection and classification perse, finding a dataset that is not COCO for instance segmentation was hard. I could also have gotten images from the Open image dataset along with their annotations. But that meant that I had to download all the mask images for the whole OID. Something I didn't want to do. So I got to create one myself.  \n\n# Content\nThis dataset contains 81 image segmentations each for 5 Simpson's main characters (Homer, Lisa, Bert, Marge, and Maggie). I have taken these images from [the Simpsons Characters Data](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset?select=simpsons_dataset) which is also on Kaggle. The Simpsons characters dataset had a lot of images, so I selected the first 80 for each of these 5 characters to manually annotate masks. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F108364%2F530e032c63c3ab1b6602d9cc6cfe9fcf%2Fsimpdataset.png?generation=1600521907170542&alt=media)\n\n# File Descriptions:\n\n1. `instances.json` : Contains annotations for files in `img` folder in COCO format.\n2. `img` folder: contains images that I selected(81 per character) for annotation from the simpsons_dataset directory in Simpsons Characters Data.\n3. `test_images` folder: Contains all the other images that I didn't annotate from the simpsons_dataset directory in Simpsons Characters Data.\n\n# Acknowledgements\n\nTo the original author of Simpsons Character Dataset\n\n### Inspiration\n\nCan you find the pixel for Bart Simpson?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "artificial intelligence",
+    "computer science",
+    "software",
+    "deep learning",
+    "image",
+    "comics and animation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

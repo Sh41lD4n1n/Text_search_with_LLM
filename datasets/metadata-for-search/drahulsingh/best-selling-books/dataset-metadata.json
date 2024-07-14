@@ -1,0 +1,43 @@
+{
+  "id": "drahulsingh/best-selling-books",
+  "id_no": 3424508,
+  "datasetSlugNullable": "best-selling-books",
+  "ownerUserNullable": "drahulsingh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "best-selling-books",
+  "subtitleNullable": "List of best-selling books",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14601120%2Fb31574d613385af49d25c679431b3313%2Fclose-up-opened-book-library.jpg?generation=1687198503124618&alt=media)\n\nThis dataset contains lists of best-selling books and book series in any language. The term \"best-selling\" refers to the expected number of copies sold for each book, not the number of books printed or currently owned. This list excludes comic books and textbooks. The books are arranged in the order of the greatest sales estimate reported by credible, independent sources.",
+  "datasetId": 3424508,
+  "datasetSlug": "best-selling-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "drahulsingh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24607,
+  "totalVotes": 135,
+  "totalDownloads": 5471,
+  "title": "best-selling-books",
+  "hasTitle": true,
+  "subtitle": "List of best-selling books",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14601120%2Fb31574d613385af49d25c679431b3313%2Fclose-up-opened-book-library.jpg?generation=1687198503124618&alt=media)\n\nThis dataset contains lists of best-selling books and book series in any language. The term \"best-selling\" refers to the expected number of copies sold for each book, not the number of books printed or currently owned. This list excludes comic books and textbooks. The books are arranged in the order of the greatest sales estimate reported by credible, independent sources.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "literature",
+    "business",
+    "education",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

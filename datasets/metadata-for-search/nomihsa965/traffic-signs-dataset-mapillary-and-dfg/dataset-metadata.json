@@ -1,0 +1,39 @@
+{
+  "id": "nomihsa965/traffic-signs-dataset-mapillary-and-dfg",
+  "id_no": 2242713,
+  "datasetSlugNullable": "traffic-signs-dataset-mapillary-and-dfg",
+  "ownerUserNullable": "nomihsa965",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Traffic Signs Dataset (Mapillary and DFG)",
+  "subtitleNullable": "Traffic Signs Particularly for Africa Region with 76 Classes",
+  "descriptionNullable": "This dataset has been refined particularly for the region of Africa. Two open sourced datasets were used to extract only those traffic signs which are used in Africa region. \n\n1. Mapillary Traffic Sign Dataset - https://www.mapillary.com/dataset/trafficsign\n2. DFG Traffic Sign Data Set - https://www.vicos.si/resources/dfg/\n\nThis dataset contains 76 classes from all categories e.g. regulatory, warning, guide and information signs. This dataset contains total of 19,346 images and at least 200 instances for every class. \n\nThings included in the dataset:\n1. classes.json: contains a list of all classes with information about class name, class index and number of instances in the dataset.\n2. dataset.yaml: used to specify the number of classes, names of classes and paths to train/test sets. This file is used for training YOLOv5.\n3. crops: This directory contains the crops of all instances of all classes organized by class name.\n4. images: This directory contains all images of the dataset.\n5. xmls: This directory contains annotations in xml format.\n6. txtx (YOLO): This directory contains annotations in YOLO txt format.\n\n\nTODO: There are still some signs which have not been annotated in the dataset e.g. large information/guide signs occurring on freeways. You are encouraged to refine and share the updated dataset. Thanks.",
+  "datasetId": 2242713,
+  "datasetSlug": "traffic-signs-dataset-mapillary-and-dfg",
+  "hasDatasetSlug": true,
+  "ownerUser": "nomihsa965",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4136,
+  "totalVotes": 14,
+  "totalDownloads": 508,
+  "title": "Traffic Signs Dataset (Mapillary and DFG)",
+  "hasTitle": true,
+  "subtitle": "Traffic Signs Particularly for Africa Region with 76 Classes",
+  "hasSubtitle": true,
+  "description": "This dataset has been refined particularly for the region of Africa. Two open sourced datasets were used to extract only those traffic signs which are used in Africa region. \n\n1. Mapillary Traffic Sign Dataset - https://www.mapillary.com/dataset/trafficsign\n2. DFG Traffic Sign Data Set - https://www.vicos.si/resources/dfg/\n\nThis dataset contains 76 classes from all categories e.g. regulatory, warning, guide and information signs. This dataset contains total of 19,346 images and at least 200 instances for every class. \n\nThings included in the dataset:\n1. classes.json: contains a list of all classes with information about class name, class index and number of instances in the dataset.\n2. dataset.yaml: used to specify the number of classes, names of classes and paths to train/test sets. This file is used for training YOLOv5.\n3. crops: This directory contains the crops of all instances of all classes organized by class name.\n4. images: This directory contains all images of the dataset.\n5. xmls: This directory contains annotations in xml format.\n6. txtx (YOLO): This directory contains annotations in YOLO txt format.\n\n\nTODO: There are still some signs which have not been annotated in the dataset e.g. large information/guide signs occurring on freeways. You are encouraged to refine and share the updated dataset. Thanks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "name": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

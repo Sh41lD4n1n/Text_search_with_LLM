@@ -1,0 +1,43 @@
+{
+  "id": "oles04/bundesliga-soccer-player",
+  "id_no": 3258253,
+  "datasetSlugNullable": "bundesliga-soccer-player",
+  "ownerUserNullable": "oles04",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Football/Soccer | Bundesliga Player Database",
+  "subtitleNullable": "Bundesliga Player Database: Complete Profiles, Stats, and Clubs of each Player",
+  "descriptionNullable": "The Bundesliga Players dataset provides a comprehensive collection of information on every player in the German Bundesliga football league. From renowned goalkeepers to talented defenders, this dataset offers an extensive range of player details including their names, full names, ages, heights, nationalities, places of birth, prices, maximum prices, positions, shirt numbers, preferred foot, current clubs, contract expiration dates, dates of joining the clubs, player agents, and outfitters. Whether you're a passionate football fan, a sports analyst, or a fantasy football enthusiast, this dataset serves as a valuable resource for exploring and analyzing the profiles of Bundesliga players, enabling you to delve into their backgrounds, performance statistics, and club affiliations. Discover the stars of German football and gain insights into their careers with this comprehensive Bundesliga Players dataset.",
+  "datasetId": 3258253,
+  "datasetSlug": "bundesliga-soccer-player",
+  "hasDatasetSlug": true,
+  "ownerUser": "oles04",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 14994,
+  "totalVotes": 44,
+  "totalDownloads": 2837,
+  "title": "Football/Soccer | Bundesliga Player Database",
+  "hasTitle": true,
+  "subtitle": "Bundesliga Player Database: Complete Profiles, Stats, and Clubs of each Player",
+  "hasSubtitle": true,
+  "description": "The Bundesliga Players dataset provides a comprehensive collection of information on every player in the German Bundesliga football league. From renowned goalkeepers to talented defenders, this dataset offers an extensive range of player details including their names, full names, ages, heights, nationalities, places of birth, prices, maximum prices, positions, shirt numbers, preferred foot, current clubs, contract expiration dates, dates of joining the clubs, player agents, and outfitters. Whether you're a passionate football fan, a sports analyst, or a fantasy football enthusiast, this dataset serves as a valuable resource for exploring and analyzing the profiles of Bundesliga players, enabling you to delve into their backgrounds, performance statistics, and club affiliations. Discover the stars of German football and gain insights into their careers with this comprehensive Bundesliga Players dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "football",
+    "europe",
+    "data visualization",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

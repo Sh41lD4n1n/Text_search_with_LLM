@@ -1,0 +1,39 @@
+{
+  "id": "saurabhshahane/fake-news-classification",
+  "id_no": 2093157,
+  "datasetSlugNullable": "fake-news-classification",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fake News Classification",
+  "subtitleNullable": "Fake News Classification on WELFake Dataset",
+  "descriptionNullable": "(WELFake) is a dataset of 72,134 news articles with 35,028 real and 37,106 fake news. For this, authors merged four popular news datasets (i.e. Kaggle, McIntire, Reuters, BuzzFeed Political) to prevent over-fitting of classifiers and to provide more text data for better ML training.\n\nDataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Label (0 = fake and 1 = real).\n\nThere are 78098 data entries in csv file out of which only 72134 entries are accessed as per the data frame.\n\nPublished in:\nIEEE Transactions on Computational Social Systems: pp. 1-13 (doi: 10.1109/TCSS.2021.3068519).",
+  "datasetId": 2093157,
+  "datasetSlug": "fake-news-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 77286,
+  "totalVotes": 106,
+  "totalDownloads": 11910,
+  "title": "Fake News Classification",
+  "hasTitle": true,
+  "subtitle": "Fake News Classification on WELFake Dataset",
+  "hasSubtitle": true,
+  "description": "(WELFake) is a dataset of 72,134 news articles with 35,028 real and 37,106 fake news. For this, authors merged four popular news datasets (i.e. Kaggle, McIntire, Reuters, BuzzFeed Political) to prevent over-fitting of classifiers and to provide more text data for better ML training.\n\nDataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Label (0 = fake and 1 = real).\n\nThere are 78098 data entries in csv file out of which only 72134 entries are accessed as per the data frame.\n\nPublished in:\nIEEE Transactions on Computational Social Systems: pp. 1-13 (doi: 10.1109/TCSS.2021.3068519).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

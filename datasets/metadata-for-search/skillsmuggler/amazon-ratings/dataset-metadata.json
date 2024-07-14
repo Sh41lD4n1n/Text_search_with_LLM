@@ -1,0 +1,41 @@
+{
+  "id": "skillsmuggler/amazon-ratings",
+  "id_no": 33019,
+  "datasetSlugNullable": "amazon-ratings",
+  "ownerUserNullable": "skillsmuggler",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon - Ratings (Beauty Products)",
+  "subtitleNullable": "2+ Million data points related to Beauty products sold on Amaon.com",
+  "descriptionNullable": "### Context\n\n**[Amazon.com](https://www.amazon.com/)** is one of the largest electronic commerce and cloud computing companies.\n\nJust a few **Amazon** related facts\n\n - They lost $4.8 million in August 2013, when their website went down for 40 mins.\n - They hold the patent on 1-Click buying, and licenses it to Apple.\n - Their Phoenix fulfilment centre is a massive 1.2 million square feet.\n\nAmazon relies heavily on a Recommendation engine that reviews customer ratings and purchase history to recommend items and improve sales. \n\n### Content\n\nThis is a dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on their website.\n\nIt contains \n\n - the unique **UserId** (Customer Identification), \n - the product **ASIN** (Amazon's unique product identification code for each product), \n - **Ratings** (ranging from 1-5 based on customer satisfaction) and \n - the **Timestamp** of the rating (in UNIX time)\n\n### Acknowledgements\n\nA description of the entire Amazon products dataset.\n\nThis dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.\n\nThis dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs). \n\nFor the complete dataset check out [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)\n\n### Inspiration\n\nCan a good Recommendation engine be created from this minimal dataset?\n\nGive it a try!\n\nIf you have got any more cool Amazon facts, dataset or queries, **just drop a comment**.",
+  "datasetId": 33019,
+  "datasetSlug": "amazon-ratings",
+  "hasDatasetSlug": true,
+  "ownerUser": "skillsmuggler",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 112351,
+  "totalVotes": 131,
+  "totalDownloads": 14903,
+  "title": "Amazon - Ratings (Beauty Products)",
+  "hasTitle": true,
+  "subtitle": "2+ Million data points related to Beauty products sold on Amaon.com",
+  "hasSubtitle": true,
+  "description": "### Context\n\n**[Amazon.com](https://www.amazon.com/)** is one of the largest electronic commerce and cloud computing companies.\n\nJust a few **Amazon** related facts\n\n - They lost $4.8 million in August 2013, when their website went down for 40 mins.\n - They hold the patent on 1-Click buying, and licenses it to Apple.\n - Their Phoenix fulfilment centre is a massive 1.2 million square feet.\n\nAmazon relies heavily on a Recommendation engine that reviews customer ratings and purchase history to recommend items and improve sales. \n\n### Content\n\nThis is a dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on their website.\n\nIt contains \n\n - the unique **UserId** (Customer Identification), \n - the product **ASIN** (Amazon's unique product identification code for each product), \n - **Ratings** (ranging from 1-5 based on customer satisfaction) and \n - the **Timestamp** of the rating (in UNIX time)\n\n### Acknowledgements\n\nA description of the entire Amazon products dataset.\n\nThis dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.\n\nThis dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs). \n\nFor the complete dataset check out [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)\n\n### Inspiration\n\nCan a good Recommendation engine be created from this minimal dataset?\n\nGive it a try!\n\nIf you have got any more cool Amazon facts, dataset or queries, **just drop a comment**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "recommender systems",
+    "make-up and cosmetics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "akanksha995579/pharma-data-analysis",
+  "id_no": 5287933,
+  "datasetSlugNullable": "pharma-data-analysis",
+  "ownerUserNullable": "akanksha995579",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Pharma Data Analysis",
+  "subtitleNullable": "",
+  "descriptionNullable": "The dataset is a comprehensive sales record from Gottlieb-Cruickshank, detailing various transactions that took place in Poland in January 2018. The data includes information on customers, products, and sales teams, with a focus on the pharmaceutical industry. Below is a detailed description of the dataset:\n\n### Dataset Description\n\n**Columns:**\n\n1. **Distributor:** The name of the distributing company, which is consistent across all records as \"Gottlieb-Cruickshank.\"\n2. **Customer Name:** The name of the customer or the purchasing entity.\n3. **City:** The city in Poland where the customer is located.\n4. **Country:** The country of the transaction, consistently listed as \"Poland.\"\n5. **Latitude:** The latitude coordinate of the customer's city.\n6. **Longitude:** The longitude coordinate of the customer's city.\n7. **Channel:** The distribution channel, either \"Hospital\" or \"Pharmacy.\"\n8. **Sub-channel:** Specifies whether the sub-channel is \"Private,\" \"Retail,\" or \"Institution.\"\n9. **Product Name:** The name of the pharmaceutical product sold.\n10. **Product Class:** The classification of the product, such as \"Mood Stabilizers,\" \"Antibiotics,\" or \"Analgesics.\"\n11. **Quantity:** The number of units sold.\n12. **Price:** The price per unit of the product.\n13. **Sales:** The total sales amount, calculated as Quantity * Price.\n14. **Month:** The month of the transaction, which is \"January\" for all records.\n15. **Year:** The year of the transaction, which is \"2018\" for all records.\n16. **Name of Sales Rep:** The name of the sales representative handling the transaction.\n17. **Manager:** The manager overseeing the sales representative.\n18. **Sales Team:** The sales team to which the sales representative belongs, such as \"Delta,\" \"Bravo,\" or \"Alfa.\"\n\n### Example Rows:\n\n1. **Row 1:**\n   - **Customer Name:** Zieme, Doyle and Kunze\n   - **City:** Lublin\n   - **Product Name:** Topipizole\n   - **Product Class:** Mood Stabilizers\n   - **Quantity:** 4\n   - **Price:** 368\n   - **Sales:** 1472\n   - **Sales Rep:** Mary Gerrard\n   - **Manager:** Britanny Bold\n   - **Sales Team:** Delta\n\n2. **Row 2:**\n   - **Customer Name:** Feest PLC\n   - **City:** \u015awiecie\n   - **Product Name:** Choriotrisin\n   - **Product Class:** Antibiotics\n   - **Quantity:** 7\n   - **Price:** 591\n   - **Sales:** 4137\n   - **Sales Rep:** Jessica Smith\n   - **Manager:** Britanny Bold\n   - **Sales Team:** Delta\n\nThis dataset can be utilized for various analyses, including sales performance by city, product, and sales teams, as well as geographical distribution of sales within Poland. It provides valuable insights into the pharmaceutical sales strategies and their execution within a specific time frame.",
+  "datasetId": 5287933,
+  "datasetSlug": "pharma-data-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "akanksha995579",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 33,
+  "totalVotes": 0,
+  "totalDownloads": 12,
+  "title": "Pharma Data Analysis",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The dataset is a comprehensive sales record from Gottlieb-Cruickshank, detailing various transactions that took place in Poland in January 2018. The data includes information on customers, products, and sales teams, with a focus on the pharmaceutical industry. Below is a detailed description of the dataset:\n\n### Dataset Description\n\n**Columns:**\n\n1. **Distributor:** The name of the distributing company, which is consistent across all records as \"Gottlieb-Cruickshank.\"\n2. **Customer Name:** The name of the customer or the purchasing entity.\n3. **City:** The city in Poland where the customer is located.\n4. **Country:** The country of the transaction, consistently listed as \"Poland.\"\n5. **Latitude:** The latitude coordinate of the customer's city.\n6. **Longitude:** The longitude coordinate of the customer's city.\n7. **Channel:** The distribution channel, either \"Hospital\" or \"Pharmacy.\"\n8. **Sub-channel:** Specifies whether the sub-channel is \"Private,\" \"Retail,\" or \"Institution.\"\n9. **Product Name:** The name of the pharmaceutical product sold.\n10. **Product Class:** The classification of the product, such as \"Mood Stabilizers,\" \"Antibiotics,\" or \"Analgesics.\"\n11. **Quantity:** The number of units sold.\n12. **Price:** The price per unit of the product.\n13. **Sales:** The total sales amount, calculated as Quantity * Price.\n14. **Month:** The month of the transaction, which is \"January\" for all records.\n15. **Year:** The year of the transaction, which is \"2018\" for all records.\n16. **Name of Sales Rep:** The name of the sales representative handling the transaction.\n17. **Manager:** The manager overseeing the sales representative.\n18. **Sales Team:** The sales team to which the sales representative belongs, such as \"Delta,\" \"Bravo,\" or \"Alfa.\"\n\n### Example Rows:\n\n1. **Row 1:**\n   - **Customer Name:** Zieme, Doyle and Kunze\n   - **City:** Lublin\n   - **Product Name:** Topipizole\n   - **Product Class:** Mood Stabilizers\n   - **Quantity:** 4\n   - **Price:** 368\n   - **Sales:** 1472\n   - **Sales Rep:** Mary Gerrard\n   - **Manager:** Britanny Bold\n   - **Sales Team:** Delta\n\n2. **Row 2:**\n   - **Customer Name:** Feest PLC\n   - **City:** \u015awiecie\n   - **Product Name:** Choriotrisin\n   - **Product Class:** Antibiotics\n   - **Quantity:** 7\n   - **Price:** 591\n   - **Sales:** 4137\n   - **Sales Rep:** Jessica Smith\n   - **Manager:** Britanny Bold\n   - **Sales Team:** Delta\n\nThis dataset can be utilized for various analyses, including sales performance by city, product, and sales teams, as well as geographical distribution of sales within Poland. It provides valuable insights into the pharmaceutical sales strategies and their execution within a specific time frame.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

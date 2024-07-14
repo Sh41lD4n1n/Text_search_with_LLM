@@ -1,0 +1,44 @@
+{
+  "id": "balabaskar/golden-foot-football-players-image-dataset",
+  "id_no": 2150848,
+  "datasetSlugNullable": "golden-foot-football-players-image-dataset",
+  "ownerUserNullable": "balabaskar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Golden Foot Football players Image Dataset",
+  "subtitleNullable": "Collection of football players image who won Golden Foot award",
+  "descriptionNullable": "# Context\n\nFootball is the top most popular sport watched in the world ([Wiki](https://en.wikipedia.org/wiki/Sport)). The sport is loaded with a lot of emotion and drama till the last second of the match. And, there are football players who had changed the equation of losing a match to winning and brought many victories to their countries with their magic spells during the game. Now, it's time for us, as a fan of Football, to use our deep learning skills to have more fun with this dataset.\n\n# Data Preparation\n\nThe Golden Foot is the prestigious lifetime achievement award attributed every year to the greatest in the history of world football. It was created in 2003 by Antonio Caliendo and is the only award given by football fans from all over the world who vote on the official website of the event [Golden Foot](www.goldenfoot.com)\n\nThis dataset contains images of Football players, who are the recipients of the Golden Foot award. \nBelow is the list of players:\n\n- 2021 - Mohamed Salah\n- 2020 - Cristiano Ronaldo\n- 2019 - Luka Modric\n- 2018 - Edinson Cavani\n- 2017 - Iker Casillas\n- 2016 - Gianlugi Buffon\n- 2015 - Samuel Eto\n- 2014 - Andreas Iniesta\n- 2013 - Didier Drogba\n- 2012 - Zlatan Ibrahimovic\n- 2011 - Riyan Giggs\n- 2010 - Francesco Totti\n- 2009 - Ronaldinho\n- 2008 - Roberto Carlos\n- 2007 - Alessandro Del Piero\n- 2006 - Ronaldo Nazario\n- 2005 - Andriy Shevchenko\n- 2004 - Pavel Nedved\n- 2003 - Roberto Baggio\n\nThis dataset also contains images of Football legends of all Time:\n\n1. Diego Maradona\n2. Pele\n3. Lionel Messi\n\nReference : [Golden foot winners list](https://goldenfoot.com/winners/)",
+  "datasetId": 2150848,
+  "datasetSlug": "golden-foot-football-players-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "balabaskar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9357,
+  "totalVotes": 72,
+  "totalDownloads": 979,
+  "title": "Golden Foot Football players Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of football players image who won Golden Foot award",
+  "hasSubtitle": true,
+  "description": "# Context\n\nFootball is the top most popular sport watched in the world ([Wiki](https://en.wikipedia.org/wiki/Sport)). The sport is loaded with a lot of emotion and drama till the last second of the match. And, there are football players who had changed the equation of losing a match to winning and brought many victories to their countries with their magic spells during the game. Now, it's time for us, as a fan of Football, to use our deep learning skills to have more fun with this dataset.\n\n# Data Preparation\n\nThe Golden Foot is the prestigious lifetime achievement award attributed every year to the greatest in the history of world football. It was created in 2003 by Antonio Caliendo and is the only award given by football fans from all over the world who vote on the official website of the event [Golden Foot](www.goldenfoot.com)\n\nThis dataset contains images of Football players, who are the recipients of the Golden Foot award. \nBelow is the list of players:\n\n- 2021 - Mohamed Salah\n- 2020 - Cristiano Ronaldo\n- 2019 - Luka Modric\n- 2018 - Edinson Cavani\n- 2017 - Iker Casillas\n- 2016 - Gianlugi Buffon\n- 2015 - Samuel Eto\n- 2014 - Andreas Iniesta\n- 2013 - Didier Drogba\n- 2012 - Zlatan Ibrahimovic\n- 2011 - Riyan Giggs\n- 2010 - Francesco Totti\n- 2009 - Ronaldinho\n- 2008 - Roberto Carlos\n- 2007 - Alessandro Del Piero\n- 2006 - Ronaldo Nazario\n- 2005 - Andriy Shevchenko\n- 2004 - Pavel Nedved\n- 2003 - Roberto Baggio\n\nThis dataset also contains images of Football legends of all Time:\n\n1. Diego Maradona\n2. Pele\n3. Lionel Messi\n\nReference : [Golden foot winners list](https://goldenfoot.com/winners/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "football",
+    "business",
+    "education",
+    "computer science",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

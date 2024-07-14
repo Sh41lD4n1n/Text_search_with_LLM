@@ -1,0 +1,49 @@
+{
+  "id": "mdepak/fakenewsnet",
+  "id_no": 72366,
+  "datasetSlugNullable": "fakenewsnet",
+  "ownerUserNullable": "mdepak",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "FakeNewsNet",
+  "subtitleNullable": "Fake News, MisInformation, Data Mining",
+  "descriptionNullable": "##FakeNewsNet\nThis is a repository for an ongoing data collection project for fake news research at ASU. We describe and compare FakeNewsNet with other existing datasets in [Fake News Detection on Social Media: A Data Mining Perspective][1]. We also perform a detail analysis of FakeNewsNet dataset, and build a fake news detection model on this dataset in [Exploiting Tri-Relationship for Fake News Detection][2]\n\nJSON version of this dataset is available in github [here][3].\nThe new version of this dataset described in [FakeNewNet][4] will be published soon or you can email authors for more info.\n\n## News Content\nIt includes all the fake news articles, with the news content attributes as follows:\n\n1. _source_: It indicates the author or publisher of the news article\n2. _headline_: It refers to the short text that aims to catch the attention of readers and relates well to the major of the news topic.\n3. _body_text_: It elaborates the details of news story. Usually there is a major claim which shaped the angle of the publisher and is specifically highlighted and elaborated upon.\n4. _image_video_: It is an important part of body content of news article, which provides visual cues to frame the story.\n\n## Social Context\nIt includes the social engagements of fake news articles from Twitter. We extract profiles, posts and social network information for all relevant users. \n\n1. _user_profile_: It includes a set of profile fields that describe the users' basic information\n2. _user_content_: It collects the users' recent posts on Twitter\n3. _user_followers_: It includes the follower list of the relevant users\n4. _user_followees_: It includes list of users that are followed by relevant users\n\n\n###References\nIf you use this dataset, please cite the following papers:\n\n`@article{shu2017fake,\n  title={Fake News Detection on Social Media: A Data Mining Perspective},\n  author={Shu, Kai and Sliva, Amy and Wang, Suhang and Tang, Jiliang and Liu, Huan},\n  journal={ACM SIGKDD Explorations Newsletter},\n  volume={19},\n  number={1},\n  pages={22--36},\n  year={2017},\n  publisher={ACM}\n}`\n\n`@article{shu2017exploiting,\n  title={Exploiting Tri-Relationship for Fake News Detection},\n  author={Shu, Kai and Wang, Suhang and Liu, Huan},\n  journal={arXiv preprint arXiv:1712.07709},\n  year={2017}\n}`\n\n`@article{shu2018fakenewsnet,\n  title={FakeNewsNet: A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media},\n  author={Shu, Kai and  Mahudeswaran, Deepak and Wang, Suhang and Lee, Dongwon and Liu, Huan},\n  journal={arXiv preprint arXiv:1809.01286},\n  year={2018}\n}`\n\n\n  [1]: https://arxiv.org/abs/1708.01967\n  [2]: http://arxiv.org/abs/1712.07709\n  [3]: https://github.com/KaiDMML/FakeNewsNet\n  [4]: https://arxiv.org/abs/1809.01286",
+  "datasetId": 72366,
+  "datasetSlug": "fakenewsnet",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdepak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 49334,
+  "totalVotes": 77,
+  "totalDownloads": 6634,
+  "title": "FakeNewsNet",
+  "hasTitle": true,
+  "subtitle": "Fake News, MisInformation, Data Mining",
+  "hasSubtitle": true,
+  "description": "##FakeNewsNet\nThis is a repository for an ongoing data collection project for fake news research at ASU. We describe and compare FakeNewsNet with other existing datasets in [Fake News Detection on Social Media: A Data Mining Perspective][1]. We also perform a detail analysis of FakeNewsNet dataset, and build a fake news detection model on this dataset in [Exploiting Tri-Relationship for Fake News Detection][2]\n\nJSON version of this dataset is available in github [here][3].\nThe new version of this dataset described in [FakeNewNet][4] will be published soon or you can email authors for more info.\n\n## News Content\nIt includes all the fake news articles, with the news content attributes as follows:\n\n1. _source_: It indicates the author or publisher of the news article\n2. _headline_: It refers to the short text that aims to catch the attention of readers and relates well to the major of the news topic.\n3. _body_text_: It elaborates the details of news story. Usually there is a major claim which shaped the angle of the publisher and is specifically highlighted and elaborated upon.\n4. _image_video_: It is an important part of body content of news article, which provides visual cues to frame the story.\n\n## Social Context\nIt includes the social engagements of fake news articles from Twitter. We extract profiles, posts and social network information for all relevant users. \n\n1. _user_profile_: It includes a set of profile fields that describe the users' basic information\n2. _user_content_: It collects the users' recent posts on Twitter\n3. _user_followers_: It includes the follower list of the relevant users\n4. _user_followees_: It includes list of users that are followed by relevant users\n\n\n###References\nIf you use this dataset, please cite the following papers:\n\n`@article{shu2017fake,\n  title={Fake News Detection on Social Media: A Data Mining Perspective},\n  author={Shu, Kai and Sliva, Amy and Wang, Suhang and Tang, Jiliang and Liu, Huan},\n  journal={ACM SIGKDD Explorations Newsletter},\n  volume={19},\n  number={1},\n  pages={22--36},\n  year={2017},\n  publisher={ACM}\n}`\n\n`@article{shu2017exploiting,\n  title={Exploiting Tri-Relationship for Fake News Detection},\n  author={Shu, Kai and Wang, Suhang and Liu, Huan},\n  journal={arXiv preprint arXiv:1712.07709},\n  year={2017}\n}`\n\n`@article{shu2018fakenewsnet,\n  title={FakeNewsNet: A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media},\n  author={Shu, Kai and  Mahudeswaran, Deepak and Wang, Suhang and Lee, Dongwon and Liu, Huan},\n  journal={arXiv preprint arXiv:1809.01286},\n  year={2018}\n}`\n\n\n  [1]: https://arxiv.org/abs/1708.01967\n  [2]: http://arxiv.org/abs/1712.07709\n  [3]: https://github.com/KaiDMML/FakeNewsNet\n  [4]: https://arxiv.org/abs/1809.01286",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "linguistics",
+    "internet",
+    "nlp",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "kaidmml",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

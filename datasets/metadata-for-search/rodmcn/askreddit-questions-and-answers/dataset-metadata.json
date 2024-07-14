@@ -1,0 +1,40 @@
+{
+  "id": "rodmcn/askreddit-questions-and-answers",
+  "id_no": 1029967,
+  "datasetSlugNullable": "askreddit-questions-and-answers",
+  "ownerUserNullable": "rodmcn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "AskReddit questions and answers",
+  "subtitleNullable": "Q&A on anything and everything",
+  "descriptionNullable": "### Context\n\nAskReddit is an online community which, according to [wikipedia](https://en.wikipedia.org/wiki/AskReddit):\n&gt; describes its focus as \"to ask and answer questions that elicit thought-provoking discussions\".\n\n\n### Content\n\nThe data was scraped from the [AskReddit](https://www.reddit.com/r/AskReddit/) subreddit, data contains questions posted by users and corresponding top level comments (ie replies to the replies to the original post are excluded).\nContained within the dataset are 189,565 questions posted by reddit users and a total of 5,940,827 answers to these questions. split into multiple files.\n\n- reddit_questions.csv contains 189,565 questions along with a unique id, a timestamp the number of upvotes received. **delimiter is semicolon**\n- reddit_answers.csv contains 5,566,660 answers to the questions along with the corresponding question id and upvotes. **delimiter is semicolon**\n- askreddit.db is an sqlite db containing tables 'questions' and 'answers' with the same info as the csv files\n- reddit_answers_long.csv contains all answers in reddit_answers.csv plus additional answers greater than 1000 characters long.  **delimiter is semicolon**\n\n\nThis dataset might be of use to those interested in NLP, question answering, language modelling, dialogue, etc",
+  "datasetId": 1029967,
+  "datasetSlug": "askreddit-questions-and-answers",
+  "hasDatasetSlug": true,
+  "ownerUser": "rodmcn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6493,
+  "totalVotes": 18,
+  "totalDownloads": 891,
+  "title": "AskReddit questions and answers",
+  "hasTitle": true,
+  "subtitle": "Q&A on anything and everything",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAskReddit is an online community which, according to [wikipedia](https://en.wikipedia.org/wiki/AskReddit):\n&gt; describes its focus as \"to ask and answer questions that elicit thought-provoking discussions\".\n\n\n### Content\n\nThe data was scraped from the [AskReddit](https://www.reddit.com/r/AskReddit/) subreddit, data contains questions posted by users and corresponding top level comments (ie replies to the replies to the original post are excluded).\nContained within the dataset are 189,565 questions posted by reddit users and a total of 5,940,827 answers to these questions. split into multiple files.\n\n- reddit_questions.csv contains 189,565 questions along with a unique id, a timestamp the number of upvotes received. **delimiter is semicolon**\n- reddit_answers.csv contains 5,566,660 answers to the questions along with the corresponding question id and upvotes. **delimiter is semicolon**\n- askreddit.db is an sqlite db containing tables 'questions' and 'answers' with the same info as the csv files\n- reddit_answers_long.csv contains all answers in reddit_answers.csv plus additional answers greater than 1000 characters long.  **delimiter is semicolon**\n\n\nThis dataset might be of use to those interested in NLP, question answering, language modelling, dialogue, etc",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

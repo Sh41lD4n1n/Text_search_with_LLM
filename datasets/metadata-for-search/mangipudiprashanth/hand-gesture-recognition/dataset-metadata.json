@@ -1,0 +1,42 @@
+{
+  "id": "mangipudiprashanth/hand-gesture-recognition",
+  "id_no": 619950,
+  "datasetSlugNullable": "hand-gesture-recognition",
+  "ownerUserNullable": "mangipudiprashanth",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Hand Gesture Recognition",
+  "subtitleNullable": "Using background elimination",
+  "descriptionNullable": "",
+  "datasetId": 619950,
+  "datasetSlug": "hand-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "mangipudiprashanth",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 2857,
+  "totalVotes": 3,
+  "totalDownloads": 95,
+  "title": "Hand Gesture Recognition",
+  "hasTitle": true,
+  "subtitle": "Using background elimination",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "neural networks",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gpreda/bbc-news",
+  "id_no": 1977878,
+  "datasetSlugNullable": "bbc-news",
+  "ownerUserNullable": "gpreda",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BBC News",
+  "subtitleNullable": "Self updating dataset - BBC News RSS Feeds",
+  "descriptionNullable": "### Context\n\nSelf updating dataset. It collects RSS Feeds from BBC News using a Kernel: https://www.kaggle.com/gpreda/bbc-news-rss-feeds. \nThe Kernel is run with a fixed frequency and the dataset is updated using the output of the Notebook.\n\n \n### Content\n\nBBC News RSS Feeds. The data contains the following columns:\n- title  \n- pubDate  \n- guid  \n- link  \n- description  \n\n### Collection method\n\nUses requests_html and BeautifulSoup to collect RSS Feeds from BBC News site.\n\n### Acknowledgements\n\nThe content is proprietary of BBC\n\n### Inspiration\n\nUse the data to analyze the sentiment of news, from title and description",
+  "datasetId": 1977878,
+  "datasetSlug": "bbc-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpreda",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 30152,
+  "totalVotes": 99,
+  "totalDownloads": 5184,
+  "title": "BBC News",
+  "hasTitle": true,
+  "subtitle": "Self updating dataset - BBC News RSS Feeds",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSelf updating dataset. It collects RSS Feeds from BBC News using a Kernel: https://www.kaggle.com/gpreda/bbc-news-rss-feeds. \nThe Kernel is run with a fixed frequency and the dataset is updated using the output of the Notebook.\n\n \n### Content\n\nBBC News RSS Feeds. The data contains the following columns:\n- title  \n- pubDate  \n- guid  \n- link  \n- description  \n\n### Collection method\n\nUses requests_html and BeautifulSoup to collect RSS Feeds from BBC News site.\n\n### Acknowledgements\n\nThe content is proprietary of BBC\n\n### Inspiration\n\nUse the data to analyze the sentiment of news, from title and description",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

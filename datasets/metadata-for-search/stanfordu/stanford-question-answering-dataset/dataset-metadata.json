@@ -1,0 +1,42 @@
+{
+  "id": "/stanford-question-answering-dataset",
+  "id_no": 374,
+  "datasetSlugNullable": "stanford-question-answering-dataset",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Stanford Question Answering Dataset",
+  "subtitleNullable": "New Reading Comprehension Dataset on 100,000+ Question-Answer Pairs",
+  "descriptionNullable": "## Context\n\nThe Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset consisting of questions posed by crowdworkers on a set of Wikipedia articles. The answer to every question is a segment of text, or span, from the corresponding reading passage. There are 100,000+ question-answer pairs on 500+ articles.\n\n## Content\n\nThere are two files to help you get started with the dataset and evaluate your models: \n\n* **train-v1.1.json**fasdf\n\n* **dev-v1.1.json**\n\n## Acknowledgements\n\nThe original datasets can be found [here](https://rajpurkar.github.io/SQuAD-explorer/).\n\n## Inspiration\n\n* Can you build a prediction model that can accurately predict answers to different types of questions?\n\n* You can also explore SQuAD [here](https://rajpurkar.github.io/SQuAD-explorer/)",
+  "datasetId": 374,
+  "datasetSlug": "stanford-question-answering-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 112423,
+  "totalVotes": 186,
+  "totalDownloads": 11564,
+  "title": "Stanford Question Answering Dataset",
+  "hasTitle": true,
+  "subtitle": "New Reading Comprehension Dataset on 100,000+ Question-Answer Pairs",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThe Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset consisting of questions posed by crowdworkers on a set of Wikipedia articles. The answer to every question is a segment of text, or span, from the corresponding reading passage. There are 100,000+ question-answer pairs on 500+ articles.\n\n## Content\n\nThere are two files to help you get started with the dataset and evaluate your models: \n\n* **train-v1.1.json**fasdf\n\n* **dev-v1.1.json**\n\n## Acknowledgements\n\nThe original datasets can be found [here](https://rajpurkar.github.io/SQuAD-explorer/).\n\n## Inspiration\n\n* Can you build a prediction model that can accurately predict answers to different types of questions?\n\n* You can also explore SQuAD [here](https://rajpurkar.github.io/SQuAD-explorer/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "languages",
+    "linguistics",
+    "standardized testing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

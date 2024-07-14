@@ -1,0 +1,40 @@
+{
+  "id": "firebrandnicks/red-wine-data-set",
+  "id_no": 891594,
+  "datasetSlugNullable": "red-wine-data-set",
+  "ownerUserNullable": "firebrandnicks",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Red Wine data set",
+  "subtitleNullable": "Quality Prediction of Red Wine Data using different Machine Learning Techniques",
+  "descriptionNullable": "**Quality Prediction of Red Wine based on Different Feature Sets Using Machine Learning Techniques\n\nPublished in International Journal of Science and Research (IJSR) Volume 9 Issue 7, July 2020: Page 6\nYou can also read the published paper in order to clear concepts \nLink - https://www.ijsr.net/archive/v9i7/v9i75.php \n                                      or\n        https://www.ijsr.net/get_abstract.php?paper_id=SR20718002904\n\n Stay safe & Keep Learning ",
+  "datasetId": 891594,
+  "datasetSlug": "red-wine-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "firebrandnicks",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1074,
+  "totalVotes": 3,
+  "totalDownloads": 82,
+  "title": "Red Wine data set",
+  "hasTitle": true,
+  "subtitle": "Quality Prediction of Red Wine Data using different Machine Learning Techniques",
+  "hasSubtitle": true,
+  "description": "**Quality Prediction of Red Wine based on Different Feature Sets Using Machine Learning Techniques\n\nPublished in International Journal of Science and Research (IJSR) Volume 9 Issue 7, July 2020: Page 6\nYou can also read the published paper in order to clear concepts \nLink - https://www.ijsr.net/archive/v9i7/v9i75.php \n                                      or\n        https://www.ijsr.net/get_abstract.php?paper_id=SR20718002904\n\n Stay safe & Keep Learning ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

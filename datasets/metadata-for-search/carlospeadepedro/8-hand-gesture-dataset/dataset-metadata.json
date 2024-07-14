@@ -1,0 +1,43 @@
+{
+  "id": "carlospeadepedro/8-hand-gesture-dataset",
+  "id_no": 1376981,
+  "datasetSlugNullable": "8-hand-gesture-dataset",
+  "ownerUserNullable": "carlospeadepedro",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "8 Hand Gesture Dataset",
+  "subtitleNullable": "Dataset for Hand Gesture recognition using computer vision techniques",
+  "descriptionNullable": "",
+  "datasetId": 1376981,
+  "datasetSlug": "8-hand-gesture-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "carlospeadepedro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 1990,
+  "totalVotes": 1,
+  "totalDownloads": 31,
+  "title": "8 Hand Gesture Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Hand Gesture recognition using computer vision techniques",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "computer vision",
+    "cv2",
+    "keras",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

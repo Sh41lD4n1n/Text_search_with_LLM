@@ -1,0 +1,44 @@
+{
+  "id": "paramaggarwal/fashion-product-images-small",
+  "id_no": 175990,
+  "datasetSlugNullable": "fashion-product-images-small",
+  "ownerUserNullable": "paramaggarwal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fashion Product Images (Small)",
+  "subtitleNullable": "44000 products with category labels and images.",
+  "descriptionNullable": "### Context\n\nThr growing e-commerce industry presents us with a large dataset waiting to be scraped and researched upon. In addition to professionally shot high resolution product images, we also have multiple label attributes describing the product which was manually entered while cataloging. To add to this, we also have descriptive text that comments on the product characteristics.\n\n### Content\n\nEach product is identified by an ID like 42431. You will find a map to all the products in `styles.csv`. From here, you can fetch the image for this product from `images/42431.jpg`. To get started easily, we also have exposed some of the key product categories and it's display name in `styles.csv`.\n \n### Inspiration\n\nSo what can you try building? Here are some suggestions:\n\n* Start with an image classifier. Use the `masterCategory` column from `styles.csv` and train a convolutional neural network.\n* The same can be achieved via NLP. Extract the product descriptions from `styles/42431.json` and then run a classifier to get the `masterCategory`.\n* Try adding more sophisticated classification by predicting the other category labels in `styles.csv`\n\nOnce you are ready to upgrade, go to the high resolution image (2400x1600) dataset:\nhttps://www.kaggle.com/paramaggarwal/fashion-product-images-dataset",
+  "datasetId": 175990,
+  "datasetSlug": "fashion-product-images-small",
+  "hasDatasetSlug": true,
+  "ownerUser": "paramaggarwal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 138754,
+  "totalVotes": 331,
+  "totalDownloads": 34094,
+  "title": "Fashion Product Images (Small)",
+  "hasTitle": true,
+  "subtitle": "44000 products with category labels and images.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThr growing e-commerce industry presents us with a large dataset waiting to be scraped and researched upon. In addition to professionally shot high resolution product images, we also have multiple label attributes describing the product which was manually entered while cataloging. To add to this, we also have descriptive text that comments on the product characteristics.\n\n### Content\n\nEach product is identified by an ID like 42431. You will find a map to all the products in `styles.csv`. From here, you can fetch the image for this product from `images/42431.jpg`. To get started easily, we also have exposed some of the key product categories and it's display name in `styles.csv`.\n \n### Inspiration\n\nSo what can you try building? Here are some suggestions:\n\n* Start with an image classifier. Use the `masterCategory` column from `styles.csv` and train a convolutional neural network.\n* The same can be achieved via NLP. Extract the product descriptions from `styles/42431.json` and then run a classifier to get the `masterCategory`.\n* Try adding more sophisticated classification by predicting the other category labels in `styles.csv`\n\nOnce you are ready to upgrade, go to the high resolution image (2400x1600) dataset:\nhttps://www.kaggle.com/paramaggarwal/fashion-product-images-dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "clothing and accessories",
+    "business",
+    "classification",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

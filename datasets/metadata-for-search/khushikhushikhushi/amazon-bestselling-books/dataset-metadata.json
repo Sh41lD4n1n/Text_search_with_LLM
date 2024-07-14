@@ -1,0 +1,43 @@
+{
+  "id": "khushikhushikhushi/amazon-bestselling-books",
+  "id_no": 5070214,
+  "datasetSlugNullable": "amazon-bestselling-books",
+  "ownerUserNullable": "khushikhushikhushi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Bestselling Books",
+  "subtitleNullable": "Amazon's Bestselling Books - Titles, Authors, Ratings, and Prices",
+  "descriptionNullable": "This dataset contains information about the top-rated books listed on Amazon's Best Sellers in Books section. The data was collected using a web scraping script that iterates through multiple pages of the bestseller list. The dataset includes details such as the book title, author name, rating, and price.\n\nBook Name: The title of the book.\n\nAuthor Name: The author(s) of the book.\n\nRating: The rating of the book as given by Amazon customers.\n\nPrice: The listed price of the book on Amazon.",
+  "datasetId": 5070214,
+  "datasetSlug": "amazon-bestselling-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "khushikhushikhushi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9660,
+  "totalVotes": 49,
+  "totalDownloads": 2064,
+  "title": "Amazon Bestselling Books",
+  "hasTitle": true,
+  "subtitle": "Amazon's Bestselling Books - Titles, Authors, Ratings, and Prices",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about the top-rated books listed on Amazon's Best Sellers in Books section. The data was collected using a web scraping script that iterates through multiple pages of the bestseller list. The dataset includes details such as the book title, author name, rating, and price.\n\nBook Name: The title of the book.\n\nAuthor Name: The author(s) of the book.\n\nRating: The rating of the book as given by Amazon customers.\n\nPrice: The listed price of the book on Amazon.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "computer science",
+    "beginner",
+    "e-commerce services",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

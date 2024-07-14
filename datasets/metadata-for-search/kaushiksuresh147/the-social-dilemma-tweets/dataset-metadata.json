@@ -1,0 +1,44 @@
+{
+  "id": "kaushiksuresh147/the-social-dilemma-tweets",
+  "id_no": 877017,
+  "datasetSlugNullable": "the-social-dilemma-tweets",
+  "ownerUserNullable": "kaushiksuresh147",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "The Social Dilemma Tweets - Text Classification",
+  "subtitleNullable": "Twitter tweets regarding the recent eye-opening documentary \"The Social Dilemma\"",
+  "descriptionNullable": "### Context\n\nThe Social Dilemma, a documentary-drama hybrid explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations as the tech experts sound the alarm on the dangerous human impact of social networking.\n\nInitial release: January 2020\nDirector: Jeff Orlowski\nProducer: Larissa Rhodes\nMusic director: Mark A. Crawford\nScreenplay: Jeff Orlowski, Vickie Curtis, Davis Coombe\n\n### Content\n\nThis dataset brings you the twitter responses made with the #TheSocialDilemma hashtag after watching the eye-opening documentary  \"The Social Dilemma\" released in an OTT platform(Netflix) on September 9th, 2020.\n\nThe dataset was extracted using TwitterAPI, consisting of nearly 10,526 tweets from twitter users all over the globe!\n\n\n| No |Columns | Descriptions |\n| -- | -- | -- |\n| 1 | user_name | The name of the user, as they\u2019ve defined it.  |\n| 2 | user_location | The user-defined location for this account\u2019s profile. |\n| 3 | user_description | The user-defined UTF-8 string describing their account. |\n| 4 | user_created | Time and date, when the account was created. |\n| 5 | user_followers | The number of followers an account currently has. |\n| 6 | user_friends | The number of friends an account currently has. |\n| 7 | user_favourites | The number of favorites a account currently has |\n| 8 | user_verified | When true, indicates that the user has a verified account |\n| 9 | date | UTC time and date when the Tweet was created |\n| 10 | text | The actual UTF-8 text of the Tweet |\n| 11 | hashtags | All the other hashtags posted in the tweet along with #TheSocialDilemma  |\n| 12 | source | Utility used to post the Tweet, Tweets from the Twitter website have a source value - web  |\n| 13 | is_retweet | Indicates whether this Tweet has been Retweeted by the authenticating user. |\n| 14 | Sentiment(Target variable) | Indicates the sentiment of the tweet, consists of three categories: Positive, neutral, and negative |\n\n\n### Inspiration\n\nYou can use this data to dive into the subjects that use this hashtag, look to the geographical distribution, evaluate sentiments, looks to trends.",
+  "datasetId": 877017,
+  "datasetSlug": "the-social-dilemma-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushiksuresh147",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18882,
+  "totalVotes": 37,
+  "totalDownloads": 1448,
+  "title": "The Social Dilemma Tweets - Text Classification",
+  "hasTitle": true,
+  "subtitle": "Twitter tweets regarding the recent eye-opening documentary \"The Social Dilemma\"",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Social Dilemma, a documentary-drama hybrid explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations as the tech experts sound the alarm on the dangerous human impact of social networking.\n\nInitial release: January 2020\nDirector: Jeff Orlowski\nProducer: Larissa Rhodes\nMusic director: Mark A. Crawford\nScreenplay: Jeff Orlowski, Vickie Curtis, Davis Coombe\n\n### Content\n\nThis dataset brings you the twitter responses made with the #TheSocialDilemma hashtag after watching the eye-opening documentary  \"The Social Dilemma\" released in an OTT platform(Netflix) on September 9th, 2020.\n\nThe dataset was extracted using TwitterAPI, consisting of nearly 10,526 tweets from twitter users all over the globe!\n\n\n| No |Columns | Descriptions |\n| -- | -- | -- |\n| 1 | user_name | The name of the user, as they\u2019ve defined it.  |\n| 2 | user_location | The user-defined location for this account\u2019s profile. |\n| 3 | user_description | The user-defined UTF-8 string describing their account. |\n| 4 | user_created | Time and date, when the account was created. |\n| 5 | user_followers | The number of followers an account currently has. |\n| 6 | user_friends | The number of friends an account currently has. |\n| 7 | user_favourites | The number of favorites a account currently has |\n| 8 | user_verified | When true, indicates that the user has a verified account |\n| 9 | date | UTC time and date when the Tweet was created |\n| 10 | text | The actual UTF-8 text of the Tweet |\n| 11 | hashtags | All the other hashtags posted in the tweet along with #TheSocialDilemma  |\n| 12 | source | Utility used to post the Tweet, Tweets from the Twitter website have a source value - web  |\n| 13 | is_retweet | Indicates whether this Tweet has been Retweeted by the authenticating user. |\n| 14 | Sentiment(Target variable) | Indicates the sentiment of the tweet, consists of three categories: Positive, neutral, and negative |\n\n\n### Inspiration\n\nYou can use this data to dive into the subjects that use this hashtag, look to the geographical distribution, evaluate sentiments, looks to trends.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "internet",
+    "social issues and advocacy",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

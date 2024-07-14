@@ -1,0 +1,43 @@
+{
+  "id": "bhavikjikadara/tweets-dataset",
+  "id_no": 4422256,
+  "datasetSlugNullable": "tweets-dataset",
+  "ownerUserNullable": "bhavikjikadara",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tweets Dataset",
+  "subtitleNullable": "Sentiment analysis using 1M+ tweets dataset",
+  "descriptionNullable": "&gt;## Context\nThis is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API. The tweets have been annotated (0 = negative, 4 = positive) and can be used to detect sentiment.\n## Content\nIt contains the following 6 fields:\n- target: the polarity of the tweet (0 = negative and 4 = positive)\n- ids: The id of the tweet ( 2087)\n- date: the date of the tweet (Sat May 16 23:58:44 UTC 2009)\n- flag: The query (lyx). If there is no query, then this value is NO_QUERY.\n- user: the user that tweeted.\n- text: the text of the tweet.",
+  "datasetId": 4422256,
+  "datasetSlug": "tweets-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavikjikadara",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7108,
+  "totalVotes": 31,
+  "totalDownloads": 944,
+  "title": "Tweets Dataset",
+  "hasTitle": true,
+  "subtitle": "Sentiment analysis using 1M+ tweets dataset",
+  "hasSubtitle": true,
+  "description": "&gt;## Context\nThis is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API. The tweets have been annotated (0 = negative, 4 = positive) and can be used to detect sentiment.\n## Content\nIt contains the following 6 fields:\n- target: the polarity of the tweet (0 = negative and 4 = positive)\n- ids: The id of the tweet ( 2087)\n- date: the date of the tweet (Sat May 16 23:58:44 UTC 2009)\n- flag: The query (lyx). If there is no query, then this value is NO_QUERY.\n- user: the user that tweeted.\n- text: the text of the tweet.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "survey analysis",
+    "classification",
+    "social networks",
+    "sentence similarity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

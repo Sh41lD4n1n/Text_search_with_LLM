@@ -1,0 +1,42 @@
+{
+  "id": "prasoonkottarathil/gananime-lite",
+  "id_no": 1098278,
+  "datasetSlugNullable": "gananime-lite",
+  "ownerUserNullable": "prasoonkottarathil",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Anime GAN Lite",
+  "subtitleNullable": "Dataset contains anime faces",
+  "descriptionNullable": "**If your approaching this Dataset, please UPVOTE this Dataset to show your appreciation**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2533028%2Fad9377ccd7d6fb3ed942285cadac4e02%2Fezgif.com-gif-maker.gif?generation=1610699474979891&alt=media)\nAll Images are Generated Using Style GAN-2 with 512*512 pixels\nDataset contains 25K images ",
+  "datasetId": 1098278,
+  "datasetSlug": "gananime-lite",
+  "hasDatasetSlug": true,
+  "ownerUser": "prasoonkottarathil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14200,
+  "totalVotes": 103,
+  "totalDownloads": 1230,
+  "title": "Anime GAN Lite",
+  "hasTitle": true,
+  "subtitle": "Dataset contains anime faces",
+  "hasSubtitle": true,
+  "description": "**If your approaching this Dataset, please UPVOTE this Dataset to show your appreciation**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2533028%2Fad9377ccd7d6fb3ed942285cadac4e02%2Fezgif.com-gif-maker.gif?generation=1610699474979891&alt=media)\nAll Images are Generated Using Style GAN-2 with 512*512 pixels\nDataset contains 25K images ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "johnsonhk88/gsm8k-grade-school-math-8k-dataset-for-llm",
+  "id_no": 5054889,
+  "datasetSlugNullable": "gsm8k-grade-school-math-8k-dataset-for-llm",
+  "ownerUserNullable": "johnsonhk88",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "GSM8K - Grade School Math 8K dataset for LLM",
+  "subtitleNullable": "GSM8K use for test and evaluate LLM  Math solve performance",
+  "descriptionNullable": "Dataset Summary\nGSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset was created to support the task of question answering on basic mathematical problems that require multi-step reasoning.\n\nThese problems take between 2 and 8 steps to solve.\nSolutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ \u2212 \u00d7\u00f7) to reach the final answer.\nA bright middle school student should be able to solve every problem: from the paper, \"Problems require no concepts beyond the level of early Algebra, and the vast majority of problems can be solved without explicitly defining a variable.\"\nSolutions are provided in natural language, as opposed to pure math expressions. From the paper: \"We believe this is the most generally useful data format, and we expect it to shed light on the properties of large language models\u2019 internal monologues\"",
+  "datasetId": 5054889,
+  "datasetSlug": "gsm8k-grade-school-math-8k-dataset-for-llm",
+  "hasDatasetSlug": true,
+  "ownerUser": "johnsonhk88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 61,
+  "totalVotes": 1,
+  "totalDownloads": 11,
+  "title": "GSM8K - Grade School Math 8K dataset for LLM",
+  "hasTitle": true,
+  "subtitle": "GSM8K use for test and evaluate LLM  Math solve performance",
+  "hasSubtitle": true,
+  "description": "Dataset Summary\nGSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset was created to support the task of question answering on basic mathematical problems that require multi-step reasoning.\n\nThese problems take between 2 and 8 steps to solve.\nSolutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ \u2212 \u00d7\u00f7) to reach the final answer.\nA bright middle school student should be able to solve every problem: from the paper, \"Problems require no concepts beyond the level of early Algebra, and the vast majority of problems can be solved without explicitly defining a variable.\"\nSolutions are provided in natural language, as opposed to pure math expressions. From the paper: \"We believe this is the most generally useful data format, and we expect it to shed light on the properties of large language models\u2019 internal monologues\"",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

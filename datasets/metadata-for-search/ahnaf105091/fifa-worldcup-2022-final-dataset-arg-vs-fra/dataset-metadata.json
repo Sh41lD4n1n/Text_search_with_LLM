@@ -1,0 +1,39 @@
+{
+  "id": "ahnaf105091/fifa-worldcup-2022-final-dataset-arg-vs-fra",
+  "id_no": 5155718,
+  "datasetSlugNullable": "fifa-worldcup-2022-final-dataset-arg-vs-fra",
+  "ownerUserNullable": "ahnaf105091",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "FIFA Worldcup 2022 Final Dataset: ARG vs FRA",
+  "subtitleNullable": "FIFA Worldcup 2022 FInal Dataset: ARG vs FRA: Event to Event data",
+  "descriptionNullable": "This dataset contains all the event-by-event actions of World Cup 2022 final match between Argentina vs France. Collected from Statsbomb open data : [https://github.com/statsbomb/open-data](url)\n\nThe dataset contains a total of 4407 recorded events(rows) and 120 columns.\n",
+  "datasetId": 5155718,
+  "datasetSlug": "fifa-worldcup-2022-final-dataset-arg-vs-fra",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahnaf105091",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 100,
+  "totalVotes": 2,
+  "totalDownloads": 10,
+  "title": "FIFA Worldcup 2022 Final Dataset: ARG vs FRA",
+  "hasTitle": true,
+  "subtitle": "FIFA Worldcup 2022 FInal Dataset: ARG vs FRA: Event to Event data",
+  "hasSubtitle": true,
+  "description": "This dataset contains all the event-by-event actions of World Cup 2022 final match between Argentina vs France. Collected from Statsbomb open data : [https://github.com/statsbomb/open-data](url)\n\nThe dataset contains a total of 4407 recorded events(rows) and 120 columns.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

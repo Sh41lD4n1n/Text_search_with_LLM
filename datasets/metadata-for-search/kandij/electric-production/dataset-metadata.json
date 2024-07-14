@@ -1,0 +1,41 @@
+{
+  "id": "kandij/electric-production",
+  "id_no": 171352,
+  "datasetSlugNullable": "electric-production",
+  "ownerUserNullable": "kandij",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Time series analysis",
+  "subtitleNullable": "predicting the consumption of electricity in the coming future",
+  "descriptionNullable": "Time series data often arise when monitoring industrial processes or tracking corporate business metrics. The essential difference between modeling data via time series methods or using the process monitoring methods discussed earlier in this chapter is the following:\nTime series analysis accounts for the fact that data points taken over time may have an internal structure (such as auto-correlation, trend or seasonal variation) that should be accounted for.",
+  "datasetId": 171352,
+  "datasetSlug": "electric-production",
+  "hasDatasetSlug": true,
+  "ownerUser": "kandij",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 39487,
+  "totalVotes": 54,
+  "totalDownloads": 6289,
+  "title": "Time series analysis",
+  "hasTitle": true,
+  "subtitle": "predicting the consumption of electricity in the coming future",
+  "hasSubtitle": true,
+  "description": "Time series data often arise when monitoring industrial processes or tracking corporate business metrics. The essential difference between modeling data via time series methods or using the process monitoring methods discussed earlier in this chapter is the following:\nTime series analysis accounts for the fact that data points taken over time may have an internal structure (such as auto-correlation, trend or seasonal variation) that should be accounted for.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "software",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

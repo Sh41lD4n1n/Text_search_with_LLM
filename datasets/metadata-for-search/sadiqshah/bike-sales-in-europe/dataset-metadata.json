@@ -1,0 +1,40 @@
+{
+  "id": "sadiqshah/bike-sales-in-europe",
+  "id_no": 889310,
+  "datasetSlugNullable": "bike-sales-in-europe",
+  "ownerUserNullable": "sadiqshah",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Bike Sales  in  Europe",
+  "subtitleNullable": "Bike Sales  in  Europe Countries",
+  "descriptionNullable": "In  Europe bikes dataset , Extract the insight of sales in each country\nand each state of their countries.\n\nIn this dataset  18 columns and main column is sales ,  in this columns\nExtract the value bale and meaningful insight from it \nSales According to male and female or Products \nnumber of each product and its sales and so on.\n\n\n\n\n",
+  "datasetId": 889310,
+  "datasetSlug": "bike-sales-in-europe",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadiqshah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 153928,
+  "totalVotes": 259,
+  "totalDownloads": 98734,
+  "title": "Bike Sales  in  Europe",
+  "hasTitle": true,
+  "subtitle": "Bike Sales  in  Europe Countries",
+  "hasSubtitle": true,
+  "description": "In  Europe bikes dataset , Extract the insight of sales in each country\nand each state of their countries.\n\nIn this dataset  18 columns and main column is sales ,  in this columns\nExtract the value bale and meaningful insight from it \nSales According to male and female or Products \nnumber of each product and its sales and so on.\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cycling",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

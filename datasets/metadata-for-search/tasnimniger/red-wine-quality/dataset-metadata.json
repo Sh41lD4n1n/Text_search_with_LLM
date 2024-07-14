@@ -1,0 +1,39 @@
+{
+  "id": "tasnimniger/red-wine-quality",
+  "id_no": 4988732,
+  "datasetSlugNullable": "red-wine-quality",
+  "ownerUserNullable": "tasnimniger",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Red-wine quality",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4988732,
+  "datasetSlug": "red-wine-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "tasnimniger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "Red-wine quality",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

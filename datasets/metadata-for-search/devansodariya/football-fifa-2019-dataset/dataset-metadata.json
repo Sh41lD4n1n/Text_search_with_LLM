@@ -1,0 +1,43 @@
+{
+  "id": "devansodariya/football-fifa-2019-dataset",
+  "id_no": 2198591,
+  "datasetSlugNullable": "football-fifa-2019-dataset",
+  "ownerUserNullable": "devansodariya",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Football (FIFA - 2019) Dataset",
+  "subtitleNullable": "Football (FIFA-2019) World Cup Dataset of Players' Statistics with Notebook",
+  "descriptionNullable": "This Dataset Contains all Information of players who participated in the FIFA-2019 League.\n\n**This Dataset consists of all the parameters, by which a Player's ability can be measured**\nsome of the parameters included in the dataset are,\n\n<b> Age: Age of Player\n\n<b> Skill Moves: Describes various skill set of the player \n\n<b> Work Rate: Work rate of player\n\n<b> Body Type: Body type of player (like High, lean, Courtois, moderate)\n\n<b> joined year: Joining year of player\n\n<b> Agility: Agility of player (numerical values)\n\n<b> SprintSpeed: Sprinting Speed of player\n\n<b> Reactions: Reaction on the Numerical Scale \n\nThis Dataset can be used for Supervised as well as Unsupervised tasks.\n\n**Note:** In Version-2 I've cleaned some of the Currency units and made them more readble.</b></b></b></b></b></b></b></b>",
+  "datasetId": 2198591,
+  "datasetSlug": "football-fifa-2019-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "devansodariya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 8862,
+  "totalVotes": 84,
+  "totalDownloads": 1834,
+  "title": "Football (FIFA - 2019) Dataset",
+  "hasTitle": true,
+  "subtitle": "Football (FIFA-2019) World Cup Dataset of Players' Statistics with Notebook",
+  "hasSubtitle": true,
+  "description": "This Dataset Contains all Information of players who participated in the FIFA-2019 League.\n\n**This Dataset consists of all the parameters, by which a Player's ability can be measured**\nsome of the parameters included in the dataset are,\n\n<b> Age: Age of Player\n\n<b> Skill Moves: Describes various skill set of the player \n\n<b> Work Rate: Work rate of player\n\n<b> Body Type: Body type of player (like High, lean, Courtois, moderate)\n\n<b> joined year: Joining year of player\n\n<b> Agility: Agility of player (numerical values)\n\n<b> SprintSpeed: Sprinting Speed of player\n\n<b> Reactions: Reaction on the Numerical Scale \n\nThis Dataset can be used for Supervised as well as Unsupervised tasks.\n\n**Note:** In Version-2 I've cleaned some of the Currency units and made them more readble.</b></b></b></b></b></b></b></b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "adhoppin/hand-gestures-dataset",
+  "id_no": 3563146,
+  "datasetSlugNullable": "hand-gestures-dataset",
+  "ownerUserNullable": "adhoppin",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Hand Gestures Dataset",
+  "subtitleNullable": "Empower Your ML Models with Hand Gesture Dataset !!",
+  "descriptionNullable": "### TRAIN / TEST SPLIT:\n\n**Training Set:** 70% of the dataset with 642 images\n**Validation Set:** 19% of the dataset with 178 images\n**Testing Set:** 10% of the dataset with 94 images\n### PREPROCESSING:\n\n**Auto-Orient:** Applied to ensure consistent orientation of images\n**Resize:** All images have been stretched to a standard size of 640x640 for uniformity\n\n### AUGMENTATIONS:\n\nNo augmentations were applied to the dataset, preserving the original image integrity.\n\n**_annotations.csv contains following columns:**\n\n**filename:** The name of the image file associated with the annotation.\n**width:** The width of the image in pixels.\n**height:** The height of the image in pixels.\n**class:** The class label of the hand gesture present in the image.\n**xmin:** The x-coordinate of the top-left corner of the bounding box around the hand gesture.\n**ymin:** The y-coordinate of the top-left corner of the bounding box around the hand gesture.\n**xmax:** The x-coordinate of the bottom-right corner of the bounding box around the hand gesture.\n**ymax:** The y-coordinate of the bottom-right corner of the bounding box around the hand gesture.\n\n### Here are some potential use cases for this dataset:\n\n**Gesture-Controlled User Interfaces:** The dataset can be used to build gesture-controlled user interfaces for various devices and applications, such as smartphones, tablets, computers, and IoT devices.\n**Sign Language Translation:** Hand gestures are an essential part of sign language used by the hearing-impaired community. This dataset can be used to develop sign language recognition systems that can translate sign language into text or speech, enabling better communication with non-sign language users.\n\n",
+  "datasetId": 3563146,
+  "datasetSlug": "hand-gestures-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "adhoppin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3444,
+  "totalVotes": 13,
+  "totalDownloads": 274,
+  "title": "Hand Gestures Dataset",
+  "hasTitle": true,
+  "subtitle": "Empower Your ML Models with Hand Gesture Dataset !!",
+  "hasSubtitle": true,
+  "description": "### TRAIN / TEST SPLIT:\n\n**Training Set:** 70% of the dataset with 642 images\n**Validation Set:** 19% of the dataset with 178 images\n**Testing Set:** 10% of the dataset with 94 images\n### PREPROCESSING:\n\n**Auto-Orient:** Applied to ensure consistent orientation of images\n**Resize:** All images have been stretched to a standard size of 640x640 for uniformity\n\n### AUGMENTATIONS:\n\nNo augmentations were applied to the dataset, preserving the original image integrity.\n\n**_annotations.csv contains following columns:**\n\n**filename:** The name of the image file associated with the annotation.\n**width:** The width of the image in pixels.\n**height:** The height of the image in pixels.\n**class:** The class label of the hand gesture present in the image.\n**xmin:** The x-coordinate of the top-left corner of the bounding box around the hand gesture.\n**ymin:** The y-coordinate of the top-left corner of the bounding box around the hand gesture.\n**xmax:** The x-coordinate of the bottom-right corner of the bounding box around the hand gesture.\n**ymax:** The y-coordinate of the bottom-right corner of the bounding box around the hand gesture.\n\n### Here are some potential use cases for this dataset:\n\n**Gesture-Controlled User Interfaces:** The dataset can be used to build gesture-controlled user interfaces for various devices and applications, such as smartphones, tablets, computers, and IoT devices.\n**Sign Language Translation:** Hand gestures are an essential part of sign language used by the hearing-impaired community. This dataset can be used to develop sign language recognition systems that can translate sign language into text or speech, enabling better communication with non-sign language users.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "yolov5",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

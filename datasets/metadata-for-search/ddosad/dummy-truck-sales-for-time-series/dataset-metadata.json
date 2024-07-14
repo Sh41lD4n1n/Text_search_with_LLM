@@ -1,0 +1,43 @@
+{
+  "id": "ddosad/dummy-truck-sales-for-time-series",
+  "id_no": 4211246,
+  "datasetSlugNullable": "dummy-truck-sales-for-time-series",
+  "ownerUserNullable": "ddosad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Truck Sales for Time Series",
+  "subtitleNullable": "Dummy dataset for time series analysis",
+  "descriptionNullable": "The dataset below contains monthly sales data for trucks from a specific company throughout the year .\n\nThe dataset can be used to develop an ARIMA/SARIMA forecasting model for predicting the future sales\n\n&gt;**Do explore pinned \ud83d\udccc notebook under code section for quick\ud83d\udcca reference**\n\n&gt;_Consider an upvote ^ if you find the dataset useful_\n\n\n",
+  "datasetId": 4211246,
+  "datasetSlug": "dummy-truck-sales-for-time-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "ddosad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5063,
+  "totalVotes": 42,
+  "totalDownloads": 1050,
+  "title": "Truck Sales for Time Series",
+  "hasTitle": true,
+  "subtitle": "Dummy dataset for time series analysis",
+  "hasSubtitle": true,
+  "description": "The dataset below contains monthly sales data for trucks from a specific company throughout the year .\n\nThe dataset can be used to develop an ARIMA/SARIMA forecasting model for predicting the future sales\n\n&gt;**Do explore pinned \ud83d\udccc notebook under code section for quick\ud83d\udcca reference**\n\n&gt;_Consider an upvote ^ if you find the dataset useful_\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "automobiles and vehicles",
+    "beginner",
+    "data visualization",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

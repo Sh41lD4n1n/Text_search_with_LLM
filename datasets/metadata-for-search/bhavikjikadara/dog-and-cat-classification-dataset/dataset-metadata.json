@@ -1,0 +1,44 @@
+{
+  "id": "bhavikjikadara/dog-and-cat-classification-dataset",
+  "id_no": 3829311,
+  "datasetSlugNullable": "dog-and-cat-classification-dataset",
+  "ownerUserNullable": "bhavikjikadara",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Cats and Dogs Classification Dataset",
+  "subtitleNullable": "The Cat and Dog Classification dataset is a standard computer vision dataset.",
+  "descriptionNullable": "The Cat and Dog Classification dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or a cat. This dataset is provided as a subset of photos from a much larger dataset of approximately 25 thousands.\n\nThe dataset contains **24,998 images**, split into **12,499 Cat images** and **12,499 Dog images**. The training images are divided equally between cat and dog images, while the test images are not labeled. This allows users to evaluate their models on unseen data.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7367057%2F498b0fc0a7a8cf40ac4337da82a4ebc5%2Fhow-to-introduce-a-dog-to-a-cat-blog-cover.webp?generation=1696702214010539&alt=media)",
+  "datasetId": 3829311,
+  "datasetSlug": "dog-and-cat-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavikjikadara",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3402,
+  "totalVotes": 13,
+  "totalDownloads": 595,
+  "title": "Cats and Dogs Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "The Cat and Dog Classification dataset is a standard computer vision dataset.",
+  "hasSubtitle": true,
+  "description": "The Cat and Dog Classification dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or a cat. This dataset is provided as a subset of photos from a much larger dataset of approximately 25 thousands.\n\nThe dataset contains **24,998 images**, split into **12,499 Cat images** and **12,499 Dog images**. The training images are divided equally between cat and dog images, while the test images are not labeled. This allows users to evaluate their models on unseen data.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7367057%2F498b0fc0a7a8cf40ac4337da82a4ebc5%2Fhow-to-introduce-a-dog-to-a-cat-blog-cover.webp?generation=1696702214010539&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "artificial intelligence",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

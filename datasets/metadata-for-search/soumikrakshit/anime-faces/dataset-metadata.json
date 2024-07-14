@@ -1,0 +1,44 @@
+{
+  "id": "soumikrakshit/anime-faces",
+  "id_no": 195056,
+  "datasetSlugNullable": "anime-faces",
+  "ownerUserNullable": "soumikrakshit",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Anime Faces",
+  "subtitleNullable": "21551 Anime Face images sctaped from www.getchu.com",
+  "descriptionNullable": "### Dataset description\n\nThis is a dataset consisting of 21551 anime faces scraped from [www.getchu.com](www.getchu.com), which are then cropped using the anime face detection algorithm in [https://github.com/nagadomi/lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface). All images are resized to 64 * 64 for the sake of convenience. Please also cite the two sources when using this dataset.\n\nSome outliers are still present in the dataset:\n\nBad cropping results\nSome non-human faces.\nFeel free to contribute to this dataset by adding images of similar quality or adding image labels.\n\n\n### Samples\n\n![Sample Images](https://raw.githubusercontent.com/Mckinsey666/Anime-Face-Dataset/master/sample.png)\n\n\n### Original Author\n\n[Mckinsey666](https://github.com/Mckinsey666)\n",
+  "datasetId": 195056,
+  "datasetSlug": "anime-faces",
+  "hasDatasetSlug": true,
+  "ownerUser": "soumikrakshit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 76460,
+  "totalVotes": 204,
+  "totalDownloads": 11812,
+  "title": "Anime Faces",
+  "hasTitle": true,
+  "subtitle": "21551 Anime Face images sctaped from www.getchu.com",
+  "hasSubtitle": true,
+  "description": "### Dataset description\n\nThis is a dataset consisting of 21551 anime faces scraped from [www.getchu.com](www.getchu.com), which are then cropped using the anime face detection algorithm in [https://github.com/nagadomi/lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface). All images are resized to 64 * 64 for the sake of convenience. Please also cite the two sources when using this dataset.\n\nSome outliers are still present in the dataset:\n\nBad cropping results\nSome non-human faces.\nFeel free to contribute to this dataset by adding images of similar quality or adding image labels.\n\n\n### Samples\n\n![Sample Images](https://raw.githubusercontent.com/Mckinsey666/Anime-Face-Dataset/master/sample.png)\n\n\n### Original Author\n\n[Mckinsey666](https://github.com/Mckinsey666)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "arts and entertainment",
+    "computer vision",
+    "clustering",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

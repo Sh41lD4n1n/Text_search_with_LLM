@@ -1,0 +1,41 @@
+{
+  "id": "sudarshanvaidya/corrective-reannotation-of-fer-ck-kdef",
+  "id_no": 1013865,
+  "datasetSlugNullable": "corrective-reannotation-of-fer-ck-kdef",
+  "ownerUserNullable": "sudarshanvaidya",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Corrective re-annotation of FER - CK+ - KDEF",
+  "subtitleNullable": "Correctly re-annotated images for Facial Expression Recognition ",
+  "descriptionNullable": "### Context\n\n\nMany machine learning models for facial expression recognition use industry standard datasets like FER, CK+ and KDEF. However, on manual inspection, it was found that several images in the standard datasets were mis-categorized. This is an attempt towards corrective manual re-annotation of the images for better model training. \n\n\n### Content\n\nThere are 32,900 + images with 8 emotions categories \u2013 anger, contempt, disgust, fear, happiness, neutrality, sadness and surprise. All images contain grayscale human face (or sketch). Each image is 224 x 224 pixel grayscale in PNG format. \n\n\n### Acknowledgements\n\nSources for the base datasets, on whom manual re-annotation was done: \n1.\tFER Dataset: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge\n2.\tCK Plus Dataset: https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch/tree/master/CK%2B48 \n3.\tKDEF Dataset: https://www.kdef.se/download-2/register.html \n\n\n### Inspiration\n\nQuest to see if model accuracy for Facial Expression Recognition can be improved by correct re-annotation of the images. ",
+  "datasetId": 1013865,
+  "datasetSlug": "corrective-reannotation-of-fer-ck-kdef",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudarshanvaidya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 10054,
+  "totalVotes": 28,
+  "totalDownloads": 1250,
+  "title": "Corrective re-annotation of FER - CK+ - KDEF",
+  "hasTitle": true,
+  "subtitle": "Correctly re-annotated images for Facial Expression Recognition ",
+  "hasSubtitle": true,
+  "description": "### Context\n\n\nMany machine learning models for facial expression recognition use industry standard datasets like FER, CK+ and KDEF. However, on manual inspection, it was found that several images in the standard datasets were mis-categorized. This is an attempt towards corrective manual re-annotation of the images for better model training. \n\n\n### Content\n\nThere are 32,900 + images with 8 emotions categories \u2013 anger, contempt, disgust, fear, happiness, neutrality, sadness and surprise. All images contain grayscale human face (or sketch). Each image is 224 x 224 pixel grayscale in PNG format. \n\n\n### Acknowledgements\n\nSources for the base datasets, on whom manual re-annotation was done: \n1.\tFER Dataset: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge\n2.\tCK Plus Dataset: https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch/tree/master/CK%2B48 \n3.\tKDEF Dataset: https://www.kdef.se/download-2/register.html \n\n\n### Inspiration\n\nQuest to see if model accuracy for Facial Expression Recognition can be improved by correct re-annotation of the images. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

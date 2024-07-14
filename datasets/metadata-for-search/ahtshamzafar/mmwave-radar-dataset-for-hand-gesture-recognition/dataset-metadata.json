@@ -1,0 +1,44 @@
+{
+  "id": "ahtshamzafar/mmwave-radar-dataset-for-hand-gesture-recognition",
+  "id_no": 2363426,
+  "datasetSlugNullable": "mmwave-radar-dataset-for-hand-gesture-recognition",
+  "ownerUserNullable": "ahtshamzafar",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "mmWave Radar Dataset for Hand Gesture Recognition",
+  "subtitleNullable": "Pulsed Coherent Radar for Dynamic Hand Gesture Recognition",
+  "descriptionNullable": "The dataset contains three folders. \n1. Single Sensor Based Gesture Recognition.\n2. Dual Sensor Based Gesture Recognition. \n3. Triple Sensor Based Gesture Recognition. \n\nEach folder contains gesture categories.\nUsing single sensor 4 dynamic hand gestures have been recorded including,\n- Hand Away \n- Hand Close\n- Swipe \n- Button Press\n\nUsing two sensors, 5 dynamic hand gestures have been recorded including,\n- Hand Away \n- Hand Close\n- Swipe Left\n- Swipe Right\n- Button Press\n\nUsing three sensors, 7 dynamic hand gestures have been recorded including,\n- Hand Away \n- Hand Close\n- Swipe Left\n- Swipe Right\n- Button Press\n- Swipe Up\n- Swipe Down\n\nThe Dataset has been provided in .npy file format. Which can be readily used to train machine learning models for evaluation, processing and benchmarking. \n\nThe collection setup parameters are follows:\n1. Radar height - 1.3 meters.\n2. Distance between hand and radar - 0.4 meters - 1 meters. \n3. Radar - Acconeer XM112\n4. Computer interface - Serial connection UART. \n5. Single gesture collection time - 1 second (experimentally optimised). \n\nThe dataset has been collected in an indoor lab environment. Multiple people were involved in the collection of data i.e. performing gestures, to add diversity to the dataset and to account for change in gesture techniques of different individuals. \n\n\n",
+  "datasetId": 2363426,
+  "datasetSlug": "mmwave-radar-dataset-for-hand-gesture-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahtshamzafar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2843,
+  "totalVotes": 12,
+  "totalDownloads": 188,
+  "title": "mmWave Radar Dataset for Hand Gesture Recognition",
+  "hasTitle": true,
+  "subtitle": "Pulsed Coherent Radar for Dynamic Hand Gesture Recognition",
+  "hasSubtitle": true,
+  "description": "The dataset contains three folders. \n1. Single Sensor Based Gesture Recognition.\n2. Dual Sensor Based Gesture Recognition. \n3. Triple Sensor Based Gesture Recognition. \n\nEach folder contains gesture categories.\nUsing single sensor 4 dynamic hand gestures have been recorded including,\n- Hand Away \n- Hand Close\n- Swipe \n- Button Press\n\nUsing two sensors, 5 dynamic hand gestures have been recorded including,\n- Hand Away \n- Hand Close\n- Swipe Left\n- Swipe Right\n- Button Press\n\nUsing three sensors, 7 dynamic hand gestures have been recorded including,\n- Hand Away \n- Hand Close\n- Swipe Left\n- Swipe Right\n- Button Press\n- Swipe Up\n- Swipe Down\n\nThe Dataset has been provided in .npy file format. Which can be readily used to train machine learning models for evaluation, processing and benchmarking. \n\nThe collection setup parameters are follows:\n1. Radar height - 1.3 meters.\n2. Distance between hand and radar - 0.4 meters - 1 meters. \n3. Radar - Acconeer XM112\n4. Computer interface - Serial connection UART. \n5. Single gesture collection time - 1 second (experimentally optimised). \n\nThe dataset has been collected in an indoor lab environment. Multiple people were involved in the collection of data i.e. performing gestures, to add diversity to the dataset and to account for change in gesture techniques of different individuals. \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "categorical",
+    "earth and nature",
+    "artificial intelligence",
+    "intermediate",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

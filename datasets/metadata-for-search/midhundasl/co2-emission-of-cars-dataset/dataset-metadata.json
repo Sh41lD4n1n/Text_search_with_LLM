@@ -1,0 +1,42 @@
+{
+  "id": "midhundasl/co2-emission-of-cars-dataset",
+  "id_no": 2347882,
+  "datasetSlugNullable": "co2-emission-of-cars-dataset",
+  "ownerUserNullable": "midhundasl",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CO2 emission of cars dataset",
+  "subtitleNullable": "co2 emission of cars",
+  "descriptionNullable": "This dataset contains the co2 emission of different types of cars.The independent feature variables are VOLUME and WEIGHT.This data set can predict the target variable y using linear regression in the most easy way.I have predicted the coefficients and new data prediction which can help you find an alternative target value using this regression model.",
+  "datasetId": 2347882,
+  "datasetSlug": "co2-emission-of-cars-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "midhundasl",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21166,
+  "totalVotes": 80,
+  "totalDownloads": 3794,
+  "title": "CO2 emission of cars dataset",
+  "hasTitle": true,
+  "subtitle": "co2 emission of cars",
+  "hasSubtitle": true,
+  "description": "This dataset contains the co2 emission of different types of cars.The independent feature variables are VOLUME and WEIGHT.This data set can predict the target variable y using linear regression in the most easy way.I have predicted the coefficients and new data prediction which can help you find an alternative target value using this regression model.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "earth and nature",
+    "automobiles and vehicles",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

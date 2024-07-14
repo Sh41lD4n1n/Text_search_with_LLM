@@ -1,0 +1,43 @@
+{
+  "id": "shawkyelgendy/furniture-price-prediction",
+  "id_no": 3143167,
+  "datasetSlugNullable": "furniture-price-prediction",
+  "ownerUserNullable": "shawkyelgendy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Furniture Price Prediction",
+  "subtitleNullable": "Prices of Furniture collected from Jumia ",
+  "descriptionNullable": "## Abstract\ud83d\udca1\n* The dataset contains detailed information about various types of furniture and information about furniture prices sold \non Jumia.com\nI wanted to create this dataset so that all the data scientists out there could easily use this in their projects. I wrote an automated script to scrape new data so that I could keep the dataset up to date.\n\n## About this dataset \ud83d\udced\nThis dataset contains 2000 rows of listings for data analyst and machine learning positions, with features such as:\n\n- Furniture: It has the furniture name\n- Type: It has the type of furniture\n- Url: It has the link to the furniture page\n- Rate: It has the rate of furniture\nnote ==&gt; 0 means that the furniture is not rated\n- Delivery: It has the price of delivery to a house\n- Sale: It has the percentage of discounts on furniture\n- Price: It has the price of furniture\n\n\n## Goal of creating this Dataset\ud83c\udfaf\n\n* It can analyze the data and do exploratory data analysis. \n*  It would also be nice if we could create Data Dashboards with the help of software like Tableau and Power BI.\n* It can create machine learning models to better identify trends in furniture prices.",
+  "datasetId": 3143167,
+  "datasetSlug": "furniture-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "shawkyelgendy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18732,
+  "totalVotes": 48,
+  "totalDownloads": 2811,
+  "title": "Furniture Price Prediction",
+  "hasTitle": true,
+  "subtitle": "Prices of Furniture collected from Jumia ",
+  "hasSubtitle": true,
+  "description": "## Abstract\ud83d\udca1\n* The dataset contains detailed information about various types of furniture and information about furniture prices sold \non Jumia.com\nI wanted to create this dataset so that all the data scientists out there could easily use this in their projects. I wrote an automated script to scrape new data so that I could keep the dataset up to date.\n\n## About this dataset \ud83d\udced\nThis dataset contains 2000 rows of listings for data analyst and machine learning positions, with features such as:\n\n- Furniture: It has the furniture name\n- Type: It has the type of furniture\n- Url: It has the link to the furniture page\n- Rate: It has the rate of furniture\nnote ==&gt; 0 means that the furniture is not rated\n- Delivery: It has the price of delivery to a house\n- Sale: It has the percentage of discounts on furniture\n- Price: It has the price of furniture\n\n\n## Goal of creating this Dataset\ud83c\udfaf\n\n* It can analyze the data and do exploratory data analysis. \n*  It would also be nice if we could create Data Dashboards with the help of software like Tableau and Power BI.\n* It can create machine learning models to better identify trends in furniture prices.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "data analytics",
+    "regression",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
